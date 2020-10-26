@@ -8,7 +8,7 @@ Analyzing linguistic data from the Hebrew Bible in conjunction with Gesenius. Th
 
 Cambridge Semitics Lab strives to promote open science and open access wherever possible. Unfortunately, not all of the data we rely on in this repository is open. We acknowledge that this situation poses problems for reproducibility, and we commit to switch to open forms of data wherever possible, as soon as possible. 
 
-Despite some data remaining private, we will always publish the scripts used to process that data. These scripts can be found in the `data` directory. Additionaly, all of the analysis of the data is published under `analysis`.
+Despite some data remaining private, we will always publish the scripts used to process that data. These scripts can be found in the `data` directory. Additionally, all of the analysis of the data is published under `analysis`.
 
 The .csv files used for the analyses are stored under two subdirectories:
 
