@@ -12,5 +12,5 @@ Despite some data remaining private, we will always publish the scripts used to 
 
 The .csv files used for the analyses are stored under two subdirectories:
 
-* `data/_private_` - this directory is not pushed to Github as it contains non-open data. This includes translation alignments (NIV, ESV, KJV) from Global Bible Initiative. The LXX data stored here may be accessed separately by by running scripts found in https://github.com/codykingham/CATSS_parsers
+* `data/_private_` - this directory is not pushed to Github as it contains non-open data. This includes translation alignments (NIV, ESV, KJV) from Global Bible Initiative. The LXX data stored here may be accessed separately by running scripts found in https://github.com/codykingham/CATSS_parsers
 * `data/_public_` - open data, including data based on BHSA (http://github.com/etcbc/bhsa)
