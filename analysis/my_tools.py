@@ -1,3 +1,4 @@
+import collections
 from pathlib import Path
 import numpy as np
 import pandas as pd
@@ -61,12 +62,12 @@ class PivotProp:
         # calculate prop table
         self.pr = prop_table(self.ct, sumi=sum_i, divi=div_i)
 
-def pivot_prop(data, index, columns, sum_i, div_i, **pivot_kwargs):
-    """Construct pivot and prop tables at once"""
-    
-
 qatal_datapath = repo_dir.joinpath('data/_private_/verb_data/qatal_dataset.csv')
 qatal_df = pd.read_csv(qatal_datapath, index_col='bhsa_node')
 
-allverb_datapath = repo_dir.joinpath('data/_public_/verb_data/allverb_bhsa.csv')
+PUB_DIR = repo_dir.joinpath('data/_public_')
+allverb_datapath = PUB_DIR.joinpath('verb_data/allverb_bhsa.csv')
 av_df = pd.read_csv(allverb_datapath, index_col='bhsa_node')
+
+av_col_path = PUB_DIR.joinpath('verb_data/xverb_lexcollocations.csv')
+av_col_df = pd.read_csv(av_col_path, index_col='verb_form')
