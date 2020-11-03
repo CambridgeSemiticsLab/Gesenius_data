@@ -12,6 +12,7 @@ plots_dir = repo_dir.joinpath('analysis/plots/qatal')
 
 qatal_datapath = repo_dir.joinpath('data/_private_/verb_data/qatal_dataset.csv')
 qatal_df = pd.read_csv(qatal_datapath, index_col='bhsa_node')
+qatal_dfs = qatal_df[qatal_df.safe] # df data with filtered out parsing errors
 
 PUB_DIR = repo_dir.joinpath('data/_public_')
 allverb_datapath = PUB_DIR.joinpath('verb_data/allverb_bhsa.csv')
@@ -96,7 +97,7 @@ def get_spread(array, n):
     except KeyError:
         return array.iloc[indices]
 
-def show_text(df, col_default=['ref', 'sentence', 'text_full'], cols=[], spread=0):
+def show_text(df, col_default=['ref', 'sentence', 'text_full', 'esv', 'lxx'], cols=[], spread=0):
     """Display text from pandas dataframe in a readable way."""
     original_shape = df.shape
     df = df[col_default + cols]
