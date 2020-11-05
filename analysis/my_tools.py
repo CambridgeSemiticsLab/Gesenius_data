@@ -1,4 +1,5 @@
 import collections
+import gspread # for pushing to Google drive
 from pathlib import Path
 import numpy as np
 import pandas as pd
@@ -9,6 +10,7 @@ from stats import significance as my_stats
 repo_dir = Path.home().joinpath('github/CambridgeSemiticsLab/Gesenius_data')
 private_dir = repo_dir.joinpath('data/_private_')
 plots_dir = repo_dir.joinpath('analysis/plots/qatal')
+google_fid = private_dir.joinpath('keys/drive_folder.txt').read_text()
 
 qatal_datapath = repo_dir.joinpath('data/_private_/verb_data/qatal_dataset.csv')
 qatal_df = pd.read_csv(qatal_datapath, index_col='bhsa_node')
