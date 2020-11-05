@@ -7,6 +7,9 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from stats import significance as my_stats
 
+# set pandas display settings
+pd.set_option('display.max_columns', 0) # show unlimited columns
+
 repo_dir = Path.home().joinpath('github/CambridgeSemiticsLab/Gesenius_data')
 private_dir = repo_dir.joinpath('data/_private_')
 plots_dir = repo_dir.joinpath('analysis/plots/qatal')
@@ -64,16 +67,23 @@ def prop_table(count_data, sumi=1, divi=0):
 
 class PivotProp:
     """Construct counts and proportion tables and store as class attribs"""
-    def __init__(self, data, index, columns, sum_i=1, div_i=0, **pivot_kwargs):
+    def __init__(self, data, index, columns, sum_i=1, div_i=0, sum_sort=0, **pivot_kwargs):
 
         # calculuate count table
         self.ct = pivot_table(data, index, columns, **pivot_kwargs)
         # sort the ct based on biggest sums
         sort_sums = self.ct.sum().sort_values(ascending=False).index
         self.ct = self.ct[sort_sums]
+        sort_sums2 = self.ct.sum(1).sort_values(ascending=False).index
+        self.ct = self.ct.loc[sort_sums2]
         
-        # calculate prop table
+        # calculate prop table with props across rows
         self.pr = prop_table(self.ct, sumi=sum_i, divi=div_i)
+        # calculate prop table with props across columns (transcribed to rows to distinguish)
+        self.pr2 = prop_table(self.ct.T, sumi=sum_i, divi=div_i)
+        # calculate 1-in-N odds
+        # see https://math.stackexchange.com/q/1469242
+        self.oneN = 1 / self.pr
 
 def pretty_hebrew(val):
     """Render Hebrew in a dataframe."""
