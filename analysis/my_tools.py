@@ -84,6 +84,7 @@ class PivotProp:
         # calculate 1-in-N odds
         # see https://math.stackexchange.com/q/1469242
         self.oneN = 1 / self.pr
+        self.odds = (1 / self.pr) - 1
 
 def pretty_hebrew(val):
     """Render Hebrew in a dataframe."""
