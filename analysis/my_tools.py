@@ -33,8 +33,10 @@ def save_fig(filename):
     filepath = plots_dir.joinpath(filename+'.svg')
     plt.savefig(filepath, format='svg', bbox_inches='tight')
     
-def plot_bar_1D(data_1D, ax, title='', xlabel='', ylabel='', **plot_kwargs):
+def plot_bar_1D(data_1D, ax=None, title='', xlabel='', ylabel='', **plot_kwargs):
     """Make barplot from 1D data to show simple counts."""
+    if not ax:
+        fig, ax = plt.subplots()
     if not {'color', 'cmap', 'edgecolor'} & set(plot_kwargs):
         plot_kwargs.update({'color': 'lightgrey', 'edgecolor':'black'})
     data_1D.plot(kind='bar', ax=ax, **plot_kwargs)
@@ -65,10 +67,39 @@ def prop_table(count_data, sumi=1, divi=0):
     else:
         return count_data.div(count_data.sum(sumi), divi)
 
-class PivotProp:
-    """Construct counts and proportion tables and store as class attribs"""
-    def __init__(self, data, index, columns, sum_i=1, div_i=0, sum_sort=0, **pivot_kwargs):
+def heatmap(df, **kwargs):
+    """Draw seaborne heatmap with custom settings"""
+    default_kwargs = {
+        'center': 1.3,
+        'cmap': sns.diverging_palette(220, 10, as_cmap=True),
+        'square': True,
+        'linewidth': 0.5,
+        'annot': True,
+    }
+    default_kwargs.update(kwargs)
+    sns.heatmap(df, **default_kwargs)
 
+def highlight_max(s):
+    """Highlight max value in a df column."""
+    is_max = s == s.max()
+    return ['color: red' if v else '' for v in is_max]
+    
+def max_highlighter(pr_df):
+    """Show proportion dataframe with highlighting."""
+    display(pr_df.style.apply(highlight_max, 1))
+
+class Analyze:
+    """Run standard analysis on dataset"""
+    def __init__(self, data, index, columns, fishers=True, **pivot_kwargs):
+        """Initialize analysis.
+
+        Args:
+            data: Pandas dataframe of observations
+            index: an index on which to form the pivot table
+            columns: columns for the pivot table
+            fishers: whether to run Fisher's analysis
+            **pivot_kwargs: kwargs for pandas pivot function
+        """
         # calculuate count table
         self.ct = pivot_table(data, index, columns, **pivot_kwargs)
         # sort the ct based on biggest sums
@@ -78,13 +109,42 @@ class PivotProp:
         self.ct = self.ct.loc[sort_sums2]
         
         # calculate prop table with props across rows
-        self.pr = prop_table(self.ct, sumi=sum_i, divi=div_i)
+        self.pr = prop_table(self.ct)
         # calculate prop table with props across columns (transcribed to rows to distinguish)
-        self.pr2 = prop_table(self.ct.T, sumi=sum_i, divi=div_i)
+        self.pr2 = prop_table(self.ct.T)
         # calculate 1-in-N odds
         # see https://math.stackexchange.com/q/1469242
         self.oneN = 1 / self.pr
         self.odds = (1 / self.pr) - 1
+
+        # run Fisher's collocation analysis
+        self.fishers = fishers
+        if fishers:
+            self.fish, self.fish_odds = my_stats.apply_fishers(self.ct, 0, 1)
+         
+    def show(self):
+        """Show results of the analysis"""
+        
+        print('counts:')
+        display(self.ct)
+        print()
+        
+        print('proportions 1:')
+        display(max_highlighter(self.pr))
+        print()
+
+        print('proportions 2:')
+        display(max_highlighter(self.pr2))
+        print()
+
+        if self.fishers:
+            print('Fisher\'s test with log transform:')
+            heatmap(self.fish)
+
+# avoid deprecating old variables
+def PivotProp(*args, **kwargs):
+    return Analyze(*args, fishers=False, **kwargs)
+
 
 def pretty_hebrew(val):
     """Render Hebrew in a dataframe."""
