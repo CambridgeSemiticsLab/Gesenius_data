@@ -1,3 +1,4 @@
+import sys
 import collections
 import gspread # for pushing to Google drive
 from pathlib import Path
@@ -46,19 +47,14 @@ def plot_bar_1D(data_1D, ax=None, title='', xlabel='', ylabel='', **plot_kwargs)
     ax.set_xlabel(xlabel)
     ax.set_ylabel(ylabel)
 
-def pivot_table(data, index, columns, **pivot_kwargs):
+def pivot_table(*pivot_args, **pivot_kwargs):
     """Make a pivot table with standard options"""
     pivot_options = {
         'aggfunc': 'size',
         'fill_value': 0,
     }
     pivot_options.update(pivot_kwargs)
-    return pd.pivot_table(
-        data,
-        index=index,
-        columns=columns,
-        **pivot_options
-    )
+    return pd.pivot_table(*pivot_args, **pivot_options)
 
 def prop_table(count_data, sumi=1, divi=0):
     """Make a prop table from a table of counts"""
@@ -86,11 +82,11 @@ def highlight_max(s):
     
 def max_highlighter(pr_df):
     """Show proportion dataframe with highlighting."""
-    display(pr_df.style.apply(highlight_max, 1))
+    return pr_df.style.apply(highlight_max, 1)
 
 class Analyze:
     """Run standard analysis on dataset"""
-    def __init__(self, data, index, columns, fishers=True, **pivot_kwargs):
+    def __init__(self, *pivot_args, fishers=True, **pivot_kwargs):
         """Initialize analysis.
 
         Args:
@@ -101,10 +97,10 @@ class Analyze:
             **pivot_kwargs: kwargs for pandas pivot function
         """
         # calculuate count table
-        self.ct = pivot_table(data, index, columns, **pivot_kwargs)
+        self.ct = pivot_table(*pivot_args, **pivot_kwargs)
         # sort the ct based on biggest sums
         sort_sums = self.ct.sum().sort_values(ascending=False).index
-        self.ct = self.ct[sort_sums]
+        self.ct = self.ct.loc[:,sort_sums]
         sort_sums2 = self.ct.sum(1).sort_values(ascending=False).index
         self.ct = self.ct.loc[sort_sums2]
         
@@ -139,12 +135,33 @@ class Analyze:
 
         if self.fishers:
             print('Fisher\'s test with log transform:')
-            heatmap(self.fish)
+    
+            # check for inf values for plotting, since these 
+            # cannot be plotted otherwise
+            if np.inf in self.fish.values or -np.inf in self.fish.values:
+                display(self.fish)
+                sys.stderr.write("NB: Fisher's test (+/-)np.inf replaced with 300 for plotting")
+                plotfish = self.fish.replace(np.inf, 300)
+                plotfish = plotfish.replace(-np.inf, -300)
+                heatmap(plotfish.round())
+            else:
+                heatmap(self.fish.round())
+
+class AnalysisSet:
+    """Easily run a set of analyses with results stored as attribs."""
+
+    def __init__(self, *analyze_params):
+        """Initialize and run a bunch of analyses."""
+        print('setting up analyses...')
+        for aparam in analyze_params:
+            an_name, an_args, an_kwargs = aparam
+            setattr(self, an_name, Analyze(*an_args, **an_kwargs))
+        print('\tdone!')
+        
 
 # avoid deprecating old variables
 def PivotProp(*args, **kwargs):
     return Analyze(*args, fishers=False, **kwargs)
-
 
 def pretty_hebrew(val):
     """Render Hebrew in a dataframe."""
