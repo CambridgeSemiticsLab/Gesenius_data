@@ -64,7 +64,7 @@ class Analyze:
         if fishers:
             self.fish, self.fish_odds = sig.apply_fishers(self.ct, 0, 1)
 
-    def show(self):
+    def show(self, restrict=tuple()):
         """Show results of the analysis"""
 
         print('counts:')
