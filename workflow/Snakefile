@@ -1,0 +1,39 @@
+# Snakemake Workflow for Gesenius Data 
+
+configfile: "../config/config.yaml"
+bhsa_packages = ["etcbc/bhsa", "etcbc/genre_synvar", "valence"]
+
+# Need to complete the gitclone rule begun below
+# see: https://github.com/snakemake/snakemake/issues/350
+# rule get_bhsa:
+#     output:
+#         directory(expand("~/github/{package}", package=bhsa_packages))
+#     shell:
+#         """
+#         if [[! -d "{wildcards.package}" ]]; then
+#             git clone https://github.com/{}    
+#         """
+
+rule get_samples:
+    input:
+        "/Users/cody/github/etcbc/bhsa/tf/c"
+    output:
+        directory("../results/samples"),
+        expand("../results/samples/{verb}.json", verb=config["verb_forms"])
+    script:
+        "scripts/bhsa/get_samples.py"
+
+#rule bhsa_tables:
+#    input:
+#        "../results/json/{}", # PUT SAMPLES HERE <-
+#        directory(expand("~/github/{package}/tf/c", package=bhsa_packages))
+#    output:
+#        "../results/csv"
+#    script:
+#        "scripts/build_bhsa_tables.py"
+        
+# rule lxx_tables:
+
+# rule eng_tables:
+
+# rule table_corrections:
