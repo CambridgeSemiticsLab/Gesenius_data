@@ -23,3 +23,23 @@ def get_verbform(node, api):
         return 'wqtl'
         
     return verb_form
+
+def get_cl_verbform(clause, api):
+    """Tag a verbform for a supplied clause."""
+
+    F, L = api.F, api.L
+
+    # retrieve a list of verb candidates
+    verb_cands = [word for word in L.d(clause, 'word')
+                     if F.pdp.v(word) == 'verb']
+    
+    # filter out non-predicative participles
+    if len(verb_cands) > 1:
+        verb_cands = [word for word in verb_cands
+                         if F.vt.v(word) not in {'ptcp', 'ptca'}]
+        
+    # return appropriate tag
+    if verb_cands:
+        return get_verbform(verb_cands[0], api)    
+    else:
+        return 'Ø'
