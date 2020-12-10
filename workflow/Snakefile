@@ -1,7 +1,10 @@
 # Snakemake Workflow for Gesenius Data 
+# see https://snakemake.readthedocs.io
 
 configfile: "../config/config.yaml"
 bhsa_packages = ["etcbc/bhsa", "etcbc/genre_synvar", "etcbc/valence"]
+
+# -- clone necessary data -- 
 
 # Need to complete the gitclone rule begun below
 # see: https://github.com/snakemake/snakemake/issues/350
@@ -14,6 +17,8 @@ bhsa_packages = ["etcbc/bhsa", "etcbc/genre_synvar", "etcbc/valence"]
 #             git clone https://github.com/{}    
 #         """
 
+# -- generate samples --
+
 rule get_samples:
     input:
         "/Users/cody/github/etcbc/bhsa/tf/c"
@@ -23,22 +28,42 @@ rule get_samples:
     script:
         "scripts/bhsa/get_samples.py"
 
+# -- build csv tables --
+
+csv_dir = "../results/csv"
 bhsa_script="scripts/bhsa/build_bhsa_tables.py"
 rule bhsa_tables:
     input:
         samples=expand("../results/samples/{verb}.json", verb=config["verb_forms"]),
         tf_mods=expand("/Users/cody/github/{package}/tf/c", package=bhsa_packages),
-        script=bhsa_script
-    params:
-        outdir="../results/csv"
+        scr=bhsa_script
     output:
         "../results/csv/{verb}/bhsa.csv",
         "../results/csv/{verb}/bhsa_clrela.csv",
     script:
         bhsa_script
 
-# rule lxx_tables:
+eng_script="scripts/english/build_eng_tables.py"
+rule eng_tables:
+    input:
+        samples=expand("../results/samples/{verb}.json", verb=config["verb_forms"]),
+        esv="_private_/verb_data/bhsa2esv.json",
+        niv="_private_/verb_data/bhsa2niv.json",
+        txt="_private_/GBI_alignment/verse2text.json",
+        scr=eng_script
+    output: 
+        "../results/csv/{verb}/eng.csv",
+        "../results/csv/{verb}/eng_text.csv"
+    script:
+        eng_script
 
-# rule eng_tables:
-
-# rule table_corrections:
+lxx_script = "scripts/lxx/build_lxx_tables.py"
+rule lxx_tables:
+    input:
+        samples=expand("../results/samples/{verb}.json", verb=config["verb_forms"]),
+        lxx="_private_/verb_data/bhsa2lxx.json",
+        scr=lxx_script
+    output:
+        "../results/csv/{verb}/lxx.csv"
+    script:
+        lxx_script

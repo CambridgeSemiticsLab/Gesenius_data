@@ -8,6 +8,7 @@ from verb_form import get_verbform, get_cl_verbform
 from modify_domain import permissive_q
 from synvar_carc import in_dep_calc as clause_relator
 from modify_cltype import simplify_cl_type
+from build_tables import build_sample_tables
 
 # fire up Text-Fabric with BHSA data
 TF = Fabric(snakemake.input['tf_mods'], silent='deep')
@@ -145,31 +146,10 @@ def clrela_row(node):
 
     return row_data
 
-# tables to make with their matched
-# row-building functions
-table_builds = {
-    'bhsa': main_row,
-    'bhsa_clrela': clrela_row,
-}
+rowmakers = [main_row, clrela_row]
 
-# iterate through all samples and build up the data
-for samp_set in snakemake.input['samples']:
-
-    set_file = Path(samp_set)    
-    verb_form = set_file.stem
-    nodes = sorted(json.loads(set_file.read_text()))
-    table_data = collections.defaultdict(list)
-
-    for node in nodes:
-        for table, row_getter in table_builds.items(): 
-            table_data[table].append(row_getter(node)) 
-
-    # make the exports
-    outdir = Path(snakemake.params.outdir)
-    for table, rows in table_data.items():
-        file = outdir.joinpath(f'{verb_form}/{table}.csv')
-        with open(file, 'w') as outfile:
-            header = rows[0].keys()
-            writer = csv.DictWriter(outfile, header)
-            writer.writeheader()
-            writer.writerows(rows)
+build_sample_tables(
+    rowmakers,
+    snakemake.input.samples,
+    snakemake.output
+)
