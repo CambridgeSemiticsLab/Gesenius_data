@@ -4,6 +4,7 @@ _private_
 # system files -CK
 .DS_Store
 *.swp
+.snakemake
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
