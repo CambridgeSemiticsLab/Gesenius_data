@@ -5,6 +5,7 @@ _private_
 .DS_Store
 *.swp
 .snakemake
+.snakemake_timestamp
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
