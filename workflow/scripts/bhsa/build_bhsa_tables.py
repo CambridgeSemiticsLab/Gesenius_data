@@ -9,6 +9,7 @@ from verb_form import get_verbform, get_cl_verbform
 from modify_domain import permissive_q
 from synvar_carc import in_dep_calc as clause_relator
 from modify_cltype import simplify_cl_type
+from tag_args import clause_objects, get_loca_assocs, clause_locas
 
 # NB that working directory when script is executed is 
 # /workflow; because we have some utilities that we want
@@ -25,11 +26,15 @@ function number label
 typ code rela mother domain txt 
 genre
 sense
+nhead
+funct_assoc
 """
 bhsa = TF.load(features, silent='deep')
 F, E, T, L, Fs, = bhsa.F, bhsa.E, bhsa.T, bhsa.L, bhsa.Fs
 
+# preprocess data
 bookmap = get_book_maps(bhsa)
+loca_lexs = get_loca_assocs(bhsa)
 
 def join_on(nodes, jchar='_', default=''):
     """Join words on a char and ensure they are pre/appended with that char.
@@ -106,6 +111,17 @@ def main_row(node):
             'prec_pos': prec_pos,
             'prec_part': prec_particles,
     }
+
+    # provide clause argument data
+    # objects
+    row_data.update(
+        clause_objects(node, clause_atom, clause, bhsa)
+    )
+    # locatives
+    row_data.update(
+        clause_locas(node, loca_lexs, bhsa)
+    )
+
     return row_data 
 
 def nearby_clatom_data(clatom_lookup):
