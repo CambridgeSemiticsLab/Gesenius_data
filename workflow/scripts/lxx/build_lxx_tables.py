@@ -2,8 +2,14 @@
 Build LXX data.
 """
 
+import sys
 import json
 from pathlib import Path
+
+# NB that working directory when script is executed is 
+# /workflow; because we have some utilities that we want
+# to run from above directory, we need to append it to path
+sys.path.append('scripts')
 from build_tables import build_sample_tables
 
 bhsa2lxx = json.loads(Path(snakemake.input.lxx).read_text())

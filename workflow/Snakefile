@@ -38,8 +38,8 @@ rule bhsa_tables:
         tf_mods=expand("/Users/cody/github/{package}/tf/c", package=bhsa_packages),
         scr=bhsa_script
     output:
-        "../results/csv/{verb}/bhsa.csv",
-        "../results/csv/{verb}/bhsa_clrela.csv",
+        bhsa=temp(expand("../results/csv/{verb}/_bhsa_.csv", verb=config["verb_forms"])),
+        bhsa_clrela=temp(expand("../results/csv/{verb}/_bhsa_clrela_.csv",verb=config["verb_forms"])),
     script:
         bhsa_script
 
@@ -52,8 +52,8 @@ rule eng_tables:
         txt="_private_/GBI_alignment/verse2text.json",
         scr=eng_script
     output: 
-        "../results/csv/{verb}/eng.csv",
-        "../results/csv/{verb}/eng_text.csv"
+        eng=temp(expand("../results/csv/{verb}/_eng_.csv", verb=config["verb_forms"])),
+        eng_text=temp(expand("../results/csv/{verb}/_eng_text_.csv", verb=config["verb_forms"]))
     script:
         eng_script
 
@@ -64,6 +64,27 @@ rule lxx_tables:
         lxx="_private_/verb_data/bhsa2lxx.json",
         scr=lxx_script
     output:
-        "../results/csv/{verb}/lxx.csv"
+        lxx=temp(expand("../results/csv/{verb}/_lxx_.csv", verb=config["verb_forms"])),
     script:
         lxx_script
+
+# apply some filters to the tables
+qtl_loc = "../results/csv/qtl/"
+qtl_corr_scr = "scripts/correct_qtl.py"
+rule correct_qtl:
+    input:
+        qtl_corr_scr,
+        bhsa=qtl_loc+"_bhsa_.csv",
+        bhsa_clrela=qtl_loc+"_bhsa_clrela_.csv",
+        eng=qtl_loc+"_eng_.csv",
+        eng_text=qtl_loc+"_eng_text_.csv",
+        lxx=qtl_loc+"_lxx_.csv"
+    output:
+        bhsa=qtl_loc+"bhsa.csv",
+        bhsa_clrela=qtl_loc+"bhsa_clrela.csv",
+        eng=qtl_loc+"eng.csv",
+        eng_text=qtl_loc+"eng_text.csv",
+        lxx=qtl_loc+"lxx.csv"
+    script:
+        qtl_corr_scr
+

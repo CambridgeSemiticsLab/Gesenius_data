@@ -3,10 +3,16 @@ Build data rows for tables using English
 translation data.
 """
 
+import sys
 import json
 import itertools
 from pathlib import Path
 from modify_tense_tag import split_TAM
+
+# NB that working directory when script is executed is 
+# /workflow; because we have some utilities that we want
+# to run from above directory, we need to append it to path
+sys.path.append('scripts')
 from build_tables import build_sample_tables
 
 # load up the translation data

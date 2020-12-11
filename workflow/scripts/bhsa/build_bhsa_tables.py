@@ -1,3 +1,4 @@
+import sys
 import csv
 import json
 import collections
@@ -8,6 +9,11 @@ from verb_form import get_verbform, get_cl_verbform
 from modify_domain import permissive_q
 from synvar_carc import in_dep_calc as clause_relator
 from modify_cltype import simplify_cl_type
+
+# NB that working directory when script is executed is 
+# /workflow; because we have some utilities that we want
+# to run from above directory, we need to append it to path
+sys.path.append('scripts')
 from build_tables import build_sample_tables
 
 # fire up Text-Fabric with BHSA data
