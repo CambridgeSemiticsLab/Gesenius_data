@@ -6,11 +6,20 @@ Analyzing linguistic data from the Hebrew Bible in conjunction with Gesenius. Th
 
 ## Directory Structure and Data
 
-Cambridge Semitics Lab strives to promote open science and open access wherever possible. Unfortunately, not all of the data we rely on in this repository is open. We acknowledge that this situation poses problems for reproducibility, and we commit to switch to open forms of data wherever possible, as soon as possible. 
+Analysis and data-production pipeline occurs in `workflow` and is output to `results`. 
 
-Despite some data remaining private, we will always publish the scripts used to process that data. These scripts can be found in the `data` directory. Additionally, all of the analysis of the data is published under `analysis`.
+This project uses [Snakemake](https://snakemake.readthedocs.io) for the pipeline. 
 
-The .csv files used for the analyses are stored under two subdirectories:
+## License
 
-* `data/_private_` - this directory is not pushed to Github as it contains non-open data. This includes translation alignments (NIV, ESV, KJV) from Global Bible Initiative. The LXX data stored here may be accessed separately by running scripts found in https://github.com/codykingham/CATSS_parsers
-* `data/_public_` - open data, including data based on BHSA (http://github.com/etcbc/bhsa)
+All data which is crucial for the analysis is stored openly (MIT license) in `results/csv`. The alignment data
+and the English translations are not themselves open-source and thus cannot be released. However,
+we do release the data derived from those sources secondarily. For English alignments, we provide
+a link between a BHSA node [from Text-Fabric](https://github.com/etcbc/bhsa/_master_/tf/c) and a 
+given tense-tagging, which has been composed using a mixture of Spacy and manually input rules. Thus
+we cannot provide the English string, e.g. ברא = "he created" (ESV), but we can provide the tense tag 
+which is the only thing that is crucial for the analysis anyways, e.g. ברא = "simple past" (ESV).
+The LXX data is under its own license, coming from the CATSS project. We only provide a small subset
+here. The full dataset can be found at http://ccat.sas.upenn.edu/gopher/text/religion/biblical/parallel/.
+
+As with any academic work, please cite when using this repository.
