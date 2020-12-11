@@ -2,7 +2,14 @@
 # see https://snakemake.readthedocs.io
 
 configfile: "../config/config.yaml"
-bhsa_packages = ["etcbc/bhsa", "etcbc/genre_synvar", "etcbc/valence"]
+tf_modules = [
+    # order strategically to set priorities for features
+    "/Users/cody/github/CambridgeSemiticsLab/time_collocations/data/bhsa/tf", 
+    "/Users/cody/github/etcbc/bhsa/tf/c", 
+    "/Users/cody/github/etcbc/genre_synvar/tf/c", 
+    "/Users/cody/github/etcbc/valence/tf/c",
+    "/Users/cody/github/etcbc/heads/tf/c",
+]
 
 # -- clone necessary data -- 
 
@@ -35,7 +42,7 @@ bhsa_script="scripts/bhsa/build_bhsa_tables.py"
 rule bhsa_tables:
     input:
         samples=expand("../results/samples/{verb}.json", verb=config["verb_forms"]),
-        tf_mods=expand("/Users/cody/github/{package}/tf/c", package=bhsa_packages),
+        tf_mods=tf_modules,
         scr=bhsa_script
     output:
         bhsa=temp(expand("../results/csv/{verb}/_bhsa_.csv", verb=config["verb_forms"])),
