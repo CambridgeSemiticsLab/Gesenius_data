@@ -12,9 +12,10 @@ This project uses [Snakemake](https://snakemake.readthedocs.io) for the pipeline
 
 ## License
 
-All data which is crucial for the analysis is stored openly (MIT license) in `results/csv`. The alignment data
-and the English translations are not themselves open-source and thus cannot be released. However,
-we do release the data derived from those sources secondarily. For English alignments, we provide
+All data which is crucial for the analysis is stored openly (MIT license) in `results/csv`. All of the Hebrew 
+Bible data is derived from the ETCBC's [BHSA](https://github.com/etcbc/bhsa), which is undera CC-BY-NC 4.0 license.
+The English alignment data and the translation themselves are not themselves open-source and thus cannot be released. 
+However, we do release the data derived from those sources secondarily. For English alignments, we provide
 a link between a BHSA node [from Text-Fabric](https://github.com/etcbc/bhsa/_master_/tf/c) and a 
 given tense-tagging, which has been composed using a mixture of Spacy and manually input rules. Thus
 we cannot provide the English string, e.g. ברא = "he created" (ESV), but we can provide the tense tag 
