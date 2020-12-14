@@ -2,7 +2,7 @@
 
 <a href="https://www.ames.cam.ac.uk"><img src="https://github.com/CambridgeSemiticsLab/nena_tf/blob/master/docs/images/CambridgeU_color.jpg" width="236" height="49"></a>
 
-Analyzing linguistic data from the Hebrew Bible in conjunction with Gesenius. The purpose of the repository is to produce datasets used for the ongoing project to revise Gesenius, led by Prof. Geoffrey Khan.
+Analyzing linguistic data from the Hebrew Bible in conjunction with Gesenius. The purpose of the repository is to produce datasets and analysis for the Oxford Grammar of Biblical Hebrew project lead by Professor Geoffrey Khan.
 
 ## Directory Structure and Data
 
