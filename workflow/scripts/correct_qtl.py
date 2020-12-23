@@ -55,6 +55,7 @@ bad_irrealis = bhsa[
     & (~lxx.lxx_tm.str.match('.*(future|impv)', na=False))
 ].index
 
+
 not_safe = [bad_past_esv, bad_past_niv, bad_irrealis, impv_cases]
 not_safe_nodes = set(n for iset in not_safe for n in iset)
 

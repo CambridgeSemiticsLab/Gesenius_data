@@ -27,6 +27,32 @@ def get_word(node, default={}):
     niv_word = bhsa2niv.get(str_node, {})
     return [('esv', esv_word), ('niv', niv_word)]
 
+def compare_transs(tdata):
+    """Compare translation words and return data."""
+
+    data = {
+        'eng_fullparse': False,
+        'eng_TAM': '',
+        'eng_agree': False,
+    }
+
+    # add features based on both translations
+    niv_tam, esv_tam = tdata['niv_TAM'], tdata['esv_TAM']
+    if niv_tam and esv_tam:
+        data['eng_fullparse'] = True
+        
+        # record interchanges of TAM categories between ESV and NIV where the disagree
+        if niv_tam != esv_tam:
+            eng_tam = sorted([niv_tam, esv_tam])
+            data['eng_TAM'] = ' ~ '.join(eng_tam)
+
+        # record cases of agreement
+        else:
+            data['eng_TAM'] = niv_tam
+            data['eng_agree'] = True
+
+    return data
+
 def build_data_row(node):
     """Build a row for the translations tables"""
     
@@ -42,6 +68,9 @@ def build_data_row(node):
             tam_key = f'{trans}_{tam_key}'
             row_data[tam_key] = tam_data
         
+    # add features based on comparisons between translations
+    row_data.update(compare_transs(row_data))
+
     return row_data       
 
 def build_text_row(node):

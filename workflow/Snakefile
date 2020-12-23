@@ -24,6 +24,22 @@ tf_modules = [
 #             git clone https://github.com/{}    
 #         """
 
+# -- parse english data --
+#GBI_datadir = "_private_/GBI_alignment/"
+#rule parse_english_raw:
+#    input:
+#        niv_data=GBI_datadir+"niv84.ot.alignment.json",
+#        esv_data=GBI_datadir+"esv.ot.alignment.json", 
+#        bhsa_links=GBI_datadir+"bhsa2gbi.json"
+#    output:
+#        esv="_private_/verb_data/bhsa2esv.json",
+#        niv="_private_/verb_data/bhsa2niv.json",
+#        txt="_private_/GBI_alignment/verse2text.json",
+#    script:
+#        "scripts/english/parse/parse_english.py"
+#
+#        rule parse_english:
+
 # -- generate samples --
 
 rule get_samples:
@@ -37,19 +53,21 @@ rule get_samples:
 
 # -- build csv tables --
 
+# - BHSA -
 csv_dir = "../results/csv"
 bhsa_script="scripts/bhsa/build_bhsa_tables.py"
 rule bhsa_tables:
     input:
         samples=expand("../results/samples/{verb}.json", verb=config["verb_forms"]),
         tf_mods=tf_modules,
-        scr=bhsa_script
+        script=bhsa_script
     output:
         bhsa=temp(expand("../results/csv/{verb}/_bhsa_.csv", verb=config["verb_forms"])),
         bhsa_clrela=temp(expand("../results/csv/{verb}/_bhsa_clrela_.csv",verb=config["verb_forms"])),
     script:
         bhsa_script
 
+# - English -
 eng_script="scripts/english/build_eng_tables.py"
 rule eng_tables:
     input:
@@ -57,19 +75,20 @@ rule eng_tables:
         esv="_private_/verb_data/bhsa2esv.json",
         niv="_private_/verb_data/bhsa2niv.json",
         txt="_private_/GBI_alignment/verse2text.json",
-        scr=eng_script
+        script=eng_script
     output: 
         eng=temp(expand("../results/csv/{verb}/_eng_.csv", verb=config["verb_forms"])),
         eng_text=temp(expand("../results/csv/{verb}/_eng_text_.csv", verb=config["verb_forms"]))
     script:
         eng_script
 
+# - LXX -
 lxx_script = "scripts/lxx/build_lxx_tables.py"
 rule lxx_tables:
     input:
         samples=expand("../results/samples/{verb}.json", verb=config["verb_forms"]),
         lxx="_private_/verb_data/bhsa2lxx.json",
-        scr=lxx_script
+        script=lxx_script
     output:
         lxx=temp(expand("../results/csv/{verb}/_lxx_.csv", verb=config["verb_forms"])),
     script:
@@ -95,3 +114,13 @@ rule correct_qtl:
     script:
         qtl_corr_scr
 
+# run correlation analyses
+qtl_analysis = "scripts/analysis/qtl/contexts.py"
+rule analyze_qtl:
+    input:
+        data_dir=qtl_loc,
+        script=qtl_analysis
+    output:
+        directory("../results/qtl")
+    script:
+        qtl_analysis
