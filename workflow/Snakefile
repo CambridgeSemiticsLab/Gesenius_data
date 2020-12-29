@@ -94,7 +94,7 @@ rule lxx_tables:
     script:
         lxx_script
 
-# apply some filters to the tables
+# - apply some correction filters to the tables - 
 qtl_loc = "../results/csv/qtl/"
 qtl_corr_scr = "scripts/correct_qtl.py"
 rule correct_qtl:
@@ -114,13 +114,26 @@ rule correct_qtl:
     script:
         qtl_corr_scr
 
-# run correlation analyses
-qtl_analysis = "scripts/analysis/qtl/contexts.py"
+# - run correlation analyses for qatal - 
+qtl_analysis = "scripts/analysis/qtl/associations.py"
 rule analyze_qtl:
     input:
         data_dir=qtl_loc,
-        script=qtl_analysis
+        analyzers="scripts/analysis/analysis.py",
+        script=qtl_analysis,
     output:
-        directory("../results/qtl")
+        dir=directory("../results/qtl/csv")
     script:
         qtl_analysis
+
+qtl_vis="scripts/analysis/qtl/visualize.py"
+rule visualize_qtl:
+    input:
+        results=rules.analyze_qtl.output.dir,
+        visualizers="scripts/analysis/analysis_vis.py",
+        script=qtl_vis,
+        tablestyles="html/tables.css",
+    output:
+        dir=directory("../results/qtl/html")
+    script:
+        qtl_vis 

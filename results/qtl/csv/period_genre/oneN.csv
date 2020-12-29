@@ -1,0 +1,16 @@
+period,SBH,LBH,SBH,LBH,SBH
+genre,prose,prose,poetry,poetry,prophetic
+eng_TAM,,,,,
+PAST..IND,1.35,4.64,32.86,86.1,1248.5
+PRES.PERF.IND,1.23,6.18,84.0,168.0,168.0
+PAST.PERF.IND,1.4,3.61,159.0,318.0,inf
+PRES..IND,1.25,6.46,29.08,174.5,174.5
+PRES..MOD,1.32,4.62,37.0,inf,inf
+PAST..SUBJ,1.19,6.17,inf,inf,inf
+PAST.PROG.IND,1.22,5.5,inf,inf,inf
+FUT..IND,1.22,5.5,inf,inf,inf
+PRES.PROG.IND,1.43,3.33,inf,inf,inf
+PRES..,1.0,inf,inf,inf,inf
+past.PERF_PROG.IND,2.0,2.0,inf,inf,inf
+PRES.PERF_PROG.IND,1.0,inf,inf,inf,inf
+..,1.0,inf,inf,inf,inf

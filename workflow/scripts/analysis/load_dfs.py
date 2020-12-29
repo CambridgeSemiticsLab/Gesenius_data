@@ -80,11 +80,11 @@ class DfLoader:
     @get_df
     def esv(self):
         df = self.df_safe()
-        df = df[df.esv_TAM]
+        df = df[df.esv_TAM.str.match('.*', na=False)]
         return df
 
     @get_df
     def niv(self):
         df = self.df_safe()
-        df = df[df.niv_TAM]
+        df = df[df.niv_TAM.str.match('.*', na=False)]
         return df

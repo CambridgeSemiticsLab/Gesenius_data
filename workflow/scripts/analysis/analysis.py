@@ -3,12 +3,11 @@ This module contains code used
 for analyzing collocational
 tendencies of given constructions.
 """
-import sys
+
+import json
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from df_styles import max_highlighter
-from plotting import heatmap
 from stats import significance as sig
 from pathlib import Path
 
@@ -62,27 +61,17 @@ class Analyze:
 
         # run Fisher's collocation analysis
         if fishers:
-            self.fishers, self.fishers_odds = sig.apply_fishers(self.count, 0, 1)
+            self.fishers, self.odds_fishers = sig.apply_fishers(self.count, 0, 1)
 
-def plot_fishers(fishers_data):
-    """Plot Fisher's exact correlation scores with a heatmap."""
+def get_table_headers(df):
+    """Identify table headers by indices and store in a dictionary."""
+    get_indices = lambda axis: [int(i) for i in np.arange(0, axis.nlevels)]
+    return {
+        'index_col': get_indices(df.index),
+        'header': get_indices(df.columns)
+    }
 
-    # check for inf values for plotting, since these 
-    # cannot be plotted otherwise
-    if np.inf in fishers_data.values or -np.inf in fishers_data.values:
-        msg = "NB: Fisher's test (+/-)np.inf replaced with 300 for plotting"
-        plotfish = fishers_data.replace(np.inf, 300)
-        plotfish = plotfish.replace(-np.inf, -300)
-        heatmap(plotfish.round())
-        plt.title(msg)
-    else:
-        heatmap(fishers_data.round())
-
-def export_table(df, filename, styles):
-    """Export a table of data to HTML."""    
-    df.to_html(filename)
-
-def run_analysis(params, outdir):
+def run_analysis(params, outdir, round=2, table_headers={}):
     """Execute an analysis with specified parameters"""
 
     do_fishers = params.get('fishers', True),
@@ -102,11 +91,26 @@ def run_analysis(params, outdir):
 
     # export the data tables
     for name, df in analysis.__dict__.items():
-        outfile = outdir.joinpath(f'{name}.html')
-        export_table(df, outfile, params.get('table_styles', {}))
+        outfile = outdir.joinpath(f'{name}.csv')
+        df = df.round(round)
+        table_headers[name] = get_table_headers(df) # save table header params
+        df.to_csv(str(outfile), index=True)
 
-    # export the graphs
-    if do_fishers:
-        outfile = outdir.joinpath('fishers_heatmap.svg')
-        plot_fishers(analysis.fishers)
-        plt.savefig(outfile, bbox_inches='tight', format='svg')
+def run_analyses(analysis_params, out_dir):
+    """Execute a set of analyses."""
+
+    out_dir = Path(out_dir)
+
+    # run all of the analyses in a loop
+    for analysis in analysis_params:
+
+        # track parameters for the tables
+        tableheaders = {}  
+
+        # run analysis and produce tables
+        run_analysis(analysis, out_dir, table_headers=tableheaders)
+
+        # save table parameters in the analysis directory
+        headersfile = out_dir.joinpath(analysis['name']).joinpath('table_headers.json')
+        with open(headersfile, 'w') as outfile:
+            json.dump(tableheaders, outfile)
