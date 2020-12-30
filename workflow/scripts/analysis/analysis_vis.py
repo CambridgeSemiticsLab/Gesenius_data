@@ -1,3 +1,5 @@
+import os
+import json
 import collections
 import pandas as pd
 import numpy as np
@@ -97,3 +99,48 @@ def visualize_analysis(analysis_dir, output_dir, table_headers, tablestyles=''):
             outfile = outdir.joinpath('fishers_heatmap.svg')
             plot_fishers(df, title=analysis_dir.name)
             plt.savefig(outfile, bbox_inches='tight', format='svg')
+
+def compile_menu_items(dir, html_lines, level=0, base_dir=None):
+    """Recursively compile analyses to match directory structures.."""
+    for item in sorted(dir.glob('*')):
+        indent = '&nbsp;'* 8 * level
+        link = f'<a href="{item.relative_to(base_dir)}" target="_blank">{item.stem}</a>'
+        html_lines.append(f'{indent}{link}')
+        if item.is_dir():
+            compile_menu_items(item, html_lines, level=level+1, base_dir=base_dir)
+
+def make_html_menu(out_dir):
+    """Build a menu to quickly access analyzed results."""
+    html_lines = []
+    compile_menu_items(out_dir, html_lines, base_dir=out_dir)
+    menu_html = '<html>{data}</html>'.format(data='\n<br>'.join(html_lines))
+    out_dir.joinpath('menu.html').write_text(menu_html)
+
+def visualize_analyses(input_dir, output_dir, table_styles):
+    """Visualize a set of analyses."""
+
+    # identify analyses by folder name, get their csv files
+    # as a dataframe and output the data to HTML and SVG files 
+    for analysis_path in Path(input_dir).glob('*'):
+
+        # skip non-directory paths
+        if not analysis_path.is_dir():
+            continue
+
+        # feed the analysis path into the visualizer which will
+        # automatically identify the csv files as data to be visualized
+        tablestyles = f'../{Path(table_styles).name}'
+        tableheaders = json.loads(analysis_path.joinpath('table_headers.json').read_text())
+        visualize_analysis(
+            analysis_path, 
+            output_dir,
+            tableheaders,
+            tablestyles=tablestyles
+        )
+
+    # construct an html menu
+    make_html_menu(Path(output_dir))
+
+    # copy the stylesheet into the analysis directory
+    os.system(f"cp {table_styles} {output_dir}/.")
+
