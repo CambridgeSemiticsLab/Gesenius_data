@@ -75,7 +75,20 @@ def highlight_max(s):
     """Highlight max value in a df column."""
     is_max = s == s.max()
     return ['color: red' if v else '' for v in is_max]
-    
-def max_highlighter(pr_df):
+
+def highlight_sig(s, sig_up=1.3, sig_down=-1.3):
+    """Highlights values of significance (Fishers > or <  1.3)"""
+    if s > sig_up:
+        color = 'red'
+    elif sig_down and s < sig_down:
+        color = 'blue'
+    else:
+        color = ''
+    return f'color: {color}'
+
+def df_highlighter(pr_df, rule='max'):
     """Show proportion dataframe with highlighting."""
-    return pr_df.style.apply(highlight_max, 1)
+    if rule == 'max':
+        return pr_df.style.apply(highlight_max, 1)
+    elif rule == 'fishers':
+        return pr_df.style.applymap(highlight_sig)

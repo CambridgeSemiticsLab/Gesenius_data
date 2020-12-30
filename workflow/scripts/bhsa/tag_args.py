@@ -2,6 +2,8 @@
 Tag clause arguments
 """
 
+import re
+
 def clause_objects(verb, clause_atom, clause, api):
     """Search a given clause for any marked objects."""
     
@@ -105,3 +107,93 @@ def clause_locas(verb, loca_lexs, api):
 
     return data
 
+# -- Tag Arguments in General -- 
+
+def tag_ph_arg(ph, api):
+    """Tag various phrase arguments of interest."""
+    F, E, L, T = api.F, api.E, api.L, api.T
+    function2tag = {
+        'Objc': 'O',
+        'Ques': 'Q',
+        'Rela': 'R',
+        'Subj': 'S',
+        'Cmpl': 'C',
+        'Adju': 'A',
+        'Time': 'A',
+        'Loca': 'A',
+        'Modi': 'A',
+        'Intj': 'I',
+        'PreO': 'VO',
+        'PtcO': 'VO',
+    }
+    function = F.function.v(ph)
+    if function in function2tag:
+        return function2tag[function]
+
+def tag_word_arg(word, api):
+    """Tag various word arguments of interest."""
+    F = api.F
+    pdp_set = {'conj'}
+    tag = ''
+    if F.pdp.v(word) in pdp_set:
+        tag += f'_{F.lex.v(word)}_'
+    elif F.pdp.v(word) == 'verb':
+        tag += 'V'
+    return tag 
+
+def tag_cl_arg(cl, api):
+    """Tag various daughter clause arguments of interest."""
+    F = api.F
+    if F.rela.v(cl) ==  'Objc':
+        return 'O'
+
+def get_args(node, slot_getter, arg_getter, covered_slots, api):
+    """Get args by running arg_getter function and add to a list."""
+
+    L = api.L
+    arg_tag = arg_getter(node, api)
+    slots = slot_getter(node)
+
+    # skip non-tagged elements or covered elements
+    if not arg_tag or set(slots) & covered_slots:
+        return []
+    # return listed element with tag and slots
+    else:
+        for slot in slots:
+            covered_slots.add(slot)
+        return [(slots, arg_tag)] 
+
+def clause_args(verb, api):
+    """Tag key clause arguments."""
+    
+    F, E, L = api.F, api.E, api.L
+
+    clause = L.u(verb, 'clause')[0]
+    clause_atom = L.u(verb, 'clause_atom')[0]
+    cl_phrases = L.d(clause, 'phrase')
+    cl_words = L.d(clause, 'word')
+    cl_daughts = E.mother.t(clause_atom)
+    
+    # add any of three different types of objects;
+    # priority is determined by order, so e.g. a phrase takes
+    # priority over a word in this case
+    args = []
+    covered_slots = set()
+    slots_node = lambda node: L.d(node, 'word')
+    slots_word = lambda word: (word,)
+    for p in cl_phrases:
+        args.extend(get_args(p, slots_node, tag_ph_arg, covered_slots, api))
+    for w in cl_words:
+        args.extend(get_args(w, slots_word, tag_word_arg, covered_slots, api))
+    for d in cl_daughts:
+        args.extend(get_args(d, slots_node, tag_cl_arg, covered_slots, api))
+
+    # iterate through the arguments, sorted by slots, and add the tags
+    arg_str = ''
+    for slots_arg in sorted(args):
+        arg_str += slots_arg[-1] # last item is the argument tag 
+
+    # apply minor adjustments to the string
+    arg_str = re.sub('A+', 'A', arg_str) # record stacked adjuncts only once
+
+    return arg_str

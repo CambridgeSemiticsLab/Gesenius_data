@@ -32,26 +32,7 @@ def build_tables(table_params, samples):
             table_data[table_path].append(row_maker(sample)) 
     return table_data
 
-def match_path2table(outpaths, rowmakers):
-    """Match any equal/unequal number of paths with rowmaker functions.
-
-    How to match arbitrary numbers of outpaths with finite 
-    rowmaker functions?
-
-    A simple zip won't account for when there are 
-    more than 1 verbform in the sample set; we must therefore
-    use itertools.cycle to ensure that the tables are repeated
-    for every verbform.
-    
-    This works because the number of output files per verb match
-    the number of tables defined (or at least they must!);
-    so each verb cycles through all of the available table builds.
-    """
-    outpaths = sorted(outpaths) # clusters paths with single verbs 
-    path2rows = dict(zip(outpaths, cycle(rowmakers)))
-    return path2rows
-
-def build_sample_tables(rowmakers, sample_paths, outpaths):
+def build_sample_tables(rowmakers, sample_path, outpaths):
     """Build tables given a set of rowmaker functions, inpaths, and outpaths.
 
     The number of unique rowmakers must equal the number of outpath
@@ -65,7 +46,7 @@ def build_sample_tables(rowmakers, sample_paths, outpaths):
     Args:
         rowmakers: list of functions that return dicts of row data
             on a supplied sample
-        sample_paths: paths to individual json files containing samples
+        sample_path: path to a json file containing samples
             in the form of a set
         outpaths: snakemake output object (iterable)
     Returns:
@@ -79,33 +60,17 @@ def build_sample_tables(rowmakers, sample_paths, outpaths):
             "Thus alignment is impossible."
         )
 
-    # map outpaths to their relevant rowmakers
+    # align outpaths to their relevant rowmakers
     # NB that the order of rowmakers is crucial here!
-    table_params = match_path2table(outpaths, rowmakers)
+    table_params = dict(zip(outpaths, rowmakers))
 
-    # get a list of mappings between sample paths and outpaths;
-    # solves a similar problem to mapping outpaths to rowmakers
-    # namely that there is twice more outpaths than inpaths
-    # and the outpaths need to be aligned in a cyclic way to
-    # the various verbforms
-    samp2out = list(zip(cycle(sample_paths), outpaths))
+    # load the sample 
+    sample_file = Path(sample_path)    
+    samples = sorted(json.loads(sample_file.read_text()))
 
-    # iterate through all samples and build up the data
-    for samp_set in sample_paths:
-        set_file = Path(samp_set)    
-        samples = sorted(json.loads(set_file.read_text()))
+    # build the tables
+    table_data = build_tables(table_params, samples)
 
-        # retrieve only those outpath 2 rowmaker mappings 
-        # that are relevant to this sample; this is done by 
-        # crossreferencing the two outfile mappings
-        samp_params = {}
-        for samp_path, outpath in samp2out:
-            if samp_path == samp_set:
-                samp_params[outpath] = table_params[outpath]
-
-        # build the tables
-        table_data = build_tables(samp_params, samples)
-
-        # make the exports
-        for table_path, rows in table_data.items():
-            csv_from_dict(rows, table_path)
+    # make the exports
+    for table_path, rows in table_data.items():
+        csv_from_dict(rows, table_path)

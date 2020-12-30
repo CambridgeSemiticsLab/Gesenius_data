@@ -54,16 +54,15 @@ rule get_samples:
 # -- build csv tables --
 
 # - BHSA -
-csv_dir = "../results/csv"
 bhsa_script="scripts/bhsa/build_bhsa_tables.py"
 rule bhsa_tables:
     input:
-        samples=expand("../results/samples/{verb}.json", verb=config["verb_forms"]),
+        sample="../results/samples/{verb}.json",
         tf_mods=tf_modules,
         script=bhsa_script
     output:
-        bhsa=temp(expand("../results/csv/{verb}/_bhsa_.csv", verb=config["verb_forms"])),
-        bhsa_clrela=temp(expand("../results/csv/{verb}/_bhsa_clrela_.csv",verb=config["verb_forms"])),
+        bhsa=temp("../results/csv/{verb}/_bhsa_.csv"),
+        bhsa_clrela=temp("../results/csv/{verb}/_bhsa_clrela_.csv"),
     script:
         bhsa_script
 
@@ -71,14 +70,14 @@ rule bhsa_tables:
 eng_script="scripts/english/build_eng_tables.py"
 rule eng_tables:
     input:
-        samples=expand("../results/samples/{verb}.json", verb=config["verb_forms"]),
+        sample="../results/samples/{verb}.json", 
         esv="_private_/verb_data/bhsa2esv.json",
         niv="_private_/verb_data/bhsa2niv.json",
         txt="_private_/GBI_alignment/verse2text.json",
         script=eng_script
     output: 
-        eng=temp(expand("../results/csv/{verb}/_eng_.csv", verb=config["verb_forms"])),
-        eng_text=temp(expand("../results/csv/{verb}/_eng_text_.csv", verb=config["verb_forms"]))
+        eng=temp("../results/csv/{verb}/_eng_.csv"),
+        eng_text=temp("../results/csv/{verb}/_eng_text_.csv") 
     script:
         eng_script
 
@@ -86,54 +85,68 @@ rule eng_tables:
 lxx_script = "scripts/lxx/build_lxx_tables.py"
 rule lxx_tables:
     input:
-        samples=expand("../results/samples/{verb}.json", verb=config["verb_forms"]),
+        sample="../results/samples/{verb}.json",
         lxx="_private_/verb_data/bhsa2lxx.json",
         script=lxx_script
     output:
-        lxx=temp(expand("../results/csv/{verb}/_lxx_.csv", verb=config["verb_forms"])),
+        lxx=temp("../results/csv/{verb}/_lxx_.csv"),
     script:
         lxx_script
 
 # - apply some correction filters to the tables - 
-qtl_loc = "../results/csv/qtl/"
-qtl_corr_scr = "scripts/correct_qtl.py"
-rule correct_qtl:
+results_csv = ['bhsa', 'bhsa_clrela', 'eng', 'eng_text', 'lxx']
+rule correct_verb:
     input:
-        qtl_corr_scr,
-        bhsa=qtl_loc+"_bhsa_.csv",
-        bhsa_clrela=qtl_loc+"_bhsa_clrela_.csv",
-        eng=qtl_loc+"_eng_.csv",
-        eng_text=qtl_loc+"_eng_text_.csv",
-        lxx=qtl_loc+"_lxx_.csv"
+        script="scripts/correct_{verb}.py",
+        files=expand('../results/csv/{{verb}}/_{files}_.csv', files=results_csv),
     output:
-        bhsa=qtl_loc+"bhsa.csv",
-        bhsa_clrela=qtl_loc+"bhsa_clrela.csv",
-        eng=qtl_loc+"eng.csv",
-        eng_text=qtl_loc+"eng_text.csv",
-        lxx=qtl_loc+"lxx.csv"
+        files=expand('../results/csv/{{verb}}/{files}.csv', files=results_csv),
     script:
-        qtl_corr_scr
+        "scripts/correct_{wildcards.verb}.py"
 
-# - run correlation analyses for qatal - 
-qtl_analysis = "scripts/analysis/qtl/associations.py"
-rule analyze_qtl:
+# - run correlation analyses for verb - 
+rule analyze_verb:
     input:
-        data_dir=qtl_loc,
+        data_dir="../results/csv/{verb}",
+        data=expand("../results/csv/{{verb}}/{results_csv}.csv", results_csv=results_csv),
         analyzers="scripts/analysis/analysis.py",
-        script=qtl_analysis,
+        script="scripts/analysis/{verb}/{analysis_name}.py"
     output:
-        dir=directory("../results/qtl/csv")
+        dir=directory("../results/{verb}/csv/{analysis_name}")
     script:
-        qtl_analysis
+        "scripts/analysis/{wildcards.verb}/{wildcards.analysis_name}.py"
 
-qtl_vis="scripts/analysis/qtl/visualize.py"
-rule visualize_qtl:
+# - visualize analyses -
+
+rule table_styles:
     input:
-        results=rules.analyze_qtl.output.dir,
-        visualizers="scripts/analysis/analysis_vis.py",
-        script=qtl_vis,
-        tablestyles="html/tables.css",
+        "html/tables.css"
     output:
-        dir=directory("../results/qtl/html")
+        dir=directory("../results/css"),
+        css="../results/css/tables.css"
+    shell:
+        "cp {input} {output.dir}/."
+
+visual_script = "scripts/analysis/visualize_results.py" 
+rule visualize_verb:
+    input:
+        results="../results/{verb}/csv/{analysis_name}",
+        visualizers="scripts/analysis/analysis_vis.py",
+        script=visual_script,
+        tablestyles=rules.table_styles.output.css
+    output:
+        dir=directory("../results/{verb}/html/{analysis_name}")
     script:
-        qtl_vis 
+        visual_script
+
+# construct a menu of html links to all of the respective analyses
+analyses = ['context', 'clause', 'verb_sem']
+rule html_menu:
+    input: 
+        analyses=expand("../results/{{verb}}/html/{analyses}", analyses=analyses),
+        script="scripts/analysis/build_html_menu.py",
+        results="../results/{verb}/html"
+    output:
+        html="../results/{verb}/html/menu.html"    
+    script:
+        "scripts/analysis/build_html_menu.py"

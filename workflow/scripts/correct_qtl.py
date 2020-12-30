@@ -10,11 +10,7 @@ input = snakemake.input
 print('applying qatal corrections...')
 
 raw_tables = [
-    pd.read_csv(input.bhsa, index_col='bhsa_node'),
-    pd.read_csv(input.bhsa_clrela, index_col='bhsa_node'),
-    pd.read_csv(input.eng, index_col='bhsa_node'),
-    pd.read_csv(input.eng_text, index_col='bhsa_node'),
-    pd.read_csv(input.lxx, index_col='bhsa_node'),
+    pd.read_csv(file, index_col='bhsa_node') for file in input.files
 ]
 
 bhsa, bhsa_clrela, eng, eng_text, lxx = raw_tables
@@ -67,5 +63,5 @@ print(len(not_safe_nodes), 'nodes listed as unsafe...')
 bhsa['safe'] = ~bhsa.index.isin(not_safe_nodes)
 
 # export the tables
-for table, outpath in zip(raw_tables, snakemake.output):
+for table, outpath in zip(raw_tables, snakemake.output.files):
     table.to_csv(outpath, index=True)

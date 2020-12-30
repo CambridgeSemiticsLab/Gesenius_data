@@ -90,6 +90,6 @@ rowmakers = [build_data_row, build_text_row]
 # make the tables
 build_sample_tables(
     rowmakers, 
-    snakemake.input.samples, 
+    snakemake.input.sample, 
     snakemake.output
 )

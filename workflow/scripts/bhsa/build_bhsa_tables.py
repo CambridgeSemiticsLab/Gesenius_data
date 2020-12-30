@@ -9,7 +9,7 @@ from verb_form import get_verbform, get_cl_verbform
 from modify_domain import permissive_q
 from synvar_carc import in_dep_calc as clause_relator
 from modify_cltype import simplify_cl_type
-from tag_args import clause_objects, get_loca_assocs, clause_locas
+from tag_args import clause_objects, get_loca_assocs, clause_locas, clause_args
 
 # NB that working directory when script is executed is 
 # /workflow; because we have some utilities that we want
@@ -70,6 +70,7 @@ def main_row(node):
     prec_pos = join_on((F.pdp.v(w) for w in preceding_words), default='Ø')
     domain2 = permissive_q(clause, bhsa)
     cl_type_simp = simplify_cl_type(clause_atom, prec_lexes, bhsa)
+    cl_args = clause_args(node, bhsa)
 
     # collect preceding particles only
     particle_types = {'advb', 'prep', 'conj', 'prde', 'prin', 'inj', 'inrg'}
@@ -107,6 +108,7 @@ def main_row(node):
             'clause_type': clause_type,
             'cltype_simp': cl_type_simp,
             'clause_rela': clause_relator(clause, bhsa),
+            'cl_args': cl_args,
             'prec_lexes': prec_lexes,
             'prec_pos': prec_pos,
             'prec_part': prec_particles,
@@ -172,6 +174,6 @@ rowmakers = [main_row, clrela_row]
 
 build_sample_tables(
     rowmakers,
-    snakemake.input.samples,
+    snakemake.input.sample,
     snakemake.output
 )

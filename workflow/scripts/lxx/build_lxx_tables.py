@@ -42,6 +42,6 @@ rowmakers = [build_row]
 
 build_sample_tables(
     rowmakers,
-    snakemake.input.samples,
+    snakemake.input.sample,
     snakemake.output
 )

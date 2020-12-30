@@ -1,0 +1,17 @@
+clause_rela,Main,Main,SubMod,Main,SubAdv,SubArg,SubAdv,SubAdv,SubMod,SubMod,SubArg
+cltype_simp,x,Wx,x,Ø,x,x,Wx,Ø,Ø,Wx,Ø
+eng_TAM,,,,,,,,,,,
+PAST..IND,3.41,2.49,4.69,6.89,6.57,38.96,75.22,186.09,131.77,1028.0,4115.0
+PRES.PERF.IND,2.78,9.02,5.26,4.2,4.07,22.08,50.17,64.39,146.12,2353.0,783.67
+PRES..IND,1.37,10.21,20.26,3.15,5.53,78.31,59.65,84.92,146.29,inf,inf
+PAST.PERF.IND,10.01,7.79,1.36,110.71,3.92,7.23,38.1,390.0,155.4,259.67,inf
+FUT..IND,1.65,4.31,inf,2.63,5.9,68.0,inf,inf,inf,inf,inf
+PAST..SUBJ,3.13,1.14,19.67,9.33,6.75,inf,61.0,inf,inf,inf,inf
+PRES..MOD,5.11,0.9,54.0,17.33,6.86,26.5,17.33,inf,54.0,inf,inf
+PRES..,2.56,4.33,5.4,7.0,7.0,inf,9.67,31.0,inf,inf,inf
+PRES.PROG.IND,1.57,8.0,8.0,3.5,17.0,8.0,inf,inf,inf,inf,inf
+PAST.PROG.IND,5.5,1.17,inf,inf,5.5,5.5,12.0,inf,inf,inf,inf
+..,inf,inf,inf,0.67,4.0,inf,inf,inf,inf,inf,4.0
+past.PERF_PROG.IND,inf,inf,0.0,inf,inf,inf,inf,inf,inf,inf,inf
+FUT.PERF.IND,inf,0.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+PRES.PERF_PROG.IND,inf,inf,inf,inf,0.0,inf,inf,inf,inf,inf,inf

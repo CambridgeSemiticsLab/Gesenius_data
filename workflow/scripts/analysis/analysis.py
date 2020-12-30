@@ -29,7 +29,7 @@ def prop_table(count_data, sumi=1, divi=0):
 
 class Analyze:
     """Run standard analysis on verb dataset"""
-    def __init__(self, data, fishers=True, **pivot_kwargs):
+    def __init__(self, data, fishers=True, dp=True, **pivot_kwargs):
         """Initialize analysis.
 
         For the Gesenius project we examine a number of 
@@ -62,6 +62,9 @@ class Analyze:
         # run Fisher's collocation analysis
         if fishers:
             self.fishers, self.odds_fishers = sig.apply_fishers(self.count, 0, 1)
+        if dp:
+            self.dp = sig.apply_deltaP(self.count, 0, 1)
+            self.dp2 = sig.apply_deltaP(self.count.T, 0, 1)
 
 def get_table_headers(df):
     """Identify table headers by indices and store in a dictionary."""

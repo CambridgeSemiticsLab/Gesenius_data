@@ -8,7 +8,7 @@ from pathlib import Path
 
 # custom modules
 from plotting import heatmap
-from df_styles import max_highlighter
+from df_styles import df_highlighter
 
 # there is a bug when using indices for rows/cols 
 # when loading with pd.read_csv; see this discussion:
@@ -43,27 +43,24 @@ def plot_fishers(fishers_data, title=''):
     ax.set_xlabel('')
     ax.set_ylabel('')
 
-def table2html(df, filePath, stylesheet='', title=''):
+def table2html(df, filePath, stylesheet='', title='', highlight_rule='max'):
     """Export a table of data to HTML."""    
        
-    html = """ 
-
+    html = """
 <html>    
-<h1>{title}</h1>
-<head>
-    <link rel="stylesheet" href="{stylesheet}">
-</head>
-
-<body>
-{data}
-</body>
-
+    <h1>{title}</h1>
+    <head>
+        <link rel="stylesheet" href="{stylesheet}">
+    </head>
+    <body>
+        {data}
+    </body>
 </html>
-    """
-
-    table_highlights = (max_highlighter(df).set_precision(2).render())
+    """.strip()
+    table = df_highlighter(df, highlight_rule)
+    table = table.set_precision(2)
     html = html.format(
-        data=table_highlights, 
+        data=table.render(), 
         stylesheet=stylesheet,
         title=title,
     )
@@ -92,7 +89,14 @@ def visualize_analysis(analysis_dir, output_dir, table_headers, tablestyles=''):
         headers = table_headers[csv_file.stem]
         df = pd.read_csv(csv_file, **headers)
         title = f'{analysis_dir.name}, {csv_file.stem}'
-        table2html(df, outfile, stylesheet=tablestyles, title=title)
+        highlight = 'fishers' if csv_file.name.startswith('fishers') else 'max'
+        table2html(
+            df, 
+            outfile, 
+            stylesheet=tablestyles, 
+            title=title,
+            highlight_rule=highlight
+        )
 
         # special plots here
         if csv_file.name.startswith('fishers') and max(df.shape) < 50:
@@ -100,23 +104,7 @@ def visualize_analysis(analysis_dir, output_dir, table_headers, tablestyles=''):
             plot_fishers(df, title=analysis_dir.name)
             plt.savefig(outfile, bbox_inches='tight', format='svg')
 
-def compile_menu_items(dir, html_lines, level=0, base_dir=None):
-    """Recursively compile analyses to match directory structures.."""
-    for item in sorted(dir.glob('*')):
-        indent = '&nbsp;'* 8 * level
-        link = f'<a href="{item.relative_to(base_dir)}" target="_blank">{item.stem}</a>'
-        html_lines.append(f'{indent}{link}')
-        if item.is_dir():
-            compile_menu_items(item, html_lines, level=level+1, base_dir=base_dir)
-
-def make_html_menu(out_dir):
-    """Build a menu to quickly access analyzed results."""
-    html_lines = []
-    compile_menu_items(out_dir, html_lines, base_dir=out_dir)
-    menu_html = '<html>{data}</html>'.format(data='\n<br>'.join(html_lines))
-    out_dir.joinpath('menu.html').write_text(menu_html)
-
-def visualize_analyses(input_dir, output_dir, table_styles):
+def visualize_analyses(input_dir, output_dir, tablestyles):
     """Visualize a set of analyses."""
 
     # identify analyses by folder name, get their csv files
@@ -129,7 +117,7 @@ def visualize_analyses(input_dir, output_dir, table_styles):
 
         # feed the analysis path into the visualizer which will
         # automatically identify the csv files as data to be visualized
-        tablestyles = f'../{Path(table_styles).name}'
+        tablestyles = f'../../../../css/{Path(tablestyles).name}' # make tablestyles relative to the HTML file rather than snakemake
         tableheaders = json.loads(analysis_path.joinpath('table_headers.json').read_text())
         visualize_analysis(
             analysis_path, 
@@ -137,10 +125,3 @@ def visualize_analyses(input_dir, output_dir, table_styles):
             tableheaders,
             tablestyles=tablestyles
         )
-
-    # construct an html menu
-    make_html_menu(Path(output_dir))
-
-    # copy the stylesheet into the analysis directory
-    os.system(f"cp {table_styles} {output_dir}/.")
-
