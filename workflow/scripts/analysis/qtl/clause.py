@@ -32,7 +32,13 @@ run_analyses([
         'columns': 'clause_rela',
     },
     {
-        'name': 'rela_x',
+        'name': 'cltype_simp',
+        'df': eng_df,
+        'index': 'eng_TAM',
+        'columns': 'cltype_simp',
+    },
+    {
+        'name': 'rela_cltypesimp',
         'df': eng_df,
         'index': 'eng_TAM',
         'columns': ['clause_rela', 'cltype_simp'],
@@ -43,12 +49,49 @@ run_analyses([
         'index': 'eng_TAM',
         'columns': ['clause_rela', 'prec_part'],
     },
-    {
-        'name': 'rela_args',
+   {
+        'name': 'args',
         'df': eng_df,
         'index': 'eng_TAM',
-        'columns': ['clause_rela', 'cl_args'],
+        'columns': 'cl_args',
+    },
+    {
+        'name': 'args_simp',
+        'df': eng_df,
+        'index': 'eng_TAM',
+        'columns': 'cl_args_simp',
+        'examples': [
+            {
+                'query': 'eng_TAM == "PAST..IND" and cl_args_simp == "_W_SV"',
+            },
+            {
+                'query': 'eng_TAM == "PAST..IND" and cl_args_simp == "_W_OV"',
+            },
+        ]
+    },
+    {
+        'name': 'Wx_motherverb',
+        'df': eng_df,
+        'index': ['eng_TAM', 'cl_args_simp'],
+        'columns': 'mother_verbtype',
+        'examples': [
+            {
+                'query': ('eng_TAM == "PAST..IND" '
+                            'and cl_args_simp.str.match("_W_[OS]V") '
+                            'and mother_verbtype == "wayq" '),
+                'bhs_text': ['mother_clause', 'clause_atom']
+            },
+            {
+                'query': ('eng_TAM == "PAST..IND"'
+                            'and cl_args_simp.str.match("_W_[OS]V") ' 
+                            'and mother_verbtype == "wayq" '
+                            'and mother_verb_ps == "p3" '
+                            'and mother_verb_lex == "HJH[" '),
+                'bhs_text': ['mother_clause', 'clause_atom'],
+                'spread': 10,
+            },
+
+        ],
     },
 ], snakemake.output.dir)  
-
 

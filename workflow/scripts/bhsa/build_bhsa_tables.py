@@ -1,10 +1,11 @@
+import re
 import sys
 import csv
 import json
 import collections
 from pathlib import Path
 from tf.fabric import Fabric
-from book_formats import get_book_maps
+from book_formats import get_book_maps, etcbc2sbl, etcbc2abbr
 from verb_form import get_verbform, get_cl_verbform
 from modify_domain import permissive_q
 from synvar_carc import in_dep_calc as clause_relator
@@ -59,7 +60,11 @@ def main_row(node):
 
     # data on this clause itself
     book, chapter, verse = T.sectionFromNode(node)
+    booksbl = etcbc2sbl[book]
+    bookabbr = etcbc2abbr[book]
     ref_string = f'{book} {chapter}:{verse}'
+    ref_sbl = f'{booksbl} {chapter}:{verse}'
+    ref_abbr = f'{bookabbr} {chapter}:{verse}'
     verse_node = L.u(node, 'verse')[0]
     clause_atom = L.u(node, 'clause_atom')[0]
     clause = L.u(node, 'clause')[0]
@@ -71,6 +76,11 @@ def main_row(node):
     domain2 = permissive_q(clause, bhsa)
     cl_type_simp = simplify_cl_type(clause_atom, prec_lexes, bhsa)
     cl_args = clause_args(node, bhsa)
+
+    # apply simplified clause argument tag
+    cl_args_simp = re.sub('[AC]', '', cl_args)
+    cl_args_simp = re.sub('VV+', 'V', cl_args_simp)
+    cl_args_simp = re.match('.*V', cl_args_simp)[0]
 
     # collect preceding particles only
     particle_types = {'advb', 'prep', 'conj', 'prde', 'prin', 'inj', 'inrg'}
@@ -109,9 +119,12 @@ def main_row(node):
             'cltype_simp': cl_type_simp,
             'clause_rela': clause_relator(clause, bhsa),
             'cl_args': cl_args,
+            'cl_args_simp': cl_args_simp,
             'prec_lexes': prec_lexes,
             'prec_pos': prec_pos,
             'prec_part': prec_particles,
+            'ref_sbl': ref_sbl,
+            'ref_abbr': ref_abbr,
     }
 
     # provide clause argument data
@@ -135,16 +148,20 @@ def nearby_clatom_data(clatom_lookup):
         dict of data on the first clause_atom in the lookup, if
         one was found, else an empty dict 
     """
-    rel_dat = {}
+    rel_dat = {'cl':'', 'cl_atom': '', 'clause':'', 'rela': '', 'domain2': '', 'verbtype': '',
+               'type': '', 'verb_ps': '', 'verb_lex': ''}
     # retrive data on first clause in the lookup; if there is one
     if clatom_lookup:
         cl_atom = rel_dat['cl_atom'] = clatom_lookup[0]
         cl = rel_dat['cl'] = L.u(cl_atom, 'clause')[0]
-        rel_dat['typ'] = F.typ.v(cl_atom)
-        rel_dat['verb_type'] = get_cl_verbform(cl_atom, bhsa)
+        verb = next((w for w in L.d(cl_atom, 'word') if F.pdp.v(w) == 'verb'), 0)
+        rel_dat['verb_lex'] = F.lex.v(verb)
+        rel_dat['verb_ps'] = F.ps.v(verb)
+        rel_dat['type'] = F.typ.v(cl_atom)
+        rel_dat['verbtype'] = get_cl_verbform(cl_atom, bhsa)
         rel_dat['domain2'] = permissive_q(cl, bhsa) # domain with permissive Q
         rel_dat['rela'] = clause_relator(cl, bhsa)
-        rel_dat['txt'] = T.text(cl_atom)
+        rel_dat['clause'] = T.text(cl_atom)
     return rel_dat
 
 def clrela_row(node):
@@ -161,12 +178,8 @@ def clrela_row(node):
     row_data = {'bhsa_node': node}
     for relcl, rcdata in relas.items():
         row_data.update({
-            f'{relcl}_clause': rcdata.get('txt', ''),
-            f'{relcl}_type': rcdata.get('typ', ''),
-            f'{relcl}_verbtype': rcdata.get('verb_type', ''),
-            f'{relcl}_rela': rcdata.get('rela', ''),
-            f'{relcl}_domain2': rcdata.get('domain2', ''),
-    })
+            f'{relcl}_{k}': rcdata[k] for k in rcdata            
+        })
 
     return row_data
 

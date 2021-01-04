@@ -10,6 +10,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from stats import significance as sig
 from pathlib import Path
+from df_styles import get_spread
 
 def pivot_table(*pivot_args, **pivot_kwargs):
     """Make a pivot table with standard options"""
@@ -47,6 +48,14 @@ class Analyze:
         # sort the ct based on biggest sums
         sort_sums = self.count.sum().sort_values(ascending=False).index
         self.count = self.count.loc[:,sort_sums]
+
+        # sums
+        self.count_sum = pd.DataFrame(self.count.sum())
+        self.count_sum1 = pd.DataFrame(self.count.sum(1))
+        self.count_sum.columns = self.count_sum1.columns = ['sum']
+        self.count_sum = self.count_sum.sort_values(by='sum', ascending=False)
+        self.count_sum1 = self.count_sum1.sort_values(by='sum', ascending=False)
+
         sort_sums2 = self.count.sum(1).sort_values(ascending=False).index
         self.count = self.count.loc[sort_sums2]
 
@@ -74,18 +83,56 @@ def get_table_headers(df):
         'header': get_indices(df.columns)
     }
 
+def make_text_examples(df, ex_params):
+    """Build copy and pastable text samples."""
+    
+    query = ex_params['query']
+    df = df.query(ex_params['query'])
+    n_results = df.shape[0]
+    spread = ex_params.get('spread', 25)
+    spread_i = get_spread(df.index, spread)
+    df = df.loc[spread_i]
+
+    # sort out texts
+    # NB that esv and niv texts might also be similarly formatted later on
+    bhs_joiner = ex_params.get('bhs_joiner', '')
+    bhs_text = ex_params.get('bhs_text', ['clause_atom'])
+    bhs_text = df[bhs_text].astype(str).agg(bhs_joiner.join, axis=1)
+
+    exs = [query, f'{df.shape[0]} of {n_results}']
+    
+    for node in df.index:
+        ref = df.loc[node]['ref_abbr']
+        esv = df.loc[node]['esv']
+        niv = df.loc[node]['niv']
+        bhs = bhs_text[node]
+            
+        if niv == esv:
+            ex = f'{esv} (ESV, NIV | BHS {bhs} {ref})'
+        else:
+            ex = f'{esv}, {niv} (ESV, NIV | BHS {bhs} {ref})'
+        
+        exs.append(ex)
+        
+    return exs
+
 def run_analysis(params, outdir, round=2, table_headers={}):
     """Execute an analysis with specified parameters"""
 
     do_fishers = params.get('fishers', True),
 
     # execute the analysis using the provided parameters
-    args = {'name', 'df'}
+    args = {'name', 'df', 'examples'}
     pivot_kwargs = {k:v for k,v in params.items() if k not in args}
     analysis = Analyze(
         params['df'], 
         **pivot_kwargs
     )
+
+    # construct examples
+    exs = {}
+    for ex_param in params.get('examples', []):
+       exs[ex_param['query']] = make_text_examples(params['df'], ex_param) 
 
     # prepare paths for exports
     outdir = Path(outdir).joinpath(params['name'])
@@ -99,6 +146,16 @@ def run_analysis(params, outdir, round=2, table_headers={}):
         table_headers[name] = get_table_headers(df) # save table header params
         df.to_csv(str(outfile), index=True)
 
+    # export text examples
+    ex_dir = outdir.joinpath('examples')
+    ex_dir.mkdir(exist_ok=True)
+    for name, exs in exs.items():
+        # text file for copy/paste
+        textfile = ex_dir.joinpath(f'{name}.txt')
+        textfile.write_text('\n'.join(exs))
+
+        # TODO? df for visualizations
+        
 def run_analyses(analysis_params, out_dir):
     """Execute a set of analyses."""
 

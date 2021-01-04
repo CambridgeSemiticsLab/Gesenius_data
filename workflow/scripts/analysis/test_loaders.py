@@ -6,3 +6,5 @@ qatal_df = DfLoad.df_safe()
 eng_df = DfLoad.eng_agree()
 esv_df = DfLoad.esv()
 niv_df = DfLoad.niv()
+
+print(qatal_df.head())

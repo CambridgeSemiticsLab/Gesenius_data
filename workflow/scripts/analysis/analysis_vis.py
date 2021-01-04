@@ -68,6 +68,17 @@ def table2html(df, filePath, stylesheet='', title='', highlight_rule='max'):
     # write to file
     filePath.write_text(html)
 
+def get_highlight_rule(file_path):
+    """Match a csv file with a highlight rule."""
+    file_name = file_path.name
+
+    if file_name.startswith('fishers'):
+        return 'fishers'
+    elif file_name.startswith('count_sum'):
+        return ''
+    else:
+        return 'max'
+
 def visualize_analysis(analysis_dir, output_dir, table_headers, tablestyles=''):
     """Visualize the results of an analysis with HTML and SVG files
 
@@ -89,7 +100,7 @@ def visualize_analysis(analysis_dir, output_dir, table_headers, tablestyles=''):
         headers = table_headers[csv_file.stem]
         df = pd.read_csv(csv_file, **headers)
         title = f'{analysis_dir.name}, {csv_file.stem}'
-        highlight = 'fishers' if csv_file.name.startswith('fishers') else 'max'
+        highlight = get_highlight_rule(csv_file)
         table2html(
             df, 
             outfile, 
@@ -103,6 +114,11 @@ def visualize_analysis(analysis_dir, output_dir, table_headers, tablestyles=''):
             outfile = outdir.joinpath('fishers_heatmap.svg')
             plot_fishers(df, title=analysis_dir.name)
             plt.savefig(outfile, bbox_inches='tight', format='svg')
+
+    # TEMPORARY SOLUTION
+    # copy over text examples from csv directory
+    for ex_dir in analysis_dir.glob('examples'):
+        os.system(f'cp -r {ex_dir} {outdir}/.')
 
 def visualize_analyses(input_dir, output_dir, tablestyles):
     """Visualize a set of analyses."""

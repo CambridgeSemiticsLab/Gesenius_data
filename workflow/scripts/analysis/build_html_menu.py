@@ -1,4 +1,5 @@
 from pathlib import Path
+import urllib
 
 def compile_menu_items(dir, html_lines, level=0, base_dir=None):
     """Recursively compile analyses to match directory structures.."""
@@ -6,7 +7,8 @@ def compile_menu_items(dir, html_lines, level=0, base_dir=None):
         if item.name == ".snakemake_timestamp": 
             continue
         indent = '&nbsp;'* 8 * level
-        link = f'<a href="{item.relative_to(base_dir)}" target="_blank">{item.stem}</a>'
+        url = urllib.parse.quote(str(item.relative_to(base_dir)))
+        link = f'<a href="{url}" target="_blank">{item.stem}</a>'
         html_lines.append(f'{indent}{link}')
         if item.is_dir():
             compile_menu_items(item, html_lines, level=level+1, base_dir=base_dir)

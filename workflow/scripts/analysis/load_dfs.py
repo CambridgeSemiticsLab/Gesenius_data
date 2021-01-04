@@ -14,9 +14,14 @@ class DfLoader:
 
         csv_dir = Path(csv_dir)
 
+        load_order = {
+            'bhsa': 1, 'bhsa_clrela': 2,
+            'eng': 3, 'eng_text': 4, 'lxx': 5,
+        }
+        sort_key = lambda f: load_order.get(f.stem, max(load_order.values())+1)
         # get iterable of table files
         if type(csvs) == str: 
-            csvs = csv_dir.glob(csvs)
+            csvs = sorted(csv_dir.glob(csvs), key=sort_key)
         
         # populate list with pandas dataframes
         tables = [] 

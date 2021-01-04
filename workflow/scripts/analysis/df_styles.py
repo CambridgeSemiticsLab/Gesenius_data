@@ -92,3 +92,5 @@ def df_highlighter(pr_df, rule='max'):
         return pr_df.style.apply(highlight_max, 1)
     elif rule == 'fishers':
         return pr_df.style.applymap(highlight_sig)
+    else:
+        return pr_df.style
