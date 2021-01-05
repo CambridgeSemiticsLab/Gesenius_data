@@ -1,0 +1,17 @@
+period,SBH,SBH,LBH,LBH,SBH,SBH,LBH,SBH,SBH,LBH,SBH,SBH,SBH,LBH
+genre,prose,prose,prose,prose,instruction,poetry,list,instruction,list,poetry,prophetic,list,poetry,list
+domain2,Q,N,N,Q,Q,Q,N,N,N,Q,Q,Q,N,Q
+eng_TAM,,,,,,,,,,,,,,
+PAST..IND,3.82,2.45,7.06,23.38,45.5,37.47,30.33,37.47,50.96,87.86,1274.0,849.33,318.5,1274.0
+PRES.PERF.IND,1.38,224.6,inf,6.89,10.3,93.58,1123.0,inf,inf,187.17,187.17,187.17,inf,1123.0
+PAST.PERF.IND,9.13,1.71,4.14,51.75,inf,155.25,103.5,77.62,103.5,310.5,inf,inf,inf,310.5
+PRES..IND,1.4,96.25,192.5,7.4,11.0,32.08,385.0,inf,inf,192.5,192.5,inf,inf,inf
+PAST..SUBJ,2.24,2.71,9.5,19.0,inf,inf,38.0,inf,inf,inf,inf,inf,inf,inf
+PRES..MOD,4.5,1.89,9.0,36.0,inf,36.0,36.0,inf,36.0,inf,inf,inf,inf,36.0
+FUT..IND,1.56,inf,inf,7.0,4.67,inf,inf,inf,inf,inf,inf,inf,inf,inf
+PRES..,3.67,1.57,inf,inf,inf,inf,11.0,inf,inf,inf,inf,inf,inf,inf
+PRES.PROG.IND,1.43,inf,inf,3.33,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+PAST.PROG.IND,5.0,1.67,inf,5.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+past.PERF_PROG.IND,inf,2.0,2.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+PRES.PERF_PROG.IND,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+..,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf

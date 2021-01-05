@@ -1,0 +1,4 @@
+eng_TAM == "PAST..IND ~ PRES..IND" and genre == "instruction" and domain2 == "Q"
+2 of 15
+let him fall, lets it happen (ESV, NIV | BHS וְהָאֱלֹהִ֖ים אִנָּ֣ה לְיָדֹ֑ו  Exod. 21:13)
+hurled, throws (ESV, NIV | BHS אֹו־הִשְׁלִ֥יךְ עָלָ֛יו כָּל־כְּלִ֖י בְּלֹ֥א צְדִיָּֽה׃  Num. 35:22)

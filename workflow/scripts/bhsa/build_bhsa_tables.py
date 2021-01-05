@@ -10,7 +10,7 @@ from verb_form import get_verbform, get_cl_verbform
 from modify_domain import permissive_q
 from synvar_carc import in_dep_calc as clause_relator
 from modify_cltype import simplify_cl_type
-from tag_args import clause_objects, get_loca_assocs, clause_locas, clause_args
+from tag_args import clause_objects, get_loca_assocs, clause_locas, clause_time, clause_args
 
 # NB that working directory when script is executed is 
 # /workflow; because we have some utilities that we want
@@ -76,11 +76,7 @@ def main_row(node):
     domain2 = permissive_q(clause, bhsa)
     cl_type_simp = simplify_cl_type(clause_atom, prec_lexes, bhsa)
     cl_args = clause_args(node, bhsa)
-
-    # apply simplified clause argument tag
-    cl_args_simp = re.sub('[AC]', '', cl_args)
-    cl_args_simp = re.sub('VV+', 'V', cl_args_simp)
-    cl_args_simp = re.match('.*V', cl_args_simp)[0]
+    cl_args = re.match('.*V', cl_args)[0] # NB ignore post-verbal arguments
 
     # collect preceding particles only
     particle_types = {'advb', 'prep', 'conj', 'prde', 'prin', 'inj', 'inrg'}
@@ -119,7 +115,6 @@ def main_row(node):
             'cltype_simp': cl_type_simp,
             'clause_rela': clause_relator(clause, bhsa),
             'cl_args': cl_args,
-            'cl_args_simp': cl_args_simp,
             'prec_lexes': prec_lexes,
             'prec_pos': prec_pos,
             'prec_part': prec_particles,
@@ -136,6 +131,13 @@ def main_row(node):
     row_data.update(
         clause_locas(node, loca_lexs, bhsa)
     )
+    row_data.update(
+        clause_time(node, bhsa)
+    )
+    # convert to boolean 0 or 1 to avoid indexing
+    # pivot tables with booleans
+    row_data['has_objc'] = 1 * row_data['has_objc']
+    row_data['has_loca'] = 1 * row_data['has_loca']
 
     return row_data 
 

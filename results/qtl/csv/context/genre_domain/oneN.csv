@@ -1,7 +1,11 @@
-genre,domain2,PAST..IND,PRES.PERF.IND,PRES..IND,PAST.PERF.IND,PAST..SUBJ,FUT..IND,PRES..MOD,PRES..,PRES.PROG.IND,PAST.PROG.IND,..,past.PERF_PROG.IND,FUT.PERF.IND,PRES.PERF_PROG.IND
-prose,Q,2.87,2.26,6.74,28.28,122.05,210.82,257.67,773.0,193.25,463.8,1159.5,inf,inf,2319.0
-prophetic,Q,3.81,3.18,2.66,64.59,366.0,56.31,366.0,199.64,439.2,inf,1098.0,inf,1098.0,inf
-prose,N,1.42,409.8,341.5,3.83,113.83,inf,89.09,292.71,inf,341.5,2049.0,1024.5,inf,inf
-poetry,Q,3.18,3.79,2.63,64.84,108.07,180.11,180.11,202.62,1621.0,inf,inf,inf,inf,inf
-prophetic,N,1.98,30.25,7.12,3.46,121.0,inf,121.0,121.0,inf,121.0,inf,inf,inf,inf
+genre,domain2,PAST..IND,PRES.PERF.IND,PRES..IND,PAST.PERF.IND,FUT..IND,PAST..SUBJ,PRES..MOD,PRES..,PRES.PROG.IND,PAST.PROG.IND,..,past.PERF_PROG.IND,FUT.PERF.IND,PRES.PERF_PROG.IND
+prose,Q,2.87,2.26,6.74,28.28,210.82,122.05,257.67,773.0,193.25,463.8,1159.5,inf,inf,2319.0
+prophetic,Q,3.81,3.18,2.66,64.59,56.31,366.0,366.0,199.64,439.2,inf,1098.0,inf,1098.0,inf
+prose,N,1.42,409.8,341.5,3.83,inf,113.83,89.09,292.71,inf,341.5,2049.0,1024.5,inf,inf
+poetry,Q,3.18,3.79,2.63,64.84,180.11,108.07,180.11,202.62,1621.0,inf,inf,inf,inf,inf
+instruction,Q,3.42,1.94,5.58,inf,70.67,inf,inf,inf,inf,inf,inf,inf,inf,inf
+list,N,1.13,152.0,152.0,12.67,inf,152.0,76.0,152.0,inf,inf,inf,inf,inf,inf
+prophetic,N,1.98,30.25,7.12,3.46,inf,121.0,121.0,121.0,inf,121.0,inf,inf,inf,inf
+instruction,N,1.12,inf,82.0,10.25,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
 poetry,N,1.6,6.0,8.0,12.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+list,Q,3.0,2.14,inf,7.5,inf,inf,15.0,inf,inf,inf,inf,inf,inf,inf

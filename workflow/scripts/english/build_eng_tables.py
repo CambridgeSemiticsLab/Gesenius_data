@@ -31,15 +31,15 @@ def compare_transs(tdata):
     """Compare translation words and return data."""
 
     data = {
-        'eng_fullparse': False,
+        'eng_fullparse': 0,
         'eng_TAM': '',
-        'eng_agree': False,
+        'eng_agree': 0,
     }
 
     # add features based on both translations
     niv_tam, esv_tam = tdata['niv_TAM'], tdata['esv_TAM']
     if niv_tam and esv_tam:
-        data['eng_fullparse'] = True
+        data['eng_fullparse'] = 1
         
         # record interchanges of TAM categories between ESV and NIV where the disagree
         if niv_tam != esv_tam:
@@ -49,7 +49,7 @@ def compare_transs(tdata):
         # record cases of agreement
         else:
             data['eng_TAM'] = niv_tam
-            data['eng_agree'] = True
+            data['eng_agree'] = 1
 
     return data
 

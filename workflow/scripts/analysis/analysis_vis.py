@@ -57,6 +57,8 @@ def table2html(df, filePath, stylesheet='', title='', highlight_rule='max'):
     </body>
 </html>
     """.strip()
+    if len(df.columns) == 1:
+        highlight_rule = ''
     table = df_highlighter(df, highlight_rule)
     table = table.set_precision(2)
     html = html.format(
@@ -74,8 +76,6 @@ def get_highlight_rule(file_path):
 
     if file_name.startswith('fishers'):
         return 'fishers'
-    elif file_name.startswith('count_sum'):
-        return ''
     else:
         return 'max'
 

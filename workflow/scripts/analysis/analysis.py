@@ -42,38 +42,47 @@ class Analyze:
             fishers: whether to run Fisher's analysis
             **pivot_kwargs: kwargs for pandas pivot function
         """
-    
-        # calculuate count table
-        self.count = pivot_table(data, **pivot_kwargs)
-        # sort the ct based on biggest sums
-        sort_sums = self.count.sum().sort_values(ascending=False).index
-        self.count = self.count.loc[:,sort_sums]
+        # run multi-dimensional analyses
+        if 'columns' in pivot_kwargs:
+            # calculuate count table
+            self.count = pivot_table(data, **pivot_kwargs)
+            # sort the ct based on biggest sums
+            sort_sums = self.count.sum().sort_values(ascending=False).index
+            self.count = self.count.loc[:,sort_sums]
 
-        # sums
-        self.count_sum = pd.DataFrame(self.count.sum())
-        self.count_sum1 = pd.DataFrame(self.count.sum(1))
-        self.count_sum.columns = self.count_sum1.columns = ['sum']
-        self.count_sum = self.count_sum.sort_values(by='sum', ascending=False)
-        self.count_sum1 = self.count_sum1.sort_values(by='sum', ascending=False)
+            # sums
+            self.count_sum = pd.DataFrame(self.count.sum())
+            self.count_sum1 = pd.DataFrame(self.count.sum(1))
+            self.count_sum.columns = self.count_sum1.columns = ['sum']
+            self.count_sum = self.count_sum.sort_values(by='sum', ascending=False)
+            self.count_sum1 = self.count_sum1.sort_values(by='sum', ascending=False)
 
-        sort_sums2 = self.count.sum(1).sort_values(ascending=False).index
-        self.count = self.count.loc[sort_sums2]
+            sort_sums2 = self.count.sum(1).sort_values(ascending=False).index
+            self.count = self.count.loc[sort_sums2]
 
-        # calculate prop table with props across rows
-        self.prop = prop_table(self.count)
-        # calculate prop table with props across columns (transposed to rows to distinguish)
-        self.prop2 = prop_table(self.count.T)
-        # calculate 1-in-N odds
-        # see https://math.stackexchange.com/q/1469242
-        self.oneN = 1 / self.prop
-        self.odds = (1 / self.prop) - 1
+            # calculate prop table with props across rows
+            self.prop = prop_table(self.count)
+            # calculate prop table with props across columns (transposed to rows to distinguish)
+            self.prop2 = prop_table(self.count.T)
+            # calculate 1-in-N odds
+            # see https://math.stackexchange.com/q/1469242
+            self.oneN = 1 / self.prop
+            self.odds = (1 / self.prop) - 1
 
-        # run Fisher's collocation analysis
-        if fishers:
-            self.fishers, self.odds_fishers = sig.apply_fishers(self.count, 0, 1)
-        if dp:
-            self.dp = sig.apply_deltaP(self.count, 0, 1)
-            self.dp2 = sig.apply_deltaP(self.count.T, 0, 1)
+            # run Fisher's collocation analysis
+            if fishers:
+                self.fishers, self.odds_fishers = sig.apply_fishers(self.count, 0, 1)
+            if dp:
+                self.dp = sig.apply_deltaP(self.count, 0, 1)
+                self.dp2 = sig.apply_deltaP(self.count.T, 0, 1)
+
+        # run one dimensional analyses
+        else:
+            self.count = pd.DataFrame(data[pivot_kwargs['index']].value_counts())
+            self.count.columns = ['sum']
+            self.count = self.count.sort_values(by='sum', ascending=False)
+            self.prop = self.count / self.count.sum()
+            self.sum = pd.DataFrame(self.count.sum())
 
 def get_table_headers(df):
     """Identify table headers by indices and store in a dictionary."""
@@ -103,8 +112,8 @@ def make_text_examples(df, ex_params):
     
     for node in df.index:
         ref = df.loc[node]['ref_abbr']
-        esv = df.loc[node]['esv']
-        niv = df.loc[node]['niv']
+        esv = df.loc[node]['esv'].lower()
+        niv = df.loc[node]['niv'].lower()
         bhs = bhs_text[node]
             
         if niv == esv:
@@ -148,8 +157,9 @@ def run_analysis(params, outdir, round=2, table_headers={}):
 
     # export text examples
     ex_dir = outdir.joinpath('examples')
-    ex_dir.mkdir(exist_ok=True)
     for name, exs in exs.items():
+        if not ex_dir.exists():
+            ex_dir.mkdir()
         # text file for copy/paste
         textfile = ex_dir.joinpath(f'{name}.txt')
         textfile.write_text('\n'.join(exs))

@@ -1,0 +1,15 @@
+period,genre,domain2,sum
+SBH,prose,Q,1871
+SBH,prose,N,1461
+LBH,prose,N,522
+LBH,prose,Q,346
+SBH,instruction,Q,203
+SBH,poetry,Q,97
+LBH,list,N,95
+SBH,instruction,N,76
+SBH,list,N,57
+LBH,poetry,Q,39
+SBH,prophetic,Q,10
+SBH,list,Q,9
+SBH,poetry,N,8
+LBH,list,Q,6

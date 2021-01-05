@@ -18,7 +18,7 @@ def clause_objects(verb, clause_atom, clause, api):
                             if F.function.v(p) == 'Objc')
     
     # we can count direct speech clauses following amar as direct objects
-    #amar_obj = F.lex.v(verb) == '>MR[' and 999 in daught_codes 
+    amar_obj = F.lex.v(verb) == '>MR[' and 999 in daught_codes 
     
     data = {}
 
@@ -28,7 +28,7 @@ def clause_objects(verb, clause_atom, clause, api):
         'PreO' in phrase_functs,
         'PtcO' in phrase_functs,
         'Objc' in daught_relas,
-        #amar_obj,
+        amar_obj,
     ])
 
     # retrieve object positionality for phrasal objects
@@ -72,7 +72,7 @@ def clause_locas(verb, loca_lexs, api):
     F, E, L = api.F, api.E, api.L
 
     data = {
-        'has_loca': False,
+        'has_loca': 0,
         'loca_type': [],
         'loca_heads': [],
     }
@@ -84,12 +84,13 @@ def clause_locas(verb, loca_lexs, api):
     loca_ph = [p for p in clause_phrases if F.function.v(p) == 'Loca']
     
     # attempt to find a locative complement
-    if not loca_ph:
-        cmpl_phrs = [p for p in clause_phrases if F.function.v(p) == 'Cmpl']
-        for cp in cmpl_phrs:
-            for head in E.nhead.t(cp):
-                if F.lex.v(head) in loca_lexs:
-                    loca_ph.append(cp)
+    # Remove for now
+#     if not loca_ph:
+#         cmpl_phrs = [p for p in clause_phrases if F.function.v(p) == 'Cmpl']
+#         for cp in cmpl_phrs:
+#             for head in E.nhead.t(cp):
+#                 if F.lex.v(head) in loca_lexs:
+#                     loca_ph.append(cp)
 
     # detect presence of location
     if loca_ph:
@@ -107,6 +108,20 @@ def clause_locas(verb, loca_lexs, api):
 
     return data
 
+def clause_time(verb, api):
+    """Look for an adjunctive Time element in the clause."""
+    L, F = api.L, api.F
+    clause_atom  = L.u(verb, 'clause_atom')[0]
+    time_phs = [
+        p for p in L.d(clause_atom, 'phrase')
+            if F.function.v(p) == 'Time'
+    ]
+    data = {'has_time': 0}
+    if time_phs:
+        data['has_time'] = 1
+    return data
+    
+
 # -- Tag Arguments in General -- 
 
 def tag_ph_arg(ph, api):
@@ -117,7 +132,7 @@ def tag_ph_arg(ph, api):
         'Ques': 'Q',
         'Rela': 'R',
         'Subj': 'S',
-        'Cmpl': 'C',
+        'Cmpl': 'A',
         'Adju': 'A',
         'Time': 'A',
         'Loca': 'A',
@@ -126,8 +141,15 @@ def tag_ph_arg(ph, api):
         'PreO': 'VO',
         'PtcO': 'VO',
     }
+    typ2tag = {
+        'IPrP': 'Q',
+        'InrP': 'Q',
+    }
     function = F.function.v(ph)
-    if function in function2tag:
+    typ = F.typ.v(ph)
+    if typ in typ2tag:
+        return typ2tag[typ]
+    elif function in function2tag:
         return function2tag[function]
 
 def tag_word_arg(word, api):

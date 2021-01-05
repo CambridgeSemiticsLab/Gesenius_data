@@ -9,6 +9,10 @@ from analysis import run_analyses
 DfLoad = DfLoader(snakemake.input.data_dir)
 eng_df = DfLoad.eng_agree()
 
+motion_verbs = ["BW>[", "HLK[", "JY>[", "JRD[", "QWM[", "NWS[", "SWR["]
+punctuals = ["YWH[", "CLX[", "CB<[", "QR>[", 
+            "NKH[", "JCB[", "JLD[", "KRT[", "FRP["]
+
 run_analyses([
     {
         'name': 'verb_stem',
@@ -21,6 +25,24 @@ run_analyses([
         'df': eng_df,
         'index': 'eng_TAM',
         'columns': ['lex', 'stem'],
+        'examples': [
+            {
+                'query': ('eng_TAM == "PAST..IND" '
+                            f'and lex_etcbc.isin({motion_verbs}) '
+                            'and stem == "qal"'),
+            },
+            {
+                'query': f'eng_TAM == "PAST..IND" and lex_etcbc.isin({punctuals})',
+            },
+            {
+                'query': 'eng_TAM == "PAST..IND" and lex_etcbc == "HJH["',
+                'spread': 10,
+            },
+            {
+                'query': 'eng_TAM == "PAST..IND" and lex_etcbc == "MLK["',
+                'spread': 10,
+            },
+        ],
     },
     {
         'name': 'verb_person',

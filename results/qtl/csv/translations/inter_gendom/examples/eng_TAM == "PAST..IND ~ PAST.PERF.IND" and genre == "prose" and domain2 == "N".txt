@@ -1,0 +1,12 @@
+eng_TAM == "PAST..IND ~ PAST.PERF.IND" and genre == "prose" and domain2 == "N"
+10 of 258
+he was taken, he had been taken (ESV, NIV | BHS אֲשֶׁ֥ר לֻקַּ֖ח מִשָּֽׁם׃  Gen. 3:23)
+had left, was left (ESV, NIV | BHS אֲשֶׁ֥ר הֹותִ֖יר הַבָּרָ֑ד  Exod. 10:15)
+walked, had moved about (ESV, NIV | BHS כִּ֣י׀ אַרְבָּעִ֣ים שָׁנָ֗ה הָלְכ֣וּ בְנֵֽי־יִשְׂרָאֵל֮ בַּמִּדְבָּר֒  Josh. 5:6)
+oppressed, had oppressed (ESV, NIV | BHS וְ֠הוּא לָחַ֞ץ אֶת־בְּנֵ֧י יִשְׂרָאֵ֛ל בְּחָזְקָ֖ה עֶשְׂרִ֥ים שָׁנָֽה׃ ס  Judg. 4:3)
+bore, had borne (ESV, NIV | BHS אֲשֶׁ֨ר יָלְדָ֧ה אֵֽשֶׁת־אוּרִיָּ֛ה לְדָוִ֖ד  II Sam. 12:15)
+spoke, had spoken (ESV, NIV | BHS אֲשֶׁ֨ר דִּבֶּ֤ר יְהוָה֙ בְּיַד֙ אֲחִיָּ֣ה הַשִּׁילֹנִ֔י אֶל־יָרָבְעָ֖ם בֶּן־נְבָֽט׃  I Kgs. 12:15)
+he had wiped out, he destroyed (ESV, NIV | BHS עַד־הִשְׁמִידֹ֑ו  II Kgs. 10:17)
+found, had discovered (ESV, NIV | BHS אֲשֶׁ֥ר מָצָ֛א חִלְקִיָּ֥הוּ הַכֹּהֵ֖ן בֵּ֥ית יְהוָֽה׃  II Kgs. 23:24)
+he did, he had undertaken (ESV, NIV | BHS אֲשֶׁ֥ר עָשָׂ֛ה לַמֶּ֥לֶךְ שְׁלֹמֹ֖ה בְּבֵ֥ית הָאֱלֹהִֽים׃  II Chr. 4:11)
+had enjoyed, enjoyed (ESV, NIV | BHS עַד־רָצְתָ֥ה הָאָ֖רֶץ אֶת־שַׁבְּתֹותֶ֑יהָ  II Chr. 36:21)

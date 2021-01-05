@@ -79,7 +79,7 @@ class DfLoader:
     def eng_agree(self):
         """Get DF where english translations agree."""
         df = self.df_safe()
-        df = df[df.eng_agree]
+        df = df[df.eng_agree == 1]
         return df
 
     @get_df
@@ -92,4 +92,19 @@ class DfLoader:
     def niv(self):
         df = self.df_safe()
         df = df[df.niv_TAM.str.match('.*', na=False)]
+        return df
+
+    @get_df
+    def eng_both(self):
+        df = self.df_safe()
+        df = df[
+            (df.esv_TAM.str.match('.*', na=False))
+            & (df.niv_TAM.str.match('.*', na=False))
+        ]
+        return df
+
+    @get_df
+    def eng_disagree(self):
+        df = self.eng_both()
+        df = df[df.eng_agree == 0]
         return df

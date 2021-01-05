@@ -1,0 +1,12 @@
+eng_TAM == "PAST..IND ~ PRES..IND" and genre.isin(["poetry", "prophetic"]) and domain2 == "Q"
+10 of 130
+he stooped down, he crouches (ESV, NIV | BHS כָּרַ֨ע  Gen. 49:9)
+uncovered, uncovers (ESV, NIV | BHS וְקִ֥יר עֵרָ֖ה מָגֵֽן׃  Isa. 22:6)
+i heard, i hear (ESV, NIV | BHS כִּי֩ קֹ֨ול כְּחֹולָ֜ה שָׁמַ֗עְתִּי  Jer. 4:31)
+is given, was given (ESV, NIV | BHS נִתְּנָ֥ה הָאָ֖רֶץ לְמֹורָשָֽׁה׃ ס  Ezek. 11:15)
+seized, seizes (ESV, NIV | BHS כִּֽי־הֶחֱזִיקֵ֥ךְ חִ֖יל כַּיֹּולֵדָֽה׃  Mic. 4:9)
+there is, there was (ESV, NIV | BHS לֹא־הָ֪יָה֫ פָ֥חַד  Psa. 53:6)
+you hold, you kept (ESV, NIV | BHS אָ֭חַזְתָּ שְׁמֻרֹ֣ות עֵינָ֑י  Psa. 77:5)
+i dread, i dreaded (ESV, NIV | BHS אֲשֶׁ֥ר יָ֝גֹ֗רְתִּי  Job 3:25)
+satisfied, is satisfied (ESV, NIV | BHS לֹא־שָׂ֣בְעָה מַּ֑יִם  Prov. 30:16)
+you set, you gave (ESV, NIV | BHS אֲשֶׁר־נָתַ֥תָּ לִפְנֵיהֶ֖ם  Neh. 9:35)

@@ -1,0 +1,17 @@
+clause_rela,Main,SubAdv,SubMod,SubArg,Main,SubMod,SubAdv,SubArg
+has_loca,0,0,0,0,1,1,1,1
+eng_TAM,,,,,,,,
+PAST..IND,0.68,6.02,4.82,44.23,21.74,79.71,120.06,315.62
+PRES.PERF.IND,0.84,3.35,5.13,21.63,74.94,260.56,469.8,2353.0
+PRES..IND,0.35,4.57,19.22,78.31,92.73,228.11,514.5,inf
+PAST.PERF.IND,4.01,3.6,1.52,7.41,70.09,25.97,70.09,390.0
+FUT..IND,0.19,5.9,inf,68.0,inf,inf,inf,inf
+PAST..SUBJ,0.24,5.89,19.67,inf,inf,inf,inf,inf
+PRES..MOD,0.38,4.5,26.5,26.5,54.0,inf,inf,inf
+PRES..,0.68,3.0,5.4,inf,inf,inf,inf,inf
+PRES.PROG.IND,0.38,17.0,8.0,8.0,inf,inf,inf,inf
+PAST.PROG.IND,0.62,3.33,inf,5.5,inf,inf,inf,inf
+..,0.67,4.0,inf,4.0,inf,inf,inf,inf
+past.PERF_PROG.IND,inf,inf,0.0,inf,inf,inf,inf,inf
+FUT.PERF.IND,0.0,inf,inf,inf,inf,inf,inf,inf
+PRES.PERF_PROG.IND,inf,0.0,inf,inf,inf,inf,inf,inf

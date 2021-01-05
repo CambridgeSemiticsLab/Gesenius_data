@@ -32,10 +32,10 @@ run_analyses([
         'columns': 'period',
     },
     {
-        'name': 'period_genre',
-        'df': eng_df[eng_df.genre.isin(main_genre)],
+        'name': 'period_gendom',
+        'df': eng_df[eng_df.domain2.isin(main_dom)],
         'index': 'eng_TAM',
-        'columns': ['period', 'genre'],
+        'columns': ['period', 'genre', 'domain2'],
     },
     {
         'name': 'period_domain',
@@ -45,7 +45,7 @@ run_analyses([
     },
     {
         'name': 'genre_domain',
-        'df': eng_df[(eng_df.domain2.isin(main_dom)) & (eng_df.genre.isin(main_genre))],
+        'df': eng_df[eng_df.domain2.isin(main_dom)],
         'index': ['genre', 'domain2'],
         'columns': 'eng_TAM',
     },
