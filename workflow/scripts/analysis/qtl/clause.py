@@ -49,7 +49,24 @@ run_analyses([
         'index': 'eng_TAM',
         'columns': ['clause_rela', 'prec_part'],
     },
-   {
+    {
+        'name': 'prec_part',
+        'df': eng_df,
+        'index': 'eng_TAM',
+        'columns': 'prec_part',
+        'examples': [
+            {
+                'query': ('eng_TAM == "PRES.PERF.IND" '
+                            'and prec_part == "_KJ_" '),
+            },
+            {
+                'query': ('eng_TAM == "PRES.PERF.IND" '
+                            'and prec_part.str.match("^_>M_.*")'),
+                'spread': 10,
+            },
+        ],
+    },
+    {
         'name': 'args',
         'df': eng_df,
         'index': 'eng_TAM',
@@ -70,13 +87,31 @@ run_analyses([
             {
                 'query': 'eng_TAM == "PAST..IND" and cl_args == "SV"',
             },
+            {
+                'query': ('eng_TAM == "PRES.PERF.IND" '
+                            'and cl_args.str.match("QV") ')
+            },
+            {
+                'query': ('eng_TAM == "PRES.PERF.IND" '
+                            'and cl_args.str.match("IV") ')
+            },
+            {
+                'query': ('eng_TAM == "PRES.PERF.IND" '
+                            'and cl_args.str.match("C[OS]?V") '
+                            'and (~prec_part.str.match(".*_KJ_|.*_>M_")) '),
+                'spread': 10,
+            },
+            {
+                'query': ('eng_TAM == "PRES.PERF.IND" '
+                            'and cl_args == "V"')
+            },
         ]
     },
     {
         'name': 'args_mother',
         'df': eng_df,
-        'index': ['eng_TAM', 'cl_args'],
-        'columns': 'mother_verbtype',
+        'index': 'eng_TAM',
+        'columns': ['cl_args','mother_verbtype'],
         'examples': [
             {
                 'query': ('eng_TAM == "PAST..IND" '
@@ -92,17 +127,33 @@ run_analyses([
                 'bhs_text': ['mother_clause', 'clause_atom'],
                 'spread': 10,
             },
-
             {
                 'query': ('eng_TAM == "PAST..IND"'
                             'and cl_args.str.match("_W_[OS]V") ' 
                             'and mother_verbtype == "wayq" '
-                            'and mother_verb_ps == "p3" '
+                            'and mother_verbplain == "יהי" '
                             'and mother_verb_lex == "HJH[" '),
                 'bhs_text': ['mother_clause', 'clause_atom'],
-                'spread': 10,
+                'spread': 20,
             },
-
+            {
+                'query': ('eng_TAM == "PAST..IND"'
+                            'and cl_args == "CV" ' 
+                            'and mother_verbtype == "yqtl" '),
+                'bhs_text': ['mother_clause', 'clause_atom'],
+            },
+            {
+                'query': ('eng_TAM == "PAST..IND"'
+                            'and cl_args == "RV" ' 
+                            'and mother_verbtype == "yqtl" '),
+                'bhs_text': ['mother_clause', 'clause_atom'],
+            },
+            {
+                'query': ('eng_TAM == "PAST..IND"'
+                            'and cl_args == "CV" ' 
+                            'and mother_verbtype == "impv" '),
+                'bhs_text': ['mother_clause', 'clause_atom'],
+            },
         ],
     },
     {

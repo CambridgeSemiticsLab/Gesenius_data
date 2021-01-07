@@ -1,0 +1,12 @@
+eng_TAM == "PRES.PERF.IND" and domain2 == "N" and (~txt_type.str.match("[QD]"))
+10 of 10
+has blessed (ESV, NIV | BHS כִּי֩ יְהוָ֨ה אֱלֹהֶ֜יךָ בֵּֽרַכְךָ֗ בְּכֹל֙ מַעֲשֵׂ֣ה יָדֶ֔ךָ  Deut. 2:7)
+you have lacked (ESV, NIV | BHS לֹ֥א חָסַ֖רְתָּ דָּבָֽר׃  Deut. 2:7)
+has arisen, has risen (ESV, NIV | BHS וְלֹֽא־קָ֨ם נָבִ֥יא עֹ֛וד בְּיִשְׂרָאֵ֖ל כְּמֹשֶׁ֑ה  Deut. 34:10)
+has belonged (ESV, NIV | BHS לָכֵ֞ן הָיְתָ֤ה צִֽקְלַג֙ לְמַלְכֵ֣י יְהוּדָ֔ה עַ֖ד הַיֹּ֥ום הַזֶּֽה׃ פ  I Sam. 27:6)
+has come, has been imported (ESV, NIV | BHS לֹ֣א בָֽא־כֵ֞ן עֲצֵ֤י אַלְמֻגִּים֙  I Kgs. 10:12)
+they have perverted (ESV, NIV | BHS כִּ֤י הֶעֱוּוּ֙ אֶת־דַּרְכָּ֔ם  Jer. 3:21)
+they have forgotten, have forgotten (ESV, NIV | BHS שָׁכְח֖וּ אֶת־יְהֹוָ֥ה אֱלֹהֵיהֶֽם׃  Jer. 3:21)
+has decreed (ESV, NIV | BHS דִּבֶּ֥ר עָלַ֖יִךְ רָעָ֑ה בִּ֠גְלַל רָעַ֨ת בֵּֽית־יִשְׂרָאֵ֜ל וּבֵ֣ית יְהוּדָ֗ה  Jer. 11:17)
+have rejected (ESV, NIV | BHS אַ֣תְּ נָטַ֥שְׁתְּ אֹתִ֛י  Jer. 15:6)
+i have made, i have provided (ESV, NIV | BHS אֲשֶׁ֥ר עָשִׂ֖יתִי  I Chr. 23:5)

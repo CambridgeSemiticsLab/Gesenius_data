@@ -1,0 +1,7 @@
+eng_TAM == "PRES.PERF.IND" and lex_etcbc == "CM<["
+5 of 112
+has listened, has heard (ESV, NIV | BHS כִּֽי־שָׁמַ֥ע יְהוָ֖ה אֶל־עָנְיֵֽךְ׃  Gen. 16:11)
+has heard (ESV, NIV | BHS כַּֽאֲשֶׁר֙ שָׁמַ֣ע עַבְדֶּ֔ךָ  I Sam. 23:11)
+has proclaimed, has made proclamation (ESV, NIV | BHS הִנֵּ֣ה יְהוָ֗ה הִשְׁמִ֨יעַ֙ אֶל־קְצֵ֣ה הָאָ֔רֶץ  Isa. 62:11)
+they have listened, they have obeyed (ESV, NIV | BHS כִּ֛י לֹ֥א שָׁמְע֖וּ לֹ֑ו  Hos. 9:17)
+have heard (ESV, NIV | BHS וְגַם־אֲנִ֥י שָׁמַ֖עְתִּי  II Chr. 34:27)

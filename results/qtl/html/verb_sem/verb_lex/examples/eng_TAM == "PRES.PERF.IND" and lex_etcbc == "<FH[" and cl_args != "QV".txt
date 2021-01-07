@@ -1,0 +1,7 @@
+eng_TAM == "PRES.PERF.IND" and lex_etcbc == "<FH[" and cl_args != "QV"
+5 of 181
+you have done (ESV, NIV | BHS כִּ֣י עָשִׂ֣יתָ זֹּאת֒  Gen. 3:14)
+has worked, has rescued (ESV, NIV | BHS כִּ֥י הַיֹּ֛ום עָשָֽׂה־יְהוָ֥ה תְּשׁוּעָ֖ה בְּיִשְׂרָאֵֽל׃ ס  I Sam. 11:13)
+has done, has been done (ESV, NIV | BHS שַֽׁעֲרֻרִת֙ עָשְׂתָ֣ה מְאֹ֔ד בְּתוּלַ֖ת יִשְׂרָאֵֽל׃  Jer. 18:13)
+he has done (ESV, NIV | BHS כִּ֣י עָשָֽׂה׃  Psa. 22:32)
+you have done (ESV, NIV | BHS כִּֽי־עָשִׂ֣יתָ זֹּ֔את  II Chr. 25:16)

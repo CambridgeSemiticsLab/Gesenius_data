@@ -1,0 +1,7 @@
+eng_TAM == "PRES.PERF.IND" and lex_etcbc == "CMR["
+5 of 17
+have kept, have done (ESV, NIV | BHS אַתֶּ֣ם שְׁמַרְתֶּ֔ם אֵ֚ת כָּל־ Josh. 22:2)
+i have kept (ESV, NIV | BHS כִּ֥י שָׁמַ֖רְתִּי דַּרְכֵ֣י יְהוָ֑ה  II Sam. 22:22)
+has been careful (ESV, NIV | BHS אֵ֣ת כָּל־חֻקֹּותַ֥י שָׁמַ֛ר  Ezek. 18:19)
+i have kept (ESV, NIV | BHS כִּֽי־שָׁ֭מַרְתִּי דַּרְכֵ֣י יְהוָ֑ה  Psa. 18:22)
+have kept (ESV, NIV | BHS עַל֩ אֲשֶׁ֨ר לֹא־שָׁמְר֤וּ אֲבֹותֵ֨ינוּ֙ אֶת־דְּבַ֣ר יְהוָ֔ה  II Chr. 34:21)

@@ -1,0 +1,17 @@
+eng_TAM == "PRES.PERF.IND" and genre == "instruction" and domain2 == "Q" 
+15 of 109
+has come (ESV, NIV | BHS בָּ֖א הָאֱלֹהִ֑ים  Exod. 20:20)
+i have called, i have chosen (ESV, NIV | BHS קָרָ֣אתִֽי בְשֵׁ֑ם בְּצַלְאֵ֛ל בֶּן־אוּרִ֥י בֶן־ח֖וּר לְמַטֵּ֥ה יְהוּדָֽה׃  Exod. 31:2)
+he has committed (ESV, NIV | BHS אֲשֶׁר־חָטָ֖א  Lev. 4:35)
+has turned (ESV, NIV | BHS וּשְׂעָרָ֖ה לֹא־הָפַ֣ךְ לָבָ֑ן  Lev. 13:4)
+has turned, it has turned (ESV, NIV | BHS כֻּלֹּ֛ו הָפַ֥ךְ לָבָ֖ן  Lev. 13:13)
+has spread (ESV, NIV | BHS פָּשָׂ֥ה הַנֶּ֖תֶק בָּעֹ֑ור  Lev. 13:36)
+has spread (ESV, NIV | BHS וְהִנֵּ֛ה פָּשָׂ֥ה הַנֶּ֖גַע בְּקִירֹ֥ת הַבָּֽיִת׃  Lev. 14:39)
+he has committed (ESV, NIV | BHS אֲשֶׁ֣ר חָטָ֑א  Lev. 19:22)
+he has uncovered, he has dishonored (ESV, NIV | BHS עֶרְוַ֥ת דֹּדֹ֖ו גִּלָּ֑ה  Lev. 20:20)
+has lain with, has slept with (ESV, NIV | BHS אִם־לֹ֨א שָׁכַ֥ב אִישׁ֙ אֹתָ֔ךְ  Num. 5:19)
+he has despised (ESV, NIV | BHS כִּ֤י דְבַר־יְהוָה֙ בָּזָ֔ה  Num. 15:31)
+has given (ESV, NIV | BHS אֲשֶׁר֩ נָתַ֨ן יְהוָ֜ה אֱלֹהֵ֧י אֲבֹתֶ֛יךָ לְךָ֖  Deut. 12:1)
+has been done (ESV, NIV | BHS נֶעֶשְׂתָ֛ה הַתֹּועֵבָ֥ה הַזֹּ֖את בְּקִרְבֶּֽךָ׃  Deut. 13:15)
+i have commanded (ESV, NIV | BHS אֵ֣ת אֲשֶׁ֤ר לֹֽא־צִוִּיתִיו֙  Deut. 18:20)
+he has violated (ESV, NIV | BHS תַּ֚חַת אֲשֶׁ֣ר עִנָּ֔הּ  Deut. 22:29)

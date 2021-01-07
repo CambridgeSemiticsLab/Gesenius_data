@@ -1,0 +1,12 @@
+eng_TAM == "PRES.PERF.IND" and prec_part.str.match("^_>M_.*")
+10 of 38
+i have found (ESV, NIV | BHS אִם־נָ֨א מָצָ֤אתִי חֵן֙ בְּעֵינֶ֔יךָ  Gen. 18:3)
+he has put, he has laid (ESV, NIV | BHS אִם־לֹ֥א שָׁלַ֛ח יָדֹ֖ו בִּמְלֶ֥אכֶת רֵעֵֽהוּ׃  Exod. 22:7)
+have come (ESV, NIV | BHS בָּ֣אוּ הָאֲנָשִׁ֔ים  Num. 22:20)
+have kept themselves (ESV, NIV | BHS אִם־נִשְׁמְר֥וּ הַנְּעָרִ֖ים אַ֥ךְ מֵאִשָּֽׁה׃ פ  I Sam. 21:5)
+they have come out (ESV, NIV | BHS אִם־לְשָׁלֹ֥ום יָצָ֖אוּ  I Kgs. 20:18)
+i have done (ESV, NIV | BHS אִם־עָשִׂ֣יתִי זֹ֑את  Psa. 7:4)
+i have raised (ESV, NIV | BHS אִם־הֲנִיפֹ֣ותִי עַל־יָתֹ֣ום יָדִ֑י  Job 31:21)
+i have eaten, i have devoured (ESV, NIV | BHS אִם־כֹּ֖חָהּ אָכַ֣לְתִּי בְלִי־כָ֑סֶף  Job 31:39)
+you have been foolish, you have played the fool (ESV, NIV | BHS אִם־נָבַ֥לְתָּ  Prov. 30:32)
+you have come (ESV, NIV | BHS אִם־לְשָׁלֹ֞ום בָּאתֶ֤ם אֵלַי֙  I Chr. 12:18)

@@ -1,0 +1,7 @@
+eng_TAM == "PRES.PERF.IND" and lex_etcbc == "NTN["
+5 of 132
+i have set (ESV, NIV | BHS אֶת־קַשְׁתִּ֕י נָתַ֖תִּי בֶּֽעָנָ֑ן  Gen. 9:13)
+he has given (ESV, NIV | BHS אֲשֶׁ֥ר נָֽתַן־לָֽךְ׃  Deut. 8:10)
+has given (ESV, NIV | BHS כִּֽי־נָתַ֧ן יְהוָ֛ה בְּיֶדְכֶ֖ם אֶת־מַחֲנֵ֥ה מִדְיָֽן׃  Judg. 7:15)
+he has given (ESV, NIV | BHS כִּֽי־נָתַ֥ן לָכֶ֛ם אֶת־הַמֹּורֶ֖ה לִצְדָקָ֑ה  Joel 2:23)
+has given (ESV, NIV | BHS כָּל־מַמְלְכֹ֤ות הָאָ֨רֶץ֙ נָ֣תַן לִ֗י יְהוָה֙ אֱלֹהֵ֣י הַשָּׁמַ֔יִם  II Chr. 36:23)

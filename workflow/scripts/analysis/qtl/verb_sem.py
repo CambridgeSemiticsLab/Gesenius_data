@@ -42,6 +42,40 @@ run_analyses([
                 'query': 'eng_TAM == "PAST..IND" and lex_etcbc == "MLK["',
                 'spread': 10,
             },
+            {
+                'query': 'eng_TAM == "PRES.PERF.IND" and lex_etcbc == "<FH[" and cl_args != "QV"',
+                'spread': 5,
+            },
+
+            {
+                'query': 'eng_TAM == "PRES.PERF.IND" and lex_etcbc == "NTN["',
+                'spread': 5,
+            },
+            {
+                'query': 'eng_TAM == "PRES.PERF.IND" and lex_etcbc == "FJM["',
+                'spread': 5,
+            },
+            {
+                'query': 'eng_TAM == "PRES.PERF.IND" and lex_etcbc == ">KL["',
+                'spread': 5,
+            },
+            {
+                'query': 'eng_TAM == "PRES.PERF.IND" and lex_etcbc == "CMR["',
+                'spread': 5,
+            },
+            {
+                'query': 'eng_TAM == "PRES.PERF.IND" and lex_etcbc == "BXR["',
+                'spread': 5,
+            },
+            {
+                'query': 'eng_TAM == "PRES.PERF.IND" and lex_etcbc == "CM<["',
+                'spread': 5,
+            },
+            {
+                'query': 'eng_TAM == "PRES.PERF.IND" and lex_etcbc == "R>H["',
+                'spread': 5,
+            },
+
         ],
     },
     {

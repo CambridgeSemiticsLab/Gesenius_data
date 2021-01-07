@@ -94,10 +94,17 @@ def get_table_headers(df):
 
 def make_text_examples(df, ex_params):
     """Build copy and pastable text samples."""
-    
+
+    # execute query
     query = ex_params['query']
     df = df.query(ex_params['query'])
     n_results = df.shape[0]
+
+    # return empty search results
+    if n_results == 0:
+        return [query, '0 results']
+
+    # or process into examples:
     spread = ex_params.get('spread', 25)
     spread_i = get_spread(df.index, spread)
     df = df.loc[spread_i]
@@ -107,9 +114,9 @@ def make_text_examples(df, ex_params):
     bhs_joiner = ex_params.get('bhs_joiner', '')
     bhs_text = ex_params.get('bhs_text', ['clause_atom'])
     bhs_text = df[bhs_text].astype(str).agg(bhs_joiner.join, axis=1)
-
-    exs = [query, f'{df.shape[0]} of {n_results}']
     
+    exs = [query, f'{df.shape[0]} of {n_results}']
+
     for node in df.index:
         ref = df.loc[node]['ref_abbr']
         esv = df.loc[node]['esv'].lower()

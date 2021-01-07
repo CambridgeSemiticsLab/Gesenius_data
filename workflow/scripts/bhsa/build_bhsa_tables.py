@@ -150,20 +150,22 @@ def nearby_clatom_data(clatom_lookup):
         dict of data on the first clause_atom in the lookup, if
         one was found, else an empty dict 
     """
-    rel_dat = {'cl':'', 'cl_atom': '', 'clause':'', 'rela': '', 'domain2': '', 'verbtype': '',
-               'type': '', 'verb_ps': '', 'verb_lex': ''}
+    rel_dat = {'clause':'', 'cl_atom': '', 'clause_atom':'', 'rela': '', 'domain2': '', 'verbtype': '',
+               'type': '', 'verb_ps': '', 'verb_lex': '', 'verbplain': ''}
     # retrive data on first clause in the lookup; if there is one
     if clatom_lookup:
         cl_atom = rel_dat['cl_atom'] = clatom_lookup[0]
-        cl = rel_dat['cl'] = L.u(cl_atom, 'clause')[0]
+        cl = L.u(cl_atom, 'clause')[0]
         verb = next((w for w in L.d(cl_atom, 'word') if F.pdp.v(w) == 'verb'), 0)
         rel_dat['verb_lex'] = F.lex.v(verb)
         rel_dat['verb_ps'] = F.ps.v(verb)
         rel_dat['type'] = F.typ.v(cl_atom)
+        rel_dat['verbplain'] = F.g_cons_utf8.v(verb)
         rel_dat['verbtype'] = get_cl_verbform(cl_atom, bhsa)
         rel_dat['domain2'] = permissive_q(cl, bhsa) # domain with permissive Q
         rel_dat['rela'] = clause_relator(cl, bhsa)
-        rel_dat['clause'] = T.text(cl_atom)
+        rel_dat['clause_atom'] = T.text(cl_atom)
+        rel_dat['clause'] = T.text(cl)
     return rel_dat
 
 def clrela_row(node):

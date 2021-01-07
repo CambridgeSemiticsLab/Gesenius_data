@@ -1,0 +1,15 @@
+esv_TAM,PAST..IND,PRES.PERF.IND,PRES..IND,PAST.PERF.IND,FUT..IND,PRES..,PRES..MOD,PAST..SUBJ,PRES.PROG.IND,PAST.PROG.IND,..,past.PERF_PROG.IND,PRES.PERF_PROG.IND,FUT.PERF.IND,FUT..MOD
+PAST..IND,0.17,25.83,36.15,16.56,535.67,93.71,283.12,965.0,965.0,200.25,283.12,4829.0,inf,inf,inf
+PRES.PERF.IND,6.96,0.39,10.14,84.89,33.36,147.36,361.67,inf,129.56,815.0,407.0,inf,815.0,3263.0,3263.0
+PRES..IND,30.61,18.17,0.18,1216.0,21.33,186.23,151.12,2433.0,127.11,2433.0,346.71,inf,inf,inf,inf
+PAST.PERF.IND,6.04,93.3,942.0,0.21,inf,470.5,942.0,470.5,inf,234.75,313.33,234.75,inf,inf,inf
+PRES..MOD,15.0,41.67,17.29,63.0,1.72,63.0,1.33,63.0,inf,inf,63.0,inf,inf,inf,inf
+PAST..SUBJ,3.84,22.0,inf,inf,91.0,91.0,45.0,0.48,inf,inf,29.67,inf,inf,inf,inf
+FUT..IND,83.0,inf,11.0,inf,0.22,27.0,83.0,inf,inf,inf,83.0,inf,inf,inf,41.0
+PRES..,2.0,10.0,21.0,inf,inf,1.06,65.0,inf,65.0,65.0,inf,inf,inf,inf,inf
+PAST.PROG.IND,3.0,inf,inf,11.0,inf,11.0,inf,inf,inf,0.85,inf,23.0,inf,inf,inf
+PRES.PROG.IND,inf,inf,19.0,inf,19.0,inf,inf,inf,0.11,inf,inf,inf,inf,inf,inf
+..,5.5,12.0,5.5,inf,inf,5.5,inf,12.0,inf,inf,1.6,inf,inf,inf,inf
+FUT.PERF.IND,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,1.0,inf
+PRES.PERF_PROG.IND,inf,2.0,inf,inf,inf,inf,inf,inf,2.0,inf,inf,inf,2.0,inf,inf
+past.PERF_PROG.IND,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,0.0,inf,inf,inf

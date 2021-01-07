@@ -39,9 +39,29 @@ run_analyses([
         'index': 'eng_TAM',
     },
     {
+        'name': 'trans_tam',
+        'df': both_df,
+        'index': 'esv_TAM',
+        'columns': 'niv_TAM',
+        'fishers': False,
+    },
+    {
         'name': 'disag_past',
-        'df': disag_df[disag_df.eng_TAM.str.match('PAST\.\.IND')],
+        'df': disag_df[disag_df.eng_TAM.str.match('.*PAST\.\.IND')],
         'index': 'eng_TAM',
+    },
+    {
+        'name': 'disag_pres_perf',
+        'df': disag_df[disag_df.eng_TAM.str.match('.*PRES\.PERF\.IND')],
+        'index': 'eng_TAM',
+        'examples': [
+            {
+                'query': ('eng_TAM == "FUT..IND ~ PRES.PERF.IND"'),
+            },
+            {
+                'query': ('eng_TAM == "PRES..IND ~ PRES.PERF.IND"'),
+            },
+        ],
     },
     {
         'name': 'disag_domain',

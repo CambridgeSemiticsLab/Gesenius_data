@@ -1,0 +1,7 @@
+eng_TAM == "PRES.PERF.IND" and lex_etcbc == ">KL["
+5 of 25
+have you eaten (ESV, NIV | BHS אָכָֽלְתָּ׃  Gen. 3:11)
+has devoured, have consumed (ESV, NIV | BHS וְהַבֹּ֗שֶׁת אָֽכְלָ֛ה אֶת־יְגִ֥יעַ אֲבֹותֵ֖ינוּ מִנְּעוּרֵ֑ינוּ אֶת־צֹאנָם֙ וְאֶת־בְּקָרָ֔ם אֶת־בְּנֵיהֶ֖ם וְאֶת־בְּנֹותֵיהֶֽם׃  Jer. 3:24)
+you have eaten (ESV, NIV | BHS אֲכַלְתֶּ֣ם פְּרִי־כָ֑חַשׁ  Hos. 10:13)
+has eaten, have eaten (ESV, NIV | BHS אֲשֶׁר֙ אָכַ֣ל הָֽאַרְבֶּ֔ה הַיֶּ֖לֶק וְהֶחָסִ֣יל וְהַגָּזָ֑ם חֵילִי֙ הַגָּדֹ֔ול  Joel 2:25)
+have been destroyed (ESV, NIV | BHS וּשְׁעָרֶ֖יהָ אֻכְּל֥וּ בָאֵֽשׁ׃ ס  Neh. 2:3)

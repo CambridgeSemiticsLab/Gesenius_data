@@ -1,0 +1,9 @@
+eng_TAM == "PRES.PERF.IND" and domain2.str.match("[ND?]") and genre == "prose"
+7 of 7
+has blessed (ESV, NIV | BHS כִּי֩ יְהוָ֨ה אֱלֹהֶ֜יךָ בֵּֽרַכְךָ֗ בְּכֹל֙ מַעֲשֵׂ֣ה יָדֶ֔ךָ  Deut. 2:7)
+you have lacked (ESV, NIV | BHS לֹ֥א חָסַ֖רְתָּ דָּבָֽר׃  Deut. 2:7)
+i have given (ESV, NIV | BHS כִּ֥י לִבְנֵי־לֹ֖וט נְתַתִּ֥יהָ יְרֻשָּֽׁה׃  Deut. 2:19)
+has arisen, has risen (ESV, NIV | BHS וְלֹֽא־קָ֨ם נָבִ֥יא עֹ֛וד בְּיִשְׂרָאֵ֖ל כְּמֹשֶׁ֑ה  Deut. 34:10)
+there has been (ESV, NIV | BHS וְלֹ֨א הָיָ֜ה כַּיֹּ֤ום הַהוּא֙ לְפָנָ֣יו וְאַחֲרָ֔יו  Josh. 10:14)
+has belonged (ESV, NIV | BHS לָכֵ֞ן הָיְתָ֤ה צִֽקְלַג֙ לְמַלְכֵ֣י יְהוּדָ֔ה עַ֖ד הַיֹּ֥ום הַזֶּֽה׃ פ  I Sam. 27:6)
+has come, has been imported (ESV, NIV | BHS לֹ֣א בָֽא־כֵ֞ן עֲצֵ֤י אַלְמֻגִּים֙  I Kgs. 10:12)

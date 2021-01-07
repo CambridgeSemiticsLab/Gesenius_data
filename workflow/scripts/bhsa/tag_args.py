@@ -137,6 +137,8 @@ def tag_ph_arg(ph, api):
         'Time': 'A',
         'Loca': 'A',
         'Modi': 'A',
+        'PreC': 'A',
+        'PrAd': 'A',
         'Intj': 'I',
         'PreO': 'VO',
         'PtcO': 'VO',
@@ -147,10 +149,13 @@ def tag_ph_arg(ph, api):
     }
     function = F.function.v(ph)
     typ = F.typ.v(ph)
+    ph_lexs = [F.lex.v(w) for w in L.d(ph, 'word')]
     if typ in typ2tag:
         return typ2tag[typ]
     elif function in function2tag:
         return function2tag[function]
+    elif function == 'Conj' and 'W' not in ph_lexs:
+        return 'C'
 
 def tag_word_arg(word, api):
     """Tag various word arguments of interest."""
@@ -166,8 +171,18 @@ def tag_word_arg(word, api):
 def tag_cl_arg(cl, api):
     """Tag various daughter clause arguments of interest."""
     F = api.F
-    if F.rela.v(cl) ==  'Objc':
-        return 'O'
+    rela2tag = {
+        'Objc': 'O',
+        'Subj': 'S',
+        'Adju': 'A',
+        'Cmpl': 'A',
+        'Spec': 'A',
+        'PrAd': 'A',
+        'PreC': 'A',
+        'Attr': 'Rc',
+    }
+    rela = F.rela.v(cl)
+    return rela2tag.get(rela, '')
 
 def get_args(node, slot_getter, arg_getter, covered_slots, api):
     """Get args by running arg_getter function and add to a list."""
@@ -194,7 +209,8 @@ def clause_args(verb, api):
     clause_atom = L.u(verb, 'clause_atom')[0]
     cl_phrases = L.d(clause, 'phrase')
     cl_words = L.d(clause, 'word')
-    cl_daughts = E.mother.t(clause_atom)
+    cla_daughts = E.mother.t(clause_atom)
+    cl_daughts = E.mother.t(clause)
     
     # add any of three different types of objects;
     # priority is determined by order, so e.g. a phrase takes
@@ -207,6 +223,8 @@ def clause_args(verb, api):
         args.extend(get_args(p, slots_node, tag_ph_arg, covered_slots, api))
     for w in cl_words:
         args.extend(get_args(w, slots_word, tag_word_arg, covered_slots, api))
+    #for d in cla_daughts:
+    #    args.extend(get_args(d, slots_node, tag_cl_arg, covered_slots, api))
     for d in cl_daughts:
         args.extend(get_args(d, slots_node, tag_cl_arg, covered_slots, api))
 

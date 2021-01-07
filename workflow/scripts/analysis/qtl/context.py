@@ -45,9 +45,28 @@ run_analyses([
     },
     {
         'name': 'genre_domain',
-        'df': eng_df[eng_df.domain2.isin(main_dom)],
+        'df': eng_df,
         'index': ['genre', 'domain2'],
         'columns': 'eng_TAM',
+        'examples': [
+            {
+                'query': ('eng_TAM == "PRES.PERF.IND" '
+                            'and domain2 == "N" '
+                            'and (~txt_type.str.match("[QD]"))')
+            },
+            {
+                'query': ('eng_TAM == "PRES.PERF.IND" '
+                            'and domain2.str.match("[ND?]") '
+                            'and genre == "prose"'),
+            },
+            {
+                'query': ('eng_TAM == "PRES.PERF.IND" '
+                            'and genre == "instruction" '
+                            'and domain2 == "Q" '),
+                'spread': 15,
+            },
+
+        ],
     },
 
 ], snakemake.output.dir)  

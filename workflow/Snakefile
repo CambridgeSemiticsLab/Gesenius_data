@@ -1,6 +1,8 @@
 # Snakemake Workflow for Gesenius Data 
 # see https://snakemake.readthedocs.io
 
+from pathlib import Path
+
 configfile: "../config/config.yaml"
 tf_modules = [
     # order strategically to set priorities for features
@@ -54,17 +56,18 @@ rule get_samples:
 # -- build csv tables --
 
 # - BHSA -
-bhsa_script="scripts/bhsa/build_bhsa_tables.py"
+bhsa_scripts = Path("scripts/bhsa")
+main_bhsa="scripts/bhsa/build_bhsa_tables.py"
 rule bhsa_tables:
     input:
         sample="../results/samples/{verb}.json",
         tf_mods=tf_modules,
-        script=bhsa_script
+        scripts=list(bhsa_scripts.glob('*.py'))
     output:
         bhsa=temp("../results/csv/{verb}/_bhsa_.csv"),
         bhsa_clrela=temp("../results/csv/{verb}/_bhsa_clrela_.csv"),
     script:
-        bhsa_script
+        main_bhsa
 
 # - English -
 eng_script="scripts/english/build_eng_tables.py"
