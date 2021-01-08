@@ -26,21 +26,44 @@ tf_modules = [
 #             git clone https://github.com/{}    
 #         """
 
-# -- parse english data --
-#GBI_datadir = "_private_/GBI_alignment/"
-#rule parse_english_raw:
+# -- make various mappings with GBI data --
+rule preprocess_gbi:
+    input:
+        niv="_private_/GBI_alignment/niv84.ot.alignment.json",
+        esv="_private_/GBI_alignment/esv.ot.alignment.json",    
+    output:
+        word_data="_private_/GBI_alignment/word_data.pickle",
+        verse2words="_private_/GBI_alignment/verse2words.pickle",
+        linkbyid="_private_/GBI_alignment/linkbyid.pickle",
+        id2link="_private_/GBI_alignment/id2link.pickle",
+    script: 
+        "scripts/english/parse/preprocess_gbi.py"
+
+# -- match 1 BHSA verbnode to 1 GBI word id
+rule align_gbi_verbs:
+    input:
+        script="scripts/english/parse/align_verbs.py",
+        bhsa2gbi="_private_/GBI_alignment/bhsa2gbi.json",
+        tf_mods=tf_modules,
+        word_data=rules.preprocess_gbi.output.word_data
+    output:
+        matches="_private_/GBI_alignment/verb_bhsa2gbi.json",
+        no_match="_private_/GBI_alignment/verb_no_match.txt",
+    script:
+        "scripts/english/parse/align_verbs.py"
+
+## -- parse english data --
+#rule raw_parse_english:
 #    input:
-#        niv_data=GBI_datadir+"niv84.ot.alignment.json",
-#        esv_data=GBI_datadir+"esv.ot.alignment.json", 
-#        bhsa_links=GBI_datadir+"bhsa2gbi.json"
+#        niv="_private_/GBI_alignment/niv84.ot.alignment.json",
+#        esv="_private_/GBI_alignment/esv.ot.alignment.json", 
+#        bhsa_links="_private/GBI_alignment/bhsa2gbi.json"
 #    output:
-#        esv="_private_/verb_data/bhsa2esv.json",
-#        niv="_private_/verb_data/bhsa2niv.json",
-#        txt="_private_/GBI_alignment/verse2text.json",
+#        esv="_private_/english_parsings/bhsa2esv.json",
+#        niv="_private_/english_parsings/verb_data/bhsa2niv.json",
+#        txt="_private_/english_parsings/GBI_alignment/verse2text.json",
 #    script:
-#        "scripts/english/parse/parse_english.py"
-#
-#        rule parse_english:
+#        "scripts/english/parse/rawparse_english.py"
 
 # -- generate samples --
 
