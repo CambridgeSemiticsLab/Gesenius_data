@@ -1,0 +1,14 @@
+eng_TAM == "PRES..IND" and cl_args == "RSV"
+12 of 12
+know (ESV, NIV | BHS אֲשֶׁ֨ר אַתָּ֤ה יָדַ֨עְתָּ֙  Deut. 9:2)
+lives (ESV, NIV | BHS אֲשֶׁ֤ר בֶּן־יִשַׁי֙ חַ֣י עַל־הָאֲדָמָ֔ה  I Sam. 20:31)
+is kindled, burns (ESV, NIV | BHS אֲשֶׁר־הִיא֙ נִצְּתָ֣ה בָ֔נוּ  II Kgs. 22:13)
+are full, are (ESV, NIV | BHS אֲשֶׁ֤ר עֲשִׁירֶ֨יהָ֙ מָלְא֣וּ חָמָ֔ס  Mic. 6:12)
+are ruined (ESV, NIV | BHS אֲשֶׁ֥ר אַדִּרִ֖ים שֻׁדָּ֑דוּ  Zech. 11:2)
+is hidden (ESV, NIV | BHS אֲשֶׁר־דַּרְכֹּ֣ו נִסְתָּ֑רָה  Job 3:23)
+overwhelm (ESV, NIV | BHS שֶׁ֥הֵ֖ם הִרְהִיבֻ֑נִי  Song 6:5)
+delights (ESV, NIV | BHS אֲשֶׁ֥ר הַמֶּ֖לֶךְ חָפֵ֣ץ בִּיקָרֹ֑ו  Esth. 6:6)
+delights (ESV, NIV | BHS אֲשֶׁ֥ר הַמֶּ֖לֶךְ חָפֵ֥ץ בִּיקָרֹֽו׃  Esth. 6:7)
+delights (ESV, NIV | BHS אֲשֶׁ֥ר הַמֶּ֖לֶךְ חָפֵ֣ץ בִּֽיקָרֹ֑ו  Esth. 6:9)
+delights (ESV, NIV | BHS אֲשֶׁ֥ר הַמֶּ֖לֶךְ חָפֵ֥ץ בִּיקָרֹֽו׃  Esth. 6:9)
+delights (ESV, NIV | BHS אֲשֶׁ֥ר הַמֶּ֖לֶךְ חָפֵ֥ץ בִּיקָרֹֽו׃  Esth. 6:11)

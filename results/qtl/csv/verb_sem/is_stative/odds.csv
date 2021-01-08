@@ -1,0 +1,17 @@
+esv_is,0,1,1,0
+niv_is,0,1,0,1
+eng_TAM,,,,
+PAST..IND,0.0,inf,inf,inf
+PRES.PERF.IND,0.0,inf,inf,inf
+PRES..IND,0.17,8.87,43.83,46.95
+PAST.PERF.IND,0.0,inf,inf,inf
+FUT..IND,0.0,inf,inf,inf
+PAST..SUBJ,0.0,inf,inf,inf
+PRES..MOD,0.0,inf,inf,inf
+PRES..,0.0,inf,inf,inf
+PRES.PROG.IND,1.0,2.0,8.0,17.0
+PAST.PROG.IND,0.0,inf,inf,inf
+..,0.0,inf,inf,inf
+past.PERF_PROG.IND,0.0,inf,inf,inf
+FUT.PERF.IND,0.0,inf,inf,inf
+PRES.PERF_PROG.IND,0.0,inf,inf,inf

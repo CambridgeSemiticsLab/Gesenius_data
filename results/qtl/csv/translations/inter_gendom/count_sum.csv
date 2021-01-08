@@ -6,6 +6,15 @@ prose,N,389
 instruction,Q,79
 prophetic,N,32
 instruction,N,23
+prose,?,16
+prophetic,?,14
+list,?,13
+poetry,D,12
+poetry,?,12
 list,N,10
+prophetic,D,9
+instruction,D,5
 poetry,N,5
+prose,D,4
 list,Q,1
+instruction,?,1

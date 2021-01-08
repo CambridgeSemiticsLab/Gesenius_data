@@ -1,7 +1,0 @@
-eng_TAM == "PRES.PERF.IND" and lex_etcbc == "R>H["
-5 of 80
-i have seen, i have found (ESV, NIV | BHS כִּֽי־אֹתְךָ֥ רָאִ֛יתִי צַדִּ֥יק לְפָנַ֖י בַּדֹּ֥ור הַזֶּֽה׃  Gen. 7:1)
-have seen (ESV, NIV | BHS אַתֶּ֣ם רְאִיתֶ֗ם אֵ֣ת כָּל־ Deut. 29:1)
-has seen (ESV, NIV | BHS מִ֤י רָאָה֙ כָּאֵ֔לֶּה  Isa. 66:8)
-have seen (ESV, NIV | BHS רָא֥וּ כָל־אַפְסֵי־אָ֑רֶץ אֵ֝֗ת יְשׁוּעַ֥ת אֱלֹהֵֽינוּ׃  Psa. 98:3)
-i have seen (ESV, NIV | BHS רָאִ֥יתִי בְשִׂמְחָ֖ה  I Chr. 29:17)

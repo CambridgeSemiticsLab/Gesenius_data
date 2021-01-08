@@ -64,6 +64,16 @@ run_analyses([
         ],
     },
     {
+        'name': 'disag_pres',
+        'df': disag_df[disag_df.eng_TAM.str.match('.*PRES\.\.IND')],
+        'index': 'eng_TAM',
+        'examples': [
+            {
+                'query': ('eng_TAM == "FUT..IND ~ PRES..IND"'),
+            },
+        ],
+    },
+    {
         'name': 'disag_domain',
         'df': disag_df[disag_df.domain2.isin(['N', 'Q'])],
         'index': 'eng_TAM',
@@ -78,7 +88,7 @@ run_analyses([
     },
     {
         'name': 'inter_gendom',
-        'df': disag_df[disag_df.domain2.isin(['N', 'Q'])],
+        'df': disag_df,
         'index': 'eng_TAM',
         'columns': ['genre', 'domain2'],
         'examples': [
@@ -116,7 +126,6 @@ run_analyses([
 
                 'spread': 2,
             },
-
         ],
     },
 

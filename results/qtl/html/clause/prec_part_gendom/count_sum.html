@@ -1,0 +1,622 @@
+<html>    
+    <h1>prec_part_gendom, count_sum</h1>
+    <head>
+        <link rel="stylesheet" href="../../../../css/tables.css">
+    </head>
+    <body>
+        <style  type="text/css" >
+</style><table id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ea" ><thead>    <tr>        <th class="blank" ></th>        <th class="blank" ></th>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >sum</th>    </tr>    <tr>        <th class="index_name level0" >genre</th>        <th class="index_name level1" >domain2</th>        <th class="index_name level2" >eng_TAM</th>        <th class="blank" ></th>    </tr></thead><tbody>
+                <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row0" class="row_heading level0 row0" rowspan=2>prose</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row0" class="row_heading level1 row0" >N</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row0" class="row_heading level2 row0" >PAST..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow0_col0" class="data row0 col0" >1446</td>
+            </tr>
+            <tr>
+                                <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row1" class="row_heading level1 row1" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row1" class="row_heading level2 row1" >PRES.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow1_col0" class="data row1 col0" >1024</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row2" class="row_heading level0 row2" >prophetic</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row2" class="row_heading level1 row2" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row2" class="row_heading level2 row2" >PRES..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow2_col0" class="data row2 col0" >825</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row3" class="row_heading level0 row3" >prose</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row3" class="row_heading level1 row3" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row3" class="row_heading level2 row3" >PAST..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow3_col0" class="data row3 col0" >807</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row4" class="row_heading level0 row4" >prophetic</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row4" class="row_heading level1 row4" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row4" class="row_heading level2 row4" >PRES.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow4_col0" class="data row4 col0" >690</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row5" class="row_heading level0 row5" >poetry</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row5" class="row_heading level1 row5" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row5" class="row_heading level2 row5" >PRES..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow5_col0" class="data row5 col0" >616</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row6" class="row_heading level0 row6" >prophetic</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row6" class="row_heading level1 row6" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row6" class="row_heading level2 row6" >PAST..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow6_col0" class="data row6 col0" >576</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row7" class="row_heading level0 row7" >prose</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row7" class="row_heading level1 row7" >N</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row7" class="row_heading level2 row7" >PAST.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow7_col0" class="data row7 col0" >535</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row8" class="row_heading level0 row8" rowspan=2>poetry</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row8" class="row_heading level1 row8" rowspan=2>Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row8" class="row_heading level2 row8" >PAST..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow8_col0" class="data row8 col0" >510</td>
+            </tr>
+            <tr>
+                                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row9" class="row_heading level2 row9" >PRES.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow9_col0" class="data row9 col0" >428</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row10" class="row_heading level0 row10" rowspan=2>prose</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row10" class="row_heading level1 row10" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row10" class="row_heading level2 row10" >PRES..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow10_col0" class="data row10 col0" >344</td>
+            </tr>
+            <tr>
+                                <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row11" class="row_heading level1 row11" >?</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row11" class="row_heading level2 row11" >PAST..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow11_col0" class="data row11 col0" >203</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row12" class="row_heading level0 row12" >list</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row12" class="row_heading level1 row12" >N</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row12" class="row_heading level2 row12" >PAST..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow12_col0" class="data row12 col0" >134</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row13" class="row_heading level0 row13" >instruction</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row13" class="row_heading level1 row13" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row13" class="row_heading level2 row13" >PRES.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow13_col0" class="data row13 col0" >109</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row14" class="row_heading level0 row14" >list</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row14" class="row_heading level1 row14" >?</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row14" class="row_heading level2 row14" >PAST..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow14_col0" class="data row14 col0" >93</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row15" class="row_heading level0 row15" >poetry</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row15" class="row_heading level1 row15" >?</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row15" class="row_heading level2 row15" >PRES..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow15_col0" class="data row15 col0" >84</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row16" class="row_heading level0 row16" >prophetic</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row16" class="row_heading level1 row16" >?</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row16" class="row_heading level2 row16" >PRES..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow16_col0" class="data row16 col0" >82</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row17" class="row_heading level0 row17" >prose</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row17" class="row_heading level1 row17" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row17" class="row_heading level2 row17" >PAST.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow17_col0" class="data row17 col0" >82</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row18" class="row_heading level0 row18" rowspan=2>instruction</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row18" class="row_heading level1 row18" >N</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row18" class="row_heading level2 row18" >PAST..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow18_col0" class="data row18 col0" >73</td>
+            </tr>
+            <tr>
+                                <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row19" class="row_heading level1 row19" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row19" class="row_heading level2 row19" >PAST..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow19_col0" class="data row19 col0" >62</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row20" class="row_heading level0 row20" rowspan=3>prophetic</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row20" class="row_heading level1 row20" >N</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row20" class="row_heading level2 row20" >PAST..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow20_col0" class="data row20 col0" >61</td>
+            </tr>
+            <tr>
+                                <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row21" class="row_heading level1 row21" >?</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row21" class="row_heading level2 row21" >PAST..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow21_col0" class="data row21 col0" >61</td>
+            </tr>
+            <tr>
+                                <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row22" class="row_heading level1 row22" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row22" class="row_heading level2 row22" >FUT..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow22_col0" class="data row22 col0" >39</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row23" class="row_heading level0 row23" >instruction</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row23" class="row_heading level1 row23" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row23" class="row_heading level2 row23" >PRES..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow23_col0" class="data row23 col0" >38</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row24" class="row_heading level0 row24" rowspan=2>prophetic</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row24" class="row_heading level1 row24" >N</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row24" class="row_heading level2 row24" >PAST.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow24_col0" class="data row24 col0" >35</td>
+            </tr>
+            <tr>
+                                <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row25" class="row_heading level1 row25" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row25" class="row_heading level2 row25" >PAST.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow25_col0" class="data row25 col0" >34</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row26" class="row_heading level0 row26" >prose</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row26" class="row_heading level1 row26" >?</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row26" class="row_heading level2 row26" >PAST.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow26_col0" class="data row26 col0" >31</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row27" class="row_heading level0 row27" >poetry</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row27" class="row_heading level1 row27" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row27" class="row_heading level2 row27" >PAST.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow27_col0" class="data row27 col0" >25</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row28" class="row_heading level0 row28" >prose</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row28" class="row_heading level1 row28" >N</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row28" class="row_heading level2 row28" >PRES..MOD</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow28_col0" class="data row28 col0" >23</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row29" class="row_heading level0 row29" rowspan=2>poetry</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row29" class="row_heading level1 row29" >?</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row29" class="row_heading level2 row29" >PAST..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow29_col0" class="data row29 col0" >21</td>
+            </tr>
+            <tr>
+                                <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row30" class="row_heading level1 row30" >D</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row30" class="row_heading level2 row30" >PRES..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow30_col0" class="data row30 col0" >20</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row31" class="row_heading level0 row31" >prose</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row31" class="row_heading level1 row31" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row31" class="row_heading level2 row31" >PAST..SUBJ</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow31_col0" class="data row31 col0" >19</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row32" class="row_heading level0 row32" rowspan=2>poetry</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row32" class="row_heading level1 row32" >D</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row32" class="row_heading level2 row32" >PRES.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow32_col0" class="data row32 col0" >18</td>
+            </tr>
+            <tr>
+                                <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row33" class="row_heading level1 row33" >?</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row33" class="row_heading level2 row33" >PRES.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow33_col0" class="data row33 col0" >18</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row34" class="row_heading level0 row34" >prose</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row34" class="row_heading level1 row34" >N</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row34" class="row_heading level2 row34" >PAST..SUBJ</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow34_col0" class="data row34 col0" >18</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row35" class="row_heading level0 row35" rowspan=2>prophetic</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row35" class="row_heading level1 row35" >N</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row35" class="row_heading level2 row35" >PRES..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow35_col0" class="data row35 col0" >17</td>
+            </tr>
+            <tr>
+                                <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row36" class="row_heading level1 row36" >?</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row36" class="row_heading level2 row36" >PRES.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow36_col0" class="data row36 col0" >17</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row37" class="row_heading level0 row37" >prose</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row37" class="row_heading level1 row37" >D</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row37" class="row_heading level2 row37" >PAST..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow37_col0" class="data row37 col0" >16</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row38" class="row_heading level0 row38" >prophetic</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row38" class="row_heading level1 row38" >D</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row38" class="row_heading level2 row38" >PRES..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow38_col0" class="data row38 col0" >16</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row39" class="row_heading level0 row39" rowspan=2>poetry</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row39" class="row_heading level1 row39" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row39" class="row_heading level2 row39" >PAST..SUBJ</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow39_col0" class="data row39 col0" >15</td>
+            </tr>
+            <tr>
+                                <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row40" class="row_heading level1 row40" >N</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row40" class="row_heading level2 row40" >PAST..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow40_col0" class="data row40 col0" >15</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row41" class="row_heading level0 row41" >instruction</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row41" class="row_heading level1 row41" >D</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row41" class="row_heading level2 row41" >PAST..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow41_col0" class="data row41 col0" >14</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row42" class="row_heading level0 row42" >poetry</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row42" class="row_heading level1 row42" >D</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row42" class="row_heading level2 row42" >PAST..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow42_col0" class="data row42 col0" >13</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row43" class="row_heading level0 row43" >list</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row43" class="row_heading level1 row43" >N</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row43" class="row_heading level2 row43" >PAST.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow43_col0" class="data row43 col0" >12</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row44" class="row_heading level0 row44" >prose</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row44" class="row_heading level1 row44" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row44" class="row_heading level2 row44" >PRES.PROG.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow44_col0" class="data row44 col0" >12</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row45" class="row_heading level0 row45" >instruction</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row45" class="row_heading level1 row45" >D</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row45" class="row_heading level2 row45" >PRES.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow45_col0" class="data row45 col0" >11</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row46" class="row_heading level0 row46" >prose</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row46" class="row_heading level1 row46" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row46" class="row_heading level2 row46" >FUT..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow46_col0" class="data row46 col0" >11</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row47" class="row_heading level0 row47" rowspan=2>prophetic</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row47" class="row_heading level1 row47" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row47" class="row_heading level2 row47" >PRES..</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow47_col0" class="data row47 col0" >11</td>
+            </tr>
+            <tr>
+                                <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row48" class="row_heading level1 row48" >D</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row48" class="row_heading level2 row48" >PRES.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow48_col0" class="data row48 col0" >9</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row49" class="row_heading level0 row49" >prose</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row49" class="row_heading level1 row49" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row49" class="row_heading level2 row49" >PRES..MOD</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow49_col0" class="data row49 col0" >9</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row50" class="row_heading level0 row50" rowspan=3>poetry</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row50" class="row_heading level1 row50" rowspan=3>Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row50" class="row_heading level2 row50" >PRES..MOD</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow50_col0" class="data row50 col0" >9</td>
+            </tr>
+            <tr>
+                                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row51" class="row_heading level2 row51" >FUT..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow51_col0" class="data row51 col0" >9</td>
+            </tr>
+            <tr>
+                                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row52" class="row_heading level2 row52" >PRES..</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow52_col0" class="data row52 col0" >8</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row53" class="row_heading level0 row53" >instruction</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row53" class="row_heading level1 row53" >N</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row53" class="row_heading level2 row53" >PAST.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow53_col0" class="data row53 col0" >8</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row54" class="row_heading level0 row54" >list</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row54" class="row_heading level1 row54" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row54" class="row_heading level2 row54" >PRES.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow54_col0" class="data row54 col0" >7</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row55" class="row_heading level0 row55" >instruction</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row55" class="row_heading level1 row55" >?</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row55" class="row_heading level2 row55" >PRES.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow55_col0" class="data row55 col0" >7</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row56" class="row_heading level0 row56" rowspan=3>prose</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row56" class="row_heading level1 row56" rowspan=3>N</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row56" class="row_heading level2 row56" >PRES..</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow56_col0" class="data row56 col0" >7</td>
+            </tr>
+            <tr>
+                                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row57" class="row_heading level2 row57" >PAST.PROG.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow57_col0" class="data row57 col0" >6</td>
+            </tr>
+            <tr>
+                                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row58" class="row_heading level2 row58" >PRES..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow58_col0" class="data row58 col0" >6</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row59" class="row_heading level0 row59" rowspan=2>prophetic</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row59" class="row_heading level1 row59" rowspan=2>Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row59" class="row_heading level2 row59" >PAST..SUBJ</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow59_col0" class="data row59 col0" >6</td>
+            </tr>
+            <tr>
+                                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row60" class="row_heading level2 row60" >PRES..MOD</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow60_col0" class="data row60 col0" >6</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row61" class="row_heading level0 row61" >prose</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row61" class="row_heading level1 row61" >D</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row61" class="row_heading level2 row61" >PAST.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow61_col0" class="data row61 col0" >6</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row62" class="row_heading level0 row62" >prophetic</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row62" class="row_heading level1 row62" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row62" class="row_heading level2 row62" >PRES.PROG.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow62_col0" class="data row62 col0" >5</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row63" class="row_heading level0 row63" >prose</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row63" class="row_heading level1 row63" >N</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row63" class="row_heading level2 row63" >PRES.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow63_col0" class="data row63 col0" >5</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row64" class="row_heading level0 row64" >instruction</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row64" class="row_heading level1 row64" >D</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row64" class="row_heading level2 row64" >PRES..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow64_col0" class="data row64 col0" >5</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row65" class="row_heading level0 row65" >prose</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row65" class="row_heading level1 row65" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row65" class="row_heading level2 row65" >PAST.PROG.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow65_col0" class="data row65 col0" >5</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row66" class="row_heading level0 row66" >list</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row66" class="row_heading level1 row66" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row66" class="row_heading level2 row66" >PAST..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow66_col0" class="data row66 col0" >5</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row67" class="row_heading level0 row67" >prophetic</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row67" class="row_heading level1 row67" >D</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row67" class="row_heading level2 row67" >PAST..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow67_col0" class="data row67 col0" >5</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row68" class="row_heading level0 row68" >instruction</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row68" class="row_heading level1 row68" >?</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row68" class="row_heading level2 row68" >PRES..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow68_col0" class="data row68 col0" >4</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row69" class="row_heading level0 row69" >poetry</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row69" class="row_heading level1 row69" >N</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row69" class="row_heading level2 row69" >PRES.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow69_col0" class="data row69 col0" >4</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row70" class="row_heading level0 row70" >prose</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row70" class="row_heading level1 row70" >?</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row70" class="row_heading level2 row70" >PRES..MOD</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow70_col0" class="data row70 col0" >4</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row71" class="row_heading level0 row71" rowspan=2>prophetic</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row71" class="row_heading level1 row71" >?</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row71" class="row_heading level2 row71" >FUT..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow71_col0" class="data row71 col0" >4</td>
+            </tr>
+            <tr>
+                                <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row72" class="row_heading level1 row72" >N</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row72" class="row_heading level2 row72" >PRES.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow72_col0" class="data row72 col0" >4</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row73" class="row_heading level0 row73" >instruction</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row73" class="row_heading level1 row73" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row73" class="row_heading level2 row73" >FUT..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow73_col0" class="data row73 col0" >3</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row74" class="row_heading level0 row74" >list</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row74" class="row_heading level1 row74" >?</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row74" class="row_heading level2 row74" >PAST.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow74_col0" class="data row74 col0" >3</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row75" class="row_heading level0 row75" >poetry</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row75" class="row_heading level1 row75" >N</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row75" class="row_heading level2 row75" >PRES..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow75_col0" class="data row75 col0" >3</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row76" class="row_heading level0 row76" >prose</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row76" class="row_heading level1 row76" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row76" class="row_heading level2 row76" >PRES..</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow76_col0" class="data row76 col0" >3</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row77" class="row_heading level0 row77" >prophetic</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row77" class="row_heading level1 row77" >D</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row77" class="row_heading level2 row77" >FUT..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow77_col0" class="data row77 col0" >2</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row78" class="row_heading level0 row78" rowspan=2>poetry</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row78" class="row_heading level1 row78" >N</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row78" class="row_heading level2 row78" >PAST.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow78_col0" class="data row78 col0" >2</td>
+            </tr>
+            <tr>
+                                <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row79" class="row_heading level1 row79" >?</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row79" class="row_heading level2 row79" >PAST.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow79_col0" class="data row79 col0" >2</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row80" class="row_heading level0 row80" rowspan=3>prophetic</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row80" class="row_heading level1 row80" rowspan=2>Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row80" class="row_heading level2 row80" >FUT.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow80_col0" class="data row80 col0" >2</td>
+            </tr>
+            <tr>
+                                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row81" class="row_heading level2 row81" >..</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow81_col0" class="data row81 col0" >2</td>
+            </tr>
+            <tr>
+                                <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row82" class="row_heading level1 row82" >?</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row82" class="row_heading level2 row82" >PAST.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow82_col0" class="data row82 col0" >2</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row83" class="row_heading level0 row83" >list</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row83" class="row_heading level1 row83" >N</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row83" class="row_heading level2 row83" >PRES..MOD</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow83_col0" class="data row83 col0" >2</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row84" class="row_heading level0 row84" >prose</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row84" class="row_heading level1 row84" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row84" class="row_heading level2 row84" >..</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow84_col0" class="data row84 col0" >2</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row85" class="row_heading level0 row85" >prophetic</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row85" class="row_heading level1 row85" >D</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row85" class="row_heading level2 row85" >PAST.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow85_col0" class="data row85 col0" >2</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row86" class="row_heading level0 row86" >list</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row86" class="row_heading level1 row86" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row86" class="row_heading level2 row86" >PAST.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow86_col0" class="data row86 col0" >2</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row87" class="row_heading level0 row87" rowspan=2>prose</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row87" class="row_heading level1 row87" >D</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row87" class="row_heading level2 row87" >PRES.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow87_col0" class="data row87 col0" >2</td>
+            </tr>
+            <tr>
+                                <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row88" class="row_heading level1 row88" >N</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row88" class="row_heading level2 row88" >past.PERF_PROG.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow88_col0" class="data row88 col0" >2</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row89" class="row_heading level0 row89" rowspan=4>prophetic</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row89" class="row_heading level1 row89" rowspan=3>N</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row89" class="row_heading level2 row89" >PAST..SUBJ</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow89_col0" class="data row89 col0" >1</td>
+            </tr>
+            <tr>
+                                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row90" class="row_heading level2 row90" >PRES..</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow90_col0" class="data row90 col0" >1</td>
+            </tr>
+            <tr>
+                                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row91" class="row_heading level2 row91" >PRES..MOD</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow91_col0" class="data row91 col0" >1</td>
+            </tr>
+            <tr>
+                                <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row92" class="row_heading level1 row92" >D</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row92" class="row_heading level2 row92" >PAST..SUBJ</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow92_col0" class="data row92 col0" >1</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row93" class="row_heading level0 row93" >prose</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row93" class="row_heading level1 row93" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row93" class="row_heading level2 row93" >PRES.PERF_PROG.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow93_col0" class="data row93 col0" >1</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row94" class="row_heading level0 row94" >poetry</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row94" class="row_heading level1 row94" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row94" class="row_heading level2 row94" >PRES.PROG.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow94_col0" class="data row94 col0" >1</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row95" class="row_heading level0 row95" >prose</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row95" class="row_heading level1 row95" >?</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row95" class="row_heading level2 row95" >PAST.PROG.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow95_col0" class="data row95 col0" >1</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row96" class="row_heading level0 row96" rowspan=2>poetry</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row96" class="row_heading level1 row96" rowspan=2>D</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row96" class="row_heading level2 row96" >PAST.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow96_col0" class="data row96 col0" >1</td>
+            </tr>
+            <tr>
+                                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row97" class="row_heading level2 row97" >FUT..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow97_col0" class="data row97 col0" >1</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row98" class="row_heading level0 row98" >list</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row98" class="row_heading level1 row98" >N</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row98" class="row_heading level2 row98" >PRES.PERF.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow98_col0" class="data row98 col0" >1</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row99" class="row_heading level0 row99" >poetry</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row99" class="row_heading level1 row99" >?</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row99" class="row_heading level2 row99" >PRES..</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow99_col0" class="data row99 col0" >1</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row100" class="row_heading level0 row100" rowspan=4>list</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row100" class="row_heading level1 row100" >Q</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row100" class="row_heading level2 row100" >PRES..MOD</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow100_col0" class="data row100 col0" >1</td>
+            </tr>
+            <tr>
+                                <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row101" class="row_heading level1 row101" rowspan=3>N</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row101" class="row_heading level2 row101" >PRES..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow101_col0" class="data row101 col0" >1</td>
+            </tr>
+            <tr>
+                                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row102" class="row_heading level2 row102" >PRES..</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow102_col0" class="data row102 col0" >1</td>
+            </tr>
+            <tr>
+                                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row103" class="row_heading level2 row103" >PAST..SUBJ</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow103_col0" class="data row103 col0" >1</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row104" class="row_heading level0 row104" >prose</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row104" class="row_heading level1 row104" >N</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row104" class="row_heading level2 row104" >..</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow104_col0" class="data row104 col0" >1</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row105" class="row_heading level0 row105" >prophetic</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row105" class="row_heading level1 row105" >N</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row105" class="row_heading level2 row105" >PAST.PROG.IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow105_col0" class="data row105 col0" >1</td>
+            </tr>
+            <tr>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel0_row106" class="row_heading level0 row106" rowspan=3>instruction</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row106" class="row_heading level1 row106" >N</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row106" class="row_heading level2 row106" >PRES..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow106_col0" class="data row106 col0" >1</td>
+            </tr>
+            <tr>
+                                <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row107" class="row_heading level1 row107" >D</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row107" class="row_heading level2 row107" >PAST..SUBJ</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow107_col0" class="data row107 col0" >1</td>
+            </tr>
+            <tr>
+                                <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel1_row108" class="row_heading level1 row108" >?</th>
+                        <th id="T_6fbefa60_51fb_11eb_9a21_8c859073a1ealevel2_row108" class="row_heading level2 row108" >PAST..IND</th>
+                        <td id="T_6fbefa60_51fb_11eb_9a21_8c859073a1earow108_col0" class="data row108 col0" >1</td>
+            </tr>
+    </tbody></table>
+    </body>
+</html>

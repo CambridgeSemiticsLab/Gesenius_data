@@ -79,7 +79,7 @@ def main_row(node):
     cl_args = re.match('.*V', cl_args)[0] # NB ignore post-verbal arguments
 
     # collect preceding particles only
-    particle_types = {'advb', 'prep', 'conj', 'prde', 'prin', 'inj', 'inrg'}
+    particle_types = {'advb', 'prep', 'conj', 'prde', 'prin', 'intj', 'inrg'}
     prec_particles = join_on(
         (F.lex.v(w) for w in preceding_words
             if F.pdp.v(w) in particle_types)

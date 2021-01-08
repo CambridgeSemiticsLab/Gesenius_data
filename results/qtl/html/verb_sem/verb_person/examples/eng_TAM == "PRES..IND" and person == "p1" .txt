@@ -1,0 +1,12 @@
+eng_TAM == "PRES..IND" and person == "p1" 
+10 of 340
+I am sorry, I am grieved (ESV, NIV | BHS כִּ֥י נִחַ֖מְתִּי  Gen. 6:7)
+I bring (ESV, NIV | BHS הִנֵּ֤ה הֵבֵ֨אתִי֙ אֶת־רֵאשִׁית֙ פְּרִ֣י הָאֲדָמָ֔ה  Deut. 26:10)
+I know (ESV, NIV | BHS הִנֵּה־נָ֤א יָדַ֨עְתִּי֙  II Kgs. 5:15)
+I am full of (ESV, NIV | BHS וְאֵת֩ חֲמַ֨ת יְהוָ֤ה׀ מָלֵ֨אתִי֙  Jer. 6:11)
+I hate (ESV, NIV | BHS שָׂנֵ֥אתִי  Amos 5:21)
+I know (ESV, NIV | BHS יָ֭דַעְתִּי כָּל־עֹ֣וף הָרִ֑ים  Psa. 50:11)
+I love (ESV, NIV | BHS אֲשֶׁ֣ר אָהָֽבְתִּי׃  Psa. 119:47)
+I wait for (ESV, NIV | BHS קִוִּ֣יתִי יְ֭הוָה  Psa. 130:5)
+I know (ESV, NIV | BHS כִּֽי־יָ֭דַעְתִּי  Job 30:23)
+I am wounded (ESV, NIV | BHS כִּ֥י הָחֳלֵ֖יתִי מְאֹֽד׃  II Chr. 35:23)

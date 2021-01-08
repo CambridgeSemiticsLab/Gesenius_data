@@ -3,6 +3,7 @@ Build data rows for tables using English
 translation data.
 """
 
+import re
 import sys
 import json
 import itertools
@@ -19,6 +20,7 @@ from build_tables import build_sample_tables
 bhsa2esv = json.loads(Path(snakemake.input.esv).read_text())
 bhsa2niv = json.loads(Path(snakemake.input.niv).read_text())
 trans2text = json.loads(Path(snakemake.input.txt).read_text())
+
 
 def get_word(node, default={}):
     """Retrieve word data for both translations"""
@@ -53,6 +55,8 @@ def compare_transs(tdata):
 
     return data
 
+find_is = re.compile(r'\b[iI]s\b')
+
 def build_data_row(node):
     """Build a row for the translations tables"""
     
@@ -82,6 +86,10 @@ def build_text_row(node):
         row_data[f'{trans}'] = tdata.get('words', '')
         row_data[f'{trans}_verse'] = trans2text[trans].get(str(ref_tuple), '')
         row_data[f'{trans}_TAMspan'] = tdata.get('TAM_span', '')
+
+    # detect 'is' as a proxy for stative translations
+    row_data['esv_is'] = 1 if find_is.search(row_data.get('esv', '')) else 0
+    row_data['niv_is'] = 1 if find_is.search(row_data.get('niv', '')) else 0
 
     return row_data
 

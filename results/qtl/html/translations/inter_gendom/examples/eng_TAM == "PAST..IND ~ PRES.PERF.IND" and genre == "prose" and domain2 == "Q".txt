@@ -1,12 +1,12 @@
 eng_TAM == "PAST..IND ~ PRES.PERF.IND" and genre == "prose" and domain2 == "Q"
 10 of 247
 you have listened, you listened (ESV, NIV | BHS כִּ֥י־שָׁמַעְתָּ֮ לְקֹ֣ול אִשְׁתֶּךָ֒  Gen. 3:17)
-i have dealt harshly, i dealt harshly (ESV, NIV | BHS אֵ֣ת אֲשֶׁ֤ר הִתְעַלַּ֨לְתִּי֙ בְּמִצְרַ֔יִם  Exod. 10:2)
+I have dealt harshly, I dealt harshly (ESV, NIV | BHS אֵ֣ת אֲשֶׁ֤ר הִתְעַלַּ֨לְתִּי֙ בְּמִצְרַ֔יִם  Exod. 10:2)
 has told, told (ESV, NIV | BHS כַּאֲשֶׁר֩ דִּבֶּ֨ר יְהוָ֜ה אֱלֹהֵ֤י אֲבֹתֶ֨יךָ֙ לָ֔ךְ  Deut. 1:21)
 he has sworn, he promised on oath (ESV, NIV | BHS כַּאֲשֶׁ֖ר נִֽשְׁבַּֽע־לָ֑ךְ  Deut. 28:9)
 has done, did (ESV, NIV | BHS מִ֣י עָ֣שָׂה זֹאת֒  Judg. 15:6)
 you have done, you treated (ESV, NIV | BHS אֲשֶׁ֥ר עָשִׂ֖יתָה לִֽי׃  I Sam. 24:20)
-i have served, i served (ESV, NIV | BHS כַּאֲשֶׁ֤ר עָבַ֨דְתִּי֙ לִפְנֵ֣י אָבִ֔יךָ  II Sam. 16:19)
+I have served, I served (ESV, NIV | BHS כַּאֲשֶׁ֤ר עָבַ֨דְתִּי֙ לִפְנֵ֣י אָבִ֔יךָ  II Sam. 16:19)
 reached, has reached (ESV, NIV | BHS בָּֽא־הַמַּלְאָ֥ךְ עַד־הֵ֖ם  II Kgs. 9:18)
 became, have become (ESV, NIV | BHS הָיִ֥יתָ לָהֶ֖ם לֵאלֹהִֽים׃  I Chr. 17:22)
 has commanded, has told (ESV, NIV | BHS וֵאלֹהִ֖ים אָמַ֣ר  II Chr. 35:21)

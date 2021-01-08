@@ -1,0 +1,7 @@
+eng_TAM == "PRES.PERF.IND" and lex_etcbc == "FJM["
+5 of 28
+I have made (ESV, NIV | BHS הֵ֣ן גְּבִ֞יר שַׂמְתִּ֥יו לָךְ֙  Gen. 27:37)
+has been turned, has become (ESV, NIV | BHS אֵ֚ת נֶ֣שֶׁף חִשְׁקִ֔י שָׂ֥ם לִ֖י לַחֲרָדָֽה׃  Isa. 21:4)
+they have set, they have set up (ESV, NIV | BHS שָׂ֣מוּ שִׁקּֽוּצֵיהֶ֗ם בַּבַּ֛יִת  Jer. 7:30)
+he has set, he has pitched (ESV, NIV | BHS לַ֝שֶּׁ֗מֶשׁ שָֽׂם־אֹ֥הֶל בָּהֶֽם׃  Psa. 19:5)
+I have made, I have put (ESV, NIV | BHS אִם־שַׂ֣מְתִּי זָהָ֣ב כִּסְלִ֑י  Job 31:24)

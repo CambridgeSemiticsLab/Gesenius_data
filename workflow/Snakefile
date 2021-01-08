@@ -143,7 +143,7 @@ rule visualize_verb:
         visual_script
 
 # construct a menu of html links to all of the respective analyses
-analyses = ['context', 'clause', 'verb_sem', 'translations']
+analyses = ['context', 'clause', 'verb_sem', 'translations', 'verb_lex']
 rule html_menu:
     input: 
         analyses=expand("../results/{{verb}}/html/{analyses}", analyses=analyses),

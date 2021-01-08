@@ -1,6 +1,6 @@
 eng_TAM == "PAST..IND" and has_loca == 1 and clause_rela == "Main"
 25 of 181
-i heard (ESV, NIV | BHS אֶת־קֹלְךָ֥ שָׁמַ֖עְתִּי בַּגָּ֑ן  Gen. 3:10)
+I heard (ESV, NIV | BHS אֶת־קֹלְךָ֥ שָׁמַ֖עְתִּי בַּגָּ֑ן  Gen. 3:10)
 they buried, were buried (ESV, NIV | BHS שָׁ֣מָּה קָֽבְר֞וּ אֶת־אַבְרָהָ֗ם וְאֵת֙ שָׂרָ֣ה אִשְׁתֹּ֔ו  Gen. 49:31)
 had (ESV, NIV | BHS וּֽלְכָל־בְּנֵ֧י יִשְׂרָאֵ֛ל הָ֥יָה אֹ֖ור בְּמֹושְׁבֹתָֽם׃  Exod. 10:23)
 were, were put (ESV, NIV | BHS לְעֻמַּת֙ הַמִּסְגֶּ֔רֶת הָי֖וּ הַטַּבָּעֹ֑ת בָּתִּים֙ לַבַּדִּ֔ים  Exod. 37:14)

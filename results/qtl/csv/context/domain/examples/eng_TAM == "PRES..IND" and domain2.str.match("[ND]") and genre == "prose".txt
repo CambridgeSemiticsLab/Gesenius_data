@@ -1,0 +1,8 @@
+eng_TAM == "PRES..IND" and domain2.str.match("[ND]") and genre == "prose"
+6 of 6
+knows (ESV, NIV | BHS וְלֹֽא־יָדַ֥ע אִישׁ֙ אֶת־קְבֻ֣רָתֹ֔ו עַ֖ד הַיֹּ֥ום הַזֶּֽה׃  Deut. 34:6)
+there remains, there is (ESV, NIV | BHS עֹ֚וד שָׁאַ֣ר הַקָּטָ֔ן  I Sam. 16:11)
+are dead (ESV, NIV | BHS וְגַ֗ם שָׁא֛וּל וִיהֹונָתָ֥ן בְּנֹ֖ו מֵֽתוּ׃  II Sam. 1:4)
+is called (ESV, NIV | BHS אֲשֶׁר־נִקְרָ֣א שֵׁ֗ם שֵׁ֣ם יְהוָ֧ה צְבָאֹ֛ות  II Sam. 6:2)
+is called (ESV, NIV | BHS אֲשֶׁר־נִקְרָ֥א שֵֽׁם׃  I Chr. 13:6)
+are recorded (ESV, NIV | BHS אֲשֶׁ֣ר הֹֽעֲלָ֔ה עַל־סֵ֖פֶר מַלְכֵ֥י יִשְׂרָאֵֽל׃  II Chr. 20:34)

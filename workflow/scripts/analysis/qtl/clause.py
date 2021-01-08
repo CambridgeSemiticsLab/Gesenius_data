@@ -64,7 +64,30 @@ run_analyses([
                             'and prec_part.str.match("^_>M_.*")'),
                 'spread': 10,
             },
+            {
+                'query': ('eng_TAM == "PRES..IND" '
+                            'and prec_part.str.match(".*_KH_")'),
+                'spread': 15,
+            },
+            {
+                'query': ('eng_TAM == "PAST.PERF.IND" '
+                            'and prec_part == "_>CR_"'),
+                'spread': 25,
+            },
+            {
+                'query': ('eng_TAM == "PAST.PERF.IND" '
+                            'and clause_rela == "SubArg" '
+                            'and prec_part == "_KJ_" '),
+                'bhs_text': ['mother_clause_atom', 'clause_atom'],
+            },
+
         ],
+    },
+    {
+        'name': 'prec_part_gendom',
+        'df': eng_df,
+        'index': 'prec_part',
+        'columns': ['genre', 'domain2', 'eng_TAM'],
     },
     {
         'name': 'args',
@@ -105,6 +128,29 @@ run_analyses([
                 'query': ('eng_TAM == "PRES.PERF.IND" '
                             'and cl_args == "V"')
             },
+            {
+                'query': ('eng_TAM == "PRES..IND" '
+                            'and lex_etcbc != ">MR[" '
+                            'and cl_args == "V"')
+            },
+            {
+                'query': ('eng_TAM == "PRES..IND" '
+                            'and lex_etcbc != ">MR[" '
+                            'and cl_args == "AV"')
+            },
+            {
+                'query': ('eng_TAM == "PRES..IND" '
+                            'and cl_args == "CAV"')
+            },
+            {
+                'query': ('eng_TAM == "PRES..IND" '
+                            'and cl_args == "RSV"')
+            },
+            {
+                'query': ('eng_TAM == "PRES..IND" '
+                            'and cl_args == "_W_SAV"')
+            },
+
         ]
     },
     {

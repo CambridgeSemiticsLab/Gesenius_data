@@ -17,6 +17,9 @@ class DfLoader:
         load_order = {
             'bhsa': 1, 'bhsa_clrela': 2,
             'eng': 3, 'eng_text': 4, 'lxx': 5,
+            '_bhsa_': 1, '_bhsa_clrela_': 2,
+            '_eng_': 3, '_eng_text_': 4, '_lxx_': 5,
+ 
         }
         sort_key = lambda f: load_order.get(f.stem, max(load_order.values())+1)
         # get iterable of table files

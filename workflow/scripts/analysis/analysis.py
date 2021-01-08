@@ -5,6 +5,7 @@ tendencies of given constructions.
 """
 
 import json
+import re
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -121,6 +122,9 @@ def make_text_examples(df, ex_params):
         ref = df.loc[node]['ref_abbr']
         esv = df.loc[node]['esv'].lower()
         niv = df.loc[node]['niv'].lower()
+        # fix lowercase i
+        lower_i = re.compile(r'\bi\b')
+        esv, niv = lower_i.sub('I', esv), lower_i.sub('I', niv)
         bhs = bhs_text[node]
             
         if niv == esv:
@@ -138,12 +142,26 @@ def run_analysis(params, outdir, round=2, table_headers={}):
     do_fishers = params.get('fishers', True),
 
     # execute the analysis using the provided parameters
-    args = {'name', 'df', 'examples'}
+    args = {'name', 'df', 'examples', 'special'}
     pivot_kwargs = {k:v for k,v in params.items() if k not in args}
     analysis = Analyze(
         params['df'], 
         **pivot_kwargs
     )
+
+    # run any special analyses
+    for sa in params.get('special', []):
+
+        # determine dataframe
+        df = sa['df']
+        if type(df) == str:
+            df = analysis.__dict__[df] 
+
+        # run the special analysis and store as attribute
+        do_funct = sa['do']
+        sa_do = do_funct(df, **sa.get('kwargs', {}))
+        for key, val in sa_do.items():
+            setattr(analysis, key, val)
 
     # construct examples
     exs = {}

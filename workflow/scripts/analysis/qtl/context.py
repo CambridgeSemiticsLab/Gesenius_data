@@ -15,7 +15,7 @@ main_dom = ['Q', 'N']
 run_analyses([
     {
         'name': 'genre',
-        'df': eng_df[eng_df.genre.isin(main_genre)],
+        'df': eng_df,
         'index': 'eng_TAM',
         'columns': 'genre',
     },
@@ -24,6 +24,13 @@ run_analyses([
         'df': eng_df,
         'index': 'eng_TAM',
         'columns': 'domain2', 
+        'examples': [
+            {
+                'query': ('eng_TAM == "PRES..IND" '
+                            'and domain2.str.match("[ND]") '
+                            'and genre == "prose"'),
+            }
+        ],
     },
     {
         'name': 'period',
@@ -33,9 +40,23 @@ run_analyses([
     },
     {
         'name': 'period_gendom',
-        'df': eng_df[eng_df.domain2.isin(main_dom)],
+        'df': eng_df,
         'index': 'eng_TAM',
         'columns': ['period', 'genre', 'domain2'],
+        'examples': [
+            {
+                'query': ('eng_TAM == "PRES..IND" '
+                            'and period == "SBH"  '
+                            'and genre == "prose" '
+                            'and domain2 == "Q" '),
+            },
+            {
+                'query': ('eng_TAM == "PRES..IND" '
+                            'and period == "LBH"  '
+                            'and genre == "prose" '
+                            'and domain2 == "Q" '),
+            },
+        ],
     },
     {
         'name': 'period_domain',
@@ -46,8 +67,8 @@ run_analyses([
     {
         'name': 'genre_domain',
         'df': eng_df,
-        'index': ['genre', 'domain2'],
-        'columns': 'eng_TAM',
+        'index': 'eng_TAM',
+        'columns': ['genre', 'domain2'], 
         'examples': [
             {
                 'query': ('eng_TAM == "PRES.PERF.IND" '
@@ -65,7 +86,11 @@ run_analyses([
                             'and domain2 == "Q" '),
                 'spread': 15,
             },
-
+            {
+                'query': ('eng_TAM == "PAST.PERF.IND" '
+                            'and genre == "prose" '
+                            'and domain2 == "N" '),
+            },
         ],
     },
 

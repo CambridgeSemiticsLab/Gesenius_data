@@ -19,70 +19,42 @@ run_analyses([
         'df': eng_df, 
         'index': 'eng_TAM',
         'columns': 'stem',
-    },
-    {
-        'name': 'verb_lex',
-        'df': eng_df,
-        'index': 'eng_TAM',
-        'columns': ['lex', 'stem'],
         'examples': [
             {
-                'query': ('eng_TAM == "PAST..IND" '
-                            f'and lex_etcbc.isin({motion_verbs}) '
-                            'and stem == "qal"'),
+                'query': ('eng_TAM == "PRES..IND" '
+                            'and stem == "nif" ')
             },
             {
-                'query': f'eng_TAM == "PAST..IND" and lex_etcbc.isin({punctuals})',
-            },
-            {
-                'query': 'eng_TAM == "PAST..IND" and lex_etcbc == "HJH["',
-                'spread': 10,
-            },
-            {
-                'query': 'eng_TAM == "PAST..IND" and lex_etcbc == "MLK["',
-                'spread': 10,
-            },
-            {
-                'query': 'eng_TAM == "PRES.PERF.IND" and lex_etcbc == "<FH[" and cl_args != "QV"',
-                'spread': 5,
-            },
-
-            {
-                'query': 'eng_TAM == "PRES.PERF.IND" and lex_etcbc == "NTN["',
-                'spread': 5,
-            },
-            {
-                'query': 'eng_TAM == "PRES.PERF.IND" and lex_etcbc == "FJM["',
-                'spread': 5,
-            },
-            {
-                'query': 'eng_TAM == "PRES.PERF.IND" and lex_etcbc == ">KL["',
-                'spread': 5,
-            },
-            {
-                'query': 'eng_TAM == "PRES.PERF.IND" and lex_etcbc == "CMR["',
-                'spread': 5,
-            },
-            {
-                'query': 'eng_TAM == "PRES.PERF.IND" and lex_etcbc == "BXR["',
-                'spread': 5,
-            },
-            {
-                'query': 'eng_TAM == "PRES.PERF.IND" and lex_etcbc == "CM<["',
-                'spread': 5,
-            },
-            {
-                'query': 'eng_TAM == "PRES.PERF.IND" and lex_etcbc == "R>H["',
-                'spread': 5,
+                'query': ('eng_TAM == "PRES..IND" '
+                            'and stem == "qal" ')
             },
 
         ],
+    },
+    {
+        'name': 'verb_lexst_ps',
+        'df': eng_df,
+        'index': 'eng_TAM',
+        'columns': ['lex', 'stem', 'person'],
+        'fishers': False,
     },
     {
         'name': 'verb_person',
         'df': eng_df,
         'index': 'eng_TAM',
         'columns': 'person',
+        'examples': [
+            {
+                'query': ('eng_TAM == "PRES..IND" '
+                            'and person == "p1" '),
+                'spread': 10,
+            },
+        ],
     },
-
+    {
+        'name': 'is_stative',
+        'df': eng_df,
+        'index': 'eng_TAM',
+        'columns': ['esv_is', 'niv_is']
+    },
 ], snakemake.output.dir)  
