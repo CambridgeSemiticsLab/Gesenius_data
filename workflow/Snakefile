@@ -26,7 +26,7 @@ tf_modules = [
 #             git clone https://github.com/{}    
 #         """
 
-# -- make various mappings with GBI data --
+# -- preprocess the raw GBI data
 rule preprocess_gbi:
     input:
         niv="_private_/GBI_alignment/niv84.ot.alignment.json",
@@ -39,34 +39,56 @@ rule preprocess_gbi:
     script: 
         "scripts/english/parse/preprocess_gbi.py"
 
-# -- match 1 BHSA verbnode to 1 GBI word id
-rule align_gbi_verbs:
+# -- prepare GBI verb data for Spacy parsing --
+# first match 1 BHSA verb node to 1 GBI word id
+# then match the GBI word data to translation data
+rule prepare_gbi_verbs:
     input:
-        script="scripts/english/parse/align_verbs.py",
+        script="scripts/english/parse/prepare_verbs.py",
         bhsa2gbi="_private_/GBI_alignment/bhsa2gbi.json",
         tf_mods=tf_modules,
-        word_data=rules.preprocess_gbi.output.word_data
+        word_data=rules.preprocess_gbi.output.word_data,
+        id2link=rules.preprocess_gbi.output.id2link,
     output:
-        matches="_private_/GBI_alignment/verb_bhsa2gbi.json",
+        matches="_private_/GBI_alignment/verb_bhsa2gbi.pickle",
         no_match="_private_/GBI_alignment/verb_no_match.txt",
+        eng_verbs="_private_/GBI_alignment/english_verbs.pickle",
+        versestoparse="_private_/GBI_alignment/versestoparse.pickle",
     script:
-        "scripts/english/parse/align_verbs.py"
+        "scripts/english/parse/prepare_verbs.py"
 
-## -- parse english data --
-#rule raw_parse_english:
-#    input:
-#        niv="_private_/GBI_alignment/niv84.ot.alignment.json",
-#        esv="_private_/GBI_alignment/esv.ot.alignment.json", 
-#        bhsa_links="_private/GBI_alignment/bhsa2gbi.json"
-#    output:
-#        esv="_private_/english_parsings/bhsa2esv.json",
-#        niv="_private_/english_parsings/verb_data/bhsa2niv.json",
-#        txt="_private_/english_parsings/GBI_alignment/verse2text.json",
-#    script:
-#        "scripts/english/parse/rawparse_english.py"
+# -- parse english data --
+rule parse_eng_verses:
+    input:
+        versestoparse=rules.prepare_gbi_verbs.output.versestoparse,
+        verse2words=rules.preprocess_gbi.output.verse2words,
+        word_data=rules.preprocess_gbi.output.word_data,
+        script="scripts/english/parse/parse_verses.py",
+    output:
+        parsedverses="_private_/GBI_alignment/parsings/parsedverses.pickle",
+        verse2text="_private/GBI_alignment/verse2text.json",
+    script:
+        "scripts/english/parse/parse_verses.py"
+
+# -- apply matches to parsed english data to get tense tags
+rule parse_eng_tenses:
+    input:
+        main_script="scripts/english/parse/parse_tenses.py",
+        impv_script="scripts/english/parse/imperatives.py",
+        tense_rules="scripts/english/parse/tense_rules.py",
+        parsedverses=rules.parse_eng_verses.output.parsedverses,
+        eng_verbs=rules.prepare_gbi_verbs.output.eng_verbs,
+        word_data=rules.preprocess_gbi.output.word_data,
+        verse2words=rules.preprocess_gbi.output.verse2words,
+    output:
+        esv="_private_/GBI_alignment/parsings/bhsa2esv.json",
+        niv="_private_/GBI_alignment/parsings/bhsa2niv.json",
+        inspect_esv="_private_/GBI_alignment/parsings/inspect_esv_tenses.txt",
+        inspect_niv="_private_/GBI_alignment/parsings/inspect_niv_tenses.txt",
+    script:
+        "scripts/english/parse/parse_tenses.py"
 
 # -- generate samples --
-
 rule get_samples:
     input:
         "/Users/cody/github/etcbc/bhsa/tf/c"

@@ -21,7 +21,6 @@ bhsa2esv = json.loads(Path(snakemake.input.esv).read_text())
 bhsa2niv = json.loads(Path(snakemake.input.niv).read_text())
 trans2text = json.loads(Path(snakemake.input.txt).read_text())
 
-
 def get_word(node, default={}):
     """Retrieve word data for both translations"""
     str_node = str(node)
@@ -84,6 +83,8 @@ def build_text_row(node):
     for trans, tdata in transs:
         ref_tuple = tuple(tdata.get('eng_ref', ''))
         row_data[f'{trans}'] = tdata.get('words', '')
+        Exception('TO DO: ^ take longest string between GBI and tense_span instead')
+
         row_data[f'{trans}_verse'] = trans2text[trans].get(str(ref_tuple), '')
         row_data[f'{trans}_TAMspan'] = tdata.get('TAM_span', '')
 
