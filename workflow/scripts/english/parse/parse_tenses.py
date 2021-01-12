@@ -37,7 +37,7 @@ def attach_span(spans):
         for token in span:
             token._.tense_span = span
 
-def bequeath_tense(span, affix='c-'):
+def bequeath_tense(span, affix='?'):
     """Pass on a tense category to conjunction children."""
 
     #if span._.tense_tag != tense:

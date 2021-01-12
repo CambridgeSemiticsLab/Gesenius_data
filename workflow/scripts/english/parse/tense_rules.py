@@ -25,7 +25,7 @@ rules = [
         [
             {'LOWER': 'does'},
             {'LOWER': 'not'},
-            advbs,
+            non_verbs,
             {'TAG': 'VB'},
         ]
     ),
@@ -33,7 +33,7 @@ rules = [
         'PRES PROG', 
         [
             {'TAG': {'IN':['VBZ', 'VBP']}, 'LEMMA':'be'},
-            advb_pronouns,
+            non_verbs,
             {'TAG':'VBG', 'LEMMA': {'NOT_IN':['go']}},
         ]
     ),
@@ -41,7 +41,7 @@ rules = [
         'PRES PERF',
         [
             {'TAG': {'IN': ['VBZ', 'VBP']}, 'LEMMA': {'REGEX': 'have'}},
-            advb_pronouns,
+            non_verbs,
             {'TAG': 'VBN', 'DEP': {'NOT_IN': ['aux']}},
         ]
     ),
@@ -49,7 +49,7 @@ rules = [
         'PRES PERF PROG',
         [
             {'TAG': {'IN': ['VBZ', 'VBP']}, 'LEMMA': 'have'},
-            advb_pronouns,
+            non_verbs,
             {'TAG': 'VBN', 'LEMMA': 'be'},
             {'TAG': 'VBG'},
         ]
@@ -67,7 +67,7 @@ rules = [
         [
             {'LOWER': 'did'},
             {'LOWER': 'not'},
-            advb_pronouns,
+            non_verbs,
             {'TAG': {'IN': ['VB', 'VBP']}},
         ]
     ),
@@ -75,7 +75,7 @@ rules = [
         'PAST PERF',
         [
             {'TAG': {'IN': ['VBD']}, 'LEMMA': 'have'},
-            advb_pronouns,
+            non_verbs,
             {'TAG': 'VBN', 'DEP': {'NOT_IN': ['aux']}},
         ]
     ),
@@ -83,7 +83,7 @@ rules = [
         'PAST PERF PROG',
         [
             {'TAG': {'IN': ['VBD']}, 'LEMMA': 'have'},
-            advb_pronouns,
+            non_verbs,
             {'TAG': 'VBN', 'LEMMA': 'be'},
             {'TAG': 'VBG'},
         ]
@@ -92,7 +92,7 @@ rules = [
         'PAST PROG',
         [
             {'TAG':'VBD', 'LEMMA': {'IN': ['be', 'keep']}},
-            advb_pronouns,
+            non_verbs,
             {'TAG': 'VBG'},
         ]
     ),
@@ -102,7 +102,7 @@ rules = [
         'FUT',
         [
             {'TAG': 'MD', 'LEMMA': {'REGEX':'[wW]ill'}, 'DEP': 'aux'},
-            advb_pronouns,
+            non_verbs,
             {'TAG': 'VB', 'DEP': {'NOT_IN': ['aux']}},
         ]
     ),
@@ -110,9 +110,9 @@ rules = [
         'FUT going-to',
         [
             {'TAG': {'IN':['VBZ', 'VBP']}, 'LEMMA':'be'}, 
-            advb_pronouns,
-            {'TAG': 'VBG', 'LEMMA': 'go'},
-            {'TAG': 'TO'},
+            non_verbs,
+            {'LOWER': 'going'},
+            {'LOWER': 'to'},
             {'TAG': 'VB'},
         ]
     ),
@@ -120,9 +120,9 @@ rules = [
         'FUT PERF',
         [
             {'TAG': 'MD', 'LEMMA': 'will'},
-            advb_pronouns,
+            non_verbs,
             {'TAG': {'IN': ['VB']}, 'LEMMA': 'have'},
-            advb_pronouns,
+            non_verbs,
             {'TAG': 'VBN', 'DEP': {'NOT_IN': ['aux']}},
         ]
     ),
@@ -130,9 +130,9 @@ rules = [
         'FUT PERF PROG',
         [
             {'TAG': 'MD', 'LEMMA': 'will'},
-            advb_pronouns,
+            non_verbs,
             {'TAG': {'IN': ['VB']}, 'LEMMA': 'have'},
-            advb_pronouns,
+            non_verbs,
             {'TAG': 'VBN', 'LEMMA': 'be'},
             {'TAG': 'VBG'},
         ]
@@ -169,7 +169,7 @@ rules = [
         'FUT-IN-PAST',
         [
             {'LOWER': 'would', 'DEP': {'IN': ['aux']}},
-            advb_pronouns,
+            non_verbs,
             {'TAG':'VB'}
         ]
     ),
@@ -259,12 +259,40 @@ rules = [
         ]
     ),
     (
-        'punct IMPV',
+        'IMPV',
         [
             {'IS_PUNCT': True},
             {'TAG': 'VB', 'DEP':{'NOT_IN':['aux']}, 'IS_SENT_START': False, 'IS_TITLE': False} 
         ]
     ),
+    (
+        '?IMPV',
+        [
+            {'IS_PUNCT': True},
+            {'TAG': 'VBP', 'DEP':{'NOT_IN':['aux']}, 'IS_SENT_START': False, 'IS_TITLE': False} 
+        ]
+    ),
+
+    (
+        'IMPV',
+        [
+            {'TAG': 'VBP', 'IS_SENT_START': True, 'LEMMA': {'NOT_IN': ['have', 'be', 'do']}},
+        ],
+    ),
+    (
+        'IMPV',
+        [
+            {'TAG': 'VBP', 'IS_TITLE': True, 'LEMMA': {'NOT_IN': ['have', 'be', 'do']}},
+        ],
+    ),
+    (
+        '?IMPV',
+        [
+            {'TAG': 'VBP', 'IS_TITLE': True, 'LOWER': {'IN': ['have', 'do', 'be']}},
+            {'LOWER': {'NOT_IN': ['you', 'i', 'not', 'any', 'men', ]}},
+        ],
+    ),
+
     (
         'IMPV not',
         [

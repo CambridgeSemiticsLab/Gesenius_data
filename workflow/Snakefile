@@ -26,7 +26,7 @@ tf_modules = [
 #             git clone https://github.com/{}    
 #         """
 
-# -- preprocess the raw GBI data
+# -- preprocess the raw GBI data --
 rule preprocess_gbi:
     input:
         niv="_private_/GBI_alignment/niv84.ot.alignment.json",
@@ -87,6 +87,43 @@ rule parse_eng_tenses:
         inspect_niv="_private_/GBI_alignment/parsings/inspect_niv_tenses.txt",
     script:
         "scripts/english/parse/parse_tenses.py"
+
+# -- apply manual validations --
+# The script looks up 2 things:
+#   - whether a tag has a '?' in it (slated for review)
+#   - whether a manual review record already exists for 
+#        the unique tag x node id combo
+# based on these things it prepares a review sheet for 
+# manual validations
+rule get_eng_corrections:
+    input:
+        script="scripts/english/parse/get_corrections.py",
+        verse2text=rules.parse_eng_verses.output.verse2text,
+        esv=rules.parse_eng_tenses.output.esv,
+        niv=rules.parse_eng_tenses.output.niv,
+        sample="../results/samples/{verb}.json",
+    params:
+        esv_corr="_private_/GBI_alignment/parsings/corrections/corr_niv_{verb}.json",
+        niv_corr="_private_/GBI_alignment/parsings/corrections/corr_esv_{verb}.json",
+    output:
+        esv_todo="_private_/GBI_alignment/parsings/corrections/esv_{verb}.todo",
+        niv_todo="_private_/GBI_alignment/parsings/corrections/niv_{verb}.todo",
+    script:
+        "scripts/english/parse/get_corrections.py"
+
+rule apply_eng_corrections:
+    input:
+        script="scripts/english/parse/apply_corrections.py",
+        esv_todo="_private_/GBI_alignment/parsings/corrections/esv_{verb}.todo",
+        niv_todo="_private_/GBI_alignment/parsings/corrections/niv_{verb}.todo",
+    params:
+        esv_corr="_private_/GBI_alignment/parsings/corrections/corr_niv_{verb}.json",
+        niv_corr="_private_/GBI_alignment/parsings/corrections/corr_esv_{verb}.json",
+    output:
+        esv_todo="_private_/GBI_alignment/parsings/corrections/esv_{verb}.todo",
+        niv_todo="_private_/GBI_alignment/parsings/corrections/niv_{verb}.todo",
+    script:
+        "scripts/english/parse/apply_corrections.py"
 
 # -- generate samples --
 rule get_samples:
