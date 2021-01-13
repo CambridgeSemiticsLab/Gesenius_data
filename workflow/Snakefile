@@ -26,6 +26,16 @@ tf_modules = [
 #             git clone https://github.com/{}    
 #         """
 
+# -- generate samples --
+rule get_samples:
+    input:
+        "/Users/cody/github/etcbc/bhsa/tf/c"
+    output:
+        directory("../results/samples"),
+        expand("../results/samples/{verb}.json", verb=config["verb_forms"])
+    script:
+        "scripts/bhsa/get_samples.py"
+
 # -- preprocess the raw GBI data --
 rule preprocess_gbi:
     input:
@@ -57,7 +67,7 @@ rule prepare_gbi_verbs:
     script:
         "scripts/english/parse/prepare_verbs.py"
 
-# -- parse english data --
+# -- automatically parse english data --
 rule parse_eng_verses:
     input:
         versestoparse=rules.prepare_gbi_verbs.output.versestoparse,
@@ -70,7 +80,7 @@ rule parse_eng_verses:
     script:
         "scripts/english/parse/parse_verses.py"
 
-# -- apply matches to parsed english data to get tense tags
+# -- apply automatic matches to parsed english data to get tense tags
 rule parse_eng_tenses:
     input:
         main_script="scripts/english/parse/parse_tenses.py",
@@ -88,25 +98,12 @@ rule parse_eng_tenses:
     script:
         "scripts/english/parse/parse_tenses.py"
 
-# -- apply manual validations --
-# The script looks up 2 things:
-#   - whether a tag has a '?' in it (slated for review)
-#   - whether a manual review record already exists for 
-#        the unique tag x node id combo
-# based on these things it prepares a review sheet for 
-# manual validations
+# -- apply manual corrections --
+# How to work in manual corrections to the pipeline?
+# We do it in a round-about way by keeping some outputs
+# secret from snakemake and by designing dummy outputs.
 
-# !! TO DO 12 Jan 2021
-# I can't yet figure out how to get things to run recursively;
-# Snakefile requires directed acyclic graph;
-# one possibility:
-# since corr_{trans}_{verb} are being changed but not assigned
-# to any output, they could be switched to serve as "input" 
-# to one of the processes, thus making it defacto recursive
-# Alternatively:
-# I'll need to rely on some manual trigger to make the pipeline run properly
-# but ideally I'd like that trigger to be simply edits made to the todo files
-
+# produce initial to-do files
 rule get_eng_corrections:
     input:
         script="scripts/english/parse/get_corrections.py",
@@ -124,33 +121,27 @@ rule get_eng_corrections:
     script:
         "scripts/english/parse/get_corrections.py"
 
+# every time to-do file is changed, this rule will run;
+# a dummy file "run_{verb}" is used as the target, but 
+# the true output is another copy of the corrections and 
+# to-do files, which have been updated to reflect the latest
+# state of the to-do files
 rule apply_eng_corrections:
     input:
         script="scripts/english/parse/apply_corrections.py",
         script2="scripts/english/parse/correction_files.py",
+        verse2text=rules.parse_eng_verses.output.verse2text,
         esv=rules.parse_eng_tenses.output.esv,
         niv=rules.parse_eng_tenses.output.niv,
-        esv_todo="_private_/GBI_alignment/parsings/corrections/esv_{verb}.todo",
-        niv_todo="_private_/GBI_alignment/parsings/corrections/niv_{verb}.todo",
-        verse2text=rules.parse_eng_verses.output.verse2text,
+        esv_todo=rules.get_eng_corrections.output.esv_todo, # changes to to-dos trigger run
+        niv_todo=rules.get_eng_corrections.output.niv_todo,
     params:
         niv_corr="_private_/GBI_alignment/parsings/corrections/corr_niv_{verb}.json",
         esv_corr="_private_/GBI_alignment/parsings/corrections/corr_esv_{verb}.json",
     output:
-        esv_todo="_private_/GBI_alignment/parsings/corrections/esv_{verb}.todo2",
-        niv_todo="_private_/GBI_alignment/parsings/corrections/niv_{verb}.todo2",
+        run="_private_/GBI_alignment/parsings/corrections/run_{verb}" # blank dummy file to make pipeline run
     script:
         "scripts/english/parse/apply_corrections.py"
-
-# -- generate samples --
-rule get_samples:
-    input:
-        "/Users/cody/github/etcbc/bhsa/tf/c"
-    output:
-        directory("../results/samples"),
-        expand("../results/samples/{verb}.json", verb=config["verb_forms"])
-    script:
-        "scripts/bhsa/get_samples.py"
 
 # -- build csv tables --
 
@@ -175,6 +166,8 @@ rule eng_tables:
         sample="../results/samples/{verb}.json", 
         esv="_private_/verb_data/bhsa2esv.json",
         niv="_private_/verb_data/bhsa2niv.json",
+        esv_corr="_private_/parsings/corrections/corr_esv_{verb}.json",
+        niv_corr="_private_/parsings/corrections/corr_niv_{verb}.json",
         txt="_private_/GBI_alignment/verse2text.json",
         script=eng_script
     output: 
@@ -219,7 +212,6 @@ rule analyze_verb:
         "scripts/analysis/{wildcards.verb}/{wildcards.analysis_name}.py"
 
 # - visualize analyses -
-
 rule table_styles:
     input:
         "html/tables.css"

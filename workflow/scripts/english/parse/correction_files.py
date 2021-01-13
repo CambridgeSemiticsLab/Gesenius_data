@@ -64,13 +64,13 @@ class TodoReader:
         self.header = eval(header)
         self.data = re.findall('\t\t(\d+)\t(.+)\t(.+)', data)
 
-def apply_corrections(corr_file, todo_infile, todo_outfile, word_data_f, versetexts):
+def apply_corrections(corr_file, todo_file, word_data_f, versetexts, report_f):
     """Read in a corrections record file and to-do and determine how to save changes.""" 
 
     # load data for processing
     word_data = json.loads(Path(word_data_f).read_text())
     corr_record = json.loads(Path(corr_file).read_text())
-    corrs = TodoReader(todo_infile)
+    corrs = TodoReader(todo_file)
     file_complete = corrs.header['complete']
     to_dos = []
     
@@ -94,8 +94,12 @@ def apply_corrections(corr_file, todo_infile, todo_outfile, word_data_f, versete
             to_dos.append(node)
 
     # re-export to-do list
-    export_todo(to_dos, word_data, versetexts, todo_outfile)
+    export_todo(to_dos, word_data, versetexts, todo_file)
 
     # re-export the corrections record
     with open(corr_file, 'w') as outfile:
         json.dump(corr_record, outfile, indent=2)
+
+    # export dummy file to give Snakemake something to chew on
+    with open(report_f, 'w') as outfile:
+        outfile.write('')

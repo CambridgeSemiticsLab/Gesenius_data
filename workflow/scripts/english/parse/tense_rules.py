@@ -10,14 +10,32 @@ advbs = {'TAG': {'IN':['RB']}, 'OP': '*'}
 non_verbs = {'TAG': {'NOT_IN':['VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ']}, 'OP': '*'}
 pres_modals = ['let', 'may', 'shall', 'must', 'can', 'should']
 past_modals = ['would', 'could']
+not_aux = {'NOT_IN': ['aux']}
 
 rules = [
 
 # -- present tense --
+
+# ! to do ! Fix present tense
+# ! Look at 'eat' which is still tagged as PRES and not ?PRES
+# ^ This is where I'm leaving off as of 13 Jan
+
+    (
+        '?PRES',
+        [
+            {'TAG': 'VBP', 'DEP': not_aux},
+        ]
+    ),
     (
         'PRES', 
         [
-            {'TAG':{'IN':['VBZ', 'VBP']}, 'DEP': {'NOT_IN': ['aux']}},
+            {'TAG': {'IN': ['VBZ', 'VBP']}, 'DEP': not_aux, 'LEMMA': {'IS_IN': ['is']}},
+        ]
+    ),
+    (
+        'PRES',
+        [
+            {'TAG': {'IN': ['VBZ']}, 'DEP': not_aux},
         ]
     ),
     (
@@ -42,7 +60,7 @@ rules = [
         [
             {'TAG': {'IN': ['VBZ', 'VBP']}, 'LEMMA': {'REGEX': 'have'}},
             non_verbs,
-            {'TAG': 'VBN', 'DEP': {'NOT_IN': ['aux']}},
+            {'TAG': 'VBN', 'DEP': not_aux},
         ]
     ),
     (
@@ -76,7 +94,7 @@ rules = [
         [
             {'TAG': {'IN': ['VBD']}, 'LEMMA': 'have'},
             non_verbs,
-            {'TAG': 'VBN', 'DEP': {'NOT_IN': ['aux']}},
+            {'TAG': 'VBN', 'DEP': not_aux},
         ]
     ),
     (
@@ -103,7 +121,7 @@ rules = [
         [
             {'TAG': 'MD', 'LEMMA': {'REGEX':'[wW]ill'}, 'DEP': 'aux'},
             non_verbs,
-            {'TAG': 'VB', 'DEP': {'NOT_IN': ['aux']}},
+            {'TAG': 'VB', 'DEP': not_aux},
         ]
     ),
     (
@@ -123,7 +141,7 @@ rules = [
             non_verbs,
             {'TAG': {'IN': ['VB']}, 'LEMMA': 'have'},
             non_verbs,
-            {'TAG': 'VBN', 'DEP': {'NOT_IN': ['aux']}},
+            {'TAG': 'VBN', 'DEP': not_aux},
         ]
     ),
     (
@@ -145,6 +163,14 @@ rules = [
             {'TAG': {'IN':['VB', 'MD']}, 'LEMMA': {'IN': pres_modals}},
             non_verbs,
             {'TAG': 'VB'},
+        ]
+    ),
+    (
+        '?MOD',
+        [
+            {'TAG': {'IN':['VB', 'MD']}, 'LEMMA': {'IN': pres_modals}},
+            non_verbs,
+            {'TAG': 'VBP'},
         ]
     ),
     (
@@ -227,7 +253,7 @@ rules = [
     # at the front of a sentence or clause; adverbial elements
     # may instead precede the verb
     (
-        'VB',
+        '?VB',
         [ 
             {'TAG': 'VB'}
         ]
@@ -272,7 +298,6 @@ rules = [
             {'TAG': 'VBP', 'DEP':{'NOT_IN':['aux']}, 'IS_SENT_START': False, 'IS_TITLE': False} 
         ]
     ),
-
     (
         'IMPV',
         [
