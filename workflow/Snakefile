@@ -95,16 +95,29 @@ rule parse_eng_tenses:
 #        the unique tag x node id combo
 # based on these things it prepares a review sheet for 
 # manual validations
+
+# !! TO DO 12 Jan 2021
+# I can't yet figure out how to get things to run recursively;
+# Snakefile requires directed acyclic graph;
+# one possibility:
+# since corr_{trans}_{verb} are being changed but not assigned
+# to any output, they could be switched to serve as "input" 
+# to one of the processes, thus making it defacto recursive
+# Alternatively:
+# I'll need to rely on some manual trigger to make the pipeline run properly
+# but ideally I'd like that trigger to be simply edits made to the todo files
+
 rule get_eng_corrections:
     input:
         script="scripts/english/parse/get_corrections.py",
+        script2="scripts/english/parse/correction_files.py",
         verse2text=rules.parse_eng_verses.output.verse2text,
         esv=rules.parse_eng_tenses.output.esv,
         niv=rules.parse_eng_tenses.output.niv,
         sample="../results/samples/{verb}.json",
     params:
-        esv_corr="_private_/GBI_alignment/parsings/corrections/corr_niv_{verb}.json",
-        niv_corr="_private_/GBI_alignment/parsings/corrections/corr_esv_{verb}.json",
+        esv_corr="_private_/GBI_alignment/parsings/corrections/corr_esv_{verb}.json",
+        niv_corr="_private_/GBI_alignment/parsings/corrections/corr_niv_{verb}.json",
     output:
         esv_todo="_private_/GBI_alignment/parsings/corrections/esv_{verb}.todo",
         niv_todo="_private_/GBI_alignment/parsings/corrections/niv_{verb}.todo",
@@ -114,14 +127,18 @@ rule get_eng_corrections:
 rule apply_eng_corrections:
     input:
         script="scripts/english/parse/apply_corrections.py",
+        script2="scripts/english/parse/correction_files.py",
+        esv=rules.parse_eng_tenses.output.esv,
+        niv=rules.parse_eng_tenses.output.niv,
         esv_todo="_private_/GBI_alignment/parsings/corrections/esv_{verb}.todo",
         niv_todo="_private_/GBI_alignment/parsings/corrections/niv_{verb}.todo",
+        verse2text=rules.parse_eng_verses.output.verse2text,
     params:
-        esv_corr="_private_/GBI_alignment/parsings/corrections/corr_niv_{verb}.json",
-        niv_corr="_private_/GBI_alignment/parsings/corrections/corr_esv_{verb}.json",
+        niv_corr="_private_/GBI_alignment/parsings/corrections/corr_niv_{verb}.json",
+        esv_corr="_private_/GBI_alignment/parsings/corrections/corr_esv_{verb}.json",
     output:
-        esv_todo="_private_/GBI_alignment/parsings/corrections/esv_{verb}.todo",
-        niv_todo="_private_/GBI_alignment/parsings/corrections/niv_{verb}.todo",
+        esv_todo="_private_/GBI_alignment/parsings/corrections/esv_{verb}.todo2",
+        niv_todo="_private_/GBI_alignment/parsings/corrections/niv_{verb}.todo2",
     script:
         "scripts/english/parse/apply_corrections.py"
 

@@ -1,0 +1,101 @@
+"""
+Open manual corrections file and apply corrections.
+"""
+
+import re
+import json
+import collections
+import textwrap
+from pathlib import Path
+
+def export_todo(todos, word_data, versetexts, outfile):
+    """Export a manual review sheet."""
+   
+    # cluster on verses
+    verse2cases = collections.defaultdict(list)
+    for case in todos:
+        ref = str(tuple(word_data[case]['eng_ref']))
+        verse2cases[ref].append(case)
+
+    # assemble into document
+    meta = {'n_cases': len(todos), 'complete': False}
+    doc = f'{meta}\n\n'
+    for ref, cases in verse2cases.items():
+        text = '\n'.join(textwrap.wrap(versetexts[ref], 80))
+        ref_str = '{} {}:{}'.format(*eval(ref))
+        doc += f'{ref_str}\n'
+        doc += f'{text}\n'
+        for case in cases:
+            tense = word_data[case]['tense']
+            span = word_data[case]['tense_span']
+            doc += f'\t\t{case}\t{span}\t{tense}\n'
+        doc += '\n'
+    # export doc
+    with open(outfile, 'w') as outfile:
+        outfile.write(doc.strip())
+
+def build_todos(sample, word_data_f, corr_file, todo_file, versetexts):
+    """Gather cases to export to a review sheet."""
+
+    word_data = json.loads(Path(word_data_f).read_text())
+    corr_data = json.loads(Path(corr_file).read_text())
+    to_dos = []
+
+    # go through nodes and figure out what needs to be added
+    for node, data in word_data.items():
+
+        # only export on a sample-by-sample basis
+        if int(node) not in sample:
+            continue
+
+        tense = data['tense']
+
+        # trigger review for given example
+        if ('?' in tense) and (tense not in corr_data.get(node, {})):
+            to_dos.append(node)
+
+    # export the to-do document
+    export_todo(to_dos, word_data, versetexts, todo_file)
+
+class TodoReader:
+    def __init__(self, path):
+        doc = Path(path).read_text()
+        header, data = re.split('\n\n', doc, 1)
+        self.header = eval(header)
+        self.data = re.findall('\t\t(\d+)\t(.+)\t(.+)', data)
+
+def apply_corrections(corr_file, todo_infile, todo_outfile, word_data_f, versetexts):
+    """Read in a corrections record file and to-do and determine how to save changes.""" 
+
+    # load data for processing
+    word_data = json.loads(Path(word_data_f).read_text())
+    corr_record = json.loads(Path(corr_file).read_text())
+    corrs = TodoReader(todo_infile)
+    file_complete = corrs.header['complete']
+    to_dos = []
+    
+    # iterate through all corrections and enact changes as necessary
+    for node, span, corr_tense in corrs.data:
+
+        original_tense = word_data[node]['tense']
+        
+        # keep original value when file complete
+        if corr_tense == original_tense and file_complete:
+            corr_entry = corr_record.setdefault(node, {}) 
+            corr_entry[original_tense] = corr_tense.replace('?', '')
+
+        # remap a new value
+        elif corr_tense != original_tense:
+            corr_entry = corr_record.setdefault(node, {}) 
+            corr_entry[original_tense] = corr_tense
+
+        # place the to-do back in the to-do set
+        else:
+            to_dos.append(node)
+
+    # re-export to-do list
+    export_todo(to_dos, word_data, versetexts, todo_outfile)
+
+    # re-export the corrections record
+    with open(corr_file, 'w') as outfile:
+        json.dump(corr_record, outfile, indent=2)
