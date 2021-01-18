@@ -1,6 +1,7 @@
 # non-open source materials
 _private_
 eng_text.csv
+_eng_text_.csv
 
 # system files -CK
 .DS_Store
