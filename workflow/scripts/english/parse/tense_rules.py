@@ -8,18 +8,13 @@
 advb_pronouns = {'TAG': {'IN':['RB', 'PRP']}, 'OP': '*'}
 advbs = {'TAG': {'IN':['RB']}, 'OP': '*'}
 non_verbs = {'TAG': {'NOT_IN':['VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ']}, 'OP': '*'}
-pres_modals = ['let', 'may', 'shall', 'must', 'can', 'should']
-past_modals = ['would', 'could']
 not_aux = {'NOT_IN': ['aux']}
+
+# TODO: add words from qatal correction to the ruleset
 
 rules = [
 
 # -- present tense --
-
-# ! to do ! Fix present tense
-# ! Look at 'eat' which is still tagged as PRES and not ?PRES
-# ^ This is where I'm leaving off as of 13 Jan
-
     (
         '?PRES',
         [
@@ -27,15 +22,37 @@ rules = [
         ]
     ),
     (
-        'PRES', 
+        'PRES',
         [
-            {'TAG': {'IN': ['VBZ', 'VBP']}, 'DEP': not_aux, 'LEMMA': {'IS_IN': ['is']}},
+            {'LEMMA': '-PRON-'},
+            {'TAG': 'VBP', 'DEP': not_aux, 'LEMMA': {'NOT_IN': ['be']}},
         ]
     ),
     (
         'PRES',
         [
-            {'TAG': {'IN': ['VBZ']}, 'DEP': not_aux},
+            {'DEP': 'nsubj', 'LEMMA': {'NOT_IN': ['-PRON-']}},
+            {'TAG': 'VBP', 'DEP': not_aux, 'LEMMA': {'NOT_IN': ['be']}, 'DEP': {'NOT_IN': ['aux', 'ccomp']}},
+        ]
+    ),
+    (
+        '?PRES',
+        [
+            {'DEP': 'nsubj', 'LEMMA': {'NOT_IN': ['-PRON-']}},
+            {'TAG': 'VBP', 'DEP': not_aux, 'LEMMA': {'NOT_IN': ['be']}, 'DEP': {'IN': ['ccomp']}},
+        ]
+    ),
+
+    (
+        'PRES', 
+        [
+            {'TAG': {'IN': ['VBZ', 'VBP']}, 'DEP': not_aux, 'LEMMA': {'IN': ['be']}},
+        ]
+    ),
+    (
+        'PRES',
+        [
+            {'TAG': {'IN': ['VBZ']}, 'DEP': not_aux, 'LEMMA': {'NOT_IN': ['be']}},
         ]
     ),
     (
@@ -46,6 +63,24 @@ rules = [
             non_verbs,
             {'TAG': 'VB'},
         ]
+    ),
+    (
+        'PRES question',
+        [
+            {'TEXT': {'IN': ['Do', 'Does']}},
+            {'LEMMA': '-PRON-'},
+            non_verbs,
+            {'TAG': {'IN': ['VBP', 'VB']}, 'DEP': not_aux},
+        ],
+    ),
+    (
+        'PRES wh-question',
+        [
+            {'TAG': 'WRB'},
+            {'TEXT': {'IN': ['does', 'do']}},
+            non_verbs,
+            {'TAG': {'IN': ['VBP', 'VB']}, 'DEP': not_aux},
+        ],
     ),
     (
         'PRES PROG', 
@@ -72,13 +107,37 @@ rules = [
             {'TAG': 'VBG'},
         ]
     ),
+    (
+        'PRES PERF question',
+        [
+            {'TEXT': {'IN': ['Have', 'Has']}},
+            non_verbs,
+            {'TAG': 'VBN', 'DEP': not_aux},
+        ],
+    ),
+    (
+        'PRES PERF wh-question',
+        [
+            {'TAG': 'WRB'},
+            {'TEXT': {'IN': ['have', 'has']}},
+            non_verbs,
+            {'TAG': 'VBN', 'DEP': not_aux},
+        ],
+    ),
 
     # -- past --
     (
         'PAST',
         [
-            {'TAG': 'VBD', 'DEP': {'NOT_IN':['aux']}},
+            {'TAG': 'VBD', 'DEP': {'NOT_IN':['aux']}, 'LEMMA': {'NOT_IN': ['put']}},
         ]
+    ),
+    (
+        '?PAST',
+        [
+            {'TAG': 'VBD', 'DEP': {'NOT_IN':['aux']}, 'LEMMA': 'put'},
+        ]
+
     ),
     (
         'PAST did not', 
@@ -90,9 +149,17 @@ rules = [
         ]
     ),
     (
+        'PAST question',
+        [
+            {'TEXT': 'Did'},
+            non_verbs,
+            {'TAG': {'IN': ['VB']}},
+        ]
+    ),
+    (
         'PAST PERF',
         [
-            {'TAG': {'IN': ['VBD']}, 'LEMMA': 'have'},
+            {'TAG': {'IN': ['VBD']}, 'LEMMA': 'have', 'IS_TITLE': False},
             non_verbs,
             {'TAG': 'VBN', 'DEP': not_aux},
         ]
@@ -109,17 +176,26 @@ rules = [
     (
         'PAST PROG',
         [
-            {'TAG':'VBD', 'LEMMA': {'IN': ['be', 'keep']}},
+            {'TAG':'VBD', 'LEMMA': 'be'},
+            non_verbs,
+            {'TAG': 'VBG'},
+        ]
+    ),
+    (
+        'PAST PROG keep',
+        [
+            {'TAG':'VBD', 'LEMMA': 'keep'},
             non_verbs,
             {'TAG': 'VBG'},
         ]
     ),
 
+
     # -- future --
     (
         'FUT',
         [
-            {'TAG': 'MD', 'LEMMA': {'REGEX':'[wW]ill'}, 'DEP': 'aux'},
+            {'LOWER': 'will', 'DEP': 'aux'},
             non_verbs,
             {'TAG': 'VB', 'DEP': not_aux},
         ]
@@ -137,7 +213,7 @@ rules = [
     (
         'FUT PERF',
         [
-            {'TAG': 'MD', 'LEMMA': 'will'},
+            {'TAG': 'MD', 'LOWER': 'will'},
             non_verbs,
             {'TAG': {'IN': ['VB']}, 'LEMMA': 'have'},
             non_verbs,
@@ -147,47 +223,13 @@ rules = [
     (
         'FUT PERF PROG',
         [
-            {'TAG': 'MD', 'LEMMA': 'will'},
+            {'TAG': 'MD', 'LOWER': 'will'},
             non_verbs,
             {'TAG': {'IN': ['VB']}, 'LEMMA': 'have'},
             non_verbs,
             {'TAG': 'VBN', 'LEMMA': 'be'},
             {'TAG': 'VBG'},
         ]
-    ),
-
-    # -- modals --
-    (
-        'MOD',
-        [
-            {'TAG': {'IN':['VB', 'MD']}, 'LEMMA': {'IN': pres_modals}},
-            non_verbs,
-            {'TAG': 'VB'},
-        ]
-    ),
-    (
-        '?MOD',
-        [
-            {'TAG': {'IN':['VB', 'MD']}, 'LEMMA': {'IN': pres_modals}},
-            non_verbs,
-            {'TAG': 'VBP'},
-        ]
-    ),
-    (
-        'MOD past',
-        [
-            {'TAG': {'IN':['VB', 'MD']}, 'LEMMA': {'IN': past_modals}},
-            non_verbs,
-            {'TAG': 'VB'},
-        ]
-    ),
-     (
-        'MOD lest',
-        [
-            {'lower': 'lest'},
-            non_verbs,
-            {'TAG': {'IN': ['VBP', 'VB']}},
-        ],
     ),
 
     # -- habituals --
@@ -202,7 +244,7 @@ rules = [
     (
         'HAB used to',
         [
-            {'TAG': 'VBD', 'lemma': 'use'},
+            {'TAG': 'VBD', 'LEMMA': 'use'},
             {'LOWER': 'to'},
             {'TAG': 'VB'},
         ],
@@ -212,8 +254,8 @@ rules = [
     (
         'PRES do-support',
         [
-            {'LOWER': 'does'},
-            {'TAG': 'VB'},
+            {'TEXT': {'IN': ['does', 'do']}},
+            {'TAG': 'VB', 'LEMMA': {'NOT_IN': ['evil']}},
         ],
     ),
     (
@@ -327,4 +369,51 @@ rules = [
             {'TAG': 'VB'}
         ]
     ),
+
+    # -- modals --
+     (
+        'MOD lest',
+        [
+            {'lower': 'lest'},
+            non_verbs,
+            {'TAG': {'IN': ['VBP', 'VB']}},
+        ],
+    ),
 ]
+
+# add a series of modal forms
+modal_words = ['let', 'may', 'must', 'might']
+quest_modals = ['shall', 'should', 'would', 'can', 'could']
+modal_words = modal_words + quest_modals
+
+for verb in modal_words:
+    rules.extend([
+        (
+            f'MOD {verb}',
+             [
+                {'TAG': {'IN':['VB', 'MD']}, 'LOWER': verb},
+                non_verbs,
+                {'TAG': 'VB'},
+            ]
+        ),
+        (
+            f'?MOD {verb}',
+             [
+                {'TAG': {'IN':['VB', 'MD']}, 'LOWER': verb},
+                non_verbs,
+                {'TAG': 'VBP'},
+            ]
+        ),
+    ])
+
+for verb in quest_modals:
+    rules.append(
+         (
+            f'MOD quest {verb}',
+             [
+                {'TAG': {'IN':['VB', 'MD']}, 'LOWER': verb, 'IS_TITLE': True},
+                non_verbs,
+                {'TAG': {'IN': ['VBP', 'VB']}, 'LOWER': {'NOT_IN': ['turn']}},
+            ]
+        )
+)

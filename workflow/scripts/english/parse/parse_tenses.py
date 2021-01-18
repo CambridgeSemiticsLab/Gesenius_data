@@ -89,8 +89,7 @@ def match_spans(parsed_verses, matcher):
             filtered_spans = filter_spans(spans)  # filter out overlapping spans; keep longest
             attach_span(filtered_spans) # ensure tokens are mapped to their matched span
             for span in filtered_spans:
-                bequeath_tense(span) # 'IMPV')
-                #bequeath_tense(span, 'TO INF')
+                bequeath_tense(span) 
             
             # save positive matches; unmatched verses will
             # be recognized later

@@ -28,7 +28,8 @@ def export_todo(todos, word_data, versetexts, outfile):
         for case in cases:
             tense = word_data[case]['tense']
             span = word_data[case]['tense_span']
-            doc += f'\t\t{case}\t{span}\t{tense}\n'
+            gloss = word_data[case]['words']
+            doc += f'\t\t{case}\t{tense}\t{span}\t({gloss})\n'
         doc += '\n'
     # export doc
     with open(outfile, 'w') as outfile:
@@ -62,7 +63,7 @@ class TodoReader:
         doc = Path(path).read_text()
         header, data = re.split('\n\n', doc, 1)
         self.header = eval(header)
-        self.data = re.findall('\t\t(\d+)\t(.+)\t(.+)', data)
+        self.data = re.findall('\t\t(\d+)\t(.+)\t(.+)\t(.+)', data)
 
 def apply_corrections(corr_file, todo_file, word_data_f, versetexts, report_f):
     """Read in a corrections record file and to-do and determine how to save changes.""" 
@@ -75,7 +76,7 @@ def apply_corrections(corr_file, todo_file, word_data_f, versetexts, report_f):
     to_dos = []
     
     # iterate through all corrections and enact changes as necessary
-    for node, span, corr_tense in corrs.data:
+    for node, corr_tense, span, gloss in corrs.data:
 
         original_tense = word_data[node]['tense']
         
