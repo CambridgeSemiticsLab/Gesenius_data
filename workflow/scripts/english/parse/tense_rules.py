@@ -10,7 +10,10 @@ advbs = {'TAG': {'IN':['RB']}, 'OP': '*'}
 non_verbs = {'TAG': {'NOT_IN':['VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ']}, 'OP': '*'}
 not_aux = {'NOT_IN': ['aux']}
 
-# TODO: add words from qatal correction to the ruleset
+ambiguous_pasts = [
+    'put', 'set', 'cut', 'lay', 'cast', 
+    'spread', 'spit', 'read', 'rid', 'darken',
+]
 
 rules = [
 
@@ -129,7 +132,7 @@ rules = [
     (
         'PAST',
         [
-            {'TAG': 'VBD', 'DEP': {'NOT_IN':['aux']}, 'LEMMA': {'NOT_IN': ['put']}},
+            {'TAG': 'VBD', 'DEP': {'NOT_IN':['aux']}, 'LEMMA': {'NOT_IN': ambiguous_pasts}},
         ]
     ),
     (
@@ -361,13 +364,22 @@ rules = [
     ),
 
     (
-        'IMPV not',
+        'IMPV do not',
         [
             {'LOWER': 'do'},
             {'LEMMA': 'not'},
             non_verbs,
             {'TAG': 'VB'}
         ]
+    ),
+    (
+        'IMPV not',
+        [
+            {'TAG': 'VB', 'LEMMA': {'NOT_IN': ['do']}}, 
+            {'TEXT': 'not'},
+            non_verbs,
+            {'TAG': 'VB'},
+        ],
     ),
 
     # -- modals --
@@ -379,6 +391,14 @@ rules = [
             {'TAG': {'IN': ['VBP', 'VB']}},
         ],
     ),
+    (   
+        'MOD need not',
+        [   
+            {'TEXT': 'need'},
+            {'TEXT': 'not'},
+            {'TAG': 'VB'},
+        ],  
+    ),  
 ]
 
 # add a series of modal forms

@@ -1,0 +1,396 @@
+{
+  "2897": {
+    "?IMPV": "IMPV"
+  },
+  "5000": {
+    "?IMPV": "MOD"
+  },
+  "5088": {
+    "?MOD": "MOD",
+    "?MOD let": "MOD let"
+  },
+  "5513": {
+    "?FUT": "FUT"
+  },
+  "7621": {
+    "?IMPV": "MOD"
+  },
+  "8218": {
+    "?FUT": "FUT"
+  },
+  "8820": {
+    "?IMPV not": "IMPV not"
+  },
+  "10495": {
+    "?IMPV not": "IMPV "
+  },
+  "1769": {
+    "?PRES": "PRES"
+  },
+  "1855": {
+    "?PRES": "PRES"
+  },
+  "5082": {
+    "?PRES": "PRES"
+  },
+  "5717": {
+    "?PRES": "PRES"
+  },
+  "6668": {
+    "?MOD": "MOD",
+    "?MOD let": "MOD let"
+  },
+  "6907": {
+    "?PRES": "PRES"
+  },
+  "7630": {
+    "?VB": "VB"
+  },
+  "7870": {
+    "?PRES": "PRES"
+  },
+  "8265": {
+    "?PRES": "PRES"
+  },
+  "8318": {
+    "?PRES": "PRES"
+  },
+  "8361": {
+    "?PRES": "PRES"
+  },
+  "9526": {
+    "?PRES": "PRES"
+  },
+  "10345": {
+    "?FUT": "FUT"
+  },
+  "10347": {
+    "??FUT": "FUT"
+  },
+  "11899": {
+    "?PRES": "PRES"
+  },
+  "12204": {
+    "?MOD": "MOD",
+    "?MOD let": "MOD let"
+  },
+  "12235": {
+    "?MOD": "MOD",
+    "?MOD let": "MOD let"
+  },
+  "13703": {
+    "?PRES": "PRES"
+  },
+  "13751": {
+    "?MOD": "MOD",
+    "?MOD may": "MOD may"
+  },
+  "14042": {
+    "?MOD": "MOD",
+    "?MOD may": "MOD may"
+  },
+  "14111": {
+    "?PRES": "MOD"
+  },
+  "14119": {
+    "?MOD": "MOD",
+    "?MOD may": "MOD may"
+  },
+  "14171": {
+    "?MOD": "MOD",
+    "?MOD let": "MOD let"
+  },
+  "14363": {
+    "?PRES": "PRES"
+  },
+  "14540": {
+    "?PRES": "IMPV"
+  },
+  "14543": {
+    "??PRES": "IMPV",
+    "?PRES": "IMPV"
+  },
+  "14545": {
+    "?VB": "IMPV"
+  },
+  "14787": {
+    "?PRES": "PRES"
+  },
+  "14944": {
+    "?PRES": "PRES"
+  },
+  "15086": {
+    "?MOD": "MOD",
+    "?MOD can": "MOD can"
+  },
+  "15089": {
+    "?MOD": "PRES",
+    "?MOD can": "PRES can"
+  },
+  "16091": {
+    "?FUT": "FUT"
+  },
+  "16131": {
+    "?PRES": "PRES"
+  },
+  "16953": {
+    "?PRES": "PRES"
+  },
+  "17307": {
+    "?PRES": "IMPV"
+  },
+  "17318": {
+    "?PRES": "PRES"
+  },
+  "17323": {
+    "?PRES": "PRES"
+  },
+  "17398": {
+    "?IMPV": "IMPV"
+  },
+  "17761": {
+    "?PAST": "IMPV"
+  },
+  "18609": {
+    "?IMPV": "IMPV"
+  },
+  "19098": {
+    "?MOD": "MOD",
+    "?MOD let": "MOD let"
+  },
+  "20525": {
+    "?MOD": "MOD",
+    "?MOD let": "MOD let"
+  },
+  "22990": {
+    "?PRES PROG": "MOD"
+  },
+  "23466": {
+    "?MOD": "MOD",
+    "?MOD may": "MOD may"
+  },
+  "23733": {
+    "?MOD": "MOD",
+    "?MOD let": "MOD let"
+  },
+  "23749": {
+    "?VB": "IMPV"
+  },
+  "24196": {
+    "?FUT": "FUT"
+  },
+  "24262": {
+    "?PRES": "MOD"
+  },
+  "24281": {
+    "?FUT": "FUT"
+  },
+  "24286": {
+    "?MOD": "MOD",
+    "?MOD may": "MOD may"
+  },
+  "24727": {
+    "?VB": "IMPV"
+  },
+  "24865": {
+    "?VB": "IMPV"
+  },
+  "25830": {
+    "?IMPV": "IMPV"
+  },
+  "25989": {
+    "?FUT": "FUT"
+  },
+  "26485": {
+    "?FUT": "FUT"
+  },
+  "27015": {
+    "?MOD": "MOD",
+    "?MOD may": "MOD may"
+  },
+  "27726": {
+    "?PRES": "IMPV"
+  },
+  "27871": {
+    "?FUT": "FUT"
+  },
+  "27901": {
+    "?PRES": "PRES"
+  },
+  "28353": {
+    "?MOD": "MOD",
+    "?MOD let": "MOD let"
+  },
+  "28551": {
+    "?FUT": "FUT"
+  },
+  "29874": {
+    "?MOD": "MOD",
+    "?MOD should": "MOD should"
+  },
+  "30180": {
+    "?FUT": "FUT"
+  },
+  "30306": {
+    "?VB": "FUT"
+  },
+  "30335": {
+    "?FUT": "FUT"
+  },
+  "30521": {
+    "?VB": "IMPV"
+  },
+  "30980": {
+    "?MOD": "MOD",
+    "?MOD let": "MOD let"
+  },
+  "30994": {
+    "?MOD": "IMPV",
+    "?MOD may": "MOD may"
+  },
+  "31134": {
+    "?MOD": "MOD",
+    "?MOD let": "MOD let"
+  },
+  "31186": {
+    "?PRES": "IMPV"
+  },
+  "31190": {
+    "?VB": "IMPV"
+  },
+  "31447": {
+    "?MOD": "TO INF",
+    "?MOD let": "TO INF let"
+  },
+  "32054": {
+    "?IMPV": "IMPV"
+  },
+  "32511": {
+    "?VB": "MOD"
+  },
+  "34079": {
+    "?MOD": "MOD",
+    "?MOD may": "MOD may"
+  },
+  "34360": {
+    "?MOD": "MOD",
+    "?MOD let": "MOD let"
+  },
+  "34866": {
+    "?MOD": "MOD",
+    "?MOD let": "MOD shall"
+  },
+  "36245": {
+    "?TO INF": "TO INF"
+  },
+  "37100": {
+    "?PRES": "PRES"
+  },
+  "37117": {
+    "?VB": "PRES"
+  },
+  "37123": {
+    "?FUT": "FUT"
+  },
+  "37306": {
+    "?FUT": "FUT"
+  },
+  "39114": {
+    "?MOD": "MOD",
+    "?MOD shall": "MOD shall"
+  },
+  "39528": {
+    "?MOD": "MOD",
+    "?MOD let": "MOD let"
+  },
+  "39578": {
+    "?MOD": "MOD",
+    "?MOD let": "IMPV not"
+  },
+  "39659": {
+    "?MOD": "MOD",
+    "?MOD shall": "MOD shall"
+  },
+  "40012": {
+    "?VB": "MOD"
+  },
+  "40916": {
+    "?MOD": "MOD",
+    "?MOD shall": "MOD shall"
+  },
+  "41016": {
+    "?MOD shall": "MOD shall"
+  },
+  "41240": {
+    "?IMPV": "IMPV"
+  },
+  "41326": {
+    "?MOD let": "MOD let"
+  },
+  "41385": {
+    "?PRES": "PRES"
+  },
+  "41433": {
+    "?MOD shall": "MOD shall"
+  },
+  "41436": {
+    "??MOD shall": "MOD shall"
+  },
+  "41444": {
+    "?MOD shall": "MOD shall"
+  },
+  "44415": {
+    "?VB": "PRES"
+  },
+  "45274": {
+    "?PRES": "PRES"
+  },
+  "45726": {
+    "?VB": "MOD shall"
+  },
+  "48073": {
+    "?MOD shall": "MOD shall"
+  },
+  "48276": {
+    "?MOD let": "MOD let"
+  },
+  "48645": {
+    "?MOD let": "MOD let"
+  },
+  "48647": {
+    "??MOD let": "MOD let"
+  },
+  "54057": {
+    "??PAST": "MOD shall"
+  },
+  "54160": {
+    "??PAST": "MOD shall"
+  },
+  "54249": {
+    "??PAST": "MOD shall"
+  },
+  "54853": {
+    "?MOD shall": "MOD shall"
+  },
+  "54943": {
+    "?PAST": "MOD shall"
+  },
+  "55175": {
+    "?MOD shall": "MOD shall"
+  },
+  "56772": {
+    "?PRES": "IMPV"
+  },
+  "56920": {
+    "?VB": "IMPV"
+  },
+  "57524": {
+    "?IMPV not": "MOD lest"
+  },
+  "58763": {
+    "?MOD shall": "MOD shall"
+  },
+  "59674": {
+    "?MOD shall": "MOD need not"
+  }
+}

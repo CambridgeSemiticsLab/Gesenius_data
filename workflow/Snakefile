@@ -3,7 +3,6 @@
 
 from pathlib import Path
 
-configfile: "../config/config.yaml"
 tf_modules = [
     # order strategically to set priorities for features
     "/Users/cody/github/CambridgeSemiticsLab/time_collocations/data/bhsa/tf", 
@@ -29,10 +28,10 @@ tf_modules = [
 # -- generate samples --
 rule get_samples:
     input:
-        "/Users/cody/github/etcbc/bhsa/tf/c"
+        tf_mod="/Users/cody/github/etcbc/bhsa/tf/c",
+        script="scripts/bhsa/get_samples.py",
     output:
-        directory("../results/samples"),
-        expand("../results/samples/{verb}.json", verb=config["verb_forms"])
+        file="../results/samples/{verb}.json" 
     script:
         "scripts/bhsa/get_samples.py"
 
@@ -113,8 +112,8 @@ rule get_eng_corrections:
         niv=rules.parse_eng_tenses.output.niv,
         sample="../results/samples/{verb}.json",
     params:
-        esv_corr="_private_/GBI_alignment/parsings/corrections/corr_esv_{verb}.json",
-        niv_corr="_private_/GBI_alignment/parsings/corrections/corr_niv_{verb}.json",
+        esv_corr="../results/datasets/yqtl/corr_esv_{verb}.json",
+        niv_corr="../results/datasets/yqtl/corr_niv_{verb}.json",
     output:
         esv_todo="_private_/GBI_alignment/parsings/corrections/esv_{verb}.todo",
         niv_todo="_private_/GBI_alignment/parsings/corrections/niv_{verb}.todo",
@@ -136,8 +135,8 @@ rule apply_eng_corrections:
         esv_todo=rules.get_eng_corrections.output.esv_todo, # changes to to-dos trigger run
         niv_todo=rules.get_eng_corrections.output.niv_todo,
     params:
-        niv_corr="_private_/GBI_alignment/parsings/corrections/corr_niv_{verb}.json",
-        esv_corr="_private_/GBI_alignment/parsings/corrections/corr_esv_{verb}.json",
+        niv_corr="../results/datasets/yqtl/corr_niv_{verb}.json",
+        esv_corr="../results/datasets/yqtl/corr_esv_{verb}.json",
     output:
         run="_private_/GBI_alignment/parsings/corrections/run_{verb}" # blank dummy file to make pipeline run
     script:
@@ -154,8 +153,8 @@ rule bhsa_tables:
         tf_mods=tf_modules,
         scripts=list(bhsa_scripts.glob('*.py'))
     output:
-        bhsa=temp("../results/csv/{verb}/_bhsa_.csv"),
-        bhsa_clrela=temp("../results/csv/{verb}/_bhsa_clrela_.csv"),
+        bhsa=temp("../results/datasets/{verb}/_bhsa_.csv"),
+        bhsa_clrela=temp("../results/datasets/{verb}/_bhsa_clrela_.csv"),
     script:
         main_bhsa
 
@@ -166,13 +165,13 @@ rule eng_tables:
         sample="../results/samples/{verb}.json", 
         esv="_private_/verb_data/bhsa2esv.json",
         niv="_private_/verb_data/bhsa2niv.json",
-        esv_corr="_private_/parsings/corrections/corr_esv_{verb}.json",
-        niv_corr="_private_/parsings/corrections/corr_niv_{verb}.json",
+        niv_corr="../results/datasets/yqtl/corr_niv_{verb}.json",
+        esv_corr="../results/datasets/yqtl/corr_esv_{verb}.json",
         txt="_private_/GBI_alignment/verse2text.json",
         script=eng_script
     output: 
-        eng=temp("../results/csv/{verb}/_eng_.csv"),
-        eng_text=temp("../results/csv/{verb}/_eng_text_.csv") 
+        eng=temp("../results/datasets/{verb}/_eng_.csv"),
+        eng_text=temp("../results/datasets/{verb}/_eng_text_.csv") 
     script:
         eng_script
 
@@ -184,7 +183,7 @@ rule lxx_tables:
         lxx="_private_/verb_data/bhsa2lxx.json",
         script=lxx_script
     output:
-        lxx=temp("../results/csv/{verb}/_lxx_.csv"),
+        lxx=temp("..results/datasets/{verb}/_lxx_.csv"),
     script:
         lxx_script
 
@@ -193,21 +192,21 @@ results_csv = ['bhsa', 'bhsa_clrela', 'eng', 'eng_text', 'lxx']
 rule correct_verb:
     input:
         script="scripts/correct_{verb}.py",
-        files=expand('../results/csv/{{verb}}/_{files}_.csv', files=results_csv),
+        files=expand('..results/datasets/{{verb}}/_{files}_.csv', files=results_csv),
     output:
-        files=expand('../results/csv/{{verb}}/{files}.csv', files=results_csv),
+        files=expand('..results/datasets/{{verb}}/{files}.csv', files=results_csv),
     script:
         "scripts/correct_{wildcards.verb}.py"
 
 # - run correlation analyses for verb - 
 rule analyze_verb:
     input:
-        data_dir="../results/csv/{verb}",
-        data=expand("../results/csv/{{verb}}/{results_csv}.csv", results_csv=results_csv),
+        data_dir="..results/datasets/{verb}",
+        data=expand("..results/datasets/{{verb}}/{results_csv}.csv", results_csv=results_csv),
         analyzers="scripts/analysis/analysis.py",
         script="scripts/analysis/{verb}/{analysis_name}.py"
     output:
-        dir=directory("../results/{verb}/csv/{analysis_name}")
+        dir=directory("../results/analysis/{verb}/csv/{analysis_name}")
     script:
         "scripts/analysis/{wildcards.verb}/{wildcards.analysis_name}.py"
 
@@ -216,20 +215,20 @@ rule table_styles:
     input:
         "html/tables.css"
     output:
-        dir=directory("../results/css"),
-        css="../results/css/tables.css"
+        dir=directory("../results/analysis/css"),
+        css="../results/analysis/css/tables.css"
     shell:
         "cp {input} {output.dir}/."
 
 visual_script = "scripts/analysis/visualize_results.py" 
 rule visualize_verb:
     input:
-        results="../results/{verb}/csv/{analysis_name}",
+        results="../results/analysis/{verb}/csv/{analysis_name}",
         visualizers="scripts/analysis/analysis_vis.py",
         script=visual_script,
         tablestyles=rules.table_styles.output.css
     output:
-        dir=directory("../results/{verb}/html/{analysis_name}")
+        dir=directory("../results/analysis/{verb}/html/{analysis_name}")
     script:
         visual_script
 
@@ -239,8 +238,8 @@ rule html_menu:
     input: 
         analyses=expand("../results/{{verb}}/html/{analyses}", analyses=analyses),
         script="scripts/analysis/build_html_menu.py",
-        results="../results/{verb}/html"
+        results="../results/analysis/{verb}/html"
     output:
-        html="../results/{verb}/html/menu.html"    
+        html="../results/analysis/{verb}/html/menu.html"    
     script:
         "scripts/analysis/build_html_menu.py"
