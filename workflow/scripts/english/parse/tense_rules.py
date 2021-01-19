@@ -99,8 +99,7 @@ rules = [
     (
         'PRES PROG', 
         [
-            {'TAG': {'IN':['VBZ', 'VBP']}, 'LEMMA':'be'},
-            non_verbs,
+            {'TEXT': {'IN': ['are', 'am']}},
             {'TAG':'VBG', 'LEMMA': {'NOT_IN':['go']}},
         ]
     ),
@@ -157,7 +156,7 @@ rules = [
         'PAST did not', 
         [
             {'LOWER': 'did'},
-            {'LOWER': 'not'},
+            {'LEMMA': 'not'},
             non_verbs,
             {'TAG': {'IN': ['VB', 'VBP']}},
         ]
@@ -192,16 +191,14 @@ rules = [
         'PAST PERF PROG',
         [
             {'TAG': {'IN': ['VBD']}, 'LEMMA': 'have'},
-            non_verbs,
-            {'TAG': 'VBN', 'LEMMA': 'be'},
+            {'TEXT': 'been'},
             {'TAG': 'VBG'},
         ]
     ),
     (
         'PAST PROG',
         [
-            {'TAG':'VBD', 'LEMMA': 'be'},
-            non_verbs,
+            {'TEXT': {'IN': ['was', 'were']}},
             {'TAG': 'VBG'},
         ]
     ),
@@ -209,7 +206,6 @@ rules = [
         'PAST PROG keep',
         [
             {'TAG':'VBD', 'LEMMA': 'keep'},
-            non_verbs,
             {'TAG': 'VBG'},
         ]
     ),
@@ -218,10 +214,18 @@ rules = [
     (
         'FUT',
         [
-            {'TEXT': 'will', 'DEP': 'aux', 'IS_SENT_START': False},
+            {'LEMMA': 'will', 'DEP': 'aux', 'IS_TITLE': False, 'IS_SENT_START': False},
             non_verbs,
             {'TAG': 'VB', 'DEP': not_aux},
         ]
+    ),
+    (
+        'FUT PROG',
+        [
+            {'LEMMA': 'will', 'DEP': 'aux'},
+            {'LEMMA': 'be'},
+            {'TAG':'VBG'},
+        ],
     ),
     (
         'FUT question',
@@ -487,6 +491,23 @@ rules = [
             {'TEXT': 'be'},
         ]
     ), 
+    (
+        'MOD is to',
+        [
+            {'TEXT': {'IN': ['is', 'are']}},
+            {'LEMMA': 'not', 'OP': '?'},
+            {'TEXT': 'to'},
+            {'TAG': 'VB'},
+        ],
+    ),
+    (
+        'MOD was to',
+        [
+            {'TEXT': {'IN': ['was', 'were']}},
+            {'TEXT': 'to'},
+            {'TAG': 'VB'},
+        ],
+    ),
 ]
 
 # add a series of modal forms

@@ -5,6 +5,7 @@ Use Spacy Matcher object to match English tense constructions
 import json
 import pickle
 import collections
+import textwrap
 from pathlib import Path
 import spacy
 from spacy.tokens import Doc, Token, Span
@@ -137,7 +138,9 @@ class InspectionDoc:
             path = Path(path)
             for verse, message in self.data[trans].items():
                 doc += '{} {}:{}'.format(*verse) + '\n'
-                doc += str(parsed_verses[trans][verse]) + '\n'
+                verse_text = str(parsed_verses[trans][verse])
+                verse_text = '\n'.join(textwrap.wrap(verse_text, 80)) + '\n'
+                doc += verse_text
                 doc += message
                 doc += '\n'
             path.write_text(doc)
@@ -202,10 +205,10 @@ def link_spans():
                 
             # add strings to inspection file
             if span_match and span_match._.tense_tag:
-                inspect.data[trans][verse_ref] += f'\tMATCH: {para_text}\n'
-                inspect.data[trans][verse_ref] += f'\t\t{span_match} -> {span_match._.tense_tag}\n'
+                inspect.data[trans][verse_ref] += f'\t\tMATCH: {bhsa_node}|{tense_tag}|{span_match}|{para_text}\n'
             else:
-                inspect.data[trans][verse_ref] += f'\tMISS: {para_text}\n'
+                inspect.data[trans][verse_ref] += f'\t\tMISS: {bhsa_node}|''|''|{para_text}\n'
+
                 
     ts.info('done with matches')
     return (bhsa2eng, inspect)

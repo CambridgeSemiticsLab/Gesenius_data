@@ -30,7 +30,7 @@ def export_todo(todos, word_data, versetexts, outfile):
             tense = word_data[case]['tense']
             span = word_data[case]['tense_span']
             gloss = word_data[case]['words']
-            cases_text += f'\t\t{case}\t{tense}\t{span}\t({gloss})\n'
+            cases_text += f'\t\t{case}|{tense}|{span}|({gloss})\n'
             if span not in span_covered:
                 text = re.sub(f'([A-Za-z ]*)(\s{span}\s)([A-Za-z ]*)([.?! ’,]*)', '\n > \g<1> [\g<2>]  \g<3>\g<4>\n', text)
                 span_covered.add(span)
@@ -68,9 +68,13 @@ def build_todos(sample, word_data_f, corr_file, todo_file, versetexts):
 class TodoReader:
     def __init__(self, path):
         doc = Path(path).read_text()
-        header, data = re.split('\n\n', doc, 1)
-        self.header = eval(header)
-        self.data = re.findall('\t\t(\d+)\t(.+)\t(.+)\t(.+)', data)
+        try:
+            header, data = re.split('\n\n', doc, 1)
+            self.header = eval(header)
+            self.data = re.findall('\t\t(\d+)\|(.+)\|(.+)\|(.+)', data)
+        except ValueError:
+            self.header = eval(doc.strip())
+            self.data = []
 
 def apply_corrections(corr_file, todo_file, word_data_f, versetexts, report_f):
     """Read in a corrections record file and to-do and determine how to save changes.""" 

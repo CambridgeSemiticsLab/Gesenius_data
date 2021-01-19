@@ -1,1 +1,1941 @@
-{}
+{
+  "2897": {
+    "?IMPV": "IMPV"
+  },
+  "2912": {
+    "?IMPV": "IMPV"
+  },
+  "5000": {
+    "?MOD let": "MOD let"
+  },
+  "5036": {
+    "?VB": "MOD may"
+  },
+  "5088": {
+    "?MOD let": "MOD let"
+  },
+  "6032": {
+    "?VB": "PRES"
+  },
+  "6038": {
+    "?VB": "FUT"
+  },
+  "6924": {
+    "?VB": "FUT"
+  },
+  "7613": {
+    "?VB": "FUT question"
+  },
+  "7621": {
+    "?VB": "FUT question"
+  },
+  "7877": {
+    "?VB": "MOD can"
+  },
+  "8165": {
+    "?FUT": "FUT"
+  },
+  "8218": {
+    "?FUT question": "FUT question"
+  },
+  "8259": {
+    "?VB": "TO INF"
+  },
+  "9118": {
+    "?TO INF": "TO INF"
+  },
+  "9121": {
+    "??TO INF": "TO INF"
+  },
+  "10341": {
+    "?VB": "PRES"
+  },
+  "10599": {
+    "?FUT": "FUT"
+  },
+  "11283": {
+    "?VB": "IMPV do not"
+  },
+  "11850": {
+    "?VB": "IMPV"
+  },
+  "12235": {
+    "?MOD let": "MOD let"
+  },
+  "14111": {
+    "?PRES": "MOD may"
+  },
+  "14171": {
+    "?IMPV": "IMPV"
+  },
+  "14543": {
+    "?MOD may": "MOD may"
+  },
+  "14545": {
+    "?VB": "MOD may"
+  },
+  "17398": {
+    "?MOD may": "MOD may"
+  },
+  "17761": {
+    "?IMPV": "IMPV"
+  },
+  "18609": {
+    "?IMPV": "IMPV"
+  },
+  "18727": {
+    "?FUT": "FUT"
+  },
+  "19293": {
+    "?PRES": "PRES"
+  },
+  "20368": {
+    "?PRES": "FUT question"
+  },
+  "20525": {
+    "?MOD let": "MOD let"
+  },
+  "21299": {
+    "?IMPV": "IMPV"
+  },
+  "22954": {
+    "?PAST": "MOD let"
+  },
+  "22990": {
+    "?PRES PROG": "IMPV"
+  },
+  "23385": {
+    "?IMPV": "IMPV"
+  },
+  "23466": {
+    "?MOD may": "MOD may"
+  },
+  "24196": {
+    "?FUT": "FUT"
+  },
+  "24286": {
+    "?MOD may": "MOD may"
+  },
+  "24727": {
+    "?VB": "IMPV"
+  },
+  "25540": {
+    "?VB": "IMPV do not"
+  },
+  "25989": {
+    "?FUT": "FUT"
+  },
+  "26485": {
+    "?FUT": "FUT"
+  },
+  "27015": {
+    "?MOD may": "MOD may"
+  },
+  "27871": {
+    "?FUT": "FUT"
+  },
+  "28353": {
+    "?MOD let": "MOD let"
+  },
+  "29112": {
+    "?MOD must": "MOD must"
+  },
+  "29682": {
+    "?FUT": "FUT"
+  },
+  "29874": {
+    "?MOD should": "MOD should"
+  },
+  "30180": {
+    "?PRES do not": "PRES do not"
+  },
+  "30184": {
+    "??PRES do not": "PRES"
+  },
+  "30306": {
+    "?PRES do not": "PRES do not"
+  },
+  "30335": {
+    "?PRES do not": "PRES do not"
+  },
+  "30521": {
+    "?VB": "IMPV"
+  },
+  "30965": {
+    "?VB": "IMPV"
+  },
+  "30980": {
+    "?MOD let": "MOD let"
+  },
+  "30994": {
+    "?PRES": "PRES"
+  },
+  "31134": {
+    "?MOD let": "MOD let"
+  },
+  "31190": {
+    "?MOD may": "MOD may"
+  },
+  "32054": {
+    "?IMPV": "IMPV"
+  },
+  "33687": {
+    "?VB": "PRES do not"
+  },
+  "34079": {
+    "?FUT": "FUT"
+  },
+  "34996": {
+    "?VB": "IMPV"
+  },
+  "35036": {
+    "?VB": "IMPV"
+  },
+  "35041": {
+    "?VB": "IMPV"
+  },
+  "35875": {
+    "?PRES": "IMPV"
+  },
+  "35996": {
+    "?PRES": "PRES"
+  },
+  "36082": {
+    "?PRES": "PRES"
+  },
+  "37083": {
+    "?FUT": "FUT"
+  },
+  "37113": {
+    "?VB": "PRES"
+  },
+  "37123": {
+    "?FUT": "FUT"
+  },
+  "37306": {
+    "?PRES": "PRES"
+  },
+  "38902": {
+    "?VB": "IMPV"
+  },
+  "38942": {
+    "??VB": "IMPV"
+  },
+  "39659": {
+    "?MOD shall": "MOD shall"
+  },
+  "40092": {
+    "?PRES": "PRES do not"
+  },
+  "40916": {
+    "?VB": "IMPV do not"
+  },
+  "41016": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "41042": {
+    "?MOD let": "IMPV"
+  },
+  "41056": {
+    "?VB": "IMPV do not"
+  },
+  "41095": {
+    "?VB": "IMPV do not"
+  },
+  "41132": {
+    "?IMPV": "IMPV"
+  },
+  "41138": {
+    "??IMPV": "IMPV do not"
+  },
+  "41207": {
+    "?PRES": "IMPV"
+  },
+  "41215": {
+    "??PRES": "IMPV do not"
+  },
+  "41259": {
+    "?PRES": "IMPV"
+  },
+  "41433": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "41436": {
+    "??IMPV do not": "IMPV do not"
+  },
+  "41444": {
+    "?MOD must": "MOD must"
+  },
+  "41464": {
+    "?FUT": "FUT"
+  },
+  "42288": {
+    "?PAST": "IMPV"
+  },
+  "42319": {
+    "?FUT": "FUT"
+  },
+  "42686": {
+    "?IMPV": "IMPV"
+  },
+  "42988": {
+    "?VB": "IMPV"
+  },
+  "43057": {
+    "?VB": "IMPV"
+  },
+  "43176": {
+    "?IMPV": "IMPV"
+  },
+  "43303": {
+    "?PAST": "IMPV"
+  },
+  "43812": {
+    "?IMPV": "IMPV"
+  },
+  "44763": {
+    "??IMPV": "IMPV"
+  },
+  "44812": {
+    "?VB": "IMPV"
+  },
+  "45341": {
+    "?PRES": "IMPV"
+  },
+  "45769": {
+    "?IMPV": "PRES"
+  },
+  "46060": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "47206": {
+    "?VB": "IMPV"
+  },
+  "47593": {
+    "?MOD may": "MOD may"
+  },
+  "47825": {
+    "?VB": "TO INF"
+  },
+  "48142": {
+    "?PRES": "IMPV"
+  },
+  "48276": {
+    "?MOD let": "MOD let"
+  },
+  "48647": {
+    "?TO INF": "TO INF",
+    "?MOD is to": "MOD is to"
+  },
+  "53127": {
+    "?IMPV": "IMPV"
+  },
+  "54057": {
+    "??PAST": "MOD shall"
+  },
+  "54160": {
+    "??PAST": "MOD is to"
+  },
+  "54249": {
+    "??PAST": "MOD shall"
+  },
+  "54853": {
+    "?IMPV": "IMPV"
+  },
+  "55175": {
+    "?VB": "IMPV"
+  },
+  "56772": {
+    "?IMPV": "IMPV"
+  },
+  "57974": {
+    "?MOD must": "MOD must"
+  },
+  "58071": {
+    "?MOD is to": "MOD is to"
+  },
+  "58763": {
+    "?MOD must": "MOD must"
+  },
+  "59833": {
+    "?IMPV": "MOD must"
+  },
+  "61185": {
+    "?TO INF": "MOD is to"
+  },
+  "62272": {
+    "?PAST": "MOD is to"
+  },
+  "62892": {
+    "?MOD must": "MOD must"
+  },
+  "63388": {
+    "?PRES do not": "PRES do not"
+  },
+  "63441": {
+    "?MOD must": "MOD must"
+  },
+  "63818": {
+    "?VB": "IMPV"
+  },
+  "63867": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "63946": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "63955": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "64000": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "64016": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "64041": {
+    "?IMPV do not": "IMPV"
+  },
+  "64074": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "64236": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "64252": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "64277": {
+    "?PRES": "IMPV"
+  },
+  "64290": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "64471": {
+    "?PRES": "PRES"
+  },
+  "65039": {
+    "?MOD must": "MOD must"
+  },
+  "65044": {
+    "??MOD must": "MOD must"
+  },
+  "65146": {
+    "?MOD let": "MOD must"
+  },
+  "65166": {
+    "?VB": "MOD must"
+  },
+  "65169": {
+    "??VB": "MOD must"
+  },
+  "65330": {
+    "?MOD must": "MOD must"
+  },
+  "65336": {
+    "??MOD must": "MOD VB"
+  },
+  "65547": {
+    "?MOD may": "MOD may"
+  },
+  "65822": {
+    "?MOD must": "MOD must"
+  },
+  "66050": {
+    "?PRES": "IMPV"
+  },
+  "66069": {
+    "?PRES": "IMPV"
+  },
+  "66221": {
+    "?IMPV": "IMPV"
+  },
+  "66319": {
+    "?PRES": "IMPV"
+  },
+  "66343": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "66390": {
+    "?IMPV": "IMPV"
+  },
+  "66435": {
+    "?IMPV": "IMPV"
+  },
+  "66569": {
+    "?PRES": "IMPV"
+  },
+  "66583": {
+    "?PRES": "IMPV"
+  },
+  "66596": {
+    "?PRES": "IMPV"
+  },
+  "67197": {
+    "?PRES": "IMPV"
+  },
+  "67202": {
+    "?PRES": "IMPV"
+  },
+  "67229": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "67327": {
+    "?PRES": "IMPV"
+  },
+  "67374": {
+    "?VB": "IMPV do not"
+  },
+  "67379": {
+    "?PRES": "IMPV do not"
+  },
+  "67478": {
+    "?IMPV": "IMPV"
+  },
+  "67518": {
+    "?PRES do not": "PRES do not"
+  },
+  "67755": {
+    "?PRES": "PRES"
+  },
+  "67840": {
+    "?MOD must": "MOD must"
+  },
+  "68099": {
+    "?MOD is to": "MOD is to"
+  },
+  "68156": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "68177": {
+    "?PRES": "IMPV"
+  },
+  "68359": {
+    "?FUT": "FUT"
+  },
+  "68375": {
+    "?PRES": "PRES"
+  },
+  "68486": {
+    "?PRES": "FUT"
+  },
+  "68495": {
+    "?PRES": "PRES"
+  },
+  "69142": {
+    "?MOD must": "MOD must"
+  },
+  "69163": {
+    "?PRES": "PRES"
+  },
+  "69583": {
+    "?PRES": "MOD must"
+  },
+  "69593": {
+    "?PRES": "PRES"
+  },
+  "70310": {
+    "?MOD must": "MOD must"
+  },
+  "70351": {
+    "?MOD is to": "MOD is to"
+  },
+  "72164": {
+    "?MOD may": "MOD may"
+  },
+  "73007": {
+    "?MOD must": "MOD must"
+  },
+  "73448": {
+    "?MOD must": "MOD must"
+  },
+  "73861": {
+    "?PRES": "IMPV"
+  },
+  "73867": {
+    "?PRES": "IMPV"
+  },
+  "73873": {
+    "?PRES": "IMPV"
+  },
+  "75777": {
+    "?IMPV": "IMPV"
+  },
+  "75984": {
+    "?MOD must": "MOD must"
+  },
+  "76242": {
+    "?MOD would": "MOD would"
+  },
+  "76279": {
+    "?IMPV": "IMPV"
+  },
+  "76702": {
+    "?VB": "IMPV do not"
+  },
+  "78496": {
+    "?MOD should": "MOD should"
+  },
+  "78576": {
+    "?VB": "IMPV do not"
+  },
+  "78650": {
+    "?FUT": "FUT"
+  },
+  "79413": {
+    "?VB": "IMPV"
+  },
+  "79626": {
+    "?IMPV": "IMPV"
+  },
+  "79639": {
+    "?IMPV": "IMPV"
+  },
+  "80126": {
+    "?VB": "PRES wh-question"
+  },
+  "80304": {
+    "?PRES": "PRES"
+  },
+  "81098": {
+    "?VB": "IMPV"
+  },
+  "81341": {
+    "?TO INF": "TO INF"
+  },
+  "81685": {
+    "?IMPV": "IMPV"
+  },
+  "81811": {
+    "?MOD is to": "MOD is to"
+  },
+  "82891": {
+    "?FUT": "FUT"
+  },
+  "82899": {
+    "?FUT": "FUT"
+  },
+  "82933": {
+    "?PRES": "PRES"
+  },
+  "82945": {
+    "?PRES": "PRES"
+  },
+  "83537": {
+    "?FUT": "FUT"
+  },
+  "83650": {
+    "?PRES": "PRES"
+  },
+  "83941": {
+    "?TO INF": "TO INF"
+  },
+  "84138": {
+    "?FUT": "FUT"
+  },
+  "84224": {
+    "?PRES": "IMPV"
+  },
+  "84568": {
+    "?IMPV": "IMPV"
+  },
+  "84785": {
+    "?IMPV": "IMPV"
+  },
+  "84851": {
+    "?PRES": "PRES do not"
+  },
+  "84976": {
+    "?IMPV": "IMPV"
+  },
+  "85024": {
+    "?PRES question": "PRES question"
+  },
+  "85029": {
+    "?PRES question": "PRES question"
+  },
+  "85112": {
+    "?VB": "IMPV"
+  },
+  "85116": {
+    "??VB": "IMPV"
+  },
+  "85332": {
+    "?PRES": "PRES"
+  },
+  "86986": {
+    "?MOD should": "MOD should"
+  },
+  "87199": {
+    "?TO INF": "TO INF"
+  },
+  "87207": {
+    "?FUT": "FUT"
+  },
+  "87653": {
+    "?PRES": "IMPV"
+  },
+  "87665": {
+    "?PRES": "IMPV"
+  },
+  "87705": {
+    "?VB": "IMPV"
+  },
+  "87741": {
+    "?PRES": "IMPV"
+  },
+  "87774": {
+    "?PRES": "IMPV"
+  },
+  "87796": {
+    "?PRES": "IMPV"
+  },
+  "87880": {
+    "?PRES": "IMPV"
+  },
+  "87886": {
+    "?PRES": "IMPV"
+  },
+  "87984": {
+    "?PRES": "IMPV"
+  },
+  "87993": {
+    "?MOD must": "MOD must"
+  },
+  "88080": {
+    "?PRES": "IMPV"
+  },
+  "88466": {
+    "?PRES": "IMPV"
+  },
+  "88472": {
+    "?PRES": "IMPV"
+  },
+  "88813": {
+    "?MOD may": "MOD may"
+  },
+  "90352": {
+    "?VB": "IMPV"
+  },
+  "90425": {
+    "?IMPV": "PRES"
+  },
+  "91301": {
+    "?IMPV": "IMPV"
+  },
+  "91331": {
+    "?PRES": "IMPV"
+  },
+  "91704": {
+    "?VB": "IMPV"
+  },
+  "91846": {
+    "?VB": "IMPV"
+  },
+  "93039": {
+    "?MOD may": "MOD may"
+  },
+  "93268": {
+    "?TO INF": "TO INF"
+  },
+  "93665": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "93915": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "94091": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "95053": {
+    "?MOD let": "MOD let"
+  },
+  "95200": {
+    "?PRES": "IMPV do not"
+  },
+  "95814": {
+    "?MOD can": "MOD can"
+  },
+  "95817": {
+    "??MOD can": "MOD can"
+  },
+  "95820": {
+    "???MOD can": "MOD can"
+  },
+  "95872": {
+    "?FUT": "FUT"
+  },
+  "95875": {
+    "??FUT": "FUT"
+  },
+  "96466": {
+    "?MOD shall": "MOD shall"
+  },
+  "97200": {
+    "?IMPV": "IMPV"
+  },
+  "97480": {
+    "?IMPV": "IMPV"
+  },
+  "97493": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "97529": {
+    "?IMPV": "IMPV"
+  },
+  "97791": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "97992": {
+    "?IMPV": "IMPV"
+  },
+  "98239": {
+    "?VB": "PRES"
+  },
+  "98359": {
+    "?PRES": "PRES"
+  },
+  "98576": {
+    "?IMPV": "IMPV"
+  },
+  "98755": {
+    "?MOD may": "MOD may"
+  },
+  "99373": {
+    "?MOD may": "MOD may"
+  },
+  "99545": {
+    "?IMPV": "IMPV"
+  },
+  "99552": {
+    "?IMPV": "IMPV"
+  },
+  "99870": {
+    "?PRES": "PRES"
+  },
+  "100051": {
+    "?PRES": "PRES"
+  },
+  "100374": {
+    "?PRES": "IMPV"
+  },
+  "100611": {
+    "?PRES": "IMPV"
+  },
+  "100859": {
+    "?VB": "?FUT"
+  },
+  "100872": {
+    "?VB": "IMPV"
+  },
+  "101011": {
+    "?PRES": "PRES"
+  },
+  "101034": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "101120": {
+    "?PRES": "IMPV"
+  },
+  "101126": {
+    "?IMPV": "IMPV"
+  },
+  "101199": {
+    "?MOD let": "MOD let"
+  },
+  "101235": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "101247": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "101296": {
+    "?FUT": "FUT"
+  },
+  "101341": {
+    "?MOD let": "MOD let"
+  },
+  "101483": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "101620": {
+    "?MOD is to": "MOD is to"
+  },
+  "102059": {
+    "?PRES": "PRES"
+  },
+  "102142": {
+    "?PRES": "IMPV"
+  },
+  "102174": {
+    "?PRES do not": "PRES do not"
+  },
+  "102513": {
+    "?PRES": "IMPV"
+  },
+  "102548": {
+    "?MOD let": "MOD let"
+  },
+  "102553": {
+    "?MOD let": "PRES"
+  },
+  "102631": {
+    "?VB": "IMPV"
+  },
+  "102644": {
+    "??PRES": "IMPV"
+  },
+  "102782": {
+    "?PRES": "IMPV"
+  },
+  "102883": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "102929": {
+    "?VB": "IMPV do not"
+  },
+  "103264": {
+    "?FUT": "FUT"
+  },
+  "103328": {
+    "?MOD must": "MOD must"
+  },
+  "103853": {
+    "?PRES do not": "PRES do not"
+  },
+  "104301": {
+    "?FUT": "FUT"
+  },
+  "104403": {
+    "?VB": "IMPV do not"
+  },
+  "104476": {
+    "?MOD may": "MOD may"
+  },
+  "104500": {
+    "?MOD may": "MOD may"
+  },
+  "105076": {
+    "?MOD must": "MOD must"
+  },
+  "105242": {
+    "?FUT": "FUT"
+  },
+  "105300": {
+    "?IMPV do not": "IMPV"
+  },
+  "105378": {
+    "?MOD must": "MOD must"
+  },
+  "105427": {
+    "?MOD may": "IMPV"
+  },
+  "106460": {
+    "?VB": "MOD must"
+  },
+  "106578": {
+    "?MOD let": "MOD let"
+  },
+  "106685": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "108108": {
+    "?PRES": "PRES"
+  },
+  "108208": {
+    "?PRES": "FUT"
+  },
+  "108578": {
+    "?PRES": "FUT"
+  },
+  "108677": {
+    "?FUT": "FUT"
+  },
+  "108849": {
+    "?FUT": "FUT"
+  },
+  "110269": {
+    "?FUT": "FUT"
+  },
+  "110401": {
+    "?VB": "PRES"
+  },
+  "110446": {
+    "?TO INF": "TO INF"
+  },
+  "110471": {
+    "?TO INF": "TO INF"
+  },
+  "110788": {
+    "?FUT": "FUT"
+  },
+  "110841": {
+    "?FUT": "FUT"
+  },
+  "110939": {
+    "?MOD can": "MOD can"
+  },
+  "111202": {
+    "?PRES": "PRES"
+  },
+  "111381": {
+    "?MOD can": "MOD can"
+  },
+  "111701": {
+    "?PAST": "FUT"
+  },
+  "111753": {
+    "?FUT": "FUT"
+  },
+  "111790": {
+    "?MOD would": "MOD would"
+  },
+  "111824": {
+    "?MOD would": "MOD would"
+  },
+  "111833": {
+    "?PAST": "MOD quest could"
+  },
+  "111904": {
+    "?FUT": "FUT"
+  },
+  "111946": {
+    "?PAST": "PRES"
+  },
+  "111985": {
+    "?FUT": "FUT"
+  },
+  "112304": {
+    "?MOD let": "MOD let"
+  },
+  "112306": {
+    "?MOD let": "MOD let"
+  },
+  "112396": {
+    "?IMPV": "IMPV"
+  },
+  "112516": {
+    "?PRES": "FUT"
+  },
+  "113037": {
+    "?FUT": "FUT"
+  },
+  "113749": {
+    "?IMPV": "IMPV"
+  },
+  "114011": {
+    "?VB": "IMPV"
+  },
+  "114134": {
+    "?IMPV": "IMPV"
+  },
+  "114252": {
+    "?VB": "FUT"
+  },
+  "115484": {
+    "?IMPV": "IMPV"
+  },
+  "116169": {
+    "?IMPV": "IMPV do not"
+  },
+  "118445": {
+    "?VB": "VB"
+  },
+  "119580": {
+    "?PRES PART": "MOD is to"
+  },
+  "124382": {
+    "?VB": "MOD could"
+  },
+  "125855": {
+    "?MOD may": "MOD may"
+  },
+  "125971": {
+    "?PRES": "PRES"
+  },
+  "126366": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "126372": {
+    "?MOD must": "MOD must"
+  },
+  "127242": {
+    "?PRES": "FUT"
+  },
+  "130372": {
+    "?PRES": "PRES"
+  },
+  "130786": {
+    "?VB": "IMPV do not"
+  },
+  "131359": {
+    "?PRES": "MOD let"
+  },
+  "131468": {
+    "?MOD may": "MOD may"
+  },
+  "131612": {
+    "?MOD let": "MOD let"
+  },
+  "133183": {
+    "?MOD let": "MOD let"
+  },
+  "133295": {
+    "?MOD let": "MOD let"
+  },
+  "133314": {
+    "?VB": "MOD let"
+  },
+  "134044": {
+    "?VB": "MOD can"
+  },
+  "135293": {
+    "?VB": "IMPV"
+  },
+  "135311": {
+    "?TO INF": "TO INF"
+  },
+  "135367": {
+    "?VB": "PRES"
+  },
+  "135851": {
+    "?IMPV": "IMPV do not"
+  },
+  "135880": {
+    "?VB": "MOD let"
+  },
+  "136013": {
+    "?PRES": "MOD must"
+  },
+  "136018": {
+    "??PRES": "MOD must"
+  },
+  "136890": {
+    "?VB": "PRES PERF"
+  },
+  "137702": {
+    "?FUT": "FUT"
+  },
+  "137900": {
+    "?MOD let": "MOD let"
+  },
+  "139233": {
+    "??VB": "IMPV"
+  },
+  "139313": {
+    "?IMPV": "IMPV"
+  },
+  "139375": {
+    "?MOD let": "MOD let"
+  },
+  "139593": {
+    "?VB": "IMPV do not"
+  },
+  "140155": {
+    "?MOD may": "MOD may"
+  },
+  "140242": {
+    "?MOD could": "MOD could"
+  },
+  "141412": {
+    "?PRES": "PRES"
+  },
+  "141754": {
+    "??FUT": "FUT"
+  },
+  "142259": {
+    "?FUT": "FUT"
+  },
+  "143358": {
+    "?MOD may": "MOD may"
+  },
+  "144169": {
+    "?PAST": "IMPV"
+  },
+  "144317": {
+    "?PAST": "IMPV"
+  },
+  "145247": {
+    "?VB": "IMPV"
+  },
+  "146774": {
+    "?PRES": "IMPV"
+  },
+  "147172": {
+    "?PRES": "MOD let"
+  },
+  "147532": {
+    "??PRES": "PRES do not"
+  },
+  "147688": {
+    "?VB": "IMPV do not"
+  },
+  "148514": {
+    "?PRES": "FUT"
+  },
+  "149158": {
+    "?MOD let": "MOD let"
+  },
+  "150147": {
+    "?PRES do not": "PRES do not"
+  },
+  "150940": {
+    "?IMPV": "IMPV"
+  },
+  "151149": {
+    "?IMPV": "IMPV"
+  },
+  "153402": {
+    "?PRES": "PRES"
+  },
+  "153614": {
+    "?VB": "PRES wh-question"
+  },
+  "153637": {
+    "?MOD would": "MOD would"
+  },
+  "153741": {
+    "?VB": "IMPV"
+  },
+  "153750": {
+    "?VB": "IMPV"
+  },
+  "154727": {
+    "?VB": "PRES wh-question"
+  },
+  "154907": {
+    "?PRES": "FUT question"
+  },
+  "155541": {
+    "?VB": "FUT question"
+  },
+  "155547": {
+    "?VB": "FUT question"
+  },
+  "155568": {
+    "?VB": "FUT question"
+  },
+  "156336": {
+    "?MOD may": "MOD may"
+  },
+  "156456": {
+    "?FUT": "FUT"
+  },
+  "157101": {
+    "?MOD may": "MOD may"
+  },
+  "158058": {
+    "?VB": "IMPV do not"
+  },
+  "158126": {
+    "?MOD let": "MOD let"
+  },
+  "158173": {
+    "?MOD may": "MOD may"
+  },
+  "158652": {
+    "?MOD may": "MOD may"
+  },
+  "159048": {
+    "?MOD may": "MOD may"
+  },
+  "159620": {
+    "?FUT": "FUT"
+  },
+  "159780": {
+    "?FUT": "FUT"
+  },
+  "159998": {
+    "?MOD may": "MOD may"
+  },
+  "160528": {
+    "?VB": "PRES PERF wh-question"
+  },
+  "161079": {
+    "?MOD may": "MOD may"
+  },
+  "161252": {
+    "??VB": "MOD let"
+  },
+  "161530": {
+    "?MOD must": "MOD quest must"
+  },
+  "162129": {
+    "?MOD let": "MOD let"
+  },
+  "163390": {
+    "?IMPV": "IMPV"
+  },
+  "164169": {
+    "?VB": "MOD can"
+  },
+  "167194": {
+    "?VB": "FUT question"
+  },
+  "167229": {
+    "?TO INF": "TO INF"
+  },
+  "167267": {
+    "?TO INF": "TO INF"
+  },
+  "168459": {
+    "?MOD let": "MOD let"
+  },
+  "169038": {
+    "?MOD let": "MOD let"
+  },
+  "169985": {
+    "?MOD let": "MOD let"
+  },
+  "170138": {
+    "?PRES": "IMPV"
+  },
+  "170141": {
+    "?PRES": "IMPV"
+  },
+  "170336": {
+    "?VB": "MOD would"
+  },
+  "171564": {
+    "?MOD let": "MOD let"
+  },
+  "171661": {
+    "?MOD may": "PRES"
+  },
+  "171906": {
+    "?MOD may": "MOD may"
+  },
+  "172294": {
+    "?VB": "IMPV"
+  },
+  "172709": {
+    "?VB": "PRES wh-question"
+  },
+  "173577": {
+    "?TO INF": "TO INF"
+  },
+  "174338": {
+    "?VB": "PRES"
+  },
+  "174741": {
+    "?PRES": "PRES"
+  },
+  "175975": {
+    "?MOD let": "MOD let"
+  },
+  "176114": {
+    "?TO INF": "TO INF"
+  },
+  "176615": {
+    "?PRES": "IMPV"
+  },
+  "176742": {
+    "?MOD may": "MOD may"
+  },
+  "176823": {
+    "?PRES": "IMPV"
+  },
+  "176950": {
+    "?PRES": "IMPV"
+  },
+  "177443": {
+    "?VB": "IMPV"
+  },
+  "178573": {
+    "?PRES": "PRES do not"
+  },
+  "182876": {
+    "??PRES": "PRES"
+  },
+  "183397": {
+    "?MOD may": "MOD may"
+  },
+  "183410": {
+    "?MOD may": "MOD may"
+  },
+  "183433": {
+    "?MOD may": "MOD may"
+  },
+  "183764": {
+    "??PRES": "IMPV"
+  },
+  "183792": {
+    "?VB": "PRES"
+  },
+  "183800": {
+    "??VB": "PRES do not"
+  },
+  "187005": {
+    "?MOD would": "MOD would"
+  },
+  "187026": {
+    "?MOD must": "MOD must"
+  },
+  "187184": {
+    "?MOD can": "MOD can"
+  },
+  "187203": {
+    "?MOD must": "MOD must"
+  },
+  "187207": {
+    "??MOD must": "MOD must"
+  },
+  "187240": {
+    "?MOD may": "MOD may"
+  },
+  "187320": {
+    "?TO INF": "TO INF"
+  },
+  "190083": {
+    "???VB": "IMPV"
+  },
+  "190811": {
+    "?PAST": "MOD let"
+  },
+  "191787": {
+    "?VB": "IMPV"
+  },
+  "192104": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "193224": {
+    "??VB": "IMPV"
+  },
+  "194246": {
+    "?PRES": "PRES"
+  },
+  "195002": {
+    "?MOD may": "MOD may"
+  },
+  "195060": {
+    "?MOD may": "MOD may"
+  },
+  "195112": {
+    "?VB": "IMPV"
+  },
+  "195142": {
+    "?VB": "IMPV"
+  },
+  "195639": {
+    "?MOD let": "MOD let"
+  },
+  "196159": {
+    "?MOD would": "MOD would"
+  },
+  "196680": {
+    "?PAST": "MOD let"
+  },
+  "196925": {
+    "?MOD can": "MOD can"
+  },
+  "198410": {
+    "?MOD can": "MOD can"
+  },
+  "198626": {
+    "?MOD may": "MOD may"
+  },
+  "198628": {
+    "??MOD may": "MOD may"
+  },
+  "199027": {
+    "?MOD let": "MOD let"
+  },
+  "199201": {
+    "?MOD let": "MOD let"
+  },
+  "199299": {
+    "?FUT": "FUT"
+  },
+  "199862": {
+    "?IMPV": "FUT"
+  },
+  "200648": {
+    "?TO INF": "TO INF"
+  },
+  "202317": {
+    "?PRES": "IMPV"
+  },
+  "202725": {
+    "?IMPV": "IMPV"
+  },
+  "203860": {
+    "?VB": "PRES wh-question"
+  },
+  "206204": {
+    "??PRES": "PRES"
+  },
+  "206392": {
+    "?IMPV do not": "IMPV do not"
+  },
+  "206399": {
+    "?IMPV": "IMPV do not"
+  },
+  "206425": {
+    "?MOD shall": "MOD shall"
+  },
+  "207616": {
+    "?MOD let": "MOD let"
+  },
+  "208071": {
+    "?FUT": "FUT"
+  },
+  "208080": {
+    "?FUT": "FUT"
+  },
+  "208406": {
+    "?VB": "IMPV"
+  },
+  "208627": {
+    "?VB": "FUT question"
+  },
+  "209303": {
+    "?IMPV": "IMPV"
+  },
+  "209332": {
+    "?VB": "IMPV"
+  },
+  "212430": {
+    "?FUT": "FUT"
+  },
+  "212444": {
+    "?FUT": "FUT"
+  },
+  "213303": {
+    "?FUT": "FUT"
+  },
+  "213570": {
+    "?PRES": "PRES"
+  },
+  "213799": {
+    "?PAST": "PRES"
+  },
+  "213944": {
+    "?PRES": "PRES"
+  },
+  "214330": {
+    "?IMPV": "IMPV do not"
+  },
+  "214371": {
+    "?MOD let": "MOD let"
+  },
+  "214374": {
+    "??MOD let": "MOD let"
+  },
+  "215065": {
+    "?VB": "PRES"
+  },
+  "215578": {
+    "?TO INF": "TO INF"
+  },
+  "215776": {
+    "?VB": "PRES"
+  },
+  "215945": {
+    "?PAST": "PRES"
+  },
+  "216132": {
+    "?FUT": "FUT"
+  },
+  "216221": {
+    "?FUT": "FUT"
+  },
+  "216430": {
+    "?FUT": "FUT"
+  },
+  "216617": {
+    "?TO INF": "TO INF"
+  },
+  "216733": {
+    "?PRES": "PRES"
+  },
+  "217052": {
+    "?VB": "PRES"
+  },
+  "217370": {
+    "?PRES": "PRES"
+  },
+  "217388": {
+    "?VB": "PRES"
+  },
+  "217510": {
+    "?MOD let": "MOD let"
+  },
+  "217566": {
+    "?PRES": "PRES"
+  },
+  "217825": {
+    "?FUT": "FUT"
+  },
+  "218155": {
+    "?PRES": "PRES"
+  },
+  "218322": {
+    "?MOD let": "MOD let"
+  },
+  "218814": {
+    "?IMPV": "IMPV"
+  },
+  "219309": {
+    "?FUT": "FUT"
+  },
+  "219312": {
+    "??FUT": "FUT"
+  },
+  "219818": {
+    "?VB": "PRES"
+  },
+  "220033": {
+    "?VB": "FUT"
+  },
+  "220060": {
+    "?FUT": "FUT"
+  },
+  "220230": {
+    "?MOD let": "MOD let"
+  },
+  "220401": {
+    "?PRES": "PRES"
+  },
+  "220411": {
+    "?VB": "MOD let"
+  },
+  "220436": {
+    "?PRES PERF": "PRES"
+  },
+  "220717": {
+    "?PRES": "PRES"
+  },
+  "221258": {
+    "?VB": "PRES question"
+  },
+  "221338": {
+    "?MOD let": "MOD let"
+  },
+  "221651": {
+    "?VB": "MOD shall"
+  },
+  "222212": {
+    "?FUT": "FUT"
+  },
+  "222883": {
+    "?PRES": "FUT"
+  },
+  "223024": {
+    "?PRES": "PRES"
+  },
+  "223148": {
+    "?FUT": "FUT"
+  },
+  "223564": {
+    "?FUT": "FUT"
+  },
+  "224453": {
+    "?MOD let": "MOD let"
+  },
+  "224904": {
+    "?FUT": "FUT"
+  },
+  "224913": {
+    "?FUT": "FUT"
+  },
+  "225362": {
+    "?IMPV": "IMPV"
+  },
+  "225994": {
+    "?PRES wh-question": "PRES wh-question"
+  },
+  "226046": {
+    "?PRES": "PRES"
+  },
+  "226060": {
+    "?FUT": "FUT"
+  },
+  "226064": {
+    "?FUT": "FUT"
+  },
+  "226074": {
+    "?MOD let": "MOD let"
+  },
+  "226132": {
+    "?PRES PERF": "PRES PERF"
+  },
+  "226201": {
+    "?VB": "IMPV do not"
+  },
+  "226285": {
+    "?FUT": "FUT"
+  },
+  "226291": {
+    "??FUT": "FUT"
+  },
+  "226373": {
+    "?MOD may": "MOD may"
+  },
+  "226377": {
+    "?MOD may": "MOD may"
+  },
+  "226413": {
+    "?PRES": "MOD may"
+  },
+  "226547": {
+    "?FUT": "FUT"
+  },
+  "226550": {
+    "??FUT": "FUT"
+  },
+  "226572": {
+    "?VB": "FUT"
+  },
+  "226690": {
+    "?MOD let": "MOD let"
+  },
+  "226697": {
+    "?MOD let": "MOD let"
+  },
+  "226713": {
+    "?MOD let": "MOD let"
+  },
+  "226750": {
+    "??VB": "FUT"
+  },
+  "226759": {
+    "?FUT": "FUT"
+  },
+  "226882": {
+    "?FUT": "FUT wh-question"
+  },
+  "226884": {
+    "?FUT": "FUT wh-question"
+  },
+  "227022": {
+    "?FUT": "FUT"
+  },
+  "227088": {
+    "?MOD may": "MOD may"
+  },
+  "227101": {
+    "?MOD may": "MOD may"
+  },
+  "227104": {
+    "??MOD may": "MOD may"
+  },
+  "227226": {
+    "?VB": "PRES question"
+  },
+  "227449": {
+    "?MOD let": "MOD let"
+  },
+  "227525": {
+    "?MOD let": "MOD let"
+  },
+  "227732": {
+    "?MOD can": "MOD can"
+  },
+  "228020": {
+    "?VB": "PRES question"
+  },
+  "228036": {
+    "?VB": "PRES PERF wh-question"
+  },
+  "228058": {
+    "??VB": "PRES question"
+  },
+  "228087": {
+    "?FUT": "FUT"
+  },
+  "228125": {
+    "?FUT": "FUT"
+  },
+  "228310": {
+    "?VB": "FUT"
+  },
+  "228395": {
+    "?FUT": "FUT wh-question"
+  },
+  "228410": {
+    "?PRES": "PRES"
+  },
+  "228418": {
+    "?PRES": "PRES"
+  },
+  "228422": {
+    "?PRES": "PRES"
+  },
+  "228646": {
+    "?FUT": "FUT"
+  },
+  "228991": {
+    "?PRES": "PRES"
+  },
+  "229222": {
+    "?TO INF": "TO INF"
+  },
+  "229282": {
+    "?FUT": "FUT"
+  },
+  "229354": {
+    "?FUT": "FUT"
+  },
+  "229541": {
+    "?FUT": "FUT"
+  },
+  "229679": {
+    "?VB": "PRES"
+  },
+  "229694": {
+    "?PRES": "PRES"
+  },
+  "229820": {
+    "?IMPV": "IMPV"
+  },
+  "229933": {
+    "?FUT": "FUT"
+  },
+  "229989": {
+    "?VB": "IMPV do not"
+  },
+  "230377": {
+    "?VB": "PRES"
+  },
+  "230489": {
+    "?FUT": "FUT"
+  },
+  "230721": {
+    "?FUT": "FUT"
+  },
+  "230733": {
+    "?FUT": "FUT"
+  },
+  "230823": {
+    "?FUT": "FUT"
+  },
+  "230843": {
+    "?PRES": "FUT"
+  },
+  "230927": {
+    "?VB": "MOD VB"
+  },
+  "230931": {
+    "?VB": "MOD VB"
+  },
+  "230942": {
+    "?VB": "MOD VB"
+  },
+  "231087": {
+    "?PRES": "PRES"
+  },
+  "231211": {
+    "?PRES": "PRES"
+  },
+  "231273": {
+    "?VB": "FUT"
+  },
+  "231369": {
+    "?MOD let": "MOD let"
+  },
+  "231577": {
+    "?PRES": "PRES"
+  },
+  "231599": {
+    "?VB": "PRES wh-question"
+  },
+  "231601": {
+    "??VB": "PRES wh-question"
+  },
+  "231757": {
+    "?MOD let": "MOD let"
+  },
+  "231773": {
+    "?FUT": "FUT"
+  },
+  "231859": {
+    "?FUT": "FUT"
+  },
+  "231949": {
+    "?PRES": "PRES"
+  },
+  "231969": {
+    "?PRES": "PRES"
+  },
+  "232042": {
+    "?PRES": "TO INF"
+  },
+  "232111": {
+    "?PRES": "PRES"
+  },
+  "232146": {
+    "?PRES": "PRES"
+  },
+  "232288": {
+    "?PRES": "PRES"
+  },
+  "232399": {
+    "?PRES": "PRES"
+  },
+  "232885": {
+    "?VB": "FUT"
+  },
+  "232957": {
+    "?PRES": "FUT"
+  },
+  "233096": {
+    "?FUT": "FUT"
+  },
+  "233166": {
+    "?FUT": "FUT"
+  },
+  "233295": {
+    "?FUT": "FUT"
+  },
+  "233352": {
+    "?VB": "IMPV"
+  },
+  "233510": {
+    "?PAST": "PAST"
+  },
+  "233738": {
+    "?VB": "PRES"
+  },
+  "233747": {
+    "?VB": "PRES wh-question"
+  },
+  "233751": {
+    "??VB": "PRES wh-question"
+  },
+  "233802": {
+    "?TO INF": "TO INF"
+  },
+  "233953": {
+    "?FUT question": "FUT question"
+  },
+  "234015": {
+    "?PRES": "PRES"
+  },
+  "234234": {
+    "?VB": "FUT"
+  },
+  "234381": {
+    "?PRES": "FUT"
+  },
+  "234386": {
+    "?PRES": "FUT"
+  },
+  "234406": {
+    "?VB": "FUT"
+  },
+  "234452": {
+    "?FUT": "FUT"
+  },
+  "234626": {
+    "?VB": "MOD can"
+  },
+  "234642": {
+    "?PRES question": "PRES question"
+  },
+  "234702": {
+    "?VB": "FUT"
+  },
+  "234950": {
+    "?PRES": "FUT"
+  }
+}
