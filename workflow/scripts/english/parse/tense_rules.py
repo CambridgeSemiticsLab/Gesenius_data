@@ -59,13 +59,24 @@ rules = [
         ]
     ),
     (
-        'PRES does not',
+        'PRES do not',
         [
-            {'LOWER': 'does'},
-            {'LOWER': 'not'},
+            {'DEP': 'nsubj'},
+            advbs,
+            {'TEXT': 'do', 'IS_SENT_START': False, 'DEP': 'aux'},
+            {'LEMMA': 'not'},
             non_verbs,
             {'TAG': 'VB'},
         ]
+    ),
+    (
+        'PRES do not',
+        [
+            {'TEXT': 'does', 'DEP': 'aux'},
+            {'LEMMA': 'not'}, 
+            non_verbs,
+            {'TAG': 'VB'},
+        ],
     ),
     (
         'PRES question',
@@ -399,23 +410,57 @@ rules = [
             {'LOWER': {'NOT_IN': ['you', 'i', 'not', 'any', 'men', ]}},
         ],
     ),
-
     (
         'IMPV do not',
         [
-            {'LOWER': 'do'},
+            {'TEXT': 'Do'},
             {'LEMMA': 'not'},
             non_verbs,
             {'TAG': 'VB'}
-        ]
+        ],
     ),
-    #(
-    #    'IMPV not',
-    #    [
-    #        {'TAG': 'VB', 'LEMMA': {'NOT_IN': ['do']}}, 
-    #        {'TEXT': 'not'},
-    #    ],
-    #),
+    (
+        'IMPV do not',
+        [
+            {'TEXT': 'do', 'IS_SENT_START': True},
+            {'LEMMA': 'not'},
+            non_verbs,
+            {'TAG': 'VB'}
+        ],
+    ),
+    (
+        'IMPV do not',
+        [
+            {'IS_PUNCT': True},
+            {'TEXT': 'do'},
+            {'LEMMA': 'not'},
+            non_verbs,
+            {'TAG': 'VB'},
+        ],        
+    ),
+    (
+        'IMPV do not',
+        [
+            {'TAG': {'IN': ['CC']}, 'IS_TITLE': True},
+            advbs,
+            {'TEXT': 'do'},
+            {'LEMMA': 'not'},
+            non_verbs,
+            {'TAG': 'VB'}
+        ],
+    ),
+    (
+        'IMPV do not',
+        [
+            {'IS_PUNCT': True},
+            {'TAG': {'IN': ['CC']}},
+            advbs,
+            {'TEXT': 'do'},
+            {'LEMMA': 'not'},
+            non_verbs,
+            {'TAG': 'VB'}
+        ],
+    ),
 
     # -- modals --
      (
