@@ -21,16 +21,23 @@ def export_todo(todos, word_data, versetexts, outfile):
     meta = {'n_cases': len(todos), 'complete': False}
     doc = f'{meta}\n\n'
     for ref, cases in verse2cases.items():
-        text = '\n'.join(textwrap.wrap(versetexts[ref], 80))
+        text = versetexts[ref] 
         ref_str = '{} {}:{}'.format(*eval(ref))
         doc += f'{ref_str}\n'
-        doc += f'{text}\n'
+        cases_text = ''
+        span_covered = set()
         for case in cases:
             tense = word_data[case]['tense']
             span = word_data[case]['tense_span']
             gloss = word_data[case]['words']
-            doc += f'\t\t{case}\t{tense}\t{span}\t({gloss})\n'
-        doc += '\n'
+            cases_text += f'\t\t{case}\t{tense}\t{span}\t({gloss})\n'
+            if span not in span_covered:
+                text = re.sub(f'([A-Za-z ]*)(\s{span}\s)([A-Za-z ]*)([.?! ’,]*)', '\n > \g<1> [\g<2>]  \g<3>\g<4>\n', text)
+                span_covered.add(span)
+        lines = text.splitlines()
+        lines = ['\n'.join(textwrap.wrap(line, 80)) for line in lines]
+        text = '\n'.join(lines).replace('\n\n', '\n')
+        doc += f'{cases_text}{text}'.replace('\n\n', '\n') + '\n\n'
     # export doc
     with open(outfile, 'w') as outfile:
         outfile.write(doc.strip())

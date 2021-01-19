@@ -7,7 +7,7 @@
 # adverbial modifiers:
 advb_pronouns = {'TAG': {'IN':['RB', 'PRP']}, 'OP': '*'}
 advbs = {'TAG': {'IN':['RB']}, 'OP': '*'}
-non_verbs = {'TAG': {'NOT_IN':['VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ']}, 'OP': '*'}
+non_verbs = {'TAG': {'NOT_IN':['MD', 'VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ']}, 'OP': '*'}
 not_aux = {'NOT_IN': ['aux']}
 
 ambiguous_pasts = [
@@ -160,6 +160,16 @@ rules = [
         ]
     ),
     (
+        'PAST wh-question',
+        [
+            {'TAG': 'WRB'},
+            {'TEXT': 'did'},
+            non_verbs,
+            {'TAG': {'IN': ['VB']}},
+        ]
+    ),
+
+    (
         'PAST PERF',
         [
             {'TAG': {'IN': ['VBD']}, 'LEMMA': 'have', 'IS_TITLE': False},
@@ -193,15 +203,42 @@ rules = [
         ]
     ),
 
-
     # -- future --
     (
         'FUT',
         [
-            {'LOWER': 'will', 'DEP': 'aux'},
+            {'TEXT': 'will', 'DEP': 'aux', 'IS_SENT_START': False},
             non_verbs,
             {'TAG': 'VB', 'DEP': not_aux},
         ]
+    ),
+    (
+        'FUT question',
+        [
+            {'TEXT': 'Will'},
+            {'LEMMA': '-PRON-'},
+            non_verbs,
+            {'TAG': 'VB'}
+        ],
+    ),
+    (
+        '?FUT question',
+        [
+            {'TEXT': 'will', 'IS_SENT_START': True},
+            {'LEMMA': '-PRON-'},
+            non_verbs,
+            {'TAG': 'VB'}
+        ],
+    ),
+    (
+        'FUT wh-question',
+        [
+            {'TAG': 'WRB'},
+            {'TEXT': 'will'},
+            {'LEMMA': '-PRON-'},
+            non_verbs,
+            {'TAG': 'VB'}
+        ],
     ),
     (
         'FUT going-to',
@@ -372,15 +409,13 @@ rules = [
             {'TAG': 'VB'}
         ]
     ),
-    (
-        'IMPV not',
-        [
-            {'TAG': 'VB', 'LEMMA': {'NOT_IN': ['do']}}, 
-            {'TEXT': 'not'},
-            non_verbs,
-            {'TAG': 'VB'},
-        ],
-    ),
+    #(
+    #    'IMPV not',
+    #    [
+    #        {'TAG': 'VB', 'LEMMA': {'NOT_IN': ['do']}}, 
+    #        {'TEXT': 'not'},
+    #    ],
+    #),
 
     # -- modals --
      (
@@ -398,7 +433,15 @@ rules = [
             {'TEXT': 'not'},
             {'TAG': 'VB'},
         ],  
-    ),  
+    ),
+    (
+        'MOD that be',
+        [
+            {'TEXT': 'that'},
+            non_verbs,
+            {'TEXT': 'be'},
+        ]
+    ), 
 ]
 
 # add a series of modal forms
