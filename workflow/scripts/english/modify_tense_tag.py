@@ -60,4 +60,4 @@ def process_TAM(full_tam):
         'TAMsimp': tam_simp_map.get(full_tam, full_tam)
     }
 
-
+    return features

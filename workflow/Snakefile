@@ -102,6 +102,9 @@ rule parse_eng_tenses:
 # We do it in a round-about way by keeping some outputs
 # secret from snakemake and by designing dummy outputs.
 
+esv_corr = "../results/datasets/yqtl/corr_esv_{verb}.json"
+niv_corr = "../results/datasets/yqtl/corr_niv_{verb}.json"
+
 # produce initial to-do files
 rule get_eng_corrections:
     input:
@@ -110,10 +113,10 @@ rule get_eng_corrections:
         verse2text=rules.parse_eng_verses.output.verse2text,
         esv=rules.parse_eng_tenses.output.esv,
         niv=rules.parse_eng_tenses.output.niv,
-        sample="../results/samples/{verb}.json",
+        sample=rules.get_samples.output.file, 
     params:
-        esv_corr="../results/datasets/yqtl/corr_esv_{verb}.json",
-        niv_corr="../results/datasets/yqtl/corr_niv_{verb}.json",
+        esv_corr=esv_corr,
+        niv_corr=niv_corr,
     output:
         esv_todo="_private_/GBI_alignment/parsings/corrections/esv_{verb}.todo",
         niv_todo="_private_/GBI_alignment/parsings/corrections/niv_{verb}.todo",
@@ -135,8 +138,8 @@ rule apply_eng_corrections:
         esv_todo=rules.get_eng_corrections.output.esv_todo, # changes to to-dos trigger run
         niv_todo=rules.get_eng_corrections.output.niv_todo,
     params:
-        niv_corr="../results/datasets/yqtl/corr_niv_{verb}.json",
-        esv_corr="../results/datasets/yqtl/corr_esv_{verb}.json",
+        niv_corr=niv_corr,
+        esv_corr=esv_corr,
     output:
         run="_private_/GBI_alignment/parsings/corrections/run_{verb}" # blank dummy file to make pipeline run
     script:
@@ -149,56 +152,57 @@ bhsa_scripts = Path("scripts/bhsa")
 main_bhsa="scripts/bhsa/build_bhsa_tables.py"
 rule bhsa_tables:
     input:
-        sample="../results/samples/{verb}.json",
+        sample=rules.get_samples.output.file, 
         tf_mods=tf_modules,
         scripts=list(bhsa_scripts.glob('*.py'))
     output:
-        bhsa=temp("../results/datasets/{verb}/_bhsa_.csv"),
-        bhsa_clrela=temp("../results/datasets/{verb}/_bhsa_clrela_.csv"),
+        bhsa="../results/datasets/{verb}/bhsa.csv",
+        bhsa_clrela="../results/datasets/{verb}/bhsa_clrela.csv",
     script:
         main_bhsa
 
 # - English -
-eng_script="scripts/english/build_eng_tables.py"
+eng_scripts=Path("scripts/english")
 rule eng_tables:
     input:
-        sample="../results/samples/{verb}.json", 
-        esv="_private_/verb_data/bhsa2esv.json",
-        niv="_private_/verb_data/bhsa2niv.json",
-        niv_corr="../results/datasets/yqtl/corr_niv_{verb}.json",
-        esv_corr="../results/datasets/yqtl/corr_esv_{verb}.json",
-        txt="_private_/GBI_alignment/verse2text.json",
-        script=eng_script
+        sample=rules.get_samples.output.file, 
+        esv=rules.parse_eng_tenses.output.esv,
+        niv=rules.parse_eng_tenses.output.niv,
+        niv_corr=niv_corr,
+        esv_corr=esv_corr,
+        txt=rules.parse_eng_verses.output.verse2text,
+        scripts=list(eng_scripts.glob('*.py')),
     output: 
-        eng=temp("../results/datasets/{verb}/_eng_.csv"),
-        eng_text=temp("../results/datasets/{verb}/_eng_text_.csv") 
+        eng="../results/datasets/{verb}/eng.csv",
+        eng_text="../results/datasets/{verb}/eng_text.csv" 
     script:
-        eng_script
+        "scripts/english/build_eng_tables.py"
 
 # - LXX -
-lxx_script = "scripts/lxx/build_lxx_tables.py"
+lxx_scripts = Path("scripts/lxx")
 rule lxx_tables:
     input:
-        sample="../results/samples/{verb}.json",
+        sample=rules.get_samples.output.file, 
         lxx="_private_/verb_data/bhsa2lxx.json",
-        script=lxx_script
+        scripts=list(lxx_scripts.glob("*.py")),
     output:
-        lxx=temp("..results/datasets/{verb}/_lxx_.csv"),
+        lxx="../results/datasets/{verb}/lxx.csv"
     script:
-        lxx_script
+        "scripts/lxx/build_lxx_tables.py"
 
 # - apply some correction filters to the tables - 
-results_csv = ['bhsa', 'bhsa_clrela', 'eng', 'eng_text', 'lxx']
-rule correct_verb:
-    input:
-        script="scripts/correct_{verb}.py",
-        files=expand('..results/datasets/{{verb}}/_{files}_.csv', files=results_csv),
-    output:
-        files=expand('..results/datasets/{{verb}}/{files}.csv', files=results_csv),
-    script:
-        "scripts/correct_{wildcards.verb}.py"
+# ! DEPRECATED ! as of yiqtol
+#rule correct_verb:
+#    input:
+#        script="scripts/correct_{verb}.py",
+#        files=expand('..results/datasets/{{verb}}/_{files}_.csv', files=results_csv),
+#    output:
+#        files=expand('..results/datasets/{{verb}}/{files}.csv', files=results_csv),
+#    script:
+#        "scripts/correct_{wildcards.verb}.py"
 
 # - run correlation analyses for verb - 
+results_csv = ['bhsa', 'bhsa_clrela', 'eng', 'eng_text', 'lxx']
 rule analyze_verb:
     input:
         data_dir="..results/datasets/{verb}",

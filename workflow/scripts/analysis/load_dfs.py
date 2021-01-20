@@ -17,9 +17,6 @@ class DfLoader:
         load_order = {
             'bhsa': 1, 'bhsa_clrela': 2,
             'eng': 3, 'eng_text': 4, 'lxx': 5,
-            '_bhsa_': 1, '_bhsa_clrela_': 2,
-            '_eng_': 3, '_eng_text_': 4, '_lxx_': 5,
- 
         }
         sort_key = lambda f: load_order.get(f.stem, max(load_order.values())+1)
         # get iterable of table files
@@ -62,8 +59,47 @@ class DfLoader:
         return get_cache
 
     @get_df
-    def df_safe(self):
-        """Gives a dataframe with safe data."""
+    def eng_agree(self):
+        """Get DF where english translations agree."""
+        df = self.df
+        df = df[df.eng_agree == 1]
+        return df
+
+    @get_df
+    def esv(self):
+        df = self.df
+        df = df[df.esv_TAM.str.match('.*', na=False)]
+        return df
+
+    @get_df
+    def niv(self):
+        df = self.df
+        df = df[df.niv_TAM.str.match('.*', na=False)]
+        return df
+
+    @get_df
+    def eng_both(self):
+        df = self.df
+        df = df[
+            (df.esv_TAM.str.match('.*', na=False))
+            & (df.niv_TAM.str.match('.*', na=False))
+        ]
+        return df
+
+    @get_df
+    def eng_disagree(self):
+        df = self.eng_both()
+        df = df[df.eng_agree == 0]
+        return df
+
+    @get_df
+    def df_safe_qtl(self):
+        """Gives a dataframe with safe data for qtl.
+    
+        ! DEPRECATED !
+        This is only kept for qtl data, which uses
+        a different set of configurations.
+        """
                  
         # select with the 'safe' column
         dfs = self.df[self.df.safe]
@@ -77,37 +113,3 @@ class DfLoader:
         ].copy()
 
         return dfs
-
-    @get_df
-    def eng_agree(self):
-        """Get DF where english translations agree."""
-        df = self.df_safe()
-        df = df[df.eng_agree == 1]
-        return df
-
-    @get_df
-    def esv(self):
-        df = self.df_safe()
-        df = df[df.esv_TAM.str.match('.*', na=False)]
-        return df
-
-    @get_df
-    def niv(self):
-        df = self.df_safe()
-        df = df[df.niv_TAM.str.match('.*', na=False)]
-        return df
-
-    @get_df
-    def eng_both(self):
-        df = self.df_safe()
-        df = df[
-            (df.esv_TAM.str.match('.*', na=False))
-            & (df.niv_TAM.str.match('.*', na=False))
-        ]
-        return df
-
-    @get_df
-    def eng_disagree(self):
-        df = self.eng_both()
-        df = df[df.eng_agree == 0]
-        return df
