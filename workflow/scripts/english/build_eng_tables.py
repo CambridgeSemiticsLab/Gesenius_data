@@ -6,6 +6,7 @@ translation data.
 import re
 import sys
 import json
+import pickle
 import itertools
 from pathlib import Path
 from modify_tense_tag import process_TAM
@@ -19,7 +20,10 @@ from build_tables import build_sample_tables
 # load up the translation data
 bhsa2esv = json.loads(Path(snakemake.input.esv).read_text())
 bhsa2niv = json.loads(Path(snakemake.input.niv).read_text())
-trans2text = json.loads(Path(snakemake.input.txt).read_text())
+with open(snakemake.input.parsedverses, 'rb') as infile:
+    trans2parse = pickle.load(infile)
+
+#trans2text = json.loads(Path(snakemake.input.txt).read_text())
 
 # load up corrections data
 TAM_corrections = {
@@ -42,6 +46,7 @@ def compare_transs(tdata):
         'eng_TAM': '',
         'eng_TAMsimp': '',
         'eng_agree': 0,
+        'eng_simp_agree': 0,
     }
 
     # add features based on both translations
@@ -105,8 +110,22 @@ def build_text_row(node):
     for transl, word_data in trans2word_data:
         ref_tuple = tuple(word_data.get('eng_ref', ''))
         row_data[f'{transl}'] = word_data.get('words', '')
-        row_data[f'{transl}_verse'] = trans2text[transl].get(str(ref_tuple), '')
         row_data[f'{transl}_TAMspan'] = word_data.get('tense_span', '')
+
+        # process verse text
+        parsed_verse = trans2parse[transl].get(ref_tuple, '')
+        verse_text = str(parsed_verse)
+        row_data[f'{transl}_verse'] = verse_text
+
+        # process sentence text
+        sent_i = word_data.get('sentence_i', None)
+        if sent_i != None:
+            verse_sentences = list(parsed_verse.sents)
+            sent_parse = verse_sentences[sent_i]
+            sent_text = str(sent_parse)
+        else:
+            sent_text = ''
+        row_data[f'{transl}_sent'] = sent_text
 
     # detect 'is' as a proxy for stative translations
     row_data['esv_is'] = 1 if find_is.search(row_data.get('esv', '')) else 0

@@ -1,0 +1,3 @@
+results/analysis/yqtl/html/clause_genre/2_prec_part/fishers.html filter=lfs diff=lfs merge=lfs -text
+results/analysis/yqtl/html/clause_genre/2_prec_part/odds.html filter=lfs diff=lfs merge=lfs -text
+results/analysis/yqtl/html/clause_genre/2_prec_part/oneN.html filter=lfs diff=lfs merge=lfs -text

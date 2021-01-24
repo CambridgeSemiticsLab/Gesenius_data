@@ -1,3 +1,7 @@
+# files that exceed size limit
+clause_genre
+verb_lex
+
 # non-open source materials
 _private_
 eng_text.csv

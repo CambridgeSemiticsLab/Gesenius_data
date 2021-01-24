@@ -1,0 +1,12 @@
+eng_TAMsimp == "MOD can" and genre == "poetry" and domain2 == "Q"
+10 of 111
+can I curse (ESV, NIV | BHS מָ֣ה אֶקֹּ֔ב , Num. 23:8)
+can do (ESV, NIV | BHS מַה־יַּעֲשֶׂ֖ה בָשָׂ֣ר לִֽי׃ , Psa. 56:5)
+can be allied with (ESV, NIV | BHS הַֽ֭יְחָבְרְךָ כִּסֵּ֣א הַוֹּ֑ות , Psa. 94:20)
+can turn back, can stop (ESV, NIV | BHS מִ֣י יְשִׁיבֶ֑נּוּ , Job 9:12)
+I pass (ESV, NIV | BHS וְלֹ֣א אֶעֱבֹ֑ור , Job 19:8)
+can you bind (ESV, NIV | BHS הַֽ֭תְקַשֵּׁר מַעֲדַנֹּ֣ות כִּימָ֑ה , Job 38:31)
+can you draw out, can you pull in (ESV, NIV | BHS תִּמְשֹׁ֣ךְ לִוְיָתָ֣ן בְּחַכָּ֑ה , Job 40:25)
+compare, can compare (ESV, NIV | BHS וְכָל־חֲ֝פָצִ֗ים לֹ֣א יִֽשְׁווּ־בָֽהּ׃ , Prov. 8:11)
+he find out, they fathom (ESV, NIV | BHS מִבְּלִ֞י אֲשֶׁ֧ר לֹא־יִמְצָ֣א הָאָדָ֗ם אֶת־הַֽמַּעֲשֶׂ֛ה , Eccl. 3:11)
+I escape (ESV, NIV | BHS וְלֹ֥א אֵצֵ֖א , Lam. 3:7)

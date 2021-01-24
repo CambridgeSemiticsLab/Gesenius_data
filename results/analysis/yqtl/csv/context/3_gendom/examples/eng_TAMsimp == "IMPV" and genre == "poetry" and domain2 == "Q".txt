@@ -1,0 +1,12 @@
+eng_TAMsimp == "IMPV" and genre == "poetry" and domain2 == "Q"
+10 of 224
+keep (ESV, NIV | BHS וְיִשְׁמְרֶֽךָ׃ ס , Num. 6:24)
+give up, do turn over (ESV, NIV | BHS אַֽל־תִּ֭תְּנֵנִי בְּנֶ֣פֶשׁ צָרָ֑י , Psa. 27:12)
+vindicate (ESV, NIV | BHS וּבִגְבוּרָתְךָ֥ תְדִינֵֽנִי׃ , Psa. 54:3)
+do forget, do ignore (ESV, NIV | BHS אַל־תִּ֭שְׁכַּח קֹ֣ול צֹרְרֶ֑יךָ , Psa. 74:23)
+do forsake, do abandon (ESV, NIV | BHS מַעֲשֵׂ֖י יָדֶ֣יךָ אַל־תֶּֽרֶף׃ , Psa. 138:8)
+forsake, do forsake (ESV, NIV | BHS וְאַל־תִּ֝טֹּ֗שׁ תֹּורַ֥ת אִמֶּֽךָ׃ , Prov. 1:8)
+do go near (ESV, NIV | BHS וְאַל־תִּ֝קְרַ֗ב אֶל־פֶּ֥תַח בֵּיתָֽהּ׃ , Prov. 5:8)
+be, do join (ESV, NIV | BHS אַל־תְּהִ֥י בְסֹֽבְאֵי־יָ֑יִן , Prov. 23:20)
+give (ESV, NIV | BHS רֵ֣אשׁ וָ֭עֹשֶׁר אַל־תִּֽתֶּן־לִ֑י , Prov. 30:8)
+do harm (ESV, NIV | BHS וּבִנְבִיאַ֖י אַל־תָּרֵֽעוּ׃ פ , I Chr. 16:22)

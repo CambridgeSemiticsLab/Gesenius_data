@@ -1,0 +1,56 @@
+esv_TAM,xYq0,WxY0,xYqX,XYqt,WXYq,ZYq0,WYq0,ZYqX,WxYX,WYqX,CPen
+MOD shall,2.8,5.29,11.6,8.52,7.29,39.26,38.84,57.66,28.6,105.43,inf
+PRES,2.65,9.64,7.52,10.2,14.02,10.07,23.92,31.82,33.15,122.38,198.88
+FUT,3.2,6.51,11.34,9.67,10.57,9.33,11.47,39.31,60.16,89.33,inf
+MOD let,11.51,19.9,16.19,16.47,21.7,4.32,5.4,5.11,50.26,16.19,inf
+MOD may,4.53,10.66,11.11,17.53,34.3,27.21,3.06,18.35,39.45,15.17,inf
+PAST,3.6,6.72,8.42,12.72,13.91,6.1,16.16,26.0,42.71,66.44,598.0
+IMPV,2.2,3.79,42.5,30.36,17.71,23.61,25.0,14.17,212.5,85.0,inf
+IMPV do not,1.57,3.2,49.62,198.5,79.4,198.5,inf,inf,132.33,inf,inf
+MOD can,2.71,5.51,7.77,7.39,10.45,37.88,101.0,inf,20.2,303.0,inf
+PRES do not,2.77,2.6,10.95,17.33,18.91,104.0,inf,inf,23.11,inf,inf
+MOD would,2.74,9.09,22.22,7.14,20.0,7.69,9.52,66.67,40.0,66.67,inf
+MOD should,1.92,9.28,6.19,27.83,33.4,55.67,13.92,83.5,23.86,inf,inf
+MOD lest,2.12,5.38,4.52,140.0,23.33,inf,70.0,inf,17.5,inf,inf
+TO INF,3.14,6.14,67.5,67.5,67.5,7.94,3.0,inf,135.0,135.0,inf
+PRES PERF,2.59,7.44,5.67,14.88,39.67,7.93,23.8,119.0,39.67,inf,119.0
+PRES PART,2.24,4.58,36.67,13.75,22.0,7.86,22.0,110.0,110.0,inf,inf
+FUT question,1.49,17.6,8.8,29.33,inf,9.78,88.0,88.0,inf,inf,inf
+PRES wh-question,1.64,8.22,12.33,74.0,37.0,10.57,24.67,inf,74.0,inf,inf
+MOD must,1.84,7.56,34.0,11.33,13.6,11.33,34.0,68.0,inf,inf,inf
+PRES question,1.81,9.29,6.5,13.0,32.5,21.67,32.5,inf,inf,inf,inf
+MOD quest shall,1.83,27.5,6.11,6.88,55.0,18.33,27.5,inf,inf,inf,inf
+MOD quest can,2.26,13.0,3.25,17.33,17.33,17.33,inf,inf,inf,inf,inf
+MOD could,1.96,5.1,10.2,25.5,51.0,25.5,17.0,inf,25.5,inf,inf
+MOD might,3.46,9.0,11.25,11.25,22.5,15.0,3.75,45.0,45.0,inf,inf
+PAST did not,4.0,1.65,14.0,inf,28.0,inf,inf,inf,28.0,inf,inf
+MOD is to,1.85,inf,8.0,4.8,24.0,12.0,inf,inf,inf,inf,inf
+MOD quest should,4.75,9.5,3.17,3.8,inf,inf,19.0,19.0,inf,inf,inf
+FUT wh-question,2.11,2.71,19.0,inf,19.0,19.0,inf,inf,inf,inf,inf
+HAB used to,2.83,8.5,3.4,inf,8.5,17.0,inf,inf,17.0,inf,inf
+PAST PERF,4.33,inf,4.33,13.0,4.33,13.0,inf,inf,6.5,inf,inf
+MOD was to,2.0,12.0,12.0,12.0,6.0,inf,12.0,inf,inf,inf,inf
+PRES do-support,2.25,4.5,inf,inf,9.0,9.0,inf,inf,9.0,inf,inf
+MOD that be,8.0,8.0,4.0,inf,8.0,inf,8.0,inf,4.0,inf,inf
+MOD VB,2.67,8.0,4.0,inf,8.0,inf,inf,8.0,inf,inf,inf
+PRES PROG,2.67,inf,8.0,8.0,8.0,inf,8.0,8.0,inf,inf,inf
+PAST PROG,6.0,inf,6.0,inf,1.5,inf,inf,inf,inf,inf,inf
+MOD quest would,1.67,inf,5.0,5.0,inf,inf,inf,inf,inf,inf,inf
+?VB,2.0,2.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD,4.0,inf,inf,4.0,inf,inf,2.0,inf,inf,inf,inf
+PRES PERF question,1.5,inf,3.0,inf,inf,inf,inf,inf,inf,inf,inf
+PRES shall,3.0,1.5,inf,inf,inf,inf,inf,inf,inf,inf,inf
+FUT PROG,inf,inf,inf,3.0,1.5,inf,inf,inf,inf,inf,inf
+PAST question,1.5,3.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+PRES PERF wh-question,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+FUT PERF,inf,2.0,2.0,inf,inf,inf,inf,inf,inf,inf,inf
+PRES do,inf,2.0,inf,inf,2.0,inf,inf,inf,inf,inf,inf
+MOD need not,2.0,inf,2.0,inf,inf,inf,inf,inf,inf,inf,inf
+MOD quest could,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+PAST wh-question,inf,inf,2.0,inf,inf,inf,2.0,inf,inf,inf,inf
+IMPV not,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf
+PRES can,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf
+JJ,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf
+PAST PROG keep,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD that,inf,inf,inf,inf,inf,inf,1.0,inf,inf,inf,inf
+MOD quest must,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf

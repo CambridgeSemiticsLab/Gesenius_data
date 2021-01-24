@@ -176,12 +176,15 @@ def link_spans():
             aligner = lambda i: a2b_multi.get(i, a2b[i]) # returns 1-to-1 or many-to-1 aligned index
             
             # try to retrieve span links with advanced tense tags
+            verse_sents = list(verse_parsing.sents)
             spans = verse2spans[trans].get(verse_ref, [])
             span_match = trans_to_span(para_words, spans, verse_words, aligner) or '' # search for overlapping GBI id sets
             if span_match:
                 tense_tag = span_match._.tense_tag
+                sentence_i = verse_sents.index(span_match[-1].sent) 
             else:
                 tense_tag = ''
+                sentence_i = None
             
             # retrieve basic parsings
             raw_tokens = []
@@ -190,6 +193,8 @@ def link_spans():
                     raw_tokens.append(token)
                     
             vb_tokens = [t for t in raw_tokens if t.tag_.startswith('VB')]
+
+           
                 
             # save the data
             data = {
@@ -199,6 +204,7 @@ def link_spans():
                 'vb_tags': '|'.join(t.tag_ for t in vb_tokens),
                 'tense': tense_tag,
                 'tense_span': f'{span_match}',
+                'sentence_i': sentence_i,
             }
             
             bhsa2eng[trans][bhsa_node] = data

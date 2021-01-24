@@ -1,0 +1,56 @@
+esv_TAM,Main,SubAdv,SubMod,SubArg
+MOD shall,3333,230,95,32
+PRES,1789,911,405,77
+FUT,2449,368,78,53
+MOD let,942,12,0,1
+MOD may,613,149,23,4
+PAST,466,80,42,10
+IMPV,414,11,0,0
+IMPV do not,394,2,0,1
+MOD can,207,55,33,8
+PRES do not,136,50,16,6
+MOD would,152,26,6,16
+MOD should,81,54,18,14
+MOD lest,42,98,0,0
+TO INF,92,13,15,15
+PRES PERF,60,45,13,1
+PRES PART,88,11,10,1
+FUT question,81,6,1,0
+PRES wh-question,74,0,0,0
+MOD must,53,8,6,1
+PRES question,59,6,0,0
+MOD quest shall,52,3,0,0
+MOD quest can,42,10,0,0
+MOD could,29,7,12,3
+MOD might,24,16,2,3
+PAST did not,24,2,2,0
+MOD is to,11,1,6,6
+MOD quest should,17,2,0,0
+FUT wh-question,19,0,0,0
+HAB used to,11,1,4,1
+PAST PERF,7,2,2,2
+MOD was to,8,0,4,0
+PRES do-support,3,6,0,0
+MOD that be,6,2,0,0
+MOD VB,3,4,0,1
+PRES PROG,5,2,1,0
+PAST PROG,3,0,2,1
+MOD quest would,5,0,0,0
+?VB,4,0,0,0
+MOD,4,0,0,0
+PRES PERF question,3,0,0,0
+PRES shall,2,0,1,0
+FUT PROG,3,0,0,0
+PAST question,3,0,0,0
+PRES PERF wh-question,3,0,0,0
+FUT PERF,1,1,0,0
+PRES do,1,1,0,0
+MOD need not,2,0,0,0
+MOD quest could,2,0,0,0
+PAST wh-question,2,0,0,0
+IMPV not,1,0,0,0
+PRES can,0,1,0,0
+JJ,1,0,0,0
+PAST PROG keep,1,0,0,0
+MOD that,1,0,0,0
+MOD quest must,1,0,0,0

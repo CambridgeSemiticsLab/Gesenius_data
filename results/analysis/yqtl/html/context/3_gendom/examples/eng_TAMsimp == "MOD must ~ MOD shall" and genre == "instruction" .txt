@@ -1,0 +1,12 @@
+eng_TAMsimp == "MOD must ~ MOD shall" and genre == "instruction" 
+10 of 255
+he shall deal, he must grant (ESV, NIV | BHS כְּמִשְׁפַּ֥ט הַבָּנֹ֖ות יַעֲשֶׂה־לָּֽהּ׃ , Exod. 21:9)
+shall be devoted to destruction, must be destroyed (ESV, NIV | BHS יָֽחֳרָ֑ם , Exod. 22:19)
+shall be eaten, must be eaten (ESV, NIV | BHS וּבְשַׂ֗ר זֶ֚בַח תֹּודַ֣ת שְׁלָמָ֔יו בְּיֹ֥ום קָרְבָּנֹ֖ו יֵאָכֵ֑ל , Lev. 7:15)
+he shall shave off, he must shave off (ESV, NIV | BHS יְגַלַּ֣ח אֶת־כָּל־שְׂעָרֹ֗ו אֶת־רֹאשֹׁ֤ו וְאֶת־זְקָנֹו֙ וְאֵת֙ גַּבֹּ֣ת עֵינָ֔יו , Lev. 14:9)
+you shall keep, you must observe (ESV, NIV | BHS וְאֶת־שַׁבְּתֹתַ֖י תִּשְׁמֹ֑רוּ , Lev. 19:3)
+he shall go, he must go (ESV, NIV | BHS אַ֣ךְ אֶל־הַפָּרֹ֜כֶת לֹ֣א יָבֹ֗א , Lev. 21:23)
+make a substitute, substitute (ESV, NIV | BHS וְלֹֽא־יָמִ֥יר אֹתֹ֛ו , Lev. 27:10)
+shall come near, they must go near (ESV, NIV | BHS אַךְ֩ אֶל־כְּלֵ֨י הַקֹּ֤דֶשׁ וְאֶל־הַמִּזְבֵּ֨חַ֙ לֹ֣א יִקְרָ֔בוּ , Num. 18:3)
+you shall surely put to the sword, you must certainly put to the sword (ESV, NIV | BHS הַכֵּ֣ה תַכֶּ֗ה אֶת־יֹֽשְׁבֵ֛י הָעִ֥יר הַהִ֖יא לְפִי־חָ֑רֶב , Deut. 13:16)
+they shall alienate, must pass (ESV, NIV | BHS וְלֹ֥א יַעֲבִ֖יר רֵאשִׁ֣ית הָאָ֑רֶץ , Ezek. 48:14)

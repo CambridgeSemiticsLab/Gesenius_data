@@ -66,6 +66,13 @@ class DfLoader:
         return df
 
     @get_df
+    def eng_simp_agree(self):
+        """Get DF where english translations agree."""
+        df = self.df
+        df = df[df.eng_simp_agree == 1]
+        return df
+
+    @get_df
     def esv(self):
         df = self.df
         df = df[df.esv_TAM.str.match('.*', na=False)]
@@ -90,6 +97,12 @@ class DfLoader:
     def eng_disagree(self):
         df = self.eng_both()
         df = df[df.eng_agree == 0]
+        return df
+
+    @get_df
+    def eng_simp_disagree(self):
+        df = self.eng_both()
+        df = df[df.eng_simp_agree == 0]
         return df
 
     @get_df

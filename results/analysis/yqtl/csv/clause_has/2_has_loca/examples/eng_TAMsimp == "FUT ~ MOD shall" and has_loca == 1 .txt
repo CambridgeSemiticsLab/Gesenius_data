@@ -1,0 +1,12 @@
+eng_TAMsimp == "FUT ~ MOD shall" and has_loca == 1 
+10 of 81
+it shall be provided, it will be provided (ESV, NIV | BHS בְּהַ֥ר יְהוָ֖ה יֵרָאֶֽה׃ , Gen. 22:14)
+shall be, will be (ESV, NIV | BHS וּ֠בְנֵיכֶם יִהְי֨וּ רֹעִ֤ים בַּמִּדְבָּר֙ אַרְבָּעִ֣ים שָׁנָ֔ה , Num. 14:33)
+you shall live long, you will live long (ESV, NIV | BHS לֹא־תַאֲרִיכֻ֤ן יָמִים֙ עַל־הָ֣אֲדָמָ֔ה , Deut. 30:18)
+shoot (ESV, NIV | BHS וְלֹֽא־יֹורֶ֥ה שָׁ֖ם חֵ֑ץ , II Kgs. 19:32)
+shall drink, will drink (ESV, NIV | BHS יִשְׁתֻּ֖הוּ בְּחַצְרֹ֥ות קָדְשִֽׁי׃ ס , Isa. 62:9)
+shall he die, he will die (ESV, NIV | BHS שָׁ֣ם יָמ֑וּת , Jer. 22:12)
+shall overtake, will overtake (ESV, NIV | BHS שָׁ֛ם תַּשִּׂ֥יג אֶתְכֶ֖ם בְּאֶ֣רֶץ מִצְרָ֑יִם , Jer. 42:16)
+shall serve, will serve (ESV, NIV | BHS שָׁ֣ם יַעַבְדֻ֜נִי כָּל־בֵּ֧ית יִשְׂרָאֵ֛ל כֻּלֹּ֖ה בָּאָ֑רֶץ , Ezek. 20:40)
+they shall eat, eat (ESV, NIV | BHS וּבְאַשּׁ֖וּר טָמֵ֥א יֹאכֵֽלוּ׃ , Hos. 9:3)
+he shall pitch, he will pitch (ESV, NIV | BHS וְיִטַּע֙ אָהֳלֶ֣י אַפַּדְנֹ֔ו בֵּ֥ין יַמִּ֖ים לְהַר־צְבִי־קֹ֑דֶשׁ , Dan. 11:45)

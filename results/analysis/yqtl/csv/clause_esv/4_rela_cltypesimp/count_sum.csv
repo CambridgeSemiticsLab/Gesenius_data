@@ -1,0 +1,14 @@
+clause_rela,cltype_simp,sum
+Main,x,5122
+Main,Wx,3283
+Main,Ø,2127
+SubAdv,x,1704
+Main,W,1297
+SubMod,x,711
+SubAdv,Wx,380
+SubArg,x,239
+SubAdv,Ø,85
+SubMod,Ø,83
+SubAdv,W,27
+SubArg,Ø,18
+SubMod,Wx,3

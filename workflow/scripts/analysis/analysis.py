@@ -50,16 +50,18 @@ class Analyze:
             # sort the ct based on biggest sums
             sort_sums = self.count.sum().sort_values(ascending=False).index
             self.count = self.count.loc[:,sort_sums]
-
-            # sums
-            self.count_sum = pd.DataFrame(self.count.sum())
-            self.count_sum1 = pd.DataFrame(self.count.sum(1))
-            self.count_sum.columns = self.count_sum1.columns = ['sum']
-            self.count_sum = self.count_sum.sort_values(by='sum', ascending=False)
-            self.count_sum1 = self.count_sum1.sort_values(by='sum', ascending=False)
-
             sort_sums2 = self.count.sum(1).sort_values(ascending=False).index
             self.count = self.count.loc[sort_sums2]
+
+            # add counts with total column
+            total = self.count.sum(1)
+            total.name = 'TOTAL'
+            self.count_total = pd.concat([total, self.count], 1)
+
+            # add counts with total column
+            total2 = self.count.T.sum(1)
+            total2.name = 'TOTAL'
+            self.count_total2 = pd.concat([total2, self.count.T], 1)
 
             # calculate prop table with props across rows
             self.prop = prop_table(self.count)
@@ -128,9 +130,9 @@ def make_text_examples(df, ex_params):
         bhs = bhs_text[node]
             
         if niv == esv:
-            ex = f'{esv} (ESV, NIV | BHS {bhs} {ref})'
+            ex = f'{esv} (ESV, NIV | BHS {bhs}, {ref})'
         else:
-            ex = f'{esv}, {niv} (ESV, NIV | BHS {bhs} {ref})'
+            ex = f'{esv}, {niv} (ESV, NIV | BHS {bhs}, {ref})'
         
         exs.append(ex)
         
@@ -197,7 +199,12 @@ def run_analyses(analysis_params, out_dir):
     out_dir = Path(out_dir)
 
     # run all of the analyses in a loop
-    for analysis in analysis_params:
+    for i, analysis in enumerate(analysis_params):
+
+        # number the analyses
+        i += 1
+        name = analysis['name']
+        analysis['name'] = f'{i}_{name}'
 
         # track parameters for the tables
         tableheaders = {}  

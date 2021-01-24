@@ -170,7 +170,8 @@ rule eng_tables:
         niv=rules.parse_eng_tenses.output.niv,
         niv_corr=niv_corr,
         esv_corr=esv_corr,
-        txt=rules.parse_eng_verses.output.verse2text,
+        #txt=rules.parse_eng_verses.output.verse2text,
+        parsedverses=rules.parse_eng_verses.output.parsedverses,
         scripts=list(eng_scripts.glob('*.py')),
     output: 
         eng="../results/datasets/{verb}/eng.csv",
@@ -205,8 +206,8 @@ rule lxx_tables:
 results_csv = ['bhsa', 'bhsa_clrela', 'eng', 'eng_text', 'lxx']
 rule analyze_verb:
     input:
-        data_dir="..results/datasets/{verb}",
-        data=expand("..results/datasets/{{verb}}/{results_csv}.csv", results_csv=results_csv),
+        data_dir="../results/datasets/{verb}",
+        data=expand("../results/datasets/{{verb}}/{results_csv}.csv", results_csv=results_csv),
         analyzers="scripts/analysis/analysis.py",
         script="scripts/analysis/{verb}/{analysis_name}.py"
     output:
@@ -237,10 +238,11 @@ rule visualize_verb:
         visual_script
 
 # construct a menu of html links to all of the respective analyses
-analyses = ['context', 'clause', 'verb_sem', 'translations', 'verb_lex']
+verb = 'yqtl' # temporary work-around till I figure out a better way
+analyses=[p.stem for p in Path(f'scripts/analysis/{verb}/').glob('*.py')]
 rule html_menu:
     input: 
-        analyses=expand("../results/{{verb}}/html/{analyses}", analyses=analyses),
+        analyses=expand('../results/analysis/{{verb}}/html/{analysis_name}', analysis_name=analyses),
         script="scripts/analysis/build_html_menu.py",
         results="../results/analysis/{verb}/html"
     output:

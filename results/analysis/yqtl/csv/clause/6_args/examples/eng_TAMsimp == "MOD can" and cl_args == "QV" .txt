@@ -1,0 +1,17 @@
+eng_TAMsimp == "MOD can" and cl_args == "QV" 
+15 of 62
+can I do (ESV, NIV | BHS מָ֥ה אֶֽעֱשֶׂ֖ה , Gen. 27:37)
+can I, can we (ESV, NIV | BHS אֵיכָ֥ה אוּכַ֖ל , Deut. 7:17)
+can save (ESV, NIV | BHS מַה־יֹּשִׁעֵ֨נוּ֙ זֶ֔ה , I Sam. 10:27)
+can you say (ESV, NIV | BHS אֵ֚יךְ תֹּאמְר֣וּ אֶל־פַּרְעֹ֔ה , Isa. 19:11)
+can be taken (ESV, NIV | BHS הֲיֻקַּ֥ח מִגִּבֹּ֖ור מַלְקֹ֑וחַ , Isa. 49:24)
+can change (ESV, NIV | BHS הֲיַהֲפֹ֤ךְ כּוּשִׁי֙ עֹורֹ֔ו , Jer. 13:23)
+can I make, can I treat (ESV, NIV | BHS אֵ֚יךְ אֶתֶּנְךָ֣ כְאַדְמָ֔ה , Hos. 11:8)
+can stand, can withstand (ESV, NIV | BHS מִ֣י יַֽעֲמֹ֔וד , Nah. 1:6)
+can (ESV, NIV | BHS הֲי֣וּכַל אֵ֑ל , Psa. 78:19)
+can grow, can grow tall (ESV, NIV | BHS הֲיִֽגְאֶה־גֹּ֭מֶא בְּלֹ֣א בִצָּ֑ה , Job 8:11)
+can bring (ESV, NIV | BHS מִֽי־יִתֵּ֣ן טָ֭הֹור מִטָּמֵ֗א , Job 14:4)
+can you bind, can you hold (ESV, NIV | BHS הֲֽתִקְשָׁר־רֵ֭ים בְּתֶ֣לֶם עֲבֹתֹ֑ו , Job 39:10)
+can understand (ESV, NIV | BHS מַה־יָּבִ֥ין דַּרְכֹּֽו׃ , Prov. 20:24)
+can tell (ESV, NIV | BHS מִ֖י יַגִּ֥יד לֹֽו׃ , Eccl. 10:14)
+can I bring, can I ever bring (ESV, NIV | BHS הֵ֚יךְ אָבִ֣יא אֵלַ֔י אֵ֖ת אֲרֹ֥ון הָאֱלֹהִֽים׃ , I Chr. 13:12)

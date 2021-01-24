@@ -1,0 +1,5 @@
+genre,prose,poetry,prophetic,instruction,list,prose,prophetic,list,instruction
+domain2,Q,Q,Q,Q,Q,N,N,N,N
+eng_simp_agree,,,,,,,,,
+1,-0.02,0.15,-0.01,-0.12,-0.0,0.0,-0.0,-0.0,0.0
+0,0.02,-0.15,0.01,0.12,0.0,-0.0,0.0,0.0,-0.0

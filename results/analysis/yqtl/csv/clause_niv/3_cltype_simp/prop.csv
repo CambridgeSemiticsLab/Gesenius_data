@@ -1,0 +1,51 @@
+niv_TAM,x,Wx,Ø,W
+FUT,0.48,0.29,0.15,0.09
+PRES,0.6,0.2,0.16,0.05
+IMPV do not,0.67,0.32,0.01,0.0
+MOD may,0.36,0.14,0.22,0.27
+IMPV,0.47,0.3,0.16,0.07
+MOD let,0.16,0.09,0.46,0.29
+PAST,0.43,0.23,0.27,0.07
+MOD can,0.6,0.28,0.03,0.09
+MOD must,0.56,0.28,0.14,0.02
+MOD is to,0.62,0.26,0.1,0.01
+TO INF,0.38,0.2,0.1,0.32
+PRES PART,0.5,0.27,0.16,0.08
+MOD would,0.51,0.19,0.17,0.12
+PRES do not,0.53,0.47,0.0,0.0
+MOD shall,0.65,0.22,0.12,0.01
+PRES PERF,0.62,0.13,0.17,0.07
+MOD should,0.7,0.2,0.04,0.06
+FUT question,0.73,0.1,0.14,0.03
+PRES wh-question,0.64,0.21,0.08,0.07
+PRES question,0.64,0.23,0.11,0.03
+MOD could,0.62,0.28,0.03,0.07
+MOD quest can,0.81,0.06,0.08,0.04
+MOD might,0.67,0.1,0.13,0.1
+MOD quest should,0.87,0.07,0.07,0.0
+PAST did not,0.27,0.73,0.0,0.0
+MOD quest shall,0.85,0.04,0.12,0.0
+PRES PROG,0.65,0.2,0.1,0.05
+FUT wh-question,0.47,0.37,0.05,0.11
+MOD was to,0.72,0.17,0.06,0.06
+MOD quest would,0.76,0.06,0.12,0.06
+PAST PERF,0.35,0.35,0.24,0.06
+FUT going-to,0.81,0.0,0.0,0.19
+MOD lest,0.82,0.0,0.0,0.18
+PAST PROG,0.44,0.56,0.0,0.0
+HAB used to,0.67,0.33,0.0,0.0
+MOD VB,0.5,0.5,0.0,0.0
+PRES do-support,0.33,0.5,0.17,0.0
+PRES PERF wh-question,1.0,0.0,0.0,0.0
+PAST wh-question,0.33,0.5,0.0,0.17
+PRES PERF question,0.4,0.4,0.2,0.0
+MOD need not,0.4,0.4,0.2,0.0
+MOD quest must,0.25,0.5,0.25,0.0
+MOD that be,0.0,0.67,0.0,0.33
+PAST question,0.67,0.33,0.0,0.0
+MOD quest could,0.33,0.33,0.33,0.0
+FUT PROG,0.67,0.0,0.33,0.0
+FUT PERF,0.0,0.5,0.5,0.0
+JJ,0.0,0.0,0.0,1.0
+PAST do-support,0.0,1.0,0.0,0.0
+VB,0.0,0.0,0.0,1.0
