@@ -102,8 +102,8 @@ rule parse_eng_tenses:
 # We do it in a round-about way by keeping some outputs
 # secret from snakemake and by designing dummy outputs.
 
-esv_corr = "../results/datasets/yqtl/corr_esv_{verb}.json"
-niv_corr = "../results/datasets/yqtl/corr_niv_{verb}.json"
+esv_corr = "../results/datasets/{verb}/corr_esv_{verb}.json"
+niv_corr = "../results/datasets/{verb}/corr_niv_{verb}.json"
 
 # produce initial to-do files
 rule get_eng_corrections:
@@ -238,7 +238,7 @@ rule visualize_verb:
         visual_script
 
 # construct a menu of html links to all of the respective analyses
-verb = 'yqtl' # temporary work-around till I figure out a better way
+verb = 'wqtl' # temporary work-around till I figure out a better way
 analyses=[p.stem for p in Path(f'scripts/analysis/{verb}/').glob('*.py')]
 rule html_menu:
     input: 
