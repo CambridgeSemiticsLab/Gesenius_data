@@ -1,0 +1,137 @@
+clause_rela,Main,SubAdv,SubMod
+cltype_simp,W,W,W
+eng_TAMsimp,,,
+FUT,1.01,102.31,inf
+FUT ~ MOD shall,1.02,66.38,inf
+PRES,1.18,6.65,inf
+IMPV ~ MOD shall,1.0,inf,inf
+IMPV,1.0,inf,inf
+MOD is to ~ MOD shall,1.0,308.0,inf
+PAST,1.11,12.12,68.67
+MOD shall,1.0,205.0,inf
+MOD must ~ MOD shall,1.02,51.0,inf
+FUT ~ PRES,1.05,22.0,inf
+MOD may,1.02,66.0,inf
+PAST ~ PRES,1.02,64.0,inf
+MOD shall ~ PRES,1.04,28.0,inf
+FUT ~ MOD may,1.0,inf,inf
+PRES PERF,1.13,8.75,inf
+MOD shall ~ TO INF,1.0,inf,inf
+PRES ~ PRES PART,1.5,3.0,inf
+PRES ~ PRES PERF,1.24,5.2,inf
+MOD would,1.04,25.0,inf
+TO INF,1.09,12.5,inf
+FUT ~ MOD lest,1.09,12.0,inf
+MOD would ~ PAST,1.09,12.0,inf
+MOD may ~ TO INF,1.1,11.5,inf
+MOD may ~ PRES,1.24,5.25,inf
+MOD let,1.0,inf,inf
+FUT ~ IMPV,1.0,inf,inf
+PRES ~ TO INF,1.19,6.33,inf
+MOD may ~ MOD shall,1.0,inf,inf
+PAST ~ PRES PART,1.0,inf,inf
+FUT ~ TO INF,1.07,16.0,inf
+MOD shall ~ PRES PART,1.0,inf,inf
+IMPV ~ PRES,1.15,7.5,inf
+IMPV ~ MOD let,1.0,inf,inf
+PRES PART,1.4,3.5,inf
+IMPV ~ TO INF,1.18,6.5,inf
+PAST ~ PRES PERF,1.08,13.0,inf
+FUT ~ MOD let,1.0,inf,inf
+FUT ~ PRES PART,1.0,inf,inf
+MOD can ~ MOD may,1.0,inf,inf
+FUT ~ MOD would,1.0,inf,inf
+MOD can ~ MOD shall,1.0,inf,inf
+MOD shall ~ PAST,1.0,inf,inf
+MOD let ~ MOD shall,1.0,inf,inf
+MOD is to ~ PRES,1.0,inf,inf
+MOD is to ~ MOD let,1.0,inf,inf
+MOD let ~ MOD may,1.0,inf,inf
+FUT ~ PAST,1.14,8.0,inf
+MOD is to ~ PAST,1.0,inf,inf
+MOD lest ~ MOD may,1.0,inf,inf
+PAST ~ TO INF,1.4,3.5,inf
+MOD lest ~ TO INF,1.4,3.5,inf
+PAST ~ PAST PROG,1.17,7.0,inf
+MOD shall ~ PRES PERF,1.0,inf,inf
+FUT ~ PRES PERF,1.5,3.0,inf
+IMPV ~ MOD lest,1.25,5.0,inf
+MOD shall ~ MOD would,1.0,inf,inf
+MOD may ~ MOD must,1.67,2.5,inf
+MOD can,1.67,2.5,inf
+MOD would ~ PRES,1.25,5.0,inf
+IMPV ~ PAST,1.0,inf,inf
+MOD should ~ PRES,1.33,4.0,inf
+HAB used to ~ PAST,1.33,4.0,inf
+IMPV ~ MOD may,1.0,inf,inf
+IMPV ~ MOD must,1.0,inf,inf
+PAST PERF,1.33,4.0,inf
+MOD shall ~ MOD should,1.0,inf,inf
+FUT ~ MOD can,1.0,inf,inf
+MOD let ~ TO INF,1.0,inf,inf
+FUT ~ FUT PERF,1.0,inf,inf
+MOD should,1.0,inf,inf
+MOD could ~ MOD may,3.0,1.5,inf
+PAST ~ PAST PERF,1.5,3.0,inf
+MOD can ~ PRES,1.0,inf,inf
+MOD should ~ TO INF,inf,1.0,inf
+IMPV ~ MOD would,1.0,inf,inf
+MOD VB ~ PRES,1.0,inf,inf
+MOD is to ~ TO INF,1.0,inf,inf
+HAB used to ~ MOD would,1.0,inf,inf
+HAB used to,1.0,inf,inf
+MOD was to,1.0,inf,inf
+FUT ~ FUT going-to,1.0,inf,inf
+IMPV ~ MOD is to,1.0,inf,inf
+MOD that be ~ TO INF,1.0,inf,inf
+MOD was to ~ PAST,1.0,inf,inf
+PRES ~ PRES PROG,1.0,inf,inf
+FUT ~ MOD must,1.0,inf,inf
+IMPV ~ PRES PART,1.0,inf,inf
+MOD would ~ PRES PART,1.0,inf,inf
+FUT going-to ~ MOD shall,1.0,inf,inf
+PRES PART ~ PRES PERF,2.0,2.0,inf
+MOD may ~ PRES PART,1.0,inf,inf
+MOD can ~ MOD let,1.0,inf,inf
+MOD lest ~ MOD might,1.0,inf,inf
+MOD may ~ MOD should,inf,1.0,inf
+MOD let ~ PRES,1.0,inf,inf
+MOD must ~ PRES,1.0,inf,inf
+MOD let ~ MOD must,1.0,inf,inf
+MOD lest ~ PRES PART,1.0,inf,inf
+MOD lest ~ MOD must,1.0,inf,inf
+MOD must ~ PRES PART,1.0,inf,inf
+MOD is to ~ MOD may,1.0,inf,inf
+MOD let ~ PRES PART,1.0,inf,inf
+MOD should ~ MOD would,1.0,inf,inf
+MOD let ~ MOD should,1.0,inf,inf
+MOD let ~ MOD would,1.0,inf,inf
+MOD can ~ TO INF,1.0,inf,inf
+MOD would ~ PRES PROG,1.0,inf,inf
+FUT ~ MOD is to,1.0,inf,inf
+FUT ~ MOD VB,1.0,inf,inf
+MOD ~ MOD would,1.0,inf,inf
+MOD would ~ TO INF,1.0,inf,inf
+MOD must,1.0,inf,inf
+FUT ~ FUT PROG,1.0,inf,inf
+MOD might ~ MOD would,1.0,inf,inf
+PAST PROG ~ TO INF,1.0,inf,inf
+FUT PROG,1.0,inf,inf
+FUT ~ MOD should,1.0,inf,inf
+FUT ~ MOD that be,1.0,inf,inf
+PAST PERF ~ PRES PART,inf,1.0,inf
+MOD could,1.0,inf,inf
+PRES PERF ~ TO INF,1.0,inf,inf
+MOD let ~ MOD might,1.0,inf,inf
+MOD might,1.0,inf,inf
+MOD quest must ~ MOD shall,1.0,inf,inf
+PRES ~ VB,inf,1.0,inf
+MOD could ~ MOD would,1.0,inf,inf
+MOD lest ~ PRES,1.0,inf,inf
+HAB used to ~ PAST PROG,1.0,inf,inf
+HAB used to ~ PRES PART,1.0,inf,inf
+MOD could ~ TO INF,inf,1.0,inf
+IMPV ~ MOD VB,1.0,inf,inf
+MOD is to ~ MOD lest,1.0,inf,inf
+MOD is to ~ PRES PART,1.0,inf,inf
+MOD VB ~ MOD can,inf,1.0,inf

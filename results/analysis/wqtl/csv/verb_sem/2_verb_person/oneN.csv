@@ -1,0 +1,135 @@
+eng_TAMsimp,p3,p2,p1
+FUT,3.09,17.05,1.62
+FUT ~ MOD shall,1.21,6.44,53.1
+PRES,1.45,5.07,8.79
+IMPV ~ MOD shall,13.93,1.08,inf
+IMPV,172.0,1.01,inf
+MOD is to ~ MOD shall,1.15,7.7,inf
+PAST,1.35,17.17,5.02
+MOD shall,1.15,8.54,68.33
+MOD must ~ MOD shall,1.26,4.94,153.0
+FUT ~ PRES,1.57,4.78,6.47
+MOD may,2.2,2.28,9.43
+PAST ~ PRES,1.07,64.0,21.33
+MOD shall ~ PRES,1.4,4.31,18.67
+FUT ~ MOD may,1.23,10.8,10.8
+PRES PERF,1.59,3.5,11.67
+MOD shall ~ TO INF,1.4,3.5,inf
+PRES ~ PRES PART,1.17,6.75,inf
+PRES ~ PRES PERF,1.3,5.2,26.0
+MOD would,1.09,12.5,inf
+TO INF,1.92,2.78,8.33
+FUT ~ MOD lest,1.5,6.0,6.0
+MOD would ~ PAST,1.04,inf,24.0
+MOD may ~ TO INF,1.92,3.83,4.6
+MOD may ~ PRES,1.24,7.0,21.0
+MOD let,1.5,7.0,5.25
+FUT ~ IMPV,2.38,2.38,6.33
+PRES ~ TO INF,1.9,2.71,9.5
+MOD may ~ MOD shall,1.64,3.0,18.0
+PAST ~ PRES PART,1.0,inf,inf
+FUT ~ TO INF,2.29,4.0,3.2
+MOD shall ~ PRES PART,1.6,2.67,inf
+IMPV ~ PRES,15.0,1.07,inf
+IMPV ~ MOD let,1.75,2.33,inf
+PRES PART,1.08,14.0,inf
+IMPV ~ TO INF,inf,1.0,inf
+PAST ~ PRES PERF,1.86,13.0,2.6
+FUT ~ MOD let,3.0,inf,1.5
+FUT ~ PRES PART,2.0,6.0,3.0
+MOD can ~ MOD may,1.57,3.67,11.0
+FUT ~ MOD would,1.57,11.0,3.67
+MOD can ~ MOD shall,3.33,1.43,inf
+MOD shall ~ PAST,1.5,3.0,inf
+MOD let ~ MOD shall,1.5,4.5,9.0
+MOD is to ~ PRES,1.6,2.67,inf
+MOD is to ~ MOD let,1.14,8.0,inf
+MOD let ~ MOD may,1.6,4.0,8.0
+FUT ~ PAST,1.6,inf,2.67
+MOD is to ~ PAST,1.0,inf,inf
+MOD lest ~ MOD may,3.5,3.5,2.33
+PAST ~ TO INF,1.17,inf,7.0
+MOD lest ~ TO INF,1.4,3.5,inf
+PAST ~ PAST PROG,1.0,inf,inf
+MOD shall ~ PRES PERF,2.0,2.0,inf
+FUT ~ PRES PERF,3.0,3.0,3.0
+IMPV ~ MOD lest,2.5,5.0,2.5
+MOD shall ~ MOD would,2.5,inf,1.67
+MOD may ~ MOD must,1.25,inf,5.0
+MOD can,1.25,inf,5.0
+MOD would ~ PRES,1.67,5.0,5.0
+IMPV ~ PAST,inf,1.0,inf
+MOD should ~ PRES,1.0,inf,inf
+HAB used to ~ PAST,1.0,inf,inf
+IMPV ~ MOD may,2.0,2.0,inf
+IMPV ~ MOD must,inf,1.0,inf
+PAST PERF,1.33,inf,4.0
+MOD shall ~ MOD should,4.0,4.0,2.0
+FUT ~ MOD can,1.33,4.0,inf
+MOD let ~ TO INF,1.33,inf,4.0
+FUT ~ FUT PERF,inf,4.0,1.33
+MOD should,1.33,4.0,inf
+MOD could ~ MOD may,1.0,inf,inf
+PAST ~ PAST PERF,1.0,inf,inf
+MOD can ~ PRES,1.0,inf,inf
+MOD should ~ TO INF,1.5,3.0,inf
+IMPV ~ MOD would,1.0,inf,inf
+MOD VB ~ PRES,1.0,inf,inf
+MOD is to ~ TO INF,1.0,inf,inf
+HAB used to ~ MOD would,1.0,inf,inf
+HAB used to,1.0,inf,inf
+MOD was to,1.0,inf,inf
+FUT ~ FUT going-to,inf,inf,1.0
+IMPV ~ MOD is to,inf,1.0,inf
+MOD that be ~ TO INF,1.0,inf,inf
+MOD was to ~ PAST,1.0,inf,inf
+PRES ~ PRES PROG,inf,1.0,inf
+FUT ~ MOD must,1.0,inf,inf
+IMPV ~ PRES PART,inf,1.0,inf
+MOD would ~ PRES PART,1.0,inf,inf
+FUT going-to ~ MOD shall,inf,1.0,inf
+PRES PART ~ PRES PERF,1.0,inf,inf
+MOD may ~ PRES PART,2.0,2.0,inf
+MOD can ~ MOD let,1.0,inf,inf
+MOD lest ~ MOD might,1.0,inf,inf
+MOD may ~ MOD should,1.0,inf,inf
+MOD let ~ PRES,2.0,inf,2.0
+MOD must ~ PRES,1.0,inf,inf
+MOD let ~ MOD must,2.0,2.0,inf
+MOD lest ~ PRES PART,inf,1.0,inf
+MOD lest ~ MOD must,1.0,inf,inf
+MOD must ~ PRES PART,2.0,2.0,inf
+MOD is to ~ MOD may,inf,1.0,inf
+MOD let ~ PRES PART,inf,inf,1.0
+MOD should ~ MOD would,1.0,inf,inf
+MOD let ~ MOD should,inf,inf,1.0
+MOD let ~ MOD would,inf,1.0,inf
+MOD can ~ TO INF,1.0,inf,inf
+MOD would ~ PRES PROG,inf,1.0,inf
+FUT ~ MOD is to,1.0,inf,inf
+FUT ~ MOD VB,1.0,inf,inf
+MOD ~ MOD would,1.0,inf,inf
+MOD would ~ TO INF,1.0,inf,inf
+MOD must,1.0,inf,inf
+FUT ~ FUT PROG,inf,1.0,inf
+MOD might ~ MOD would,inf,inf,1.0
+PAST PROG ~ TO INF,1.0,inf,inf
+FUT PROG,1.0,inf,inf
+FUT ~ MOD should,inf,inf,1.0
+FUT ~ MOD that be,1.0,inf,inf
+PAST PERF ~ PRES PART,1.0,inf,inf
+MOD could,inf,inf,1.0
+PRES PERF ~ TO INF,inf,1.0,inf
+MOD let ~ MOD might,1.0,inf,inf
+MOD might,1.0,inf,inf
+MOD quest must ~ MOD shall,inf,inf,1.0
+PRES ~ VB,1.0,inf,inf
+MOD could ~ MOD would,1.0,inf,inf
+MOD lest ~ PRES,1.0,inf,inf
+HAB used to ~ PAST PROG,1.0,inf,inf
+HAB used to ~ PRES PART,1.0,inf,inf
+MOD could ~ TO INF,1.0,inf,inf
+IMPV ~ MOD VB,inf,1.0,inf
+MOD is to ~ MOD lest,1.0,inf,inf
+MOD is to ~ PRES PART,1.0,inf,inf
+MOD VB ~ MOD can,1.0,inf,inf

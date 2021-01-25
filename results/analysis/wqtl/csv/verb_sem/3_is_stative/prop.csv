@@ -1,0 +1,137 @@
+esv_is,0,0,1,1
+niv_is,0,1,1,0
+eng_TAMsimp,,,,
+FUT,1.0,0.0,0.0,0.0
+FUT ~ MOD shall,1.0,0.0,0.0,0.0
+PRES,0.89,0.03,0.06,0.02
+IMPV ~ MOD shall,1.0,0.0,0.0,0.0
+IMPV,1.0,0.0,0.0,0.0
+MOD is to ~ MOD shall,0.5,0.5,0.0,0.0
+PAST,1.0,0.0,0.0,0.0
+MOD shall,1.0,0.0,0.0,0.0
+MOD must ~ MOD shall,1.0,0.0,0.0,0.0
+FUT ~ PRES,0.95,0.0,0.0,0.05
+MOD may,1.0,0.0,0.0,0.0
+PAST ~ PRES,0.98,0.02,0.0,0.0
+MOD shall ~ PRES,0.77,0.23,0.0,0.0
+FUT ~ MOD may,1.0,0.0,0.0,0.0
+PRES PERF,1.0,0.0,0.0,0.0
+MOD shall ~ TO INF,1.0,0.0,0.0,0.0
+PRES ~ PRES PART,0.96,0.04,0.0,0.0
+PRES ~ PRES PERF,0.85,0.04,0.0,0.12
+MOD would,1.0,0.0,0.0,0.0
+TO INF,1.0,0.0,0.0,0.0
+FUT ~ MOD lest,1.0,0.0,0.0,0.0
+MOD would ~ PAST,1.0,0.0,0.0,0.0
+MOD may ~ TO INF,1.0,0.0,0.0,0.0
+MOD may ~ PRES,0.9,0.05,0.0,0.05
+MOD let,1.0,0.0,0.0,0.0
+FUT ~ IMPV,1.0,0.0,0.0,0.0
+PRES ~ TO INF,1.0,0.0,0.0,0.0
+MOD may ~ MOD shall,1.0,0.0,0.0,0.0
+PAST ~ PRES PART,1.0,0.0,0.0,0.0
+FUT ~ TO INF,1.0,0.0,0.0,0.0
+MOD shall ~ PRES PART,1.0,0.0,0.0,0.0
+IMPV ~ PRES,1.0,0.0,0.0,0.0
+IMPV ~ MOD let,1.0,0.0,0.0,0.0
+PRES PART,1.0,0.0,0.0,0.0
+IMPV ~ TO INF,1.0,0.0,0.0,0.0
+PAST ~ PRES PERF,1.0,0.0,0.0,0.0
+FUT ~ MOD let,1.0,0.0,0.0,0.0
+FUT ~ PRES PART,1.0,0.0,0.0,0.0
+MOD can ~ MOD may,1.0,0.0,0.0,0.0
+FUT ~ MOD would,1.0,0.0,0.0,0.0
+MOD can ~ MOD shall,1.0,0.0,0.0,0.0
+MOD shall ~ PAST,1.0,0.0,0.0,0.0
+MOD let ~ MOD shall,1.0,0.0,0.0,0.0
+MOD is to ~ PRES,1.0,0.0,0.0,0.0
+MOD is to ~ MOD let,0.5,0.5,0.0,0.0
+MOD let ~ MOD may,1.0,0.0,0.0,0.0
+FUT ~ PAST,1.0,0.0,0.0,0.0
+MOD is to ~ PAST,0.43,0.57,0.0,0.0
+MOD lest ~ MOD may,1.0,0.0,0.0,0.0
+PAST ~ TO INF,1.0,0.0,0.0,0.0
+MOD lest ~ TO INF,1.0,0.0,0.0,0.0
+PAST ~ PAST PROG,1.0,0.0,0.0,0.0
+MOD shall ~ PRES PERF,1.0,0.0,0.0,0.0
+FUT ~ PRES PERF,1.0,0.0,0.0,0.0
+IMPV ~ MOD lest,1.0,0.0,0.0,0.0
+MOD shall ~ MOD would,1.0,0.0,0.0,0.0
+MOD may ~ MOD must,1.0,0.0,0.0,0.0
+MOD can,1.0,0.0,0.0,0.0
+MOD would ~ PRES,1.0,0.0,0.0,0.0
+IMPV ~ PAST,1.0,0.0,0.0,0.0
+MOD should ~ PRES,1.0,0.0,0.0,0.0
+HAB used to ~ PAST,1.0,0.0,0.0,0.0
+IMPV ~ MOD may,1.0,0.0,0.0,0.0
+IMPV ~ MOD must,1.0,0.0,0.0,0.0
+PAST PERF,1.0,0.0,0.0,0.0
+MOD shall ~ MOD should,1.0,0.0,0.0,0.0
+FUT ~ MOD can,1.0,0.0,0.0,0.0
+MOD let ~ TO INF,1.0,0.0,0.0,0.0
+FUT ~ FUT PERF,1.0,0.0,0.0,0.0
+MOD should,1.0,0.0,0.0,0.0
+MOD could ~ MOD may,1.0,0.0,0.0,0.0
+PAST ~ PAST PERF,1.0,0.0,0.0,0.0
+MOD can ~ PRES,0.33,0.67,0.0,0.0
+MOD should ~ TO INF,1.0,0.0,0.0,0.0
+IMPV ~ MOD would,1.0,0.0,0.0,0.0
+MOD VB ~ PRES,1.0,0.0,0.0,0.0
+MOD is to ~ TO INF,1.0,0.0,0.0,0.0
+HAB used to ~ MOD would,1.0,0.0,0.0,0.0
+HAB used to,1.0,0.0,0.0,0.0
+MOD was to,1.0,0.0,0.0,0.0
+FUT ~ FUT going-to,1.0,0.0,0.0,0.0
+IMPV ~ MOD is to,1.0,0.0,0.0,0.0
+MOD that be ~ TO INF,1.0,0.0,0.0,0.0
+MOD was to ~ PAST,1.0,0.0,0.0,0.0
+PRES ~ PRES PROG,1.0,0.0,0.0,0.0
+FUT ~ MOD must,1.0,0.0,0.0,0.0
+IMPV ~ PRES PART,1.0,0.0,0.0,0.0
+MOD would ~ PRES PART,1.0,0.0,0.0,0.0
+FUT going-to ~ MOD shall,1.0,0.0,0.0,0.0
+PRES PART ~ PRES PERF,1.0,0.0,0.0,0.0
+MOD may ~ PRES PART,1.0,0.0,0.0,0.0
+MOD can ~ MOD let,1.0,0.0,0.0,0.0
+MOD lest ~ MOD might,1.0,0.0,0.0,0.0
+MOD may ~ MOD should,1.0,0.0,0.0,0.0
+MOD let ~ PRES,1.0,0.0,0.0,0.0
+MOD must ~ PRES,1.0,0.0,0.0,0.0
+MOD let ~ MOD must,1.0,0.0,0.0,0.0
+MOD lest ~ PRES PART,1.0,0.0,0.0,0.0
+MOD lest ~ MOD must,1.0,0.0,0.0,0.0
+MOD must ~ PRES PART,1.0,0.0,0.0,0.0
+MOD is to ~ MOD may,1.0,0.0,0.0,0.0
+MOD let ~ PRES PART,1.0,0.0,0.0,0.0
+MOD should ~ MOD would,1.0,0.0,0.0,0.0
+MOD let ~ MOD should,1.0,0.0,0.0,0.0
+MOD let ~ MOD would,1.0,0.0,0.0,0.0
+MOD can ~ TO INF,1.0,0.0,0.0,0.0
+MOD would ~ PRES PROG,1.0,0.0,0.0,0.0
+FUT ~ MOD is to,0.0,1.0,0.0,0.0
+FUT ~ MOD VB,1.0,0.0,0.0,0.0
+MOD ~ MOD would,1.0,0.0,0.0,0.0
+MOD would ~ TO INF,1.0,0.0,0.0,0.0
+MOD must,1.0,0.0,0.0,0.0
+FUT ~ FUT PROG,1.0,0.0,0.0,0.0
+MOD might ~ MOD would,1.0,0.0,0.0,0.0
+PAST PROG ~ TO INF,1.0,0.0,0.0,0.0
+FUT PROG,1.0,0.0,0.0,0.0
+FUT ~ MOD should,1.0,0.0,0.0,0.0
+FUT ~ MOD that be,1.0,0.0,0.0,0.0
+PAST PERF ~ PRES PART,1.0,0.0,0.0,0.0
+MOD could,1.0,0.0,0.0,0.0
+PRES PERF ~ TO INF,1.0,0.0,0.0,0.0
+MOD let ~ MOD might,1.0,0.0,0.0,0.0
+MOD might,1.0,0.0,0.0,0.0
+MOD quest must ~ MOD shall,1.0,0.0,0.0,0.0
+PRES ~ VB,1.0,0.0,0.0,0.0
+MOD could ~ MOD would,1.0,0.0,0.0,0.0
+MOD lest ~ PRES,1.0,0.0,0.0,0.0
+HAB used to ~ PAST PROG,1.0,0.0,0.0,0.0
+HAB used to ~ PRES PART,1.0,0.0,0.0,0.0
+MOD could ~ TO INF,1.0,0.0,0.0,0.0
+IMPV ~ MOD VB,1.0,0.0,0.0,0.0
+MOD is to ~ MOD lest,1.0,0.0,0.0,0.0
+MOD is to ~ PRES PART,0.0,1.0,0.0,0.0
+MOD VB ~ MOD can,1.0,0.0,0.0,0.0

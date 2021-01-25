@@ -1,0 +1,135 @@
+eng_TAMsimp,TOTAL,1,0
+FUT,1330,888,442
+FUT ~ MOD shall,1062,294,768
+PRES,492,221,271
+IMPV ~ MOD shall,418,329,89
+IMPV,344,215,129
+MOD is to ~ MOD shall,308,198,110
+PAST,206,102,104
+MOD shall,205,130,75
+MOD must ~ MOD shall,153,87,66
+FUT ~ PRES,110,50,60
+MOD may,66,22,44
+PAST ~ PRES,64,9,55
+MOD shall ~ PRES,56,22,34
+FUT ~ MOD may,54,16,38
+PRES PERF,35,22,13
+MOD shall ~ TO INF,28,19,9
+PRES ~ PRES PART,27,12,15
+PRES ~ PRES PERF,26,15,11
+MOD would,25,15,10
+TO INF,25,13,12
+FUT ~ MOD lest,24,9,15
+MOD would ~ PAST,24,9,15
+MOD may ~ TO INF,23,9,14
+MOD may ~ PRES,21,6,15
+MOD let,21,15,6
+FUT ~ IMPV,19,14,5
+PRES ~ TO INF,19,14,5
+MOD may ~ MOD shall,18,5,13
+PAST ~ PRES PART,17,5,12
+FUT ~ TO INF,16,10,6
+MOD shall ~ PRES PART,16,8,8
+IMPV ~ PRES,15,8,7
+IMPV ~ MOD let,14,10,4
+PRES PART,14,7,7
+IMPV ~ TO INF,13,10,3
+PAST ~ PRES PERF,13,7,6
+FUT ~ MOD let,12,9,3
+FUT ~ PRES PART,12,8,4
+MOD can ~ MOD may,11,1,10
+FUT ~ MOD would,11,8,3
+MOD can ~ MOD shall,10,4,6
+MOD shall ~ PAST,9,4,5
+MOD let ~ MOD shall,9,5,4
+MOD is to ~ PRES,8,5,3
+MOD is to ~ MOD let,8,8,0
+MOD let ~ MOD may,8,4,4
+FUT ~ PAST,8,4,4
+MOD is to ~ PAST,7,6,1
+MOD lest ~ MOD may,7,3,4
+PAST ~ TO INF,7,5,2
+MOD lest ~ TO INF,7,5,2
+PAST ~ PAST PROG,7,3,4
+MOD shall ~ PRES PERF,6,2,4
+FUT ~ PRES PERF,6,4,2
+IMPV ~ MOD lest,5,4,1
+MOD shall ~ MOD would,5,1,4
+MOD may ~ MOD must,5,2,3
+MOD can,5,2,3
+MOD would ~ PRES,5,5,0
+IMPV ~ PAST,5,3,2
+MOD should ~ PRES,4,2,2
+HAB used to ~ PAST,4,2,2
+IMPV ~ MOD may,4,1,3
+IMPV ~ MOD must,4,4,0
+PAST PERF,4,3,1
+MOD shall ~ MOD should,4,2,2
+FUT ~ MOD can,4,1,3
+MOD let ~ TO INF,4,1,3
+FUT ~ FUT PERF,4,4,0
+MOD should,4,4,0
+MOD could ~ MOD may,3,0,3
+PAST ~ PAST PERF,3,3,0
+MOD can ~ PRES,3,1,2
+MOD should ~ TO INF,3,2,1
+IMPV ~ MOD would,3,1,2
+MOD VB ~ PRES,3,1,2
+MOD is to ~ TO INF,3,2,1
+HAB used to ~ MOD would,3,0,3
+HAB used to,3,0,3
+MOD was to,3,0,3
+FUT ~ FUT going-to,3,3,0
+IMPV ~ MOD is to,2,1,1
+MOD that be ~ TO INF,2,2,0
+MOD was to ~ PAST,2,2,0
+PRES ~ PRES PROG,2,1,1
+FUT ~ MOD must,2,1,1
+IMPV ~ PRES PART,2,2,0
+MOD would ~ PRES PART,2,1,1
+FUT going-to ~ MOD shall,2,1,1
+PRES PART ~ PRES PERF,2,2,0
+MOD may ~ PRES PART,2,1,1
+MOD can ~ MOD let,2,0,2
+MOD lest ~ MOD might,2,1,1
+MOD may ~ MOD should,2,1,1
+MOD let ~ PRES,2,0,2
+MOD must ~ PRES,2,1,1
+MOD let ~ MOD must,2,1,1
+MOD lest ~ PRES PART,2,1,1
+MOD lest ~ MOD must,2,0,2
+MOD must ~ PRES PART,2,1,1
+MOD is to ~ MOD may,1,1,0
+MOD let ~ PRES PART,1,0,1
+MOD should ~ MOD would,1,0,1
+MOD let ~ MOD should,1,1,0
+MOD let ~ MOD would,1,0,1
+MOD can ~ TO INF,1,0,1
+MOD would ~ PRES PROG,1,1,0
+FUT ~ MOD is to,1,0,1
+FUT ~ MOD VB,1,0,1
+MOD ~ MOD would,1,1,0
+MOD would ~ TO INF,1,0,1
+MOD must,1,0,1
+FUT ~ FUT PROG,1,1,0
+MOD might ~ MOD would,1,1,0
+PAST PROG ~ TO INF,1,1,0
+FUT PROG,1,1,0
+FUT ~ MOD should,1,1,0
+FUT ~ MOD that be,1,0,1
+PAST PERF ~ PRES PART,1,1,0
+MOD could,1,0,1
+PRES PERF ~ TO INF,1,1,0
+MOD let ~ MOD might,1,0,1
+MOD might,1,1,0
+MOD quest must ~ MOD shall,1,0,1
+PRES ~ VB,1,1,0
+MOD could ~ MOD would,1,0,1
+MOD lest ~ PRES,1,0,1
+HAB used to ~ PAST PROG,1,1,0
+HAB used to ~ PRES PART,1,1,0
+MOD could ~ TO INF,1,0,1
+IMPV ~ MOD VB,1,1,0
+MOD is to ~ MOD lest,1,1,0
+MOD is to ~ PRES PART,1,1,0
+MOD VB ~ MOD can,1,0,1

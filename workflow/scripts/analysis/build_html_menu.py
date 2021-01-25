@@ -64,7 +64,7 @@ menu_doc = """\
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" href="menu_style.css">
+        <link rel="stylesheet" href="../../css/menu_style.css">
     </head>
     <body>
         <div class="menu_div">
