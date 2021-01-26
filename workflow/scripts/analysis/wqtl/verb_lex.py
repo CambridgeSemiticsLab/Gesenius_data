@@ -17,6 +17,30 @@ run_analyses([
         'index': 'eng_TAMsimp',
         'columns': ['lex', 'stem'],
         'examples': [
+            {
+                'query': ('eng_TAMsimp == "FUT" '
+                            'and lex_etcbc == "NTN["'),
+            },
+            {
+                'query': ('eng_TAMsimp == "FUT ~ MOD shall" '
+                            'and lex_etcbc == "HJH["'),
+            },
+            {
+                'query': ('eng_TAMsimp == "FUT ~ MOD shall" '
+                            'and lex_etcbc == "JD<["'),
+                'spread': 10,
+            },
+            {
+                'query': ('eng_TAMsimp == "IMPV" '
+                            'and lex_etcbc == ">MR["'),
+                'spread': 10,
+            },
+            {
+                'query': ('eng_TAMsimp == "IMPV ~ MOD shall" '
+                            'and lex_etcbc == "<FH["'),
+                'spread': 10,
+            },
+
         ],
     },
 ], snakemake.output.dir)  

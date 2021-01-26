@@ -15,6 +15,27 @@ run_analyses([
         'index': 'eng_TAMsimp',
         'columns': 'has_objc',
         'examples': [
+            {
+                'query': ('eng_TAMsimp == "FUT ~ MOD shall" '
+                            'and has_objc == 0 '),
+            },
+            {
+                'query': ('eng_TAMsimp == "PRES" '
+                            'and has_objc == 0 '),
+            },
+       ],
+    },
+    {
+        'name': 'has_objc_person',
+        'df': both_df,
+        'index': ['eng_TAMsimp', 'person'],
+        'columns': 'has_objc',
+        'examples': [
+            {
+                'query': ('eng_TAMsimp == "FUT" '
+                            'and person == "p1" '
+                            'and has_objc == 1')
+            },
        ],
     },
     {
@@ -31,6 +52,16 @@ run_analyses([
         'index': 'eng_TAMsimp',
         'columns': ['has_time'],
         'examples': [
+            {
+                'query': ('eng_TAMsimp == "PRES" '
+                            'and has_time == 0 '),
+            },
+            {
+                'query': ('eng_TAMsimp == "MOD is to ~ MOD shall" '
+                            'and has_time == 1'),
+                'spread': 10,
+            },
+ 
        ],
     },
 ], snakemake.output.dir)  

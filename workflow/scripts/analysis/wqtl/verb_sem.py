@@ -22,6 +22,14 @@ run_analyses([
         'index': 'eng_TAMsimp',
         'columns': 'person',
         'examples': [
+            {   
+                'query': ('eng_TAMsimp == "FUT" '
+                            'and person == "p1" ')
+            },  
+            {   
+                'query': ('eng_TAMsimp == "FUT ~ MOD shall" '
+                            'and person == "p1" ')
+            },  
        ],
     },
     {

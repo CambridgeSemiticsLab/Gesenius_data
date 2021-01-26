@@ -1,0 +1,14 @@
+esv_TAMsimp == "HAB used to"
+12 of 12
+pitch (ESV, NIV | BHS וְנָֽטָה־לֹ֣ו׀ מִח֣וּץ לַֽמַּחֲנֶ֗ה , Exod. 33:7)
+used to speak, would speak (ESV, NIV | BHS וְדִבֶּ֨ר יְהוָ֤ה אֶל־מֹשֶׁה֙ פָּנִ֣ים אֶל־פָּנִ֔ים , Exod. 33:11)
+used to go up, went up (ESV, NIV | BHS וְעָלָה֩ הָאִ֨ישׁ הַה֤וּא מֵֽעִירֹו֙ מִיָּמִ֣ים׀ יָמִ֔ימָה , I Sam. 1:3)
+used to provoke, kept provoking (ESV, NIV | BHS וְכִֽעֲסַ֤תָּה צָֽרָתָהּ֙ גַּם־כַּ֔עַס , I Sam. 1:6)
+take, took (ESV, NIV | BHS וְהַעַלְתָ֥ה לֹ֖ו מִיָּמִ֣ים׀ יָמִ֑ימָה , I Sam. 2:19)
+used to rise early, would get up early (ESV, NIV | BHS וְהִשְׁכִּים֙ אַבְשָׁלֹ֔ום , II Sam. 15:2)
+stand (ESV, NIV | BHS וְעָמַ֕ד עַל־יַ֖ד דֶּ֣רֶךְ הַשָּׁ֑עַר , II Sam. 15:2)
+used to offer up, sacrificed (ESV, NIV | BHS וְהֶעֱלָ֣ה שְׁלֹמֹ֡ה שָׁלֹשׁ֩ פְּעָמִ֨ים בַּשָּׁנָ֜ה עֹלֹ֣ות וּשְׁלָמִ֗ים עַל־הַמִּזְבֵּ֨חַ֙ , I Kgs. 9:25)
+he used to warn, elisha warned (ESV, NIV | BHS וְהִזְהִירֹ֖ו , II Kgs. 6:10)
+used to go, used to take turns (ESV, NIV | BHS וְהָלְכ֤וּ בָנָיו֙ , Job 1:4)
+hold, holding (ESV, NIV | BHS וְעָשׂ֣וּ מִשְׁתֶּ֔ה בֵּ֖ית אִ֣ישׁ יֹומֹ֑ו , Job 1:4)
+they used to go in, used to come (ESV, NIV | BHS וָבָ֗אוּ , Eccl. 8:10)

@@ -141,7 +141,7 @@ def main_row(node):
 
     return row_data 
 
-def nearby_clatom_data(clatom_lookup):
+def nearby_clatom_data(clatom_lookup, starting_clatom):
     """Retrieve data on a nearby clause_atom, if it exists
     
     Args: 
@@ -150,8 +150,12 @@ def nearby_clatom_data(clatom_lookup):
         dict of data on the first clause_atom in the lookup, if
         one was found, else an empty dict 
     """
-    rel_dat = {'clause':'', 'cl_atom': '', 'clause_atom':'', 'rela': '', 'domain2': '', 'verbtype': '',
-               'type': '', 'verb_ps': '', 'verb_lex': '', 'verbplain': ''}
+    rel_dat = {
+        'clause':'', 'cl_atom': '', 'clause_atom':'', 
+        'rela': '', 'domain2': '', 'verbtype': '',
+        'type': '', 'verb_ps': '', 'verb_lex': '', 
+        'verbplain': '', 'intertext': ''
+    }
     # retrive data on first clause in the lookup; if there is one
     if clatom_lookup:
         cl_atom = rel_dat['cl_atom'] = clatom_lookup[0]
@@ -166,6 +170,16 @@ def nearby_clatom_data(clatom_lookup):
         rel_dat['rela'] = clause_relator(cl, bhsa)
         rel_dat['clause_atom'] = T.text(cl_atom)
         rel_dat['clause'] = T.text(cl)
+
+        # capture text in between starting node and this one
+        if cl_atom - starting_clatom <= 3:
+            if cl_atom < starting_clatom:
+                interm_clatoms = list(range(cl_atom, starting_clatom))
+            else:
+                interm_clatoms = list(range(starting_clatom+1, cl_atom+1))
+            for cl in interm_clatoms:
+                rel_dat['intertext'] += T.text(cl)
+
     return rel_dat
 
 def clrela_row(node):
@@ -175,8 +189,8 @@ def clrela_row(node):
 
     # build data on the mother/daughter clause
     relas = {
-        'mother': nearby_clatom_data(E.mother.f(clause_atom)),
-        'daught': nearby_clatom_data(E.mother.t(clause_atom))
+        'mother': nearby_clatom_data(E.mother.f(clause_atom), clause_atom),
+        'daught': nearby_clatom_data(E.mother.t(clause_atom), clause_atom)
     }
 
     row_data = {'bhsa_node': node}

@@ -19,6 +19,16 @@ run_analyses([
         'df': both_df,
         'index': 'eng_TAMsimp',
         'columns': 'clause_type',
+        'examples': [
+            {
+                'query': ('eng_TAMsimp == "FUT ~ MOD shall" '
+                            'and clause_type == "WQtX"'),
+            },
+            {
+                'query': ('eng_TAMsimp == "MOD shall" '
+                            'and clause_type == "WQtX"'),
+            },
+        ],
     },
     {
         'name': 'main_clause_type',
@@ -52,20 +62,44 @@ run_analyses([
         'examples': [
         ]
     },
-   {   
-        'name': 'prec_part',
-        'df': both_df,
-        'index': 'eng_TAMsimp',
-        'columns': 'prec_part',
-        'examples': [
-        ]
-    },
-    {
+   {
         'name': 'mo_verbtype',
         'df': both_df,
         'index': 'eng_TAMsimp',
         'columns': 'mother_verbtype',
         'examples': [
+            {
+                'query': ('eng_TAMsimp.isin(["FUT", "FUT ~ MOD shall"]) '
+                            'and mother_verbtype == "ptcp"'),
+                'bhs_text': ['mother_clause_atom', 'clause_atom'],
+            },
+            {
+                'query': ('eng_TAMsimp == "PRES" '
+                            'and mother_verbtype == "yqtl"'),
+                'bhs_text': ['mother_clause_atom', 'clause_atom'],
+            },
+            {
+                'query': ('eng_TAMsimp == "IMPV" '
+                            'and mother_verbtype == "impv"'),
+                'bhs_text': ['mother_clause_atom', 'clause_atom'],
+            },
+            {
+                'query': ('eng_TAMsimp == "MOD must ~ MOD shall" '
+                            'and mother_verbtype == "Ø"'),
+                'bhs_text': ['mother_intertext', 'clause_atom'],
+            },
+            {
+                'query': ('eng_TAMsimp == "PAST" '
+                            'and mother_verbtype == "wayq"'),
+                'bhs_text': ['mother_intertext', 'clause_atom'],
+                'spread': 35,
+            },
+            {
+                'query': ('eng_TAMsimp == "PAST" '
+                            'and mother_verbtype == "qtl"'),
+                'bhs_text': ['mother_intertext', 'clause_atom'],
+                'spread': 35,
+            },
         ]
     },
 

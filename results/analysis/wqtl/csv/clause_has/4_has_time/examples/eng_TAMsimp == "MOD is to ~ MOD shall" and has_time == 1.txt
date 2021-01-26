@@ -1,0 +1,12 @@
+eng_TAMsimp == "MOD is to ~ MOD shall" and has_time == 1
+10 of 28
+they shall eat, they are to eat (ESV, NIV | BHS וְאָכְל֥וּ אֶת־הַבָּשָׂ֖ר בַּלַּ֣יְלָה הַזֶּ֑ה צְלִי־אֵ֣שׁ , Exod. 12:8)
+shall shut up, is to put in isolation (ESV, NIV | BHS וְהִסְגִּ֧יר הַכֹּהֵ֛ן אֶת־הַנֶּ֖גַע שִׁבְעַ֥ת יָמִֽים׃ , Lev. 13:4)
+shall examine, is to examine (ESV, NIV | BHS וְרָאָה֩ הַכֹּהֵ֨ן אֹתֹ֜ו בַּיֹּ֣ום הַשְּׁבִיעִי֮ שֵׁנִית֒ , Lev. 13:6)
+shall examine, is to examine (ESV, NIV | BHS וְרָאָ֥הוּ הַכֹּהֵ֖ן בַּיֹּ֣ום הַשְּׁבִיעִ֑י , Lev. 13:27)
+shall shut up, is to keep in isolation (ESV, NIV | BHS וְהִסְגִּ֨יר הַכֹּהֵ֧ן אֶת־הַנֶּ֛תֶק שִׁבְעַ֥ת יָמִ֖ים שֵׁנִֽית׃ , Lev. 13:33)
+he shall shut up, he is to isolate (ESV, NIV | BHS וְהִסְגִּירֹ֥ו שִׁבְעַת־יָמִ֖ים שֵׁנִֽית׃ , Lev. 13:54)
+you shall take, you are to take (ESV, NIV | BHS וּלְקַחְתֶּ֨ם לָכֶ֜ם בַּיֹּ֣ום הָרִאשֹׁ֗ון פְּרִ֨י עֵ֤ץ הָדָר֙ כַּפֹּ֣ת תְּמָרִ֔ים וַעֲנַ֥ף עֵץ־עָבֹ֖ת וְעַרְבֵי־נָ֑חַל , Lev. 23:40)
+shall sprinkle, is to sprinkle (ESV, NIV | BHS וְהִזָּ֤ה הַטָּהֹר֙ עַל־הַטָּמֵ֔א בַּיֹּ֥ום הַשְּׁלִישִׁ֖י וּבַיֹּ֣ום הַשְּׁבִיעִ֑י , Num. 19:19)
+shall be, are to be (ESV, NIV | BHS וְ֠הָיוּ הָאֲבָנִ֨ים הָאֵ֧לֶּה לְזִכָּרֹ֛ון לִבְנֵ֥י יִשְׂרָאֵ֖ל עַד־עֹולָֽם׃ , Josh. 4:7)
+shall bow down, are to worship (ESV, NIV | BHS וְהִשְׁתַּחֲו֣וּ עַם־הָאָ֗רֶץ פֶּ֚תַח הַשַּׁ֣עַר הַה֔וּא בַּשַּׁבָּתֹ֖ות וּבֶחֳדָשִׁ֑ים לִפְנֵ֖י יְהוָֽה׃ , Ezek. 46:3)

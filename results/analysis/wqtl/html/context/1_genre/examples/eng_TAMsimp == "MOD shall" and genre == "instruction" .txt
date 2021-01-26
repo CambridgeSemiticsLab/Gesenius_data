@@ -1,0 +1,17 @@
+eng_TAMsimp == "MOD shall" and genre == "instruction" 
+15 of 174
+do (ESV, NIV | BHS וְעָשִׂ֖֣יתָ כָּל־מְלַאכְתֶּֽךָ֒׃ , Exod. 20:9)
+shall arrange (ESV, NIV | BHS וְעָרַ֤ךְ הַכֹּהֵן֙ אֹתָ֔ם עַל־הָֽעֵצִים֙ , Lev. 1:12)
+shall throw, shall sprinkle (ESV, NIV | BHS וְזָרְק֡וּ בְּנֵי֩ אַהֲרֹ֨ן הַכֹּהֲנִ֧ים אֶת־הַדָּ֛ם עַל־הַמִּזְבֵּ֖חַ סָבִֽיב׃ , Lev. 3:2)
+shall he do, do (ESV, NIV | BHS וְעָשָׂ֣ה לַפָּ֔ר , Lev. 4:20)
+shall take a handful (ESV, NIV | BHS וְקָמַ֣ץ הַכֹּהֵ֣ן׀ מִ֠מֶּנָּה מְלֹ֨וא קֻמְצֹ֜ו אֶת־אַזְכָּרָתָה֙ , Lev. 5:12)
+he shall pronounce clean (ESV, NIV | BHS וְטִהַ֖ר אֶת־הַנָּ֑גַע , Lev. 13:13)
+shall command, shall order (ESV, NIV | BHS וְצִוָּה֙ הַכֹּהֵ֔ן , Lev. 14:4)
+shall take, take (ESV, NIV | BHS וְלָקַ֤ח הַכֹּהֵן֙ מִדַּ֣ם הָֽאָשָׁ֔ם , Lev. 14:25)
+bring, take (ESV, NIV | BHS וְהֵבִיא֙ אֶת־דָּמֹ֔ו אֶל־מִבֵּ֖ית לַפָּרֹ֑כֶת , Lev. 16:15)
+you shall assign (ESV, NIV | BHS וּפְקַדְתֶּ֤ם עֲלֵהֶם֙ בְּמִשְׁמֶ֔רֶת אֵ֖ת כָּל־מַשָּׂאָֽם׃ , Num. 4:27)
+do (ESV, NIV | BHS וְעָשִׂ֖֣יתָ כָּֿל־מְלַאכְתֶּֽךָ֒׃ , Deut. 5:13)
+shall be appointed, they shall appoint (ESV, NIV | BHS וּפָֽקְד֛וּ שָׂרֵ֥י צְבָאֹ֖ות בְּרֹ֥אשׁ הָעָֽם׃ ס , Deut. 20:9)
+bring out, shall bring (ESV, NIV | BHS וְהֹוצִ֜יאוּ אֶת־בְּתוּלֵ֧י הַֽנַּעֲרָ֛ה אֶל־זִקְנֵ֥י הָעִ֖יר הַשָּֽׁעְרָה׃ , Deut. 22:15)
+shall cause to lie down, shall make lie down (ESV, NIV | BHS וְהִפִּילֹ֤ו הַשֹּׁפֵט֙ , Deut. 25:2)
+he shall go out (ESV, NIV | BHS וְיָצָ֛א , Ezek. 46:12)

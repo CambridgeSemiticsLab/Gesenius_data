@@ -55,9 +55,18 @@ def process_TAM(full_tam):
         'MOD quest could': 'MOD could',
     }
 
+#    tam_map2 = {
+#        'FUT ~ MOD shall': 'FUT',
+#        'IMPV ~ MOD shall': 'DEON',
+#        'MOD is to ~ MOD shall': 'DEON',
+#        'IMPV': 'DEON',
+#        'MOD must ~ MOD shall': 'DEON',
+#    }
+
     features = {
         'TAM': full_tam,
         'TAMsimp': tam_simp_map.get(full_tam, full_tam)
     }
+#    features['TAMsimp2'] = tam_map2.get(features['TAMsimp'], features['TAMsimp'])
 
     return features

@@ -1,0 +1,17 @@
+eng_TAMsimp == "IMPV ~ MOD shall" and genre == "instruction" 
+15 of 292
+sacrifice (ESV, NIV | BHS וְזָבַחְתָּ֣ עָלָ֗יו אֶת־עֹלֹתֶ֨יךָ֙ וְאֶת־שְׁלָמֶ֔יךָ אֶת־צֹֽאנְךָ֖ וְאֶת־בְּקָרֶ֑ךָ , Exod. 20:24)
+you shall make, make (ESV, NIV | BHS וְעָשִׂ֨יתָ קְּעָרֹתָ֜יו וְכַפֹּתָ֗יו וּקְשֹׂותָיו֙ וּמְנַקִּיֹּתָ֔יו , Exod. 25:29)
+bring in, place (ESV, NIV | BHS וְהֵבֵאתָ֥ שָׁ֨מָּה֙ מִבֵּ֣ית לַפָּרֹ֔כֶת אֵ֖ת אֲרֹ֣ון הָעֵד֑וּת , Exod. 26:33)
+you shall make, fashion (ESV, NIV | BHS וְעָשִׂ֜יתָ חֹ֤שֶׁן מִשְׁפָּט֙ מַעֲשֵׂ֣ה חֹשֵׁ֔ב , Exod. 28:15)
+you shall take, take (ESV, NIV | BHS וְלָקַחְתָּ֣ אֶת־הַבְּגָדִ֗ים , Exod. 29:5)
+burn (ESV, NIV | BHS וְהִקְטַרְתָּ֤ אֶת־כָּל־הָאַ֨יִל֙ הַמִּזְבֵּ֔חָה , Exod. 29:18)
+you shall make, make (ESV, NIV | BHS וְעָשִׂ֥יתָ מִזְבֵּ֖חַ מִקְטַ֣ר קְטֹ֑רֶת , Exod. 30:1)
+you shall put, place (ESV, NIV | BHS וְנָתַתָּ֞ה אֶת־מִזְבַּ֤ח הַזָּהָב֙ לִקְטֹ֔רֶת לִפְנֵ֖י אֲרֹ֣ון הָעֵדֻ֑ת , Exod. 40:5)
+pour (ESV, NIV | BHS וְיָצַקְתָּ֥ עָלֶ֖יהָ שָׁ֑מֶן , Lev. 2:6)
+you shall kill, kill (ESV, NIV | BHS וְהָרַגְתָּ֥ אֶת־הָאִשָּׁ֖ה וְאֶת־הַבְּהֵמָ֑ה , Lev. 20:16)
+you shall sound, have sounded (ESV, NIV | BHS וְהַֽעֲבַרְתָּ֞ שֹׁופַ֤ר תְּרוּעָה֙ בַּחֹ֣דֶשׁ הַשְּׁבִעִ֔י בֶּעָשֹׂ֖ור לַחֹ֑דֶשׁ , Lev. 25:9)
+they shall take, put (ESV, NIV | BHS וְלָֽקְחוּ֙ לַטָּמֵ֔א מֵעֲפַ֖ר שְׂרֵפַ֣ת הַֽחַטָּ֑את , Num. 19:17)
+you shall go, go (ESV, NIV | BHS וּבָ֔אתָ אֶל־הַמָּקֹ֖ום , Deut. 12:26)
+go up, take (ESV, NIV | BHS וְעָלִ֔יתָ אֶל־הַמָּקֹ֔ום , Deut. 17:8)
+pull off, take off (ESV, NIV | BHS וְחָלְצָ֤ה נַעֲלֹו֙ מֵעַ֣ל רַגְלֹ֔ו , Deut. 25:9)

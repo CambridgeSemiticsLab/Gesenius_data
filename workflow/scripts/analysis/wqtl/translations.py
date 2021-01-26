@@ -37,6 +37,14 @@ run_analyses([
         'df': eng_df,
         'index': 'eng_TAMsimp',
         'examples': [
+            {
+                'query': 'esv_TAMsimp == "MOD would"',
+                'spread': 35,
+            },
+            {
+                'query': 'esv_TAMsimp == "HAB used to"',
+                'spread': 35,
+            }
         ],
     },
     {
