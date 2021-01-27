@@ -1,12 +1,12 @@
 eng_TAMsimp == "IMPV ~ MOD shall" and genre == "instruction" 
-10 of 349
+10 of 345
 you shall say, tell (ESV, NIV | BHS כֹּ֥ה תֹאמַ֖ר אֶל־בְּנֵ֣י יִשְׂרָאֵ֑ל , Exod. 20:22)
-serve, worship (ESV, NIV | BHS וְלֹ֣א תָֽעָבְדֵ֔ם , Exod. 23:24)
+do, follow (ESV, NIV | BHS וְלֹ֥א תַעֲשֶׂ֖ה כְּמַֽעֲשֵׂיהֶ֑ם , Exod. 23:24)
 you shall offer, do offer (ESV, NIV | BHS לֹא־תַעֲל֥וּ עָלָ֛יו קְטֹ֥רֶת זָרָ֖ה וְעֹלָ֣ה וּמִנְחָ֑ה , Exod. 30:9)
-you shall take, do have sexual relations with (ESV, NIV | BHS אֶֽת־בַּת־בְּנָ֞הּ וְאֶת־בַּת־בִּתָּ֗הּ לֹ֤א תִקַּח֙ , Lev. 18:17)
-you shall keep, observe (ESV, NIV | BHS אֶת־שַׁבְּתֹתַ֣י תִּשְׁמֹ֔רוּ , Lev. 19:30)
-gather, harvest (ESV, NIV | BHS וְלֹ֥א תִבְצְר֖וּ אֶת־נְזִרֶֽיהָ׃ , Lev. 25:11)
-you shall do, do (ESV, NIV | BHS כָּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֣א תַעֲשׂ֑וּ , Num. 29:1)
-you shall eat, do eat (ESV, NIV | BHS לֹ֣א תֹאכְל֣וּ כָל־נְ֠בֵלָה , Deut. 14:21)
+you shall approach, do approach (ESV, NIV | BHS וְאֶל־אִשָּׁ֖ה בְּנִדַּ֣ת טֻמְאָתָ֑הּ לֹ֣א תִקְרַ֔ב , Lev. 18:19)
+reverence, have reverence (ESV, NIV | BHS וּמִקְדָּשִׁ֖י תִּירָ֑אוּ , Lev. 19:30)
+you shall wrong, do take advantage (ESV, NIV | BHS וְלֹ֤א תֹונוּ֙ , Lev. 25:17)
+you shall do, do (ESV, NIV | BHS כָּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֣א תַעֲשׂ֑וּ , Num. 29:12)
+you shall boil, do cook (ESV, NIV | BHS לֹֽא־תְבַשֵּׁ֥ל גְּדִ֖י בַּחֲלֵ֥ב אִמֹּֽו׃ פ , Deut. 14:21)
 you shall devote to complete destruction, completely destroy (ESV, NIV | BHS כִּֽי־הַחֲרֵ֣ם תַּחֲרִימֵ֗ם הַחִתִּ֤י וְהָאֱמֹרִי֙ הַכְּנַעֲנִ֣י וְהַפְּרִזִּ֔י הַחִוִּ֖י וְהַיְבוּסִ֑י , Deut. 20:17)
 you shall forget, do forget (ESV, NIV | BHS לֹ֖א תִּשְׁכָּֽח׃ פ , Deut. 25:19)

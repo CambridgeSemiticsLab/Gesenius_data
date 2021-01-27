@@ -1,211 +1,200 @@
 ,sum
-PRES,2696
-FUT,2518
-FUT ~ MOD shall,1769
-IMPV,678
-MOD let,555
-IMPV ~ MOD shall,510
-PAST,452
-FUT ~ PRES,443
-MOD may,402
-MOD must ~ MOD shall,341
-MOD is to ~ MOD shall,295
-MOD can,271
-MOD shall,221
-FUT ~ MOD may,165
-MOD shall ~ PRES,153
-IMPV ~ MOD let,140
-MOD would,137
-MOD let ~ MOD may,132
-PAST ~ PRES,114
-PRES ~ PRES PART,97
+PRES,2663
+FUT,2251
+FUT ~ MOD shall,1727
+IMPV ~ MOD shall,504
+PAST,447
+FUT ~ PRES,414
+MOD must ~ MOD shall,338
+MOD is to ~ MOD shall,294
+MOD can,269
+MOD shall,219
+MOD may,188
+IMPV,187
+MOD shall ~ PRES,148
+MOD would,115
+PAST ~ PRES,110
+FUT ~ MOD may,103
+PRES ~ PRES PART,96
 PRES ~ PRES PERF,88
-MOD should,84
-TO INF,79
-FUT ~ MOD lest,72
-MOD can ~ PRES,72
-MOD can ~ MOD may,69
-MOD may ~ PRES,68
-FUT ~ MOD can,67
+MOD should,79
+MOD can ~ PRES,71
+FUT ~ MOD lest,71
+FUT ~ MOD can,64
 PRES PERF,61
-IMPV ~ PRES,59
-MOD may ~ MOD shall,58
-PRES PART,50
-MOD may ~ TO INF,46
-MOD can ~ MOD shall,46
-FUT ~ MOD would,46
-MOD should ~ PRES,45
-PRES ~ TO INF,45
-MOD could,41
-MOD must,40
-MOD shall ~ TO INF,38
-IMPV ~ MOD may,34
-FUT ~ MOD let,34
-PAST ~ PRES PERF,34
-FUT ~ TO INF,31
+MOD may ~ MOD shall,53
+PRES PART,49
+IMPV ~ PRES,47
+TO INF,47
+MOD may ~ PRES,46
+MOD should ~ PRES,44
+MOD can ~ MOD shall,44
+PRES ~ TO INF,41
+FUT ~ MOD would,40
+MOD could,38
+MOD shall ~ TO INF,37
+MOD must,36
+MOD let,35
+MOD can ~ MOD may,34
+PAST ~ PRES PERF,33
 MOD shall ~ MOD should,31
 MOD would ~ PAST,29
-MOD let ~ PRES,29
-FUT ~ IMPV,24
-MOD would ~ PRES,24
-MOD let ~ TO INF,22
-MOD shall ~ PRES PART,21
+FUT ~ TO INF,27
+MOD would ~ PRES,23
 PAST ~ PRES PART,21
-FUT ~ PRES PART,19
-MOD should ~ TO INF,19
-MOD must ~ PRES,19
-FUT ~ PAST,17
-MOD let ~ MOD shall,17
+FUT ~ IMPV,21
+MOD shall ~ PRES PART,20
+MOD should ~ TO INF,18
+MOD must ~ PRES,18
 PRES ~ PRES PROG,16
 MOD lest ~ MOD may,16
-IMPV ~ MOD must,14
-MOD should ~ MOD would,14
+FUT ~ PRES PART,15
+MOD let ~ PRES,15
+FUT ~ PAST,15
 MOD shall ~ PAST,14
+MOD should ~ MOD would,14
+FUT ~ MOD let,14
 MOD lest ~ PRES,14
-MOD let ~ MOD must,14
-MOD might,13
-PAST ~ TO INF,13
-MOD may ~ MOD must,12
-IMPV ~ MOD can,12
-FUT ~ MOD should,12
+IMPV ~ MOD may,13
+MOD let ~ MOD shall,13
+MOD may ~ TO INF,12
+IMPV ~ MOD must,12
 HAB used to ~ PAST,12
-MOD let ~ PAST,12
-IMPV ~ MOD should,11
-MOD let ~ MOD should,11
-IMPV ~ PRES PART,10
-MOD is to ~ MOD let,10
-PAST ~ PAST PERF,10
+FUT ~ MOD should,12
+IMPV ~ MOD let,11
+MOD might,11
+IMPV ~ MOD can,11
+PAST ~ TO INF,11
+MOD may ~ MOD must,10
 MOD is to,10
+PAST ~ PAST PERF,10
 MOD was to ~ PAST,9
-IMPV ~ TO INF,9
 MOD can ~ MOD should,8
 MOD can ~ MOD could,8
-MOD lest,7
-MOD should ~ MOD was to,7
 FUT ~ MOD must,7
-MOD may ~ PRES PART,7
-MOD can ~ MOD let,7
-MOD could ~ MOD would,7
-MOD can ~ TO INF,7
-IMPV ~ PAST,7
-MOD could ~ MOD might,7
-MOD might ~ MOD would,7
 PAST PERF,7
-PRES PART ~ TO INF,7
-MOD let ~ PRES PART,6
-MOD is to ~ MOD may,6
-FUT ~ PRES PERF,6
-MOD would ~ TO INF,6
-MOD lest ~ MOD might,6
-MOD could ~ PAST,6
-FUT going-to ~ MOD shall,6
-MOD shall ~ MOD would,6
-FUT ~ FUT going-to,6
+MOD should ~ MOD was to,7
+MOD lest,7
 PAST ~ PAST PROG,6
-MOD can ~ PRES PART,6
-MOD might ~ TO INF,6
-MOD let ~ MOD would,5
-MOD is to ~ MOD must,5
+MOD could ~ MOD would,6
+MOD could ~ PAST,6
+MOD might ~ MOD would,6
+MOD is to ~ MOD may,6
+FUT going-to ~ MOD shall,6
+FUT ~ PRES PERF,6
+MOD let ~ MOD must,6
+MOD shall ~ MOD would,6
+PRES PART ~ TO INF,6
+MOD lest ~ MOD might,6
 MOD lest ~ TO INF,5
-MOD might ~ MOD should,5
-MOD was to,5
+MOD is to ~ MOD must,5
 MOD VB ~ MOD may,5
+MOD might ~ TO INF,5
+MOD was to,5
+MOD might ~ MOD should,5
+MOD can ~ PRES PART,5
+MOD may ~ PRES PART,5
+MOD can ~ TO INF,5
+MOD would ~ TO INF,5
+IMPV ~ PRES PART,5
 MOD might ~ PAST,5
+FUT ~ FUT going-to,5
+MOD let ~ MOD may,4
 IMPV ~ MOD lest,4
-PRES PERF ~ TO INF,4
-?VB ~ PAST,4
-MOD can ~ PAST,4
+MOD could ~ MOD might,4
+IMPV ~ TO INF,4
 MOD VB ~ PRES,4
-MOD let ~ PRES PERF,4
-PAST PERF ~ PRES,4
-FUT ~ PRES PROG,4
 HAB used to,4
-MOD should ~ PAST,4
-IMPV ~ MOD is to,4
 FUT ~ MOD is to,4
-PAST PROG,3
-MOD is to ~ PRES PART,3
-FUT ~ MOD that be,3
-MOD can ~ MOD might,3
-MOD need not ~ MOD shall,3
-MOD shall ~ PRES PERF,3
-MOD lest ~ MOD would,3
-FUT PROG ~ PRES,3
-MOD would ~ PRES PART,3
-PRES PART ~ PRES PERF,3
-MOD may ~ PRES PERF,3
-MOD may ~ MOD might,3
-MOD could ~ MOD should,3
+PAST PERF ~ PRES,4
+PRES PERF ~ TO INF,4
+MOD can ~ PAST,4
+MOD should ~ PAST,4
+IMPV ~ PAST,4
+?VB ~ PAST,4
+FUT ~ PRES PROG,3
+MOD can ~ MOD let,3
 MOD could ~ MOD must,3
-MOD may ~ PAST,3
-PRES PROG,2
-MOD could ~ TO INF,2
-MOD must ~ MOD should,2
-MOD lest ~ MOD should,2
-PAST PROG ~ PRES,2
-PRES ~ PRES do,2
-MOD must ~ MOD quest must,2
-MOD is to ~ PRES,2
-MOD need not ~ PRES,2
-MOD lest ~ MOD shall,2
-MOD is to ~ TO INF,2
-MOD let ~ MOD that be,2
-MOD that be,2
-MOD can ~ MOD must,2
-MOD lest ~ MOD let,2
+PRES PART ~ PRES PERF,3
+MOD can ~ MOD might,3
+MOD would ~ PRES PART,3
+MOD shall ~ PRES PERF,3
+IMPV ~ MOD is to,3
+FUT ~ MOD that be,3
+MOD is to ~ PRES PART,3
+FUT PROG ~ PRES,3
+MOD could ~ MOD should,3
+MOD may ~ MOD might,3
+MOD lest ~ MOD would,3
+PAST PROG,3
+MOD need not ~ MOD shall,2
+MOD let ~ PAST,2
 MOD should ~ PRES PERF,2
-MOD let ~ MOD that,1
-MOD quest must,1
-PAST PROG ~ PRES PART,1
-MOD lest ~ MOD that be,1
-PRES ~ PRES shall,1
-MOD VB ~ TO INF,1
-FUT ~ PRES shall,1
-MOD must ~ PRES shall,1
-FUT going-to ~ MOD may,1
-MOD could ~ PRES PERF,1
-MOD must ~ TO INF,1
-MOD let ~ VB,1
-MOD would ~ PAST PROG,1
-FUT ~ FUT PROG,1
-IMPV not ~ MOD must,1
-MOD VB ~ MOD can,1
-FUT PERF ~ PRES,1
-IMPV ~ MOD need not,1
-IMPV ~ MOD,1
-MOD can ~ MOD lest,1
-FUT ~ FUT PERF,1
-MOD may ~ MOD should,1
-PRES ~ PRES can,1
-MOD might ~ PRES PERF,1
-MOD is to ~ MOD lest,1
-MOD is to ~ MOD should,1
-FUT going-to ~ MOD lest,1
-JJ ~ PRES,1
-PRES PERF ~ PRES PROG,1
+PAST PROG ~ PRES,2
+MOD let ~ TO INF,2
+MOD must ~ MOD should,2
+MOD lest ~ MOD shall,2
+IMPV ~ MOD should,2
+MOD could ~ TO INF,2
+PRES ~ PRES do,2
+MOD can ~ MOD must,2
+MOD may ~ PAST,2
+MOD may ~ PRES PERF,2
+MOD lest ~ MOD should,2
+PRES PROG,2
+MOD is to ~ TO INF,2
+MOD need not ~ PRES,2
 IMPV ~ PRES PERF,1
-MOD ~ PRES,1
-MOD ~ MOD let,1
-MOD was to ~ PRES,1
-MOD let ~ MOD might,1
-HAB used to ~ PRES,1
-HAB used to ~ MOD would,1
-MOD should ~ PRES PART,1
-MOD may ~ MOD would,1
-MOD could ~ MOD shall,1
+PRES ~ PRES shall,1
+PRES PERF ~ PRES PROG,1
+MOD VB ~ MOD can,1
+MOD is to ~ MOD should,1
 FUT PERF,1
-FUT ~ MOD was to,1
-MOD lest ~ MOD must,1
-MOD that be ~ TO INF,1
-FUT ~ MOD,1
-FUT going-to ~ MOD is to,1
-FUT PROG ~ MOD shall,1
+IMPV ~ MOD need not,1
+MOD lest ~ MOD let,1
+MOD lest ~ MOD that be,1
+FUT PERF ~ PRES,1
 MOD is to ~ PRES PROG,1
 PRES PART ~ PRES PROG,1
-MOD would ~ PAST PERF,1
 MOD VB ~ MOD shall,1
-MOD must ~ PRES PROG,1
+MOD should ~ PRES PART,1
+HAB used to ~ MOD would,1
+MOD let ~ MOD that be,1
 MOD could ~ PAST PERF,1
-MOD quest must ~ MOD shall,1
+FUT PROG ~ MOD shall,1
 HAB used to ~ PRES PERF,1
+MOD must ~ PRES PROG,1
+FUT going-to ~ MOD is to,1
+MOD VB ~ TO INF,1
+PAST PROG ~ PRES PART,1
+FUT ~ FUT PROG,1
+MOD may ~ MOD would,1
+FUT ~ MOD,1
+MOD let ~ PRES PART,1
+FUT ~ PRES shall,1
+MOD was to ~ PRES,1
+MOD that be ~ TO INF,1
+MOD could ~ MOD shall,1
+MOD must ~ MOD quest must,1
+MOD must ~ TO INF,1
+MOD ~ PRES,1
+MOD can ~ MOD lest,1
+MOD would ~ PAST PROG,1
+MOD is to ~ MOD lest,1
+MOD must ~ PRES shall,1
+MOD let ~ PRES PERF,1
+HAB used to ~ PRES,1
+MOD that be,1
+MOD would ~ PAST PERF,1
+MOD let ~ MOD should,1
+PRES ~ PRES can,1
+MOD is to ~ PRES,1
+MOD may ~ MOD should,1
+MOD quest must ~ MOD shall,1
+MOD quest must,1
 MOD must ~ PRES PART,1
+FUT going-to ~ MOD lest,1
+MOD might ~ PRES PERF,1
+MOD lest ~ MOD must,1
+MOD could ~ PRES PERF,1
+JJ ~ PRES,1

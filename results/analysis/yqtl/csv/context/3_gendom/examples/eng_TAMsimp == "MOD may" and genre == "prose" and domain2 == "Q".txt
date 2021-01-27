@@ -1,12 +1,12 @@
 eng_TAMsimp == "MOD may" and genre == "prose" and domain2 == "Q"
-10 of 183
+10 of 64
 we may eat (ESV, NIV | BHS מִפְּרִ֥י עֵֽץ־הַגָּ֖ן נֹאכֵֽל׃ , Gen. 3:2)
-we may live, may live (ESV, NIV | BHS וְנִֽחְיֶה֙ , Gen. 43:8)
-they may serve, they may worship (ESV, NIV | BHS וְיַֽעַבְדֻֽנִי׃ , Exod. 10:3)
-it may go well (ESV, NIV | BHS אֲשֶׁר֙ יִיטַ֣ב לְךָ֔ וּלְבָנֶ֖יךָ אַחֲרֶ֑יךָ , Deut. 4:40)
+may perish, may be ruined (ESV, NIV | BHS וְלֹֽא־תִכָּרֵ֥ת הָאָ֖רֶץ בָּרָעָֽב׃ , Gen. 41:36)
+you may know (ESV, NIV | BHS בַּעֲב֣וּר תֵּדַ֔ע , Exod. 9:14)
+may eat (ESV, NIV | BHS תֹּושָׁ֥ב וְשָׂכִ֖יר לֹא־יֹ֥אכַל־בֹּֽו׃ , Exod. 12:45)
+you may prolong your days, you may live long (ESV, NIV | BHS וּלְמַ֨עַן תַּאֲרִ֤יךְ יָמִים֙ עַל־הָ֣אֲדָמָ֔ה , Deut. 4:40)
+you may live (ESV, NIV | BHS לְמַ֨עַן תִּֽחְי֜וּן , Deut. 8:1)
 may live (ESV, NIV | BHS לְמַ֥עַן תִּחְיֶ֖ה אַתָּ֥ה וְזַרְעֶֽךָ׃ , Deut. 30:19)
-she may be (ESV, NIV | BHS וּתְהִי־לֹ֣ו לְמֹוקֵ֔שׁ , I Sam. 18:21)
-may be without (ESV, NIV | BHS וְֽאַל־יִכָּרֵ֣ת מִבֵּ֣ית יֹואָ֡ב זָ֠ב וּמְצֹרָ֞ע , II Sam. 3:29)
-may be restored (ESV, NIV | BHS וְתָשֹׁ֥ב יָדִ֖י אֵלָ֑י , I Kgs. 13:6)
-may make (ESV, NIV | BHS יִתֵּן֩ יְהוָ֨ה אֶֽת־הָאִשָּׁ֜ה , Ruth 4:11)
-he may turn again, he may return (ESV, NIV | BHS וְיָשֹׁב֙ אֶל־הַפְּלֵיטָ֔ה , II Chr. 30:6)
+I may die, I may be killed (ESV, NIV | BHS וְלֹ֥א אָמֽוּת׃ , I Sam. 20:14)
+may know (ESV, NIV | BHS לְמַ֣עַן יֵדְעוּן֩ כָּל־עַמֵּ֨י הָאָ֜רֶץ אֶת־שְׁמֶ֗ךָ , I Kgs. 8:43)
+may enter (ESV, NIV | BHS הֵ֥מָּה יָבֹ֖אוּ , II Chr. 23:6)

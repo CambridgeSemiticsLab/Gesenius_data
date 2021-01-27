@@ -100,6 +100,7 @@ def build_data_row(node):
         
     # add features based on comparisons between translations
     row_data.update(compare_transs(row_data))
+    row_data['is_progressive'] = ('PROG' in row_data['eng_TAM']) * 1
 
     return row_data       
 

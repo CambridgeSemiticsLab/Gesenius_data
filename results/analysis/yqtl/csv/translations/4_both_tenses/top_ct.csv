@@ -1,14 +1,13 @@
 ,sum
-PRES,2696
-FUT,2518
-FUT ~ MOD shall,1769
-IMPV,678
-MOD let,555
-IMPV ~ MOD shall,510
-PAST,452
-FUT ~ PRES,443
-MOD may,402
-MOD must ~ MOD shall,341
-MOD is to ~ MOD shall,295
-MOD can,271
-MOD shall,221
+PRES,2663
+FUT,2251
+FUT ~ MOD shall,1727
+IMPV ~ MOD shall,504
+PAST,447
+FUT ~ PRES,414
+MOD must ~ MOD shall,338
+MOD is to ~ MOD shall,294
+MOD can,269
+MOD shall,219
+MOD may,188
+IMPV,187

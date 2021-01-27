@@ -1,0 +1,117 @@
+genre,prose,prose,prophetic,prophetic,poetry,list,instruction,poetry,instruction,list,prophetic,poetry
+domain2,N,Q,Q,N,Q,N,N,N,Q,Q,?,?
+eng_TAMsimp,,,,,,,,,,,,
+PAST,1.25,21.62,30.57,23.62,39.36,38.03,49.42,200.34,373.97,2804.75,11219.0,11219.0
+PAST ~ PRES PART,1.32,9.05,21.11,47.5,31.67,47.5,190.0,inf,190.0,inf,inf,inf
+PAST ~ PAST PERF,1.17,60.67,36.4,26.0,91.0,26.0,60.67,inf,inf,inf,inf,inf
+PRES PERF,35.4,1.81,4.92,177.0,7.7,177.0,inf,29.5,25.29,inf,inf,inf
+PRES,23.14,11.57,3.12,23.14,2.35,inf,inf,13.5,162.0,inf,inf,inf
+?PAST ~ PAST,1.43,20.67,41.33,31.0,17.71,62.0,8.27,inf,inf,inf,inf,inf
+PAST ~ PRES PERF,28.0,2.29,2.95,56.0,7.0,inf,inf,112.0,56.0,inf,inf,inf
+?PAST,1.24,25.5,20.4,34.0,34.0,51.0,34.0,inf,inf,inf,inf,inf
+PAST ~ PRES,4.88,7.09,3.55,78.0,6.5,78.0,inf,9.75,11.14,inf,inf,inf
+PAST ~ TO INF,1.18,17.75,23.67,35.5,inf,inf,35.5,inf,inf,inf,inf,inf
+PAST PERF,1.34,55.0,inf,27.5,inf,5.5,inf,55.0,inf,inf,inf,inf
+PRES ~ PRES PERF,10.25,8.2,3.15,41.0,2.73,inf,inf,20.5,inf,41.0,inf,inf
+PAST ~ PAST PROG,1.12,inf,inf,13.5,inf,27.0,inf,inf,inf,inf,inf,inf
+PRES PART,1.73,3.71,6.5,inf,inf,inf,inf,inf,inf,inf,inf,inf
+FUT ~ PRES,inf,inf,2.5,5.0,5.0,inf,inf,7.5,15.0,inf,inf,inf
+?PRES,inf,inf,2.6,13.0,2.6,inf,inf,6.5,inf,inf,inf,inf
+?PRES ~ PRES,inf,inf,3.25,13.0,2.17,13.0,inf,13.0,inf,inf,inf,inf
+MOD would,1.83,11.0,5.5,inf,5.5,inf,inf,inf,inf,inf,inf,inf
+MOD could ~ PAST,1.22,11.0,inf,11.0,inf,inf,inf,inf,inf,inf,inf,inf
+TO INF,1.8,9.0,4.5,inf,inf,inf,inf,9.0,inf,inf,inf,inf
+?VB ~ PAST,9.0,2.25,inf,9.0,4.5,inf,9.0,inf,inf,inf,inf,inf
+?PRES ~ PAST,7.0,2.33,3.5,inf,inf,inf,inf,7.0,inf,inf,inf,inf
+FUT ~ PAST,inf,inf,6.0,3.0,2.0,inf,inf,inf,inf,inf,inf,inf
+?PAST ~ PRES PART,1.5,6.0,6.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+PAST PROG,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+?VB,inf,5.0,inf,inf,5.0,2.5,5.0,inf,inf,inf,inf,inf
+PRES PART ~ PRES PERF,inf,2.5,2.5,inf,inf,inf,inf,inf,5.0,inf,inf,inf
+FUT ~ PRES PERF,inf,inf,5.0,2.5,2.5,inf,inf,inf,inf,inf,inf,inf
+PAST PERF ~ PRES PERF,inf,1.33,inf,inf,4.0,inf,inf,inf,inf,inf,inf,inf
+MOD would ~ PAST,1.33,inf,inf,inf,4.0,inf,inf,inf,inf,inf,inf,inf
+?PAST did not ~ PAST,4.0,2.0,inf,4.0,inf,inf,inf,inf,inf,inf,inf,inf
+PRES ~ PRES PART,inf,inf,4.0,inf,2.0,inf,inf,4.0,inf,inf,inf,inf
+PRES ~ PRES PROG,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+?TO INF ~ PAST,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD let ~ PAST,1.5,inf,inf,inf,3.0,inf,inf,inf,inf,inf,inf,inf
+?PAST ~ PRES,1.5,inf,3.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+?PAST ~ ?VB,inf,inf,inf,inf,3.0,inf,1.5,inf,inf,inf,inf,inf
+PRES ~ TO INF,inf,inf,3.0,inf,1.5,inf,inf,inf,inf,inf,inf,inf
+IMPV ~ PAST,1.5,inf,inf,3.0,inf,inf,inf,inf,inf,inf,inf,inf
+MOD let,1.5,3.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+FUT ~ MOD shall,inf,inf,1.5,inf,3.0,inf,inf,inf,inf,inf,inf,inf
+PAST PERF ~ PRES PART,1.5,3.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+PRES PERF ~ TO INF,inf,3.0,3.0,inf,3.0,inf,inf,inf,inf,inf,inf,inf
+??PAST,2.0,inf,inf,2.0,inf,inf,inf,inf,inf,inf,inf,inf
+?PRES PERF ~ PRES,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+PRES PERF ~ PRES PROG,inf,2.0,2.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+?PAST ~ IMPV,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+?VB ~ PRES,2.0,inf,2.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+?VB ~ PRES PERF,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+FUT,inf,inf,2.0,inf,2.0,inf,inf,inf,inf,inf,inf,inf
+?PRES ~ ?PRES PERF,inf,inf,2.0,inf,2.0,inf,inf,inf,inf,inf,inf,inf
+?PRES ~ PRES PERF,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+?FUT ~ PAST,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf
+?PRES PERF,inf,2.0,inf,inf,2.0,inf,inf,inf,inf,inf,inf,inf
+MOD can ~ PRES,inf,inf,inf,2.0,inf,inf,inf,2.0,inf,inf,inf,inf
+??VB ~ ?PAST question,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD may ~ PAST,2.0,inf,inf,inf,2.0,inf,inf,inf,inf,inf,inf,inf
+?PRES ~ PRES PART,inf,inf,2.0,inf,2.0,inf,inf,inf,inf,inf,inf,inf
+?PAST wh-question,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+?PAST wh-question ~ ?PRES,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+?PAST question,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+?PAST do-support ~ PAST,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf
+?PAST wh-question ~ MOD let,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+?PAST did not ~ TO INF,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf
+?PAST wh-question ~ PAST,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+?PAST wh-question ~ TO INF,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf
+?PAST ~ ?TO INF,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+?MOD would ~ PAST,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+?PAST did not ~ ?PAST question,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+?PAST PERF ~ PAST PERF,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+?MOD would,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+?MOD let ~ PAST,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+?FUT ~ PRES PART,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+?FUT ~ PRES,inf,inf,inf,inf,inf,inf,inf,1.0,inf,inf,inf,inf
+?FUT ~ ?PRES,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf
+??VB ~ PRES PERF,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf
+??VB ~ PRES,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+??VB ~ PAST,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+??PRES ~ PAST,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+??PAST ~ PAST,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+??PAST ~ ?TO INF,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+??PAST ~ ?PAST,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+PRES PERF PROG,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD let ~ PRES PART,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+PRES PART ~ TO INF,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+?PAST ~ PAST PERF,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD may,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf
+MOD let ~ MOD may,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf
+MOD is to ~ PRES PERF,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD may ~ PRES,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD could ~ MOD might,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+IMPV ~ PRES PART,inf,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf
+IMPV ~ PRES,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf
+MOD might ~ PRES PERF,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD must ~ PAST,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf
+MOD must ~ PRES,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf
+MOD should ~ MOD would,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+FUT ~ MOD would,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf
+MOD should ~ PRES,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf
+MOD should ~ TO INF,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD would ~ PRES,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf
+?TO INF ~ PRES,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf
+?TO INF,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf
+?PRES ~ TO INF,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+PAST PERF ~ TO INF,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+PAST PROG ~ PRES PART,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+?PRES ~ FUT,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf
+?PRES ~ ?VB,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+?PRES PERF ~ PAST,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf
+MOD let ~ PRES,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+?PAST ~ PRES PERF,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+PAST PROG ~ PRES PERF PROG,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+PAST ~ PAST PERF PROG,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+PAST PROG ~ PRES PERF,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf

@@ -1,0 +1,76 @@
+eng_TAMsimp,SBH,LBH
+PAST,1.19,6.13
+PAST ~ PRES PART,1.25,4.97
+PAST ~ PAST PERF,1.27,4.74
+?PAST ~ PAST,1.15,7.79
+PRES PERF,1.37,3.72
+?PAST,1.25,5.0
+PAST ~ TO INF,1.18,6.5
+PAST ~ PRES PERF,1.18,6.56
+PAST PERF,1.19,6.38
+PAST ~ PRES,1.12,9.0
+PAST ~ PAST PROG,1.09,12.5
+PRES,1.21,5.75
+PRES PART,1.24,5.25
+PRES ~ PRES PERF,1.2,6.0
+MOD could ~ PAST,1.43,3.33
+?VB ~ PAST,1.2,6.0
+MOD would,1.0,inf
+?PAST ~ PRES PART,1.25,5.0
+PAST PROG,1.0,inf
+TO INF,1.67,2.5
+?VB,2.0,2.0
+?PRES ~ PAST,1.0,inf
+?PAST did not ~ PAST,1.5,3.0
+PRES ~ PRES PROG,1.0,inf
+FUT ~ PAST,1.0,inf
+?TO INF ~ PAST,1.0,inf
+MOD would ~ PAST,1.0,inf
+PAST PERF ~ PRES PART,1.5,3.0
+PRES PART ~ PRES PERF,1.5,3.0
+PAST PERF ~ PRES PERF,1.0,inf
+IMPV ~ PAST,1.0,inf
+?PAST ~ IMPV,1.0,inf
+?PAST ~ ?VB,1.0,inf
+?PRES PERF ~ PRES,2.0,2.0
+?VB ~ PRES PERF,1.0,inf
+??VB ~ ?PAST question,2.0,2.0
+FUT ~ PRES,1.0,inf
+?PAST ~ PRES,2.0,2.0
+MOD let,1.0,inf
+MOD let ~ PAST,2.0,2.0
+?PAST ~ ?TO INF,1.0,inf
+??PAST ~ ?PAST,1.0,inf
+?PAST PERF ~ PAST PERF,1.0,inf
+?PAST did not ~ ?PAST question,1.0,inf
+?MOD would ~ PAST,1.0,inf
+??PAST ~ ?TO INF,1.0,inf
+??VB ~ PRES,1.0,inf
+??PAST ~ PAST,1.0,inf
+?PAST wh-question ~ MOD let,1.0,inf
+?PAST wh-question,1.0,inf
+?PAST wh-question ~ PAST,1.0,inf
+?PAST wh-question ~ ?PRES,1.0,inf
+?MOD let ~ PAST,1.0,inf
+??PRES ~ PAST,1.0,inf
+MOD could ~ MOD might,1.0,inf
+?PAST ~ PRES PERF,inf,1.0
+?PRES PERF,1.0,inf
+PRES PERF ~ TO INF,inf,1.0
+PRES PERF ~ PRES PROG,1.0,inf
+PRES PERF PROG,1.0,inf
+PRES PART ~ TO INF,1.0,inf
+PAST ~ PAST PERF PROG,1.0,inf
+PAST PROG ~ PRES PERF PROG,1.0,inf
+PAST PROG ~ PRES PERF,1.0,inf
+PAST PROG ~ PRES PART,1.0,inf
+PAST PERF ~ TO INF,1.0,inf
+MOD should ~ TO INF,inf,1.0
+MOD should ~ MOD would,1.0,inf
+MOD may ~ PAST,1.0,inf
+MOD let ~ PRES PART,1.0,inf
+MOD let ~ PRES,1.0,inf
+IMPV ~ PRES PART,1.0,inf
+?VB ~ PRES,1.0,inf
+?PRES ~ PRES,1.0,inf
+??PAST,1.0,inf

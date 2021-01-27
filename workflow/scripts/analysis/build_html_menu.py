@@ -83,4 +83,4 @@ def make_html_menu(out_dir, level=0):
     out_dir.joinpath('menu.html').write_text(menu_html)
 
 # construct the html menu
-make_html_menu(snakemake.input.results, level=3)
+make_html_menu(snakemake.params.results, level=3)

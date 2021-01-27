@@ -3,29 +3,19 @@ import pandas as pd
 
 class DfLoader:
 
-    """Loads tables of data with custom selections.
+    """Loads tables of data with custom selections."""
 
-    Args:   
-        csv_dir: directory containing csv files
-        csvs: str with kleene star or list of files to load
-    """
+    def __init__(self, csv_files):
+        """Initialize DfLoader.
 
-    def __init__(self, csv_dir, csvs='*.csv'):
+        Args:
+            csv_files: iterable of csv files to
+                load with Pandas.
+        """
 
-        csv_dir = Path(csv_dir)
-
-        load_order = {
-            'bhsa': 1, 'bhsa_clrela': 2,
-            'eng': 3, 'eng_text': 4, 'lxx': 5,
-        }
-        sort_key = lambda f: load_order.get(f.stem, max(load_order.values())+1)
-        # get iterable of table files
-        if type(csvs) == str: 
-            csvs = sorted(csv_dir.glob(csvs), key=sort_key)
-        
         # populate list with pandas dataframes
         tables = [] 
-        for file in csvs:
+        for file in csv_files:
             tables.append(pd.read_csv(file, index_col='bhsa_node'))
             
         # concatenate into single df

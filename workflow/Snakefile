@@ -25,16 +25,6 @@ tf_modules = [
 #             git clone https://github.com/{}    
 #         """
 
-# -- generate samples --
-rule get_samples:
-    input:
-        tf_mod="/Users/cody/github/etcbc/bhsa/tf/c",
-        script="scripts/bhsa/get_samples.py",
-    output:
-        file="../results/samples/{verb}.json" 
-    script:
-        "scripts/bhsa/get_samples.py"
-
 # -- preprocess the raw GBI data --
 rule preprocess_gbi:
     input:
@@ -59,7 +49,7 @@ rule prepare_gbi_verbs:
         word_data=rules.preprocess_gbi.output.word_data,
         id2link=rules.preprocess_gbi.output.id2link,
     output:
-        matches="_private_/GBI_alignment/verb_bhsa2gbi.pickle",
+        bhsa2gbi="_private_/GBI_alignment/verb_bhsa2gbi.pickle",
         no_match="_private_/GBI_alignment/verb_no_match.txt",
         eng_verbs="_private_/GBI_alignment/english_verbs.pickle",
         versestoparse="_private_/GBI_alignment/versestoparse.pickle",
@@ -97,13 +87,25 @@ rule parse_eng_tenses:
     script:
         "scripts/english/parse/parse_tenses.py"
 
+# -- generate Hebrew samples --
+rule get_samples:
+    input:
+        tf_mod="/Users/cody/github/etcbc/bhsa/tf/c",
+        bhsa2gbi=rules.prepare_gbi_verbs.output.bhsa2gbi,
+        verbform_script="scripts/hebrew/verb_form.py",
+        script="scripts/hebrew/get_samples.py",
+    output:
+        file="../results/samples/{verb}.json" 
+    script:
+        "scripts/hebrew/get_samples.py"
+
 # -- apply manual corrections --
 # How to work in manual corrections to the pipeline?
 # We do it in a round-about way by keeping some outputs
 # secret from snakemake and by designing dummy outputs.
 
-esv_corr = "../results/datasets/{verb}/corr_esv_{verb}.json"
-niv_corr = "../results/datasets/{verb}/corr_niv_{verb}.json"
+esv_corr = "../results/datasets/esv_corrections.json"
+niv_corr = "../results/datasets/niv_corrections.json"
 
 # produce initial to-do files
 rule get_eng_corrections:
@@ -118,8 +120,8 @@ rule get_eng_corrections:
         esv_corr=esv_corr,
         niv_corr=niv_corr,
     output:
-        esv_todo="_private_/GBI_alignment/parsings/corrections/esv_{verb}.todo",
-        niv_todo="_private_/GBI_alignment/parsings/corrections/niv_{verb}.todo",
+        esv_todo="_private_/GBI_alignment/parsings/corrections/{verb}/esv.todo",
+        niv_todo="_private_/GBI_alignment/parsings/corrections/{verb}/niv.todo",
     script:
         "scripts/english/parse/get_corrections.py"
 
@@ -127,7 +129,9 @@ rule get_eng_corrections:
 # a dummy file "run_{verb}" is used as the target, but 
 # the true output is another copy of the corrections and 
 # to-do files, which have been updated to reflect the latest
-# state of the to-do files
+# state of the to-do files.
+# This is necessary to prevent the manual corrections file from being
+# removed each time pipeline is run, which would destroy the manual work
 rule apply_eng_corrections:
     input:
         script="scripts/english/parse/apply_corrections.py",
@@ -141,25 +145,26 @@ rule apply_eng_corrections:
         niv_corr=niv_corr,
         esv_corr=esv_corr,
     output:
-        run="_private_/GBI_alignment/parsings/corrections/run_{verb}" # blank dummy file to make pipeline run
+        run="_private_/GBI_alignment/parsings/corrections/{verb}/run" # blank dummy file to make pipeline run
     script:
         "scripts/english/parse/apply_corrections.py"
 
 # -- build csv tables --
 
 # - BHSA -
-bhsa_scripts = Path("scripts/bhsa")
-main_bhsa="scripts/bhsa/build_bhsa_tables.py"
-rule bhsa_tables:
+hebrew_scripts = Path("scripts/hebrew")
+main_hebrew="scripts/hebrew/build_hebrew_tables.py"
+rule heb_tables:
     input:
         sample=rules.get_samples.output.file, 
         tf_mods=tf_modules,
-        scripts=list(bhsa_scripts.glob('*.py'))
+        bhsa2gbi=rules.prepare_gbi_verbs.output.bhsa2gbi,
+        scripts=list(hebrew_scripts.glob('*.py'))
     output:
-        bhsa="../results/datasets/{verb}/bhsa.csv",
-        bhsa_clrela="../results/datasets/{verb}/bhsa_clrela.csv",
+        hebrew="../results/datasets/{verb}/heb.csv",
+        hebrew_clrela="../results/datasets/{verb}/heb_clrela.csv",
     script:
-        main_bhsa
+        main_hebrew
 
 # - English -
 eng_scripts=Path("scripts/english")
@@ -170,7 +175,7 @@ rule eng_tables:
         niv=rules.parse_eng_tenses.output.niv,
         niv_corr=niv_corr,
         esv_corr=esv_corr,
-        #txt=rules.parse_eng_verses.output.verse2text,
+        run_corr=rules.apply_eng_corrections.output.run,
         parsedverses=rules.parse_eng_verses.output.parsedverses,
         scripts=list(eng_scripts.glob('*.py')),
     output: 
@@ -203,17 +208,15 @@ rule lxx_tables:
 #        "scripts/correct_{wildcards.verb}.py"
 
 # - run correlation analyses for verb - 
-results_csv = ['bhsa', 'bhsa_clrela', 'eng', 'eng_text', 'lxx']
 rule analyze_verb:
     input:
-        data_dir="../results/datasets/{verb}",
-        data=expand("../results/datasets/{{verb}}/{results_csv}.csv", results_csv=results_csv),
+        data_dir=rules.heb_tables.output + rules.eng_tables.output + rules.lxx_tables.output,
         analyzers="scripts/analysis/analysis.py",
-        script="scripts/analysis/{verb}/{analysis_name}.py"
+        script="scripts/analysis/verbs/{verb}/{analysis_name}.py"
     output:
         dir=directory("../results/analysis/{verb}/csv/{analysis_name}")
     script:
-        "scripts/analysis/{wildcards.verb}/{wildcards.analysis_name}.py"
+        "scripts/analysis/verbs/{wildcards.verb}/{wildcards.analysis_name}.py"
 
 # - visualize analyses -
 rule table_styles:
@@ -228,7 +231,7 @@ rule table_styles:
 visual_script = "scripts/analysis/visualize_results.py" 
 rule visualize_verb:
     input:
-        results="../results/analysis/{verb}/csv/{analysis_name}",
+        results=rules.analyze_verb.output.dir,
         visualizers="scripts/analysis/analysis_vis.py",
         script=visual_script,
         tablestyles=rules.table_styles.output.css
@@ -238,13 +241,18 @@ rule visualize_verb:
         visual_script
 
 # construct a menu of html links to all of the respective analyses
-verb = 'wqtl' # temporary work-around till I figure out a better way
-analyses=[p.stem for p in Path(f'scripts/analysis/{verb}/').glob('*.py')]
+def get_analyses(wildcards):
+    """Formats analyses names automatically."""
+    scripts_path = Path(f'scripts/analysis/verbs/{wildcards.verb}')
+    analyses = [p.stem for p in scripts_path.glob('*.py')]
+    return expand(f'../results/analysis/{wildcards.verb}/html/{{analysis_name}}', analysis_name=analyses)
+
 rule html_menu:
     input: 
-        analyses=expand('../results/analysis/{{verb}}/html/{analysis_name}', analysis_name=analyses),
+        analyses=get_analyses,
         script="scripts/analysis/build_html_menu.py",
-        results="../results/analysis/{verb}/html"
+    params:
+        results="../results/analysis/{verb}/html",
     output:
         html="../results/analysis/{verb}/html/menu.html"    
     script:

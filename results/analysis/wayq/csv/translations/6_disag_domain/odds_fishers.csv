@@ -1,0 +1,94 @@
+,N,Q
+PAST ~ PRES PART,2.89,0.35
+PAST ~ PAST PERF,13.51,0.07
+?PAST ~ PAST,4.59,0.22
+PAST ~ PRES PERF,0.03,34.69
+PAST ~ PRES,0.27,3.76
+PAST ~ TO INF,5.89,0.17
+PRES ~ PRES PERF,0.11,8.93
+PAST ~ PAST PROG,inf,0.0
+FUT ~ PRES,0.29,3.45
+?PRES ~ PRES,0.17,5.77
+MOD could ~ PAST,5.99,0.17
+?VB ~ PAST,0.29,3.42
+?PRES ~ PAST,0.23,4.27
+?PAST ~ PRES PART,1.18,0.85
+FUT ~ PAST,0.29,3.41
+PRES PART ~ PRES PERF,0.0,inf
+FUT ~ PRES PERF,0.39,2.55
+PRES ~ PRES PART,0.2,5.11
+MOD would ~ PAST,1.78,0.56
+PRES ~ PRES PROG,0.0,inf
+PAST PERF ~ PRES PERF,0.0,inf
+?PAST did not ~ PAST,0.59,1.7
+?PAST ~ ?VB,1.18,0.85
+?TO INF ~ PAST,inf,0.0
+MOD let ~ PAST,1.18,0.85
+?PAST ~ PRES,1.18,0.85
+IMPV ~ PAST,inf,0.0
+PRES ~ TO INF,0.0,inf
+FUT ~ MOD shall,0.0,inf
+PRES PERF ~ TO INF,0.0,inf
+PAST PERF ~ PRES PART,1.18,0.85
+?VB ~ PRES PERF,0.0,inf
+?FUT ~ PAST,inf,0.0
+PRES PERF ~ PRES PROG,0.0,inf
+MOD may ~ PAST,0.59,1.69
+?PRES PERF ~ PRES,0.0,inf
+?PRES ~ ?PRES PERF,0.0,inf
+?PRES ~ PRES PART,0.0,inf
+?PRES ~ PRES PERF,0.0,inf
+?VB ~ PRES,0.59,1.69
+?PAST ~ IMPV,inf,0.0
+??VB ~ ?PAST question,0.0,inf
+MOD can ~ PRES,inf,0.0
+?FUT ~ PRES,inf,0.0
+??VB ~ PAST,0.0,inf
+??PAST ~ ?TO INF,inf,0.0
+?PAST ~ ?TO INF,inf,0.0
+??PAST ~ PAST,inf,0.0
+??PRES ~ PAST,0.0,inf
+?PAST wh-question ~ TO INF,inf,0.0
+?PAST wh-question ~ PAST,0.0,inf
+?PAST wh-question ~ MOD let,0.0,inf
+?PAST wh-question ~ ?PRES,0.0,inf
+??VB ~ PRES,0.0,inf
+?FUT ~ PRES PART,0.0,inf
+?PAST do-support ~ PAST,inf,0.0
+?PAST did not ~ TO INF,0.0,inf
+??VB ~ PRES PERF,0.0,inf
+?FUT ~ ?PRES,0.0,inf
+PRES PART ~ TO INF,inf,0.0
+?PAST did not ~ ?PAST question,0.0,inf
+?PAST PERF ~ PAST PERF,0.0,inf
+?MOD would ~ PAST,inf,0.0
+?MOD let ~ PAST,inf,0.0
+MOD may ~ PRES,0.0,inf
+?PRES PERF ~ PAST,0.0,inf
+?PAST ~ PAST PERF,inf,0.0
+MOD should ~ PRES,0.0,inf
+MOD let ~ PRES PART,inf,0.0
+MOD let ~ PRES,inf,0.0
+MOD might ~ PRES PERF,0.0,inf
+MOD let ~ MOD may,0.0,inf
+MOD is to ~ PRES PERF,0.0,inf
+MOD must ~ PAST,0.0,inf
+MOD could ~ MOD might,0.0,inf
+IMPV ~ PRES PART,inf,0.0
+IMPV ~ PRES,0.0,inf
+MOD must ~ PRES,inf,0.0
+MOD should ~ MOD would,inf,0.0
+MOD should ~ TO INF,0.0,inf
+PAST ~ PAST PERF PROG,inf,0.0
+FUT ~ MOD would,0.0,inf
+MOD would ~ PRES,0.0,inf
+?TO INF ~ PRES,0.0,inf
+PAST PERF ~ TO INF,inf,0.0
+?PRES ~ TO INF,0.0,inf
+PAST PROG ~ PRES PART,inf,0.0
+PAST PROG ~ PRES PERF,inf,0.0
+?PRES ~ FUT,0.0,inf
+?PRES ~ ?VB,0.0,inf
+?PAST ~ PRES PERF,0.0,inf
+PAST PROG ~ PRES PERF PROG,0.0,inf
+??PAST ~ ?PAST,inf,0.0

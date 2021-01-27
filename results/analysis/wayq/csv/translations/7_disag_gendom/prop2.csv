@@ -1,0 +1,11 @@
+genre,domain2,0
+prose,N,1.0
+prose,Q,1.0
+prophetic,Q,1.0
+poetry,Q,1.0
+prophetic,N,1.0
+instruction,N,1.0
+poetry,N,1.0
+list,N,1.0
+instruction,Q,1.0
+list,Q,1.0

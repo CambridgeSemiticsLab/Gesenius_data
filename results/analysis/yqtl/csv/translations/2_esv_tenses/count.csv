@@ -1,38 +1,36 @@
 ,sum
-MOD shall,3745
-PRES,3538
-FUT,3055
-MOD let,955
-IMPV,822
-MOD may,789
-PAST,631
-MOD can,355
-MOD would,205
-MOD should,186
-MOD lest,140
-TO INF,135
-PRES PERF,125
-PRES PART,110
-MOD must,68
-MOD could,53
-MOD might,45
+MOD shall,3670
+PRES,3453
+FUT,2726
+PAST,608
+MOD may,415
+MOD can,350
+IMPV,254
+MOD should,179
+MOD would,179
+MOD lest,138
+PRES PERF,124
+PRES PART,105
+TO INF,90
+MOD let,88
+MOD must,62
+MOD could,49
+MOD might,37
 MOD is to,24
 HAB used to,17
 PAST PERF,13
 MOD was to,12
-PRES PROG,8
 MOD VB,8
-MOD that be,8
+PRES PROG,8
 PAST PROG,7
+MOD that be,6
 ?VB,4
-MOD,4
-FUT PROG,3
 PRES shall,3
+FUT PROG,2
 PRES do,2
 MOD need not,2
 FUT PERF,2
+MOD,2
 PRES can,1
 JJ,1
 MOD quest must,1
-IMPV not,1
-MOD that,1

@@ -1,12 +1,10 @@
 eng_TAMsimp == "MOD let" and genre == "prose" and domain2 == "Q"
-10 of 232
-let there be (ESV, NIV | BHS יְהִ֣י אֹ֑ור , Gen. 1:3)
-let us make (ESV, NIV | BHS וְנִכְרְתָ֥ה בְרִ֖ית עִמָּֽךְ׃ , Gen. 26:28)
-let me go up (ESV, NIV | BHS אֶֽעֱלֶה־נָּ֛א , Gen. 50:5)
-let be given (ESV, NIV | BHS יֻתַּ֞ן אֶת־הָאָ֧רֶץ הַזֹּ֛את לַעֲבָדֶ֖יךָ לַאֲחֻזָּ֑ה , Num. 32:5)
-let us flee, let’s retreat (ESV, NIV | BHS נָנ֨וּסָה֙ , Judg. 20:32)
-let me pin (ESV, NIV | BHS אַכֶּ֨נּוּ נָ֜א בַּחֲנִ֤ית וּבָאָ֨רֶץ֙ פַּ֣עַם אַחַ֔ת , I Sam. 26:8)
-let us fall (ESV, NIV | BHS נִפְּלָה־נָּ֤א בְיַד־יְהוָה֙ , II Sam. 24:14)
-let us send (ESV, NIV | BHS וְנִשְׁלְחָ֖ה , II Kgs. 7:13)
-let us make (ESV, NIV | BHS נִֽכְרָת־בְּרִ֣ית לֵ֠אלֹהֵינוּ , Ezra 10:3)
-let him go up (ESV, NIV | BHS וְיָֽעַל׃ , II Chr. 36:23)
+8 of 8
+they will let live, will let live (ESV, NIV | BHS וְאֹתָ֥ךְ יְחַיּֽוּ׃ , Gen. 12:12)
+he will let go (ESV, NIV | BHS וְאַחֲרֵי־כֵ֖ן יְשַׁלַּ֥ח אֶתְכֶֽם׃ , Exod. 3:20)
+he will let go (ESV, NIV | BHS וְלֹ֥א יְשַׁלַּ֖ח אֶת־הָעָֽם׃ , Exod. 4:21)
+will let go (ESV, NIV | BHS אָנֹכִ֞י אֲשַׁלַּ֤ח אֶתְכֶם֙ , Exod. 8:24)
+he will let go (ESV, NIV | BHS אַֽחֲרֵי־כֵ֕ן יְשַׁלַּ֥ח אֶתְכֶ֖ם מִזֶּ֑ה , Exod. 11:1)
+let remain, do let remain (ESV, NIV | BHS וְלֹא־יָלִ֣ין לַבֹּ֔קֶר זֶ֖בַח חַ֥ג הַפָּֽסַח׃ , Exod. 34:25)
+let us leave (ESV, NIV | BHS וְלֹֽא־נַשְׁאֵ֤ר בָּהֶם֙ אִ֔ישׁ , I Sam. 14:36)
+let depart, do let go (ESV, NIV | BHS כִּ֥י שַׁלֵּ֖חַ תְּשַׁלְּחֵֽנִי׃ , I Kgs. 11:22)

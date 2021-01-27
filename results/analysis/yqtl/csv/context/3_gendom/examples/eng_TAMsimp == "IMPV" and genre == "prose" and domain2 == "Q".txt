@@ -1,12 +1,12 @@
 eng_TAMsimp == "IMPV" and genre == "prose" and domain2 == "Q"
-10 of 268
+10 of 98
 make (ESV, NIV | BHS קִנִּ֖ים תַּֽעֲשֶׂ֣ה אֶת־הַתֵּבָ֑ה , Gen. 6:14)
-do be distressed (ESV, NIV | BHS אַל־תֵּעָ֣צְב֗וּ , Gen. 45:5)
-write (ESV, NIV | BHS וְאֵת֙ שֵׁ֣ם אַהֲרֹ֔ן תִּכְתֹּ֖ב עַל־מַטֵּ֣ה לֵוִ֑י , Num. 17:18)
-do make toil up, do weary (ESV, NIV | BHS אַל־תְּיַגַּע־שָׁ֨מָּה֙ אֶת־כָּל־הָעָ֔ם , Josh. 7:3)
-by all means return, by all means send (ESV, NIV | BHS כִּֽי־הָשֵׁ֥ב תָּשִׁ֛יבוּ לֹ֖ו אָשָׁ֑ם , I Sam. 6:3)
-do anoint yourself, use (ESV, NIV | BHS וְאַל־תָּס֨וּכִי֙ שֶׁ֔מֶן , II Sam. 14:2)
-put, do light (ESV, NIV | BHS וְאֵ֖שׁ לֹ֥א תָשִֽׂימוּ׃ , I Kgs. 18:25)
-do answer (ESV, NIV | BHS לֹ֥א תַעֲנֻֽהוּ׃ , Isa. 36:21)
-rally, join (ESV, NIV | BHS שָׁ֖מָּה תִּקָּבְצ֣וּ אֵלֵ֑ינוּ , Neh. 4:14)
-do believe (ESV, NIV | BHS וְאַל־תַּאֲמִ֣ינוּ לֹו֒ , II Chr. 32:15)
+put (ESV, NIV | BHS וְאֶת־גְּבִיעִ֞י גְּבִ֣יעַ הַכֶּ֗סֶף תָּשִׂים֙ בְּפִי֙ אַמְתַּ֣חַת הַקָּטֹ֔ן , Gen. 44:2)
+write (ESV, NIV | BHS אִ֣ישׁ אֶת־שְׁמֹ֔ו תִּכְתֹּ֖ב עַל־מַטֵּֽהוּ׃ , Num. 17:17)
+do fear, do be afraid (ESV, NIV | BHS לֹ֥א תִירָ֖א , Deut. 31:8)
+do sin (ESV, NIV | BHS וְלֹֽא־תֶחֶטְא֥וּ לַֽיהוָ֖ה , I Sam. 14:34)
+by all means pass over, cross over without fail (ESV, NIV | BHS וְגַ֖ם עָבֹ֣ור תַּעֲבֹ֑ור , II Sam. 17:16)
+hear (ESV, NIV | BHS אַתָּ֞ה תִּשְׁמַ֤ע הַשָּׁמַ֨יִם֙ מְכֹ֣ון שִׁבְתֶּ֔ךָ , I Kgs. 8:43)
+do answer (ESV, NIV | BHS לֹ֥א תַעֲנֻֽהוּ׃ , II Kgs. 18:36)
+seek, do seek (ESV, NIV | BHS וְלֹֽא־תִדְרְשׁ֧וּ שְׁלֹמָ֛ם וְטֹובָתָ֖ם עַד־עֹולָ֑ם , Ezra 9:12)
+do put to death (ESV, NIV | BHS לֹ֥א תְמִית֖וּהָ בֵּ֥ית יְהוָֽה׃ , II Chr. 23:14)
