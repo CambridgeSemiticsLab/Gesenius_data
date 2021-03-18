@@ -24,7 +24,14 @@ for node in F.pdp.s('verb'):
         continue 
 
     verb_form = get_verbform(node, bhsa, bhsa2gbi)
-    if verb_form == snakemake.wildcards.verb:
+    get_form = snakemake.wildcards.verb
+    
+    # handle cohortatives / jussives
+    if get_form == 'yqtl' and verb_form in {'jussM', 'cohoM'}:
+        samples.append(node)
+
+    # handle all other matching verbs
+    elif verb_form == get_form:
         samples.append(node)
 
 # export the samples as {verb}.json

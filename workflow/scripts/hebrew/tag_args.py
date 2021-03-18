@@ -164,7 +164,7 @@ def tag_word_arg(word, api):
     tag = ''
     if F.pdp.v(word) in pdp_set:
         tag += f'_{F.lex.v(word)}_'
-    elif F.pdp.v(word) == 'verb':
+    elif F.sp.v(word) == 'verb':
         tag += 'V'
     return tag 
 

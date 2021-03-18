@@ -190,9 +190,10 @@ rule lxx_tables:
     input:
         sample=rules.get_samples.output.file, 
         lxx="_private_/verb_data/bhsa2lxx.json",
+        lxx_verses="_private_/verb_data/lxx_verses.json",
         scripts=list(lxx_scripts.glob("*.py")),
     output:
-        lxx="../results/datasets/{verb}/lxx.csv"
+        lxx="../results/datasets/{verb}/lxx.csv",
     script:
         "scripts/lxx/build_lxx_tables.py"
 
@@ -221,12 +222,13 @@ rule analyze_verb:
 # - visualize analyses -
 rule table_styles:
     input:
-        "html/tables.css"
+        tables="html/tables.css",
+        menu="html/menu_style.css"
     output:
-        dir=directory("../results/analysis/css"),
-        css="../results/analysis/css/tables.css"
+        tables="../results/analysis/css/tables.css",
+        menu="../results/analysis/css/menu_style.css"
     shell:
-        "cp {input} {output.dir}/."
+        "cp {input.tables} {output.tables}; cp {input.menu} {output.menu}"
 
 visual_script = "scripts/analysis/visualize_results.py" 
 rule visualize_verb:
@@ -234,7 +236,8 @@ rule visualize_verb:
         results=rules.analyze_verb.output.dir,
         visualizers="scripts/analysis/analysis_vis.py",
         script=visual_script,
-        tablestyles=rules.table_styles.output.css
+        tablestyles=rules.table_styles.output.tables,
+        menustyle=rules.table_styles.output.menu
     output:
         dir=directory("../results/analysis/{verb}/html/{analysis_name}")
     script:

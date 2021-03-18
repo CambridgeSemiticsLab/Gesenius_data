@@ -1,0 +1,49 @@
+/* Menu div */
+
+.menu_div {
+    width: 25%;
+}
+
+/* Links */
+a {
+    color: #686868;
+}
+a:visited {
+  color: #686868;
+}
+
+/* Collapsible Menu */
+/* source: https://code-boxx.com/css-collapsible-tree-menu/#sec-tree */
+
+/* LIST TO MENU */
+.tree, .section ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.tree {
+  background: #fbfbfb;
+  border: 1px solid #d2d2d2;
+}
+.tree li {
+  border-bottom: 1px solid #d2d2d2;
+  padding: 5px 30px;
+}
+.tree li:last-child {
+  border: 0;
+}
+
+/* TOGGLE SHOW/HIDE */
+.section ul { display: none; }
+.section input:checked ~ ul { display: block; }
+.section input[type=checkbox] { display: none; }
+
+/* SUB-SECTION ITEMS */
+.section ul { margin-top: 10px; }
+.section ul li { color: black; }
+
+/* DOES NOT MATTER */
+.tree {
+  font-family: Helvetica, sans-serif;
+  font-size: 12;
+}

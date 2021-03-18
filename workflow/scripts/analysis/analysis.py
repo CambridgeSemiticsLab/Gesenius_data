@@ -80,12 +80,17 @@ class Analyze:
                 self.dp2 = sig.apply_deltaP(self.count.T, 0, 1)
 
         # run one dimensional analyses
-        else:
+        elif 'index' in pivot_kwargs:
             self.count = pd.DataFrame(data[pivot_kwargs['index']].value_counts())
             self.count.columns = ['sum']
             self.count = self.count.sort_values(by='sum', ascending=False)
             self.prop = self.count / self.count.sum()
             self.sum = pd.DataFrame(self.count.sum())
+
+        # set up an empty analysis object which can 
+        # be subsequently filled with attribute assigns
+        else:
+            pass
 
 def get_table_headers(df):
     """Identify table headers by indices and store in a dictionary."""
@@ -94,6 +99,24 @@ def get_table_headers(df):
         'index_col': get_indices(df.index),
         'header': get_indices(df.columns)
     }
+
+def add_hit_symbols(text, search, symbol='_'):
+    """Use re to find matches and insert hit symbols."""
+    find = f'({search})'
+    replace = f'{symbol}\g<1>{symbol}'
+    return re.sub(find, replace, text)
+
+def clean_puncts(text):
+    """Fix space-separated punctuations."""
+    text = re.sub(' ([,.?!;”:’])', '\g<1>', text)
+    text = re.sub('([“‘]) ', '\g<1>', text)
+    return text
+    
+def clean_roman_nums(text):
+    """Replace Roman numerals in the verse ref."""
+    text = re.sub('^I ', '1 ', text)
+    text = re.sub('^II ', '2 ', text)
+    return text
 
 def make_text_examples(df, ex_params):
     """Build copy and pastable text samples."""
@@ -109,31 +132,37 @@ def make_text_examples(df, ex_params):
 
     # or process into examples:
     spread = ex_params.get('spread', 25)
-    spread_i = get_spread(df.index, spread)
-    df = df.loc[spread_i]
+    if spread != -1:
+        spread_i = get_spread(df.index, spread)
+        df = df.loc[spread_i]
 
     # sort out texts
     # NB that esv and niv texts might also be similarly formatted later on
     bhs_joiner = ex_params.get('bhs_joiner', '')
-    bhs_text = ex_params.get('bhs_text', ['clause_atom'])
+    bhs_text = ex_params.get('bhs_text', ['sentence'])
     bhs_text = df[bhs_text].astype(str).agg(bhs_joiner.join, axis=1)
     
     exs = [query, f'{df.shape[0]} of {n_results}']
 
-    for node in df.index:
+    for i, node in enumerate(df.index):
         ref = df.loc[node]['ref_abbr']
-        esv = df.loc[node]['esv'].lower()
-        niv = df.loc[node]['niv'].lower()
-        # fix lowercase i
-        lower_i = re.compile(r'\bi\b')
-        esv, niv = lower_i.sub('I', esv), lower_i.sub('I', niv)
-        bhs = bhs_text[node]
-            
-        if niv == esv:
-            ex = f'{esv} (ESV, NIV | BHS {bhs}, {ref})'
-        else:
-            ex = f'{esv}, {niv} (ESV, NIV | BHS {bhs}, {ref})'
-        
+        esv = df.loc[node]['esv']
+        niv = df.loc[node]['niv']
+        esv_verse = df.loc[node]['esv_verse']
+        niv_verse = df.loc[node]['niv_verse']
+        bhs = bhs_text[node].strip()
+        heb = df.loc[node]['text_full']
+
+        # add formatting to verse texts
+        ref = clean_roman_nums(ref)
+        esv_verse = add_hit_symbols(esv_verse, esv)
+        niv_verse = add_hit_symbols(niv_verse, niv)
+        bhs = add_hit_symbols(bhs, heb)
+        esv_verse = clean_puncts(esv_verse)
+        niv_verse = clean_puncts(niv_verse)
+
+        # build and add example text
+        ex = f'(x)\t{bhs}\t{ref}\nNIV\t{niv_verse}\nESV\t{esv_verse}\n'
         exs.append(ex)
         
     return exs
@@ -141,46 +170,56 @@ def make_text_examples(df, ex_params):
 def run_analysis(params, outdir, round=2, table_headers={}):
     """Execute an analysis with specified parameters"""
 
-    do_fishers = params.get('fishers', True),
+    # -- Run analysis on data tables --
 
-    # execute the analysis using the provided parameters
-    args = {'name', 'df', 'examples', 'special'}
-    pivot_kwargs = {k:v for k,v in params.items() if k not in args}
-    analysis = Analyze(
-        params['df'], 
-        **pivot_kwargs
-    )
+    analysis_data = {}
 
-    # run any special analyses
+    if 'index' in params:
+        # execute the analysis using the provided parameters
+        pivot_kwargs = {'index', 'columns', 'pivot_kwargs'}
+        pivot_kwargs = {k:v for k,v in params.items() if k in pivot_kwargs}
+        analysis = Analyze(
+            params['df'], 
+            **pivot_kwargs
+        )
+
+        # save analysis
+        for name, df in analysis.__dict__.items():
+            analysis_data[name] = df
+
+   # run any special analyses
     for sa in params.get('special', []):
 
         # determine dataframe
         df = sa['df']
         if type(df) == str:
-            df = analysis.__dict__[df] 
+            df = analysis_data[df] 
 
         # run the special analysis and store as attribute
         do_funct = sa['do']
         sa_do = do_funct(df, **sa.get('kwargs', {}))
         for key, val in sa_do.items():
-            setattr(analysis, key, val)
-
-    # construct examples
-    exs = {}
-    for ex_param in params.get('examples', []):
-       exs[ex_param['query']] = make_text_examples(params['df'], ex_param) 
+            analysis_data[key] = val
 
     # prepare paths for exports
     outdir = Path(outdir).joinpath(params['name'])
     if not outdir.exists():
         outdir.mkdir(parents=True)
 
-    # export the data tables
-    for name, df in analysis.__dict__.items():
+    # export tables
+    for name, df in analysis_data.items():
         outfile = outdir.joinpath(f'{name}.csv')
         df = df.round(round)
         table_headers[name] = get_table_headers(df) # save table header params
         df.to_csv(str(outfile), index=True)
+
+    # -- Extract text examples --
+
+    # construct examples
+    exs = {}
+    for ex_param in params.get('examples', []):
+        example_df = ex_param.get('df', params['df']) 
+        exs[ex_param['query']] = make_text_examples(example_df, ex_param) 
 
     # export text examples
     ex_dir = outdir.joinpath('examples')
@@ -191,8 +230,6 @@ def run_analysis(params, outdir, round=2, table_headers={}):
         textfile = ex_dir.joinpath(f'{name}.txt')
         textfile.write_text('\n'.join(exs))
 
-        # TODO? df for visualizations
-        
 def run_analyses(analysis_params, out_dir):
     """Execute a set of analyses."""
 

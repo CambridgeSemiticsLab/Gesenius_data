@@ -82,7 +82,7 @@ def main_row(node):
     cl_type_simp = simplify_cl_type(clause_atom, prec_lexes, bhsa)
     cl_args = clause_args(node, bhsa)
     has_q = ('Q' in cl_args) * 1 # look for question particles
-    cl_args = re.match('.*V', cl_args)[0] # NB ignore post-verbal arguments
+#    cl_args = re.match('.*V', cl_args)[0] # NB ignore post-verbal arguments
 
     # collect preceding particles only
     particle_types = {'nega', 'advb', 'prep', 'conj', 'prde', 'prin', 'intj', 'inrg'}
@@ -120,7 +120,7 @@ def main_row(node):
             'clause_type': clause_type,
             'cltype_simp': cl_type_simp,
             'clause_rela': clause_relator(clause, bhsa),
-            'cl_args': cl_args,
+#            'cl_args': cl_args,
             'is_question': has_q,
             'prec_lexes': prec_lexes,
             'prec_pos': prec_pos,

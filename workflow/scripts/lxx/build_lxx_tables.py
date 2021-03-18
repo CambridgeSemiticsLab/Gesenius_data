@@ -1,7 +1,6 @@
 """
 Build LXX data.
 """
-
 import sys
 import json
 from pathlib import Path
@@ -28,6 +27,7 @@ def build_row(node):
         'lxx_mood': lxx_word.get('mood', ''),
         'lxx_person': lxx_word.get('person', ''),
         'lxx_number': lxx_word.get('number', ''),
+        'lxx_verse': lxx_word.get('LXX_verse', ''),
     })
     
     # make lxx tense strings

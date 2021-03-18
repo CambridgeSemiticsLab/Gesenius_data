@@ -16,7 +16,6 @@ ambiguous_pasts = [
 ]
 
 rules = [
-
 # -- present tense --
     (
         '?PRES',

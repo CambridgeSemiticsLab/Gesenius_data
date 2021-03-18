@@ -3,13 +3,13 @@ from positions import PositionsTF
 def parse_gbi_yiqtol(tag):
     """Parse a GBI yiqtol tag into cohortative and jussives."""
     if tag.endswith('Jm'):
-        return 'jussM'
+        return 'yqtl'
     elif tag.endswith('Jt'):
         return 'jussF'
     elif tag.endswith('Cm'):
-        return 'cohoM'
+        return 'yqtl'
     elif tag.endswith('Ct'):
-        return 'cohoT'
+        return 'cohoF'
 
 def get_verbform(node, api, bhsa2gbi):
     """Remap BHSA verb tense values to custom values

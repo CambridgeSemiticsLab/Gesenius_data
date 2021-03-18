@@ -106,7 +106,7 @@ versestoparse = get_verses(english_verbs)
 
 # dump the files
 dump = [
-    (snakemake.output.matches, verb_bhsa2gbi),
+    (snakemake.output.bhsa2gbi, verb_bhsa2gbi),
     (snakemake.output.eng_verbs, english_verbs),
     (snakemake.output.versestoparse, versestoparse),
 ]
