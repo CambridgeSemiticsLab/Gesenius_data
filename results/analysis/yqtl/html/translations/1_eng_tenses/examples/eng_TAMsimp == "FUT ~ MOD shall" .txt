@@ -1,27 +1,101 @@
 eng_TAMsimp == "FUT ~ MOD shall" 
-25 of 1727
-you shall surely die, you will surely die (ESV, NIV | BHS מֹ֥ות תָּמֽוּת׃ , Gen. 2:17)
-shall go down, will go down (ESV, NIV | BHS לֹֽא־יֵרֵ֥ד בְּנִ֖י עִמָּכֶ֑ם , Gen. 42:38)
-shall be unclean, will be unclean (ESV, NIV | BHS יִטְמָ֥א עַד־הָעָֽרֶב׃ , Lev. 11:31)
-shall be, will be (ESV, NIV | BHS וּ֠בְנֵיכֶם יִהְי֨וּ רֹעִ֤ים בַּמִּדְבָּר֙ אַרְבָּעִ֣ים שָׁנָ֔ה , Num. 14:33)
-shall hear, will hear (ESV, NIV | BHS וְהַנִּשְׁאָרִ֖ים יִשְׁמְע֣וּ , Deut. 19:20)
-shall be, will be (ESV, NIV | BHS לְךָ֨ תִֽהְיֶ֧ה לְנַחֲלָ֛ה , Josh. 14:9)
-shall be burned, will be burned (ESV, NIV | BHS וְעַצְמֹ֥ות אָדָ֖ם יִשְׂרְפ֥וּ עָלֶֽיךָ׃ , I Kgs. 13:2)
-shall go, will go out (ESV, NIV | BHS כִּ֤י מִצִּיֹּון֙ תֵּצֵ֣א תֹורָ֔ה , Isa. 2:3)
-shall see, they will see (ESV, NIV | BHS הֵ֛מָּה יִרְא֥וּ כְבֹוד־יְהוָ֖ה הֲדַ֥ר אֱלֹהֵֽינוּ׃ ס , Isa. 35:2)
-shall come, they will come (ESV, NIV | BHS הִנֵּה־אֵ֕לֶּה מֵרָחֹ֖וק יָבֹ֑אוּ , Isa. 49:12)
-shall be utterly laid waste, it will be utterly ruined (ESV, NIV | BHS וְהַגֹּויִ֖ם חָרֹ֥ב יֶחֱרָֽבוּ׃ , Isa. 60:12)
-they shall follow, will they follow (ESV, NIV | BHS וְלֹא־יֵלְכ֣וּ עֹ֔וד אַחֲרֵ֕י שְׁרִר֖וּת לִבָּ֥ם הָרָֽע׃ ס , Jer. 3:17)
-they shall fear, they will be afraid (ESV, NIV | BHS וְלֹא־יִֽירְא֨וּ עֹ֧וד , Jer. 23:4)
-you shall be delivered, you will be handed over (ESV, NIV | BHS בְּיַ֥ד מֶֽלֶךְ־בָּבֶ֖ל תִּנָּתֵֽן׃ ס , Jer. 37:17)
-shall dwell, will live (ESV, NIV | BHS לֹֽא־יֵשֵׁ֥ב שָׁם֙ אִ֔ישׁ , Jer. 50:40)
-he shall surely live, he will surely live (ESV, NIV | BHS חָיֹ֥ה יִחְיֶֽה׃ , Ezek. 18:17)
-shall go out, will go out (ESV, NIV | BHS בַּיֹּ֣ום הַה֗וּא יֵצְא֨וּ מַלְאָכִ֤ים מִלְּפָנַי֙ בַּצִּ֔ים , Ezek. 30:9)
-shall be, will be (ESV, NIV | BHS וְהֵ֖מָּה יִֽהְיוּ־לִ֥י לְעָֽם׃ , Ezek. 37:27)
-they shall fall, they will fall (ESV, NIV | BHS בַּחֶ֣רֶב יִפֹּ֔לוּ , Hos. 14:1)
-shall they learn, will they train (ESV, NIV | BHS וְלֹא־יִלְמְד֥וּן עֹ֖וד מִלְחָמָֽה׃ , Mic. 4:3)
-shall give, will drop (ESV, NIV | BHS וְהַשָּׁמַ֖יִם יִתְּנ֣וּ טַלָּ֑ם , Zech. 8:12)
-shall be cut off, will be cut off (ESV, NIV | BHS וּ֝מְקֻלָּלָ֗יו יִכָּרֵֽתוּ׃ , Psa. 37:22)
-shall sit, will sit (ESV, NIV | BHS גַּם־בְּנֵיהֶ֥ם עֲדֵי־עַ֑ד יֵ֝שְׁב֗וּ לְכִסֵּא־לָֽךְ׃ , Psa. 132:12)
-he shall stand, he will establish himself (ESV, NIV | BHS וְיַעֲמֹ֥ד בְּאֶֽרֶץ־הַצְּבִ֖י , Dan. 11:16)
-shall see, will see (ESV, NIV | BHS וְלֹא־תִרְאֶ֣ינָה עֵינֶ֔יךָ בְּכֹל֙ הָֽרָעָ֔ה , II Chr. 34:28)
+25 of 1747
+(x)	כִּ֗י בְּיֹ֛ום אֲכָלְךָ֥ מִמֶּ֖נּוּ מֹ֥ות _תָּמֽוּת_׃ (Gen. 2:17)
+NIV	but you must not eat from the tree of the knowledge of good and evil, for when you eat of it _you will surely die_.”
+ESV	but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it _you shall surely die_.”
+
+(x)	לֹֽא־_תִרְא֣וּ_ פָנַ֔י (Gen. 43:3)
+NIV	But Judah said to him, “The man warned us solemnly, ‘You will not see my face again unless your brother is with you.’
+ESV	But Judah said to him, “The man solemnly warned us, saying, ‘You shall not see my face unless your brother is with you.’
+
+(x)	וְכֹ֣ל אֲשֶׁר־יִפֹּל־עָלָיו֩ מֵהֶ֨ם׀ בְּמֹתָ֜ם _יִטְמָ֗א_ מִכָּל־כְּלִי־עֵץ֙ אֹ֣ו בֶ֤גֶד אֹו־עֹור֙ אֹ֣ו שָׂ֔ק (Lev. 11:32)
+NIV	When one of them dies and falls on something, that article, whatever its use, _will be unclean_, whether it is made of wood, cloth, hide or sackcloth. Put it in water. it _will be unclean_ till evening, and then it will be clean.
+ESV	And anything on which any of them falls when they are dead _shall be unclean_, whether it is an article of wood or a garment or a skin or a sack, any article that is used for any purpose. It must be put into water, and it _shall be unclean_ until the evening. then it shall be clean.
+
+(x)	בַּמִּדְבָּ֥ר הַזֶּ֛ה _יִתַּ֖מּוּ_ (Num. 14:35)
+NIV	I, the LORD, have spoken, and I will surely do these things to this whole wicked community, which has banded together against me. _They will meet their end_ in this desert. here they will die.”
+ESV	I, the Lord, have spoken. Surely this will I do to all this wicked congregation who are gathered together against me: in this wilderness _they shall come to a full end_, and there they shall die.”
+
+(x)	וְהַנִּשְׁאָרִ֖ים _יִשְׁמְע֣וּ_ (Deut. 19:20)
+NIV	The rest of the people _will hear_ of this and be afraid, and never again will such an evil thing be done among you.
+ESV	And the rest _shall hear_ and fear, and shall never again commit any such evil among you.
+
+(x)	לֹֽא־_יִהְיֶ֥ה_ לְךָ֖ גֹּורָ֥ל אֶחָֽד׃ (Josh. 17:17)
+NIV	But Joshua said to the house of Joseph — to Ephraim and Manasseh — “You are numerous and very powerful. You _will have_ not only one allotment
+ESV	Then Joshua said to the house of Joseph, to Ephraim and Manasseh, “You are a numerous people and have great power. You shall not have one allotment only,
+
+(x)	כִּי֩ הָיֹ֨ה _יִהְיֶ֜ה_ הַדָּבָ֗ר אֲשֶׁ֤ר קָרָא֙ בִּדְבַ֣ר יְהוָ֔ה עַל־הַמִּזְבֵּ֖חַ אֲשֶׁ֣ר בְּבֵֽית־אֵ֑ל וְעַל֙ כָּל־בָּתֵּ֣י הַבָּמֹ֔ות אֲשֶׁ֖ר בְּעָרֵ֥י שֹׁמְרֹֽון׃ פ (I Kgs. 13:32)
+NIV	For the message he declared by the word of the LORD against the altar in Bethel and against all the shrines on the high places in the towns of Samaria _will certainly come true_.”
+ESV	For the saying that he called out by the word of the Lord against the altar in Bethel and against all the houses of the high places that are in the cities of Samaria _shall surely come to pass_.”
+
+(x)	לֹא־_יִשָּׂ֨א_ גֹ֤וי אֶל־גֹּוי֙ חֶ֔רֶב (Isa. 2:4)
+NIV	He will judge between the nations and will settle disputes for many peoples. They will beat their swords into ploughshares and their spears into pruning hooks. Nation will not take up sword against nation, nor will they train for war any more.
+ESV	He shall judge between the nations, and shall decide disputes for many peoples. and they shall beat their swords into plowshares, and their spears into pruning hooks. nation shall not lift up sword against nation, neither shall they learn war anymore.
+
+(x)	אָ֥ז _תִּפָּקַ֖חְנָה_ עֵינֵ֣י עִוְרִ֑ים (Isa. 35:5)
+NIV	Then will the eyes of the blind be opened and the ears of the deaf unstopped.
+ESV	Then the eyes of the blind _shall be opened_, and the ears of the deaf unstopped.
+
+(x)	כִּ֤י כֻלָּם֙ כָּעֲדִ֣י _תִלְבָּ֔שִׁי_ (Isa. 49:18)
+NIV	Lift up your eyes and look around. all your sons gather and come to you. As surely as I live,” declares the LORD, “_you will wear_ them all as ornaments. you will put them on, like a bride.
+ESV	Lift up your eyes around and see. they all gather, they come to you. As I live, declares the Lord, you shall put them all on as an ornament. you shall bind them on as a bride does.
+
+(x)	וְשֹׁ֥ד מְלָכִ֖ים _תִּינָ֑קִי_ (Isa. 60:16)
+NIV	You will drink the milk of nations and _be nursed_ at royal breasts. Then you will know that I, the LORD, am your Saviour, your Redeemer, the Mighty One of Jacob.
+ESV	You shall suck the milk of nations. _you shall nurse_ at the breast of kings. and you shall know that I, the Lord, am your Savior and your Redeemer, the Mighty One of Jacob.
+
+(x)	_יֹאבַ֥ד_ לֵב־הַמֶּ֖לֶךְ וְלֵ֣ב הַשָּׂרִ֑ים (Jer. 4:9)
+NIV	“In that day,” declares the LORD, “the king and the officials _will lose_ heart, the priests will be horrified, and the prophets will be appalled.”
+ESV	“In that day, declares the Lord, courage _shall fail_ both king and officials. The priests shall be appalled and the prophets astounded.”
+
+(x)	_יִדַּ֖חוּ_ (Jer. 23:12)
+NIV	“Therefore their path will become slippery. _they will be banished_ to darkness and there they will fall. I will bring disaster on them in the year they are punished,” declares the LORD.
+ESV	Therefore their way shall be to them like slippery paths in the darkness, into which _they shall be driven_ and fall, for I will bring disaster upon them in the year of their punishment, declares the Lord.
+
+(x)	לֹ֣א _יִתֵּ֑נוּ_ (Jer. 38:20)
+NIV	“They will not hand you over,” Jeremiah replied. “Obey the LORD by doing what I tell you. Then it will go well with you, and your life will be spared.
+ESV	Jeremiah said, “You shall not be given to them. Obey now the voice of the Lord in what I say to you, and it shall be well with you, and your life shall be spared.
+
+(x)	בְּעֵ֥ת פְּקֻדָּתָ֖ם _יֹאבֵֽדוּ_׃ (Jer. 51:18)
+NIV	They are worthless, the objects of mockery. when their judgment comes, _they will perish_.
+ESV	They are worthless, a work of delusion. at the time of their punishment _they shall perish_.
+
+(x)	וְרִשְׁעַ֥ת הָרָשָׁ֖ע עָלָ֥יו _תִּֽהְיֶֽה_׃ ס (Ezek. 18:20)
+NIV	The soul who sins is the one who will die. The son will not share the guilt of the father, nor will the father share the guilt of the son. The righteousness of the righteous man will be credited to him, and the wickedness of the wicked _will be charged_ against him.
+ESV	The soul who sins shall die. The son shall not suffer for the iniquity of the father, nor the father suffer for the iniquity of the son. The righteousness of the righteous _shall be_ upon himself, and the wickedness of the wicked _shall be_ upon himself.
+
+(x)	הִ֚יא עָנָ֣ן _יְכַסֶּ֔נָּה_ וּבְנֹותֶ֖יהָ בַּשְּׁבִ֥י תֵלַֽכְנָה׃ (Ezek. 30:18)
+NIV	Dark will be the day at Tahpanhes when I break the yoke of Egypt. there her proud strength will come to an end. She _will be covered_ with clouds, and her villages will go into captivity.
+ESV	At Tehaphnehes the day shall be dark, when I break there the yoke bars of Egypt, and her proud might shall come to an end in her. she _shall be covered_ by a cloud, and her daughters shall go into captivity.
+
+(x)	לִֽשְׁכֹ֨ות הַצָּפֹ֜ון לִֽשְׁכֹ֣ות הַדָּרֹום֮ אֲשֶׁ֣ר אֶל־פְּנֵ֣י הַגִּזְרָה֒ הֵ֣נָּה׀ לִֽשְׁכֹ֣ות הַקֹּ֗דֶשׁ אֲשֶׁ֨ר _יֹאכְלוּ_־שָׁ֧ם הַכֹּהֲנִ֛ים אֲשֶׁר־קְרֹובִ֥ים לַֽיהוָ֖ה קָדְשֵׁ֣י הַקֳּדָשִׁ֑ים (Ezek. 42:13)
+NIV	Then he said to me, “The north and south rooms facing the temple courtyard are the priests’ rooms, where the priests who approach the LORD _will eat_ the most holy offerings. There they will put the most holy offerings — the grain offerings, the sin offerings and the guilt offerings — for the place is holy.
+ESV	Then he said to me, “The north chambers and the south chambers opposite the yard are the holy chambers, where the priests who approach the Lord _shall eat_ the most holy offerings. There they shall put the most holy offerings — the grain offering, the sin offering, and the guilt offering — for the place is holy.
+
+(x)	זִקְנֵיכֶם֙ חֲלֹמֹ֣ות _יַחֲלֹמ֔וּן_ (Joel 3:1)
+NIV	“And afterwards, I will pour out my Spirit on all people. Your sons and daughters will prophesy, your old men _will dream_ dreams, your young men will see visions.
+ESV	“And it shall come to pass afterward, that I will pour out my Spirit on all flesh. your sons and your daughters shall prophesy, your old men _shall dream_ dreams, and your young men shall see visions.
+
+(x)	אַתָּ֤ה _תֹאכַל֙_ (Mic. 6:14)
+NIV	You _will eat_ but not be satisfied. your stomach will still be empty. You will store up but save nothing, because what you save I will give to the sword.
+ESV	You _shall eat_, but not be satisfied, and there shall be hunger within you. you shall put away, but not preserve, and what you preserve I will give to the sword.
+
+(x)	וְ_תָחִ֣יל_ מְאֹ֔ד (Zech. 9:5)
+NIV	Ashkelon will see it and fear. Gaza _will writhe in agony_, and Ekron too, for her hope will wither. Gaza will lose her king and Ashkelon will be deserted.
+ESV	Ashkelon shall see it, and be afraid. Gaza too, and _shall writhe in anguish_. Ekron also, because its hopes are confounded. The king shall perish from Gaza. Ashkelon shall be uninhabited.
+
+(x)	כִּי־עֹ֣וד _אֹודֶ֑נּוּ_ יְשׁוּעֹ֥ת פָּ֝נַ֗י וֵֽאלֹהָֽי׃ (Psa. 42:12)
+NIV	Why are you downcast, O my soul? Why so disturbed within me? Put your hope in God, for I will yet praise him, my Savior and my God.
+ESV	Why are you cast down, O my soul, and why are you in turmoil within me? Hope in God. for I shall again praise him, my salvation and my God.
+
+(x)	גַּם־שָׁ֭ם יָדְךָ֣ תַנְחֵ֑נִי וְֽ_תֹאחֲזֵ֥נִי_ יְמִינֶֽךָ׃ (Psa. 139:10)
+NIV	even there your hand will guide me, your right hand will hold me fast.
+ESV	even there your hand shall lead me, and your right hand _shall hold_ me.
+
+(x)	וְ_יַ֨עַשׂ_ הַבָּ֤א אֵלָיו֙ כִּרְצֹונֹ֔ו (Dan. 11:16)
+NIV	The invader _will do_ as he pleases. no-one will be able to stand against him. He will establish himself in the Beautiful Land and will have the power to destroy it.
+ESV	But he who comes against him shall do as he wills, and none shall stand before him. And he shall stand in the glorious land, with destruction in his hand.
+
+(x)	וְלֹא־_תִרְאֶ֣ינָה_ עֵינֶ֔יךָ בְּכֹל֙ הָֽרָעָ֔ה אֲשֶׁ֨ר אֲנִ֥י מֵבִ֛יא עַל־הַמָּקֹ֥ום הַזֶּ֖ה וְעַל־יֹשְׁבָ֑יו (II Chr. 34:28)
+NIV	Now I will gather you to your fathers, and you will be buried in peace. Your eyes will not see all the disaster I am going to bring on this place and on those who live here.’” So they took her answer back to the king.
+ESV	Behold, I will gather you to your fathers, and you shall be gathered to your grave in peace, and your eyes shall not see all the disaster that I will bring upon this place and its inhabitants.’” And they brought back word to the king.

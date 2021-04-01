@@ -1,27 +1,101 @@
 eng_TAMsimp == "FUT" and has_objc == 1 
-25 of 1143
-I will make (ESV, NIV | BHS אֶֽעֱשֶׂהּ־לֹּ֥ו עֵ֖זֶר כְּנֶגְדֹּֽו׃ , Gen. 2:18)
-will lift up, will lift off (ESV, NIV | BHS בְּעֹ֣וד׀ שְׁלֹ֣שֶׁת יָמִ֗ים יִשָּׂ֨א פַרְעֹ֤ה אֶת־רֹֽאשְׁךָ֙ מֵֽעָלֶ֔יךָ , Gen. 40:19)
-I will multiply, I will make numerous (ESV, NIV | BHS אַרְבֶּה֙ אֶֽת־זַרְעֲכֶ֔ם כְּכֹוכְבֵ֖י הַשָּׁמָ֑יִם , Exod. 32:13)
-I will make (ESV, NIV | BHS וְאֶֽעֱשֶׂה֙ אֹֽותְךָ֔ לְגֹוי־, Deut. 9:14)
-we will do (ESV, NIV | BHS נַֽעֲשֶׂ֔ה , Josh. 1:16)
-you will find (ESV, NIV | BHS כֵּ֣ן תִּמְצְא֣וּן אֹתֹ֡ו , I Sam. 9:13)
-I will offer, I will sacrifice (ESV, NIV | BHS וְלֹ֧א אַעֲלֶ֛ה לַיהוָ֥ה אֱלֹהַ֖י עֹלֹ֣ות חִנָּ֑ם , II Sam. 24:24)
-will surely deliver (ESV, NIV | BHS הַצֵּ֥ל יַצִּילֵ֖נוּ יְהוָ֑ה , II Kgs. 18:30)
-will be pulled down, will be ousted (ESV, NIV | BHS וּמִמַּעֲמָֽדְךָ֖ יֶהֶרְסֶֽךָ׃ , Isa. 22:19)
-I will lay waste (ESV, NIV | BHS אַחֲרִ֤יב הָרִים֙ וּגְבָעֹ֔ות , Isa. 42:15)
-I will gather, I will bring back (ESV, NIV | BHS וּבְרַחֲמִ֥ים גְּדֹלִ֖ים אֲקַבְּצֵֽךְ׃ , Isa. 54:7)
-I will give, I will put (ESV, NIV | BHS וּשְׁאֵֽרִיתָ֗ם לַחֶ֧רֶב אֶתֵּ֛ן לִפְנֵ֥י אֹיְבֵיהֶ֖ם , Jer. 15:9)
-I will restore (ESV, NIV | BHS כִּֽי־אָשִׁ֥יב אֶת־שְׁבוּתָ֖ם , Jer. 33:26)
-will it be said, will ask (ESV, NIV | BHS הֲלֹוא֙ יֵאָמֵ֣ר אֲלֵיכֶ֔ם , Ezek. 13:12)
-I will seek, I will search for (ESV, NIV | BHS אֶת־הָאֹבֶ֤דֶת אֲבַקֵּשׁ֙ , Ezek. 34:16)
-I will drive out (ESV, NIV | BHS עַ֚ל רֹ֣עַ מַֽעַלְלֵיהֶ֔ם מִבֵּיתִ֖י אֲגָרְשֵׁ֑ם , Hos. 9:15)
-I will gather, I will surely bring together (ESV, NIV | BHS קַבֵּ֤ץ אֲקַבֵּץ֙ שְׁאֵרִ֣ית יִשְׂרָאֵ֔ל , Mic. 2:12)
-I will answer (ESV, NIV | BHS וְאֶעֱנֵֽם׃ , Zech. 10:6)
-will praise (ESV, NIV | BHS הֲיֹודְךָ֥ עָפָ֑ר , Psa. 30:10)
-comfort (ESV, NIV | BHS תְּֽנַחֲמֵֽנִי׃ , Psa. 71:21)
-will fear (ESV, NIV | BHS וְיִֽירְא֣וּ גֹ֭ויִם אֶת־שֵׁ֣ם יְהוָ֑ה , Psa. 102:16)
-will forget (ESV, NIV | BHS כִּי־אַ֭תָּה עָמָ֣ל תִּשְׁכָּ֑ח , Job 11:16)
-will you love (ESV, NIV | BHS תְּֽאֵהֲב֫וּ פֶ֥תִי , Prov. 1:22)
-we will make (ESV, NIV | BHS תֹּורֵ֤י זָהָב֙ נַעֲשֶׂה־לָּ֔ךְ עִ֖ם נְקֻדֹּ֥ות הַכָּֽסֶף׃ , Song 1:11)
-will gather (ESV, NIV | BHS הִנְנִ֨י אֹֽסִפְךָ֜ אֶל־אֲבֹתֶ֗יךָ , II Chr. 34:28)
+25 of 1216
+(x)	_אֶֽעֱשֶׂהּ_־לֹּ֥ו עֵ֖זֶר כְּנֶגְדֹּֽו׃ (Gen. 2:18)
+NIV	The LORD God said, “It is not good for the man to be alone. _I will make_ a helper suitable for him.”
+ESV	Then the Lord God said, “It is not good that the man should be alone. _I will make_ him a helper fit for him.”
+
+(x)	בְּעֹ֣וד׀ שְׁלֹ֣שֶׁת יָמִ֗ים _יִשָּׂ֨א_ פַרְעֹ֤ה אֶת־רֹֽאשְׁךָ֙ מֵֽעָלֶ֔יךָ (Gen. 40:19)
+NIV	Within three days Pharaoh _will lift off_ your head and hang you on a tree. And the birds will eat away your flesh.”
+ESV	In three days Pharaoh _will lift up_ your head — from you! — and hang you on a tree. And the birds will eat the flesh from you.”
+
+(x)	וְכָל־הָאָ֨רֶץ הַזֹּ֜את אֲשֶׁ֣ר אָמַ֗רְתִּי _אֶתֵּן֙_ לְזַרְעֲכֶ֔ם וְנָחֲל֖וּ לְעֹלָֽם׃ (Exod. 32:13)
+NIV	Remember your servants Abraham, Isaac and Israel, to whom you swore by your own self: ‘I will make your descendants as numerous as the stars in the sky and _I will give_ your descendants all this land I promised them, and it will be their inheritance forever.’”
+ESV	Remember Abraham, Isaac, and Israel, your servants, to whom you swore by your own self, and said to them, ‘I will multiply your offspring as the stars of heaven, and all this land that I have promised _I will give_ to your offspring, and they shall inherit it forever.’”
+
+(x)	פַּחְדְּכֶ֨ם וּמֹֽורַאֲכֶ֜ם _יִתֵּ֣ן_׀ יְהוָ֣ה אֱלֹֽהֵיכֶ֗ם עַל־פְּנֵ֤י כָל־הָאָ֨רֶץ֙ אֲשֶׁ֣ר תִּדְרְכוּ־בָ֔הּ כַּאֲשֶׁ֖ר דִּבֶּ֥ר לָכֶֽם׃ ס (Deut. 11:25)
+NIV	No man will be able to stand against you. The LORD your God, as he promised you, _will put_ the terror and fear of you on the whole land, wherever you go.
+ESV	No one shall be able to stand against you. The Lord your God _will lay_ the fear of you and the dread of you on all the land that you shall tread, as he promised you.
+
+(x)	זֹ֛את _נַעֲשֶׂ֥ה_ לָהֶ֖ם (Josh. 9:20)
+NIV	This is what _we will do_ to them: We will let them live, so that wrath will not fall on us for breaking the oath we swore to them.”
+ESV	This _we will do_ to them: let them live, lest wrath be upon us, because of the oath that we swore to them.”
+
+(x)	הָאִ֨ישׁ אֲשֶׁר־יַכֶּ֜נּוּ _יַעְשְׁרֶ֥נּוּ_ הַמֶּ֣לֶךְ׀ עֹ֣שֶׁר גָּדֹ֗ול וְאֶת־בִּתֹּו֙ יִתֶּן־לֹ֔ו וְאֵת֙ בֵּ֣ית אָבִ֔יו יַעֲשֶׂ֥ה חָפְשִׁ֖י בְּיִשְׂרָאֵֽל׃ (I Sam. 17:25)
+NIV	Now the Israelites had been saying, “Do you see how this man keeps coming out? He comes out to defy Israel. The king will give great wealth to the man who kills him. He will also give him his daughter in marriage and will exempt his father’s family from taxes in Israel.”
+ESV	And the men of Israel said, “Have you seen this man who has come up? Surely he has come up to defy Israel. And the king _will enrich_ the man who kills him with great riches and will give him his daughter and make his father’s house free in Israel.”
+
+(x)	וַ֠אֲנִי _אֲשִׂימֵ֨ם_ דֹּבְרֹ֤ות בַּיָּם֙ עַֽד־הַמָּקֹ֞ום אֲשֶׁר־תִּשְׁלַ֥ח אֵלַ֛י (I Kgs. 5:23)
+NIV	My men will haul them down from Lebanon to the sea, and I _will float_ them in rafts by sea to the place you specify. There I will separate them and you can take them away. And you are to grant my wish by providing food for my royal household.”
+ESV	My servants shall bring it down to the sea from Lebanon, and I _will make_ it into rafts to go by sea to the place you direct. And I will have them broken up there, and you shall receive it. And you shall meet my wishes by providing food for my household.”
+
+(x)	וּבְפָרִשְׂכֶ֣ם כַּפֵּיכֶ֗ם _אַעְלִ֤ים_ עֵינַי֙ מִכֶּ֔ם (Isa. 1:15)
+NIV	When you spread out your hands in prayer, _I will hide_ my eyes from you. even if you offer many prayers, I will not listen. Your hands are full of blood.
+ESV	When you spread out your hands, _I will hide_ my eyes from you. even though you make many prayers, I will not listen. your hands are full of blood.
+
+(x)	וְסֵ֥תֶר מַ֖יִם _יִשְׁטֹֽפוּ_׃ (Isa. 28:17)
+NIV	I will make justice the measuring line and righteousness the plumb-line. hail will sweep away your refuge, the lie, and water _will overflow_ your hiding-place.
+ESV	And I will make justice the line, and righteousness the plumb line. and hail will sweep away the refuge of lies, and waters _will overwhelm_ the shelter.”
+
+(x)	כִּ֤י _אֶצָּק_־מַ֨יִם֙ עַל־צָמֵ֔א וְנֹזְלִ֖ים עַל־יַבָּשָׁ֑ה (Isa. 44:3)
+NIV	For _I will pour_ water on the thirsty land, and streams on the dry ground. _I will pour_ out my Spirit on your offspring, and my blessing on your descendants.
+ESV	For _I will pour_ water on the thirsty land, and streams on the dry ground. _I will pour_ my Spirit upon your offspring, and my blessing on your descendants.
+
+(x)	תַּ֣חַת הַנְּחֹ֜שֶׁת _אָבִ֣יא_ זָהָ֗ב (Isa. 60:17)
+NIV	Instead of bronze _I will bring_ you gold, and silver in place of iron. Instead of wood _I will bring_ you bronze, and iron in place of stones. I will make peace your governor and righteousness your ruler.
+ESV	Instead of bronze _I will bring_ gold, and instead of iron _I will bring_ silver. instead of wood, bronze, instead of stones, iron. I will make your overseers peace and your taskmasters righteousness.
+
+(x)	וְזֶה־שְּׁמֹ֥ו אֲֽשֶׁר־_יִקְרְאֹ֖ו_ (Jer. 23:6)
+NIV	In his days Judah will be saved and Israel will live in safety. This is the name by which he _will be called_: The LORD Our Righteousness.
+ESV	In his days Judah will be saved, and Israel will dwell securely. And this is the name by which he _will be called_: ‘The Lord is our righteousness.’
+
+(x)	מִשָּׁ֥ם _אֹֽורִידְךָ֖_ (Jer. 49:16)
+NIV	The terror you inspire and the pride of your heart have deceived you, you who live in the clefts of the rocks, who occupy the heights of the hill. Though you build your nest as high as the eagle’s, from there I will bring you down,” declares the LORD.
+ESV	The horror you inspire has deceived you, and the pride of your heart, you who live in the clefts of the rock, who hold the height of the hill. Though you make your nest as high as the eagle’s, I will bring you down from there, declares the Lord.
+
+(x)	גַּם־אֲנִ֖י _אַגְדִּ֥יל_ הַמְּדוּרָֽה׃ (Ezek. 24:9)
+NIV	“‘Therefore this is what the Sovereign LORD says: “‘Woe to the city of bloodshed! I, too, will pile the wood high.
+ESV	Therefore thus says the Lord God: Woe to the bloody city! I also will make the pile great.
+
+(x)	עַתָּ֗ה _אָשִׁיב֙_ אֶת־שְׁב֣וּת יַֽעֲקֹ֔ב בְּשֹׁובְבִ֤י אֹותָם֙ מִן־הָ֣עַמִּ֔ים וְקִבַּצְתִּ֣י אֹתָ֔ם מֵֽאַרְצֹ֖ות אֹֽיְבֵיהֶ֑ם וְנִקְדַּ֣שְׁתִּי בָ֔ם לְעֵינֵ֖י הַגֹּויִ֥ם רַבִּֽים׃ (Ezek. 39:25)
+NIV	“Therefore this is what the Sovereign LORD says: I will now bring Jacob back from captivity and will have compassion on all the people of Israel, and I will be zealous for my holy name.
+ESV	“Therefore thus says the Lord God: Now _I will restore_ the fortunes of Jacob and have mercy on the whole house of Israel, and I will be jealous for my holy name.
+
+(x)	עַל־שְׁלֹשָׁה֙ פִּשְׁעֵ֣י בְנֵֽי־עַמֹּ֔ון וְעַל־אַרְבָּעָ֖ה לֹ֣א _אֲשִׁיבֶ֑נּוּ_ עַל־בִּקְעָם֙ הָרֹ֣ות הַגִּלְעָ֔ד לְמַ֖עַן הַרְחִ֥יב אֶת־גְּבוּלָֽם׃ (Amos 1:13)
+NIV	This is what the LORD says: “For three sins of Ammon, even for four, I will not turn back [ my wrath ]. Because he ripped open the pregnant women of Gilead in order to extend his borders,
+ESV	Thus says the Lord: “For three transgressions of the Ammonites, and for four, I will not revoke the punishment, because they have ripped open pregnant women in Gilead, that they might enlarge their border.
+
+(x)	וַאֲצַפֶּ֗ה לִרְאֹות֙ מַה־_יְדַבֶּר_־בִּ֔י וּמָ֥ה אָשִׁ֖יב עַל־תֹּוכַחְתִּֽי׃ (Hab. 2:1)
+NIV	I will stand at my watch and station myself on the ramparts. I will look to see what _he will say_ to me, and what answer I am to give to this complaint.
+ESV	I will take my stand at my watchpost and station myself on the tower, and look out to see what _he will say_ to me, and what I will answer concerning my complaint.
+
+(x)	בַּל־_אַסִּ֣יךְ_ נִסְכֵּיהֶ֣ם מִדָּ֑ם (Psa. 16:4)
+NIV	The sorrows of those will increase who run after other gods. I will not pour out their libations of blood or take up their names on my lips.
+ESV	The sorrows of those who run after another god shall multiply. their drink offerings of blood I will not pour out or take their names on my lips.
+
+(x)	_תְּרַנֵּ֥ן_ לְשֹׁונִ֗י צִדְקָתֶֽךָ׃ (Psa. 51:16)
+NIV	Save me from bloodguilt, O God, the God who saves me, and my tongue _will sing_ of your righteousness.
+ESV	Deliver me from bloodguiltiness, O God, O God of my salvation, and my tongue _will sing aloud_ of your righteousness.
+
+(x)	גַּם־יְ֭הוָה _יִתֵּ֣ן_ הַטֹּ֑וב (Psa. 85:13)
+NIV	The LORD will indeed give what is good, and our land will yield its harvest.
+ESV	Yes, the Lord _will give_ what is good, and our land will yield its increase.
+
+(x)	כֹּוס־יְשׁוּעֹ֥ות _אֶשָּׂ֑א_ (Psa. 116:13)
+NIV	_I will lift up_ the cup of salvation and call on the name of the LORD.
+ESV	_I will lift up_ the cup of salvation and call on the name of the Lord,
+
+(x)	אַךְ־דְּ֝רָכַ֗י אֶל־פָּנָ֥יו _אֹוכִֽיחַ_׃ (Job 13:15)
+NIV	Though he slay me, yet will I hope in him. I will surely defend my ways to his face.
+ESV	Though he slay me, I will hope in him. yet _I will argue_ my ways to his face.
+
+(x)	אָ֣ז _יִ֭קְרָאֻנְנִי_ (Prov. 1:28)
+NIV	“Then _they will call_ to me but I will not answer. they will look for me but will not find me.
+ESV	Then _they will call upon_ me, but I will not answer. they will seek me diligently but will not find me.
+
+(x)	כֹּ֥ל אֲשֶׁר־תֹּאמְרִ֖י _אֶֽעֱשֶׂה_־לָּ֑ךְ (Ruth 3:11)
+NIV	And now, my daughter, don’t be afraid. _I will do_ for you all you ask. All my fellow townsmen know that you are a woman of noble character.
+ESV	And now, my daughter, do not fear. _I will do_ for you all that you ask, for all my fellow townsmen know that you are a worthy woman.
+
+(x)	הִנְנִ֨י _אֹֽסִפְךָ֜_ אֶל־אֲבֹתֶ֗יךָ (II Chr. 34:28)
+NIV	Now I _will gather_ you to your fathers, and you will be buried in peace. Your eyes will not see all the disaster I am going to bring on this place and on those who live here.’” So they took her answer back to the king.
+ESV	Behold, I _will gather_ you to your fathers, and you shall be gathered to your grave in peace, and your eyes shall not see all the disaster that I will bring upon this place and its inhabitants.’” And they brought back word to the king.

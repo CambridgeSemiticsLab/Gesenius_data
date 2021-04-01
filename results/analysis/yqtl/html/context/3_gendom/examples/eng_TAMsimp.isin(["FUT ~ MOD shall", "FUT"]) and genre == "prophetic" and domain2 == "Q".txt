@@ -1,27 +1,101 @@
 eng_TAMsimp.isin(["FUT ~ MOD shall", "FUT"]) and genre == "prophetic" and domain2 == "Q"
-25 of 1739
-I will hide (ESV, NIV | BHS אַעְלִ֤ים עֵינַי֙ מִכֶּ֔ם , Isa. 1:15)
-will be feeble, will go limp (ESV, NIV | BHS עַל־כֵּ֖ן כָּל־יָדַ֣יִם תִּרְפֶּ֑ינָה , Isa. 13:7)
-shall be, will it be (ESV, NIV | BHS כֵּ֣ן יִֽהְיֶ֗ה הֲמֹון֙ כָּל־הַגֹּויִ֔ם , Isa. 29:8)
-will move, will topple (ESV, NIV | BHS לֹ֥א יִמֹּֽוט׃ , Isa. 40:20)
-be, will be (ESV, NIV | BHS וְלָ֣ךְ יִֽהְי֔וּ , Isa. 45:14)
-will be, will last (ESV, NIV | BHS וִישֽׁוּעָתִי֙ לְעֹולָ֣ם תִּֽהְיֶ֔ה , Isa. 51:6)
-will answer (ESV, NIV | BHS וַיהוָ֣ה יַעֲנֶ֔ה , Isa. 58:9)
-shall bow down, will bend down (ESV, NIV | BHS וְכֻלְּכֶם֙ לַטֶּ֣בַח תִּכְרָ֔עוּ , Isa. 65:12)
-shall we see, we will see (ESV, NIV | BHS וְחֶ֥רֶב וְרָעָ֖ב לֹ֥וא נִרְאֶֽה׃ , Jer. 5:12)
-will tingle, will make tingle (ESV, NIV | BHS תִּצַּ֥לְנָה אָזְנָֽיו׃ , Jer. 19:3)
-you shall serve, you will serve (ESV, NIV | BHS לֹ֥א תַעַבְד֖וּ אֶת־מֶ֥לֶךְ בָּבֶֽל׃ , Jer. 27:9)
-shall be bought, will be bought (ESV, NIV | BHS שָׂדֹ֞ות בַּכֶּ֣סֶף יִקְנ֗וּ , Jer. 32:44)
-we will surely perform, we will certainly carry out (ESV, NIV | BHS עָשֹׂ֨ה נַעֲשֶׂ֜ה אֶת־נְדָרֵ֗ינוּ , Jer. 44:25)
-I will bring down (ESV, NIV | BHS אֹֽורִידֵ֖ם כְּכָרִ֣ים , Jer. 51:40)
-they will understand (ESV, NIV | BHS אוּלַ֣י יִרְא֔וּ , Ezek. 12:3)
-will you judge (ESV, NIV | BHS הֲתִשְׁפֹּ֖וט , Ezek. 20:4)
-he will kill (ESV, NIV | BHS עַמֵּךְ֙ בַּחֶ֣רֶב יַהֲרֹ֔ג , Ezek. 26:11)
-he shall surely live, he will surely live (ESV, NIV | BHS חָיֹ֥ו יִֽחְיֶֽה׃ , Ezek. 33:16)
-will you know, will you take notice (ESV, NIV | BHS תֵּדָֽע׃ , Ezek. 38:14)
-it shall yield, it will produce (ESV, NIV | BHS צֶ֚מַח בְּלִ֣י יַֽעֲשֶׂה־קֶּ֔מַח , Hos. 8:7)
-shall come forth, will flow out (ESV, NIV | BHS וּמַעְיָ֗ן מִבֵּ֤ית יְהוָה֙ יֵצֵ֔א , Joel 4:18)
-there shall be, will be (ESV, NIV | BHS וְלֹֽא־יִהְיֶ֤ה שָׂרִיד֙ לְבֵ֣ית עֵשָׂ֔ו , Obad. 1:18)
-I will make, I will prepare (ESV, NIV | BHS אָשִׂ֥ים קִבְרֶ֖ךָ , Nah. 1:14)
-keep (ESV, NIV | BHS וְאִ֣ם אֶת־מִשְׁמַרְתִּ֣י תִשְׁמֹ֔ר , Zech. 3:7)
-they will be (ESV, NIV | BHS כִּֽי־יִהְי֣וּ אֵ֔פֶר תַּ֖חַת כַּפֹּ֣ות רַגְלֵיכֶ֑ם בַּיֹּום֙ , Mal. 3:21)
+25 of 1760
+(x)	וּבְפָרִשְׂכֶ֣ם כַּפֵּיכֶ֗ם _אַעְלִ֤ים_ עֵינַי֙ מִכֶּ֔ם (Isa. 1:15)
+NIV	When you spread out your hands in prayer, _I will hide_ my eyes from you. even if you offer many prayers, I will not listen. Your hands are full of blood.
+ESV	When you spread out your hands, _I will hide_ my eyes from you. even though you make many prayers, I will not listen. your hands are full of blood.
+
+(x)	וְלֹ֣א _אֶפְחָ֑ד_ (Isa. 12:2)
+NIV	Surely God is my salvation. I will trust and not _be afraid_. The LORD, the LORD, is my strength and my song. he has become my salvation.”
+ESV	“Behold, God is my salvation. I will trust, and will not be afraid. for the Lord GOD is my strength and my song, and he has become my salvation.”
+
+(x)	מֵאֶ֣רֶץ _תְּדַבֵּ֔רִי_ (Isa. 29:4)
+NIV	Brought low, _you will speak_ from the ground. your speech will mumble out of the dust. Your voice will come ghostlike from the earth. out of the dust your speech will whisper.
+ESV	And you will be brought low. from the earth _you shall speak_, and from the dust your speech will be bowed down. your voice shall come from the ground like the voice of a ghost, and from the dust your speech shall whisper.
+
+(x)	וּנְגִנֹותַ֧י _נְנַגֵּ֛ן_ כָּל־יְמֵ֥י חַיֵּ֖ינוּ עַל־בֵּ֥ית יְהוָֽה׃ (Isa. 38:20)
+NIV	The LORD will save me, and _we will sing_ with stringed instruments all the days of our lives in the temple of the LORD.
+ESV	The Lord will save me, and _we will play_ my music on stringed instruments all the days of our lives, at the house of the Lord.
+
+(x)	וְגָלוּתִ֣י _יְשַׁלֵּ֔חַ_ (Isa. 45:13)
+NIV	I will raise up Cyrus in my righteousness: I will make all his ways straight. He will rebuild my city and set my exiles free, but not for a price or reward, says the LORD Almighty.”
+ESV	I have stirred him up in righteousness, and I will make all his ways level. he shall build my city and set my exiles free, not for price or reward,” says the Lord of hosts.
+
+(x)	וּזְרֹעַ֖י עַמִּ֣ים _יִשְׁפֹּ֑טוּ_ (Isa. 51:5)
+NIV	My righteousness draws near speedily, my salvation is on the way, and my arm _will bring justice_ to the nations. The islands will look to me and wait in hope for my arm.
+ESV	My righteousness draws near, my salvation has gone out, and my arms _will judge_ the peoples. the coastlands hope for me, and for my arm they wait.
+
+(x)	אָ֤ז _תִּקְרָא֙_ (Isa. 58:9)
+NIV	Then _you will call_, and the LORD will answer. you will cry for help, and he will say: Here am I. “If you do away with the yoke of oppression, with the pointing finger and malicious talk,
+ESV	Then _you shall call_, and the Lord will answer. you shall cry, and he will say, ‘Here I am.’ If you take away the yoke from your midst, the pointing of the finger, and speaking wickedness,
+
+(x)	הִנֵּ֨ה עֲבָדַ֤י׀ _יֹאכֵ֨לוּ֙_ (Isa. 65:13)
+NIV	Therefore this is what the Sovereign LORD says: “My servants _will eat_, but you will go hungry. my servants will drink, but you will go thirsty. my servants will rejoice, but you will be put to shame.
+ESV	Therefore thus says the Lord God: “Behold, my servants _shall eat_, but you shall be hungry. behold, my servants shall drink, but you shall be thirsty. behold, my servants shall rejoice, but you shall be put to shame.
+
+(x)	_יֹאכַ֤ל_ צֹאנְךָ֙ וּבְקָרֶ֔ךָ (Jer. 5:17)
+NIV	They will devour your harvests and food, devour your sons and daughters. _they will devour_ your flocks and herds, devour your vines and fig-trees. With the sword they will destroy the fortified cities in which you trust.
+ESV	They shall eat up your harvest and your food. _they shall eat up_ your sons and your daughters. _they shall eat up_ your flocks and your herds. _they shall eat up_ your vines and your fig trees. your fortified cities in which you trust they shall beat down with the sword.”
+
+(x)	כֹּ֚ל עֹבֵ֣ר עָלֶ֔יהָ _יִשֹּׁ֥ם_ (Jer. 19:8)
+NIV	I will devastate this city and make it an object of scorn. all who pass by _will be appalled_ and will scoff because of all its wounds.
+ESV	And I will make this city a horror, a thing to be hissed at. Everyone who passes by it _will be horrified_ and will hiss because of all its wounds.
+
+(x)	לֹ֥א _תַעַבְד֖וּ_ אֶת־מֶ֥לֶךְ בָּבֶֽל׃ (Jer. 27:9)
+NIV	So do not listen to your prophets, your diviners, your interpreters of dreams, your mediums or your sorcerers who tell you, ‘You will not serve the king of Babylon.’
+ESV	So do not listen to your prophets, your diviners, your dreamers, your fortune-tellers, or your sorcerers, who are saying to you, ‘You shall not serve the king of Babylon.’
+
+(x)	וְ_אֶעֱנֶ֑ךָּ_ (Jer. 33:3)
+NIV	‘Call to me and _I will answer_ you and tell you great and unsearchable things you do not know.’
+ESV	Call to me and _I will answer_ you, and will tell you great and hidden things that you have not known.
+
+(x)	וְֽיָדְע֞וּ כָּל־שְׁאֵרִ֣ית יְהוּדָ֗ה הַבָּאִ֤ים לְאֶֽרֶץ־מִצְרַ֨יִם֙ לָג֣וּר שָׁ֔ם דְּבַר־מִ֥י _יָק֖וּם_ מִמֶּ֥נִּי וּמֵהֶֽם׃ (Jer. 44:28)
+NIV	Those who escape the sword and return to the land of Judah from Egypt will be very few. Then the whole remnant of Judah who came to live in Egypt will know whose word _will stand_ — mine or theirs.
+ESV	And those who escape the sword shall return from the land of Egypt to the land of Judah, few in number. and all the remnant of Judah, who came to the land of Egypt to live, shall know whose word _will stand_, mine or theirs.
+
+(x)	כִּֽי־שִׁמְמֹ֥ות עֹולָ֛ם _תִּֽהְיֶ֖ה_ (Jer. 51:26)
+NIV	No rock will be taken from you for a cornerstone, nor any stone for a foundation, for _you will be_ desolate forever,” declares the LORD.
+ESV	No stone shall be taken from you for a corner and no stone for a foundation, but _you shall be_ a perpetual waste, declares the Lord.
+
+(x)	וַאֲנִ֕י _אֶהְיֶ֥ה_ לָהֶ֖ם לֵאלֹהִֽים׃ (Ezek. 11:20)
+NIV	Then they will follow my decrees and be careful to keep my laws. They _will be_ my people, and I _will be_ their God.
+ESV	that they may walk in my statutes and keep my rules and obey them. And they shall be my people, and I _will be_ their God.
+
+(x)	הֲ_תִשְׁפֹּ֣ט_ אֹתָ֔ם (Ezek. 20:4)
+NIV	“_Will you judge_ them? _Will you judge_ them, son of man? Then confront them with the detestable practices of their fathers
+ESV	_Will you judge_ them, son of man, will you judge them? Let them know the abominations of their fathers,
+
+(x)	עַמֵּךְ֙ בַּחֶ֣רֶב _יַהֲרֹ֔ג_ (Ezek. 26:11)
+NIV	The hoofs of his horses will trample all your streets. _he will kill_ your people with the sword, and your strong pillars will fall to the ground.
+ESV	With the hoofs of his horses he will trample all your streets. _He will kill_ your people with the sword, and your mighty pillars will fall to the ground.
+
+(x)	חָיֹ֥ו _יִֽחְיֶֽה_׃ (Ezek. 33:16)
+NIV	None of the sins he has committed will be remembered against him. He has done what is just and right. _he will surely live_.
+ESV	None of the sins that he has committed shall be remembered against him. He has done what is just and right. _he shall surely live_.
+
+(x)	וְכָל־חֹומָ֖ה לָאָ֥רֶץ _תִּפֹּֽול_׃ (Ezek. 38:20)
+NIV	The fish of the sea, the birds of the air, the beasts of the field, every creature that moves along the ground, and all the people on the face of the earth will tremble at my presence. The mountains will be overturned, the cliffs will crumble and every wall _will fall_ to the ground.
+ESV	The fish of the sea and the birds of the heavens and the beasts of the field and all creeping things that creep on the ground, and all the people who are on the face of the earth, shall quake at my presence. And the mountains shall be thrown down, and the cliffs shall fall, and every wall _shall tumble_ to the ground.
+
+(x)	וְ_יִפְקֹ֣ד_ חַטֹּאותָ֔ם (Hos. 8:13)
+NIV	They offer sacrifices given to me and they eat the meat, but the LORD is not pleased with them. Now he will remember their wickedness and _punish_ their sins: They will return to Egypt.
+ESV	As for my sacrificial offerings, they sacrifice meat and eat it, but the Lord does not accept them. Now he will remember their iniquity and _punish_ their sins. they shall return to Egypt.
+
+(x)	וִיהוּדָ֖ה לְעֹולָ֣ם _תֵּשֵׁ֑ב_ וִירוּשָׁלִַ֖ם לְדֹ֥ור וָדֹֽור׃ (Joel 4:20)
+NIV	Judah _will be inhabited_ forever and Jerusalem through all generations.
+ESV	But Judah _shall be inhabited_ forever, and Jerusalem to all generations.
+
+(x)	וְכָל־עֲצַבֶּ֖יהָ _אָשִׂ֣ים_ שְׁמָמָ֑ה (Mic. 1:7)
+NIV	All her idols will be broken to pieces. all her temple gifts will be burned with fire. _I will destroy_ all her images. Since she gathered her gifts from the wages of prostitutes, as the wages of prostitutes they will again be used.”
+ESV	All her carved images shall be beaten to pieces, all her wages shall be burned with fire, and all her idols _I will lay waste_, for from the fee of a prostitute she gathered them, and to the fee of a prostitute they shall return.
+
+(x)	וְלֹֽא־_יִשָּׁמַ֥ע_ עֹ֖וד קֹ֥ול מַלְאָכֵֽכֵה׃ ס (Nah. 2:14)
+NIV	“I am against you,” declares the LORD Almighty. “I will burn up your chariots in smoke, and the sword will devour your young lions. I will leave you no prey on the earth. The voices of your messengers will no longer be heard.”
+ESV	Behold, I am against you, declares the Lord of hosts, and I will burn your chariots in smoke, and the sword shall devour your young lions. I will cut off your prey from the earth, and the voice of your messengers shall no longer be heard.
+
+(x)	וְגַם־אַתָּה֙ _תָּדִ֣ין_ אֶת־בֵּיתִ֔י (Zech. 3:7)
+NIV	“This is what the LORD Almighty says: ‘If you will walk in my ways and keep my requirements, then you _will govern_ my house and have charge of my courts, and I will give you a place among these standing here.
+ESV	“Thus says the Lord of hosts: If you will walk in my ways and keep my charge, then you _shall rule_ my house and have charge of my courts, and I will give you the right of access among those who are standing here.
+
+(x)	כִּֽי־_יִהְי֣וּ_ אֵ֔פֶר תַּ֖חַת כַּפֹּ֣ות רַגְלֵיכֶ֑ם בַּיֹּום֙ אֲשֶׁ֣ר אֲנִ֣י עֹשֶׂ֔ה (Mal. 3:21)
+NIV	Then you will trample down the wicked. _they will be_ ashes under the soles of your feet on the day when I do these things,” says the LORD Almighty.
+ESV	And you shall tread down the wicked, for _they will be_ ashes under the soles of your feet, on the day when I act, says the Lord of hosts.

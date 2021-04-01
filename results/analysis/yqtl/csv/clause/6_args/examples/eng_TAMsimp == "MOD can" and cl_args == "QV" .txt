@@ -1,17 +1,61 @@
 eng_TAMsimp == "MOD can" and cl_args == "QV" 
 15 of 62
-can I do (ESV, NIV | BHS מָ֥ה אֶֽעֱשֶׂ֖ה , Gen. 27:37)
-can I, can we (ESV, NIV | BHS אֵיכָ֥ה אוּכַ֖ל , Deut. 7:17)
-can save (ESV, NIV | BHS מַה־יֹּשִׁעֵ֨נוּ֙ זֶ֔ה , I Sam. 10:27)
-can you say (ESV, NIV | BHS אֵ֚יךְ תֹּאמְר֣וּ אֶל־פַּרְעֹ֔ה , Isa. 19:11)
-can be taken (ESV, NIV | BHS הֲיֻקַּ֥ח מִגִּבֹּ֖ור מַלְקֹ֑וחַ , Isa. 49:24)
-can change (ESV, NIV | BHS הֲיַהֲפֹ֤ךְ כּוּשִׁי֙ עֹורֹ֔ו , Jer. 13:23)
-can I make, can I treat (ESV, NIV | BHS אֵ֚יךְ אֶתֶּנְךָ֣ כְאַדְמָ֔ה , Hos. 11:8)
-can stand, can withstand (ESV, NIV | BHS מִ֣י יַֽעֲמֹ֔וד , Nah. 1:6)
-can (ESV, NIV | BHS הֲי֣וּכַל אֵ֑ל , Psa. 78:19)
-can grow, can grow tall (ESV, NIV | BHS הֲיִֽגְאֶה־גֹּ֭מֶא בְּלֹ֣א בִצָּ֑ה , Job 8:11)
-can bring (ESV, NIV | BHS מִֽי־יִתֵּ֣ן טָ֭הֹור מִטָּמֵ֗א , Job 14:4)
-can you bind, can you hold (ESV, NIV | BHS הֲֽתִקְשָׁר־רֵ֭ים בְּתֶ֣לֶם עֲבֹתֹ֑ו , Job 39:10)
-can understand (ESV, NIV | BHS מַה־יָּבִ֥ין דַּרְכֹּֽו׃ , Prov. 20:24)
-can tell (ESV, NIV | BHS מִ֖י יַגִּ֥יד לֹֽו׃ , Eccl. 10:14)
-can I bring, can I ever bring (ESV, NIV | BHS הֵ֚יךְ אָבִ֣יא אֵלַ֔י אֵ֖ת אֲרֹ֥ון הָאֱלֹהִֽים׃ , I Chr. 13:12)
+(x)	מָ֥ה _אֶֽעֱשֶׂ֖ה_ (Gen. 27:37)
+NIV	Isaac answered Esau, “I have made him lord over you and have made all his relatives his servants, and I have sustained him with grain and new wine. So what can I possibly do for you, my son?”
+ESV	Isaac answered and said to Esau, “Behold, I have made him lord over you, and all his brothers I have given to him for servants, and with grain and wine I have sustained him. What then _can I do_ for you, my son?”
+
+(x)	אֵיכָ֥ה _אוּכַ֖ל_ לְהֹורִישָֽׁם׃ (Deut. 7:17)
+NIV	You may say to yourselves, “These nations are stronger than we are. How _can we_ drive them out?”
+ESV	“If you say in your heart, ‘These nations are greater than I. How _can I_ dispossess them?’
+
+(x)	מַה־_יֹּשִׁעֵ֨נוּ֙_ זֶ֔ה (I Sam. 10:27)
+NIV	But some troublemakers said, “How can this fellow save us?” They despised him and brought him no gifts. But Saul kept silent.
+ESV	But some worthless fellows said, “How can this man save us?” And they despised him and brought him no present. But he held his peace.
+
+(x)	אֵ֚יךְ _תֹּאמְר֣וּ_ אֶל־פַּרְעֹ֔ה (Isa. 19:11)
+NIV	The officials of Zoan are nothing but fools. the wise counsellors of Pharaoh give senseless advice. How _can you say_ to Pharaoh, “I am one of the wise men, a disciple of the ancient kings”?
+ESV	The princes of Zoan are utterly foolish. the wisest counselors of Pharaoh give stupid counsel. How _can you say_ to Pharaoh, “I am a son of the wise, a son of ancient kings”?
+
+(x)	הֲ_יֻקַּ֥ח_ מִגִּבֹּ֖ור מַלְקֹ֑וחַ (Isa. 49:24)
+NIV	Can plunder be taken from warriors, or captives rescued from the fierce?
+ESV	Can the prey be taken from the mighty, or the captives of a tyrant be rescued?
+
+(x)	הֲ_יַהֲפֹ֤ךְ_ כּוּשִׁי֙ עֹורֹ֔ו וְנָמֵ֖ר חֲבַרְבֻּרֹתָ֑יו (Jer. 13:23)
+NIV	Can the Ethiopian change his skin or the leopard its spots? Neither can you do good who are accustomed to doing evil.
+ESV	Can the Ethiopian change his skin or the leopard his spots? Then also you can do good who are accustomed to do evil.
+
+(x)	אֵ֚יךְ _אֶתֶּנְךָ֣_ כְאַדְמָ֔ה אֲשִֽׂימְךָ֖ כִּצְבֹאיִ֑ם (Hos. 11:8)
+NIV	“How can I give you up, Ephraim? How can I hand you over, Israel? How _can I treat_ you like Admah? How can I make you like Zeboiim? My heart is changed within me. all my compassion is aroused.
+ESV	How can I give you up, O Ephraim? How can I hand you over, O Israel? How _can I make_ you like Admah? How can I treat you like Zeboiim? My heart recoils within me. my compassion grows warm and tender.
+
+(x)	לִפְנֵ֤י זַעְמֹו֙ מִ֣י _יַֽעֲמֹ֔וד_ וּמִ֥י יָק֖וּם בַּחֲרֹ֣ון אַפֹּ֑ו (Nah. 1:6)
+NIV	Who _can withstand_ his indignation? Who can endure his fierce anger? His wrath is poured out like fire. the rocks are shattered before him.
+ESV	Who _can stand_ before his indignation? Who can endure the heat of his anger? His wrath is poured out like fire, and the rocks are broken into pieces by him.
+
+(x)	הֲ_י֣וּכַל_ אֵ֑ל לַעֲרֹ֥ךְ שֻׁ֝לְחָ֗ן בַּמִּדְבָּֽר׃ (Psa. 78:19)
+NIV	They spoke against God, saying, “_Can_ God spread a table in the desert?
+ESV	They spoke against God, saying, “_Can_ God spread a table in the wilderness?
+
+(x)	הֲ_יִֽגְאֶה_־גֹּ֭מֶא בְּלֹ֣א בִצָּ֑ה (Job 8:11)
+NIV	Can papyrus grow tall where there is no marsh? Can reeds thrive without water?
+ESV	“Can papyrus grow where there is no marsh? Can reeds flourish where there is no water?
+
+(x)	מִֽי־_יִתֵּ֣ן_ טָ֭הֹור מִטָּמֵ֗א לֹ֣א אֶחָֽד׃ (Job 14:4)
+NIV	Who _can bring_ what is pure from the impure? No-one!
+ESV	Who _can bring_ a clean thing out of an unclean? There is not one.
+
+(x)	הֲֽ_תִקְשָׁר_־רֵ֭ים בְּתֶ֣לֶם עֲבֹתֹ֑ו (Job 39:10)
+NIV	_Can you hold_ him to the furrow with a harness? Will he till the valleys behind you?
+ESV	_Can you bind_ him in the furrow with ropes, or will he harrow the valleys after you?
+
+(x)	וְ֝אָדָ֗ם מַה־_יָּבִ֥ין_ דַּרְכֹּֽו׃ (Prov. 20:24)
+NIV	A man’s steps are directed by the LORD. How then can anyone understand his own way?
+ESV	A man’s steps are from the Lord. how then can man understand his way?
+
+(x)	מִ֖י _יַגִּ֥יד_ לֹֽו׃ (Eccl. 10:14)
+NIV	and the fool multiplies words. No-one knows what is coming — who _can tell_ him what will happen after him?
+ESV	A fool multiplies words, though no man knows what is to be, and who _can tell_ him what will be after him?
+
+(x)	הֵ֚יךְ _אָבִ֣יא_ אֵלַ֔י אֵ֖ת אֲרֹ֥ון הָאֱלֹהִֽים׃ (I Chr. 13:12)
+NIV	David was afraid of God that day and asked, “How _can I ever bring_ the ark of God to me?”
+ESV	And David was afraid of God that day, and he said, “How _can I bring_ the ark of God home to me?”

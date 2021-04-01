@@ -1,3 +1,3 @@
-eng_simp_agree,TOTAL,"('prophetic', 'Q')","('poetry', 'Q')","('prose', 'Q')","('instruction', 'Q')","('list', 'Q')","('prose', 'N')","('prophetic', 'N')","('list', 'N')","('instruction', 'N')"
-1,6000,1770,2096,1569,540,3,19,1,1,1
-0,4864,1520,875,1348,1082,28,9,1,1,0
+eng_simp_agree,TOTAL,"('prophetic', 'Q')","('prose', 'Q')","('poetry', 'Q')","('instruction', 'Q')","('list', 'Q')","('prose', 'N')","('prophetic', 'N')","('list', 'N')","('instruction', 'N')"
+1,7014,2015,1951,2463,560,3,19,1,1,1
+0,5347,1581,1577,1054,1096,28,9,1,1,0

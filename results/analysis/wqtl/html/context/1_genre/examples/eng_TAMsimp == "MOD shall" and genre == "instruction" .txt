@@ -1,17 +1,61 @@
 eng_TAMsimp == "MOD shall" and genre == "instruction" 
 15 of 174
-do (ESV, NIV | BHS וְעָשִׂ֖֣יתָ כָּל־מְלַאכְתֶּֽךָ֒׃ , Exod. 20:9)
-shall arrange (ESV, NIV | BHS וְעָרַ֤ךְ הַכֹּהֵן֙ אֹתָ֔ם עַל־הָֽעֵצִים֙ , Lev. 1:12)
-shall throw, shall sprinkle (ESV, NIV | BHS וְזָרְק֡וּ בְּנֵי֩ אַהֲרֹ֨ן הַכֹּהֲנִ֧ים אֶת־הַדָּ֛ם עַל־הַמִּזְבֵּ֖חַ סָבִֽיב׃ , Lev. 3:2)
-shall he do, do (ESV, NIV | BHS וְעָשָׂ֣ה לַפָּ֔ר , Lev. 4:20)
-shall take a handful (ESV, NIV | BHS וְקָמַ֣ץ הַכֹּהֵ֣ן׀ מִ֠מֶּנָּה מְלֹ֨וא קֻמְצֹ֜ו אֶת־אַזְכָּרָתָה֙ , Lev. 5:12)
-he shall pronounce clean (ESV, NIV | BHS וְטִהַ֖ר אֶת־הַנָּ֑גַע , Lev. 13:13)
-shall command, shall order (ESV, NIV | BHS וְצִוָּה֙ הַכֹּהֵ֔ן , Lev. 14:4)
-shall take, take (ESV, NIV | BHS וְלָקַ֤ח הַכֹּהֵן֙ מִדַּ֣ם הָֽאָשָׁ֔ם , Lev. 14:25)
-bring, take (ESV, NIV | BHS וְהֵבִיא֙ אֶת־דָּמֹ֔ו אֶל־מִבֵּ֖ית לַפָּרֹ֑כֶת , Lev. 16:15)
-you shall assign (ESV, NIV | BHS וּפְקַדְתֶּ֤ם עֲלֵהֶם֙ בְּמִשְׁמֶ֔רֶת אֵ֖ת כָּל־מַשָּׂאָֽם׃ , Num. 4:27)
-do (ESV, NIV | BHS וְעָשִׂ֖֣יתָ כָּֿל־מְלַאכְתֶּֽךָ֒׃ , Deut. 5:13)
-shall be appointed, they shall appoint (ESV, NIV | BHS וּפָֽקְד֛וּ שָׂרֵ֥י צְבָאֹ֖ות בְּרֹ֥אשׁ הָעָֽם׃ ס , Deut. 20:9)
-bring out, shall bring (ESV, NIV | BHS וְהֹוצִ֜יאוּ אֶת־בְּתוּלֵ֧י הַֽנַּעֲרָ֛ה אֶל־זִקְנֵ֥י הָעִ֖יר הַשָּֽׁעְרָה׃ , Deut. 22:15)
-shall cause to lie down, shall make lie down (ESV, NIV | BHS וְהִפִּילֹ֤ו הַשֹּׁפֵט֙ , Deut. 25:2)
-he shall go out (ESV, NIV | BHS וְיָצָ֛א , Ezek. 46:12)
+(x)	וְ_עָשִׂ֖֣יתָ_ כָּל־מְלַאכְתֶּֽךָ֒׃ (Exod. 20:9)
+NIV	Six days you shall labor and _do_ all your work,
+ESV	Six days you shall labor, and _do_ all your work,
+
+(x)	וְ_עָרַ֤ךְ_ הַכֹּהֵן֙ אֹתָ֔ם עַל־הָֽעֵצִים֙ אֲשֶׁ֣ר עַל־הָאֵ֔שׁ אֲשֶׁ֖ר עַל־הַמִּזְבֵּֽחַ׃ (Lev. 1:12)
+NIV	He is to cut it into pieces, and the priest _shall arrange_ them, including the head and the fat, on the burning wood that is on the altar.
+ESV	And he shall cut it into pieces, with its head and its fat, and the priest _shall arrange_ them on the wood that is on the fire on the altar,
+
+(x)	וְ_זָרְק֡וּ_ בְּנֵי֩ אַהֲרֹ֨ן הַכֹּהֲנִ֧ים אֶת־הַדָּ֛ם עַל־הַמִּזְבֵּ֖חַ סָבִֽיב׃ (Lev. 3:2)
+NIV	He is to lay his hand on the head of his offering and slaughter it at the entrance to the Tent of Meeting. Then Aaron’s sons the priests _shall sprinkle_ the blood against the altar on all sides.
+ESV	And he shall lay his hand on the head of his offering and kill it at the entrance of the tent of meeting, and Aaron’s sons the priests _shall throw_ the blood against the sides of the altar.
+
+(x)	וְ_עָשָׂ֣ה_ לַפָּ֔ר כַּאֲשֶׁ֤ר עָשָׂה֙ לְפַ֣ר הַֽחַטָּ֔את (Lev. 4:20)
+NIV	and _do_ with this bull just as he did with the bull for the sin offering. In this way the priest will make atonement for them, and they will be forgiven.
+ESV	Thus _shall he do_ with the bull. As he did with the bull of the sin offering, so _shall he do_ with this. And the priest shall make atonement for them, and they shall be forgiven.
+
+(x)	וְ_קָמַ֣ץ_ הַכֹּהֵ֣ן׀ מִ֠מֶּנָּה מְלֹ֨וא קֻמְצֹ֜ו אֶת־אַזְכָּרָתָה֙ (Lev. 5:12)
+NIV	He is to bring it to the priest, who _shall take a handful_ of it as a memorial portion and burn it on the altar on top of the offerings made to the LORD by fire. It is a sin offering.
+ESV	And he shall bring it to the priest, and the priest _shall take a handful_ of it as its memorial portion and burn this on the altar, on the Lord’s food offerings. it is a sin offering.
+
+(x)	וְ_טִהַ֖ר_ אֶת־הַנָּ֑גַע (Lev. 13:13)
+NIV	the priest is to examine him, and if the disease has covered his whole body, he shall pronounce that person clean. Since it has all turned white, he is clean.
+ESV	then the priest shall look, and if the leprous disease has covered all his body, he shall pronounce him clean of the disease. it has all turned white, and he is clean.
+
+(x)	וְ_צִוָּה֙_ הַכֹּהֵ֔ן (Lev. 14:4)
+NIV	the priest _shall order_ that two live clean birds and some cedar wood, scarlet yarn and hyssop be brought for the one to be cleansed.
+ESV	the priest _shall command_ them to take for him who is to be cleansed two live clean birds and cedarwood and scarlet yarn and hyssop.
+
+(x)	וְ_לָקַ֤ח_ הַכֹּהֵן֙ מִדַּ֣ם הָֽאָשָׁ֔ם (Lev. 14:25)
+NIV	He shall slaughter the lamb for the guilt offering and _take_ some of its blood and put it on the lobe of the right ear of the one to be cleansed, on the thumb of his right hand and on the big toe of his right foot.
+ESV	And he shall kill the lamb of the guilt offering. And the priest _shall take_ some of the blood of the guilt offering and put it on the lobe of the right ear of him who is to be cleansed, and on the thumb of his right hand and on the big toe of his right foot.
+
+(x)	וְ_הֵבִיא֙_ אֶת־דָּמֹ֔ו אֶל־מִבֵּ֖ית לַפָּרֹ֑כֶת (Lev. 16:15)
+NIV	“He shall then slaughter the goat for the sin offering for the people and _take_ its blood behind the curtain and do with it as he did with the bull’s blood: He shall sprinkle it on the atonement cover and in front of it.
+ESV	“Then he shall kill the goat of the sin offering that is for the people and _bring_ its blood inside the veil and do with its blood as he did with the blood of the bull, sprinkling it over the mercy seat and in front of the mercy seat.
+
+(x)	וּ_פְקַדְתֶּ֤ם_ עֲלֵהֶם֙ בְּמִשְׁמֶ֔רֶת אֵ֖ת כָּל־מַשָּׂאָֽם׃ (Num. 4:27)
+NIV	All their service, whether carrying or doing other work, is to be done under the direction of Aaron and his sons. _You shall assign_ to them as their responsibility all they are to carry.
+ESV	All the service of the sons of the Gershonites shall be at the command of Aaron and his sons, in all that they are to carry and in all that they have to do. And _you shall assign_ to their charge all that they are to carry.
+
+(x)	וְ_עָשִׂ֖֣יתָ_ כָּֿל־מְלַאכְתֶּֽךָ֒׃ (Deut. 5:13)
+NIV	Six days you shall labour and _do_ all your work,
+ESV	Six days you shall labor and _do_ all your work,
+
+(x)	וּ_פָֽקְד֛וּ_ שָׂרֵ֥י צְבָאֹ֖ות בְּרֹ֥אשׁ הָעָֽם׃ ס (Deut. 20:9)
+NIV	When the officers have finished speaking to the army, _they shall appoint_ commanders over it.
+ESV	And when the officers have finished speaking to the people, then commanders _shall be appointed_ at the head of the people.
+
+(x)	וְ_הֹוצִ֜יאוּ_ אֶת־בְּתוּלֵ֧י הַֽנַּעֲרָ֛ה אֶל־זִקְנֵ֥י הָעִ֖יר הַשָּֽׁעְרָה׃ (Deut. 22:15)
+NIV	then the girl’s father and mother _shall bring_ proof that she was a virgin to the town elders at the gate.
+ESV	then the father of the young woman and her mother shall take and _bring out_ the evidence of her virginity to the elders of the city in the gate.
+
+(x)	וְ_הִפִּילֹ֤ו_ הַשֹּׁפֵט֙ (Deut. 25:2)
+NIV	If the guilty man deserves to be beaten, the judge shall make him lie down and have him flogged in his presence with the number of lashes his crime deserves,
+ESV	then if the guilty man deserves to be beaten, the judge shall cause him to lie down and be beaten in his presence with a number of stripes in proportion to his offense.
+
+(x)	וְ_יָצָ֛א_ (Ezek. 46:12)
+NIV	When the prince provides a freewill offering to the LORD whether a burnt offering or fellowship offerings — the gate — facing east is to be opened for him. He shall offer his burnt offering or his fellowship offerings as he does on the Sabbath day. Then _he shall go out_, and after he has gone out, the gate will be shut.
+ESV	When the prince provides a freewill offering, either a burnt offering or peace offerings as a freewill offering to the Lord, the gate facing east shall be opened for him. And he shall offer his burnt offering or his peace offerings as he does on the Sabbath day. Then _he shall go out_, and after he has gone out the gate shall be shut.

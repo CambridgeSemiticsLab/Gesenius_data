@@ -1,10 +1,12 @@
 # files that exceed size limit
 clause_genre
 verb_lex
+text_examples
 
 # non-open source materials
 _private_
 eng_text.csv
+french_text.csv
 _eng_text_.csv
 
 # system files -CK

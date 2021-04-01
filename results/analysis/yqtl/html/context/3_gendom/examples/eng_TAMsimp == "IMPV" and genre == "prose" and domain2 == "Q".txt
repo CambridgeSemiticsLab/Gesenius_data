@@ -1,12 +1,41 @@
 eng_TAMsimp == "IMPV" and genre == "prose" and domain2 == "Q"
-10 of 98
-make (ESV, NIV | BHS קִנִּ֖ים תַּֽעֲשֶׂ֣ה אֶת־הַתֵּבָ֑ה , Gen. 6:14)
-put (ESV, NIV | BHS וְאֶת־גְּבִיעִ֞י גְּבִ֣יעַ הַכֶּ֗סֶף תָּשִׂים֙ בְּפִי֙ אַמְתַּ֣חַת הַקָּטֹ֔ן , Gen. 44:2)
-write (ESV, NIV | BHS אִ֣ישׁ אֶת־שְׁמֹ֔ו תִּכְתֹּ֖ב עַל־מַטֵּֽהוּ׃ , Num. 17:17)
-do fear, do be afraid (ESV, NIV | BHS לֹ֥א תִירָ֖א , Deut. 31:8)
-do sin (ESV, NIV | BHS וְלֹֽא־תֶחֶטְא֥וּ לַֽיהוָ֖ה , I Sam. 14:34)
-by all means pass over, cross over without fail (ESV, NIV | BHS וְגַ֖ם עָבֹ֣ור תַּעֲבֹ֑ור , II Sam. 17:16)
-hear (ESV, NIV | BHS אַתָּ֞ה תִּשְׁמַ֤ע הַשָּׁמַ֨יִם֙ מְכֹ֣ון שִׁבְתֶּ֔ךָ , I Kgs. 8:43)
-do answer (ESV, NIV | BHS לֹ֥א תַעֲנֻֽהוּ׃ , II Kgs. 18:36)
-seek, do seek (ESV, NIV | BHS וְלֹֽא־תִדְרְשׁ֧וּ שְׁלֹמָ֛ם וְטֹובָתָ֖ם עַד־עֹולָ֑ם , Ezra 9:12)
-do put to death (ESV, NIV | BHS לֹ֥א תְמִית֖וּהָ בֵּ֥ית יְהוָֽה׃ , II Chr. 23:14)
+10 of 236
+(x)	קִנִּ֖ים _תַּֽעֲשֶׂ֣ה_ אֶת־הַתֵּבָ֑ה (Gen. 6:14)
+NIV	So _make_ yourself an ark of cypress wood. _make_ rooms in it and coat it with pitch inside and out.
+ESV	_Make_ yourself an ark of gopher wood. _Make_ rooms in the ark, and cover it inside and out with pitch.
+
+(x)	וְאֶת־גְּבִיעִ֞י גְּבִ֣יעַ הַכֶּ֗סֶף _תָּשִׂים֙_ בְּפִי֙ אַמְתַּ֣חַת הַקָּטֹ֔ן וְאֵ֖ת כֶּ֣סֶף שִׁבְרֹ֑ו (Gen. 44:2)
+NIV	Then _put_ my cup, the silver one, in the mouth of the youngest one’s sack, along with the silver for his grain.” And he did as Joseph said.
+ESV	and _put_ my cup, the silver cup, in the mouth of the sack of the youngest, with his money for the grain.” And he did as Joseph told him.
+
+(x)	וְאַֽל־_תִּגְּע֖וּ_ בְּכָל־אֲשֶׁ֣ר לָהֶ֑ם (Num. 16:26)
+NIV	He warned the assembly, “Move back from the tents of these wicked men! Do not touch anything belonging to them, or you will be swept away because of all their sins.”
+ESV	And he spoke to the congregation, saying, “Depart, please, from the tents of these wicked men, and _touch_ nothing of theirs, lest you be swept away with all their sins.”
+
+(x)	וְאַתָּ֗ה _תְּצַוֶּה֙_ אֶת־הַכֹּ֣הֲנִ֔ים נֹשְׂאֵ֥י אֲרֹֽון־הַבְּרִ֖ית לֵאמֹ֑ר (Josh. 3:8)
+NIV	_Tell_ the priests who carry the ark of the covenant: ‘When you reach the edge of the Jordan’s waters, go and stand in the river.’”
+ESV	And as for you, _command_ the priests who bear the ark of the covenant, ‘When you come to the brink of the waters of the Jordan, you shall stand still in the Jordan.’”
+
+(x)	אַל־_תִּֽירְאִ֖י_ (I Sam. 4:20)
+NIV	As she was dying, the women attending her said, “Don’t _despair_. you have given birth to a son.” But she did not respond or pay any attention.
+ESV	And about the time of her death the women attending her said to her, “Do not be afraid, for you have borne a son.” But she did not answer or pay attention.
+
+(x)	אַל־_תָּשִׁ֥יתִי_ אֶת־לִבֵּ֖ךְ לַדָּבָ֣ר הַזֶּ֑ה (II Sam. 13:20)
+NIV	Her brother Absalom said to her, “Has that Amnon, your brother, been with you? Be quiet now, my sister. he is your brother. Don’t _take_ this thing to heart.” And Tamar lived in her brother Absalom’s house, a desolate woman.
+ESV	And her brother Absalom said to her, “Has Amnon your brother been with you? Now hold your peace, my sister. He is your brother. do not take this to heart.” So Tamar lived, a desolate woman, in her brother Absalom’s house.
+
+(x)	אַל־_תִּירָ֖א_ מִפָּנָ֑יו (II Kgs. 1:15)
+NIV	The angel of the LORD said to Elijah, “Go down with him. do not be afraid of him.” So Elijah got up and went down with him to the king.
+ESV	Then the angel of the Lord said to Elijah, “Go down with him. do not be afraid of him.” So he arose and went down with him to the king
+
+(x)	כֹּ֥ה _תֹאמְר֖וּן_ אֶל־אֲדֹנֵיכֶ֑ם (Isa. 37:6)
+NIV	Isaiah said to them, “_Tell_ your master, ‘This is what the LORD says: Do not be afraid of what you have heard — those words with which the underlings of the king of Assyria have blasphemed me.
+ESV	Isaiah said to them, “_Say_ to your master, ‘Thus says the Lord: Do not be afraid because of the words that you have heard, with which the young men of the king of Assyria have reviled me.
+
+(x)	בִּמְקֹ֗ום אֲשֶׁ֤ר תִּשְׁמְעוּ֙ אֶת־קֹ֣ול הַשֹּׁופָ֔ר שָׁ֖מָּה _תִּקָּבְצ֣וּ_ אֵלֵ֑ינוּ (Neh. 4:14)
+NIV	Wherever you hear the sound of the trumpet, _join_ us there. Our God will fight for us!”
+ESV	In the place where you hear the sound of the trumpet, _rally_ to us there. Our God will fight for us.”
+
+(x)	וְאַל־_תַּאֲמִ֣ינוּ_ לֹו֒ (II Chr. 32:15)
+NIV	Now do not let Hezekiah deceive you and mislead you like this. Do not believe him, for no god of any nation or kingdom has been able to deliver his people from my hand or the hand of my fathers. How much less will your god deliver you from my hand!”
+ESV	Now, therefore, do not let Hezekiah deceive you or mislead you in this fashion, and do not believe him, for no god of any nation or kingdom has been able to deliver his people from my hand or from the hand of my fathers. How much less will your God deliver you out of my hand!’”

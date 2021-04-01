@@ -1,17 +1,61 @@
 eng_TAMsimp == "MOD must ~ MOD shall" and cl_args.isin(["OV", "_W_OV"])
 15 of 62
-you shall eat, you must eat (ESV, NIV | BHS אַךְ־בָּשָׂ֕ר בְּנַפְשֹׁ֥ו דָמֹ֖ו לֹ֥א תֹאכֵֽלוּ׃ , Gen. 9:4)
-he shall pay, he must pay back (ESV, NIV | BHS שְׁנַ֖יִם יְשַׁלֵּֽם׃ ס , Exod. 22:3)
-you shall keep, you must observe (ESV, NIV | BHS אַ֥ךְ אֶת־שַׁבְּתֹתַ֖י תִּשְׁמֹ֑רוּ , Exod. 31:13)
-you shall eat, you must eat (ESV, NIV | BHS וְכָל־דָּם֙ לֹ֣א תֹאכְל֔וּ בְּכֹ֖ל מֹושְׁבֹתֵיכֶ֑ם לָעֹ֖וף וְלַבְּהֵמָֽה׃ , Lev. 7:26)
-cry out (ESV, NIV | BHS יִקְרָֽא׃ , Lev. 13:45)
-shall do, do (ESV, NIV | BHS וְכָל־מְלָאכָה֙ לֹ֣א תַעֲשׂ֔וּ הָֽאֶזְרָ֔ח וְהַגֵּ֖ר , Lev. 16:29)
-you shall keep, you must observe (ESV, NIV | BHS וְאֶת־שַׁבְּתֹתַ֖י תִּשְׁמֹ֑רוּ , Lev. 19:3)
-he shall come near, he must come near (ESV, NIV | BHS אֵ֚ת לֶ֣חֶם אֱלֹהָ֔יו לֹ֥א יִגַּ֖שׁ , Lev. 21:21)
-you shall lend, you must lend (ESV, NIV | BHS אֶ֨ת־כַּסְפְּךָ֔ לֹֽא־תִתֵּ֥ן לֹ֖ו בְּנֶ֑שֶׁךְ , Lev. 25:37)
-eat (ESV, NIV | BHS וַעֲנָבִ֛ים לַחִ֥ים וִיבֵשִׁ֖ים לֹ֥א יֹאכֵֽל׃ , Num. 6:3)
-you shall do, do (ESV, NIV | BHS כָּל־מְלָאכָ֖ה לֹ֥א תַעֲשֽׂוּ׃ , Num. 29:7)
-fear, you must revere (ESV, NIV | BHS וְאֹתֹ֣ו תִירָ֑אוּ , Deut. 13:5)
-he shall restore, he must pay for (ESV, NIV | BHS וְאֶת־הַכִּבְשָׂ֖ה יְשַׁלֵּ֣ם אַרְבַּעְתָּ֑יִם , II Sam. 12:6)
-you shall build, you must build (ESV, NIV | BHS וּבַ֣יִת לֹֽא־תִבְנ֗וּ , Jer. 35:7)
-shall be put to death, must be put to death (ESV, NIV | BHS יוּמָ֑ת , II Chr. 23:7)
+(x)	אַךְ־בָּשָׂ֕ר בְּנַפְשֹׁ֥ו דָמֹ֖ו לֹ֥א _תֹאכֵֽלוּ_׃ (Gen. 9:4)
+NIV	“But you must not eat meat that has its lifeblood still in it.
+ESV	But you shall not eat flesh with its life, that is, its blood.
+
+(x)	שְׁנַ֖יִם _יְשַׁלֵּֽם_׃ ס (Exod. 22:3)
+NIV	“If the stolen animal is found alive in his possession — whether ox or donkey or sheep — _he must pay back_ double.
+ESV	If the stolen beast is found alive in his possession, whether it is an ox or a donkey or a sheep, _he shall pay_ double.
+
+(x)	אַ֥ךְ אֶת־שַׁבְּתֹתַ֖י _תִּשְׁמֹ֑רוּ_ (Exod. 31:13)
+NIV	“Say to the Israelites, ‘_You must observe_ my Sabbaths. This will be a sign between me and you for the generations to come, so you may know that I am the LORD, who makes you holy.
+ESV	“You are to speak to the people of Israel and say, ‘Above all _you shall keep_ my Sabbaths, for this is a sign between me and you throughout your generations, that you may know that I, the Lord, sanctify you.
+
+(x)	וְכָל־דָּם֙ לֹ֣א _תֹאכְל֔וּ_ בְּכֹ֖ל מֹושְׁבֹתֵיכֶ֑ם לָעֹ֖וף וְלַבְּהֵמָֽה׃ (Lev. 7:26)
+NIV	And wherever you live, you must not eat the blood of any bird or animal.
+ESV	Moreover, _you shall eat_ no blood whatever, whether of fowl or of animal, in any of your dwelling places.
+
+(x)	וְטָמֵ֥א׀ טָמֵ֖א _יִקְרָֽא_׃ (Lev. 13:45)
+NIV	“The person with such an infectious disease must wear torn clothes, let his hair be unkempt, cover the lower part of his face and _cry out_, ‘Unclean! Unclean!’
+ESV	“The leprous person who has the disease shall wear torn clothes and let the hair of his head hang loose, and he shall cover his upper lip and _cry out_, ‘Unclean, unclean.’
+
+(x)	וְכָל־מְלָאכָה֙ לֹ֣א _תַעֲשׂ֔וּ_ הָֽאֶזְרָ֔ח וְהַגֵּ֖ר הַגָּ֥ר בְּתֹוכְכֶֽם׃ (Lev. 16:29)
+NIV	“This is to be a lasting ordinance for you: On the tenth day of the seventh month you must deny yourselves and not _do_ any work — whether native-born or an alien living among you —
+ESV	“And it shall be a statute to you forever that in the seventh month, on the tenth day of the month, you shall afflict yourselves and _shall do_ no work, either the native or the stranger who sojourns among you.
+
+(x)	אִ֣ישׁ אִמֹּ֤ו וְאָבִיו֙ תִּירָ֔אוּ וְאֶת־שַׁבְּתֹתַ֖י _תִּשְׁמֹ֑רוּ_ (Lev. 19:3)
+NIV	“‘Each of you must respect his mother and father, and _you must observe_ my Sabbaths. I am the LORD your God.
+ESV	Every one of you shall revere his mother and his father, and _you shall keep_ my Sabbaths: I am the Lord your God.
+
+(x)	אֵ֚ת לֶ֣חֶם אֱלֹהָ֔יו לֹ֥א _יִגַּ֖שׁ_ לְהַקְרִֽיב׃ (Lev. 21:21)
+NIV	No descendant of Aaron the priest who has any defect is to come near to present the offerings made to the LORD by fire. He has a defect. he must not come near to offer the food of his God.
+ESV	No man of the offspring of Aaron the priest who has a blemish shall come near to offer the Lord’s food offerings. since he has a blemish, he shall not come near to offer the bread of his God.
+
+(x)	אֶ֨ת־כַּסְפְּךָ֔ לֹֽא־_תִתֵּ֥ן_ לֹ֖ו בְּנֶ֑שֶׁךְ (Lev. 25:37)
+NIV	You must not lend him money at interest or sell him food at a profit.
+ESV	You shall not lend him your money at interest, nor give him your food for profit.
+
+(x)	וַעֲנָבִ֛ים לַחִ֥ים וִיבֵשִׁ֖ים לֹ֥א _יֹאכֵֽל_׃ (Num. 6:3)
+NIV	he must abstain from wine and other fermented drink and must not drink vinegar made from wine or from other fermented drink. He must not drink grape juice or _eat_ grapes or raisins.
+ESV	he shall separate himself from wine and strong drink. He shall drink no vinegar made from wine or strong drink and shall not drink any juice of grapes or _eat_ grapes, fresh or dried.
+
+(x)	כָּל־מְלָאכָ֖ה לֹ֥א _תַעֲשֽׂוּ_׃ (Num. 29:7)
+NIV	“‘On the tenth day of this seventh month hold a sacred assembly. You must deny yourselves and _do_ no work.
+ESV	“On the tenth day of this seventh month you shall have a holy convocation and afflict yourselves. _You shall do_ no work,
+
+(x)	וְאֹתֹ֣ו _תִירָ֑אוּ_ (Deut. 13:5)
+NIV	It is the LORD your God you must follow, and him _you must revere_. Keep his commands and obey him. serve him and hold fast to him.
+ESV	You shall walk after the Lord your God and _fear_ him and keep his commandments and obey his voice, and you shall serve him and hold fast to him.
+
+(x)	וְאֶת־הַכִּבְשָׂ֖ה _יְשַׁלֵּ֣ם_ אַרְבַּעְתָּ֑יִם (II Sam. 12:6)
+NIV	_He must pay for_ that lamb four times over, because he did such a thing and had no pity.”
+ESV	and _he shall restore_ the lamb fourfold, because he did this thing, and because he had no pity.”
+
+(x)	וּבַ֣יִת לֹֽא־_תִבְנ֗וּ_ (Jer. 35:7)
+NIV	Also you must never build houses, sow seed or plant vineyards. you must never have any of these things, but must always live in tents. Then you will live a long time in the land where you are nomads.’
+ESV	You shall not build a house. you shall not sow seed. you shall not plant or have a vineyard. but you shall live in tents all your days, that you may live many days in the land where you sojourn.’
+
+(x)	וְהַבָּ֥א אֶל־הַבַּ֖יִת _יוּמָ֑ת_ (II Chr. 23:7)
+NIV	The Levites are to station themselves round the king, each man with his weapons in his hand. Anyone who enters the temple _must be put to death_. Stay close to the king wherever he goes.”
+ESV	The Levites shall surround the king, each with his weapons in his hand. And whoever enters the house _shall be put to death_. Be with the king when he comes in and when he goes out.”

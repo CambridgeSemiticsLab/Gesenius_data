@@ -1,7 +1,0 @@
-eng_TAM == "PRES.PERF.IND" and lex_etcbc == "BXR["
-5 of 38
-has chosen (ESV, NIV | BHS בְּךָ֞ בָּחַ֣ר׀ יְהוָ֣ה אֱלֹהֶ֗יךָ  Deut. 7:6)
-you have chosen (ESV, NIV | BHS אֲשֶׁ֣ר בָּחָ֑רְתָּ  I Kgs. 3:8)
-I have chosen (ESV, NIV | BHS אֲשֶׁ֣ר בָּחָ֑רְתִּי  Isa. 43:10)
-has chosen (ESV, NIV | BHS כִּֽי־יַעֲקֹ֗ב בָּחַ֣ר לֹ֣ו יָ֑הּ  Psa. 135:4)
-I have chosen (ESV, NIV | BHS אֲשֶׁ֤ר בָּחַ֨רְתִּי֙ מִכֹּל֙ שִׁבְטֵ֣י יִשְׂרָאֵ֔ל  II Chr. 33:7)

@@ -1,27 +1,101 @@
 eng_TAMsimp == "MOD is to ~ MOD shall" and has_time == 1 
 25 of 40
-you shall eat, you are to eat (ESV, NIV | BHS שִׁבְעַ֤ת יָמִים֙ מַצֹּ֣ות תֹּאכֵ֔לוּ , Exod. 12:15)
-you shall gather, you are to gather (ESV, NIV | BHS שֵׁ֥שֶׁת יָמִ֖ים תִּלְקְטֻ֑הוּ , Exod. 16:26)
-you shall sow, you are to sow (ESV, NIV | BHS וְשֵׁ֥שׁ שָׁנִ֖ים תִּזְרַ֣ע אֶת־אַרְצֶ֑ךָ , Exod. 23:10)
-you shall keep a feast, you are to celebrate a festival (ESV, NIV | BHS שָׁלֹ֣שׁ רְגָלִ֔ים תָּחֹ֥ג לִ֖י בַּשָּׁנָֽה׃ , Exod. 23:14)
-shall wear, is to wear (ESV, NIV | BHS שִׁבְעַ֣ת יָמִ֗ים יִלְבָּשָׁ֧ם הַכֹּהֵ֛ן תַּחְתָּ֖יו מִבָּנָ֑יו , Exod. 29:30)
-shall be done, is to be done (ESV, NIV | BHS שֵׁ֣שֶׁת יָמִים֮ תֵּעָשֶׂ֣ה מְלָאכָה֒ , Exod. 35:2)
-shall offer, are to bring (ESV, NIV | BHS אֲשֶׁר־יַקְרִ֣יבוּ לַֽיהוָ֗ה בְּיֹום֙ , Lev. 6:13)
-shall go in, is to go in (ESV, NIV | BHS וְאַ֥חַר כֵּ֛ן יָבֹ֥א הַכֹּהֵ֖ן , Lev. 14:36)
-it shall be, are to consider (ESV, NIV | BHS שָׁלֹ֣שׁ שָׁנִ֗ים יִהְיֶ֥ה לָכֶ֛ם עֲרֵלִ֖ים , Lev. 19:23)
-shall you keep, you are to observe (ESV, NIV | BHS בְּתִשְׁעָ֤ה לַחֹ֨דֶשׁ֙ בָּעֶ֔רֶב מֵעֶ֣רֶב עַד־עֶ֔רֶב תִּשְׁבְּת֖וּ שַׁבַּתְּכֶֽם׃ פ , Lev. 23:32)
-aaron shall arrange, is to be set out (ESV, NIV | BHS בְּיֹ֨ום הַשַּׁבָּ֜ת בְּיֹ֣ום הַשַּׁבָּ֗ת יַֽעַרְכֶ֛נּוּ לִפְנֵ֥י יְהוָ֖ה תָּמִ֑יד , Lev. 24:8)
-there shall be, is to have (ESV, NIV | BHS וּבַשָּׁנָ֣ה הַשְּׁבִיעִ֗ת שַׁבַּ֤ת שַׁבָּתֹון֙ יִהְיֶ֣ה לָאָ֔רֶץ שַׁבָּ֖ת לַיהוָ֑ה , Lev. 25:4)
-he shall serve, he is to work (ESV, NIV | BHS עַד־שְׁנַ֥ת הַיֹּבֵ֖ל יַעֲבֹ֥ד עִמָּֽךְ׃ , Lev. 25:40)
-shall make drink, he is to have drink (ESV, NIV | BHS וְאַחַ֛ר יַשְׁקֶ֥ה אֶת־הָאִשָּׁ֖ה אֶת־הַמָּֽיִם׃ , Num. 5:26)
-shall go in, they are to come (ESV, NIV | BHS וְאַֽחֲרֵי־כֵן֙ יָבֹ֣אוּ הַלְוִיִּ֔ם , Num. 8:15)
-you shall eat, are to eat (ESV, NIV | BHS לִפְנֵי֩ יְהוָ֨ה אֱלֹהֶ֤יךָ תֹאכֲלֶ֨נּוּ֙ שָׁנָ֣ה בְשָׁנָ֔ה בַּמָּקֹ֖ום , Deut. 15:20)
-he shall be, he is to be (ESV, NIV | BHS נָקִ֞י יִהְיֶ֤ה לְבֵיתֹו֙ שָׁנָ֣ה אֶחָ֔ת , Deut. 24:5)
-you shall provide, you are to provide (ESV, NIV | BHS שִׁבְעַ֣ת יָמִ֔ים תַּעֲשֶׂ֥ה שְׂעִיר־חַטָּ֖את לַיֹּ֑ום , Ezek. 43:25)
-you shall take, you are to take (ESV, NIV | BHS בָּֽרִאשֹׁון֙ בְּאֶחָ֣ד לַחֹ֔דֶשׁ תִּקַּ֥ח פַּר־בֶּן־בָּקָ֖ר תָּמִ֑ים , Ezek. 45:18)
-you shall do, you are to do (ESV, NIV | BHS וְכֵ֤ן תַּֽעֲשֶׂה֙ בְּשִׁבְעָ֣ה בַחֹ֔דֶשׁ מֵאִ֥ישׁ שֹׁגֶ֖ה וּמִפֶּ֑תִי , Ezek. 45:20)
-he shall provide, he is to provide (ESV, NIV | BHS וְשִׁבְעַ֨ת יְמֵֽי־הֶחָ֜ג יַעֲשֶׂ֧ה עֹולָ֣ה לַֽיהוָ֗ה שִׁבְעַ֣ת פָּ֠רִים וְשִׁבְעַ֨ת אֵילִ֤ים תְּמִימִם֙ לַיֹּ֔ום שִׁבְעַ֖ת הַיָּמִ֑ים , Ezek. 45:23)
-shall be, is to be (ESV, NIV | BHS יִהְיֶ֣ה סָג֔וּר שֵׁ֖שֶׁת יְמֵ֣י הַֽמַּעֲשֶׂ֑ה , Ezek. 46:1)
-it shall be opened, it is to be opened (ESV, NIV | BHS וּבְיֹ֤ום הַשַּׁבָּת֙ יִפָּתֵ֔חַ , Ezek. 46:1)
-shall be, is to be (ESV, NIV | BHS וּבַחַגִּ֣ים וּבַמֹּועֲדִ֗ים תִּהְיֶ֤ה הַמִּנְחָה֙ אֵיפָ֤ה לַפָּר֙ וְאֵיפָ֣ה לָאַ֔יִל , Ezek. 46:11)
-you shall provide, you are to provide (ESV, NIV | BHS וְכֶ֨בֶשׂ בֶּן־שְׁנָתֹ֜ו תָּמִ֗ים תַּעֲשֶׂ֥ה עֹולָ֛ה לַיֹּ֖ום לַֽיהֹוָ֑ה , Ezek. 46:13)
+(x)	שִׁבְעַ֤ת יָמִים֙ מַצֹּ֣ות _תֹּאכֵ֔לוּ_ (Exod. 12:15)
+NIV	For seven days _you are to eat_ bread made without yeast. On the first day remove the yeast from your houses, for whoever eats anything with yeast in it from the first day through the seventh must be cut off from Israel.
+ESV	Seven days _you shall eat_ unleavened bread. On the first day you shall remove leaven out of your houses, for if anyone eats what is leavened, from the first day until the seventh day, that person shall be cut off from Israel.
+
+(x)	שֵׁ֥שֶׁת יָמִ֖ים _תִּלְקְטֻ֑הוּ_ (Exod. 16:26)
+NIV	Six days _you are to gather_ it, but on the seventh day, the Sabbath, there will not be any.”
+ESV	Six days _you shall gather_ it, but on the seventh day, which is a Sabbath, there will be none.”
+
+(x)	וְשֵׁ֥שׁ שָׁנִ֖ים _תִּזְרַ֣ע_ אֶת־אַרְצֶ֑ךָ (Exod. 23:10)
+NIV	“For six years _you are to sow_ your fields and harvest the crops,
+ESV	“For six years _you shall sow_ your land and gather in its yield,
+
+(x)	שָׁלֹ֣שׁ רְגָלִ֔ים _תָּחֹ֥ג_ לִ֖י בַּשָּׁנָֽה׃ (Exod. 23:14)
+NIV	“Three times a year _you are to celebrate a festival_ to me.
+ESV	“Three times in the year _you shall keep a feast_ to me.
+
+(x)	שִׁבְעַ֣ת יָמִ֗ים _יִלְבָּשָׁ֧ם_ הַכֹּהֵ֛ן תַּחְתָּ֖יו מִבָּנָ֑יו אֲשֶׁ֥ר יָבֹ֛א אֶל־אֹ֥הֶל מֹועֵ֖ד לְשָׁרֵ֥ת בַּקֹּֽדֶשׁ׃ (Exod. 29:30)
+NIV	The son who succeeds him as priest and comes to the Tent of Meeting to minister in the Holy Place _is to wear_ them seven days.
+ESV	The son who succeeds him as priest, who comes into the tent of meeting to minister in the Holy Place, _shall wear_ them seven days.
+
+(x)	שֵׁ֣שֶׁת יָמִים֮ _תֵּעָשֶׂ֣ה_ מְלָאכָה֒ (Exod. 35:2)
+NIV	For six days, work _is to be done_, but the seventh day shall be your holy day, a Sabbath of rest to the LORD. Whoever does any work on it must be put to death.
+ESV	Six days work _shall be done_, but on the seventh day you shall have a Sabbath of solemn rest, holy to the Lord. Whoever does any work on it shall be put to death.
+
+(x)	זֶ֡ה קָרְבַּן֩ אַהֲרֹ֨ן וּבָנָ֜יו אֲשֶׁר־_יַקְרִ֣יבוּ_ לַֽיהוָ֗ה בְּיֹום֙ הִמָּשַׁ֣ח אֹתֹ֔ו עֲשִׂירִ֨ת הָאֵפָ֥ה סֹ֛לֶת מַחֲצִיתָ֣הּ בַּבֹּ֔קֶר וּמַחֲצִיתָ֖הּ בָּעָֽרֶב׃ (Lev. 6:13)
+NIV	“This is the offering Aaron and his sons _are to bring_ to the LORD on the day he is anointed: a tenth of an ephah of fine flour as a regular grain offering, half of it in the morning and half in the evening.
+ESV	“This is the offering that Aaron and his sons _shall offer_ to the Lord on the day when he is anointed: a tenth of an ephah of fine flour as a regular grain offering, half of it in the morning and half in the evening.
+
+(x)	וְאַ֥חַר כֵּ֛ן _יָבֹ֥א_ הַכֹּהֵ֖ן לִרְאֹ֥ות אֶת־הַבָּֽיִת׃ (Lev. 14:36)
+NIV	The priest is to order the house to be emptied before he goes in to examine the mildew, so that nothing in the house will be pronounced unclean. After this the priest _is to go in_ and inspect the house.
+ESV	Then the priest shall command that they empty the house before the priest goes to examine the disease, lest all that is in the house be declared unclean. And afterward the priest _shall go in_ to see the house.
+
+(x)	שָׁלֹ֣שׁ שָׁנִ֗ים _יִהְיֶ֥ה_ לָכֶ֛ם עֲרֵלִ֖ים לְהֹוסִ֥יף לָכֶ֖ם תְּבוּאָתֹ֑ו (Lev. 19:23)
+NIV	“‘When you enter the land and plant any kind of fruit tree, regard its fruit as forbidden. For three years you _are to consider_ it forbidden. it must not be eaten.
+ESV	“When you come into the land and plant any kind of tree for food, then you shall regard its fruit as forbidden. Three years _it shall be_ forbidden to you. it must not be eaten.
+
+(x)	בְּתִשְׁעָ֤ה לַחֹ֨דֶשׁ֙ בָּעֶ֔רֶב מֵעֶ֣רֶב עַד־עֶ֔רֶב _תִּשְׁבְּת֖וּ_ שַׁבַּתְּכֶֽם׃ פ (Lev. 23:32)
+NIV	It is a sabbath of rest for you, and you must deny yourselves. From the evening of the ninth day of the month until the following evening _you are to observe_ your sabbath.”
+ESV	It shall be to you a Sabbath of solemn rest, and you shall afflict yourselves. On the ninth day of the month beginning at evening, from evening to evening _shall you keep_ your Sabbath.”
+
+(x)	בְּיֹ֨ום הַשַּׁבָּ֜ת בְּיֹ֣ום הַשַּׁבָּ֗ת _יַֽעַרְכֶ֛נּוּ_ לִפְנֵ֥י יְהוָ֖ה תָּמִ֑יד (Lev. 24:8)
+NIV	This bread _is to be set out_ before the LORD regularly, Sabbath after Sabbath, on behalf of the Israelites, as a lasting covenant.
+ESV	Every Sabbath day _Aaron shall arrange_ it before the Lord regularly. it is from the people of Israel as a covenant forever.
+
+(x)	וּבַשָּׁנָ֣ה הַשְּׁבִיעִ֗ת שַׁבַּ֤ת שַׁבָּתֹון֙ _יִהְיֶ֣ה_ לָאָ֔רֶץ שַׁבָּ֖ת לַיהוָ֑ה (Lev. 25:4)
+NIV	But in the seventh year the land _is to have_ a sabbath of rest, a sabbath to the LORD. Do not sow your fields or prune your vineyards.
+ESV	but in the seventh year _there shall be_ a Sabbath of solemn rest for the land, a Sabbath to the Lord. You shall not sow your field or prune your vineyard.
+
+(x)	עַד־שְׁנַ֥ת הַיֹּבֵ֖ל _יַעֲבֹ֥ד_ עִמָּֽךְ׃ (Lev. 25:40)
+NIV	He is to be treated as a hired worker or a temporary resident among you. _he is to work_ for you until the Year of Jubilee.
+ESV	he shall be with you as a hired servant and as a sojourner. _He shall serve_ with you until the year of the jubilee.
+
+(x)	וְאַחַ֛ר _יַשְׁקֶ֥ה_ אֶת־הָאִשָּׁ֖ה אֶת־הַמָּֽיִם׃ (Num. 5:26)
+NIV	The priest is then to take a handful of the grain offering as a memorial offering and burn it on the altar. after that, he is to have the woman drink the water.
+ESV	And the priest shall take a handful of the grain offering, as its memorial portion, and burn it on the altar, and afterward shall make the woman drink the water.
+
+(x)	וְאַֽחֲרֵי־כֵן֙ _יָבֹ֣אוּ_ הַלְוִיִּ֔ם לַעֲבֹ֖ד אֶת־אֹ֣הֶל מֹועֵ֑ד (Num. 8:15)
+NIV	“After you have purified the Levites and presented them as a wave offering, _they are to come_ to do their work at the Tent of Meeting.
+ESV	And after that the Levites _shall go in_ to serve at the tent of meeting, when you have cleansed them and offered them as a wave offering.
+
+(x)	לִפְנֵי֩ יְהוָ֨ה אֱלֹהֶ֤יךָ _תֹאכֲלֶ֨נּוּ֙_ שָׁנָ֣ה בְשָׁנָ֔ה בַּמָּקֹ֖ום אֲשֶׁר־יִבְחַ֣ר יְהוָ֑ה אַתָּ֖ה וּבֵיתֶֽךָ׃ (Deut. 15:20)
+NIV	Each year you and your family _are to eat_ them in the presence of the LORD your God at the place he will choose.
+ESV	_You shall eat_ it, you and your household, before the Lord your God year by year at the place that the Lord will choose.
+
+(x)	נָקִ֞י _יִהְיֶ֤ה_ לְבֵיתֹו֙ שָׁנָ֣ה אֶחָ֔ת (Deut. 24:5)
+NIV	If a man has recently married, he must not be sent to war or have any other duty laid on him. For one year _he is to be_ free to stay at home and bring happiness to the wife he has married.
+ESV	“When a man is newly married, he shall not go out with the army or be liable for any other public duty. _He shall be_ free at home one year to be happy with his wife whom he has taken.
+
+(x)	שִׁבְעַ֣ת יָמִ֔ים _תַּעֲשֶׂ֥ה_ שְׂעִיר־חַטָּ֖את לַיֹּ֑ום (Ezek. 43:25)
+NIV	“For seven days _you are to provide_ a male goat daily for a sin offering. you are also to provide a young bull and a ram from the flock, both without defect.
+ESV	For seven days _you shall provide_ daily a male goat for a sin offering. also, a bull from the herd and a ram from the flock, without blemish, shall be provided.
+
+(x)	בָּֽרִאשֹׁון֙ בְּאֶחָ֣ד לַחֹ֔דֶשׁ _תִּקַּ֥ח_ פַּר־בֶּן־בָּקָ֖ר תָּמִ֑ים (Ezek. 45:18)
+NIV	“‘This is what the Sovereign LORD says: In the first month on the first day _you are to take_ a young bull without defect and purify the sanctuary.
+ESV	“Thus says the Lord God: In the first month, on the first day of the month, _you shall take_ a bull from the herd without blemish, and purify the sanctuary.
+
+(x)	וְכֵ֤ן _תַּֽעֲשֶׂה֙_ בְּשִׁבְעָ֣ה בַחֹ֔דֶשׁ מֵאִ֥ישׁ שֹׁגֶ֖ה וּמִפֶּ֑תִי (Ezek. 45:20)
+NIV	_You are to do_ the same on the seventh day of the month for anyone who sins unintentionally or through ignorance. so you are to make atonement for the temple.
+ESV	_You shall do_ the same on the seventh day of the month for anyone who has sinned through error or ignorance. so you shall make atonement for the temple.
+
+(x)	וְשִׁבְעַ֨ת יְמֵֽי־הֶחָ֜ג _יַעֲשֶׂ֧ה_ עֹולָ֣ה לַֽיהוָ֗ה שִׁבְעַ֣ת פָּ֠רִים וְשִׁבְעַ֨ת אֵילִ֤ים תְּמִימִם֙ לַיֹּ֔ום שִׁבְעַ֖ת הַיָּמִ֑ים וְחַטָּ֕את שְׂעִ֥יר עִזִּ֖ים לַיֹּֽום׃ (Ezek. 45:23)
+NIV	Every day during the seven days of the Feast _he is to provide_ seven bulls and seven rams without defect as a burnt offering to the LORD, and a male goat for a sin offering.
+ESV	And on the seven days of the festival _he shall provide_ as a burnt offering to the Lord seven young bulls and seven rams without blemish, on each of the seven days. and a male goat daily for a sin offering.
+
+(x)	שַׁ֜עַר הֶחָצֵ֤ר הַפְּנִימִית֙ הַפֹּנֶ֣ה קָדִ֔ים _יִהְיֶ֣ה_ סָג֔וּר שֵׁ֖שֶׁת יְמֵ֣י הַֽמַּעֲשֶׂ֑ה (Ezek. 46:1)
+NIV	“‘This is what the Sovereign LORD says: The gate of the inner court facing east _is to be_ shut on the six working days, but on the Sabbath day and on the day of the New Moon it _is to be_ opened.
+ESV	“Thus says the Lord God: The gate of the inner court that faces east _shall be_ shut on the six working days, but on the Sabbath day it _shall be_ opened, and on the day of the new moon it _shall be_ opened.
+
+(x)	וּבְיֹ֤ום הַשַּׁבָּת֙ _יִפָּתֵ֔חַ_ (Ezek. 46:1)
+NIV	“‘This is what the Sovereign LORD says: The gate of the inner court facing east is to be shut on the six working days, but on the Sabbath day and on the day of the New Moon _it is to be opened_.
+ESV	“Thus says the Lord God: The gate of the inner court that faces east shall be shut on the six working days, but on the Sabbath day _it shall be opened_, and on the day of the new moon _it shall be opened_.
+
+(x)	וּבַחַגִּ֣ים וּבַמֹּועֲדִ֗ים _תִּהְיֶ֤ה_ הַמִּנְחָה֙ אֵיפָ֤ה לַפָּר֙ וְאֵיפָ֣ה לָאַ֔יִל וְלַכְּבָשִׂ֖ים מַתַּ֣ת יָדֹ֑ו (Ezek. 46:11)
+NIV	“‘At the festivals and the appointed feasts, the grain offering _is to be_ an ephah with a bull, an ephah with a ram, and with the lambs as much as one pleases, along with a hin of oil for each ephah.
+ESV	“At the feasts and the appointed festivals, the grain offering with a young bull _shall be_ an ephah, and with a ram an ephah, and with the lambs as much as one is able to give, together with a hin of oil to an ephah.
+
+(x)	וְכֶ֨בֶשׂ בֶּן־שְׁנָתֹ֜ו תָּמִ֗ים _תַּעֲשֶׂ֥ה_ עֹולָ֛ה לַיֹּ֖ום לַֽיהֹוָ֑ה (Ezek. 46:13)
+NIV	“‘Every day _you are to provide_ a year-old lamb without defect for a burnt offering to the LORD. morning by morning you shall provide it.
+ESV	“_You shall provide_ a lamb a year old without blemish for a burnt offering to the Lord daily. morning by morning you shall provide it.

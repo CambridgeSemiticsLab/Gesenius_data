@@ -1,17 +1,61 @@
 eng_TAMsimp == "MOD must ~ MOD shall" and genre == "instruction" 
 15 of 137
-shall bring, must take (ESV, NIV | BHS וְהִגִּישֹׁ֤ו אֲדֹנָיו֙ אֶל־הָ֣אֱלֹהִ֔ים , Exod. 21:6)
-he shall carry, he must take (ESV, NIV | BHS וְהֹוצִ֣יא אֶת־כָּל־הַ֠פָּר אֶל־מִח֨וּץ לַֽמַּחֲנֶ֜ה אֶל־מָקֹ֤ום טָהֹור֙ אֶל־שֶׁ֣פֶךְ הַדֶּ֔שֶׁן , Lev. 4:12)
-shall be cut off, must be cut off (ESV, NIV | BHS וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מֵֽעַמֶּֽיהָ׃ פ , Lev. 7:27)
-he shall burn, he must burn up (ESV, NIV | BHS וְשָׂרַ֨ף אֶת־הַבֶּ֜גֶד אֹ֥ו אֶֽת־הַשְּׁתִ֣י׀ אֹ֣ו אֶת־הָעֵ֗רֶב בַּצֶּ֨מֶר֙ אֹ֣ו בַפִּשְׁתִּ֔ים אֹ֚ו אֶת־כָּל־כְּלִ֣י הָעֹ֔ור , Lev. 13:52)
-tell (ESV, NIV | BHS וְהִגִּ֥יד לַכֹּהֵ֖ן , Lev. 14:35)
-wash, he must wash (ESV, NIV | BHS וְכִבֶּ֣ס בְּגָדָ֑יו , Lev. 15:13)
-bathe himself, bathe (ESV, NIV | BHS וְרָחַ֥ץ בַּמַּ֖יִם , Lev. 15:27)
-shall be cut off, must be cut off (ESV, NIV | BHS וְנִכְרַ֛ת הָאִ֥ישׁ הַה֖וּא מֵעַמָּֽיו׃ , Lev. 17:9)
-shall be cut off, must be cut off (ESV, NIV | BHS וְנִכְרְת֥וּ שְׁנֵיהֶ֖ם מִקֶּ֥רֶב עַמָּֽם׃ , Lev. 20:18)
-he shall add, he must add (ESV, NIV | BHS וְיָסַ֥ף חֲמִישִׁתֹ֖ו עַל־עֶרְכֶּֽךָ׃ , Lev. 27:13)
-shall shave, must shave off (ESV, NIV | BHS וְגִלַּ֣ח הַנָּזִ֗יר פֶּ֛תַח אֹ֥הֶל מֹועֵ֖ד אֶת־רֹ֣אשׁ נִזְרֹ֑ו , Num. 6:18)
-shall wash, must wash (ESV, NIV | BHS וְ֠כִבֶּס , Num. 19:10)
-you shall go, you must go (ESV, NIV | BHS וּבָ֥אתָ שָֽׁמָּה׃ , Deut. 12:5)
-shall appear, must stand (ESV, NIV | BHS וְעָמְד֧וּ שְׁנֵֽי־הָאֲנָשִׁ֛ים , Deut. 19:17)
-you shall purge, you must purge (ESV, NIV | BHS וּבִֽעַרְתָּ֥ הָרָ֖ע מִקִּרְבֶּֽךָ׃ , Deut. 24:7)
+(x)	וְ_הִגִּישֹׁ֤ו_ אֲדֹנָיו֙ אֶל־הָ֣אֱלֹהִ֔ים (Exod. 21:6)
+NIV	then his master _must take_ him before the judges. He shall take him to the door or the doorpost and pierce his ear with an awl. Then he will be his servant for life.
+ESV	then his master _shall bring_ him to God, and he _shall bring_ him to the door or the doorpost. And his master shall bore his ear through with an awl, and he shall be his slave forever.
+
+(x)	וְ_הֹוצִ֣יא_ אֶת־כָּל־הַ֠פָּר אֶל־מִח֨וּץ לַֽמַּחֲנֶ֜ה אֶל־מָקֹ֤ום טָהֹור֙ אֶל־שֶׁ֣פֶךְ הַדֶּ֔שֶׁן (Lev. 4:12)
+NIV	that is, all the rest of the bull — _he must take_ outside the camp to a place ceremonially clean, where the ashes are thrown, and burn it in a wood fire on the ash heap.
+ESV	all the rest of the bull — _he shall carry_ outside the camp to a clean place, to the ash heap, and shall burn it up on a fire of wood. On the ash heap it shall be burned up.
+
+(x)	כָּל־נֶ֖פֶשׁ אֲשֶׁר־תֹּאכַ֣ל כָּל־דָּ֑ם וְ_נִכְרְתָ֛ה_ הַנֶּ֥פֶשׁ הַהִ֖וא מֵֽעַמֶּֽיהָ׃ פ (Lev. 7:27)
+NIV	If anyone eats blood, that person _must be cut off_ from his people.’”
+ESV	Whoever eats any blood, that person _shall be cut off_ from his people.”
+
+(x)	וְ_שָׂרַ֨ף_ אֶת־הַבֶּ֜גֶד אֹ֥ו אֶֽת־הַשְּׁתִ֣י׀ אֹ֣ו אֶת־הָעֵ֗רֶב בַּצֶּ֨מֶר֙ אֹ֣ו בַפִּשְׁתִּ֔ים אֹ֚ו אֶת־כָּל־כְּלִ֣י הָעֹ֔ור אֲשֶׁר־יִהְיֶ֥ה בֹ֖ו הַנָּ֑גַע (Lev. 13:52)
+NIV	_He must burn up_ the clothing, or the woven or knitted material of wool or linen, or any leather article that has the contamination in it, because the mildew is destructive. the article must be burned up.
+ESV	And _he shall burn_ the garment, or the warp or the woof, the wool or the linen, or any article made of skin that is diseased, for it is a persistent leprous disease. It shall be burned in the fire.
+
+(x)	וְ_הִגִּ֥יד_ לַכֹּהֵ֖ן לֵאמֹ֑ר (Lev. 14:35)
+NIV	the owner of the house must go and _tell_ the priest, ‘I have seen something that looks like mildew in my house.’
+ESV	then he who owns the house shall come and _tell_ the priest, ‘There seems to me to be some case of disease in my house.’
+
+(x)	וְ_כִבֶּ֣ס_ בְּגָדָ֑יו (Lev. 15:13)
+NIV	“‘When a man is cleansed from his discharge, he is to count off seven days for his ceremonial cleansing. _he must wash_ his clothes and bathe himself with fresh water, and he will be clean.
+ESV	“And when the one with a discharge is cleansed of his discharge, then he shall count for himself seven days for his cleansing, and _wash_ his clothes. And he shall bathe his body in fresh water and shall be clean.
+
+(x)	וְ_רָחַ֥ץ_ בַּמַּ֖יִם (Lev. 15:27)
+NIV	Whoever touches them will be unclean. he must wash his clothes and _bathe_ with water, and he will be unclean till evening.
+ESV	And whoever touches these things shall be unclean, and shall wash his clothes and _bathe himself_ in water and be unclean until the evening.
+
+(x)	אִ֥ישׁ אִישׁ֙ מִבֵּ֣ית יִשְׂרָאֵ֔ל וּמִן־הַגֵּ֖ר אֲשֶׁר־יָג֣וּר בְּתֹוכָ֑ם אֲשֶׁר־יַעֲלֶ֥ה עֹלָ֖ה אֹו־זָֽבַח׃ וְאֶל־פֶּ֜תַח אֹ֤הֶל מֹועֵד֙ לֹ֣א יְבִיאֶ֔נּוּ לַעֲשֹׂ֥ות אֹתֹ֖ו לַיהוָ֑ה וְ_נִכְרַ֛ת_ הָאִ֥ישׁ הַה֖וּא מֵעַמָּֽיו׃ (Lev. 17:9)
+NIV	and does not bring it to the entrance to the Tent of Meeting to sacrifice it to the LORD — that man _must be cut off_ from his people.
+ESV	and does not bring it to the entrance of the tent of meeting to offer it to the Lord, that man _shall be cut off_ from his people.
+
+(x)	וְ_נִכְרְת֥וּ_ שְׁנֵיהֶ֖ם מִקֶּ֥רֶב עַמָּֽם׃ (Lev. 20:18)
+NIV	“‘If a man lies with a woman during her monthly period and has sexual relations with her, he has exposed the source of her flow, and she has also uncovered it. Both of them _must be cut off_ from their people.
+ESV	If a man lies with a woman during her menstrual period and uncovers her nakedness, he has made naked her fountain, and she has uncovered the fountain of her blood. Both of them _shall be cut off_ from among their people.
+
+(x)	וְ_יָסַ֥ף_ חֲמִישִׁתֹ֖ו עַל־עֶרְכֶּֽךָ׃ (Lev. 27:13)
+NIV	If the owner wishes to redeem the animal, _he must add_ a fifth to its value.
+ESV	But if he wishes to redeem it, _he shall add_ a fifth to the valuation.
+
+(x)	וְ_גִלַּ֣ח_ הַנָּזִ֗יר פֶּ֛תַח אֹ֥הֶל מֹועֵ֖ד אֶת־רֹ֣אשׁ נִזְרֹ֑ו (Num. 6:18)
+NIV	“‘Then at the entrance to the Tent of Meeting, the Nazirite _must shave off_ the hair that he dedicated. He is to take the hair and put it in the fire that is under the sacrifice of the fellowship offering.
+ESV	And the Nazirite _shall shave_ his consecrated head at the entrance of the tent of meeting and shall take the hair from his consecrated head and put it on the fire that is under the sacrifice of the peace offering.
+
+(x)	וְ֠_כִבֶּס_ הָאֹסֵ֨ף אֶת־אֵ֤פֶר הַפָּרָה֙ אֶת־בְּגָדָ֔יו (Num. 19:10)
+NIV	The man who gathers up the ashes of the heifer must also wash his clothes, and he too will be unclean till evening. This will be a lasting ordinance both for the Israelites and for the aliens living among them.
+ESV	And the one who gathers the ashes of the heifer _shall wash_ his clothes and be unclean until evening. And this shall be a perpetual statute for the people of Israel, and for the stranger who sojourns among them.
+
+(x)	וּ_בָ֥אתָ_ שָֽׁמָּה׃ (Deut. 12:5)
+NIV	But you are to seek the place the LORD your God will choose from among all your tribes to put his Name there for his dwelling. To that place _you must go_.
+ESV	But you shall seek the place that the Lord your God will choose out of all your tribes to put his name and make his habitation there. There _you shall go_,
+
+(x)	וְ_עָמְד֧וּ_ שְׁנֵֽי־הָאֲנָשִׁ֛ים אֲשֶׁר־לָהֶ֥ם הָרִ֖יב לִפְנֵ֣י יְהוָ֑ה לִפְנֵ֤י הַכֹּֽהֲנִים֙ וְהַשֹּׁ֣פְטִ֔ים אֲשֶׁ֥ר יִהְי֖וּ בַּיָּמִ֥ים הָהֵֽם׃ (Deut. 19:17)
+NIV	the two men involved in the dispute _must stand_ in the presence of the LORD before the priests and the judges who are in office at the time.
+ESV	then both parties to the dispute _shall appear_ before the Lord, before the priests and the judges who are in office in those days.
+
+(x)	וּ_בִֽעַרְתָּ֥_ הָרָ֖ע מִקִּרְבֶּֽךָ׃ (Deut. 24:7)
+NIV	If a man is caught kidnapping one of his brother Israelites and treats him as a slave or sells him, the kidnapper must die. _You must purge_ the evil from among you.
+ESV	“If a man is found stealing one of his brothers of the people of Israel, and if he treats him as a slave or sells him, then that thief shall die. So _you shall purge_ the evil from your midst.

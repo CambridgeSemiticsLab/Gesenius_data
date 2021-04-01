@@ -1,27 +1,101 @@
 eng_TAMsimp.isin(["FUT", "FUT ~ MOD shall"]) and person == "p3" and cl_args.isin(["_W_SV", "SV"]) 
-25 of 594
-shall bruise, will crush (ESV, NIV | BHS ה֚וּא יְשׁוּפְךָ֣ רֹ֔אשׁ , Gen. 3:15)
-shall raid, will attack (ESV, NIV | BHS וְה֖וּא יָגֻ֥ד עָקֵֽב׃ ס , Gen. 49:19)
-shall be unclean, will be unclean (ESV, NIV | BHS יִטְמָ֖א , Lev. 11:33)
-shall be, will be (ESV, NIV | BHS וּ֠בְנֵיכֶם יִהְי֨וּ רֹעִ֤ים בַּמִּדְבָּר֙ אַרְבָּעִ֣ים שָׁנָ֔ה , Num. 14:33)
-shall be, will be (ESV, NIV | BHS שֵׁשׁ־עָרֵ֥י מִקְלָ֖ט תִּהְיֶ֥ינָה לָכֶֽם׃ , Num. 35:13)
-shall be, will be (ESV, NIV | BHS וֵאלֹ֣הֵיהֶ֔ם יִהְי֥וּ לָכֶ֖ם לְמֹוקֵֽשׁ׃ , Judg. 2:3)
-shall be, will remain (ESV, NIV | BHS וְכִסֵּ֣א דָוִ֗ד יִהְיֶ֥ה נָכֹ֛ון לִפְנֵ֥י יְהוָ֖ה עַד־עֹולָֽם׃ , I Kgs. 2:45)
-will be brought low (ESV, NIV | BHS וְהַגְּבֹהִ֖ים יִשְׁפָּֽלוּ׃ , Isa. 10:33)
-will be in haste, will be dismayed (ESV, NIV | BHS לֹ֥א יָחִֽישׁ׃ , Isa. 28:16)
-will do, will accomplish (ESV, NIV | BHS קִנְאַ֛ת יְהוָ֥ה צְבָאֹ֖ות תַּֽעֲשֶׂה־זֹּֽאת׃ ס , Isa. 37:32)
-shall depart, will depart (ESV, NIV | BHS לֹֽא־יָמ֡וּשׁוּ מִפִּיךָ֩ וּמִפִּ֨י זַרְעֲךָ֜ וּמִפִּ֨י זֶ֤רַע זַרְעֲךָ֙ , Isa. 59:21)
-shall be, will be (ESV, NIV | BHS יִֽהְי֣וּ מֻשְׁלָכִים֩ בְּחֻצֹ֨ות יְרוּשָׁלִַ֜ם מִפְּנֵ֣י׀ הָרָעָ֣ב וְהַחֶ֗רֶב , Jer. 14:16)
-will be horrified, will be appalled (ESV, NIV | BHS יִשֹּׁ֥ם , Jer. 49:17)
-shall be heard, will be heard (ESV, NIV | BHS וְקֹ֣ול כִּנֹּורַ֔יִךְ לֹ֥א יִשָּׁמַ֖ע עֹֽוד׃ , Ezek. 26:13)
-shall be, will be (ESV, NIV | BHS וְהֵ֖מָּה יִֽהְיוּ־לִ֥י לְעָֽם׃ , Ezek. 37:27)
-shall be turned, will be turned (ESV, NIV | BHS הַשֶּׁ֨מֶשׁ֙ יֵהָפֵ֣ךְ לְחֹ֔שֶׁךְ , Joel 3:4)
-shall hoot, will echo (ESV, NIV | BHS קֹ֠ול יְשֹׁורֵ֤ר בַּֽחַלֹּון֙ , Zeph. 2:14)
-will rot (ESV, NIV | BHS וְעֵינָיו֙ תִּמַּ֣קְנָה בְחֹֽרֵיהֶ֔ן , Zech. 14:12)
-shall inherit, will inherit (ESV, NIV | BHS צַדִּיקִ֥ים יִֽירְשׁוּ־אָ֑רֶץ , Psa. 37:29)
-shall humble, will oppress (ESV, NIV | BHS וּבֶן־עַ֝וְלָ֗ה לֹ֣א יְעַנֶּֽנּוּ׃ , Psa. 89:23)
-shall pray, will pray (ESV, NIV | BHS וְאִיֹּ֣וב עַבְדִּ֔י יִתְפַּלֵּ֖ל עֲלֵיכֶ֑ם , Job 42:8)
-will flourish (ESV, NIV | BHS וְאֹ֖הֶל יְשָׁרִ֣ים יַפְרִֽיחַ׃ , Prov. 14:11)
-will be put out, will be snuffed out (ESV, NIV | BHS נֵ֖ר רְשָׁעִ֣ים יִדְעָֽךְ׃ , Prov. 24:20)
-shall break, will try to destroy (ESV, NIV | BHS וְאֹכְלֵ֧י פַת־בָּגֹ֛ו יִשְׁבְּר֖וּהוּ , Dan. 11:26)
-will deliver, will save (ESV, NIV | BHS יְהוָ֣ה אֱלֹהֵ֔ינוּ יַצִּילֵ֕נוּ מִכַּ֖ף מֶ֥לֶךְ אַשּֽׁוּר׃ , II Chr. 32:11)
+25 of 595
+(x)	ה֚וּא _יְשׁוּפְךָ֣_ רֹ֔אשׁ (Gen. 3:15)
+NIV	And I will put enmity between you and the woman, and between your offspring and hers. he _will crush_ your head, and you will strike his heel.”
+ESV	I will put enmity between you and the woman, and between your offspring and her offspring. he _shall bruise_ your head, and you _shall bruise_ his heel.”
+
+(x)	גָּ֖ד גְּד֣וּד יְגוּדֶ֑נּוּ וְה֖וּא _יָגֻ֥ד_ עָקֵֽב׃ ס (Gen. 49:19)
+NIV	“Gad will be attacked by a band of raiders, but he _will attack_ them at their heels.
+ESV	“Raiders _shall raid_ Gad, but he _shall raid_ at their heels.
+
+(x)	וְכָל־כְּלִי־חֶ֔רֶשׂ אֲשֶׁר־יִפֹּ֥ל מֵהֶ֖ם אֶל־תֹּוכֹ֑ו כֹּ֣ל אֲשֶׁ֧ר בְּתֹוכֹ֛ו _יִטְמָ֖א_ (Lev. 11:33)
+NIV	If one of them falls into a clay pot, everything in it _will be unclean_, and you must break the pot.
+ESV	And if any of them falls into any earthenware vessel, all that is in it _shall be unclean_, and you shall break it.
+
+(x)	וּ֠בְנֵיכֶם _יִהְי֨וּ_ רֹעִ֤ים בַּמִּדְבָּר֙ אַרְבָּעִ֣ים שָׁנָ֔ה (Num. 14:33)
+NIV	Your children _will be_ shepherds here for forty years, suffering for your unfaithfulness, until the last of your bodies lies in the desert.
+ESV	And your children _shall be_ shepherds in the wilderness forty years and shall suffer for your faithlessness, until the last of your dead bodies lies in the wilderness.
+
+(x)	וְהֶעָרִ֖ים אֲשֶׁ֣ר תִּתֵּ֑נוּ שֵׁשׁ־עָרֵ֥י מִקְלָ֖ט _תִּהְיֶ֥ינָה_ לָכֶֽם׃ (Num. 35:13)
+NIV	These six towns you give _will be_ your cities of refuge.
+ESV	And the cities that you give _shall be_ your six cities of refuge.
+
+(x)	וֵאלֹ֣הֵיהֶ֔ם _יִהְי֥וּ_ לָכֶ֖ם לְמֹוקֵֽשׁ׃ (Judg. 2:3)
+NIV	Now therefore I tell you that I will not drive them out before you. they _will be_ [ thorns ] in your sides and their gods _will be_ a snare to you.”
+ESV	So now I say, I will not drive them out before you, but they _shall be_come thorns in your sides, and their gods _shall be_ a snare to you.”
+
+(x)	וְכִסֵּ֣א דָוִ֗ד _יִהְיֶ֥ה_ נָכֹ֛ון לִפְנֵ֥י יְהוָ֖ה עַד־עֹולָֽם׃ (I Kgs. 2:45)
+NIV	But King Solomon will be blessed, and David’s throne _will remain_ secure before the LORD for ever.”
+ESV	But King Solomon _shall be_ blessed, and the throne of David _shall be_ established before the Lord forever.”
+
+(x)	וּפָרָ֤ה וָדֹב֙ _תִּרְעֶ֔ינָה_ יַחְדָּ֖ו (Isa. 11:7)
+NIV	The cow _will feed_ with the bear, their young will lie down together, and the lion will eat straw like the ox.
+ESV	The cow and the bear _shall graze_. their young shall lie down together. and the lion shall eat straw like the ox.
+
+(x)	הַֽמַּאֲמִ֖ין לֹ֥א _יָחִֽישׁ_׃ (Isa. 28:16)
+NIV	So this is what the Sovereign LORD says: “See, I lay a stone in Zion, a tested stone, a precious cornerstone for a sure foundation. the one who trusts will never be dismayed.
+ESV	therefore thus says the Lord God, “Behold, I am the one who has laid as a foundation in Zion, a stone, a tested stone, a precious cornerstone, of a sure foundation: ‘Whoever believes will not be in haste.’
+
+(x)	קִנְאַ֛ת יְהוָ֥ה צְבָאֹ֖ות _תַּֽעֲשֶׂה_־זֹּֽאת׃ ס (Isa. 37:32)
+NIV	For out of Jerusalem will come a remnant, and out of Mount Zion a band of survivors. The zeal of the LORD Almighty _will accomplish_ this.
+ESV	For out of Jerusalem shall go a remnant, and out of Mount Zion a band of survivors. The zeal of the Lord of hosts _will do_ this.
+
+(x)	רוּחִי֙ אֲשֶׁ֣ר עָלֶ֔יךָ וּדְבָרַ֖י אֲשֶׁר־שַׂ֣מְתִּי בְּפִ֑יךָ לֹֽא־_יָמ֡וּשׁוּ_ מִפִּיךָ֩ וּמִפִּ֨י זַרְעֲךָ֜ וּמִפִּ֨י זֶ֤רַע זַרְעֲךָ֙ מֵעַתָּ֖ה וְעַד־עֹולָֽם׃ ס (Isa. 59:21)
+NIV	“As for me, this is my covenant with them,” says the LORD. “My Spirit, who is on you, and my words that I have put in your mouth will not depart from your mouth, or from the mouths of your children, or from the mouths of their descendants from this time on and forever,” says the LORD.
+ESV	“And as for me, this is my covenant with them,” says the Lord: “My Spirit that is upon you, and my words that I have put in your mouth, shall not depart out of your mouth, or out of the mouth of your offspring, or out of the mouth of your children’s offspring,” says the Lord, “from this time forth and forevermore.”
+
+(x)	מִקְוֵ֤ה יִשְׂרָאֵל֙ יְהוָ֔ה כָּל־עֹזְבֶ֖יךָ _יֵבֹ֑שׁוּ_ (Jer. 17:13)
+NIV	O LORD, the hope of Israel, all who forsake you _will be put to shame_. Those who turn away from you will be written in the dust because they have forsaken the LORD, the spring of living water.
+ESV	O Lord, the hope of Israel, all who forsake you _shall be put to shame_. those who turn away from you shall be written in the earth, for they have forsaken the Lord, the fountain of living water.
+
+(x)	כֹּ֚ל עֹבֵ֣ר עָלֶ֔יהָ _יִשֹּׁ֥ם_ וְיִשְׁרֹ֖ק עַל־כָּל־מַכֹּותֶֽהָ׃ (Jer. 49:17)
+NIV	“Edom will become an object of horror. all who pass by _will be appalled_ and will scoff because of all its wounds.
+ESV	“Edom shall become a horror. Everyone who passes by it _will be horrified_ and will hiss because of all its disasters.
+
+(x)	וְקֹ֣ול כִּנֹּורַ֔יִךְ לֹ֥א _יִשָּׁמַ֖ע_ עֹֽוד׃ (Ezek. 26:13)
+NIV	I will put an end to your noisy songs, and the music of your harps _will be heard_ no more.
+ESV	And I will stop the music of your songs, and the sound of your lyres _shall be heard_ no more.
+
+(x)	שְׁבָ֡א וּ֠דְדָן וְסֹחֲרֵ֨י תַרְשִׁ֤ישׁ וְכָל־כְּפִרֶ֨יהָ֙ _יֹאמְר֣וּ_ לְךָ֔ (Ezek. 38:13)
+NIV	Sheba and Dedan and the merchants of Tarshish and all her villages _will say_ to you, “Have you come to plunder? Have you gathered your hordes to loot, to carry off silver and gold, to take away livestock and goods and to seize much plunder?”’
+ESV	Sheba and Dedan and the merchants of Tarshish and all its leaders _will say_ to you, ‘Have you come to seize spoil? Have you assembled your hosts to carry off plunder, to carry away silver and gold, to take away livestock and goods, to seize great spoil?’
+
+(x)	כֹּ֧ל אֲשֶׁר־יִקְרָ֛א בְּשֵׁ֥ם יְהוָ֖ה _יִמָּלֵ֑ט_ (Joel 3:5)
+NIV	And everyone who calls on the name of the LORD _will be saved_. for on Mount Zion and in Jerusalem there will be deliverance, as the LORD has said, among the survivors whom the LORD calls.
+ESV	And it shall come to pass that everyone who calls on the name of the Lord _shall be saved_. For in Mount Zion and in Jerusalem there shall be those who escape, as the Lord has said, and among the survivors shall be those whom the Lord calls.
+
+(x)	וְיֶ֥תֶר גֹּויִ֖י _יִנְחָלֽוּם_׃ (Zeph. 2:9)
+NIV	Therefore, as surely as I live,” declares the LORD Almighty, the God of Israel, “surely Moab will become like Sodom, the Ammonites like Gomorrah — a place of weeds and salt pits, a wasteland forever. The remnant of my people will plunder them. the survivors of my nation _will inherit_ their land.”
+ESV	Therefore, as I live,” declares the Lord of hosts, the God of Israel, “Moab shall become like Sodom, and the Ammonites like Gomorrah, a land possessed by nettles and salt pits, and a waste forever. The remnant of my people shall plunder them, and the survivors of my nation _shall possess_ them.”
+
+(x)	וְחֵ֖רֶם לֹ֣א _יִֽהְיֶה_־עֹ֑וד (Zech. 14:11)
+NIV	It will be inhabited. never again _will it be_ destroyed. Jerusalem will be secure.
+ESV	And it shall be inhabited, for there shall never again be a decree of utter destruction. Jerusalem shall dwell in security.
+
+(x)	צַדִּיקִ֥ים _יִֽירְשׁוּ_־אָ֑רֶץ (Psa. 37:29)
+NIV	the righteous _will inherit_ the land and dwell in it forever.
+ESV	The righteous _shall inherit_ the land and dwell upon it forever.
+
+(x)	וּבֶן־עַ֝וְלָ֗ה לֹ֣א _יְעַנֶּֽנּוּ_׃ (Psa. 89:23)
+NIV	No enemy will subject him to tribute. no wicked man _will oppress_ him.
+ESV	The enemy shall not outwit him. the wicked shall not humble him.
+
+(x)	וְצַדִּ֣יק _יִלְבָּ֑שׁ_ (Job 27:17)
+NIV	what he lays up the righteous _will wear_, and the innocent will divide his silver.
+ESV	he may pile it up, but the righteous _will wear_ it, and the innocent will divide the silver.
+
+(x)	וְאֹ֖הֶל יְשָׁרִ֣ים _יַפְרִֽיחַ_׃ (Prov. 14:11)
+NIV	The house of the wicked will be destroyed, but the tent of the upright _will flourish_.
+ESV	The house of the wicked will be destroyed, but the tent of the upright _will flourish_.
+
+(x)	נֵ֖ר רְשָׁעִ֣ים _יִדְעָֽךְ_׃ (Prov. 24:20)
+NIV	for the evil man has no future hope, and the lamp of the wicked _will be snuffed out_.
+ESV	for the evil man has no future. the lamp of the wicked _will be put out_.
+
+(x)	וְאֹכְלֵ֧י פַת־בָּגֹ֛ו _יִשְׁבְּר֖וּהוּ_ (Dan. 11:26)
+NIV	Those who eat from the king’s provisions _will try to destroy_ him. his army will be swept away, and many will fall in battle.
+ESV	Even those who eat his food _shall break_ him. His army shall be swept away, and many shall fall down slain.
+
+(x)	יְהוָ֣ה אֱלֹהֵ֔ינוּ _יַצִּילֵ֕נוּ_ מִכַּ֖ף מֶ֥לֶךְ אַשּֽׁוּר׃ (II Chr. 32:11)
+NIV	When Hezekiah says, ‘The LORD our God _will save_ us from the hand of the king of Assyria,’ he is misleading you, to let you die of hunger and thirst.
+ESV	Is not Hezekiah misleading you, that he may give you over to die by famine and by thirst, when he tells you, “The Lord our God _will deliver_ us from the hand of the king of Assyria”?

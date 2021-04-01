@@ -1,8 +1,8 @@
 genre,domain2,TOTAL,1,0
-prophetic,Q,3290,1770,1520
-poetry,Q,2971,2096,875
-prose,Q,2917,1569,1348
-instruction,Q,1622,540,1082
+prophetic,Q,3596,2015,1581
+prose,Q,3528,1951,1577
+poetry,Q,3517,2463,1054
+instruction,Q,1656,560,1096
 list,Q,31,3,28
 prose,N,28,19,9
 prophetic,N,2,1,1

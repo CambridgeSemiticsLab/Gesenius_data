@@ -1,37 +1,141 @@
 eng_TAMsimp == "PAST" and genre == "poetry" 
 35 of 214
-swallowed (ESV, NIV | BHS תִּבְלָעֵ֖מֹו אָֽרֶץ׃ , Exod. 15:12)
-you drank (ESV, NIV | BHS וְדַם־עֵנָ֖ב תִּשְׁתֶּה־חָֽמֶר׃ , Deut. 32:14)
-drank (ESV, NIV | BHS יִשְׁתּ֖וּ יֵ֣ין נְסִיכָ֑ם , Deut. 32:38)
-marched down, came (ESV, NIV | BHS יְהוָ֕ה יְרַד־לִ֖י בַּגִּבֹּורִֽים׃ , Judg. 5:13)
-thundered (ESV, NIV | BHS יַרְעֵ֥ם מִן־שָׁמַ֖יִם יְהוָ֑ה , II Sam. 22:14)
-they confronted (ESV, NIV | BHS יְקַדְּמֻ֖נִי בְּיֹ֣ום אֵידִ֑י , II Sam. 22:19)
-I crushed, I pounded (ESV, NIV | BHS כְּטִיט־חוּצֹ֥ות אֲדִקֵּ֖ם , II Sam. 22:43)
-crowned (ESV, NIV | BHS וְכָבֹ֖וד וְהָדָ֣ר תְּעַטְּרֵֽהוּ׃ , Psa. 8:6)
-uttered, resounded (ESV, NIV | BHS וְ֭עֶלְיֹון יִתֵּ֣ן קֹלֹ֑ו , Psa. 18:14)
-he rescued (ESV, NIV | BHS יְ֝חַלְּצֵ֗נִי , Psa. 18:20)
-you made sink, you made bow (ESV, NIV | BHS תַּכְרִ֖יעַ קָמַ֣י תַּחְתָּֽי׃ , Psa. 18:40)
-you lay (ESV, NIV | BHS וְֽלַעֲפַר־מָ֥וֶת תִּשְׁפְּתֵֽנִי׃ , Psa. 22:16)
-he subdued (ESV, NIV | BHS יַדְבֵּ֣ר עַמִּ֣ים תַּחְתֵּ֑ינוּ , Psa. 47:4)
-we walked (ESV, NIV | BHS בְּבֵ֥ית אֱ֝לֹהִ֗ים נְהַלֵּ֥ךְ בְּרָֽגֶשׁ׃ , Psa. 55:15)
-I was pricked, embittered (ESV, NIV | BHS וְ֝כִלְיֹותַ֗י אֶשְׁתֹּונָֽן׃ , Psa. 73:21)
-he caused to blow, he let loose (ESV, NIV | BHS יַסַּ֣ע קָ֭דִים בַּשָּׁמָ֑יִם , Psa. 78:26)
-he let loose, he unleashed (ESV, NIV | BHS יְשַׁלַּח־בָּ֨ם׀ חֲרֹ֬ון אַפֹּ֗ו עֶבְרָ֣ה וָזַ֣עַם וְצָרָ֑ה מִ֝שְׁלַ֗חַת מַלְאֲכֵ֥י רָעִֽים׃ , Psa. 78:49)
-it sent out (ESV, NIV | BHS תְּשַׁלַּ֣ח קְצִירֶ֣הָ עַד־יָ֑ם , Psa. 80:12)
-I loathed, I was angry (ESV, NIV | BHS אַרְבָּ֘עִ֤ים שָׁנָ֨ה׀ אָ֘ק֤וּט בְּדֹ֗ור , Psa. 95:10)
-rose, they flowed over (ESV, NIV | BHS יַעֲל֣וּ הָ֭רִים , Psa. 104:8)
-burned up, consumed (ESV, NIV | BHS לֶ֝הָבָ֗ה תְּלַהֵ֥ט רְשָׁעִֽים׃ , Psa. 106:18)
-he brought out (ESV, NIV | BHS יֹֽ֭וצִיאֵם מֵחֹ֣שֶׁךְ וְצַלְמָ֑וֶת , Psa. 107:14)
-delivered, he rescued (ESV, NIV | BHS וִֽ֝ימַלֵּ֗ט מִשְּׁחִיתֹותָֽם׃ ׆ , Psa. 107:20)
-he made be still, he stilled (ESV, NIV | BHS יָקֵ֣ם סְ֭עָרָה לִדְמָמָ֑ה , Psa. 107:29)
-I spoke, I said (ESV, NIV | BHS כִּ֣י אֲדַבֵּ֑ר , Psa. 116:10)
-were written (ESV, NIV | BHS וְעַֽל־סִפְרְךָ֮ כֻּלָּ֪ם יִכָּ֫תֵ֥בוּ , Psa. 139:16)
-it stood still, it stopped (ESV, NIV | BHS יַעֲמֹ֤ד׀ , Job 4:16)
-were written, were recorded (ESV, NIV | BHS וְיִכָּתְב֣וּן מִלָּ֑י , Job 19:23)
-they thrust (ESV, NIV | BHS יַטּ֣וּ אֶבְיֹונִ֣ים מִדָּ֑רֶךְ , Job 24:4)
-I delivered, I rescued (ESV, NIV | BHS כִּֽי־אֲ֭מַלֵּט עָנִ֣י , Job 29:12)
-I smiled (ESV, NIV | BHS אֶשְׂחַ֣ק אֲ֭לֵהֶם , Job 29:24)
-I stood in fear, I feared (ESV, NIV | BHS כִּ֤י אֶֽעֱרֹ֨וץ׀ הָ֘מֹ֤ון רַבָּ֗ה , Job 31:34)
-I did understand (ESV, NIV | BHS וְלֹ֣א אָבִ֑ין , Job 42:3)
-failed (ESV, NIV | BHS תִּכְלֶ֣ינָה עֵינֵ֔ינוּ אֶל־עֶזְרָתֵ֖נוּ הָ֑בֶל , Lam. 4:17)
-you delivered (ESV, NIV | BHS וְתַצִּילֵ֥ם כְּֽרַחֲמֶ֖יךָ רַבֹּ֥ות עִתִּֽים׃ , Neh. 9:28)
+(x)	_תִּבְלָעֵ֖מֹו_ אָֽרֶץ׃ (Exod. 15:12)
+NIV	You stretched out your right hand and the earth _swallowed_ them.
+ESV	You stretched out your right hand. the earth _swallowed_ them.
+
+(x)	וְדַם־עֵנָ֖ב _תִּשְׁתֶּה_־חָֽמֶר׃ (Deut. 32:14)
+NIV	with curds and milk from herd and flock and with fattened lambs and goats, with choice rams of Bashan and the finest grains of wheat. _You drank_ the foaming blood of the grape.
+ESV	Curds from the herd, and milk from the flock, with fat of lambs, rams of Bashan and goats, with the very finest of the wheat — and _you drank_ foaming wine made from the blood of the grape.
+
+(x)	אֵ֣י אֱלֹהֵ֑ימֹו צ֖וּר חָסָ֥יוּ בֹֽו׃ אֲשֶׁ֨ר חֵ֤לֶב זְבָחֵ֨ימֹו֙ יֹאכֵ֔לוּ _יִשְׁתּ֖וּ_ יֵ֣ין נְסִיכָ֑ם (Deut. 32:38)
+NIV	the gods who ate the fat of their sacrifices and _drank_ the wine of their drink offerings? Let them rise up to help you! Let them give you shelter!
+ESV	who ate the fat of their sacrifices and _drank_ the wine of their drink offering? Let them rise up and help you. let them be your protection!
+
+(x)	יְהוָ֕ה _יְרַד_־לִ֖י בַּגִּבֹּורִֽים׃ (Judg. 5:13)
+NIV	“Then the men who were left _came_ down to the nobles. the people of the LORD _came_ to me with the mighty.
+ESV	Then down marched the remnant of the noble. the people of the Lord _marched down_ for me against the mighty.
+
+(x)	_יַרְעֵ֥ם_ מִן־שָׁמַ֖יִם יְהוָ֑ה (II Sam. 22:14)
+NIV	The LORD _thundered_ from heaven. the voice of the Most High resounded.
+ESV	The Lord _thundered_ from heaven, and the Most High uttered his voice.
+
+(x)	_יְקַדְּמֻ֖נִי_ בְּיֹ֣ום אֵידִ֑י (II Sam. 22:19)
+NIV	_They confronted_ me in the day of my disaster, but the LORD was my support.
+ESV	_They confronted_ me in the day of my calamity, but the Lord was my support.
+
+(x)	כְּטִיט־חוּצֹ֥ות _אֲדִקֵּ֖ם_ (II Sam. 22:43)
+NIV	I beat them as fine as the dust of the earth. _I pounded_ and trampled them like mud in the streets.
+ESV	I beat them fine as the dust of the earth. _I crushed_ them and stamped them down like the mire of the streets.
+
+(x)	כִּ֣י תִפְקְדֶֽנּוּ׃ וַתְּחַסְּרֵ֣הוּ מְּ֭עַט מֵאֱלֹהִ֑ים וְכָבֹ֖וד וְהָדָ֣ר _תְּעַטְּרֵֽהוּ_׃ תַּ֭מְשִׁילֵהוּ בְּמַעֲשֵׂ֣י יָדֶ֑יךָ כֹּ֝ל שַׁ֣תָּה תַֽחַת־רַגְלָֽיו׃ צֹנֶ֣ה וַאֲלָפִ֣ים כֻּלָּ֑ם וְ֝גַ֗ם בַּהֲמֹ֥ות שָׂדָֽי׃ צִפֹּ֣ור שָׁ֭מַיִם וּדְגֵ֣י הַיָּ֑ם עֹ֝בֵ֗ר אָרְחֹ֥ות יַמִּֽים׃ (Psa. 8:6)
+NIV	You made him a little lower than the heavenly beingsc and _crowned_ him with glory and honor.
+ESV	Yet you have made him a little lower than the heavenly beings and _crowned_ him with glory and honor.
+
+(x)	וְ֭עֶלְיֹון _יִתֵּ֣ן_ קֹלֹ֑ו בָּ֝רָ֗ד וְגַֽחֲלֵי־אֵֽשׁ׃ (Psa. 18:14)
+NIV	The LORD thundered from heaven. the voice of the Most High _resounded_.
+ESV	The Lord also thundered in the heavens, and the Most High _uttered_ his voice, hailstones and coals of fire.
+
+(x)	_יְ֝חַלְּצֵ֗נִי_ (Psa. 18:20)
+NIV	He brought me out into a spacious place. _he rescued_ me because he delighted in me.
+ESV	He brought me out into a broad place. _he rescued_ me, because he delighted in me.
+
+(x)	_תַּכְרִ֖יעַ_ קָמַ֣י תַּחְתָּֽי׃ (Psa. 18:40)
+NIV	You armed me with strength for battle. you made my adversaries bow at my feet.
+ESV	For you equipped me with strength for the battle. you made those who rise against me sink under me.
+
+(x)	וְֽלַעֲפַר־מָ֥וֶת _תִּשְׁפְּתֵֽנִי_׃ (Psa. 22:16)
+NIV	My strength is dried up like a potsherd, and my tongue sticks to the roof of my mouth. _you lay_ me in the dust of death.
+ESV	my strength is dried up like a potsherd, and my tongue sticks to my jaws. _you lay_ me in the dust of death.
+
+(x)	_יַדְבֵּ֣ר_ עַמִּ֣ים תַּחְתֵּ֑ינוּ וּ֝לְאֻמִּ֗ים תַּ֣חַת רַגְלֵֽינוּ׃ (Psa. 47:4)
+NIV	_He subdued_ nations under us, peoples under our feet.
+ESV	_He subdued_ peoples under us, and nations under our feet.
+
+(x)	כִּ֤י לֹֽא־אֹויֵ֥ב יְחָֽרְפֵ֗נִי וְאֶ֫שָּׂ֥א לֹֽא־מְ֭שַׂנְאִי עָלַ֣י הִגְדִּ֑יל וְאֶסָּתֵ֥ר מִמֶּֽנּוּ׃ וְאַתָּ֣ה אֱנֹ֣ושׁ כְּעֶרְכִּ֑י אַ֝לּוּפִ֗י וּמְיֻדָּֽעִי׃ אֲשֶׁ֣ר יַ֭חְדָּו נַמְתִּ֣יק סֹ֑וד בְּבֵ֥ית אֱ֝לֹהִ֗ים _נְהַלֵּ֥ךְ_ בְּרָֽגֶשׁ׃ (Psa. 55:15)
+NIV	with whom I once enjoyed sweet fellowship as _we walked_ with the throng at the house of God.
+ESV	We used to take sweet counsel together. within God’s house _we walked_ in the throng.
+
+(x)	כִּ֭י יִתְחַמֵּ֣ץ לְבָבִ֑י וְ֝כִלְיֹותַ֗י _אֶשְׁתֹּונָֽן_׃ (Psa. 73:21)
+NIV	When my heart was grieved and my spirit _embittered_,
+ESV	When my soul was embittered, when _I was pricked_ in heart,
+
+(x)	_יַסַּ֣ע_ קָ֭דִים בַּשָּׁמָ֑יִם (Psa. 78:26)
+NIV	_He let loose_ the east wind from the heavens and led forth the south wind by his power.
+ESV	He caused the east wind to blow in the heavens, and by his power he led out the south wind.
+
+(x)	_יְשַׁלַּח_־בָּ֨ם׀ חֲרֹ֬ון אַפֹּ֗ו עֶבְרָ֣ה וָזַ֣עַם וְצָרָ֑ה מִ֝שְׁלַ֗חַת מַלְאֲכֵ֥י רָעִֽים׃ (Psa. 78:49)
+NIV	_He unleashed_ against them his hot anger, his wrath, indignation and hostility — a band of destroying angels.
+ESV	_He let loose_ on them his burning anger, wrath, indignation, and distress, a company of destroying angels.
+
+(x)	_תְּשַׁלַּ֣ח_ קְצִירֶ֣הָ עַד־יָ֑ם וְאֶל־נָ֝הָ֗ר יֹֽונְקֹותֶֽיהָ׃ (Psa. 80:12)
+NIV	_It sent out_ its boughs to the Sea, its shoots as far as the River.
+ESV	_It sent out_ its branches to the sea and its shoots to the River.
+
+(x)	אַרְבָּ֘עִ֤ים שָׁנָ֨ה׀ _אָ֘ק֤וּט_ בְּדֹ֗ור (Psa. 95:10)
+NIV	For forty years _I was angry_ with that generation. I said, “They are a people whose hearts go astray, and they have not known my ways.”
+ESV	For forty years _I loathed_ that generation and said, “They are a people who go astray in their heart, and they have not known my ways.”
+
+(x)	_יַעֲל֣וּ_ הָ֭רִים (Psa. 104:8)
+NIV	_they flowed over_ the mountains, they went down into the valleys, to the place you assigned for them.
+ESV	The mountains _rose_, the valleys sank down to the place that you appointed for them.
+
+(x)	לֶ֝הָבָ֗ה _תְּלַהֵ֥ט_ רְשָׁעִֽים׃ (Psa. 106:18)
+NIV	Fire blazed among their followers. a flame _consumed_ the wicked.
+ESV	Fire also broke out in their company. the flame _burned up_ the wicked.
+
+(x)	_יֹֽ֭וצִיאֵם_ מֵחֹ֣שֶׁךְ וְצַלְמָ֑וֶת (Psa. 107:14)
+NIV	He brought them out of darkness and the deepest gloom and broke away their chains.
+ESV	He brought them out of darkness and the shadow of death, and burst their bonds apart.
+
+(x)	וִֽ֝_ימַלֵּ֗ט_ מִשְּׁחִיתֹותָֽם׃ ׆ (Psa. 107:20)
+NIV	He sent forth his word and healed them. _he rescued_ them from the grave.
+ESV	He sent out his word and healed them, and _delivered_ them from their destruction.
+
+(x)	_יָקֵ֣ם_ סְ֭עָרָה לִדְמָמָ֑ה (Psa. 107:29)
+NIV	_He stilled_ the storm to a whisper. the waves of the sea were hushed.
+ESV	He made the storm be still, and the waves of the sea were hushed.
+
+(x)	כִּ֣י _אֲדַבֵּ֑ר_ אֲ֭נִי אָמַ֣רְתִּי בְחָפְזִ֑י (Psa. 116:10)
+NIV	I believed. therefore _I said_, “I am greatly afflicted.”
+ESV	I believed, even when _I spoke_, “I am greatly afflicted”.
+
+(x)	וְעַֽל־סִפְרְךָ֮ כֻּלָּ֪ם _יִכָּ֫תֵ֥בוּ_ יָמִ֥ים יֻצָּ֑רוּ (Psa. 139:16)
+NIV	your eyes saw my unformed body. All the days ordained for me _were written_ in your book before one of them came to be.
+ESV	Your eyes saw my unformed substance. in your book _were written_, every one of them, the days that were formed for me, when as yet there was none of them.
+
+(x)	_יַעֲמֹ֤ד_׀ (Job 4:16)
+NIV	_It stopped_, but I could not tell what it was. A form stood before my eyes, and I heard a hushed voice:
+ESV	_It stood still_, but I could not discern its appearance. A form was before my eyes. there was silence, then I heard a voice:
+
+(x)	וְ_יִכָּתְב֣וּן_ מִלָּ֑י (Job 19:23)
+NIV	“Oh, that my words _were recorded_, that they were written on a scroll,
+ESV	“Oh that my words _were written_! Oh that they were inscribed in a book!
+
+(x)	_יַטּ֣וּ_ אֶבְיֹונִ֣ים מִדָּ֑רֶךְ (Job 24:4)
+NIV	_They thrust_ the needy from the path and force all the poor of the land into hiding.
+ESV	_They thrust_ the poor off the road. the poor of the earth all hide themselves.
+
+(x)	כִּֽי־_אֲ֭מַלֵּט_ עָנִ֣י (Job 29:12)
+NIV	because _I rescued_ the poor who cried for help, and the fatherless who had none to assist him.
+ESV	because _I delivered_ the poor who cried for help, and the fatherless who had none to help him.
+
+(x)	_אֶשְׂחַ֣ק_ אֲ֭לֵהֶם לֹ֣א יַאֲמִ֑ינוּ (Job 29:24)
+NIV	When _I smiled_ at them, they scarcely believed it. the light of my face was precious to them.
+ESV	_I smiled_ on them when they had no confidence, and the light of my face they did not cast down.
+
+(x)	כִּ֤י _אֶֽעֱרֹ֨וץ_׀ הָ֘מֹ֤ון רַבָּ֗ה וּבוּז־מִשְׁפָּחֹ֥ות יְחִתֵּ֑נִי (Job 31:34)
+NIV	because I so feared the crowd and so dreaded the contempt of the clans that I kept silent and would not go outside —
+ESV	because I stood in great fear of the multitude, and the contempt of families terrified me, so that I kept silence, and did not go out of doors —
+
+(x)	וְלֹ֣א _אָבִ֑ין_ (Job 42:3)
+NIV	[ You asked, ] ‘Who is this that obscures my counsel without knowledge?’ Surely I spoke of things I did not understand, things too wonderful for me to know.
+ESV	‘Who is this that hides counsel without knowledge?’ Therefore I have uttered what I did not understand, things too wonderful for me, which I did not know.
+
+(x)	עֹודֵ֨ינוּ֙ _תִּכְלֶ֣ינָה_ עֵינֵ֔ינוּ אֶל־עֶזְרָתֵ֖נוּ הָ֑בֶל (Lam. 4:17)
+NIV	Moreover, our eyes _failed_, looking in vain for help. from our towers we watched for a nation that could not save us.
+ESV	Our eyes _failed_, ever watching vainly for help. in our watching we watched for a nation which could not save.
+
+(x)	וְ_תַצִּילֵ֥ם_ כְּֽרַחֲמֶ֖יךָ רַבֹּ֥ות עִתִּֽים׃ (Neh. 9:28)
+NIV	“But as soon as they were at rest, they again did what was evil in your sight. Then you abandoned them to the hand of their enemies so that they ruled over them. And when they cried out to you again, you heard from heaven, and in your compassion _you delivered_ them time after time.
+ESV	But after they had rest they did evil again before you, and you abandoned them to the hand of their enemies, so that they had dominion over them. Yet when they turned and cried to you, you heard from heaven, and many times _you delivered_ them according to your mercies.

@@ -1,5 +1,101 @@
 eng_TAMsimp == "IMPV" and prec_part == "_>L=_" 
-3 of 3
-do eat (ESV, NIV | BHS אַל־תֹּאכְל֤וּ מִמֶּ֨נּוּ֙ נָ֔א וּבָשֵׁ֥ל , Exod. 12:9)
-do make yourselves unclean, do defile yourselves (ESV, NIV | BHS אַל־תִּֽטַּמְּא֖וּ בְּכָל־אֵ֑לֶּה , Lev. 18:24)
-do be amazed, do be surprised (ESV, NIV | BHS אַל־תִּתְמַ֖הּ עַל־הַחֵ֑פֶץ , Eccl. 5:7)
+25 of 265
+(x)	אַל־_תִּירָ֣א_ אַבְרָ֗ם (Gen. 15:1)
+NIV	After this, the word of the LORD came to Abram in a vision: “Do not be afraid, Abram. I am your shield, your very great reward.”
+ESV	After these things the word of the Lord came to Abram in a vision: “_Fear_ not, Abram, I am your shield. your reward shall be very great.”
+
+(x)	אַֽל־_תַּעֲמֹֽד_׃ (Gen. 45:9)
+NIV	Now hurry back to my father and say to him, ‘This is what your son Joseph says: God has made me lord of all Egypt. Come down to me. don’t _delay_.
+ESV	Hurry and go up to my father and say to him, ‘Thus says your son Joseph, God has made me lord of all Egypt. Come down to me. do not tarry.
+
+(x)	אַל־_תִּֽטַּמְּא֖וּ_ בְּכָל־אֵ֑לֶּה (Lev. 18:24)
+NIV	“‘Do not defile yourselves in any of these ways, because this is how the nations that I am going to drive out before you became defiled.
+ESV	“Do not make yourselves unclean by any of these things, for by all these the nations I am driving out before you have become unclean,
+
+(x)	אַל־_תְּצֻרֵ֖ם_ (Deut. 2:19)
+NIV	When you come to the Ammonites, do not harass them or provoke them to war, for I will not give you possession of any land belonging to the Ammonites. I have given it as a possession to the descendants of Lot.”
+ESV	And when you approach the territory of the people of Ammon, do not harass them or contend with them, for I will not give you any of the land of the people of Ammon as a possession, because I have given it to the sons of Lot for a possession.’
+
+(x)	אַל־_תִּירָ֣א_ מֵהֶ֔ם (Josh. 10:8)
+NIV	The LORD said to Joshua, “Do not be afraid of them. I have given them into your hand. Not one of them will be able to withstand you.”
+ESV	And the Lord said to Joshua, “Do not fear them, for I have given them into your hands. Not a man of them shall stand before you.”
+
+(x)	אַל־_תִּֽירְאִ֖י_ (I Sam. 4:20)
+NIV	As she was dying, the women attending her said, “Don’t _despair_. you have given birth to a son.” But she did not respond or pay any attention.
+ESV	And about the time of her death the women attending her said to her, “Do not be afraid, for you have borne a son.” But she did not answer or pay attention.
+
+(x)	אַל־_יֵרַ֤ע_ בְּעֵינֶ֨יךָ֙ אֶת־הַדָּבָ֣ר הַזֶּ֔ה (II Sam. 11:25)
+NIV	David told the messenger, “Say this to Joab: ‘Don’t let this upset you. the sword devours one as well as another. Press the attack against the city and destroy it.’ Say this to encourage Joab.”
+ESV	David said to the messenger, “Thus shall you say to Joab, ‘Do not let this matter trouble you, for the sword devours now one and now another. Strengthen your attack against the city and overthrow it.’ And encourage him.”
+
+(x)	אַל־_תַּעֲצָר_־לִ֣י לִרְכֹּ֔ב (II Kgs. 4:24)
+NIV	She saddled the donkey and said to her servant, “Lead on. don’t _slow down_ for me unless I tell you.”
+ESV	Then she saddled the donkey, and she said to her servant, “Urge the animal on. do not slacken the pace for me unless I tell you.”
+
+(x)	נֹדֵ֖ד אַל־_תְּגַלִּֽי_׃ (Isa. 16:3)
+NIV	“Give us counsel, render a decision. Make your shadow like night — at high noon. Hide the fugitives, do not betray the refugees.
+ESV	“Give counsel. grant justice. make your shade like night at the height of noon. shelter the outcasts. do not reveal the fugitive.
+
+(x)	אַל־_תִּכְלָ֑אִי_ (Isa. 43:6)
+NIV	I will say to the north, ‘Give them up!’ and to the south, ‘Do not hold them back.’ Bring my sons from afar and my daughters from the ends of the earth —
+ESV	I will say to the north, Give up, and to the south, Do not withhold. bring my sons from afar and my daughters from the end of the earth,
+
+(x)	אַל־_תֹּאמַ֖ר_ (Jer. 1:7)
+NIV	But the LORD said to me, “Do not say, ‘I am only a child.’ You must go to everyone I send you to and say whatever I command you.
+ESV	But the Lord said to me, “Do not say, ‘I am only a youth’. for to all to whom I send you, you shall go, and whatever I command you, you shall speak.
+
+(x)	אַל־_תְּנַבֵּ֖ל_ כִּסֵּ֣א כְבֹודֶ֑ךָ (Jer. 14:21)
+NIV	For the sake of your name do not despise us. do not dishonour your glorious throne. Remember your covenant with us and do not break it.
+ESV	Do not spurn us, for your name’s sake. do not dishonor your glorious throne. remember and do not break your covenant with us.
+
+(x)	וְאַתָּ֡ה אַל־_תִּירָא֩_ עַבְדִּ֨י יַעֲקֹ֤ב וְאַל־תֵּחַ֣ת יִשְׂרָאֵ֔ל (Jer. 30:10)
+NIV	“‘So do not fear, O Jacob my servant. do not be dismayed, O Israel,’ declares the LORD. ‘I will surely save you out of a distant place, your descendants from the land of their exile. Jacob will again have peace and security, and no-one will make him afraid.
+ESV	“Then _fear_ not, O Jacob my servant, declares the Lord, nor be dismayed, O Israel. for behold, I will save you from far away, and your offspring from the land of their captivity. Jacob shall return and have quiet and ease, and none shall make him afraid.
+
+(x)	אַל־_תִּדַּ֖מּוּ_ בַּעֲוֹנָ֑הּ (Jer. 51:6)
+NIV	“Flee from Babylon! Run for your lives! Do not be destroyed because of her sins. It is time for the LORD’s vengeance. he will pay her what she deserves.
+ESV	“Flee from the midst of Babylon. let every one save his life! Be not cut off in her punishment, for this is the time of the Lord’s vengeance, the repayment he is rendering her.
+
+(x)	אַל־_תִּירָֽאוּ_׃ ס (Hag. 2:5)
+NIV	‘This is what I covenanted with you when you came out of Egypt. And my Spirit remains among you. Do not fear.’
+ESV	according to the covenant that I made with you when you came out of Egypt. My Spirit remains in your midst. _Fear_ not.
+
+(x)	אַל־_תִּֽהְי֤וּ_׀ כְּס֥וּס כְּפֶרֶד֮ (Psa. 32:9)
+NIV	Do not be like the horse or the mule, which have no understanding but must be controlled by bit and bridle or they will not come to you.
+ESV	_Be_ not like a horse or a mule, without understanding, which must be curbed with bit and bridle, or it will not stay near you.
+
+(x)	אַל־_תַּהַרְגֵ֤ם_׀ (Psa. 59:12)
+NIV	But do not kill them, O Lord our shield, or my people will forget. In your might make them wander about, and bring them down.
+ESV	_Kill_ them not, lest my people forget. make them totter by your power and bring them down, O Lord, our shield!
+
+(x)	אַל־_תָּרִ֣ימוּ_ לַמָּרֹ֣ום קַרְנְכֶ֑ם תְּדַבְּר֖וּ בְצַוָּ֣אר עָתָֽק׃ (Psa. 75:6)
+NIV	Do not lift your horns against heaven. do not speak with outstretched neck.’”
+ESV	do not lift up your horn on high, or speak with haughty neck.’”
+
+(x)	אַל־_תַּרְשִׁיעֵ֑נִי_ (Job 10:2)
+NIV	I will say to God: Do not condemn me, but tell me what charges you have against me.
+ESV	I will say to God, Do not condemn me. let me know why you contend against me.
+
+(x)	אַל־תָּרִ֣יב עִם־אָדָ֣ם חִנָּ֑ם (Prov. 3:30)
+NIV	Do not accuse a man for no reason — when he has done you no harm.
+ESV	Do not contend with a man for no reason, when he has done you no harm.
+
+(x)	אַל־_תִּלְחַ֗ם_ אֶת־לֶ֭חֶם רַ֣ע עָ֑יִן (Prov. 23:6)
+NIV	Do not eat the food of a stingy man, do not crave his delicacies.
+ESV	Do not eat the bread of a man who is stingy. do not desire his delicacies,
+
+(x)	אַל־_תִּמְנַ֥ע_ מִ֝מֶּ֗נִּי (Prov. 30:7)
+NIV	“Two things I ask of you, O LORD. do not refuse me before I die:
+ESV	Two things I ask of you. _deny_ them not to me before I die:
+
+(x)	אַל־_תֹּאמַר֙_ (Eccl. 7:10)
+NIV	Do not say, “Why were the old days better than these?” For it is not wise to ask such questions.
+ESV	_Say_ not, “Why were the former days better than these?” For it is not from wisdom that you ask this.
+
+(x)	אַל־_תִּירָ֧א_ אִישׁ־חֲמֻדֹ֛ות (Dan. 10:19)
+NIV	“Do not be afraid, O man highly esteemed,” he said. “Peace! Be strong now. be strong.” When he spoke to me, I was strengthened and said, “Speak, my lord, since you have given me strength.”
+ESV	And he said, “O man greatly loved, _fear_ not, peace be with you. be strong and of good courage.” And as he spoke to me, I was strengthened and said, “Let my lord speak, for you have strengthened me.”
+
+(x)	אַל־_יַשִּׁיא֩_ אֶתְכֶ֨ם חִזְקִיָּ֜הוּ (II Chr. 32:15)
+NIV	Now do not let Hezekiah deceive you and mislead you like this. Do not believe him, for no god of any nation or kingdom has been able to deliver his people from my hand or the hand of my fathers. How much less will your god deliver you from my hand!”
+ESV	Now, therefore, do not let Hezekiah deceive you or mislead you in this fashion, and do not believe him, for no god of any nation or kingdom has been able to deliver his people from my hand or from the hand of my fathers. How much less will your God deliver you out of my hand!’”

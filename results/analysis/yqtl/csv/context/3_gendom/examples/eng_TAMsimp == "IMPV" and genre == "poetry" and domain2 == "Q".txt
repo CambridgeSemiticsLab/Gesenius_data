@@ -1,12 +1,41 @@
 eng_TAMsimp == "IMPV" and genre == "poetry" and domain2 == "Q"
-10 of 44
-bring in, bring (ESV, NIV | BHS וְאֶל־עַמֹּ֖ו תְּבִיאֶ֑נּוּ , Deut. 33:7)
-call to account (ESV, NIV | BHS תִּֽדְרֹושׁ־רִשְׁעֹ֥ו , Psa. 10:15)
-open (ESV, NIV | BHS שְׂפָתַ֣י תִּפְתָּ֑ח , Psa. 51:17)
-restore (ESV, NIV | BHS תְּשֹׁ֣ובֵ֥ב לָֽנוּ׃ , Psa. 60:3)
-rescue (ESV, NIV | BHS בְּצִדְקָתְךָ֗ תַּצִּילֵ֥נִי , Psa. 71:2)
-do leave (ESV, NIV | BHS בַּל־תַּ֝נִּיחֵ֗נִי לְעֹֽשְׁקָֽי׃ , Psa. 119:121)
-come down (ESV, NIV | BHS וְתֵרֵ֑ד , Psa. 144:5)
-throw (ESV, NIV | BHS גֹּ֭ורָ֣לְךָ תַּפִּ֣יל בְּתֹוכֵ֑נוּ , Prov. 1:14)
-go, do associate (ESV, NIV | BHS וְאֶת־אִ֥ישׁ חֵ֝מֹות לֹ֣א תָבֹֽוא׃ , Prov. 22:24)
-do be amazed, do be surprised (ESV, NIV | BHS אַל־תִּתְמַ֖הּ עַל־הַחֵ֑פֶץ , Eccl. 5:7)
+10 of 183
+(x)	וְ_יִשְׁמְרֶֽךָ_׃ ס (Num. 6:24)
+NIV	“‘“The LORD bless you and _keep_ you.
+ESV	The Lord bless you and _keep_ you.
+
+(x)	אַֽל־_תִּטְּשֵׁ֥נִי_ (Psa. 27:9)
+NIV	Do not hide your face from me, do not turn your servant away in anger. you have been my helper. Do not reject me or forsake me, O God my Savior.
+ESV	Hide not your face from me. Turn not your servant away in anger, O you who have been my help. Cast me not off. forsake me not, O God of my salvation!
+
+(x)	_תְּחַטְּאֵ֣נִי_ בְאֵזֹ֣וב (Psa. 51:9)
+NIV	_Cleanse_ me with hyssop, and I will be clean. wash me, and I will be whiter than snow.
+ESV	_Purge_ me with hyssop, and I shall be clean. wash me, and I shall be whiter than snow.
+
+(x)	וּֽ_תְפַלְּטֵ֑נִי_ (Psa. 71:2)
+NIV	Rescue me and _deliver_ me in your righteousness. turn your ear to me and save me.
+ESV	In your righteousness _deliver_ me and rescue me. incline your ear to me, and save me!
+
+(x)	אַֽל־_תִּגְּע֥וּ_ בִמְשִׁיחָ֑י (Psa. 105:15)
+NIV	“Do not touch my anointed ones. do my prophets no harm.”
+ESV	saying, “_Touch_ not my anointed ones, do my prophets no harm!”
+
+(x)	וְ_יֶחְדָּ֑ל_ (Job 14:6)
+NIV	So look away from him and _let him alone_, till he has put in his time like a hired man.
+ESV	look away from him and _leave him alone_, that he may enjoy, like a hired hand, his day.
+
+(x)	אַל־_תִּשְׁכַּ֥ח_ (Prov. 4:5)
+NIV	Get wisdom, get understanding. do not forget my words or swerve from them.
+ESV	Get wisdom. get insight. do not forget, and do not turn away from the words of my mouth.
+
+(x)	אַל־_תִּלְחַ֗ם_ אֶת־לֶ֭חֶם רַ֣ע עָ֑יִן (Prov. 23:6)
+NIV	Do not eat the food of a stingy man, do not crave his delicacies.
+ESV	Do not eat the bread of a man who is stingy. do not desire his delicacies,
+
+(x)	רֵ֣אשׁ וָ֭עֹשֶׁר אַל־_תִּֽתֶּן_־לִ֑י (Prov. 30:8)
+NIV	Keep falsehood and lies far from me. _give_ me neither poverty nor riches, but _give_ me only my daily bread.
+ESV	Remove far from me falsehood and lying. _give_ me neither poverty nor riches. feed me with the food that is needful for me,
+
+(x)	וּבִנְבִיאַ֖י אַל־_תָּרֵֽעוּ_׃ פ (I Chr. 16:22)
+NIV	“Do not touch my anointed ones. do my prophets no harm.”
+ESV	saying, “Touch not my anointed ones, do my prophets no harm!”

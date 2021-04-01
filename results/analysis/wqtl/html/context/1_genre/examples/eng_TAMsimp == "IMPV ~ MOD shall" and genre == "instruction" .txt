@@ -1,17 +1,61 @@
 eng_TAMsimp == "IMPV ~ MOD shall" and genre == "instruction" 
 15 of 292
-sacrifice (ESV, NIV | BHS וְזָבַחְתָּ֣ עָלָ֗יו אֶת־עֹלֹתֶ֨יךָ֙ וְאֶת־שְׁלָמֶ֔יךָ אֶת־צֹֽאנְךָ֖ וְאֶת־בְּקָרֶ֑ךָ , Exod. 20:24)
-you shall make, make (ESV, NIV | BHS וְעָשִׂ֨יתָ קְּעָרֹתָ֜יו וְכַפֹּתָ֗יו וּקְשֹׂותָיו֙ וּמְנַקִּיֹּתָ֔יו , Exod. 25:29)
-bring in, place (ESV, NIV | BHS וְהֵבֵאתָ֥ שָׁ֨מָּה֙ מִבֵּ֣ית לַפָּרֹ֔כֶת אֵ֖ת אֲרֹ֣ון הָעֵד֑וּת , Exod. 26:33)
-you shall make, fashion (ESV, NIV | BHS וְעָשִׂ֜יתָ חֹ֤שֶׁן מִשְׁפָּט֙ מַעֲשֵׂ֣ה חֹשֵׁ֔ב , Exod. 28:15)
-you shall take, take (ESV, NIV | BHS וְלָקַחְתָּ֣ אֶת־הַבְּגָדִ֗ים , Exod. 29:5)
-burn (ESV, NIV | BHS וְהִקְטַרְתָּ֤ אֶת־כָּל־הָאַ֨יִל֙ הַמִּזְבֵּ֔חָה , Exod. 29:18)
-you shall make, make (ESV, NIV | BHS וְעָשִׂ֥יתָ מִזְבֵּ֖חַ מִקְטַ֣ר קְטֹ֑רֶת , Exod. 30:1)
-you shall put, place (ESV, NIV | BHS וְנָתַתָּ֞ה אֶת־מִזְבַּ֤ח הַזָּהָב֙ לִקְטֹ֔רֶת לִפְנֵ֖י אֲרֹ֣ון הָעֵדֻ֑ת , Exod. 40:5)
-pour (ESV, NIV | BHS וְיָצַקְתָּ֥ עָלֶ֖יהָ שָׁ֑מֶן , Lev. 2:6)
-you shall kill, kill (ESV, NIV | BHS וְהָרַגְתָּ֥ אֶת־הָאִשָּׁ֖ה וְאֶת־הַבְּהֵמָ֑ה , Lev. 20:16)
-you shall sound, have sounded (ESV, NIV | BHS וְהַֽעֲבַרְתָּ֞ שֹׁופַ֤ר תְּרוּעָה֙ בַּחֹ֣דֶשׁ הַשְּׁבִעִ֔י בֶּעָשֹׂ֖ור לַחֹ֑דֶשׁ , Lev. 25:9)
-they shall take, put (ESV, NIV | BHS וְלָֽקְחוּ֙ לַטָּמֵ֔א מֵעֲפַ֖ר שְׂרֵפַ֣ת הַֽחַטָּ֑את , Num. 19:17)
-you shall go, go (ESV, NIV | BHS וּבָ֔אתָ אֶל־הַמָּקֹ֖ום , Deut. 12:26)
-go up, take (ESV, NIV | BHS וְעָלִ֔יתָ אֶל־הַמָּקֹ֔ום , Deut. 17:8)
-pull off, take off (ESV, NIV | BHS וְחָלְצָ֤ה נַעֲלֹו֙ מֵעַ֣ל רַגְלֹ֔ו , Deut. 25:9)
+(x)	וְ_זָבַחְתָּ֣_ עָלָ֗יו אֶת־עֹלֹתֶ֨יךָ֙ וְאֶת־שְׁלָמֶ֔יךָ אֶת־צֹֽאנְךָ֖ וְאֶת־בְּקָרֶ֑ךָ (Exod. 20:24)
+NIV	“‘Make an altar of earth for me and _sacrifice_ on it your burnt offerings and fellowship offerings, your sheep and goats and your cattle. Wherever I cause my name to be honored, I will come to you and bless you.
+ESV	An altar of earth you shall make for me and _sacrifice_ on it your burnt offerings and your peace offerings, your sheep and your oxen. In every place where I cause my name to be remembered I will come to you and bless you.
+
+(x)	וְ_עָשִׂ֨יתָ_ קְּעָרֹתָ֜יו וְכַפֹּתָ֗יו וּקְשֹׂותָיו֙ וּמְנַקִּיֹּתָ֔יו אֲשֶׁ֥ר יֻסַּ֖ךְ בָּהֵ֑ן (Exod. 25:29)
+NIV	And _make_ its plates and dishes of pure gold, as well as its pitchers and bowls for the pouring out of offerings.
+ESV	And _you shall make_ its plates and dishes for incense, and its flagons and bowls with which to pour drink offerings. _you shall make_ them of pure gold.
+
+(x)	וְ_הֵבֵאתָ֥_ שָׁ֨מָּה֙ מִבֵּ֣ית לַפָּרֹ֔כֶת אֵ֖ת אֲרֹ֣ון הָעֵד֑וּת (Exod. 26:33)
+NIV	Hang the curtain from the clasps and _place_ the ark of the Testimony behind the curtain. The curtain will separate the Holy Place from the Most Holy Place.
+ESV	And you shall hang the veil from the clasps, and bring the ark of the testimony in there within the veil. And the veil shall separate for you the Holy Place from the Most Holy.
+
+(x)	וְ_עָשִׂ֜יתָ_ חֹ֤שֶׁן מִשְׁפָּט֙ מַעֲשֵׂ֣ה חֹשֵׁ֔ב (Exod. 28:15)
+NIV	“_Fashion_ a breastpiece for making decisions — the work of a skilled craftsman. Make it like the ephod: of gold, and of blue, purple and scarlet yarn, and of finely twisted linen.
+ESV	“_You shall make_ a breastpiece of judgment, in skilled work. In the style of the ephod you shall make it — of gold, blue and purple and scarlet yarns, and fine twined linen shall you make it.
+
+(x)	וְ_לָקַחְתָּ֣_ אֶת־הַבְּגָדִ֗ים (Exod. 29:5)
+NIV	_Take_ the garments and dress Aaron with the tunic, the robe of the ephod, the ephod itself and the breastpiece. Fasten the ephod on him by its skillfully woven waistband.
+ESV	Then _you shall take_ the garments, and put on Aaron the coat and the robe of the ephod, and the ephod, and the breastpiece, and gird him with the skillfully woven band of the ephod.
+
+(x)	וְ_הִקְטַרְתָּ֤_ אֶת־כָּל־הָאַ֨יִל֙ הַמִּזְבֵּ֔חָה (Exod. 29:18)
+NIV	Then _burn_ the entire ram on the altar. It is a _burn_t offering to the LORD, a pleasing aroma, an offering made to the LORD by fire.
+ESV	and _burn_ the whole ram on the altar. It is a _burn_t offering to the Lord. It is a pleasing aroma, a food offering to the Lord.
+
+(x)	וְ_עָשִׂ֥יתָ_ מִזְבֵּ֖חַ מִקְטַ֣ר קְטֹ֑רֶת (Exod. 30:1)
+NIV	“_Make_ an altar of acacia wood for burning incense.
+ESV	“_You shall make_ an altar on which to burn incense. you shall make it of acacia wood.
+
+(x)	וְ_נָתַתָּ֞ה_ אֶת־מִזְבַּ֤ח הַזָּהָב֙ לִקְטֹ֔רֶת לִפְנֵ֖י אֲרֹ֣ון הָעֵדֻ֑ת (Exod. 40:5)
+NIV	_Place_ the gold altar of incense in front of the ark of the Testimony and put the curtain at the entrance to the tabernacle.
+ESV	And _you shall put_ the golden altar for incense before the ark of the testimony, and set up the screen for the door of the tabernacle.
+
+(x)	וְ_יָצַקְתָּ֥_ עָלֶ֖יהָ שָׁ֑מֶן (Lev. 2:6)
+NIV	Crumble it and _pour_ oil on it. it is a grain offering.
+ESV	You shall break it in pieces and _pour_ oil on it. it is a grain offering.
+
+(x)	וְאִשָּׁ֗ה אֲשֶׁ֨ר תִּקְרַ֤ב אֶל־כָּל־בְּהֵמָה֙ לְרִבְעָ֣ה אֹתָ֔הּ וְ_הָרַגְתָּ֥_ אֶת־הָאִשָּׁ֖ה וְאֶת־הַבְּהֵמָ֑ה (Lev. 20:16)
+NIV	“‘If a woman approaches an animal to have sexual relations with it, _kill_ both the woman and the animal. They must be put to death. their blood will be on their own heads.
+ESV	If a woman approaches any animal and lies with it, _you shall kill_ the woman and the animal. they shall surely be put to death. their blood is upon them.
+
+(x)	וְ_הַֽעֲבַרְתָּ֞_ שֹׁופַ֤ר תְּרוּעָה֙ בַּחֹ֣דֶשׁ הַשְּׁבִעִ֔י בֶּעָשֹׂ֖ור לַחֹ֑דֶשׁ (Lev. 25:9)
+NIV	Then have the trumpet sounded everywhere on the tenth day of the seventh month. on the Day of Atonement sound the trumpet throughout your land.
+ESV	Then _you shall sound_ the loud trumpet on the tenth day of the seventh month. On the Day of Atonement _you shall sound_ the trumpet throughout all your land.
+
+(x)	וְ_לָֽקְחוּ֙_ לַטָּמֵ֔א מֵעֲפַ֖ר שְׂרֵפַ֣ת הַֽחַטָּ֑את (Num. 19:17)
+NIV	“For the unclean person, _put_ some ashes from the burned purification offering into a jar and pour fresh water over them.
+ESV	For the unclean _they shall take_ some ashes of the burnt sin offering, and fresh water shall be added in a vessel.
+
+(x)	וּ_בָ֔אתָ_ אֶל־הַמָּקֹ֖ום אֲשֶׁר־יִבְחַ֥ר יְהוָֽה׃ (Deut. 12:26)
+NIV	But take your consecrated things and whatever you have vowed to give, and _go_ to the place the LORD will choose.
+ESV	But the holy things that are due from you, and your vow offerings, you shall take, and _you shall go_ to the place that the Lord will choose,
+
+(x)	וְ_עָלִ֔יתָ_ אֶל־הַמָּקֹ֔ום אֲשֶׁ֥ר יִבְחַ֛ר יְהוָ֥ה אֱלֹהֶ֖יךָ בֹּֽו׃ (Deut. 17:8)
+NIV	If cases come before your courts that are too difficult for you to judge — whether bloodshed, lawsuits or assaults — _take_ them to the place the LORD your God will choose.
+ESV	“If any case arises requiring decision between one kind of homicide and another, one kind of legal right and another, or one kind of assault and another, any case within your towns that is too difficult for you, then you shall arise and _go up_ to the place that the Lord your God will choose.
+
+(x)	וְ_חָלְצָ֤ה_ נַעֲלֹו֙ מֵעַ֣ל רַגְלֹ֔ו (Deut. 25:9)
+NIV	his brother’s widow shall go up to him in the presence of the elders, _take off_ one of his sandals, spit in his face and say, “This is what is done to the man who will not build up his brother’s family line.”
+ESV	then his brother’s wife shall go up to him in the presence of the elders and pull his sandal off his foot and spit in his face. And she shall answer and say, ‘So shall it be done to the man who does not build up his brother’s house.’

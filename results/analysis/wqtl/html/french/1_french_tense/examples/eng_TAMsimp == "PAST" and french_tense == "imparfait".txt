@@ -1,0 +1,254 @@
+eng_TAMsimp == "PAST" and french_tense == "imparfait"
+42 of 42
+
+(x)	הַנְּפִלִ֞ים הָי֣וּ בָאָרֶץ֮ בַּיָּמִ֣ים הָהֵם֒ וְגַ֣ם אַֽחֲרֵי־כֵ֗ן אֲשֶׁ֨ר יָבֹ֜אוּ בְּנֵ֤י הָֽאֱלֹהִים֙ אֶל־בְּנֹ֣ות הָֽאָדָ֔ם וְ_יָלְד֖וּ_ לָהֶ֑ם הֵ֧מָּה הַגִּבֹּרִ֛ים אֲשֶׁ֥ר מֵעֹולָ֖ם אַנְשֵׁ֥י הַשֵּֽׁם׃ פ (Gen. 6:4)
+NIV	The Nephilim were on the earth in those days — and also afterward — when the sons of God went to the daughters of men and _had children_ by them. They were the heroes of old, men of renown.
+ESV	The Nephilim were on the earth in those days, and also afterward, when the sons of God came in to the daughters of man and _they bore children_ to them. These were the mighty men who were of old, the men of renown.
+NBS	elles donnèrent des enfants
+NBS (verse)	En ces jours-là~– et encore après cela~– les Nephilim étaient sur la terre, lorsque les fils de Dieu vinrent vers les filles des humains et qu'elles leur donnèrent des enfants~: ce sont là les héros d'autrefois, les hommes de renom.
+
+(x)	וְ_נֶאֶסְפוּ_־שָׁ֣מָּה כָל־הָעֲדָרִ֗ים וְגָלֲל֤וּ אֶת־הָאֶ֨בֶן֙ מֵעַל֙ פִּ֣י הַבְּאֵ֔ר וְהִשְׁק֖וּ אֶת־הַצֹּ֑אן וְהֵשִׁ֧יבוּ אֶת־הָאֶ֛בֶן עַל־פִּ֥י הַבְּאֵ֖ר לִמְקֹמָֽהּ׃ (Gen. 29:3)
+NIV	When all the flocks _were gathered_ there, the shepherds would roll the stone away from the well’s mouth and water the sheep. Then they would return the stone to its place over the mouth of the well.
+ESV	and when all the flocks _were gathered_ there, the shepherds would roll the stone from the mouth of the well and water the sheep, and put the stone back in its place over the mouth of the well.
+NBS	se rassemblaient
+NBS (verse)	Tous les troupeaux se rassemblaient là~; on roulait la pierre de l'ouverture du puits, on faisait boire le petit bétail et on remettait la pierre à sa place, sur l'ouverture du puits.
+
+(x)	רַ֛ק אַדְמַ֥ת הַכֹּהֲנִ֖ים לֹ֣א קָנָ֑ה כִּי֩ חֹ֨ק לַכֹּהֲנִ֜ים מֵאֵ֣ת פַּרְעֹ֗ה וְ_אָֽכְל֤וּ_ אֶת־חֻקָּם֙ אֲשֶׁ֨ר נָתַ֤ן לָהֶם֙ פַּרְעֹ֔ה עַל־כֵּ֕ן לֹ֥א מָכְר֖וּ אֶת־אַדְמָתָֽם׃ (Gen. 47:22)
+NIV	However, he did not buy the land of the priests, because they received a regular allotment from Pharaoh and _had food_ enough from the allotment Pharaoh gave them. That is why they did not sell their land.
+ESV	Only the land of the priests he did not buy, for the priests had a fixed allowance from Pharaoh and _lived on_ the allowance that Pharaoh gave them. therefore they did not sell their land.
+NBS	qui vivaient
+NBS (verse)	Toutefois, il n'acheta pas les terres des prêtres, parce qu'il y avait une prescription du pharaon en faveur des prêtres, qui vivaient grâce à cette prescription que leur avait accordée le pharaon~: c'est pourquoi ils ne vendirent pas leurs terres.
+
+(x)	וַיִּלְקְט֤וּ אֹתֹו֙ בַּבֹּ֣קֶר בַּבֹּ֔קֶר אִ֖ישׁ כְּפִ֣י אָכְלֹ֑ו וְ_חַ֥ם_ הַשֶּׁ֖מֶשׁ וְנָמָֽס׃ (Exod. 16:21)
+NIV	Each morning everyone gathered as much as he needed, and when the sun _grew hot_, it melted away.
+ESV	Morning by morning they gathered it, each as much as he could eat. but when the sun _grew hot_, it melted.
+NBS	commençait à chauffer
+NBS (verse)	Tous les matins, chacun recueillait ce dont il avait besoin~; et quand le soleil commençait à chauffer, cela fondait.
+
+(x)	וַיִּלְקְט֤וּ אֹתֹו֙ בַּבֹּ֣קֶר בַּבֹּ֔קֶר אִ֖ישׁ כְּפִ֣י אָכְלֹ֑ו וְחַ֥ם הַשֶּׁ֖מֶשׁ וְ_נָמָֽס_׃ (Exod. 16:21)
+NIV	Each morning everyone gathered as much as he needed, and when the sun grew hot, _it melted away_.
+ESV	Morning by morning they gathered it, each as much as he could eat. but when the sun grew hot, _it melted_.
+NBS	fondait cela
+NBS (verse)	Tous les matins, chacun recueillait ce dont il avait besoin~; et quand le soleil commençait à chauffer, cela fondait.
+
+(x)	וְ_שָׁפְט֥וּ_ אֶת־הָעָ֖ם בְּכָל־עֵ֑ת אֶת־הַדָּבָ֤ר הַקָּשֶׁה֙ יְבִיא֣וּן אֶל־מֹשֶׁ֔ה וְכָל־הַדָּבָ֥ר הַקָּטֹ֖ן יִשְׁפּוּט֥וּ הֵֽם׃ (Exod. 18:26)
+NIV	_They served as judges_ for the people at all times. The difficult cases they brought to Moses, but the simple ones they decided themselves.
+ESV	And _they judged_ the people at all times. Any hard case they brought to Moses, but any small matter they decided themselves.
+NBS	Ils jugeaient
+NBS (verse)	Ils jugeaient le peuple en tout temps~; ils portaient devant Moïse les affaires difficiles et jugeaient eux-mêmes toutes les affaires secondaires.
+
+(x)	וְ_רָאָ֤ה_ כָל־הָעָם֙ אֶת־עַמּ֣וּד הֶֽעָנָ֔ן עֹמֵ֖ד פֶּ֣תַח הָאֹ֑הֶל וְקָ֤ם כָּל־הָעָם֙ וְהִֽשְׁתַּחֲוּ֔וּ אִ֖ישׁ פֶּ֥תַח אָהֳלֹֽו׃ (Exod. 33:10)
+NIV	Whenever the people _saw_ the pillar of cloud standing at the entrance to the tent, they all stood and worshiped, each at the entrance to his tent.
+ESV	And when all the people _saw_ the pillar of cloud standing at the entrance of the tent, all the people would rise up and worship, each at his tent door.
+NBS	voyait
+NBS (verse)	Tout le peuple voyait la colonne de nuée s'arrêter à l'entrée de la tente~; alors tout le peuple se levait et se prosternait, chacun à l'entrée de sa tente.
+
+(x)	וּבְבֹ֨א מֹשֶׁ֜ה לִפְנֵ֤י יְהוָה֙ לְדַבֵּ֣ר אִתֹּ֔ו יָסִ֥יר אֶת־הַמַּסְוֶ֖ה עַד־צֵאתֹ֑ו וְ_יָצָ֗א_ וְדִבֶּר֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל אֵ֖ת אֲשֶׁ֥ר יְצֻוֶּֽה׃ (Exod. 34:34)
+NIV	But whenever he entered the LORD’s presence to speak with him, he removed the veil until _he came out_. And when _he came out_ and told the Israelites what he had been commanded,
+ESV	Whenever Moses went in before the Lord to speak with him, he would remove the veil, until _he came out_. And when _he came out_ and told the people of Israel what he was commanded,
+NBS	il sortait
+NBS (verse)	Quand Moïse entrait devant le Seigneur pour parler avec lui, et jusqu'à ce qu'il sorte, il retirait le voile~; quand il sortait, il disait aux Israélites ce qui lui avait été ordonné.
+
+(x)	וּבְבֹ֨א מֹשֶׁ֜ה לִפְנֵ֤י יְהוָה֙ לְדַבֵּ֣ר אִתֹּ֔ו יָסִ֥יר אֶת־הַמַּסְוֶ֖ה עַד־צֵאתֹ֑ו וְיָצָ֗א וְ_דִבֶּר֙_ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל אֵ֖ת אֲשֶׁ֥ר יְצֻוֶּֽה׃ (Exod. 34:34)
+NIV	But whenever he entered the LORD’s presence to speak with him, he removed the veil until he came out. And when he came out and _told_ the Israelites what he had been commanded,
+ESV	Whenever Moses went in before the Lord to speak with him, he would remove the veil, until he came out. And when he came out and _told_ the people of Israel what he was commanded,
+NBS	disait il
+NBS (verse)	Quand Moïse entrait devant le Seigneur pour parler avec lui, et jusqu'à ce qu'il sorte, il retirait le voile~; quand il sortait, il disait aux Israélites ce qui lui avait été ordonné.
+
+(x)	וְ_הָיוּ֙_ שְׁמֹנָ֣ה קְרָשִׁ֔ים וְאַדְנֵיהֶ֣ם כֶּ֔סֶף שִׁשָּׁ֥ה עָשָׂ֖ר אֲדָנִ֑ים שְׁנֵ֤י אֲדָנִים֙ שְׁנֵ֣י אֲדָנִ֔ים תַּ֖חַת הַקֶּ֥רֶשׁ הָאֶחָֽד׃ (Exod. 36:30)
+NIV	So _there were_ eight frames and sixteen silver bases — two under each frame.
+ESV	_There were_ eight frames with their bases of silver: sixteen bases, under every frame two bases.
+NBS	Il avait
+NBS (verse)	Il y avait ainsi huit planches, avec leurs socles d'argent, soit seize socles, deux socles sous chaque planche.
+
+(x)	וּבְהַאֲרִ֧יךְ הֶֽעָנָ֛ן עַל־הַמִּשְׁכָּ֖ן יָמִ֣ים רַבִּ֑ים וְ_שָׁמְר֧וּ_ בְנֵי־יִשְׂרָאֵ֛ל אֶת־מִשְׁמֶ֥רֶת יְהוָ֖ה וְלֹ֥א יִסָּֽעוּ׃ (Num. 9:19)
+NIV	When the cloud remained over the tabernacle a long time, the Israelites _obeyed_ the LORD’s order and did not set out.
+ESV	Even when the cloud continued over the tabernacle many days, the people of Israel _kept_ the charge of the Lord and did not set out.
+NBS	assuraient
+NBS (verse)	Quand la nuée restait longtemps sur la Demeure, les Israélites assuraient le service du Seigneur et ne partaient pas.
+
+(x)	וְיֵ֞שׁ אֲשֶׁ֨ר יִהְיֶ֤ה הֶֽעָנָן֙ מֵעֶ֣רֶב עַד־בֹּ֔קֶר וְ_נַעֲלָ֧ה_ הֶֽעָנָ֛ן בַּבֹּ֖קֶר וְנָסָ֑עוּ אֹ֚ו יֹומָ֣ם וָלַ֔יְלָה וְנַעֲלָ֥ה הֶעָנָ֖ן וְנָסָֽעוּ׃ (Num. 9:21)
+NIV	Sometimes the cloud stayed only from evening till morning, and when _it lifted_ in the morning, they set out. Whether by day or by night, whenever the cloud lifted, they set out.
+ESV	And sometimes the cloud remained from evening until morning. And when the cloud _lifted_ in the morning, they set out, or if it continued for a day and a night, when the cloud _lifted_ they set out.
+NBS	élevait s
+NBS (verse)	Si la nuée ne restait que du soir au matin, si la nuée s'élevait le matin, ils partaient. Si la nuée s'élevait après un jour et une nuit, ils partaient.
+
+(x)	וְיֵ֞שׁ אֲשֶׁ֨ר יִהְיֶ֤ה הֶֽעָנָן֙ מֵעֶ֣רֶב עַד־בֹּ֔קֶר וְנַעֲלָ֧ה הֶֽעָנָ֛ן בַּבֹּ֖קֶר וְנָסָ֑עוּ אֹ֚ו יֹומָ֣ם וָלַ֔יְלָה וְ_נַעֲלָ֥ה_ הֶעָנָ֖ן וְנָסָֽעוּ׃ (Num. 9:21)
+NIV	Sometimes the cloud stayed only from evening till morning, and when it _lifted_ in the morning, they set out. Whether by day or by night, whenever the cloud _lifted_, they set out.
+ESV	And sometimes the cloud remained from evening until morning. And when the cloud _lifted_ in the morning, they set out, or if it continued for a day and a night, when the cloud _lifted_ they set out.
+NBS	s élevait
+NBS (verse)	Si la nuée ne restait que du soir au matin, si la nuée s'élevait le matin, ils partaient. Si la nuée s'élevait après un jour et une nuit, ils partaient.
+
+(x)	שָׁטוּ֩ הָעָ֨ם וְלָֽקְט֜וּ וְ_טָחֲנ֣וּ_ בָרֵחַ֗יִם אֹ֤ו דָכוּ֙ בַּמְּדֹכָ֔ה וּבִשְּׁלוּ֙ בַּפָּר֔וּר וְעָשׂ֥וּ אֹתֹ֖ו עֻגֹ֑ות וְהָיָ֣ה טַעְמֹ֔ו כְּטַ֖עַם לְשַׁ֥ד הַשָּֽׁמֶן׃ (Num. 11:8)
+NIV	The people went around gathering it, and then _ground_ it in a handmill or crushed it in a mortar. They cooked it in a pot or made it into cakes. And it tasted like something made with olive oil.
+ESV	The people went about and gathered it and _ground_ it in handmills or beat it in mortars and boiled it in pots and made cakes of it. And the taste of it was like the taste of cakes baked with oil.
+NBS	on la broyait
+NBS (verse)	Le peuple se dispersait pour la recueillir~; on la broyait au moulin ou on la pilait dans un mortier~; on la faisait cuire dans une marmite ou on en faisait des galettes. Elle avait le goût d'un biscuit à l'huile.
+
+(x)	שָׁטוּ֩ הָעָ֨ם וְלָֽקְט֜וּ וְטָחֲנ֣וּ בָרֵחַ֗יִם אֹ֤ו דָכוּ֙ בַּמְּדֹכָ֔ה וּ_בִשְּׁלוּ֙_ בַּפָּר֔וּר וְעָשׂ֥וּ אֹתֹ֖ו עֻגֹ֑ות וְהָיָ֣ה טַעְמֹ֔ו כְּטַ֖עַם לְשַׁ֥ד הַשָּֽׁמֶן׃ (Num. 11:8)
+NIV	The people went around gathering it, and then ground it in a handmill or crushed it in a mortar. _They cooked_ it in a pot or made it into cakes. And it tasted like something made with olive oil.
+ESV	The people went about and gathered it and ground it in handmills or beat it in mortars and _boiled_ it in pots and made cakes of it. And the taste of it was like the taste of cakes baked with oil.
+NBS	on la faisait cuire
+NBS (verse)	Le peuple se dispersait pour la recueillir~; on la broyait au moulin ou on la pilait dans un mortier~; on la faisait cuire dans une marmite ou on en faisait des galettes. Elle avait le goût d'un biscuit à l'huile.
+
+(x)	שָׁטוּ֩ הָעָ֨ם וְלָֽקְט֜וּ וְטָחֲנ֣וּ בָרֵחַ֗יִם אֹ֤ו דָכוּ֙ בַּמְּדֹכָ֔ה וּבִשְּׁלוּ֙ בַּפָּר֔וּר וְ_עָשׂ֥וּ_ אֹתֹ֖ו עֻגֹ֑ות וְהָיָ֣ה טַעְמֹ֔ו כְּטַ֖עַם לְשַׁ֥ד הַשָּֽׁמֶן׃ (Num. 11:8)
+NIV	The people went around gathering it, and then ground it in a handmill or crushed it in a mortar. They cooked it in a pot or _made_ it into cakes. And it tasted like something _made_ with olive oil.
+ESV	The people went about and gathered it and ground it in handmills or beat it in mortars and boiled it in pots and _made_ cakes of it. And the taste of it was like the taste of cakes baked with oil.
+NBS	on faisait
+NBS (verse)	Le peuple se dispersait pour la recueillir~; on la broyait au moulin ou on la pilait dans un mortier~; on la faisait cuire dans une marmite ou on en faisait des galettes. Elle avait le goût d'un biscuit à l'huile.
+
+(x)	וְ_יָרַ֣ד_ הַגְּבוּל֩ נַ֨חַל קָנָ֜ה נֶ֣גְבָּה לַנַּ֗חַל עָרִ֤ים הָאֵ֨לֶּה֙ לְאֶפְרַ֔יִם בְּתֹ֖וךְ עָרֵ֣י מְנַשֶּׁ֑ה וּגְב֤וּל מְנַשֶּׁה֙ מִצְּפֹ֣ון לַנַּ֔חַל וַיְהִ֥י תֹצְאֹתָ֖יו הַיָּֽמָּה׃ (Josh. 17:9)
+NIV	Then the boundary _continued_ south to the Kanah Ravine. There were towns belonging to Ephraim lying among the towns of Manasseh, but the boundary of Manasseh was the northern side of the ravine and ended at the sea.
+ESV	Then the boundary _went down_ to the brook Kanah. These cities, to the south of the brook, among the cities of Manasseh, belong to Ephraim. Then the boundary of Manasseh goes on the north side of the brook and ends at the sea,
+NBS	longeait
+NBS (verse)	La frontière longeait l'oued Qana. Au sud de l'oued, les villes qui étaient au milieu des villes de Manassé furent pour Ephraïm. Au nord de l'oued, la frontière de Manassé débouchait sur la mer.
+
+(x)	וְכִֽי־הֵקִ֨ים יְהוָ֥ה׀ לָהֶם֮ שֹֽׁפְטִים֒ וְהָיָ֤ה יְהוָה֙ עִם־הַשֹּׁפֵ֔ט וְ_הֹֽושִׁיעָם֙_ מִיַּ֣ד אֹֽיְבֵיהֶ֔ם כֹּ֖ל יְמֵ֣י הַשֹּׁופֵ֑ט כִּֽי־יִנָּחֵ֤ם יְהוָה֙ מִנַּֽאֲקָתָ֔ם מִפְּנֵ֥י לֹחֲצֵיהֶ֖ם וְדֹחֲקֵיהֶֽם׃ (Judg. 2:18)
+NIV	Whenever the LORD raised up a judge for them, he was with the judge and _saved_ them out of the hands of their enemies as long as the judge lived. for the LORD had compassion on them as they groaned under those who oppressed and afflicted them.
+ESV	Whenever the Lord raised up judges for them, the Lord was with the judge, and _he saved_ them from the hand of their enemies all the days of the judge. For the Lord was moved to pity by their groaning because of those who afflicted and oppressed them.
+NBS	les délivrait
+NBS (verse)	Lorsque le Seigneur leur suscitait des juges, le Seigneur était avec le juge et les délivrait de la main de leurs ennemis pendant tous les jours du juge~; car le Seigneur avait du regret, à cause de leurs soupirs devant ceux qui les opprimaient et les tourmentaient.
+
+(x)	וַתְּהִ֤י הַמִּלְחָמָה֙ חֲזָקָ֣ה עַל־פְּלִשְׁתִּ֔ים כֹּ֖ל יְמֵ֣י שָׁא֑וּל וְ_רָאָ֨ה_ שָׁא֜וּל כָּל־אִ֤ישׁ גִּבֹּור֙ וְכָל־בֶּן־חַ֔יִל וַיַּאַסְפֵ֖הוּ אֵלָֽיו׃ ס (I Sam. 14:52)
+NIV	All the days of Saul there was bitter war with the Philistines, and whenever Saul _saw_ a mighty or brave man, he took him into his service.
+ESV	There was hard fighting against the Philistines all the days of Saul. And when Saul _saw_ any strong man, or any valiant man, he attached him to himself.
+NBS	remarquait
+NBS (verse)	Il y eut une guerre acharnée contre les Philistins pendant tous les jours de Saül. Tout homme vaillant et fort que Saül remarquait, il se l'adjoignait.
+
+(x)	וְר֧וּחַ יְהוָ֛ה סָ֖רָה מֵעִ֣ם שָׁא֑וּל וּ_בִֽעֲתַ֥תּוּ_ רֽוּחַ־רָעָ֖ה מֵאֵ֥ת יְהוָֽה׃ (I Sam. 16:14)
+NIV	Now the Spirit of the LORD had departed from Saul, and an evil spirit from the LORD _tormented_ him.
+ESV	Now the Spirit of the Lord departed from Saul, and a harmful spirit from the Lord _tormented_ him.
+NBS	le remplissait d effroi
+NBS (verse)	Le souffle du Seigneur s'éloigna de Saül, tandis qu'un souffle mauvais venant du Seigneur le remplissait d'effroi.
+
+(x)	וַיֹּ֤אמֶר דָּוִד֙ אֶל־שָׁא֔וּל רֹעֶ֨ה הָיָ֧ה עַבְדְּךָ֛ לְאָבִ֖יו בַּצֹּ֑אן וּ_בָ֤א_ הָֽאֲרִי֙ וְאֶת־הַדֹּ֔וב וְנָשָׂ֥א שֶׂ֖ה מֵהָעֵֽדֶר׃ (I Sam. 17:34)
+NIV	But David said to Saul, “Your servant has been keeping his father’s sheep. When a lion or a bear _came_ and carried off a sheep from the flock,
+ESV	But David said to Saul, “Your servant used to keep sheep for his father. And when there _came_ a lion, or a bear, and took a lamb from the flock,
+NBS	venait
+NBS (verse)	David dit à Saül~: Je faisais paître le troupeau de mon père. Quand le lion ou l'ours venait enlever une bête du troupeau,
+
+(x)	וְ_יָצָ֧אתִי_ אַחֲרָ֛יו וְהִכִּתִ֖יו וְהִצַּ֣לְתִּי מִפִּ֑יו וַיָּ֣קָם עָלַ֔י וְהֶחֱזַ֨קְתִּי֙ בִּזְקָנֹ֔ו וְהִכִּתִ֖יו וַהֲמִיתִּֽיו׃ (I Sam. 17:35)
+NIV	_I went_ after it, struck it and rescued the sheep from its mouth. When it turned on me, I seized it by its hair, struck it and killed it.
+ESV	_I went_ after him and struck him and delivered it out of his mouth. And if he arose against me, I caught him by his beard and struck him and killed him.
+NBS	je courais
+NBS (verse)	je lui courais après, je le frappais et je délivrais la bête de sa gueule. S'il se dressait contre moi, je le saisissais par la barbe, je le frappais et je le tuais.
+
+(x)	וַעֲמָשָׂ֛א מִתְגֹּלֵ֥ל בַּדָּ֖ם בְּתֹ֣וךְ הַֽמְּסִלָּ֑ה וַיַּ֨רְא הָאִ֜ישׁ כִּֽי־עָמַ֣ד כָּל־הָעָ֗ם וַיַּסֵּב֩ אֶת־עֲמָשָׂ֨א מִן־הַֽמְסִלָּ֤ה הַשָּׂדֶה֙ וַיַּשְׁלֵ֤ךְ עָלָיו֙ בֶּ֔גֶד כַּאֲשֶׁ֣ר רָאָ֔ה כָּל־הַבָּ֥א עָלָ֖יו וְ_עָמָֽד_׃ (II Sam. 20:12)
+NIV	Amasa lay wallowing in his blood in the middle of the road, and the man saw that all the troops came to a halt there. When he realised that everyone who came up to Amasa _stopped_, he dragged him from the road into a field and threw a garment over him.
+ESV	And Amasa lay wallowing in his blood in the highway. And anyone who came by, seeing him, _stopped_. And when the man saw that all the people _stopped_, he carried Amasa out of the highway into the field and threw a garment over him.
+NBS	s arrêtaient
+NBS (verse)	Amasa se roulait dans le sang au milieu de la route~; l'homme, ayant vu que tout le peuple s'arrêtait, poussa Amasa du chemin dans un champ et jeta un vêtement sur lui, parce qu'il avait vu que tous ceux qui arrivaient près de lui s'arrêtaient.
+
+(x)	וְלִשְׁלֹמֹ֞ה שְׁנֵים־עָשָׂ֤ר נִצָּבִים֙ עַל־כָּל־יִשְׂרָאֵ֔ל וְ_כִלְכְּל֥וּ_ אֶת־הַמֶּ֖לֶךְ וְאֶת־בֵּיתֹ֑ו חֹ֧דֶשׁ בַּשָּׁנָ֛ה יִהְיֶ֥ה עַל־הָאֶחָ֖ד לְכַלְכֵּֽל׃ ס (I Kgs. 4:7)
+NIV	Solomon also had twelve district governors over all Israel, who _supplied provisions_ for the king and the royal household. Each one had to provide supplies for one month in the year.
+ESV	Solomon had twelve officers over all Israel, who _provided food_ for the king and his household. Each man had to make provision for one month in the year.
+NBS	Ils pourvoyaient à tous les besoins
+NBS (verse)	Salomon avait douze préfets sur tout Israël. Ils pourvoyaient à tous les besoins du roi et de sa maison, chacun y pourvoyait pendant un mois de l'année.
+
+(x)	וַיְהִ֛י מִדֵּי־בֹ֥א הַמֶּ֖לֶךְ בֵּ֣ית יְהוָ֑ה יִשָּׂאוּם֙ הָֽרָצִ֔ים וֶ_הֱשִׁיב֖וּם_ אֶל־תָּ֥א הָרָצִֽים׃ (I Kgs. 14:28)
+NIV	Whenever the king went to the LORD’s temple, the guards bore the shields, and afterwards _they returned_ them to the guardroom.
+ESV	And as often as the king went into the house of the Lord, the guard carried them and brought them back to the guardroom.
+NBS	rapportaient ils les
+NBS (verse)	Toutes les fois que le roi allait à la maison du Seigneur, les gardes du corps les portaient~; puis ils les rapportaient dans la salle des gardes du corps.
+
+(x)	וּמֵישַׁ֥ע מֶֽלֶךְ־מֹואָ֖ב הָיָ֣ה נֹקֵ֑ד וְ_הֵשִׁ֤יב_ לְמֶֽלֶךְ־יִשְׂרָאֵל֙ מֵאָה־אֶ֣לֶף כָּרִ֔ים וּמֵ֥אָה אֶ֖לֶף אֵילִ֥ים צָֽמֶר׃ (II Kgs. 3:4)
+NIV	Now Mesha king of Moab raised sheep, and _he had to supply_ the king of Israel with a hundred thousand lambs and with the wool of a hundred thousand rams.
+ESV	Now Mesha king of Moab was a sheep breeder, and _he had to deliver_ to the king of Israel 100,000 lambs and the wool of 100,000 rams.
+NBS	il payait
+NBS (verse)	Mésha, roi de Moab, était éleveur~; il payait au roi d'Israël un tribut de cent mille jeunes béliers et de cent mille béliers adultes, avec leur laine.
+
+(x)	הֲתִֽמְלֹ֔ךְ כִּ֥י אַתָּ֖ה מְתַחֲרֶ֣ה בָאָ֑רֶז אָבִ֜יךָ הֲלֹ֧וא אָכַ֣ל וְשָׁתָ֗ה וְ_עָשָׂ֤ה_ מִשְׁפָּט֙ וּצְדָקָ֔ה אָ֖ז טֹ֥וב לֹֽו׃ (Jer. 22:15)
+NIV	‘Does it make you a king to have more and more cedar? Did not your father have food and drink? _He did_ what was right and just, so all went well with him.
+ESV	Do you think you are a king because you compete in cedar? Did not your father eat and drink and _do_ justice and righteousness? Then it was well with him.
+NBS	il agissait
+NBS (verse)	Es-tu roi parce que tu as la passion du cèdre~? Ton père ne mangeait-il pas, ne buvait-il pas~? Mais il agissait selon l'équité et la justice, – alors tout allait bien pour lui~–
+
+(x)	כִּ֣י אִם־הִכִּיתֶ֞ם כָּל־חֵ֤יל כַּשְׂדִּים֙ הַנִּלְחָמִ֣ים אִתְּכֶ֔ם וְ_נִ֨שְׁאֲרוּ_ בָ֔ם אֲנָשִׁ֖ים מְדֻקָּרִ֑ים אִ֤ישׁ בְּאָהֳלֹו֙ יָק֔וּמוּ וְשָֽׂרְפ֛וּ אֶת־הָעִ֥יר הַזֹּ֖את בָּאֵֽשׁ׃ (Jer. 37:10)
+NIV	Even if you were to defeat the entire Babylonian army that is attacking you and only wounded men _were left_ in their tents, they would come out and burn this city down.”
+ESV	For even if you should defeat the whole army of Chaldeans who are fighting against you, and there _remained_ of them only wounded men, every man in his tent, they would rise up and burn this city with fire.’”
+NBS	il restait
+NBS (verse)	Même si vous battiez toute l'armée des Chaldéens qui vous font la guerre, s'il ne restait d'eux que des hommes transpercés, chacun d'eux se relèverait dans sa tente pour mettre le feu à cette ville.
+
+(x)	וַיֹּ֨אמֶר אֲלֵיהֶ֜ם טַמְּא֣וּ אֶת־הַבַּ֗יִת וּמַלְא֧וּ אֶת־הַחֲצֵרֹ֛ות חֲלָלִ֖ים צֵ֑אוּ וְיָצְא֖וּ וְ_הִכּ֥וּ_ בָעִֽיר׃ (Ezek. 9:7)
+NIV	Then he said to them, “Defile the temple and fill the courts with the slain. Go!” So they went out and _began killing_ throughout the city.
+ESV	Then he said to them, “Defile the house, and fill the courts with the slain. Go out.” So they went out and _struck_ in the city.
+NBS	frappèrent ils
+NBS (verse)	Il leur dit~: Rendez la Maison impure et remplissez ses cours de vos victimes~! Sortez~! Ils sortirent et ils frappèrent dans la ville.
+
+(x)	וְֽ_רָחֲבָ֡ה_ וְֽנָסְבָה֩ לְמַ֨עְלָה לְמַ֜עְלָה לַצְּלָעֹ֗ות כִּ֣י מֽוּסַב־הַ֠בַּיִת לְמַ֨עְלָה לְמַ֜עְלָה סָבִ֤יב׀ סָבִיב֙ לַבַּ֔יִת עַל־כֵּ֥ן רֹֽחַב־לַבַּ֖יִת לְמָ֑עְלָה וְכֵ֧ן הַתַּחְתֹּונָ֛ה יַעֲלֶ֥ה עַל־הָעֶלְיֹונָ֖ה לַתִּיכֹונָֽה׃ (Ezek. 41:7)
+NIV	The side rooms all round the temple _were wider_ at each successive level. The structure surrounding the temple was built in ascending stages, so that the rooms widened as one went upward. A stairway went up from the lowest floor to the top floor through the middle floor.
+ESV	And _it became broader_ as it wound upward to the side chambers, because the temple was enclosed upward all around the temple. Thus the temple had a broad area upward, and so one went up from the lowest story to the top story through the middle story.
+NBS	occupaient plus d espace
+NBS (verse)	Les pièces occupaient plus d'espace, à mesure qu'elles s'élevaient, et l'on allait en tournant~; car on montait autour de la Maison par un escalier tournant. Il y avait ainsi plus d'espace dans le haut de la Maison~; on montait de l'étage inférieur à l'étage supérieur par celui du milieu.
+
+(x)	וְכִלָּ֗ה אֶת־מִדֹּות֙ הַבַּ֣יִת הַפְּנִימִ֔י וְהֹוצִיאַ֨נִי֙ דֶּ֣רֶךְ הַשַּׁ֔עַר אֲשֶׁ֥ר פָּנָ֖יו דֶּ֣רֶךְ הַקָּדִ֑ים וּ_מְדָדֹ֖ו_ סָבִ֥יב׀ סָבִֽיב׃ (Ezek. 42:15)
+NIV	When he had finished measuring what was inside the temple area, he led me out by the east gate and _measured_ the area all around:
+ESV	Now when he had finished measuring the interior of the temple area, he led me out by the gate that faced east, and _measured_ the temple area all around.
+NBS	il mesura
+NBS (verse)	Lorsqu'il eut achevé de mesurer la Maison intérieure, il me fit sortir par la porte qui donnait sur l'est, et il mesura l'enceinte tout autour.
+
+(x)	אִם־הֲרָגָ֥ם וּדְרָשׁ֑וּהוּ וְ֝_שָׁ֗בוּ_ וְשִֽׁחֲרוּ־אֵֽל׃ (Psa. 78:34)
+NIV	Whenever God slew them, they would seek him. they eagerly turned to him again.
+ESV	When he killed them, they sought him. _they repented_ and sought God earnestly.
+NBS	ils revenaient
+NBS (verse)	Quand il allait les tuer, ils le cherchaient, ils revenaient et recherchaient Dieu~;
+
+(x)	רָא֣וּנִי נְעָרִ֣ים וְ_נֶחְבָּ֑אוּ_ וִֽ֝ישִׁישִׁים קָ֣מוּ עָמָֽדוּ׃ (Job 29:8)
+NIV	the young men saw me and _stepped aside_ and the old men rose to their feet.
+ESV	the young men saw me and _withdrew_, and the aged rose and stood.
+NBS	se cachaient
+NBS (verse)	Les jeunes gens me voyaient et se cachaient, les vieillards se levaient et se tenaient debout.
+
+(x)	וְ_יִֽחֲל֣וּ_ כַמָּטָ֣ר לִ֑י וּ֝פִיהֶ֗ם פָּעֲר֥וּ לְמַלְקֹֽושׁ׃ (Job 29:23)
+NIV	_They waited_ for me as for showers and drank in my words as the spring rain.
+ESV	_They waited_ for me as for the rain, and they opened their mouths as for the spring rain.
+NBS	ils m attendaient
+NBS (verse)	ils m'attendaient comme on attend la pluie, ils ouvraient la bouche comme pour une pluie printanière.
+
+(x)	וְזֹאת֩ לְפָנִ֨ים בְּיִשְׂרָאֵ֜ל עַל־הַגְּאוּלָּ֤ה וְעַל־הַתְּמוּרָה֙ לְקַיֵּ֣ם כָּל־דָּבָ֔ר שָׁלַ֥ף אִ֛ישׁ נַעֲלֹ֖ו וְ_נָתַ֣ן_ לְרֵעֵ֑הוּ וְזֹ֥את הַתְּעוּדָ֖ה בְּיִשְׂרָאֵֽל׃ (Ruth 4:7)
+NIV	( Now in earlier times in Israel, for the redemption and transfer of property to become final, one party took off his sandal and _gave_ it to the other. This was the method of legalising transactions in Israel. )
+ESV	Now this was the custom in former times in Israel concerning redeeming and exchanging: to confirm a transaction, the one drew off his sandal and _gave_ it to the other, and this was the manner of attesting in Israel.
+NBS	on donnait
+NBS (verse)	Autrefois, en Israël, pour conclure toute affaire relative à une rédemption ou à un échange, on ôtait sa sandale et on la donnait à l'autre~; cela servait d'attestation en Israël.
+
+(x)	וּ_מָ֣צָא_ בָ֗הּ אִ֤ישׁ מִסְכֵּן֙ חָכָ֔ם וּמִלַּט־ה֥וּא אֶת־הָעִ֖יר בְּחָכְמָתֹ֑ו וְאָדָם֙ לֹ֣א זָכַ֔ר אֶת־הָאִ֥ישׁ הַמִּסְכֵּ֖ן הַהֽוּא׃ (Eccl. 9:15)
+NIV	Now there _lived_ in that city a man poor but wise, and he saved the city by his wisdom. But nobody remembered that poor man.
+ESV	But there _was found_ in it a poor, wise man, and he by his wisdom delivered the city. Yet no one remembered that poor man.
+NBS	Il se trouvait
+NBS (verse)	Il se trouvait là un homme pauvre et sage qui délivra la ville par sa sagesse. Et personne ne s'est souvenu de cet homme pauvre.
+
+(x)	רָאִ֣יתִי אֶת־הָאַ֡יִל מְנַגֵּחַ֩ יָ֨מָּה וְצָפֹ֜ונָה וָנֶ֗גְבָּה וְכָל־חַיֹּות֙ לֹֽא־יַֽעַמְד֣וּ לְפָנָ֔יו וְאֵ֥ין מַצִּ֖יל מִיָּדֹ֑ו וְ_עָשָׂ֥ה_ כִרְצֹנֹ֖ו וְהִגְדִּֽיל׃ (Dan. 8:4)
+NIV	I watched the ram as he charged towards the west and the north and the south. No animal could stand against him, and none could rescue from his power. _He did_ as he pleased and became great.
+ESV	I saw the ram charging westward and northward and southward. No beast could stand before him, and there was no one who could rescue from his power. _He did_ as he pleased and became great.
+NBS	faisait il
+NBS (verse)	Je vis le bélier qui frappait de ses cornes à l'ouest, au nord et au sud. Aucun animal ne pouvait lui résister, et personne ne pouvait délivrer de son pouvoir~; il faisait ce qu'il voulait et grandissait.
+
+(x)	רָאִ֣יתִי אֶת־הָאַ֡יִל מְנַגֵּחַ֩ יָ֨מָּה וְצָפֹ֜ונָה וָנֶ֗גְבָּה וְכָל־חַיֹּות֙ לֹֽא־יַֽעַמְד֣וּ לְפָנָ֔יו וְאֵ֥ין מַצִּ֖יל מִיָּדֹ֑ו וְעָשָׂ֥ה כִרְצֹנֹ֖ו וְ_הִגְדִּֽיל_׃ (Dan. 8:4)
+NIV	I watched the ram as he charged towards the west and the north and the south. No animal could stand against him, and none could rescue from his power. He did as he pleased and _became great_.
+ESV	I saw the ram charging westward and northward and southward. No beast could stand before him, and there was no one who could rescue from his power. He did as he pleased and _became great_.
+NBS	grandissait
+NBS (verse)	Je vis le bélier qui frappait de ses cornes à l'ouest, au nord et au sud. Aucun animal ne pouvait lui résister, et personne ne pouvait délivrer de son pouvoir~; il faisait ce qu'il voulait et grandissait.
+
+(x)	וּבְדַבְּרֹ֣ו עִמִּ֔י כַּדְּבָרִ֖ים הָאֵ֑לֶּה נָתַ֧תִּי פָנַ֛י אַ֖רְצָה וְ_נֶאֱלָֽמְתִּי_׃ (Dan. 10:15)
+NIV	While he was saying this to me, I bowed with my face towards the ground and _was speechless_.
+ESV	When he had spoken to me according to these words, I turned my face toward the ground and _was mute_.
+NBS	je gardais le silence
+NBS (verse)	Tandis qu'il me disait cela, je baissais la tête et je gardais le silence.
+
+(x)	וַֽיִּתְּנ֣וּ׀ אֶת־דָּתֵ֣י הַמֶּ֗לֶךְ לַאֲחַשְׁדַּרְפְּנֵי֙ הַמֶּ֔לֶךְ וּפַחֲוֹ֖ות עֵ֣בֶר הַנָּהָ֑ר וְ_נִשְּׂא֥וּ_ אֶת־הָעָ֖ם וְאֶת־בֵּֽית־הָאֱלֹהִֽים׃ ס (Ezra 8:36)
+NIV	They also delivered the king’s orders to the royal satraps and to the governors of Trans-euphrates who then _gave assistance_ to the people and to the house of God.
+ESV	They also delivered the king’s commissions to the king’s satraps and to the governors of the province Beyond the River, and _they aided_ the people and the house of God.
+NBS	qui aidèrent
+NBS (verse)	Ils transmirent les ordonnances du roi aux satrapes du roi et aux gouverneurs de Transeuphratène, qui aidèrent le peuple et la maison de Dieu.
+
+(x)	וַיָּ֨קָם דָּוִ֤יד הַמֶּ֨לֶךְ֙ עַל־רַגְלָ֔יו וַיֹּ֕אמֶר שְׁמָע֖וּנִי אַחַ֣י וְעַמִּ֑י אֲנִ֣י עִם־לְבָבִ֡י לִבְנֹות֩ בֵּ֨ית מְנוּחָ֜ה לַאֲרֹ֣ון בְּרִית־יְהוָ֗ה וְלַהֲדֹם֙ רַגְלֵ֣י אֱלֹהֵ֔ינוּ וַ_הֲכִינֹ֖ותִי_ לִבְנֹֽות׃ (I Chr. 28:2)
+NIV	King David rose to his feet and said: “Listen to me, my brothers and my people. I had it in my heart to build a house as a place of rest for the ark of the covenant of the LORD, for the footstool of our God, and _I made plans_ to build it.
+ESV	Then King David rose to his feet and said: “Hear me, my brothers and my people. I had it in my heart to build a house of rest for the ark of the covenant of the Lord and for the footstool of our God, and _I made preparations_ for building.
+NBS	préparais je me
+NBS (verse)	Le roi David se leva et dit~: Mes frères, mon peuple, écoutez-moi~! J'avais à cœur de bâtir une maison, un lieu de repos, pour le coffre de l'alliance du Seigneur, le marchepied de notre Dieu, et je me préparais à bâtir.
+
+(x)	וַיְהִ֛י מִדֵּי־בֹ֥וא הַמֶּ֖לֶךְ בֵּ֣ית יְהוָ֑ה בָּ֤אוּ הָרָצִים֙ וּנְשָׂא֔וּם וֶ_הֱשִׁב֖וּם_ אֶל־תָּ֥א הָרָצִֽים׃ (II Chr. 12:11)
+NIV	Whenever the king went to the LORD’s temple, the guards went with him, bearing the shields, and afterwards _they returned_ them to the guardroom.
+ESV	And as often as the king went into the house of the Lord, the guard came and carried them and brought them back to the guardroom.
+NBS	ils les rapportaient
+NBS (verse)	Toutes les fois que le roi allait à la maison du Seigneur, les gardes du corps venaient et les portaient~; puis ils les rapportaient dans la salle des gardes du corps.

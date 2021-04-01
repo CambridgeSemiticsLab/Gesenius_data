@@ -139,10 +139,10 @@ def make_text_examples(df, ex_params):
     # sort out texts
     # NB that esv and niv texts might also be similarly formatted later on
     bhs_joiner = ex_params.get('bhs_joiner', '')
-    bhs_text = ex_params.get('bhs_text', ['sentence'])
+    bhs_text = ex_params.get('bhs_text', ['verse'])
     bhs_text = df[bhs_text].astype(str).agg(bhs_joiner.join, axis=1)
     
-    exs = [query, f'{df.shape[0]} of {n_results}']
+    exs = [query, f'{df.shape[0]} of {n_results}\n']
 
     for i, node in enumerate(df.index):
         ref = df.loc[node]['ref_abbr']
@@ -154,7 +154,7 @@ def make_text_examples(df, ex_params):
         heb = df.loc[node]['text_full']
 
         # add formatting to verse texts
-        ref = clean_roman_nums(ref)
+        #ref = clean_roman_nums(ref)
         esv_verse = add_hit_symbols(esv_verse, esv)
         niv_verse = add_hit_symbols(niv_verse, niv)
         bhs = add_hit_symbols(bhs, heb)
@@ -162,7 +162,17 @@ def make_text_examples(df, ex_params):
         niv_verse = clean_puncts(niv_verse)
 
         # build and add example text
-        ex = f'(x)\t{bhs}\t{ref}\nNIV\t{niv_verse}\nESV\t{esv_verse}\n'
+        parts = [
+            f'(x)\t{bhs} ({ref})',
+            f'NIV\t{niv_verse}',
+            f'ESV\t{esv_verse}'
+        ]
+        # add any extra text data 
+        for name, et in ex_params.get('extra_text', {}).items():
+            text = df.loc[node][et]
+            parts.append(f'{name}\t{text}')
+
+        ex = '\n'.join(parts) + '\n'
         exs.append(ex)
         
     return exs

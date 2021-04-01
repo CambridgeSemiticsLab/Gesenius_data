@@ -1,37 +1,141 @@
 eng_TAMsimp == "PAST" and mother_verbtype == "wayq"
 35 of 42
-he believed, abram believed (ESV, NIV | BHS וַיֹּ֣אמֶר לֹ֔ו כֹּ֥ה יִהְיֶ֖ה זַרְעֶֽךָ׃ וְהֶאֱמִ֖ן בַּֽיהוָ֑ה , Gen. 15:6)
-judah was, it was (ESV, NIV | BHS וַיָּבֹ֥א אֵלֶֽיהָ׃ וַתַּ֖הַר וַתֵּ֣לֶד בֵּ֑ן וַיִּקְרָ֥א אֶת־שְׁמֹ֖ו עֵֽר׃ וַתַּ֥הַר עֹ֖וד וַתֵּ֣לֶד בֵּ֑ן וַתִּקְרָ֥א אֶת־שְׁמֹ֖ו אֹונָֽן׃ וַתֹּ֤סֶף עֹוד֙ וַתֵּ֣לֶד בֵּ֔ן וַתִּקְרָ֥א אֶת־שְׁמֹ֖ו שֵׁלָ֑ה וְהָיָ֥ה בִכְזִ֖יב , Gen. 38:5)
-shot, they shot (ESV, NIV | BHS וַֽיְמָרֲרֻ֖הוּ וָרֹ֑בּוּ , Gen. 49:23)
-grew hot (ESV, NIV | BHS וַיִּלְקְט֤וּ אֹתֹו֙ בַּבֹּ֣קֶר בַּבֹּ֔קֶר אִ֖ישׁ כְּפִ֣י אָכְלֹ֑ו וְחַ֥ם הַשֶּׁ֖מֶשׁ , Exod. 16:21)
-they judged, they served as judges (ESV, NIV | BHS וַיִּתֵּ֥ן אֹתָ֛ם רָאשִׁ֖ים עַל־הָעָ֑ם שָׂרֵ֤י אֲלָפִים֙ שָׂרֵ֣י מֵאֹ֔ות שָׂרֵ֥י חֲמִשִּׁ֖ים וְשָׂרֵ֥י עֲשָׂרֹֽת׃ וְשָׁפְט֥וּ אֶת־הָעָ֖ם בְּכָל־עֵ֑ת , Exod. 18:26)
-was taken down (ESV, NIV | BHS וַיִּסְע֖וּ בָּרִאשֹׁנָ֑ה עַל־פִּ֥י יְהוָ֖ה בְּיַד־מֹשֶֽׁה׃ וַיִּסַּ֞ע דֶּ֣גֶל מַחֲנֵ֧ה בְנֵֽי־יְהוּדָ֛ה בָּרִאשֹׁנָ֖ה לְצִבְאֹתָ֑ם וְעַל־צְבָאֹ֔ו נַחְשֹׁ֖ון בֶּן־עַמִּינָדָֽב׃ וְעַ֨ל־צְבָ֔א מַטֵּ֖ה בְּנֵ֣י יִשָׂשכָ֑ר נְתַנְאֵ֖ל בֶּן־צוּעָֽר׃ וְעַ֨ל־צְבָ֔א מַטֵּ֖ה בְּנֵ֣י זְבוּלֻ֑ן אֱלִיאָ֖ב בֶּן־חֵלֹֽון׃ וְהוּרַ֖ד הַמִּשְׁכָּ֑ן , Num. 10:17)
-locked (ESV, NIV | BHS וַיִּסְגֹּ֞ר דַּלְתֹ֧ות הָעַלִיָּ֛ה בַּעֲדֹ֖ו וְנָעָֽל׃ , Judg. 3:23)
-came up, returned (ESV, NIV | BHS וַתִּקְרָא֩ לְסַרְנֵ֨י פְלִשְׁתִּ֤ים לֵאמֹר֙ עֲל֣וּ הַפַּ֔עַם כִּֽי־הִגִּ֥יד לִ֖י אֶת־כָּל־לִבֹּ֑ו וְעָל֤וּ אֵלֶ֨יהָ֙ סַרְנֵ֣י פְלִשְׁתִּ֔ים , Judg. 16:18)
-they said (ESV, NIV | BHS וַיִּרְא֥וּ אַנְשֵֽׁי־אַשְׁדֹּ֖וד כִּֽי־כֵ֑ן וְאָמְר֗וּ , I Sam. 5:7)
-was (ESV, NIV | BHS וַיֵּרְד֥וּ כָל־יִשְׂרָאֵ֖ל הַפְּלִשְׁתִּ֑ים לִ֠לְטֹושׁ אִ֣ישׁ אֶת־מַחֲרַשְׁתֹּ֤ו וְאֶת־אֵתֹו֙ וְאֶת־קַרְדֻּמֹּ֔ו וְאֵ֖ת מַחֲרֵשָׁתֹֽו׃ וְֽהָיְתָ֞ה הַפְּצִ֣ירָה פִ֗ים לַמַּֽחֲרֵשֹׁת֙ וְלָ֣אֵתִ֔ים וְלִשְׁלֹ֥שׁ קִלְּשֹׁ֖ון וּלְהַקַּרְדֻּמִּ֑ים , I Sam. 13:21)
-I caught, I seized (ESV, NIV | BHS וַיָּ֣קָם עָלַ֔י וְהֶחֱזַ֨קְתִּי֙ בִּזְקָנֹ֔ו , I Sam. 17:35)
-he put (ESV, NIV | BHS וַיַּלְבֵּ֨שׁ שָׁא֤וּל אֶת־דָּוִד֙ מַדָּ֔יו וְנָתַ֛ן קֹ֥ובַע נְחֹ֖שֶׁת עַל־רֹאשֹׁ֑ו , I Sam. 17:38)
-went in, went into (ESV, NIV | BHS וַיָּ֤צָם דָּוִד֙ צֹ֔ום וּבָ֥א , II Sam. 12:16)
-made toil, he made work (ESV, NIV | BHS וַיָּ֣שֶׂם בַּ֠מְּגֵרָה וּבַחֲרִצֵ֨י הַבַּרְזֶ֜ל וּֽבְמַגְזְרֹ֣ת הַבַּרְזֶ֗ל וְהֶעֱבִ֤יר אֹותָם֙ בַּמַּלְבֵּ֔ן , II Sam. 12:31)
-bolted (ESV, NIV | BHS וַיֹּצֵ֨א אֹותָ֤הּ מְשָֽׁרְתֹו֙ הַח֔וּץ וְנָעַ֥ל הַדֶּ֖לֶת אַחֲרֶֽיהָ׃ , II Sam. 13:18)
-he seized, he took (ESV, NIV | BHS וַיִּפְרֹץ֩ בְּחֹומַ֨ת יְרוּשָׁלִַ֜ם בְּשַׁ֤עַר אֶפְרַ֨יִם֙ עַד־שַׁ֣עַר הַפִּנָּ֔ה אַרְבַּ֥ע מֵאֹ֖ות אַמָּֽה׃ וְלָקַ֣ח אֶת־כָּל־הַזָּהָב־וְ֠הַכֶּסֶף וְאֵ֨ת כָּל־הַכֵּלִ֜ים , II Kgs. 14:14)
-made commit, caused to commit (ESV, NIV | BHS וַיַּדַּ֨ח יָרָבְעָ֤ם אֶת־יִשְׂרָאֵל֙ מֵאַחֲרֵ֣י יְהוָ֔ה וְהֶחֱטֵיאָ֖ם חֲטָאָ֥ה גְדֹולָֽה׃ , II Kgs. 17:21)
-were silent, remained silent (ESV, NIV | BHS וַֽיַּעֲמֹד֙ רַב־שָׁקֵ֔ה וַיִּקְרָ֥א בְקֹול־גָּדֹ֖ול יְהוּדִ֑ית וַיְדַבֵּ֣ר וַיֹּ֔אמֶר שִׁמְע֛וּ דְּבַר־הַמֶּ֥לֶךְ הַגָּדֹ֖ול מֶ֥לֶךְ אַשּֽׁוּר׃ כֹּ֚ה אָמַ֣ר הַמֶּ֔לֶךְ אַל־יַשִּׁ֥יא לָכֶ֖ם חִזְקִיָּ֑הוּ כִּי־לֹ֣א יוּכַ֔ל לְהַצִּ֥יל אֶתְכֶ֖ם מִיָּדֹֽו׃ וְאַל־יַבְטַ֨ח אֶתְכֶ֤ם חִזְקִיָּ֨הוּ֙ אֶל־יְהוָ֣ה לֵאמֹ֔ר הַצֵּ֥ל יַצִּילֵ֖נוּ יְהוָ֑ה וְלֹ֤א תִנָּתֵן֙ אֶת־הָעִ֣יר הַזֹּ֔את בְּיַ֖ד מֶ֥לֶךְ אַשּֽׁוּר׃ אַֽל־תִּשְׁמְע֖וּ אֶל־חִזְקִיָּ֑הוּ כִּי֩ כֹ֨ה אָמַ֜ר מֶ֣לֶךְ אַשּׁ֗וּר עֲשֽׂוּ־אִתִּ֤י בְרָכָה֙ וּצְא֣וּ אֵלַ֔י וְאִכְל֤וּ אִישׁ־גַּפְנֹו֙ וְאִ֣ישׁ תְּאֵֽנָתֹ֔ו וּשְׁת֖וּ אִ֥ישׁ מֵֽי־בֹורֹֽו׃ עַד־בֹּאִי֩ וְלָקַחְתִּ֨י אֶתְכֶ֜ם אֶל־אֶ֣רֶץ כְּאַרְצְכֶ֗ם אֶרֶץ֩ דָּגָ֨ן וְתִירֹ֜ושׁ אֶ֧רֶץ לֶ֣חֶם וּכְרָמִ֗ים אֶ֣רֶץ זֵ֤ית יִצְהָר֙ וּדְבַ֔שׁ וִֽחְי֖וּ וְלֹ֣א תָמֻ֑תוּ וְאַֽל־תִּשְׁמְעוּ֙ אֶל־חִזְקִיָּ֔הוּ כִּֽי־יַסִּ֤ית אֶתְכֶם֙ לֵאמֹ֔ר יְהוָ֖ה יַצִּילֵֽנוּ׃ הַהַצֵּ֥ל הִצִּ֛ילוּ אֱלֹהֵ֥י הַגֹּויִ֖ם אִ֣ישׁ אֶת־אַרְצֹ֑ו מִיַּ֖ד מֶ֥לֶךְ אַשּֽׁוּר׃ אַיֵּה֩ אֱלֹהֵ֨י חֲמָ֜ת וְאַרְפָּ֗ד אַיֵּ֛ה אֱלֹהֵ֥י סְפַרְוַ֖יִם הֵנַ֣ע וְעִוָּ֑ה כִּֽי־הִצִּ֥ילוּ אֶת־שֹׁמְרֹ֖ון מִיָּדִֽי׃ מִ֚י בְּכָל־אֱלֹהֵ֣י הָֽאֲרָצֹ֔ות אֲשֶׁר־הִצִּ֥ילוּ אֶת־אַרְצָ֖ם מִיָּדִ֑י כִּי־יַצִּ֧יל יְהוָ֛ה אֶת־יְרוּשָׁלִַ֖ם מִיָּדִֽי׃ וְהֶחֱרִ֣ישׁוּ הָעָ֔ם , II Kgs. 18:36)
-he built (ESV, NIV | BHS וַֽיַּעֲבֹ֖ד אֹתָֽם׃ וּבָנָ֥ה מִזְבְּחֹ֖ת בְּבֵ֣ית יְהוָ֑ה , II Kgs. 21:4)
-carried, took (ESV, NIV | BHS וַֽיִּשְׂרְפֵ֞ם מִח֤וּץ לִירוּשָׁלִַ֨ם֙ בְּשַׁדְמֹ֣ות קִדְרֹ֔ון וְנָשָׂ֥א אֶת־עֲפָרָ֖ם בֵּֽית־אֵֽל׃ , II Kgs. 23:4)
-he carried away, he carried into exile (ESV, NIV | BHS וַיְקַצֵּ֞ץ אֶת־כָּל־כְּלֵ֣י הַזָּהָ֗ב אֲשֶׁ֨ר עָשָׂ֜ה שְׁלֹמֹ֤ה מֶֽלֶךְ־יִשְׂרָאֵל֙ בְּהֵיכַ֣ל יְהוָ֔ה כַּֽאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה׃ וְהִגְלָ֣ה אֶת־כָּל־יְ֠רוּשָׁלִַם וְֽאֶת־כָּל־הַשָּׂרִ֞ים וְאֵ֣ת׀ כָּל־גִּבֹּורֵ֣י הַחַ֗יִל עֲשֶׂ֤רֶת אֲלָפִים֙ גֹּולֶ֔ה וְכָל־הֶחָרָ֖שׁ וְהַמַּסְגֵּ֑ר , II Kgs. 24:14)
-they went out (ESV, NIV | BHS וַיֹּ֨אמֶר אֲלֵיהֶ֜ם טַמְּא֣וּ אֶת־הַבַּ֗יִת וּמַלְא֧וּ אֶת־הַחֲצֵרֹ֛ות חֲלָלִ֖ים צֵ֑אוּ וְיָצְא֖וּ , Ezek. 9:7)
-I withheld (ESV, NIV | BHS וָאֹמַ֞ר לִשְׁפֹּ֧ךְ חֲמָתִ֣י עֲלֵיהֶ֗ם לְכַלֹּ֥ות אַפִּ֛י בָּ֖ם בַּמִּדְבָּֽר׃ וַהֲשִׁבֹ֨תִי֙ אֶת־יָדִ֔י , Ezek. 20:22)
-was proud (ESV, NIV | BHS וַיִּתֵּ֤ן צַמַּרְתֹּו֙ אֶל־בֵּ֣ין עֲבֹותִ֔ים וְרָ֥ם לְבָבֹ֖ו בְּגָבְהֹֽו׃ , Ezek. 31:10)
-multiplied, spoke without restraint (ESV, NIV | BHS וַתַּגְדִּ֤ילוּ עָלַי֙ בְּפִיכֶ֔ם וְהַעְתַּרְתֶּ֥ם עָלַ֖י דִּבְרֵיכֶ֑ם , Ezek. 35:13)
-I looked (ESV, NIV | BHS וַֽיְהִי־קֹ֤ול כְּהִנָּֽבְאִי֙ וְהִנֵּה־רַ֔עַשׁ וַתִּקְרְב֣וּ עֲצָמֹ֔ות עֶ֖צֶם אֶל־עַצְמֹֽו׃ וְרָאִ֜יתִי , Ezek. 37:8)
-I prophesied (ESV, NIV | BHS וַיֹּ֣אמֶר אֵלַ֔י הִנָּבֵ֖א אֶל־הָר֑וּחַ הִנָּבֵ֣א בֶן־אָ֠דָם וְאָמַרְתָּ֙ אֶל־הָר֜וּחַ כֹּֽה־אָמַ֣ר׀ אֲדֹנָ֣י יְהוִ֗ה מֵאַרְבַּ֤ע רוּחֹות֙ בֹּ֣אִי הָר֔וּחַ וּפְחִ֛י בַּהֲרוּגִ֥ים הָאֵ֖לֶּה וְיִֽחְיֽוּ׃ וְהִנַּבֵּ֖אתִי , Ezek. 37:10)
-he measured (ESV, NIV | BHS וַיֹּולִכֵ֨נִי֙ דֶּ֣רֶךְ הַדָּרֹ֔ום וְהִנֵּה־שַׁ֖עַר דֶּ֣רֶךְ הַדָּרֹ֑ום וּמָדַ֤ד אֵילָיו֙ וְאֵ֣ילַמָּ֔יו כַּמִּדֹּ֖ות הָאֵֽלֶּה׃ , Ezek. 40:24)
-he measured, measured (ESV, NIV | BHS וַיְבִיאֵ֖נִי אֶל־שַׁ֣עַר הַצָּפֹ֑ון וּמָדַ֖ד כַּמִּדֹּ֥ות הָאֵֽלֶּה׃ , Ezek. 40:35)
-he went (ESV, NIV | BHS וַיָּ֤מָד אָרְכֹּו֙ אַרְבָּעִ֣ים אַמָּ֔ה וְרֹ֖חַב עֶשְׂרִ֥ים אַמָּֽה׃ וּבָ֣א לִפְנִ֔ימָה , Ezek. 41:3)
-accepted, agreed (ESV, NIV | BHS וַיִּכְתֹּ֣ב מָרְדֳּכַ֔י אֶת־הַדְּבָרִ֖ים הָאֵ֑לֶּה וַיִּשְׁלַ֨ח סְפָרִ֜ים אֶל־כָּל־הַיְּהוּדִ֗ים אֲשֶׁר֙ בְּכָל־מְדִינֹות֙ הַמֶּ֣לֶךְ אֲחַשְׁוֵרֹ֔ושׁ הַקְּרֹובִ֖ים וְהָרְחֹוקִֽים׃ לְקַיֵּם֮ עֲלֵיהֶם֒ לִהְיֹ֣ות עֹשִׂ֗ים אֵ֠ת יֹ֣ום אַרְבָּעָ֤ה עָשָׂר֙ לְחֹ֣דֶשׁ אֲדָ֔ר וְאֵ֛ת יֹום־חֲמִשָּׁ֥ה עָשָׂ֖ר בֹּ֑ו בְּכָל־שָׁנָ֖ה וְשָׁנָֽה׃ כַּיָּמִ֗ים אֲשֶׁר־נָ֨חוּ בָהֶ֤ם הַיְּהוּדִים֙ מֵאֹ֣ויְבֵיהֶ֔ם וְהַחֹ֗דֶשׁ אֲשֶׁר֩ נֶהְפַּ֨ךְ לָהֶ֤ם מִיָּגֹון֙ לְשִׂמְחָ֔ה וּמֵאֵ֖בֶל לְיֹ֣ום טֹ֑וב לַעֲשֹׂ֣ות אֹותָ֗ם יְמֵי֙ מִשְׁתֶּ֣ה וְשִׂמְחָ֔ה וּמִשְׁלֹ֤וחַ מָנֹות֙ אִ֣ישׁ לְרֵעֵ֔הוּ וּמַתָּנֹ֖ות לָֽאֶבְיֹונִֽים׃ וְקִבֵּל֙ הַיְּהוּדִ֔ים , Esth. 9:23)
-took over, received (ESV, NIV | BHS וָאֹמְרָ֣ה אֲלֵהֶ֗ם אַתֶּ֥ם קֹ֨דֶשׁ֙ לַיהוָ֔ה וְהַכֵּלִ֖ים קֹ֑דֶשׁ וְהַכֶּ֤סֶף וְהַזָּהָב֙ נְדָבָ֔ה לַיהוָ֖ה אֱלֹהֵ֥י אֲבֹתֵיכֶֽם׃ שִׁקְד֣וּ וְשִׁמְר֗וּ עַֽד־תִּשְׁקְל֡וּ לִפְנֵי֩ שָׂרֵ֨י הַכֹּהֲנִ֧ים וְהַלְוִיִּ֛ם וְשָׂרֵֽי־הָאָבֹ֥ות לְיִשְׂרָאֵ֖ל בִּירוּשָׁלִָ֑ם הַלִּשְׁכֹ֖ות בֵּ֥ית יְהוָֽה׃ וְקִבְּלוּ֙ הַכֹּהֲנִ֣ים וְהַלְוִיִּ֔ם מִשְׁקַ֛ל הַכֶּ֥סֶף וְהַזָּהָ֖ב וְהַכֵּלִ֑ים , Ezra 8:30)
-he carved (ESV, NIV | BHS וַיְחַ֨ף אֶת־הַבַּ֜יִת הַקֹּרֹ֧ות הַסִּפִּ֛ים וְקִֽירֹותָ֥יו וְדַלְתֹותָ֖יו זָהָ֑ב וּפִתַּ֥ח כְּרוּבִ֖ים עַל־הַקִּירֹֽות׃ ס , II Chr. 3:7)
-committed, assigned (ESV, NIV | BHS וַיַּ֨עַשׂ הַמֶּ֤לֶךְ רְחַבְעָם֙ תַּחְתֵּיהֶ֔ם מָגִנֵּ֖י נְחֹ֑שֶׁת וְהִפְקִ֗יד עַל־יַד֙ שָׂרֵ֣י הָרָצִ֔ים , II Chr. 12:10)
-he built (ESV, NIV | BHS וַיָּ֗שָׁב וַיִּ֨בֶן֙ אֶת־הַבָּמֹ֔ות אֲשֶׁ֥ר נִתַּ֖ץ יְחִזְקִיָּ֣הוּ אָבִ֑יו וַיָּ֨קֶם מִזְבְּחֹ֤ות לַבְּעָלִים֙ וַיַּ֣עַשׂ אֲשֵׁרֹ֔ות וַיִּשְׁתַּ֨חוּ֙ לְכָל־צְבָ֣א הַשָּׁמַ֔יִם וַֽיַּעֲבֹ֖ד אֹתָֽם׃ וּבָנָ֥ה מִזְבְּחֹ֖ות בְּבֵ֣ית יְהוָ֑ה , II Chr. 33:4)
+(x)	וַיֹּ֣אמֶר לֹ֔ו כֹּ֥ה יִהְיֶ֖ה זַרְעֶֽךָ׃ וְ_הֶאֱמִ֖ן_ בַּֽיהוָ֑ה (Gen. 15:6)
+NIV	_Abram believed_ the LORD, and he credited it to him as righteousness.
+ESV	And _he believed_ the Lord, and he counted it to him as righteousness.
+
+(x)	וַיָּבֹ֥א אֵלֶֽיהָ׃ וַתַּ֖הַר וַתֵּ֣לֶד בֵּ֑ן וַיִּקְרָ֥א אֶת־שְׁמֹ֖ו עֵֽר׃ וַתַּ֥הַר עֹ֖וד וַתֵּ֣לֶד בֵּ֑ן וַתִּקְרָ֥א אֶת־שְׁמֹ֖ו אֹונָֽן׃ וַתֹּ֤סֶף עֹוד֙ וַתֵּ֣לֶד בֵּ֔ן וַתִּקְרָ֥א אֶת־שְׁמֹ֖ו שֵׁלָ֑ה וְ_הָיָ֥ה_ בִכְזִ֖יב (Gen. 38:5)
+NIV	She gave birth to still another son and named him Shelah. _It was_ at Kezib that she gave birth to him.
+ESV	Yet again she bore a son, and she called his name Shelah. _Judah was_ in Chezib when she bore him.
+
+(x)	וַֽיְמָרֲרֻ֖הוּ וָ_רֹ֑בּוּ_ (Gen. 49:23)
+NIV	With bitterness archers attacked him. _they shot_ at him with hostility.
+ESV	The archers bitterly attacked him, _shot_ at him, and harassed him severely,
+
+(x)	וַיִּלְקְט֤וּ אֹתֹו֙ בַּבֹּ֣קֶר בַּבֹּ֔קֶר אִ֖ישׁ כְּפִ֣י אָכְלֹ֑ו וְ_חַ֥ם_ הַשֶּׁ֖מֶשׁ (Exod. 16:21)
+NIV	Each morning everyone gathered as much as he needed, and when the sun _grew hot_, it melted away.
+ESV	Morning by morning they gathered it, each as much as he could eat. but when the sun _grew hot_, it melted.
+
+(x)	וַיִּתֵּ֥ן אֹתָ֛ם רָאשִׁ֖ים עַל־הָעָ֑ם שָׂרֵ֤י אֲלָפִים֙ שָׂרֵ֣י מֵאֹ֔ות שָׂרֵ֥י חֲמִשִּׁ֖ים וְשָׂרֵ֥י עֲשָׂרֹֽת׃ וְ_שָׁפְט֥וּ_ אֶת־הָעָ֖ם בְּכָל־עֵ֑ת (Exod. 18:26)
+NIV	_They served as judges_ for the people at all times. The difficult cases they brought to Moses, but the simple ones they decided themselves.
+ESV	And _they judged_ the people at all times. Any hard case they brought to Moses, but any small matter they decided themselves.
+
+(x)	וַיִּסְע֖וּ בָּרִאשֹׁנָ֑ה עַל־פִּ֥י יְהוָ֖ה בְּיַד־מֹשֶֽׁה׃ וַיִּסַּ֞ע דֶּ֣גֶל מַחֲנֵ֧ה בְנֵֽי־יְהוּדָ֛ה בָּרִאשֹׁנָ֖ה לְצִבְאֹתָ֑ם וְעַל־צְבָאֹ֔ו נַחְשֹׁ֖ון בֶּן־עַמִּינָדָֽב׃ וְעַ֨ל־צְבָ֔א מַטֵּ֖ה בְּנֵ֣י יִשָׂשכָ֑ר נְתַנְאֵ֖ל בֶּן־צוּעָֽר׃ וְעַ֨ל־צְבָ֔א מַטֵּ֖ה בְּנֵ֣י זְבוּלֻ֑ן אֱלִיאָ֖ב בֶּן־חֵלֹֽון׃ וְ_הוּרַ֖ד_ הַמִּשְׁכָּ֑ן (Num. 10:17)
+NIV	Then the tabernacle _was taken down_, and the Gershonites and Merarites, who carried it, set out.
+ESV	And when the tabernacle _was taken down_, the sons of Gershon and the sons of Merari, who carried the tabernacle, set out.
+
+(x)	וַיִּסְגֹּ֞ר דַּלְתֹ֧ות הָעַלִיָּ֛ה בַּעֲדֹ֖ו וְ_נָעָֽל_׃ (Judg. 3:23)
+NIV	Then Ehud went out to the porch. he shut the doors of the upper room behind him and _locked_ them.
+ESV	Then Ehud went out into the porch and closed the doors of the roof chamber behind him and _locked_ them.
+
+(x)	וַתִּקְרָא֩ לְסַרְנֵ֨י פְלִשְׁתִּ֤ים לֵאמֹר֙ עֲל֣וּ הַפַּ֔עַם כִּֽי־הִגִּ֥יד לִ֖י אֶת־כָּל־לִבֹּ֑ו וְ_עָל֤וּ_ אֵלֶ֨יהָ֙ סַרְנֵ֣י פְלִשְׁתִּ֔ים (Judg. 16:18)
+NIV	When Delilah saw that he had told her everything, she sent word to the rulers of the Philistines, “Come back once more. he has told me everything.” So the rulers of the Philistines _returned_ with the silver in their hands.
+ESV	When Delilah saw that he had told her all his heart, she sent and called the lords of the Philistines, saying, “Come up again, for he has told me all his heart.” Then the lords of the Philistines _came up_ to her and brought the money in their hands.
+
+(x)	וַיִּרְא֥וּ אַנְשֵֽׁי־אַשְׁדֹּ֖וד כִּֽי־כֵ֑ן וְ_אָמְר֗וּ_ (I Sam. 5:7)
+NIV	When the men of Ashdod saw what was happening, _they said_, “The ark of the god of Israel must not stay here with us, because his hand is heavy upon us and upon Dagon our god.”
+ESV	And when the men of Ashdod saw how things were, _they said_, “The ark of the God of Israel must not remain with us, for his hand is hard against us and against Dagon our god.”
+
+(x)	וַיֵּרְד֥וּ כָל־יִשְׂרָאֵ֖ל הַפְּלִשְׁתִּ֑ים לִ֠לְטֹושׁ אִ֣ישׁ אֶת־מַחֲרַשְׁתֹּ֤ו וְאֶת־אֵתֹו֙ וְאֶת־קַרְדֻּמֹּ֔ו וְאֵ֖ת מַחֲרֵשָׁתֹֽו׃ וְֽ_הָיְתָ֞ה_ הַפְּצִ֣ירָה פִ֗ים לַמַּֽחֲרֵשֹׁת֙ וְלָ֣אֵתִ֔ים וְלִשְׁלֹ֥שׁ קִלְּשֹׁ֖ון וּלְהַקַּרְדֻּמִּ֑ים (I Sam. 13:21)
+NIV	The price _was_ two thirds of a shekel for sharpening ploughshares and mattocks, and a third of a shekel for sharpening forks and axes and for repointing goads.
+ESV	and the charge _was_ two-thirds of a shekel for the plowshares and for the mattocks, and a third of a shekel for sharpening the axes and for setting the goads.
+
+(x)	וַיָּ֣קָם עָלַ֔י וְ_הֶחֱזַ֨קְתִּי֙_ בִּזְקָנֹ֔ו (I Sam. 17:35)
+NIV	I went after it, struck it and rescued the sheep from its mouth. When it turned on me, _I seized_ it by its hair, struck it and killed it.
+ESV	I went after him and struck him and delivered it out of his mouth. And if he arose against me, _I caught_ him by his beard and struck him and killed him.
+
+(x)	וַיַּלְבֵּ֨שׁ שָׁא֤וּל אֶת־דָּוִד֙ מַדָּ֔יו וְ_נָתַ֛ן_ קֹ֥ובַע נְחֹ֖שֶׁת עַל־רֹאשֹׁ֑ו (I Sam. 17:38)
+NIV	Then Saul dressed David in his own tunic. _He put_ a coat of armour on him and a bronze helmet on his head.
+ESV	Then Saul clothed David with his armor. _He put_ a helmet of bronze on his head and clothed him with a coat of mail,
+
+(x)	וַיָּ֤צָם דָּוִד֙ צֹ֔ום וּ_בָ֥א_ (II Sam. 12:16)
+NIV	David pleaded with God for the child. He fasted and _went into_ his house and spent the nights lying on the ground.
+ESV	David therefore sought God on behalf of the child. And David fasted and _went in_ and lay all night on the ground.
+
+(x)	וַיָּ֣שֶׂם בַּ֠מְּגֵרָה וּבַחֲרִצֵ֨י הַבַּרְזֶ֜ל וּֽבְמַגְזְרֹ֣ת הַבַּרְזֶ֗ל וְ_הֶעֱבִ֤יר_ אֹותָם֙ בַּמַּלְבֵּ֔ן (II Sam. 12:31)
+NIV	and brought out the people who were there, consigning them to labour with saws and with iron picks and axes, and he made them work at brickmaking. He did this to all the Ammonite towns. Then David and his entire army returned to Jerusalem.
+ESV	And he brought out the people who were in it and set them to labor with saws and iron picks and iron axes and made them toil at the brick kilns. And thus he did to all the cities of the Ammonites. Then David and all the people returned to Jerusalem.
+
+(x)	וַיֹּצֵ֨א אֹותָ֤הּ מְשָֽׁרְתֹו֙ הַח֔וּץ וְ_נָעַ֥ל_ הַדֶּ֖לֶת אַחֲרֶֽיהָ׃ (II Sam. 13:18)
+NIV	So his servant put her out and _bolted_ the door after her. She was wearing a richly ornamented robe, for this was the kind of garment the virgin daughters of the king wore.
+ESV	Now she was wearing a long robe with sleeves, for thus were the virgin daughters of the king dressed. So his servant put her out and _bolted_ the door after her.
+
+(x)	וַיִּפְרֹץ֩ בְּחֹומַ֨ת יְרוּשָׁלִַ֜ם בְּשַׁ֤עַר אֶפְרַ֨יִם֙ עַד־שַׁ֣עַר הַפִּנָּ֔ה אַרְבַּ֥ע מֵאֹ֖ות אַמָּֽה׃ וְ_לָקַ֣ח_ אֶת־כָּל־הַזָּהָב־וְ֠הַכֶּסֶף וְאֵ֨ת כָּל־הַכֵּלִ֜ים (II Kgs. 14:14)
+NIV	_He took_ all the gold and silver and all the articles found in the temple of the LORD and in the treasuries of the royal palace. He also took hostages and returned to Samaria.
+ESV	And _he seized_ all the gold and silver, and all the vessels that were found in the house of the Lord and in the treasuries of the king’s house, also hostages, and he returned to Samaria.
+
+(x)	וַיַּדַּ֨ח יָרָבְעָ֤ם אֶת־יִשְׂרָאֵל֙ מֵאַחֲרֵ֣י יְהוָ֔ה וְ_הֶחֱטֵיאָ֖ם_ חֲטָאָ֥ה גְדֹולָֽה׃ (II Kgs. 17:21)
+NIV	When he tore Israel away from the house of David, they made Jeroboam son of Nebat their king. Jeroboam enticed Israel away from following the LORD and caused them to commit a great sin.
+ESV	When he had torn Israel from the house of David, they made Jeroboam the son of Nebat king. And Jeroboam drove Israel from following the Lord and made them commit great sin.
+
+(x)	וַֽיַּעֲמֹד֙ רַב־שָׁקֵ֔ה וַיִּקְרָ֥א בְקֹול־גָּדֹ֖ול יְהוּדִ֑ית וַיְדַבֵּ֣ר וַיֹּ֔אמֶר שִׁמְע֛וּ דְּבַר־הַמֶּ֥לֶךְ הַגָּדֹ֖ול מֶ֥לֶךְ אַשּֽׁוּר׃ כֹּ֚ה אָמַ֣ר הַמֶּ֔לֶךְ אַל־יַשִּׁ֥יא לָכֶ֖ם חִזְקִיָּ֑הוּ כִּי־לֹ֣א יוּכַ֔ל לְהַצִּ֥יל אֶתְכֶ֖ם מִיָּדֹֽו׃ וְאַל־יַבְטַ֨ח אֶתְכֶ֤ם חִזְקִיָּ֨הוּ֙ אֶל־יְהוָ֣ה לֵאמֹ֔ר הַצֵּ֥ל יַצִּילֵ֖נוּ יְהוָ֑ה וְלֹ֤א תִנָּתֵן֙ אֶת־הָעִ֣יר הַזֹּ֔את בְּיַ֖ד מֶ֥לֶךְ אַשּֽׁוּר׃ אַֽל־תִּשְׁמְע֖וּ אֶל־חִזְקִיָּ֑הוּ כִּי֩ כֹ֨ה אָמַ֜ר מֶ֣לֶךְ אַשּׁ֗וּר עֲשֽׂוּ־אִתִּ֤י בְרָכָה֙ וּצְא֣וּ אֵלַ֔י וְאִכְל֤וּ אִישׁ־גַּפְנֹו֙ וְאִ֣ישׁ תְּאֵֽנָתֹ֔ו וּשְׁת֖וּ אִ֥ישׁ מֵֽי־בֹורֹֽו׃ עַד־בֹּאִי֩ וְלָקַחְתִּ֨י אֶתְכֶ֜ם אֶל־אֶ֣רֶץ כְּאַרְצְכֶ֗ם אֶרֶץ֩ דָּגָ֨ן וְתִירֹ֜ושׁ אֶ֧רֶץ לֶ֣חֶם וּכְרָמִ֗ים אֶ֣רֶץ זֵ֤ית יִצְהָר֙ וּדְבַ֔שׁ וִֽחְי֖וּ וְלֹ֣א תָמֻ֑תוּ וְאַֽל־תִּשְׁמְעוּ֙ אֶל־חִזְקִיָּ֔הוּ כִּֽי־יַסִּ֤ית אֶתְכֶם֙ לֵאמֹ֔ר יְהוָ֖ה יַצִּילֵֽנוּ׃ הַהַצֵּ֥ל הִצִּ֛ילוּ אֱלֹהֵ֥י הַגֹּויִ֖ם אִ֣ישׁ אֶת־אַרְצֹ֑ו מִיַּ֖ד מֶ֥לֶךְ אַשּֽׁוּר׃ אַיֵּה֩ אֱלֹהֵ֨י חֲמָ֜ת וְאַרְפָּ֗ד אַיֵּ֛ה אֱלֹהֵ֥י סְפַרְוַ֖יִם הֵנַ֣ע וְעִוָּ֑ה כִּֽי־הִצִּ֥ילוּ אֶת־שֹׁמְרֹ֖ון מִיָּדִֽי׃ מִ֚י בְּכָל־אֱלֹהֵ֣י הָֽאֲרָצֹ֔ות אֲשֶׁר־הִצִּ֥ילוּ אֶת־אַרְצָ֖ם מִיָּדִ֑י כִּי־יַצִּ֧יל יְהוָ֛ה אֶת־יְרוּשָׁלִַ֖ם מִיָּדִֽי׃ וְ_הֶחֱרִ֣ישׁוּ_ הָעָ֔ם (II Kgs. 18:36)
+NIV	But the people _remained silent_ and said nothing in reply, because the king had commanded, “Do not answer him.”
+ESV	But the people _were silent_ and answered him not a word, for the king’s command was, “Do not answer him.”
+
+(x)	וַֽיַּעֲבֹ֖ד אֹתָֽם׃ וּ_בָנָ֥ה_ מִזְבְּחֹ֖ת בְּבֵ֣ית יְהוָ֑ה (II Kgs. 21:4)
+NIV	_He built_ altars in the temple of the LORD, of which the LORD had said, “In Jerusalem I will put my Name.”
+ESV	And _he built_ altars in the house of the Lord, of which the Lord had said, “In Jerusalem will I put my name.”
+
+(x)	וַֽיִּשְׂרְפֵ֞ם מִח֤וּץ לִירוּשָׁלִַ֨ם֙ בְּשַׁדְמֹ֣ות קִדְרֹ֔ון וְ_נָשָׂ֥א_ אֶת־עֲפָרָ֖ם בֵּֽית־אֵֽל׃ (II Kgs. 23:4)
+NIV	The king ordered Hilkiah the high priest, the priests next in rank and the doorkeepers to remove from the temple of the LORD all the articles made for Baal and Asherah and all the starry hosts. He burned them outside Jerusalem in the fields of the Kidron Valley and _took_ the ashes to Bethel.
+ESV	And the king commanded Hilkiah the high priest and the priests of the second order and the keepers of the threshold to bring out of the temple of the Lord all the vessels made for Baal, for Asherah, and for all the host of heaven. He burned them outside Jerusalem in the fields of the Kidron and _carried_ their ashes to Bethel.
+
+(x)	וַיְקַצֵּ֞ץ אֶת־כָּל־כְּלֵ֣י הַזָּהָ֗ב אֲשֶׁ֨ר עָשָׂ֜ה שְׁלֹמֹ֤ה מֶֽלֶךְ־יִשְׂרָאֵל֙ בְּהֵיכַ֣ל יְהוָ֔ה כַּֽאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה׃ וְ_הִגְלָ֣ה_ אֶת־כָּל־יְ֠רוּשָׁלִַם וְֽאֶת־כָּל־הַשָּׂרִ֞ים וְאֵ֣ת׀ כָּל־גִּבֹּורֵ֣י הַחַ֗יִל עֲשֶׂ֤רֶת אֲלָפִים֙ גֹּולֶ֔ה וְכָל־הֶחָרָ֖שׁ וְהַמַּסְגֵּ֑ר (II Kgs. 24:14)
+NIV	_He carried into exile_ all Jerusalem: all the officers and fighting men, and all the craftsmen and artisans — a total of ten thousand. Only the poorest people of the land were left.
+ESV	_He carried away_ all Jerusalem and all the officials and all the mighty men of valor, 10,000 captives, and all the craftsmen and the smiths. None remained, except the poorest people of the land.
+
+(x)	וַיֹּ֨אמֶר אֲלֵיהֶ֜ם טַמְּא֣וּ אֶת־הַבַּ֗יִת וּמַלְא֧וּ אֶת־הַחֲצֵרֹ֛ות חֲלָלִ֖ים צֵ֑אוּ וְ_יָצְא֖וּ_ (Ezek. 9:7)
+NIV	Then he said to them, “Defile the temple and fill the courts with the slain. Go!” So _they went out_ and began killing throughout the city.
+ESV	Then he said to them, “Defile the house, and fill the courts with the slain. Go out.” So _they went out_ and struck in the city.
+
+(x)	וָאֹמַ֞ר לִשְׁפֹּ֧ךְ חֲמָתִ֣י עֲלֵיהֶ֗ם לְכַלֹּ֥ות אַפִּ֛י בָּ֖ם בַּמִּדְבָּֽר׃ וַ_הֲשִׁבֹ֨תִי֙_ אֶת־יָדִ֔י (Ezek. 20:22)
+NIV	But _I withheld_ my hand, and for the sake of my name I did what would keep it from being profaned in the eyes of the nations in whose sight I had brought them out.
+ESV	But _I withheld_ my hand and acted for the sake of my name, that it should not be profaned in the sight of the nations, in whose sight I had brought them out.
+
+(x)	וַיִּתֵּ֤ן צַמַּרְתֹּו֙ אֶל־בֵּ֣ין עֲבֹותִ֔ים וְ_רָ֥ם_ לְבָבֹ֖ו בְּגָבְהֹֽו׃ (Ezek. 31:10)
+NIV	“‘Therefore this is what the Sovereign LORD says: Because it towered on high, lifting its top above the thick foliage, and because it _was proud_ of its height,
+ESV	“Therefore thus says the Lord God: Because it towered high and set its top among the clouds, and its heart _was proud_ of its height,
+
+(x)	וַתַּגְדִּ֤ילוּ עָלַי֙ בְּפִיכֶ֔ם וְ_הַעְתַּרְתֶּ֥ם_ עָלַ֖י דִּבְרֵיכֶ֑ם (Ezek. 35:13)
+NIV	You boasted against me and spoke against me without restraint, and I heard it.
+ESV	And you magnified yourselves against me with your mouth, and _multiplied_ your words against me. I heard it.
+
+(x)	וַֽיְהִי־קֹ֤ול כְּהִנָּֽבְאִי֙ וְהִנֵּה־רַ֔עַשׁ וַתִּקְרְב֣וּ עֲצָמֹ֔ות עֶ֖צֶם אֶל־עַצְמֹֽו׃ וְ_רָאִ֜יתִי_ (Ezek. 37:8)
+NIV	_I looked_, and tendons and flesh appeared on them and skin covered them, but there was no breath in them.
+ESV	And _I looked_, and behold, there were sinews on them, and flesh had come upon them, and skin had covered them. But there was no breath in them.
+
+(x)	וַיֹּ֣אמֶר אֵלַ֔י הִנָּבֵ֖א אֶל־הָר֑וּחַ הִנָּבֵ֣א בֶן־אָ֠דָם וְאָמַרְתָּ֙ אֶל־הָר֜וּחַ כֹּֽה־אָמַ֣ר׀ אֲדֹנָ֣י יְהוִ֗ה מֵאַרְבַּ֤ע רוּחֹות֙ בֹּ֣אִי הָר֔וּחַ וּפְחִ֛י בַּהֲרוּגִ֥ים הָאֵ֖לֶּה וְיִֽחְיֽוּ׃ וְ_הִנַּבֵּ֖אתִי_ (Ezek. 37:10)
+NIV	So _I prophesied_ as he commanded me, and breath entered them. they came to life and stood up on their feet — a vast army.
+ESV	So _I prophesied_ as he commanded me, and the breath came into them, and they lived and stood on their feet, an exceedingly great army.
+
+(x)	וַיֹּולִכֵ֨נִי֙ דֶּ֣רֶךְ הַדָּרֹ֔ום וְהִנֵּה־שַׁ֖עַר דֶּ֣רֶךְ הַדָּרֹ֑ום וּ_מָדַ֤ד_ אֵילָיו֙ וְאֵ֣ילַמָּ֔יו כַּמִּדֹּ֖ות הָאֵֽלֶּה׃ (Ezek. 40:24)
+NIV	Then he led me to the south side and I saw a gate facing south. _He measured_ its jambs and its portico, and they had the same measurements as the others.
+ESV	And he led me toward the south, and behold, there was a gate on the south. And _he measured_ its jambs and its vestibule. they had the same size as the others.
+
+(x)	וַיְבִיאֵ֖נִי אֶל־שַׁ֣עַר הַצָּפֹ֑ון וּ_מָדַ֖ד_ כַּמִּדֹּ֥ות הָאֵֽלֶּה׃ (Ezek. 40:35)
+NIV	Then he brought me to the north gate and _measured_ it. It had the same measurements as the others,
+ESV	Then he brought me to the north gate, and _he measured_ it. It had the same size as the others.
+
+(x)	וַיָּ֤מָד אָרְכֹּו֙ אַרְבָּעִ֣ים אַמָּ֔ה וְרֹ֖חַב עֶשְׂרִ֥ים אַמָּֽה׃ וּ_בָ֣א_ לִפְנִ֔ימָה (Ezek. 41:3)
+NIV	Then _he went_ into the inner sanctuary and measured the jambs of the entrance. each was two cubits wide. The entrance was six cubits wide, and the projecting walls on each side of it were seven cubits wide.
+ESV	Then _he went_ into the inner room and measured the jambs of the entrance, two cubits. and the entrance, six cubits. and the sidewalls on either side of the entrance, seven cubits.
+
+(x)	וַיִּכְתֹּ֣ב מָרְדֳּכַ֔י אֶת־הַדְּבָרִ֖ים הָאֵ֑לֶּה וַיִּשְׁלַ֨ח סְפָרִ֜ים אֶל־כָּל־הַיְּהוּדִ֗ים אֲשֶׁר֙ בְּכָל־מְדִינֹות֙ הַמֶּ֣לֶךְ אֲחַשְׁוֵרֹ֔ושׁ הַקְּרֹובִ֖ים וְהָרְחֹוקִֽים׃ לְקַיֵּם֮ עֲלֵיהֶם֒ לִהְיֹ֣ות עֹשִׂ֗ים אֵ֠ת יֹ֣ום אַרְבָּעָ֤ה עָשָׂר֙ לְחֹ֣דֶשׁ אֲדָ֔ר וְאֵ֛ת יֹום־חֲמִשָּׁ֥ה עָשָׂ֖ר בֹּ֑ו בְּכָל־שָׁנָ֖ה וְשָׁנָֽה׃ כַּיָּמִ֗ים אֲשֶׁר־נָ֨חוּ בָהֶ֤ם הַיְּהוּדִים֙ מֵאֹ֣ויְבֵיהֶ֔ם וְהַחֹ֗דֶשׁ אֲשֶׁר֩ נֶהְפַּ֨ךְ לָהֶ֤ם מִיָּגֹון֙ לְשִׂמְחָ֔ה וּמֵאֵ֖בֶל לְיֹ֣ום טֹ֑וב לַעֲשֹׂ֣ות אֹותָ֗ם יְמֵי֙ מִשְׁתֶּ֣ה וְשִׂמְחָ֔ה וּמִשְׁלֹ֤וחַ מָנֹות֙ אִ֣ישׁ לְרֵעֵ֔הוּ וּמַתָּנֹ֖ות לָֽאֶבְיֹונִֽים׃ וְ_קִבֵּל֙_ הַיְּהוּדִ֔ים (Esth. 9:23)
+NIV	So the Jews _agreed_ to continue the celebration they had begun, doing what Mordecai had written to them.
+ESV	So the Jews _accepted_ what they had started to do, and what Mordecai had written to them.
+
+(x)	וָאֹמְרָ֣ה אֲלֵהֶ֗ם אַתֶּ֥ם קֹ֨דֶשׁ֙ לַיהוָ֔ה וְהַכֵּלִ֖ים קֹ֑דֶשׁ וְהַכֶּ֤סֶף וְהַזָּהָב֙ נְדָבָ֔ה לַיהוָ֖ה אֱלֹהֵ֥י אֲבֹתֵיכֶֽם׃ שִׁקְד֣וּ וְשִׁמְר֗וּ עַֽד־תִּשְׁקְל֡וּ לִפְנֵי֩ שָׂרֵ֨י הַכֹּהֲנִ֧ים וְהַלְוִיִּ֛ם וְשָׂרֵֽי־הָאָבֹ֥ות לְיִשְׂרָאֵ֖ל בִּירוּשָׁלִָ֑ם הַלִּשְׁכֹ֖ות בֵּ֥ית יְהוָֽה׃ וְ_קִבְּלוּ֙_ הַכֹּהֲנִ֣ים וְהַלְוִיִּ֔ם מִשְׁקַ֛ל הַכֶּ֥סֶף וְהַזָּהָ֖ב וְהַכֵּלִ֑ים (Ezra 8:30)
+NIV	Then the priests and Levites _received_ the silver and gold and sacred articles that had been weighed out to be taken to the house of our God in Jerusalem.
+ESV	So the priests and the Levites _took over_ the weight of the silver and the gold and the vessels, to bring them to Jerusalem, to the house of our God.
+
+(x)	וַיְחַ֨ף אֶת־הַבַּ֜יִת הַקֹּרֹ֧ות הַסִּפִּ֛ים וְקִֽירֹותָ֥יו וְדַלְתֹותָ֖יו זָהָ֑ב וּ_פִתַּ֥ח_ כְּרוּבִ֖ים עַל־הַקִּירֹֽות׃ ס (II Chr. 3:7)
+NIV	He overlaid the ceiling beams, door-frames, walls and doors of the temple with gold, and _he carved_ cherubim on the walls.
+ESV	So he lined the house with gold — its beams, its thresholds, its walls, and its doors — and _he carved_ cherubim on the walls.
+
+(x)	וַיַּ֨עַשׂ הַמֶּ֤לֶךְ רְחַבְעָם֙ תַּחְתֵּיהֶ֔ם מָגִנֵּ֖י נְחֹ֑שֶׁת וְ_הִפְקִ֗יד_ עַל־יַד֙ שָׂרֵ֣י הָרָצִ֔ים (II Chr. 12:10)
+NIV	So King Rehoboam made bronze shields to replace them and _assigned_ these to the commanders of the guard on duty at the entrance to the royal palace.
+ESV	and King Rehoboam made in their place shields of bronze and _committed_ them to the hands of the officers of the guard, who kept the door of the king’s house.
+
+(x)	וַיָּ֗שָׁב וַיִּ֨בֶן֙ אֶת־הַבָּמֹ֔ות אֲשֶׁ֥ר נִתַּ֖ץ יְחִזְקִיָּ֣הוּ אָבִ֑יו וַיָּ֨קֶם מִזְבְּחֹ֤ות לַבְּעָלִים֙ וַיַּ֣עַשׂ אֲשֵׁרֹ֔ות וַיִּשְׁתַּ֨חוּ֙ לְכָל־צְבָ֣א הַשָּׁמַ֔יִם וַֽיַּעֲבֹ֖ד אֹתָֽם׃ וּ_בָנָ֥ה_ מִזְבְּחֹ֖ות בְּבֵ֣ית יְהוָ֑ה (II Chr. 33:4)
+NIV	_He built_ altars in the temple of the LORD, of which the LORD had said, “My Name will remain in Jerusalem forever.”
+ESV	And _he built_ altars in the house of the Lord, of which the Lord had said, “In Jerusalem shall my name be forever.”

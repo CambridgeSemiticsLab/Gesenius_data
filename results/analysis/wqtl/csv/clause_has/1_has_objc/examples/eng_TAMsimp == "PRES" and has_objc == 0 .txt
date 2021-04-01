@@ -1,27 +1,101 @@
 eng_TAMsimp == "PRES" and has_objc == 0 
 25 of 271
-is seen, appears (ESV, NIV | BHS וְנִרְאֲתָ֥ה הַקֶּ֖שֶׁת בֶּעָנָֽן׃ , Gen. 9:14)
-the slave dies (ESV, NIV | BHS וּמֵ֖ת תַּ֣חַת יָדֹ֑ו , Exod. 21:20)
-lies, sleeps (ESV, NIV | BHS וְשָׁכַ֣ב עִמָּ֑הּ , Exod. 22:15)
-he realizes his guilt, is guilty (ESV, NIV | BHS וְאָשֵֽׁם׃ , Lev. 5:2)
-sells (ESV, NIV | BHS וּמָכַ֖ר מֵאֲחֻזָּתֹ֑ו , Lev. 25:25)
-defiles herself (ESV, NIV | BHS וְנִטְמָֽאָה׃ , Num. 5:29)
-you act corruptly, you become corrupt (ESV, NIV | BHS וְהִשְׁחַתֶּ֗ם , Deut. 4:25)
-lies in wait (ESV, NIV | BHS וְאָ֤רַב לֹו֙ , Deut. 19:11)
-she departs, she leaves (ESV, NIV | BHS וְיָצְאָ֖ה מִבֵּיתֹ֑ו , Deut. 24:2)
-obey (ESV, NIV | BHS וְשָׁמַעְתָּ֣ בְקֹלֹ֔ו כְּכֹ֛ל , Deut. 30:2)
-show, tell (ESV, NIV | BHS וְהֹודַעְתִּ֣י לְךָ֔ , I Sam. 10:8)
-prays (ESV, NIV | BHS וְהִתְפַּלֵּ֖ל אֶל־הַבַּ֥יִת הַזֶּֽה׃ , I Kgs. 8:42)
-is a light thing, is an easy thing (ESV, NIV | BHS וְנָקַ֥ל זֹ֖את בְּעֵינֵ֣י יְהוָ֑ה , II Kgs. 3:18)
-are left (ESV, NIV | BHS וְנִשְׁאַ֥ר אֱנֹ֖ושׁ מִזְעָֽר׃ , Isa. 24:6)
-becomes, marries (ESV, NIV | BHS וְהָיְתָ֣ה לְאִישׁ־אַחֵ֗ר , Jer. 3:1)
-come, they come (ESV, NIV | BHS וּבָ֣אוּ אֵלֶ֣יךָ , Jer. 38:25)
-does (ESV, NIV | BHS וְעָ֣שָׂה אָ֔ח מֵאַחַ֖ד מֵאֵֽלֶּה׃ , Ezek. 18:10)
-testifies (ESV, NIV | BHS וְעָנָ֥ה גְאֹֽון־יִשְׂרָאֵ֖ל בְּפָנָ֑יו , Hos. 5:5)
-are swifter (ESV, NIV | BHS וְקַלּ֨וּ מִנְּמֵרִ֜ים סוּסָ֗יו , Hab. 1:8)
-you look carefully, you look (ESV, NIV | BHS וְהִתְבֹּונַ֖נְתָּ עַל־מְקֹומֹ֣ו , Psa. 37:10)
-repent (ESV, NIV | BHS וְנִחַ֑מְתִּי עַל־עָפָ֥ר וָאֵֽפֶר׃ פ , Job 42:6)
-is gathered, is gathered in (ESV, NIV | BHS וְ֝נֶאֶסְפ֗וּ עִשְּׂבֹ֥ות הָרִֽים׃ , Prov. 27:25)
-go about (ESV, NIV | BHS וְסָבְב֥וּ בַשּׁ֖וּק הַסֹּפְדִֽים׃ , Eccl. 12:5)
-they pray (ESV, NIV | BHS וְהִֽתְפַּלְל֞וּ אֶל־הַמָּקֹ֤ום הַזֶּה֙ , II Chr. 6:26)
-you fall, cause downfall (ESV, NIV | BHS וְנָ֣פַלְתָּ֔ אַתָּ֖ה , II Chr. 25:19)
+(x)	וְ_נִרְאֲתָ֥ה_ הַקֶּ֖שֶׁת בֶּעָנָֽן׃ (Gen. 9:14)
+NIV	Whenever I bring clouds over the earth and the rainbow _appears_ in the clouds,
+ESV	When I bring clouds over the earth and the bow _is seen_ in the clouds,
+
+(x)	וּ_מֵ֖ת_ תַּ֣חַת יָדֹ֑ו (Exod. 21:20)
+NIV	“If a man beats his male or female slave with a rod and _the slave dies_ as a direct result, he must be punished,
+ESV	“When a man strikes his slave, male or female, with a rod and _the slave dies_ under his hand, he shall be avenged.
+
+(x)	וְ_שָׁכַ֣ב_ עִמָּ֑הּ (Exod. 22:15)
+NIV	“If a man seduces a virgin who is not pledged to be married and _sleeps_ with her, he must pay the bride-price, and she shall be his wife.
+ESV	“If a man seduces a virgin who is not betrothed and _lies_ with her, he shall give the bride-price for her and make her his wife.
+
+(x)	וְ_אָשֵֽׁם_׃ (Lev. 5:2)
+NIV	“‘Or if a person touches anything ceremonially unclean — whether the carcasses of unclean wild animals or of unclean livestock or of unclean creatures that move along the ground — even though he is unaware of it, he has become unclean and _is guilty_.
+ESV	or if anyone touches an unclean thing, whether a carcass of an unclean wild animal or a carcass of unclean livestock or a carcass of unclean swarming things, and it is hidden from him and he has become unclean, and _he realizes his guilt_.
+
+(x)	וּ_מָכַ֖ר_ מֵאֲחֻזָּתֹ֑ו (Lev. 25:25)
+NIV	“‘If one of your countrymen becomes poor and _sells_ some of his property, his nearest relative is to come and redeem what his countryman has sold.
+ESV	“If your brother becomes poor and _sells_ part of his property, then his nearest redeemer shall come and redeem what his brother has sold.
+
+(x)	זֹ֥את תֹּורַ֖ת הַקְּנָאֹ֑ת אֲשֶׁ֨ר תִּשְׂטֶ֥ה אִשָּׁ֛ה תַּ֥חַת אִישָׁ֖הּ וְ_נִטְמָֽאָה_׃ אֹ֣ו אִ֗ישׁ אֲשֶׁ֨ר תַּעֲבֹ֥ר עָלָ֛יו ר֥וּחַ קִנְאָ֖ה וְקִנֵּ֣א אֶת־אִשְׁתֹּ֑ו וְהֶעֱמִ֤יד אֶת־הָֽאִשָּׁה֙ לִפְנֵ֣י יְהוָ֔ה וְעָ֤שָׂה לָהּ֙ הַכֹּהֵ֔ן אֵ֥ת כָּל־הַתֹּורָ֖ה הַזֹּֽאת׃ (Num. 5:29)
+NIV	“‘This, then, is the law of jealousy when a woman goes astray and _defiles herself_ while married to her husband,
+ESV	“This is the law in cases of jealousy, when a wife, though under her husband’s authority, goes astray and _defiles herself_,
+
+(x)	וְ_הִשְׁחַתֶּ֗ם_ (Deut. 4:25)
+NIV	After you have had children and grandchildren and have lived in the land a long time — if you then become corrupt and make any kind of idol, doing evil in the eyes of the LORD your God and provoking him to anger,
+ESV	“When you father children and children’s children, and have grown old in the land, if _you act corruptly_ by making a carved image in the form of anything, and by doing what is evil in the sight of the Lord your God, so as to provoke him to anger,
+
+(x)	וְכִֽי־יִהְיֶ֥ה אִישׁ֙ שֹׂנֵ֣א לְרֵעֵ֔הוּ וְ_אָ֤רַב_ לֹו֙ וְקָ֣ם עָלָ֔יו וְהִכָּ֥הוּ נֶ֖פֶשׁ וָמֵ֑ת וְנָ֕ס אֶל־אַחַ֖ת הֶעָרִ֥ים הָאֵֽל׃ (Deut. 19:11)
+NIV	But if a man hates his neighbour and _lies in wait_ for him, assaults and kills him, and then flees to one of these cities,
+ESV	“But if anyone hates his neighbor and _lies in wait_ for him and attacks him and strikes him fatally so that he dies, and he flees into one of these cities,
+
+(x)	וְ_יָצְאָ֖ה_ מִבֵּיתֹ֑ו (Deut. 24:2)
+NIV	and if after _she leaves_ his house she becomes the wife of another man,
+ESV	“When a man takes a wife and marries her, if then she finds no favor in his eyes because he has found some indecency in her, and he writes her a certificate of divorce and puts it in her hand and sends her out of his house, and _she departs_ out of his house,
+
+(x)	וְ_שָׁמַעְתָּ֣_ בְקֹלֹ֔ו כְּכֹ֛ל אֲשֶׁר־אָנֹכִ֥י מְצַוְּךָ֖ הַיֹּ֑ום אַתָּ֣ה וּבָנֶ֔יךָ בְּכָל־לְבָבְךָ֖ וּבְכָל־נַפְשֶֽׁךָ׃ (Deut. 30:2)
+NIV	and when you and your children return to the LORD your God and _obey_ him with all your heart and with all your soul according to everything I command you today,
+ESV	and return to the Lord your God, you and your children, and _obey_ his voice in all that I command you today, with all your heart and with all your soul,
+
+(x)	וְ_הֹודַעְתִּ֣י_ לְךָ֔ אֵ֖ת אֲשֶׁ֥ר תַּעֲשֶֽׂה׃ (I Sam. 10:8)
+NIV	“Go down ahead of me to Gilgal. I will surely come down to you to sacrifice burnt offerings and fellowship offerings, but you must wait seven days until I come to you and _tell_ you what you are to do.”
+ESV	Then go down before me to Gilgal. And behold, I am coming to you to offer burnt offerings and to sacrifice peace offerings. Seven days you shall wait, until I come to you and _show_ you what you shall do.”
+
+(x)	וְגַם֙ אֶל־הַנָּכְרִ֔י אֲשֶׁ֛ר לֹא־מֵעַמְּךָ֥ יִשְׂרָאֵ֖ל ה֑וּא וּבָ֛א מֵאֶ֥רֶץ רְחֹוקָ֖ה לְמַ֥עַן שְׁמֶֽךָ׃ וּבָ֥א וְ_הִתְפַּלֵּ֖ל_ אֶל־הַבַּ֥יִת הַזֶּֽה׃ אַתָּ֞ה תִּשְׁמַ֤ע הַשָּׁמַ֨יִם֙ מְכֹ֣ון שִׁבְתֶּ֔ךָ (I Kgs. 8:42)
+NIV	for men will hear of your great name and your mighty hand and your outstretched arm — when he comes and _prays_ towards this temple,
+ESV	( for they shall hear of your great name and your mighty hand, and of your outstretched arm ), when he comes and _prays_ toward this house,
+
+(x)	וְ_נָקַ֥ל_ זֹ֖את בְּעֵינֵ֣י יְהוָ֑ה (II Kgs. 3:18)
+NIV	This _is an easy thing_ in the eyes of the LORD. he will also hand Moab over to you.
+ESV	This _is a light thing_ in the sight of the Lord. He will also give the Moabites into your hand,
+
+(x)	וְ_נִשְׁאַ֥ר_ אֱנֹ֖ושׁ מִזְעָֽר׃ (Isa. 24:6)
+NIV	Therefore a curse consumes the earth. its people must bear their guilt. Therefore earth’s inhabitants are burned up, and very few _are left_.
+ESV	Therefore a curse devours the earth, and its inhabitants suffer for their guilt. therefore the inhabitants of the earth are scorched, and few men _are left_.
+
+(x)	וְ_הָיְתָ֣ה_ לְאִישׁ־אַחֵ֗ר (Jer. 3:1)
+NIV	“If a man divorces his wife and she leaves him and _marries_ another man, should he return to her again? Would not the land be completely defiled? But you have lived as a prostitute with many lovers — would you now return to me?” declares the LORD.
+ESV	“If a man divorces his wife and she goes from him and _becomes_ another man’s wife, will he return to her? Would not that land be greatly polluted? You have played the whore with many lovers. and would you return to me? declares the Lord.
+
+(x)	וּ_בָ֣אוּ_ אֵלֶ֣יךָ (Jer. 38:25)
+NIV	If the officials hear that I talked with you, and _they come_ to you and say, ‘Tell us what you said to the king and what the king said to you. do not hide it from us or we will kill you,’
+ESV	If the officials hear that I have spoken with you and _come_ to you and say to you, ‘Tell us what you said to the king and what the king said to you. hide nothing from us and we will not put you to death,’
+
+(x)	וְ_עָ֣שָׂה_ אָ֔ח מֵאַחַ֖ד מֵאֵֽלֶּה׃ (Ezek. 18:10)
+NIV	“Suppose he has a violent son, who sheds blood or _does_ any of these other things
+ESV	“If he fathers a son who is violent, a shedder of blood, who _does_ any of these things
+
+(x)	וְ_עָנָ֥ה_ גְאֹֽון־יִשְׂרָאֵ֖ל בְּפָנָ֑יו (Hos. 5:5)
+NIV	Israel’s arrogance _testifies_ against them. the Israelites, even Ephraim, stumble in their sin. Judah also stumbles with them.
+ESV	The pride of Israel _testifies_ to his face. Israel and Ephraim shall stumble in his guilt. Judah also shall stumble with them.
+
+(x)	וְ_קַלּ֨וּ_ מִנְּמֵרִ֜ים סוּסָ֗יו (Hab. 1:8)
+NIV	Their horses _are swifter_ than leopards, fiercer than wolves at dusk. Their cavalry gallops headlong. their horsemen come from afar. They fly like a vulture swooping to devour.
+ESV	Their horses _are swifter_ than leopards, more fierce than the evening wolves. their horsemen press proudly on. Their horsemen come from afar. they fly like an eagle swift to devour.
+
+(x)	כִּֽי־מְ֭רֵעִים יִכָּרֵת֑וּן וְקֹוֵ֥י יְ֝הוָ֗ה הֵ֣מָּה יִֽירְשׁוּ־אָֽרֶץ׃ וְעֹ֣וד מְ֭עַט וְאֵ֣ין רָשָׁ֑ע וְ_הִתְבֹּונַ֖נְתָּ_ עַל־מְקֹומֹ֣ו וְאֵינֶֽנּוּ׃ וַעֲנָוִ֥ים יִֽירְשׁוּ־אָ֑רֶץ וְ֝הִתְעַנְּג֗וּ עַל־רֹ֥ב שָׁלֹֽום׃ (Psa. 37:10)
+NIV	A little while, and the wicked will be no more. though _you look_ for them, they will not be found.
+ESV	In just a little while, the wicked will be no more. though _you look carefully_ at his place, he will not be there.
+
+(x)	עַל־כֵּ֭ן אֶמְאַ֣ס וְ_נִחַ֑מְתִּי_ עַל־עָפָ֥ר וָאֵֽפֶר׃ פ (Job 42:6)
+NIV	Therefore I despise myself and _repent_ in dust and ashes.”
+ESV	therefore I despise myself, and _repent_ in dust and ashes.”
+
+(x)	וְ֝_נֶאֶסְפ֗וּ_ עִשְּׂבֹ֥ות הָרִֽים׃ (Prov. 27:25)
+NIV	When the hay is removed and new growth appears and the grass from the hills _is gathered in_,
+ESV	When the grass is gone and the new growth appears and the vegetation of the mountains _is gathered_,
+
+(x)	וְ_סָבְב֥וּ_ בַשּׁ֖וּק הַסֹּפְדִֽים׃ (Eccl. 12:5)
+NIV	when men are afraid of heights and of dangers in the streets. when the almond tree blossoms and the grasshopper drags himself along and desire no longer is stirred. Then man goes to his eternal home and mourners _go about_ the streets.
+ESV	they are afraid also of what is high, and terrors are in the way. the almond tree blossoms, the grasshopper drags itself along, and desire fails, because man is going to his eternal home, and the mourners _go about_ the streets —
+
+(x)	וְ_הִֽתְפַּלְל֞וּ_ אֶל־הַמָּקֹ֤ום הַזֶּה֙ (II Chr. 6:26)
+NIV	“When the heavens are shut up and there is no rain because your people have sinned against you, and when _they pray_ towards this place and confess your name and turn from their sin because you have afflicted them,
+ESV	“When heaven is shut up and there is no rain because they have sinned against you, if _they pray_ toward this place and acknowledge your name and turn from their sin, when you afflict them,
+
+(x)	וְ_נָ֣פַלְתָּ֔_ אַתָּ֖ה וִיהוּדָ֥ה עִמָּֽךְ׃ (II Chr. 25:19)
+NIV	You say to yourself that you have defeated Edom, and now you are arrogant and proud. But stay at home! Why ask for trouble and cause your own downfall and that of Judah also?”
+ESV	You say, ‘See, I have struck down Edom,’ and your heart has lifted you up in boastfulness. But now stay at home. Why should you provoke trouble so that _you fall_, you and Judah with you?”

@@ -1,27 +1,101 @@
 eng_TAMsimp == "FUT ~ MOD shall" and person == "p1" 
-25 of 72
-I shall be hidden, I will be hidden (ESV, NIV | BHS וּמִפָּנֶ֖יךָ אֶסָּתֵ֑ר , Gen. 4:14)
-I shall tell, I will tell (ESV, NIV | BHS אֲשֶׁ֖ר אֹמַ֥ר אֵלֶֽיךָ׃ , Gen. 22:2)
-I shall go down, will I go down (ESV, NIV | BHS כִּֽי־אֵרֵ֧ד אֶל־בְּנִ֛י , Gen. 37:35)
-I shall give, I will give (ESV, NIV | BHS אֲשֶׁ֥ר אֶתֵּ֖ן אֵלֶֽיךָ׃ , Exod. 25:16)
-shall we eat, will we eat (ESV, NIV | BHS מַה־נֹּאכַ֤ל בַּשָּׁנָ֣ה הַשְּׁבִיעִ֑ת , Lev. 25:20)
-we shall come, we will come (ESV, NIV | BHS אֲשֶׁ֥ר נָבֹ֖א אֲלֵיהֶֽן׃ , Deut. 1:22)
-shall I overtake, will I overtake (ESV, NIV | BHS הַֽאַשִּׂגֶ֑נּוּ , I Sam. 30:8)
-I shall recover, I will recover (ESV, NIV | BHS אִם־אֶחְיֶ֖ה מֵחֳלִ֥י זֶֽה׃ ס , II Kgs. 1:2)
-shall I recover, will I recover (ESV, NIV | BHS הַאֶחְיֶ֖ה מֵחֳלִ֥י זֶֽה׃ , II Kgs. 8:8)
-I shall look, will I look (ESV, NIV | BHS לֹא־אַבִּ֥יט אָדָ֛ם עֹ֖וד עִם־יֹ֥ושְׁבֵי חָֽדֶל׃ , Isa. 38:11)
-I shall sit, I will be (ESV, NIV | BHS לֹ֤א אֵשֵׁב֙ אַלְמָנָ֔ה , Isa. 47:8)
-shall we see, we will see (ESV, NIV | BHS וְחֶ֥רֶב וְרָעָ֖ב לֹ֥וא נִרְאֶֽה׃ , Jer. 5:12)
-be hungry (ESV, NIV | BHS וְלַלֶּ֥חֶם לֹֽא־נִרְעָ֖ב , Jer. 42:14)
-I shall again, I will again (ESV, NIV | BHS אַ֚ךְ אֹוסִ֣יף , Jonah 2:5)
-I shall be moved, will shake (ESV, NIV | BHS בַּל־אֶמֹּ֑וט לְדֹ֥ר וָ֝דֹ֗ר , Psa. 10:6)
-I shall be moved, I will be shaken (ESV, NIV | BHS בַּל־אֶמֹּ֥וט לְעֹולָֽם׃ , Psa. 30:7)
-I shall be whiter, I will be whiter (ESV, NIV | BHS וּמִשֶּׁ֥לֶג אַלְבִּֽין׃ , Psa. 51:9)
-we shall do, we will gain (ESV, NIV | BHS בֵּֽאלֹהִ֥ים נַעֲשֶׂה־חָ֑יִל , Psa. 60:14)
-we shall turn back, we will turn away (ESV, NIV | BHS וְלֹא־נָסֹ֥וג מִמֶּ֑ךָּ , Psa. 80:19)
-I shall die, I will die (ESV, NIV | BHS לֹֽא אָמ֥וּת , Psa. 118:17)
-shall be put to shame, will be put to shame (ESV, NIV | BHS וְלֹ֣א אֵבֹֽושׁ׃ , Psa. 119:46)
-I shall see, I will see (ESV, NIV | BHS וּ֝מִבְּשָׂרִ֗י אֶֽחֱזֶ֥ה אֱלֹֽוהַּ׃ , Job 19:26)
-shall I answer, will I answer (ESV, NIV | BHS מָ֣ה אֲשִׁיבֶֽנּוּ׃ , Job 31:14)
-I shall be killed, I will be murdered (ESV, NIV | BHS בְּתֹ֥וךְ רְ֝חֹבֹ֗ות אֵֽרָצֵֽחַ׃ , Prov. 22:13)
-I shall occupy, I will occupy (ESV, NIV | BHS אֲשֶׁר־אָבֹ֣וא אֵלָ֑יו , Neh. 2:8)
+25 of 76
+(x)	וּמִפָּנֶ֖יךָ _אֶסָּתֵ֑ר_ (Gen. 4:14)
+NIV	Today you are driving me from the land, and _I will be hidden_ from your presence. I will be a restless wanderer on the earth, and whoever finds me will kill me.”
+ESV	Behold, you have driven me today away from the ground, and from your face _I shall be hidden_. I shall be a fugitive and a wanderer on the earth, and whoever finds me will kill me.”
+
+(x)	וּבָ֣הּ _אֵדַ֔ע_ כִּי־עָשִׂ֥יתָ חֶ֖סֶד עִם־אֲדֹנִֽי׃ (Gen. 24:14)
+NIV	May it be that when I say to a girl, ‘Please let down your jar that I may have a drink,’ and she says, ‘Drink, and I’ll water your camels too’ — let her be the one you have chosen for your servant Isaac. By this _I will know_ that you have shown kindness to my master.”
+ESV	Let the young woman to whom I shall say, ‘Please let down your jar that I may drink,’ and who shall say, ‘Drink, and I will water your camels’ — let her be the one whom you have appointed for your servant Isaac. By this _I shall know_ that you have shown steadfast love to my master.”
+
+(x)	פֶּ֖ן _נִהְיֶ֣ה_ לָב֑וּז (Gen. 38:23)
+NIV	Then Judah said, “Let her keep what she has, or _we will become_ a laughingstock. After all, I did send her this young goat, but you didn’t find her.”
+ESV	And Judah replied, “Let her keep the things as her own, or _we shall be_ laughed at. You see, I sent this young goat, and you did not find her.”
+
+(x)	וְאֶל־הָ֣אָרֹ֔ן תִּתֵּן֙ אֶת־הָ֣עֵדֻ֔ת אֲשֶׁ֥ר _אֶתֵּ֖ן_ אֵלֶֽיךָ׃ (Exod. 25:21)
+NIV	Place the cover on top of the ark and put in the ark the Testimony, which _I will give_ you.
+ESV	And you shall put the mercy seat on the top of the ark, and in the ark you shall put the testimony that _I shall give_ you.
+
+(x)	אוּלַ֤י _אוּכַל֙_ נַכֶּה־בֹּ֔ו (Num. 22:6)
+NIV	Now come and put a curse on these people, because they are too powerful for me. Perhaps then _I will be able_ to defeat them and drive them out of the country. For I know that those you bless are blessed, and those you curse are cursed.”
+ESV	Come now, curse this people for me, since they are too mighty for me. Perhaps _I shall be able_ to defeat them and drive them from the land, for I know that he whom you bless is blessed, and he whom you curse is cursed.”
+
+(x)	וְלֹֽא־אָז֙ _אֶשְׁלַ֣ח_ אֵלֶ֔יךָ (I Sam. 20:12)
+NIV	Then Jonathan said to David: “By the LORD, the God of Israel, I will surely sound out my father by this time the day after tomorrow! If he is favourably disposed towards you, will I not send you word and let you know?
+ESV	And Jonathan said to David, “The Lord, the God of Israel, be witness! When I have sounded out my father, about this time tomorrow, or the third day, behold, if he is well disposed toward David, shall I not then send and disclose it to you?
+
+(x)	אִם־לֹ֥א _נֶחֱזַ֖ק_ מֵהֶֽם׃ (I Kgs. 20:23)
+NIV	Meanwhile, the officials of the king of Aram advised him, “Their gods are gods of the hills. That is why they were too strong for us. But if we fight them on the plains, surely _we will be stronger_ than they.
+ESV	And the servants of the king of Syria said to him, “Their gods are gods of the hills, and so they were stronger than we. But let us fight against them in the plain, and surely _we shall be stronger_ than they.
+
+(x)	וְ_נִתְפְּשֵׂ֣ם_ חַיִּ֔ים (II Kgs. 7:12)
+NIV	The king got up in the night and said to his officers, “I will tell you what the Arameans have done to us. They know we are starving. so they have left the camp to hide in the countryside, thinking, ‘They will surely come out, and then _we will take_ them alive and get into the city.’”
+ESV	And the king rose in the night and said to his servants, “I will tell you what the Syrians have done to us. They know that we are hungry. Therefore they have gone out of the camp to hide themselves in the open country, thinking, ‘When they come out of the city, _we shall take_ them alive and get into the city.’”
+
+(x)	הַ_אֶחְיֶ֖ה_ מֵחֳלִ֥י זֶֽה׃ (II Kgs. 8:9)
+NIV	Hazael went to meet Elisha, taking with him as a gift forty camel-loads of all the finest wares of Damascus. He went in and stood before him, and said, “Your son Ben-hadad king of Aram has sent me to ask, ‘_Will I recover_ from this illness?’”
+ESV	So Hazael went to meet him, and took a present with him, all kinds of goods of Damascus, forty camel loads. When he came and stood before him, he said, “Your son Ben-hadad king of Syria has sent me to you, saying, ‘_Shall I recover_ from this sickness?’”
+
+(x)	לְעֹולָ֖ם _אֶהְיֶ֣ה_ גְבָ֑רֶת (Isa. 47:7)
+NIV	You said, ‘_I will continue_ forever — the eternal queen!’ But you did not consider these things or reflect on what might happen.
+ESV	You said, “_I shall be_ mistress forever,” so that you did not lay these things to heart or remember their end.
+
+(x)	וָאֵדַ֖ע כִּי־לֹ֥א _אֵבֹֽושׁ_׃ (Isa. 50:7)
+NIV	Because the Sovereign LORD helps me, I will not be disgraced. Therefore have I set my face like flint, and I know I will not be put to shame.
+ESV	But the Lord God helps me. therefore I have not been disgraced. therefore I have set my face like a flint, and I know that I shall not be put to shame.
+
+(x)	כִּ֣י אֶ֤רֶץ מִצְרַ֨יִם֙ נָבֹ֔וא אֲשֶׁ֤ר לֹֽא־נִרְאֶה֙ מִלְחָמָ֔ה וְקֹ֥ול שֹׁופָ֖ר לֹ֣א _נִשְׁמָ֑ע_ וְלַלֶּ֥חֶם לֹֽא־נִרְעָ֖ב (Jer. 42:14)
+NIV	and if you say, ‘No, we will go and live in Egypt, where we will not see war or _hear_ the trumpet or be hungry for bread,’
+ESV	and saying, ‘No, we will go to the land of Egypt, where we shall not see war or _hear_ the sound of the trumpet or be hungry for bread, and we will dwell there,’
+
+(x)	מִמָּ֖וֶת _אֶגְאָלֵ֑ם_ (Hos. 13:14)
+NIV	“I will ransom them from the power of the grave. _I will redeem_ them from death. Where, O death, are your plagues? Where, O grave, is your destruction? “I will have no compassion,
+ESV	Shall I ransom them from the power of Sheol? _Shall I redeem_ them from Death? O Death, where are your plagues? O Sheol, where is your sting? Compassion is hidden from my eyes.
+
+(x)	לֹ֣א _נָמ֑וּת_ (Hab. 1:12)
+NIV	O LORD, are you not from everlasting? My God, my Holy One, we will not die. O LORD, you have appointed them to execute judgment. O Rock, you have ordained them to punish.
+ESV	Are you not from everlasting, O Lord my God, my Holy One? We shall not die. O Lord, you have ordained them as a judgment, and you, O Rock, have established them for reproof.
+
+(x)	אֲנִ֗י בְּ֭צֶדֶק _אֶחֱזֶ֣ה_ פָנֶ֑יךָ (Psa. 17:15)
+NIV	And I — in righteousness _I will see_ your face. when I awake, I will be satisfied with seeing your likeness.
+ESV	As for me, _I shall behold_ your face in righteousness. when I awake, I shall be satisfied with your likeness.
+
+(x)	כִּי־עֹ֥וד _אֹודֶ֗נּוּ_ יְשׁוּעֹ֥ות פָּנָֽיו׃ (Psa. 42:6)
+NIV	Why are you downcast, O my soul? Why so disturbed within me? Put your hope in God, for I will yet praise him, my Savior and
+ESV	Why are you cast down, O my soul, and why are you in turmoil within me? Hope in God. for I shall again praise him, my salvation
+
+(x)	וְ_אֶטְהָ֑ר_ (Psa. 51:9)
+NIV	Cleanse me with hyssop, and _I will be clean_. wash me, and I will be whiter than snow.
+ESV	Purge me with hyssop, and _I shall be clean_. wash me, and I shall be whiter than snow.
+
+(x)	בֵּֽאלֹהִ֥ים _נַעֲשֶׂה_־חָ֑יִל (Psa. 60:14)
+NIV	With God _we will gain_ the victory, and he will trample down our enemies.
+ESV	With God _we shall do_ valiantly. it is he who will tread down our foes.
+
+(x)	וְלֹא־_נָסֹ֥וג_ מִמֶּ֑ךָּ (Psa. 80:19)
+NIV	Then we will not turn away from you. revive us, and we will call on your name.
+ESV	Then we shall not turn back from you. give us life, and we will call upon your name!
+
+(x)	לֹֽא _אָמ֥וּת_ (Psa. 118:17)
+NIV	I will not die but live, and will proclaim what the LORD has done.
+ESV	I shall not die, but I shall live, and recount the deeds of the Lord.
+
+(x)	וְ_אֶֽעֱנֶ֣ה_ חֹרְפִ֣י דָבָ֑ר (Psa. 119:42)
+NIV	then _I will answer_ the one who taunts me, for I trust in your word.
+ESV	then _shall I have an answer_ for him who taunts me, for I trust in your word.
+
+(x)	וְלֹֽא־_אֶמְצָ֖א_ בָכֶ֣ם חָכָֽם׃ (Job 17:10)
+NIV	“But come on, all of you, try again! I will not find a wise man among you.
+ESV	But you, come on again, all of you, and I shall not find a wise man among you.
+
+(x)	וּמָ֣ה _אֶֽ֭עֱשֶׂה_ (Job 31:14)
+NIV	what _will I do_ when God confronts me? What will I answer when called to account?
+ESV	what then _shall I do_ when God rises up? When he makes inquiry, what shall I answer him?
+
+(x)	_נְמַלֵּ֖א_ בָתֵּ֣ינוּ שָׁלָֽל׃ (Prov. 1:13)
+NIV	we will get all sorts of valuable things and fill our houses with plunder.
+ESV	we shall find all precious goods, we shall fill our houses with plunder.
+
+(x)	אֲשֶׁ֣ר יִתֶּן־לִ֣י עֵצִ֡ים לְ֠קָרֹות אֶת־שַׁעֲרֵ֨י הַבִּירָ֤ה אֲשֶׁר־לַבַּ֨יִת֙ וּלְחֹומַ֣ת הָעִ֔יר וְלַבַּ֖יִת אֲשֶׁר־_אָבֹ֣וא_ אֵלָ֑יו (Neh. 2:8)
+NIV	And may I have a letter to Asaph, keeper of the king’s forest, so he will give me timber to make beams for the gates of the citadel by the temple and for the city wall and for the residence _I will occupy_?” And because the gracious hand of my God was upon me, the king granted my requests.
+ESV	and a letter to Asaph, the keeper of the king’s forest, that he may give me timber to make beams for the gates of the fortress of the temple, and for the wall of the city, and for the house that _I shall occupy_.” And the king granted me what I asked, for the good hand of my God was upon me.

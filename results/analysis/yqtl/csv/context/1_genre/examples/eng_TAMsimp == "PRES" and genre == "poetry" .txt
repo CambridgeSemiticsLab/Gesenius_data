@@ -1,27 +1,101 @@
 eng_TAMsimp == "PRES" and genre == "poetry" 
-25 of 1248
-rouse, dares to rouse (ESV, NIV | BHS מִ֥י יְקִימֶֽנּוּ׃ , Gen. 49:9)
-bless (ESV, NIV | BHS כִּֽי־אַתָּה֮ תְּבָרֵ֪ךְ צַ֫דִּ֥יק , Psa. 5:13)
-I cry, I cry out (ESV, NIV | BHS אֶקְרָ֣א יֹ֖ומָם , Psa. 22:3)
-he delivers (ESV, NIV | BHS יְפַלְּטֵ֣ם מֵ֭רְשָׁעִים , Psa. 37:40)
-they go around, they prowl about (ESV, NIV | BHS יֹומָ֤ם וָלַ֗יְלָה יְסֹובְבֻ֥הָ עַל־חֹומֹתֶ֑יהָ , Psa. 55:11)
-you judge, you rule (ESV, NIV | BHS כִּֽי־תִשְׁפֹּ֣ט עַמִּ֣ים מִישֹׁ֑ור , Psa. 67:5)
-exult, they rejoice (ESV, NIV | BHS בְּ֭שִׁמְךָ יְגִיל֣וּן כָּל־הַיֹּ֑ום , Psa. 89:17)
-lie down, they lie down (ESV, NIV | BHS וְאֶל־מְ֝עֹונֹתָ֗ם יִרְבָּצֽוּן׃ , Psa. 104:22)
-I forget (ESV, NIV | BHS אִֽם־אֶשְׁכָּחֵ֥ךְ , Psa. 137:5)
-are scattered (ESV, NIV | BHS וּבְנֵ֥י לָ֝בִ֗יא יִתְפָּרָֽדוּ׃ , Job 4:11)
-I loathe, I despise (ESV, NIV | BHS אֶמְאַ֥ס חַיָּֽי׃ , Job 9:21)
-terrify, fill with terror (ESV, NIV | BHS יְֽ֭בַעֲתֻהוּ צַ֣ר וּמְצוּקָ֑ה , Job 15:24)
-rejoice, they make merry (ESV, NIV | BHS וְ֝יִשְׂמְח֗וּ לְקֹ֣ול עוּגָֽב׃ , Job 21:12)
-they are remembered, are remembered (ESV, NIV | BHS עֹ֥וד לֹֽא־יִזָּכֵ֑ר , Job 24:20)
-they do speak, they are silent (ESV, NIV | BHS כִּי־לֹ֣א יְדַבֵּ֑רוּ , Job 32:16)
-opens, he speaks (ESV, NIV | BHS וְיִ֖גֶל בַּלַּ֣חַץ אָזְנָֽם׃ , Job 36:15)
-she laughs (ESV, NIV | BHS תִּֽשְׂחַ֥ק לַ֝סּ֗וּס וּלְרֹֽכְבֹֽו׃ , Job 39:18)
-you receive, you accept (ESV, NIV | BHS אִם־תִּקַּ֣ח אֲמָרָ֑י , Prov. 2:1)
-causes (ESV, NIV | BHS יִתֵּ֣ן עַצָּ֑בֶת , Prov. 10:10)
-suffers want, goes hungry (ESV, NIV | BHS וּבֶ֖טֶן רְשָׁעִ֣ים תֶּחְסָֽר׃ פ , Prov. 13:25)
-seeks, is bent on (ESV, NIV | BHS אַךְ־מְרִ֥י יְבַקֶּשׁ־רָ֑ע , Prov. 17:11)
-it bites (ESV, NIV | BHS אַ֭חֲרִיתֹו כְּנָחָ֣שׁ יִשָּׁ֑ךְ , Prov. 23:32)
-high lift, are disdainful (ESV, NIV | BHS וְ֝עַפְעַפָּ֗יו יִנָּשֵֽׂאוּ׃ , Prov. 30:13)
-people say (ESV, NIV | BHS אֲשֶׁ֣ר יְדַבֵּ֔רוּ , Eccl. 7:21)
-is established, is firmly established (ESV, NIV | BHS אַף־תִּכֹּ֥ון תֵּבֵ֖ל , I Chr. 16:30)
+25 of 1256
+(x)	מִ֥י _יְקִימֶֽנּוּ_׃ (Gen. 49:9)
+NIV	You are a lion’s cub, O Judah. you return from the prey, my son. Like a lion he crouches and lies down, like a lioness — who _dares to rouse_ him?
+ESV	Judah is a lion’s cub. from the prey, my son, you have gone up. He stooped down. he crouched as a lion and as a lioness. who dares _rouse_ him?
+
+(x)	כִּֽי־אַתָּה֮ _תְּבָרֵ֪ךְ_ צַ֫דִּ֥יק יְהוָ֑ה כַּ֝צִּנָּ֗ה רָצֹ֥ון תַּעְטְרֶֽנּוּ׃ (Psa. 5:13)
+NIV	For surely, O LORD, you _bless_ the righteous. you surround them with your favor as with a shield.
+ESV	For you _bless_ the righteous, O Lord. you cover him with favor as with a shield.
+
+(x)	אֱֽלֹהַ֗י _אֶקְרָ֣א_ יֹ֖ומָם וְלֹ֣א תַעֲנֶ֑ה וְ֝לַ֗יְלָה וְֽלֹא־דֽוּמִיָּ֥ה לִֽי׃ (Psa. 22:3)
+NIV	O my God, _I cry out_ by day, but you do not answer, by night, and am not silent.
+ESV	O my God, _I cry_ by day, but you do not answer, and by night, but I find no rest.
+
+(x)	_יְפַלְּטֵ֣ם_ מֵ֭רְשָׁעִים (Psa. 37:40)
+NIV	The LORD helps them and delivers them. _he delivers_ them from the wicked and saves them, because they take refuge in him.
+ESV	The Lord helps them and delivers them. _he delivers_ them from the wicked and saves them, because they take refuge in him.
+
+(x)	כִּֽי־רָאִ֨יתִי חָמָ֖ס וְרִ֣יב בָּעִֽיר׃ יֹומָ֤ם וָלַ֗יְלָה _יְסֹובְבֻ֥הָ_ עַל־חֹומֹתֶ֑יהָ וְאָ֖וֶן וְעָמָ֣ל בְּקִרְבָּֽהּ׃ הַוֹּ֥ות בְּקִרְבָּ֑הּ וְֽלֹא־יָמִ֥ישׁ מֵ֝רְחֹבָ֗הּ תֹּ֣ךְ וּמִרְמָֽה׃ (Psa. 55:11)
+NIV	Day and night _they prowl about_ on its walls. malice and abuse are within it.
+ESV	Day and night _they go around_ it on its walls, and iniquity and trouble are within it.
+
+(x)	עֵ֭ינָיו בַּגֹּויִ֣ם _תִּצְפֶּ֑ינָה_ (Psa. 66:7)
+NIV	He rules forever by his power, his eyes _watch_ the nations — let not the rebellious rise up against him. Selah
+ESV	who rules by his might forever, whose eyes _keep watch_ on the nations — let not the rebellious exalt themselves. Selah
+
+(x)	יְ֝הוָ֗ה בְּֽאֹור־פָּנֶ֥יךָ _יְהַלֵּכֽוּן_׃ (Psa. 89:16)
+NIV	Blessed are those who have learned to acclaim you, who _walk_ in the light of your presence, O LORD.
+ESV	Blessed are the people who know the festal shout, who _walk_, O Lord, in the light of your face,
+
+(x)	וְאֶל־מְ֝עֹונֹתָ֗ם _יִרְבָּצֽוּן_׃ (Psa. 104:22)
+NIV	The sun rises, and they steal away. they return and lie down in their dens.
+ESV	When the sun rises, they steal away and _lie down_ in their dens.
+
+(x)	אִֽם־_יִשְׁמְר֬וּ_ בָנֶ֨יךָ׀ בְּרִיתִי֮ וְעֵדֹתִ֥י זֹ֗ו אֲלַ֫מְּדֵ֥ם (Psa. 132:12)
+NIV	if your sons _keep_ my covenant and the statutes I teach them, then their sons will sit on your throne for ever and ever.”
+ESV	If your sons _keep_ my covenant and my testimonies that I shall teach them, their sons also forever shall sit on your throne.”
+
+(x)	_תִּגַּ֥ע_ עָ֝דֶ֗יךָ (Job 4:5)
+NIV	But now trouble comes to you, and you are discouraged. _it strikes_ you, and you are dismayed.
+ESV	But now it has come to you, and you are impatient. _it touches_ you, and you are dismayed.
+
+(x)	הֵ֤ן _יַעֲבֹ֣ר_ עָ֭לַי (Job 9:11)
+NIV	When _he passes_ me, I cannot see him. when he goes by, I cannot perceive him.
+ESV	Behold, _he passes_ by me, and I see him not. he moves on, but I do not perceive him.
+
+(x)	כִּֽי־_תָשִׁ֣יב_ אֶל־אֵ֣ל רוּחֶ֑ךָ (Job 15:13)
+NIV	so that _you vent_ your rage against God and pour out such words from your mouth?
+ESV	that _you turn_ your spirit against God and bring such words out of your mouth?
+
+(x)	וְלֹ֣א _תְשַׁכֵּֽל_׃ (Job 21:10)
+NIV	Their bulls never fail to breed. their cows calve and do not miscarry.
+ESV	Their bull breeds without fail. their cow calves and does not miscarry.
+
+(x)	לֹֽא־_יִ֝פְנֶה_ דֶּ֣רֶךְ כְּרָמִֽים׃ (Job 24:18)
+NIV	“Yet they are foam on the surface of the water. their portion of the land is cursed, so that no-one _goes_ to the vineyards.
+ESV	“You say, ‘Swift are they on the face of the waters. their portion is cursed in the land. no treader _turns_ toward their vineyards.
+
+(x)	לֹֽא־רַבִּ֥ים _יֶחְכָּ֑מוּ_ (Job 32:9)
+NIV	It is not only the old who _are wise_, not only the aged who understand what is right.
+ESV	It is not the old who _are wise_, nor the aged who understand what is right.
+
+(x)	_תָּמֹ֣ת_ בַּנֹּ֣עַר נַפְשָׁ֑ם וְ֝חַיָּתָ֗ם בַּקְּדֵשִֽׁים׃ (Job 36:14)
+NIV	_They die_ in their youth, among male prostitutes of the shrines.
+ESV	They _die_ in youth, and their life ends among the cult prostitutes.
+
+(x)	כִּֽי־תַעֲזֹ֣ב לָאָ֣רֶץ בֵּצֶ֑יהָ וְֽעַל־עָפָ֥ר _תְּחַמֵּֽם_׃ וַ֭תִּשְׁכַּח כִּי־רֶ֣גֶל תְּזוּרֶ֑הָ וְחַיַּ֖ת הַשָּׂדֶ֣ה תְּדוּשֶֽׁהָ׃ (Job 39:14)
+NIV	She lays her eggs on the ground and _lets them warm_ in the sand,
+ESV	For she leaves her eggs to the earth and _lets them be warmed_ on the ground,
+
+(x)	בְּפִתְחֵ֖י שְׁעָרִ֥ים בָּעִ֗יר אֲמָרֶ֥יהָ _תֹאמֵֽר_׃ (Prov. 1:21)
+NIV	at the head of the noisy streets she cries out, in the gateways of the city she makes her speech:
+ESV	at the head of the noisy streets she cries out. at the entrance of the city gates she _speaks_:
+
+(x)	הֹולֵ֣ךְ בַּ֭תֹּם _יֵ֣לֶךְ_ בֶּ֑טַח (Prov. 10:9)
+NIV	The man of integrity _walks_ securely, but he who takes crooked paths will be found out.
+ESV	Whoever _walks_ in integrity _walks_ securely, but he who makes his ways crooked will be found out.
+
+(x)	טֹ֗וב _יַנְחִ֥יל_ בְּנֵֽי־בָנִ֑ים (Prov. 13:22)
+NIV	A good man _leaves an inheritance_ for his children’s children, but a sinner’s wealth is stored up for the righteous.
+ESV	A good man _leaves an inheritance_ to his children’s children, but the sinner’s wealth is laid up for the righteous.
+
+(x)	_תֵּ֣חַת_ גְּעָרָ֣ה בְמֵבִ֑ין מֵהַכֹּ֖ות כְּסִ֣יל מֵאָֽה׃ (Prov. 17:10)
+NIV	A rebuke _impresses_ a man of discernment more than a hundred lashes a fool.
+ESV	A rebuke _goes deeper_ into a man of understanding than a hundred blows into a fool.
+
+(x)	אַ֭חֲרִיתֹו כְּנָחָ֣שׁ _יִשָּׁ֑ךְ_ (Prov. 23:32)
+NIV	In the end _it bites_ like a snake and poisons like a viper.
+ESV	In the end _it bites_ like a serpent and stings like an adder.
+
+(x)	דֹּ֭ור מָה־רָמ֣וּ עֵינָ֑יו וְ֝עַפְעַפָּ֗יו _יִנָּשֵֽׂאוּ_׃ (Prov. 30:13)
+NIV	those whose eyes are ever so haughty, whose glances are so disdainful.
+ESV	There are those — how lofty are their eyes, how high their eyelids lift!
+
+(x)	כִּ֣י אָדָ֔ם אֵ֥ין צַדִּ֖יק בָּאָ֑רֶץ אֲשֶׁ֥ר _יַעֲשֶׂה_־טֹּ֖וב וְלֹ֥א יֶחֱטָֽא׃ (Eccl. 7:20)
+NIV	There is not a righteous man on earth who _does_ what is right and never sins.
+ESV	Surely there is not a righteous man on earth who _does_ good and never sins.
+
+(x)	אַף־_תִּכֹּ֥ון_ תֵּבֵ֖ל (I Chr. 16:30)
+NIV	Tremble before him, all the earth! The world _is firmly established_. it cannot be moved.
+ESV	tremble before him, all the earth. yes, the world _is established_. it shall never be moved.

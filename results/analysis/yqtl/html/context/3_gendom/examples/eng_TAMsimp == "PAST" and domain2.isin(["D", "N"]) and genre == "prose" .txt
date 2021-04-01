@@ -1,37 +1,141 @@
 eng_TAMsimp == "PAST" and domain2.isin(["D", "N"]) and genre == "prose" 
 35 of 108
-it divided, it was separated (ESV, NIV | BHS וּמִשָּׁם֙ יִפָּרֵ֔ד , Gen. 2:10)
-were watered (ESV, NIV | BHS כִּ֚י מִן־הַבְּאֵ֣ר הַהִ֔וא יַשְׁק֖וּ הָעֲדָרִ֑ים , Gen. 29:2)
-came (ESV, NIV | BHS בְּטֶ֥רֶם תָּבֹ֖וא שְׁנַ֣ת הָרָעָ֑ב , Gen. 41:50)
-was ruined (ESV, NIV | BHS תִּשָּׁחֵ֥ת הָאָ֖רֶץ מִפְּנֵ֥י הֶעָרֹֽב׃ , Exod. 8:20)
-held up (ESV, NIV | BHS כַּאֲשֶׁ֨ר יָרִ֥ים מֹשֶׁ֛ה יָדֹ֖ו , Exod. 17:11)
-they decided (ESV, NIV | BHS וְכָל־הַדָּבָ֥ר הַקָּטֹ֖ן יִשְׁפּוּט֥וּ הֵֽם׃ , Exod. 18:26)
-was taken up, did lift (ESV, NIV | BHS וְאִם־לֹ֥א יֵעָלֶ֖ה הֶעָנָ֑ן , Exod. 40:37)
-settled down, settled (ESV, NIV | BHS אֲשֶׁ֤ר יִשְׁכָּן־שָׁם֙ הֶֽעָנָ֔ן , Num. 9:17)
-rested, stayed (ESV, NIV | BHS אֲשֶׁ֨ר יִשְׁכֹּ֧ן הֶעָנָ֛ן עַל־הַמִּשְׁכָּ֖ן , Num. 9:18)
-was (ESV, NIV | BHS אֲשֶׁ֨ר יִהְיֶ֧ה הֶֽעָנָ֛ן יָמִ֥ים מִסְפָּ֖ר עַל־הַמִּשְׁכָּ֑ן , Num. 9:20)
-he said (ESV, NIV | BHS יֹאמַ֑ר , Num. 10:36)
-built (ESV, NIV | BHS אָ֣ז יִבְנֶ֤ה יְהֹושֻׁ֨עַ֙ מִזְבֵּ֔חַ לַֽיהוָ֖ה אֱלֹהֵ֣י יִשְׂרָאֵ֑ל בְּהַ֖ר עֵיבָֽל׃ , Josh. 8:30)
-summoned (ESV, NIV | BHS אָ֚ז יִקְרָ֣א יְהֹושֻׁ֔עַ לָרֽאוּבֵנִ֖י וְלַגָּדִ֑י וְלַחֲצִ֖י מַטֵּ֥ה מְנַשֶּֽׁה׃ , Josh. 22:1)
-passed, passed by (ESV, NIV | BHS אֲשֶׁר־יַעֲבֹ֥ר עֲלֵיהֶ֖ם בַּדָּ֑רֶךְ , Judg. 9:25)
-did (ESV, NIV | BHS יַעֲשֶֽׂה׃ , Judg. 21:25)
-wept bitterly, hannah wept much (ESV, NIV | BHS וּבָכֹ֥ה תִבְכֶּֽה׃ , I Sam. 1:10)
-they did, they treated (ESV, NIV | BHS כָּ֚כָה יַעֲשׂ֣וּ לְכָל־יִשְׂרָאֵ֔ל , I Sam. 2:14)
-turned (ESV, NIV | BHS הָרֹ֨אשׁ אֶחָ֥ד יִפְנֶ֛ה אֶל־דֶּ֥רֶךְ עָפְרָ֖ה אֶל־אֶ֥רֶץ שׁוּעָֽל׃ , I Sam. 13:17)
-sent (ESV, NIV | BHS אֲשֶׁ֨ר יִשְׁלָחֶ֤נּוּ שָׁאוּל֙ , I Sam. 18:5)
-pursued, they pursued (ESV, NIV | BHS וְלֹֽא־יִרְדְּפ֥וּ עֹ֖וד אַחֲרֵ֣י יִשְׂרָאֵ֑ל , II Sam. 2:28)
-came (ESV, NIV | BHS אֲשֶׁר־יָבֹ֥אוּ לַמִּשְׁפָּ֖ט אֶל־הַמֶּ֑לֶךְ , II Sam. 15:6)
-assembled, summoned (ESV, NIV | BHS אָ֣ז יַקְהֵ֣ל שְׁלֹמֹ֣ה אֶת־זִקְנֵ֣י יִשְׂרָאֵ֡ל אֶת־כָּל־רָאשֵׁ֣י הַמַּטֹּות֩ נְשִׂיאֵ֨י הָאָבֹ֜ות לִבְנֵ֧י יִשְׂרָאֵ֛ל אֶל־הַמֶּ֥לֶךְ שְׁלֹמֹ֖ה יְרוּשָׁלִָ֑ם , I Kgs. 8:1)
-went (ESV, NIV | BHS שֵׁשׁ־מֵאֹ֣ות זָהָ֔ב יַעֲלֶ֖ה עַל־הַצִּנָּ֥ה הָאֶחָֽת׃ , I Kgs. 10:16)
-built (ESV, NIV | BHS אָז֩ יִבְנֶ֨ה שְׁלֹמֹ֜ה בָּמָ֗ה לִכְמֹושׁ֙ שִׁקֻּ֣ץ מֹואָ֔ב בָּהָ֕ר , I Kgs. 11:7)
-were divided, were split (ESV, NIV | BHS אָ֧ז יֵחָלֵ֛ק הָעָ֥ם יִשְׂרָאֵ֖ל לַחֵ֑צִי , I Kgs. 16:21)
-threw (ESV, NIV | BHS וְכָל־חֶלְקָ֣ה טֹ֠ובָה יַשְׁלִ֨יכוּ אִישׁ־אַבְנֹ֜ו , II Kgs. 3:25)
-revolted (ESV, NIV | BHS אָ֛ז תִּפְשַׁ֥ע לִבְנָ֖ה בָּעֵ֥ת הַהִֽיא׃ , II Kgs. 8:22)
-they delivered, they gave (ESV, NIV | BHS אֲשֶׁ֨ר יִתְּנ֤וּ אֶת־הַכֶּ֨סֶף֙ עַל־יָדָ֔ם , II Kgs. 12:16)
-he went out, he undertook (ESV, NIV | BHS אֲשֶׁר־יֵצֵ֖א , II Kgs. 18:7)
-fled (ESV, NIV | BHS וְכָל־אַנְשֵׁ֣י הַמִּלְחָמָ֡ה יִבְרְחוּ֩ , Jer. 52:7)
-was given (ESV, NIV | BHS יִנָּ֤תֵֽן לָהּ֙ , Esth. 2:13)
-did (ESV, NIV | BHS וְכֵן֙ יַעֲשֶׂ֣ה דָוִ֔יד לְכֹ֖ל עָרֵ֣י בְנֵי־עַמֹּ֑ון , I Chr. 20:3)
-assembled, summoned (ESV, NIV | BHS אָז֩ יַקְהֵ֨יל שְׁלֹמֹ֜ה אֶת־זִקְנֵ֣י יִשְׂרָאֵ֗ל וְאֶת־כָּל־רָאשֵׁ֨י הַמַּטֹּ֜ות נְשִׂיאֵ֧י הָאָבֹ֛ות לִבְנֵ֥י יִשְׂרָאֵ֖ל אֶל־יְרוּשָׁלִָ֑ם , II Chr. 5:2)
-went, he made (ESV, NIV | BHS שְׁלֹ֤שׁ מֵאֹות֙ זָהָ֔ב יַעֲלֶ֖ה עַל־הַמָּגֵ֣ן הָאֶחָ֑ת , II Chr. 9:16)
-worshiped, bowed down (ESV, NIV | BHS וְלִפְנֵיהֶ֥ם יִֽשְׁתַּחֲוֶ֖ה , II Chr. 25:14)
+(x)	וּמִשָּׁם֙ _יִפָּרֵ֔ד_ (Gen. 2:10)
+NIV	A river watering the garden flowed from Eden. from there _it was separated_ into four headwaters.
+ESV	A river flowed out of Eden to water the garden, and there _it divided_ and became four rivers.
+
+(x)	כִּ֚י מִן־הַבְּאֵ֣ר הַהִ֔וא _יַשְׁק֖וּ_ הָעֲדָרִ֑ים (Gen. 29:2)
+NIV	There he saw a well in the field, with three flocks of sheep lying near it because the flocks _were watered_ from that well. The stone over the mouth of the well was large.
+ESV	As he looked, he saw a well in the field, and behold, three flocks of sheep lying beside it, for out of that well the flocks _were watered_. The stone on the well’s mouth was large,
+
+(x)	וּלְיֹוסֵ֤ף יֻלַּד֙ שְׁנֵ֣י בָנִ֔ים בְּטֶ֥רֶם _תָּבֹ֖וא_ שְׁנַ֣ת הָרָעָ֑ב אֲשֶׁ֤ר יָֽלְדָה־לֹּו֙ אָֽסְנַ֔ת בַּת־פֹּ֥וטִי פֶ֖רַע כֹּהֵ֥ן אֹֽון׃ (Gen. 41:50)
+NIV	Before the years of famine _came_, two sons were born to Joseph by Asenath daughter of Potiphera, priest of On.
+ESV	Before the year of famine _came_, two sons were born to Joseph. Asenath, the daughter of Potiphera priest of On, bore them to him.
+
+(x)	_תִּשָּׁחֵ֥ת_ הָאָ֖רֶץ מִפְּנֵ֥י הֶעָרֹֽב׃ (Exod. 8:20)
+NIV	And the LORD did this. Dense swarms of flies poured into Pharaoh’s palace and into the houses of his officials, and throughout Egypt the land _was ruined_ by the flies.
+ESV	And the Lord did so. There came great swarms of flies into the house of Pharaoh and into his servants’ houses. Throughout all the land of Egypt the land _was ruined_ by the swarms of flies.
+
+(x)	וְהָיָ֗ה כַּאֲשֶׁ֨ר _יָרִ֥ים_ מֹשֶׁ֛ה יָדֹ֖ו וְכַאֲשֶׁ֥ר יָנִ֛יחַ יָדֹ֖ו (Exod. 17:11)
+NIV	As long as Moses _held up_ his hands, the Israelites were winning, but whenever he lowered his hands, the Amalekites were winning.
+ESV	Whenever Moses _held up_ his hand, Israel prevailed, and whenever he lowered his hand, Amalek prevailed.
+
+(x)	וְכָל־הַדָּבָ֥ר הַקָּטֹ֖ן _יִשְׁפּוּט֥וּ_ הֵֽם׃ (Exod. 18:26)
+NIV	They served as judges for the people at all times. The difficult cases they brought to Moses, but the simple ones _they decided_ themselves.
+ESV	And they judged the people at all times. Any hard case they brought to Moses, but any small matter _they decided_ themselves.
+
+(x)	וְאִם־לֹ֥א _יֵעָלֶ֖ה_ הֶעָנָ֑ן (Exod. 40:37)
+NIV	but if the cloud did not lift, they did not set out — until the day it lifted.
+ESV	But if the cloud was not taken up, then they did not set out till the day that it _was taken up_.
+
+(x)	וּבִמְקֹ֗ום אֲשֶׁ֤ר _יִשְׁכָּן_־שָׁם֙ הֶֽעָנָ֔ן שָׁ֥ם יַחֲנ֖וּ בְּנֵ֥י יִשְׂרָאֵֽל׃ (Num. 9:17)
+NIV	Whenever the cloud lifted from above the Tent, the Israelites set out. wherever the cloud _settled_, the Israelites encamped.
+ESV	And whenever the cloud lifted from over the tent, after that the people of Israel set out, and in the place where the cloud _settled down_, there the people of Israel camped.
+
+(x)	כָּל־יְמֵ֗י אֲשֶׁ֨ר _יִשְׁכֹּ֧ן_ הֶעָנָ֛ן עַל־הַמִּשְׁכָּ֖ן יַחֲנֽוּ׃ (Num. 9:18)
+NIV	At the LORD’s command the Israelites set out, and at his command they encamped. As long as the cloud _stayed_ over the tabernacle, they remained in camp.
+ESV	At the command of the Lord the people of Israel set out, and at the command of the Lord they camped. As long as the cloud _rested_ over the tabernacle, they remained in camp.
+
+(x)	וְיֵ֞שׁ אֲשֶׁ֨ר _יִהְיֶ֧ה_ הֶֽעָנָ֛ן יָמִ֥ים מִסְפָּ֖ר עַל־הַמִּשְׁכָּ֑ן (Num. 9:20)
+NIV	Sometimes the cloud _was_ over the tabernacle only a few days. at the LORD’s command they would encamp, and then at his command they would set out.
+ESV	Sometimes the cloud _was_ a few days over the tabernacle, and according to the command of the Lord they remained in camp. then according to the command of the Lord they set out.
+
+(x)	וּבְנֻחֹ֖ה _יֹאמַ֑ר_ (Num. 10:36)
+NIV	Whenever it came to rest, _he said_, “Return, O LORD, to the countless thousands of Israel.”
+ESV	And when it rested, _he said_, “Return, O Lord, to the ten thousand thousands of Israel.”
+
+(x)	אָ֣ז _יִבְנֶ֤ה_ יְהֹושֻׁ֨עַ֙ מִזְבֵּ֔חַ לַֽיהוָ֖ה אֱלֹהֵ֣י יִשְׂרָאֵ֑ל בְּהַ֖ר עֵיבָֽל׃ כַּאֲשֶׁ֣ר צִוָּה֩ מֹשֶׁ֨ה עֶֽבֶד־יְהוָ֜ה אֶת־בְּנֵ֣י יִשְׂרָאֵ֗ל כַּכָּתוּב֙ בְּסֵ֨פֶר֙ תֹּורַ֣ת מֹשֶׁ֔ה מִזְבַּח֙ אֲבָנִ֣ים שְׁלֵמֹ֔ות אֲשֶׁ֛ר לֹֽא־הֵנִ֥יף עֲלֵיהֶ֖ן בַּרְזֶ֑ל (Josh. 8:30)
+NIV	Then Joshua _built_ on Mount Ebal an altar to the LORD, the God of Israel,
+ESV	At that time Joshua _built_ an altar to the Lord, the God of Israel, on Mount Ebal,
+
+(x)	אָ֚ז _יִקְרָ֣א_ יְהֹושֻׁ֔עַ לָרֽאוּבֵנִ֖י וְלַגָּדִ֑י וְלַחֲצִ֖י מַטֵּ֥ה מְנַשֶּֽׁה׃ (Josh. 22:1)
+NIV	Then Joshua _summoned_ the Reubenites, the Gadites and the half-tribe of Manasseh
+ESV	At that time Joshua _summoned_ the Reubenites and the Gadites and the half-tribe of Manasseh,
+
+(x)	וַיִּגְזְל֗וּ אֵ֛ת כָּל־אֲשֶׁר־_יַעֲבֹ֥ר_ עֲלֵיהֶ֖ם בַּדָּ֑רֶךְ (Judg. 9:25)
+NIV	In opposition to him these citizens of Shechem set men on the hilltops to ambush and rob everyone who _passed by_, and this was reported to Abimelech.
+ESV	And the leaders of Shechem put men in ambush against him on the mountaintops, and they robbed all who _passed_ by them along that way. And it was told to Abimelech.
+
+(x)	אִ֛ישׁ הַיָּשָׁ֥ר בְּעֵינָ֖יו _יַעֲשֶֽׂה_׃ (Judg. 21:25)
+NIV	In those days Israel had no king. everyone _did_ as he saw fit.
+ESV	In those days there was no king in Israel. Everyone _did_ what was right in his own eyes.
+
+(x)	וּבָכֹ֥ה _תִבְכֶּֽה_׃ (I Sam. 1:10)
+NIV	In bitterness of soul _Hannah wept much_ and prayed to the LORD.
+ESV	She was deeply distressed and prayed to the Lord and _wept bitterly_.
+
+(x)	כָּ֚כָה _יַעֲשׂ֣וּ_ לְכָל־יִשְׂרָאֵ֔ל הַבָּאִ֥ים שָׁ֖ם בְּשִׁלֹֽה׃ (I Sam. 2:14)
+NIV	He would plunge it into the pan or kettle or cauldron or pot, and the priest would take for himself whatever the fork brought up. This is how _they treated_ all the Israelites who came to Shiloh.
+ESV	and he would thrust it into the pan or kettle or cauldron or pot. All that the fork brought up the priest would take for himself. This is what _they did_ at Shiloh to all the Israelites who came there.
+
+(x)	הָרֹ֨אשׁ אֶחָ֥ד _יִפְנֶ֛ה_ אֶל־דֶּ֥רֶךְ עָפְרָ֖ה אֶל־אֶ֥רֶץ שׁוּעָֽל׃ (I Sam. 13:17)
+NIV	Raiding parties went out from the Philistine camp in three detachments. One _turned_ towards Ophrah in the vicinity of Shual,
+ESV	And raiders came out of the camp of the Philistines in three companies. One company _turned_ toward Ophrah, to the land of Shual.
+
+(x)	בְּכֹל֩ אֲשֶׁ֨ר _יִשְׁלָחֶ֤נּוּ_ שָׁאוּל֙ יַשְׂכִּ֔יל (I Sam. 18:5)
+NIV	Whatever Saul _sent_ him to do, David did it so successfully that Saul gave him a high rank in the army. This pleased all the people, and Saul’s officers as well.
+ESV	And David went out and was successful wherever Saul _sent_ him, so that Saul set him over the men of war. And this was good in the sight of all the people and also in the sight of Saul’s servants.
+
+(x)	וְלֹֽא־_יִרְדְּפ֥וּ_ עֹ֖וד אַחֲרֵ֣י יִשְׂרָאֵ֑ל (II Sam. 2:28)
+NIV	So Joab blew the trumpet, and all the men came to a halt. they no longer pursued Israel, nor did they fight any more.
+ESV	So Joab blew the trumpet, and all the men stopped and _pursued_ Israel no more, nor did they fight anymore.
+
+(x)	וַיַּ֨עַשׂ אַבְשָׁלֹ֜ום כַּדָּבָ֤ר הַזֶּה֙ לְכָל־יִשְׂרָאֵ֔ל אֲשֶׁר־_יָבֹ֥אוּ_ לַמִּשְׁפָּ֖ט אֶל־הַמֶּ֑לֶךְ (II Sam. 15:6)
+NIV	Absalom behaved in this way towards all the Israelites who _came_ to the king asking for justice, and so he stole the hearts of the men of Israel.
+ESV	Thus Absalom did to all of Israel who _came_ to the king for judgment. So Absalom stole the hearts of the men of Israel.
+
+(x)	אָ֣ז _יַקְהֵ֣ל_ שְׁלֹמֹ֣ה אֶת־זִקְנֵ֣י יִשְׂרָאֵ֡ל אֶת־כָּל־רָאשֵׁ֣י הַמַּטֹּות֩ נְשִׂיאֵ֨י הָאָבֹ֜ות לִבְנֵ֧י יִשְׂרָאֵ֛ל אֶל־הַמֶּ֥לֶךְ שְׁלֹמֹ֖ה יְרוּשָׁלִָ֑ם לְֽהַעֲלֹ֞ות אֶת־אֲרֹ֧ון בְּרִית־יְהוָ֛ה מֵעִ֥יר דָּוִ֖ד (I Kgs. 8:1)
+NIV	Then King Solomon _summoned_ into his presence at Jerusalem the elders of Israel, all the heads of the tribes and the chiefs of the Israelite families, to bring up the ark of the LORD’s covenant from Zion, the City of David.
+ESV	Then Solomon _assembled_ the elders of Israel and all the heads of the tribes, the leaders of the fathers’ houses of the people of Israel, before King Solomon in Jerusalem, to bring up the ark of the covenant of the Lord out of the city of David, which is Zion.
+
+(x)	שֵׁשׁ־מֵאֹ֣ות זָהָ֔ב _יַעֲלֶ֖ה_ עַל־הַצִּנָּ֥ה הָאֶחָֽת׃ (I Kgs. 10:16)
+NIV	King Solomon made two hundred large shields of hammered gold. six hundred bekas of gold _went_ into each shield.
+ESV	King Solomon made 200 large shields of beaten gold. 600 shekels of gold _went_ into each shield.
+
+(x)	אָז֩ _יִבְנֶ֨ה_ שְׁלֹמֹ֜ה בָּמָ֗ה לִכְמֹושׁ֙ שִׁקֻּ֣ץ מֹואָ֔ב בָּהָ֕ר אֲשֶׁ֖ר עַל־פְּנֵ֣י יְרוּשָׁלִָ֑ם וּלְמֹ֕לֶךְ שִׁקֻּ֖ץ בְּנֵ֥י עַמֹּֽון׃ (I Kgs. 11:7)
+NIV	On a hill east of Jerusalem, Solomon _built_ a high place for Chemosh the detestable god of Moab, and for Molech the detestable god of the Ammonites.
+ESV	Then Solomon _built_ a high place for Chemosh the abomination of Moab, and for Molech the abomination of the Ammonites, on the mountain east of Jerusalem.
+
+(x)	אָ֧ז _יֵחָלֵ֛ק_ הָעָ֥ם יִשְׂרָאֵ֖ל לַחֵ֑צִי (I Kgs. 16:21)
+NIV	Then the people of Israel _were split_ into two factions. half supported Tibni son of Ginath for king, and the other half supported Omri.
+ESV	Then the people of Israel _were divided_ into two parts. Half of the people followed Tibni the son of Ginath, to make him king, and half followed Omri.
+
+(x)	וְכָל־חֶלְקָ֣ה טֹ֠ובָה _יַשְׁלִ֨יכוּ_ אִישׁ־אַבְנֹ֜ו (II Kgs. 3:25)
+NIV	They destroyed the towns, and each man _threw_ a stone on every good field until it was covered. They stopped up all the springs and cut down every good tree. Only Kir Hareseth was left with its stones in place, but men armed with slings surrounded it and attacked it as well.
+ESV	And they over_threw_ the cities, and on every good piece of land every man _threw_ a stone until it was covered. They stopped every spring of water and felled all the good trees, till only its stones were left in Kir-hareseth, and the slingers surrounded and attacked it.
+
+(x)	אָ֛ז _תִּפְשַׁ֥ע_ לִבְנָ֖ה בָּעֵ֥ת הַהִֽיא׃ (II Kgs. 8:22)
+NIV	To this day Edom has been in rebellion against Judah. Libnah _revolted_ at the same time.
+ESV	So Edom _revolted_ from the rule of Judah to this day. Then Libnah _revolted_ at the same time.
+
+(x)	וְלֹ֧א יְחַשְּׁב֣וּ אֶת־הָאֲנָשִׁ֗ים אֲשֶׁ֨ר _יִתְּנ֤וּ_ אֶת־הַכֶּ֨סֶף֙ עַל־יָדָ֔ם לָתֵ֖ת לְעֹשֵׂ֣י הַמְּלָאכָ֑ה (II Kgs. 12:16)
+NIV	They did not require an accounting from those to whom _they gave_ the money to pay the workers, because they acted with complete honesty.
+ESV	And they did not ask an accounting from the men into whose hand _they delivered_ the money to pay out to the workmen, for they dealt honestly.
+
+(x)	בְּכֹ֥ל אֲשֶׁר־_יֵצֵ֖א_ יַשְׂכִּ֑יל (II Kgs. 18:7)
+NIV	And the LORD was with him. he was successful in whatever _he undertook_. He rebelled against the king of Assyria and did not serve him.
+ESV	And the Lord was with him. wherever _he went out_, he prospered. He rebelled against the king of Assyria and would not serve him.
+
+(x)	וְכָל־אַנְשֵׁ֣י הַמִּלְחָמָ֡ה _יִבְרְחוּ֩_ (Jer. 52:7)
+NIV	Then the city wall was broken through, and the whole army _fled_. They left the city at night through the gate between the two walls near the king’s garden, though the Babylonians were surrounding the city. They _fled_ towards the Arabah,
+ESV	Then a breach was made in the city, and all the men of war _fled_ and went out from the city by night by the way of a gate between the two walls, by the king’s garden, while the Chaldeans were around the city. And they went in the direction of the Arabah.
+
+(x)	אֵת֩ כָּל־אֲשֶׁ֨ר תֹּאמַ֜ר _יִנָּ֤תֵֽן_ לָהּ֙ לָבֹ֣וא עִמָּ֔הּ מִבֵּ֥ית הַנָּשִׁ֖ים עַד־בֵּ֥ית הַמֶּֽלֶךְ׃ (Esth. 2:13)
+NIV	And this is how she would go to the king: Anything she wanted _was given_ to her to take with her from the harem to the king’s palace.
+ESV	when the young woman went in to the king in this way, she _was given_ whatever she desired to take with her from the harem to the king’s palace.
+
+(x)	וְכֵן֙ _יַעֲשֶׂ֣ה_ דָוִ֔יד לְכֹ֖ל עָרֵ֣י בְנֵי־עַמֹּ֑ון (I Chr. 20:3)
+NIV	and brought out the people who were there, consigning them to labour with saws and with iron picks and axes. David _did_ this to all the Ammonite towns. Then David and his entire army returned to Jerusalem.
+ESV	And he brought out the people who were in it and set them to labor with saws and iron picks and axes. And thus David _did_ to all the cities of the Ammonites. Then David and all the people returned to Jerusalem.
+
+(x)	אָז֩ _יַקְהֵ֨יל_ שְׁלֹמֹ֜ה אֶת־זִקְנֵ֣י יִשְׂרָאֵ֗ל וְאֶת־כָּל־רָאשֵׁ֨י הַמַּטֹּ֜ות נְשִׂיאֵ֧י הָאָבֹ֛ות לִבְנֵ֥י יִשְׂרָאֵ֖ל אֶל־יְרוּשָׁלִָ֑ם לְֽהַעֲלֹ֞ות אֶת־אֲרֹ֧ון בְּרִית־יְהוָ֛ה מֵעִ֥יר דָּוִ֖יד (II Chr. 5:2)
+NIV	Then Solomon _summoned_ to Jerusalem the elders of Israel, all the heads of the tribes and the chiefs of the Israelite families, to bring up the ark of the LORD’s covenant from Zion, the City of David.
+ESV	Then Solomon _assembled_ the elders of Israel and all the heads of the tribes, the leaders of the fathers’ houses of the people of Israel, in Jerusalem, to bring up the ark of the covenant of the Lord out of the city of David, which is Zion.
+
+(x)	שְׁלֹ֤שׁ מֵאֹות֙ זָהָ֔ב _יַעֲלֶ֖ה_ עַל־הַמָּגֵ֣ן הָאֶחָ֑ת (II Chr. 9:16)
+NIV	He also made three hundred small shields of hammered gold, with three hundred bekas of gold in each shield. The king put them in the Palace of the Forest of Lebanon.
+ESV	And he made 300 shields of beaten gold. 300 shekels of gold _went_ into each shield. and the king put them in the House of the Forest of Lebanon.
+
+(x)	וְלִפְנֵיהֶ֥ם _יִֽשְׁתַּחֲוֶ֖ה_ (II Chr. 25:14)
+NIV	When Amaziah returned from slaughtering the Edomites, he brought back the gods of the people of Seir. He set them up as his own gods, _bowed down_ to them and burned sacrifices to them.
+ESV	After Amaziah came from striking down the Edomites, he brought the gods of the men of Seir and set them up as his gods and _worshiped_ them, making offerings to them.

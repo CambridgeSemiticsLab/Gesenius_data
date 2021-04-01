@@ -1,27 +1,101 @@
 eng_TAMsimp == "MOD must ~ MOD shall" and mother_verbtype == "Ø"
 25 of 48
-shall be cut off, must be cut off (ESV, NIV | BHS כִּ֣י׀ כָּל־אֹכֵ֣ל חָמֵ֗ץ וְנִכְרְתָ֞ה הַנֶּ֤פֶשׁ הַהִוא֙ מִיִּשְׂרָאֵ֔ל מִיֹּ֥ום הָרִאשֹׁ֖ן עַד־יֹ֥ום הַשְּׁבִעִֽי׃ , Exod. 12:15)
-shall be cut off, must be cut off (ESV, NIV | BHS אִ֚ישׁ אֲשֶׁ֣ר יִרְקַ֣ח כָּמֹ֔הוּ וַאֲשֶׁ֥ר יִתֵּ֛ן מִמֶּ֖נּוּ עַל־זָ֑ר וְנִכְרַ֖ת מֵעַמָּֽיו׃ ס , Exod. 30:33)
-shall be cut off, must be cut off (ESV, NIV | BHS כִּ֗י כָּל־הָעֹשֶׂ֥ה בָהּ֙ מְלָאכָ֔ה וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מִקֶּ֥רֶב עַמֶּֽיהָ׃ , Exod. 31:14)
-shall be cut off, must be cut off (ESV, NIV | BHS וְנֶ֜פֶשׁ כִּֽי־תִגַּ֣ע בְּכָל־טָמֵ֗א בְּטֻמְאַ֤ת אָדָם֙ אֹ֣ו׀ בִּבְהֵמָ֣ה טְמֵאָ֗ה אֹ֚ו בְּכָל־שֶׁ֣קֶץ טָמֵ֔א וְאָכַ֛ל מִבְּשַׂר־זֶ֥בַח הַשְּׁלָמִ֖ים אֲשֶׁ֣ר לַיהוָ֑ה וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מֵעַמֶּֽיהָ׃ פ , Lev. 7:21)
-shall be cut off, must be cut off (ESV, NIV | BHS כָּל־נֶ֖פֶשׁ אֲשֶׁר־תֹּאכַ֣ל כָּל־דָּ֑ם וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מֵֽעַמֶּֽיהָ׃ פ , Lev. 7:27)
-it shall be shown, must be shown (ESV, NIV | BHS נֶ֥גַע צָרַ֖עַת ה֑וּא וְהָרְאָ֖ה אֶת־הַכֹּהֵֽן׃ , Lev. 13:49)
-shall be washed, must be washed (ESV, NIV | BHS וְהַבֶּ֡גֶד אֹֽו־הַשְּׁתִ֨י אֹו־הָעֵ֜רֶב אֹֽו־כָל־כְּלִ֤י הָעֹור֙ אֲשֶׁ֣ר תְּכַבֵּ֔ס וְסָ֥ר מֵהֶ֖ם הַנָּ֑גַע וְכֻבַּ֥ס שֵׁנִ֖ית , Lev. 13:58)
-bathe himself, bathe (ESV, NIV | BHS וְאִ֕ישׁ אֲשֶׁ֥ר יִגַּ֖ע בְּמִשְׁכָּבֹ֑ו יְכַבֵּ֧ס בְּגָדָ֛יו וְרָחַ֥ץ בַּמַּ֖יִם , Lev. 15:5)
-bathe himself, bathe (ESV, NIV | BHS וְהַנֹּגֵ֖עַ בִּבְשַׂ֣ר הַזָּ֑ב יְכַבֵּ֧ס בְּגָדָ֛יו וְרָחַ֥ץ בַּמַּ֖יִם , Lev. 15:7)
-shall wash, must wash (ESV, NIV | BHS וְכֹ֨ל אֲשֶׁ֤ר יִגַּע־בֹּו֙ הַזָּ֔ב וְיָדָ֖יו לֹא־שָׁטַ֣ף בַּמָּ֑יִם וְכִבֶּ֧ס בְּגָדָ֛יו , Lev. 15:11)
-shall be washed, must be washed (ESV, NIV | BHS וְכָל־בֶּ֣גֶד וְכָל־עֹ֔ור אֲשֶׁר־יִהְיֶ֥ה עָלָ֖יו שִׁכְבַת־זָ֑רַע וְכֻבַּ֥ס בַּמַּ֖יִם , Lev. 15:17)
-bathe himself, bathe (ESV, NIV | BHS וְכָל־הַנֹּגֵ֖עַ בְּמִשְׁכָּבָ֑הּ יְכַבֵּ֧ס בְּגָדָ֛יו וְרָחַ֥ץ בַּמַּ֖יִם , Lev. 15:21)
-shall wash, he must wash (ESV, NIV | BHS וְכָל־הַנֹּוגֵ֥עַ בָּ֖ם יִטְמָ֑א וְכִבֶּ֧ס בְּגָדָ֛יו , Lev. 15:27)
-bathe (ESV, NIV | BHS וְהַשֹּׂרֵ֣ף אֹתָ֔ם יְכַבֵּ֣ס בְּגָדָ֔יו וְרָחַ֥ץ אֶת־בְּשָׂרֹ֖ו בַּמָּ֑יִם , Lev. 16:28)
-shall be cut off, must be cut off (ESV, NIV | BHS אִ֥ישׁ אִישׁ֙ מִבֵּ֣ית יִשְׂרָאֵ֔ל וּמִן־הַגֵּ֖ר אֲשֶׁר־יָג֣וּר בְּתֹוכָ֑ם אֲשֶׁר־יַעֲלֶ֥ה עֹלָ֖ה אֹו־זָֽבַח׃ וְאֶל־פֶּ֜תַח אֹ֤הֶל מֹועֵד֙ לֹ֣א יְבִיאֶ֔נּוּ לַעֲשֹׂ֥ות אֹתֹ֖ו לַיהוָ֑ה וְנִכְרַ֛ת הָאִ֥ישׁ הַה֖וּא מֵעַמָּֽיו׃ , Lev. 17:9)
-shall wash, must wash (ESV, NIV | BHS וְכָל־נֶ֗פֶשׁ אֲשֶׁ֨ר תֹּאכַ֤ל נְבֵלָה֙ וּטְרֵפָ֔ה בָּאֶזְרָ֖ח וּבַגֵּ֑ר וְכִבֶּ֨ס בְּגָדָ֜יו , Lev. 17:15)
-he shall bring, must bring (ESV, NIV | BHS וְ֠אִישׁ כִּֽי־יִשְׁכַּ֨ב אֶת־אִשָּׁ֜ה שִׁכְבַת־זֶ֗רַע וְהִ֤וא שִׁפְחָה֙ נֶחֱרֶ֣פֶת לְאִ֔ישׁ וְהָפְדֵּה֙ לֹ֣א נִפְדָּ֔תָה אֹ֥ו חֻפְשָׁ֖ה לֹ֣א נִתַּן־לָ֑הּ בִּקֹּ֧רֶת תִּהְיֶ֛ה לֹ֥א יוּמְת֖וּ כִּי־לֹ֥א חֻפָּֽשָׁה׃ וְהֵבִ֤יא אֶת־אֲשָׁמֹו֙ לַֽיהוָ֔ה אֶל־פֶּ֖תַח אֹ֣הֶל מֹועֵ֑ד אֵ֖יל אָשָֽׁם׃ , Lev. 19:21)
-shall be cut off, must be cut off (ESV, NIV | BHS וְ֠אִישׁ אֲשֶׁר־יִשְׁכַּ֨ב אֶת־אִשָּׁ֜ה דָּוָ֗ה וְגִלָּ֤ה אֶת־עֶרְוָתָהּ֙ אֶת־מְקֹרָ֣הּ הֶֽעֱרָ֔ה וְהִ֕יא גִּלְּתָ֖ה אֶת־מְקֹ֣ור דָּמֶ֑יהָ וְנִכְרְת֥וּ שְׁנֵיהֶ֖ם מִקֶּ֥רֶב עַמָּֽם׃ , Lev. 20:18)
-shall be cut off, must be cut off (ESV, NIV | BHS כָּל־אִ֣ישׁ׀ אֲשֶׁר־יִקְרַ֣ב מִכָּל־זַרְעֲכֶ֗ם אֶל־הַקֳּדָשִׁים֙ אֲשֶׁ֨ר יַקְדִּ֤ישׁוּ בְנֵֽי־יִשְׂרָאֵל֙ לַֽיהוָ֔ה וְטֻמְאָתֹ֖ו עָלָ֑יו וְנִכְרְתָ֞ה הַנֶּ֧פֶשׁ הַהִ֛וא מִלְּפָנַ֖י , Lev. 22:3)
-you shall afflict, you must deny (ESV, NIV | BHS שַׁבַּ֨ת שַׁבָּתֹ֥ון הוּא֙ לָכֶ֔ם וְעִנִּיתֶ֖ם אֶת־נַפְשֹׁתֵיכֶ֑ם , Lev. 23:32)
-he shall confess, must confess (ESV, NIV | BHS אִ֣ישׁ אֹֽו־אִשָּׁ֗ה כִּ֤י יַעֲשׂוּ֙ מִכָּל־חַטֹּ֣את הָֽאָדָ֔ם לִמְעֹ֥ל מַ֖עַל בַּיהוָ֑ה וְאָֽשְׁמָ֖ה הַנֶּ֥פֶשׁ הַהִֽוא׃ וְהִתְוַדּ֗וּ אֶֽת־חַטָּאתָם֮ , Num. 5:7)
-bathe (ESV, NIV | BHS וְהַשֹּׂרֵ֣ף אֹתָ֔הּ יְכַבֵּ֤ס בְּגָדָיו֙ בַּמַּ֔יִם וְרָחַ֥ץ בְּשָׂרֹ֖ו בַּמָּ֑יִם , Num. 19:8)
-you shall go, you must go (ESV, NIV | BHS כִּ֠י אִֽם־אֶל־הַמָּקֹ֞ום אֲשֶׁר־יִבְחַ֨ר יְהוָ֤ה אֱלֹֽהֵיכֶם֙ מִכָּל־שִׁבְטֵיכֶ֔ם לָשׂ֥וּם אֶת־שְׁמֹ֖ו שָׁ֑ם לְשִׁכְנֹ֥ו תִדְרְשׁ֖וּ וּבָ֥אתָ שָֽׁמָּה׃ , Deut. 12:5)
-shall die, must be put to death (ESV, NIV | BHS אַ֣ךְ הַנָּבִ֡יא אֲשֶׁ֣ר יָזִיד֩ לְדַבֵּ֨ר דָּבָ֜ר בִּשְׁמִ֗י אֵ֣ת אֲשֶׁ֤ר לֹֽא־צִוִּיתִיו֙ לְדַבֵּ֔ר וַאֲשֶׁ֣ר יְדַבֵּ֔ר בְּשֵׁ֖ם אֱלֹהִ֣ים אֲחֵרִ֑ים וּמֵ֖ת הַנָּבִ֥יא הַהֽוּא׃ , Deut. 18:20)
-shall bear, must bear (ESV, NIV | BHS כִּ֣י אִם־הַלְוִיִּ֗ם אֲשֶׁ֤ר רָֽחֲקוּ֙ מֵֽעָלַ֔י בִּתְעֹ֤ות יִשְׂרָאֵל֙ אֲשֶׁ֣ר תָּע֣וּ מֵֽעָלַ֔י אַחֲרֵ֖י גִּלּֽוּלֵיהֶ֑ם וְנָשְׂא֖וּ עֲוֹנָֽם׃ , Ezek. 44:10)
+(x)	כִּ֣י׀ כָּל־אֹכֵ֣ל חָמֵ֗ץ וְ_נִכְרְתָ֞ה_ הַנֶּ֤פֶשׁ הַהִוא֙ מִיִּשְׂרָאֵ֔ל מִיֹּ֥ום הָרִאשֹׁ֖ן עַד־יֹ֥ום הַשְּׁבִעִֽי׃ (Exod. 12:15)
+NIV	For seven days you are to eat bread made without yeast. On the first day remove the yeast from your houses, for whoever eats anything with yeast in it from the first day through the seventh _must be cut off_ from Israel.
+ESV	Seven days you shall eat unleavened bread. On the first day you shall remove leaven out of your houses, for if anyone eats what is leavened, from the first day until the seventh day, that person _shall be cut off_ from Israel.
+
+(x)	אִ֚ישׁ אֲשֶׁ֣ר יִרְקַ֣ח כָּמֹ֔הוּ וַאֲשֶׁ֥ר יִתֵּ֛ן מִמֶּ֖נּוּ עַל־זָ֑ר וְ_נִכְרַ֖ת_ מֵעַמָּֽיו׃ ס (Exod. 30:33)
+NIV	Whoever makes perfume like it and whoever puts it on anyone other than a priest _must be cut off_ from his people.’”
+ESV	Whoever compounds any like it or whoever puts any of it on an outsider _shall be cut off_ from his people.’”
+
+(x)	כִּ֗י כָּל־הָעֹשֶׂ֥ה בָהּ֙ מְלָאכָ֔ה וְ_נִכְרְתָ֛ה_ הַנֶּ֥פֶשׁ הַהִ֖וא מִקֶּ֥רֶב עַמֶּֽיהָ׃ (Exod. 31:14)
+NIV	“‘Observe the Sabbath, because it is holy to you. Anyone who desecrates it must be put to death. whoever does any work on that day _must be cut off_ from his people.
+ESV	You shall keep the Sabbath, because it is holy for you. Everyone who profanes it shall be put to death. Whoever does any work on it, that soul _shall be cut off_ from among his people.
+
+(x)	וְנֶ֜פֶשׁ כִּֽי־תִגַּ֣ע בְּכָל־טָמֵ֗א בְּטֻמְאַ֤ת אָדָם֙ אֹ֣ו׀ בִּבְהֵמָ֣ה טְמֵאָ֗ה אֹ֚ו בְּכָל־שֶׁ֣קֶץ טָמֵ֔א וְאָכַ֛ל מִבְּשַׂר־זֶ֥בַח הַשְּׁלָמִ֖ים אֲשֶׁ֣ר לַיהוָ֑ה וְ_נִכְרְתָ֛ה_ הַנֶּ֥פֶשׁ הַהִ֖וא מֵעַמֶּֽיהָ׃ פ (Lev. 7:21)
+NIV	If anyone touches something unclean — whether human uncleanness or an unclean animal or any unclean, detestable thing — and then eats any of the meat of the fellowship offering belonging to the LORD, that person _must be cut off_ from his people.’”
+ESV	And if anyone touches an unclean thing, whether human uncleanness or an unclean beast or any unclean detestable creature, and then eats some flesh from the sacrifice of the Lord’s peace offerings, that person _shall be cut off_ from his people.”
+
+(x)	כָּל־נֶ֖פֶשׁ אֲשֶׁר־תֹּאכַ֣ל כָּל־דָּ֑ם וְ_נִכְרְתָ֛ה_ הַנֶּ֥פֶשׁ הַהִ֖וא מֵֽעַמֶּֽיהָ׃ פ (Lev. 7:27)
+NIV	If anyone eats blood, that person _must be cut off_ from his people.’”
+ESV	Whoever eats any blood, that person _shall be cut off_ from his people.”
+
+(x)	נֶ֥גַע צָרַ֖עַת ה֑וּא וְ_הָרְאָ֖ה_ אֶת־הַכֹּהֵֽן׃ (Lev. 13:49)
+NIV	and if the contamination in the clothing, or leather, or woven or knitted material, or any leather article, is greenish or reddish, it is a spreading mildew and _must be shown_ to the priest.
+ESV	if the disease is greenish or reddish in the garment, or in the skin or in the warp or the woof or in any article made of skin, it is a case of leprous disease, and _it shall be shown_ to the priest.
+
+(x)	וְהַבֶּ֡גֶד אֹֽו־הַשְּׁתִ֨י אֹו־הָעֵ֜רֶב אֹֽו־כָל־כְּלִ֤י הָעֹור֙ אֲשֶׁ֣ר תְּכַבֵּ֔ס וְסָ֥ר מֵהֶ֖ם הַנָּ֑גַע וְ_כֻבַּ֥ס_ שֵׁנִ֖ית (Lev. 13:58)
+NIV	The clothing, or the woven or knitted material, or any leather article that has been washed and is rid of the mildew, _must be washed_ again, and it will be clean.”
+ESV	But the garment, or the warp or the woof, or any article made of skin from which the disease departs when you have washed it, shall then be washed a second time, and be clean.”
+
+(x)	וְאִ֕ישׁ אֲשֶׁ֥ר יִגַּ֖ע בְּמִשְׁכָּבֹ֑ו יְכַבֵּ֧ס בְּגָדָ֛יו וְ_רָחַ֥ץ_ בַּמַּ֖יִם (Lev. 15:5)
+NIV	Anyone who touches his bed must wash his clothes and _bathe_ with water, and he will be unclean till evening.
+ESV	And anyone who touches his bed shall wash his clothes and _bathe himself_ in water and be unclean until the evening.
+
+(x)	וְהַנֹּגֵ֖עַ בִּבְשַׂ֣ר הַזָּ֑ב יְכַבֵּ֧ס בְּגָדָ֛יו וְ_רָחַ֥ץ_ בַּמַּ֖יִם (Lev. 15:7)
+NIV	“‘Whoever touches the man who has a discharge must wash his clothes and _bathe_ with water, and he will be unclean till evening.
+ESV	And whoever touches the body of the one with the discharge shall wash his clothes and _bathe himself_ in water and be unclean until the evening.
+
+(x)	וְכֹ֨ל אֲשֶׁ֤ר יִגַּע־בֹּו֙ הַזָּ֔ב וְיָדָ֖יו לֹא־שָׁטַ֣ף בַּמָּ֑יִם וְ_כִבֶּ֧ס_ בְּגָדָ֛יו (Lev. 15:11)
+NIV	“‘Anyone the man with a discharge touches without rinsing his hands with water _must wash_ his clothes and bathe with water, and he will be unclean till evening.
+ESV	Anyone whom the one with the discharge touches without having rinsed his hands in water _shall wash_ his clothes and bathe himself in water and be unclean until the evening.
+
+(x)	וְכָל־בֶּ֣גֶד וְכָל־עֹ֔ור אֲשֶׁר־יִהְיֶ֥ה עָלָ֖יו שִׁכְבַת־זָ֑רַע וְ_כֻבַּ֥ס_ בַּמַּ֖יִם (Lev. 15:17)
+NIV	Any clothing or leather that has semen on it _must be washed_ with water, and it will be unclean till evening.
+ESV	And every garment and every skin on which the semen comes _shall be washed_ with water and be unclean until the evening.
+
+(x)	וְכָל־הַנֹּגֵ֖עַ בְּמִשְׁכָּבָ֑הּ יְכַבֵּ֧ס בְּגָדָ֛יו וְ_רָחַ֥ץ_ בַּמַּ֖יִם (Lev. 15:21)
+NIV	Whoever touches her bed must wash his clothes and _bathe_ with water, and he will be unclean till evening.
+ESV	And whoever touches her bed shall wash his clothes and _bathe himself_ in water and be unclean until the evening.
+
+(x)	וְכָל־הַנֹּוגֵ֥עַ בָּ֖ם יִטְמָ֑א וְ_כִבֶּ֧ס_ בְּגָדָ֛יו (Lev. 15:27)
+NIV	Whoever touches them will be unclean. _he must wash_ his clothes and bathe with water, and he will be unclean till evening.
+ESV	And whoever touches these things shall be unclean, and _shall wash_ his clothes and bathe himself in water and be unclean until the evening.
+
+(x)	וְהַשֹּׂרֵ֣ף אֹתָ֔ם יְכַבֵּ֣ס בְּגָדָ֔יו וְ_רָחַ֥ץ_ אֶת־בְּשָׂרֹ֖ו בַּמָּ֑יִם (Lev. 16:28)
+NIV	The man who burns them must wash his clothes and _bathe_ himself with water. afterward he may come into the camp.
+ESV	And he who burns them shall wash his clothes and _bathe_ his body in water, and afterward he may come into the camp.
+
+(x)	אִ֥ישׁ אִישׁ֙ מִבֵּ֣ית יִשְׂרָאֵ֔ל וּמִן־הַגֵּ֖ר אֲשֶׁר־יָג֣וּר בְּתֹוכָ֑ם אֲשֶׁר־יַעֲלֶ֥ה עֹלָ֖ה אֹו־זָֽבַח׃ וְאֶל־פֶּ֜תַח אֹ֤הֶל מֹועֵד֙ לֹ֣א יְבִיאֶ֔נּוּ לַעֲשֹׂ֥ות אֹתֹ֖ו לַיהוָ֑ה וְ_נִכְרַ֛ת_ הָאִ֥ישׁ הַה֖וּא מֵעַמָּֽיו׃ (Lev. 17:9)
+NIV	and does not bring it to the entrance to the Tent of Meeting to sacrifice it to the LORD — that man _must be cut off_ from his people.
+ESV	and does not bring it to the entrance of the tent of meeting to offer it to the Lord, that man _shall be cut off_ from his people.
+
+(x)	וְכָל־נֶ֗פֶשׁ אֲשֶׁ֨ר תֹּאכַ֤ל נְבֵלָה֙ וּטְרֵפָ֔ה בָּאֶזְרָ֖ח וּבַגֵּ֑ר וְ_כִבֶּ֨ס_ בְּגָדָ֜יו (Lev. 17:15)
+NIV	“‘Anyone, whether native-born or alien, who eats anything found dead or torn by wild animals _must wash_ his clothes and bathe with water, and he will be ceremonially unclean till evening. then he will be clean.
+ESV	And every person who eats what dies of itself or what is torn by beasts, whether he is a native or a sojourner, _shall wash_ his clothes and bathe himself in water and be unclean until the evening. then he shall be clean.
+
+(x)	וְ֠אִישׁ כִּֽי־יִשְׁכַּ֨ב אֶת־אִשָּׁ֜ה שִׁכְבַת־זֶ֗רַע וְהִ֤וא שִׁפְחָה֙ נֶחֱרֶ֣פֶת לְאִ֔ישׁ וְהָפְדֵּה֙ לֹ֣א נִפְדָּ֔תָה אֹ֥ו חֻפְשָׁ֖ה לֹ֣א נִתַּן־לָ֑הּ בִּקֹּ֧רֶת תִּהְיֶ֛ה לֹ֥א יוּמְת֖וּ כִּי־לֹ֥א חֻפָּֽשָׁה׃ וְ_הֵבִ֤יא_ אֶת־אֲשָׁמֹו֙ לַֽיהוָ֔ה אֶל־פֶּ֖תַח אֹ֣הֶל מֹועֵ֑ד אֵ֖יל אָשָֽׁם׃ (Lev. 19:21)
+NIV	The man, however, _must bring_ a ram to the entrance to the Tent of Meeting for a guilt offering to the LORD.
+ESV	but _he shall bring_ his compensation to the Lord, to the entrance of the tent of meeting, a ram for a guilt offering.
+
+(x)	וְ֠אִישׁ אֲשֶׁר־יִשְׁכַּ֨ב אֶת־אִשָּׁ֜ה דָּוָ֗ה וְגִלָּ֤ה אֶת־עֶרְוָתָהּ֙ אֶת־מְקֹרָ֣הּ הֶֽעֱרָ֔ה וְהִ֕יא גִּלְּתָ֖ה אֶת־מְקֹ֣ור דָּמֶ֑יהָ וְ_נִכְרְת֥וּ_ שְׁנֵיהֶ֖ם מִקֶּ֥רֶב עַמָּֽם׃ (Lev. 20:18)
+NIV	“‘If a man lies with a woman during her monthly period and has sexual relations with her, he has exposed the source of her flow, and she has also uncovered it. Both of them _must be cut off_ from their people.
+ESV	If a man lies with a woman during her menstrual period and uncovers her nakedness, he has made naked her fountain, and she has uncovered the fountain of her blood. Both of them _shall be cut off_ from among their people.
+
+(x)	כָּל־אִ֣ישׁ׀ אֲשֶׁר־יִקְרַ֣ב מִכָּל־זַרְעֲכֶ֗ם אֶל־הַקֳּדָשִׁים֙ אֲשֶׁ֨ר יַקְדִּ֤ישׁוּ בְנֵֽי־יִשְׂרָאֵל֙ לַֽיהוָ֔ה וְטֻמְאָתֹ֖ו עָלָ֑יו וְ_נִכְרְתָ֞ה_ הַנֶּ֧פֶשׁ הַהִ֛וא מִלְּפָנַ֖י (Lev. 22:3)
+NIV	“Say to them: ‘For the generations to come, if any of your descendants is ceremonially unclean and yet comes near the sacred offerings that the Israelites consecrate to the LORD, that person _must be cut off_ from my presence. I am the LORD.
+ESV	Say to them, ‘If any one of all your offspring throughout your generations approaches the holy things that the people of Israel dedicate to the Lord, while he has an uncleanness, that person _shall be cut off_ from my presence: I am the Lord.
+
+(x)	שַׁבַּ֨ת שַׁבָּתֹ֥ון הוּא֙ לָכֶ֔ם וְ_עִנִּיתֶ֖ם_ אֶת־נַפְשֹׁתֵיכֶ֑ם (Lev. 23:32)
+NIV	It is a sabbath of rest for you, and _you must deny_ yourselves. From the evening of the ninth day of the month until the following evening you are to observe your sabbath.”
+ESV	It shall be to you a Sabbath of solemn rest, and _you shall afflict_ yourselves. On the ninth day of the month beginning at evening, from evening to evening shall you keep your Sabbath.”
+
+(x)	אִ֣ישׁ אֹֽו־אִשָּׁ֗ה כִּ֤י יַעֲשׂוּ֙ מִכָּל־חַטֹּ֣את הָֽאָדָ֔ם לִמְעֹ֥ל מַ֖עַל בַּיהוָ֑ה וְאָֽשְׁמָ֖ה הַנֶּ֥פֶשׁ הַהִֽוא׃ וְ_הִתְוַדּ֗וּ_ אֶֽת־חַטָּאתָם֮ (Num. 5:7)
+NIV	and _must confess_ the sin he has committed. He must make full restitution for his wrong, add one fifth to it and give it all to the person he has wronged.
+ESV	_he shall confess_ his sin that he has committed. And he shall make full restitution for his wrong, adding a fifth to it and giving it to him to whom he did the wrong.
+
+(x)	וְהַשֹּׂרֵ֣ף אֹתָ֔הּ יְכַבֵּ֤ס בְּגָדָיו֙ בַּמַּ֔יִם וְ_רָחַ֥ץ_ בְּשָׂרֹ֖ו בַּמָּ֑יִם (Num. 19:8)
+NIV	The man who burns it must also wash his clothes and _bathe_ with water, and he too will be unclean till evening.
+ESV	The one who burns the heifer shall wash his clothes in water and _bathe_ his body in water and shall be unclean until evening.
+
+(x)	כִּ֠י אִֽם־אֶל־הַמָּקֹ֞ום אֲשֶׁר־יִבְחַ֨ר יְהוָ֤ה אֱלֹֽהֵיכֶם֙ מִכָּל־שִׁבְטֵיכֶ֔ם לָשׂ֥וּם אֶת־שְׁמֹ֖ו שָׁ֑ם לְשִׁכְנֹ֥ו תִדְרְשׁ֖וּ וּ_בָ֥אתָ_ שָֽׁמָּה׃ (Deut. 12:5)
+NIV	But you are to seek the place the LORD your God will choose from among all your tribes to put his Name there for his dwelling. To that place _you must go_.
+ESV	But you shall seek the place that the Lord your God will choose out of all your tribes to put his name and make his habitation there. There _you shall go_,
+
+(x)	אַ֣ךְ הַנָּבִ֡יא אֲשֶׁ֣ר יָזִיד֩ לְדַבֵּ֨ר דָּבָ֜ר בִּשְׁמִ֗י אֵ֣ת אֲשֶׁ֤ר לֹֽא־צִוִּיתִיו֙ לְדַבֵּ֔ר וַאֲשֶׁ֣ר יְדַבֵּ֔ר בְּשֵׁ֖ם אֱלֹהִ֣ים אֲחֵרִ֑ים וּ_מֵ֖ת_ הַנָּבִ֥יא הַהֽוּא׃ (Deut. 18:20)
+NIV	But a prophet who presumes to speak in my name anything I have not commanded him to say, or a prophet who speaks in the name of other gods, _must be put to death_.”
+ESV	But the prophet who presumes to speak a word in my name that I have not commanded him to speak, or who speaks in the name of other gods, that same prophet _shall die_.’
+
+(x)	כִּ֣י אִם־הַלְוִיִּ֗ם אֲשֶׁ֤ר רָֽחֲקוּ֙ מֵֽעָלַ֔י בִּתְעֹ֤ות יִשְׂרָאֵל֙ אֲשֶׁ֣ר תָּע֣וּ מֵֽעָלַ֔י אַחֲרֵ֖י גִּלּֽוּלֵיהֶ֑ם וְ_נָשְׂא֖וּ_ עֲוֹנָֽם׃ (Ezek. 44:10)
+NIV	“‘The Levites who went far from me when Israel went astray and who wandered from me after their idols _must bear_ the consequences of their sin.
+ESV	But the Levites who went far from me, going astray from me after their idols when Israel went astray, _shall bear_ their punishment.

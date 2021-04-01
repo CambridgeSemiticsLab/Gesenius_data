@@ -1,12 +1,41 @@
 eng_TAMsimp == "MOD may" and genre == "prose" and domain2 == "Q"
-10 of 64
-we may eat (ESV, NIV | BHS מִפְּרִ֥י עֵֽץ־הַגָּ֖ן נֹאכֵֽל׃ , Gen. 3:2)
-may perish, may be ruined (ESV, NIV | BHS וְלֹֽא־תִכָּרֵ֥ת הָאָ֖רֶץ בָּרָעָֽב׃ , Gen. 41:36)
-you may know (ESV, NIV | BHS בַּעֲב֣וּר תֵּדַ֔ע , Exod. 9:14)
-may eat (ESV, NIV | BHS תֹּושָׁ֥ב וְשָׂכִ֖יר לֹא־יֹ֥אכַל־בֹּֽו׃ , Exod. 12:45)
-you may prolong your days, you may live long (ESV, NIV | BHS וּלְמַ֨עַן תַּאֲרִ֤יךְ יָמִים֙ עַל־הָ֣אֲדָמָ֔ה , Deut. 4:40)
-you may live (ESV, NIV | BHS לְמַ֨עַן תִּֽחְי֜וּן , Deut. 8:1)
-may live (ESV, NIV | BHS לְמַ֥עַן תִּחְיֶ֖ה אַתָּ֥ה וְזַרְעֶֽךָ׃ , Deut. 30:19)
-I may die, I may be killed (ESV, NIV | BHS וְלֹ֥א אָמֽוּת׃ , I Sam. 20:14)
-may know (ESV, NIV | BHS לְמַ֣עַן יֵדְעוּן֩ כָּל־עַמֵּ֨י הָאָ֜רֶץ אֶת־שְׁמֶ֗ךָ , I Kgs. 8:43)
-may enter (ESV, NIV | BHS הֵ֥מָּה יָבֹ֖אוּ , II Chr. 23:6)
+10 of 146
+(x)	מִפְּרִ֥י עֵֽץ־הַגָּ֖ן _נֹאכֵֽל_׃ (Gen. 3:2)
+NIV	The woman said to the serpent, “_We may eat_ fruit from the trees in the garden,
+ESV	And the woman said to the serpent, “_We may eat_ of the fruit of the trees in the garden,
+
+(x)	וְ_יִבָּֽחֲנוּ֙_ דִּבְרֵיכֶ֔ם (Gen. 42:16)
+NIV	Send one of your number to get your brother. the rest of you will be kept in prison, so that your words _may be tested_ to see if you are telling the truth. If you are not, then as surely as Pharaoh lives, you are spies!”
+ESV	Send one of you, and let him bring your brother, while you remain confined, that your words _may be tested_, whether there is truth in you. Or else, by the life of Pharaoh, surely you are spies.”
+
+(x)	וְ_יַֽעַבְדֻֽנִי_׃ (Exod. 9:1)
+NIV	Then the LORD said to Moses, “Go to Pharaoh and say to him, ‘This is what the LORD, the God of the Hebrews, says: “Let my people go, so that _they may worship_ me.”
+ESV	Then the Lord said to Moses, “Go in to Pharaoh and say to him, ‘Thus says the Lord, the God of the Hebrews, “Let my people go, that _they may serve_ me.
+
+(x)	וְאַחַ֖ר _תָּבֹ֥אוּ_ אֶל־הַֽמַּחֲנֶֽה׃ פ (Num. 31:24)
+NIV	On the seventh day wash your clothes and you will be clean. Then _you may come_ into the camp.”
+ESV	You must wash your clothes on the seventh day, and you shall be clean. And afterward _you may come_ into the camp.”
+
+(x)	וְ_יָבֹ֨אוּ֙_ (Deut. 10:11)
+NIV	“Go,” the LORD said to me, “and lead the people on their way, so that _they may enter_ and possess the land that I swore to their fathers to give them.”
+ESV	And the Lord said to me, ‘Arise, go on your journey at the head of the people, so that _they may go in_ and possess the land, which I swore to their fathers to give them.’
+
+(x)	אָ֣ז׀ _יָשׁ֣וּב_ הָרֹוצֵ֗חַ (Josh. 20:6)
+NIV	He is to stay in that city until he has stood trial before the assembly and until the death of the high priest who is serving at that time. Then _he may go back_ to his own home in the town from which he fled.”
+ESV	And he shall remain in that city until he has stood before the congregation for judgment, until the death of him who is high priest at the time. Then the manslayer _may return_ to his own town and his own home, to the town from which he fled.’”
+
+(x)	כַּאֲשֶׁ֨ר גָּדְלָ֧ה נַפְשְׁךָ֛ הַיֹּ֥ום הַזֶּ֖ה בְּעֵינָ֑י כֵּ֣ן _תִּגְדַּ֤ל_ נַפְשִׁי֙ בְּעֵינֵ֣י יְהוָ֔ה (I Sam. 26:24)
+NIV	As surely as I valued your life today, so may the LORD value my life and deliver me from all trouble.”
+ESV	Behold, as your life was precious this day in my sight, so may my life be precious in the sight of the Lord, and may he deliver me out of all tribulation.”
+
+(x)	לְמַעַן֩ _יָקִ֨ים_ יְהוָ֜ה אֶת־דְּבָרֹ֗ו אֲשֶׁ֨ר דִּבֶּ֣ר עָלַי֮ לֵאמֹר֒ לֵאמֹ֕ר (I Kgs. 2:4)
+NIV	and that the LORD _may keep_ his promise to me: ‘If your descendants watch how they live, and if they walk faithfully before me with all their heart and soul, you will never fail to have a man on the throne of Israel.’
+ESV	that the Lord _may establish_ his word that he spoke concerning me, saying, ‘If your sons pay close attention to their way, to walk before me in faithfulness with all their heart and with all their soul, you shall not lack a man on the throne of Israel.’
+
+(x)	כֹּֽה־_יַעֲשֶׂה_־לִּ֥י אֱלֹהִ֖ים (II Kgs. 6:31)
+NIV	He said, “May God deal with me, be it ever so severely, if the head of Elisha son of Shaphat remains on his shoulders today!”
+ESV	and he said, “May God do so to me and more also, if the head of Elisha the son of Shaphat remains on his shoulders today.”
+
+(x)	וְ_יִדְרֹֽשׁ_׃ פ (II Chr. 24:22)
+NIV	King Joash did not remember the kindness Zechariah’s father Jehoiada had shown him but killed his son, who said as he lay dying, “May the LORD see this and call you to account.”
+ESV	Thus Joash the king did not remember the kindness that Jehoiada, Zechariah’s father, had shown him, but killed his son. And when he was dying, he said, “May the Lord see and _avenge_!”

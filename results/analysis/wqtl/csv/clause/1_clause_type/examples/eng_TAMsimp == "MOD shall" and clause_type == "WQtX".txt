@@ -1,27 +1,101 @@
 eng_TAMsimp == "MOD shall" and clause_type == "WQtX"
 25 of 104
-you shall be, be (ESV, NIV | BHS וְהָיִ֤יתָ קָרֹוב֙ אֵלַ֔י אַתָּ֕ה וּבָנֶ֖יךָ וּבְנֵ֣י בָנֶ֑יךָ וְצֹאנְךָ֥ וּבְקָרְךָ֖ וְכָל־, Gen. 45:10)
-shall make atonement (ESV, NIV | BHS וְכִפֶּ֤ר אַהֲרֹן֙ עַל־קַרְנֹתָ֔יו אַחַ֖ת בַּשָּׁנָ֑ה מִדַּ֞ם חַטַּ֣את הַכִּפֻּרִ֗ים , Exod. 30:10)
-shall bring (ESV, NIV | BHS וְהִקְרִיבֹ֤ו הַכֹּהֵן֙ אֶל־הַמִּזְבֵּ֔חַ , Lev. 1:15)
-shall take, he shall take out (ESV, NIV | BHS וְהֵרִ֨ים הַכֹּהֵ֤ן מִן־הַמִּנְחָה֙ אֶת־אַזְכָּ֣רָתָ֔הּ , Lev. 2:9)
-shall throw, shall sprinkle (ESV, NIV | BHS וְ֠זָרְקוּ בְּנֵ֨י אַהֲרֹ֧ן אֶת־דָּמֹ֛ו עַל־הַמִּזְבֵּ֖חַ סָבִֽיב׃ , Lev. 3:13)
-shall burn (ESV, NIV | BHS וְהִקְטִירָם֙ הַכֹּהֵ֔ן עַ֖ל מִזְבַּ֥ח הָעֹלָֽה׃ , Lev. 4:10)
-shall take (ESV, NIV | BHS וְלָקַ֨ח הַכֹּהֵ֜ן מִדַּ֤ם הַֽחַטָּאת֙ בְּאֶצְבָּעֹ֔ו , Lev. 4:34)
-shall put on (ESV, NIV | BHS וְלָבַ֨שׁ הַכֹּהֵ֜ן מִדֹּ֣ו בַ֗ד , Lev. 6:3)
-shall pronounce unclean, he shall pronounce unclean (ESV, NIV | BHS וְטִמְּאֹ֥ו הַכֹּהֵ֖ן , Lev. 13:8)
-shall pronounce unclean (ESV, NIV | BHS וְטִמֵּ֧א הַכֹּהֵ֛ן אֹתֹ֖ו , Lev. 13:22)
-shall pronounce clean (ESV, NIV | BHS וְטִֽהֲרֹו֙ הַכֹּהֵ֔ן , Lev. 13:28)
-shall command, shall order (ESV, NIV | BHS וְצִוָּה֙ הַכֹּהֵ֔ן , Lev. 14:4)
-shall make atonement, make atonement (ESV, NIV | BHS וְכִפֶּ֥ר עָלָ֛יו הַכֹּהֵ֖ן לִפְנֵ֥י יְהוָֽה׃ , Lev. 14:18)
-shall go out (ESV, NIV | BHS וְיָצָ֧א הַכֹּהֵ֛ן מִן־הַבַּ֖יִת אֶל־פֶּ֣תַח הַבָּ֑יִת , Lev. 14:38)
-shall bring near, shall bring (ESV, NIV | BHS וְהִקְרִ֥יב אֹתָ֖הּ הַכֹּהֵ֑ן , Num. 5:16)
-shall offer, shall present (ESV, NIV | BHS וְהִקְרִ֛יב , Num. 15:4)
-shall send (ESV, NIV | BHS וְשָֽׁלְחוּ֙ זִקְנֵ֣י עִירֹ֔ו , Deut. 19:12)
-shall take (ESV, NIV | BHS וְלָֽקְח֡וּ זִקְנֵי֩ הָעִ֨יר הַהִ֜וא עֶגְלַ֣ת בָּקָ֗ר , Deut. 21:3)
-shall take (ESV, NIV | BHS וְלָֽקְח֛וּ זִקְנֵ֥י הָֽעִיר־הַהִ֖וא אֶת־הָאִ֑ישׁ , Deut. 22:18)
-shall cause to lie down, shall make lie down (ESV, NIV | BHS וְהִפִּילֹ֤ו הַשֹּׁפֵט֙ , Deut. 25:2)
-shall be called, shall be known (ESV, NIV | BHS וְנִקְרָ֥א שְׁמֹ֖ו בְּיִשְׂרָאֵ֑ל , Deut. 25:10)
-shall say (ESV, NIV | BHS וְאָמַ֥ר כָּל־הָעָ֖ם , Deut. 27:16)
-shall say (ESV, NIV | BHS וְאָמַ֥ר כָּל־הָעָ֖ם , Deut. 27:20)
-shall say (ESV, NIV | BHS וְאָמַ֥ר כָּל־הָעָ֖ם , Deut. 27:24)
-shall become (ESV, NIV | BHS וְהָיָ֤ה הֶֽעָקֹב֙ לְמִישֹׁ֔ור , Isa. 40:4)
+(x)	וְ_הָיִ֤יתָ_ קָרֹוב֙ אֵלַ֔י אַתָּ֕ה וּבָנֶ֖יךָ וּבְנֵ֣י בָנֶ֑יךָ וְצֹאנְךָ֥ וּבְקָרְךָ֖ וְכָל־אֲשֶׁר־לָֽךְ׃ (Gen. 45:10)
+NIV	You shall live in the region of Goshen and _be_ near me — you, your children and grandchildren, your flocks and herds, and all you have.
+ESV	You shall dwell in the land of Goshen, and _you shall be_ near me, you and your children and your children’s children, and your flocks, your herds, and all that you have.
+
+(x)	וְ_כִפֶּ֤ר_ אַהֲרֹן֙ עַל־קַרְנֹתָ֔יו אַחַ֖ת בַּשָּׁנָ֑ה מִדַּ֞ם חַטַּ֣את הַכִּפֻּרִ֗ים (Exod. 30:10)
+NIV	Once a year Aaron _shall make atonement_ on its horns. This annual atonement must be made with the blood of the atoning sin offering for the generations to come. It is most holy to the LORD.”
+ESV	Aaron _shall make atonement_ on its horns once a year. With the blood of the sin offering of atonement he _shall make atonement_ for it once in the year throughout your generations. It is most holy to the Lord.”
+
+(x)	וְ_הִקְרִיבֹ֤ו_ הַכֹּהֵן֙ אֶל־הַמִּזְבֵּ֔חַ (Lev. 1:15)
+NIV	The priest _shall bring_ it to the altar, wring off the head and burn it on the altar. its blood shall be drained out on the side of the altar.
+ESV	And the priest _shall bring_ it to the altar and wring off its head and burn it on the altar. Its blood shall be drained out on the side of the altar.
+
+(x)	וְ_הֵרִ֨ים_ הַכֹּהֵ֤ן מִן־הַמִּנְחָה֙ אֶת־אַזְכָּ֣רָתָ֔הּ אִשֵּׁ֛ה רֵ֥יחַ נִיחֹ֖חַ לַיהוָֽה׃ (Lev. 2:9)
+NIV	_He shall take out_ the memorial portion from the grain offering and burn it on the altar as an offering made by fire, an aroma pleasing to the LORD.
+ESV	And the priest _shall take_ from the grain offering its memorial portion and burn this on the altar, a food offering with a pleasing aroma to the Lord.
+
+(x)	וְ֠_זָרְקוּ_ בְּנֵ֨י אַהֲרֹ֧ן אֶת־דָּמֹ֛ו עַל־הַמִּזְבֵּ֖חַ סָבִֽיב׃ (Lev. 3:13)
+NIV	He is to lay his hand on its head and slaughter it in front of the Tent of Meeting. Then Aaron’s sons _shall sprinkle_ its blood against the altar on all sides.
+ESV	and lay his hand on its head and kill it in front of the tent of meeting, and the sons of Aaron _shall throw_ its blood against the sides of the altar.
+
+(x)	וְ_הִקְטִירָם֙_ הַכֹּהֵ֔ן עַ֖ל מִזְבַּ֥ח הָעֹלָֽה׃ וְאֶת־עֹ֤ור הַפָּר֙ וְאֶת־כָּל־בְּשָׂרֹ֔ו עַל־רֹאשֹׁ֖ו וְעַל־כְּרָעָ֑יו וְקִרְבֹּ֖ו וּפִרְשֹֽׁו׃ (Lev. 4:10)
+NIV	just as the fat is removed from the ox sacrificed as a fellowship offering. Then the priest _shall burn_ them on the altar of burnt offering.
+ESV	( just as these are taken from the ox of the sacrifice of the peace offerings ). and the priest _shall burn_ them on the altar of burnt offering.
+
+(x)	וְ_לָקַ֨ח_ הַכֹּהֵ֜ן מִדַּ֤ם הַֽחַטָּאת֙ בְּאֶצְבָּעֹ֔ו (Lev. 4:34)
+NIV	Then the priest _shall take_ some of the blood of the sin offering with his finger and put it on the horns of the altar of burnt offering and pour out the rest of the blood at the base of the altar.
+ESV	Then the priest _shall take_ some of the blood of the sin offering with his finger and put it on the horns of the altar of burnt offering and pour out all the rest of its blood at the base of the altar.
+
+(x)	וְ_לָבַ֨שׁ_ הַכֹּהֵ֜ן מִדֹּ֣ו בַ֗ד (Lev. 6:3)
+NIV	The priest shall then put on his linen clothes, with linen undergarments next to his body, and shall remove the ashes of the burnt offering that the fire has consumed on the altar and place them beside the altar.
+ESV	And the priest _shall put on_ his linen garment and put his linen undergarment on his body, and he shall take up the ashes to which the fire has reduced the burnt offering on the altar and put them beside the altar.
+
+(x)	וְ_טִמְּאֹ֥ו_ הַכֹּהֵ֖ן (Lev. 13:8)
+NIV	The priest is to examine him, and if the rash has spread in the skin, he shall pronounce him unclean. it is an infectious disease.
+ESV	And the priest shall look, and if the eruption has spread in the skin, then the priest shall pronounce him unclean. it is a leprous disease.
+
+(x)	וְ_טִמֵּ֧א_ הַכֹּהֵ֛ן אֹתֹ֖ו (Lev. 13:22)
+NIV	If it is spreading in the skin, the priest shall pronounce him unclean. it is infectious.
+ESV	And if it spreads in the skin, then the priest shall pronounce him unclean. it is a disease.
+
+(x)	וְ_טִֽהֲרֹו֙_ הַכֹּהֵ֔ן (Lev. 13:28)
+NIV	If, however, the spot is unchanged and has not spread in the skin but has faded, it is a swelling from the burn, and the priest shall pronounce him clean. it is only a scar from the burn.
+ESV	But if the spot remains in one place and does not spread in the skin, but has faded, it is a swelling from the burn, and the priest shall pronounce him clean, for it is the scar of the burn.
+
+(x)	וְ_צִוָּה֙_ הַכֹּהֵ֔ן (Lev. 14:4)
+NIV	the priest _shall order_ that two live clean birds and some cedar wood, scarlet yarn and hyssop be brought for the one to be cleansed.
+ESV	the priest _shall command_ them to take for him who is to be cleansed two live clean birds and cedarwood and scarlet yarn and hyssop.
+
+(x)	וְ_כִפֶּ֥ר_ עָלָ֛יו הַכֹּהֵ֖ן לִפְנֵ֥י יְהוָֽה׃ (Lev. 14:18)
+NIV	The rest of the oil in his palm the priest shall put on the head of the one to be cleansed and _make atonement_ for him before the LORD.
+ESV	And the rest of the oil that is in the priest’s hand he shall put on the head of him who is to be cleansed. Then the priest _shall make atonement_ for him before the Lord.
+
+(x)	וְ_יָצָ֧א_ הַכֹּהֵ֛ן מִן־הַבַּ֖יִת אֶל־פֶּ֣תַח הַבָּ֑יִת (Lev. 14:38)
+NIV	the priest _shall go out_ the doorway of the house and close it up for seven days.
+ESV	then the priest _shall go out_ of the house to the door of the house and shut up the house seven days.
+
+(x)	וְ_הִקְרִ֥יב_ אֹתָ֖הּ הַכֹּהֵ֑ן (Num. 5:16)
+NIV	“‘The priest _shall bring_ her and have her stand before the LORD.
+ESV	“And the priest shall bring her near and set her before the Lord.
+
+(x)	וְ_הִקְרִ֛יב_ הַמַּקְרִ֥יב קָרְבָּנֹ֖ו לַֽיהוָ֑ה מִנְחָה֙ סֹ֣לֶת עִשָּׂרֹ֔ון בָּל֕וּל בִּרְבִעִ֥ית הַהִ֖ין שָֽׁמֶן׃ (Num. 15:4)
+NIV	then the one who brings his offering _shall present_ to the LORD a grain offering of a tenth of an ephah of fine flour mixed with a quarter of a hin of oil.
+ESV	then he who brings his offering _shall offer_ to the Lord a grain offering of a tenth of an ephah of fine flour, mixed with a quarter of a hin of oil.
+
+(x)	וְ_שָֽׁלְחוּ֙_ זִקְנֵ֣י עִירֹ֔ו (Deut. 19:12)
+NIV	the elders of his town _shall send_ for him, bring him back from the city, and hand him over to the avenger of blood to die.
+ESV	then the elders of his city _shall send_ and take him from there, and hand him over to the avenger of blood, so that he may die.
+
+(x)	הָעִ֔יר הַקְּרֹבָ֖ה אֶל־הֶחָלָ֑ל וְ_לָֽקְח֡וּ_ זִקְנֵי֩ הָעִ֨יר הַהִ֜וא עֶגְלַ֣ת בָּקָ֗ר אֲשֶׁ֤ר לֹֽא־עֻבַּד֙ בָּ֔הּ אֲשֶׁ֥ר לֹא־מָשְׁכָ֖ה בְּעֹֽל׃ (Deut. 21:3)
+NIV	Then the elders of the town nearest the body _shall take_ a heifer that has never been worked and has never worn a yoke
+ESV	And the elders of the city that is nearest to the slain man _shall take_ a heifer that has never been worked and that has not pulled in a yoke.
+
+(x)	וְ_לָֽקְח֛וּ_ זִקְנֵ֥י הָֽעִיר־הַהִ֖וא אֶת־הָאִ֑ישׁ (Deut. 22:18)
+NIV	and the elders _shall take_ the man and punish him.
+ESV	Then the elders of that city _shall take_ the man and whip him,
+
+(x)	וְ_הִפִּילֹ֤ו_ הַשֹּׁפֵט֙ (Deut. 25:2)
+NIV	If the guilty man deserves to be beaten, the judge shall make him lie down and have him flogged in his presence with the number of lashes his crime deserves,
+ESV	then if the guilty man deserves to be beaten, the judge shall cause him to lie down and be beaten in his presence with a number of stripes in proportion to his offense.
+
+(x)	וְ_נִקְרָ֥א_ שְׁמֹ֖ו בְּיִשְׂרָאֵ֑ל בֵּ֖ית חֲל֥וּץ הַנָּֽעַל׃ ס (Deut. 25:10)
+NIV	That man’s line _shall be known_ in Israel as The Family of the Unsandalled.
+ESV	And the name of his house _shall be called_ in Israel, ‘The house of him who had his sandal pulled off.’
+
+(x)	וְ_אָמַ֥ר_ כָּל־הָעָ֖ם (Deut. 27:16)
+NIV	“Cursed is the man who dishonours his father or his mother.” Then all the people _shall say_, “Amen!”
+ESV	“‘Cursed be anyone who dishonors his father or his mother.’ And all the people _shall say_, ‘Amen.’
+
+(x)	וְ_אָמַ֥ר_ כָּל־הָעָ֖ם (Deut. 27:20)
+NIV	“Cursed is the man who sleeps with his father’s wife, for he dishonours his father’s bed.” Then all the people _shall say_, “Amen!”
+ESV	“‘Cursed be anyone who lies with his father’s wife, because he has uncovered his father’s nakedness.’ And all the people _shall say_, ‘Amen.’
+
+(x)	וְ_אָמַ֥ר_ כָּל־הָעָ֖ם (Deut. 27:24)
+NIV	“Cursed is the man who kills his neighbour secretly.” Then all the people _shall say_, “Amen!”
+ESV	“‘Cursed be anyone who strikes down his neighbor in secret.’ And all the people _shall say_, ‘Amen.’
+
+(x)	וְ_הָיָ֤ה_ הֶֽעָקֹב֙ לְמִישֹׁ֔ור וְהָרְכָסִ֖ים לְבִקְעָֽה׃ (Isa. 40:4)
+NIV	Every valley shall be raised up, every mountain and hill made low. the rough ground _shall become_ level, the rugged places a plain.
+ESV	Every valley shall be lifted up, and every mountain and hill be made low. the uneven ground _shall become_ level, and the rough places a plain.

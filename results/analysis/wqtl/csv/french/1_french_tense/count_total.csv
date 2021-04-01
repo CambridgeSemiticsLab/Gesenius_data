@@ -1,0 +1,40 @@
+eng_TAMsimp,TOTAL,imparfait,passé_comp,passé_simp
+PAST,116,42,27,47
+PAST ~ PRES,41,37,4,0
+PRES,33,3,22,8
+MOD would ~ PAST,19,19,0,0
+FUT,19,7,12,0
+FUT ~ MOD shall,17,7,6,4
+MOD would,15,14,0,1
+PRES PERF,11,0,11,0
+PAST ~ PRES PART,10,6,2,2
+PAST ~ PRES PERF,6,0,6,0
+FUT ~ PRES,6,2,4,0
+PAST ~ PAST PROG,5,4,0,1
+PRES ~ PRES PART,4,2,2,0
+HAB used to ~ PAST,3,3,0,0
+HAB used to ~ MOD would,3,3,0,0
+HAB used to,3,2,0,1
+MOD is to ~ MOD shall,3,0,0,3
+FUT ~ MOD lest,2,2,0,0
+PAST ~ TO INF,2,0,0,2
+IMPV ~ MOD would,2,2,0,0
+PRES PART,2,1,0,1
+FUT ~ MOD may,1,0,1,0
+IMPV ~ PRES,1,0,0,1
+FUT ~ MOD can,1,0,1,0
+HAB used to ~ PAST PROG,1,1,0,0
+IMPV,1,0,0,1
+TO INF,1,1,0,0
+MOD may,1,1,0,0
+MOD may ~ PRES,1,1,0,0
+MOD shall,1,0,0,1
+MOD should,1,1,0,0
+MOD should ~ PRES,1,1,0,0
+PRES ~ PRES PERF,1,0,1,0
+MOD was to ~ PAST,1,1,0,0
+MOD would ~ PRES PART,1,1,0,0
+MOD ~ MOD would,1,1,0,0
+PAST ~ PAST PERF,1,0,0,1
+PRES PERF ~ TO INF,1,0,1,0
+MOD was to,1,1,0,0

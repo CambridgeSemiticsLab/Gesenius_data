@@ -1,27 +1,101 @@
 eng_TAMsimp == "IMPV ~ MOD shall" and has_time == 1 
 25 of 48
-you shall let remain, do leave (ESV, NIV | BHS וְלֹא־תֹותִ֥ירוּ מִמֶּ֖נּוּ עַד־בֹּ֑קֶר , Exod. 12:10)
-shall hold, hold (ESV, NIV | BHS וּבַיֹּום֙ הַשְּׁבִיעִ֔י מִקְרָא־קֹ֖דֶשׁ יִהְיֶ֣ה לָכֶ֑ם , Exod. 12:16)
-shall be eaten, eat (ESV, NIV | BHS מַצֹּות֙ יֵֽאָכֵ֔ל אֵ֖ת שִׁבְעַ֣ת הַיָּמִ֑ים , Exod. 13:7)
-you shall do, do (ESV, NIV | BHS שֵׁ֤שֶׁת יָמִים֙ תַּעֲשֶׂ֣ה מַעֲשֶׂ֔יךָ , Exod. 23:12)
-you shall eat, eat (ESV, NIV | BHS שִׁבְעַ֣ת יָמִים֩ תֹּאכַ֨ל מַצֹּ֜ות , Exod. 23:15)
-you shall make atonement, make atonement (ESV, NIV | BHS שִׁבְעַ֣ת יָמִ֗ים תְּכַפֵּר֙ עַל־הַמִּזְבֵּ֔חַ , Exod. 29:37)
-you shall offer, sacrifice (ESV, NIV | BHS וְאֵת֙ הַכֶּ֣בֶשׂ הַשֵּׁנִ֔י תַּעֲשֶׂ֖ה בֵּ֣ין הָעַרְבָּ֑יִם , Exod. 29:41)
-you shall kindle, do light (ESV, NIV | BHS לֹא־תְבַעֲר֣וּ אֵ֔שׁ בְּכֹ֖ל מֹשְׁבֹֽתֵיכֶ֑ם בְּיֹ֖ום הַשַּׁבָּֽת׃ פ , Exod. 35:3)
-give (ESV, NIV | BHS יִתְּנֶ֖נּוּ בְּיֹ֥ום , Lev. 5:24)
-shall remain all night, do hold back overnight (ESV, NIV | BHS לֹֽא־תָלִ֞ין פְּעֻלַּ֥ת שָׂכִ֛יר אִתְּךָ֖ עַד־בֹּֽקֶר׃ , Lev. 19:13)
-you shall leave, leave (ESV, NIV | BHS לֹֽא־תֹותִ֥ירוּ מִמֶּ֖נּוּ עַד־בֹּ֑קֶר , Lev. 22:30)
-you shall do, do (ESV, NIV | BHS וְכָל־מְלָאכָה֙ לֹ֣א תַעֲשׂ֔וּ בְּעֶ֖צֶם הַיֹּ֣ום הַזֶּ֑ה , Lev. 23:28)
-you shall celebrate, celebrate (ESV, NIV | BHS בַּחֹ֥דֶשׁ הַשְּׁבִיעִ֖י תָּחֹ֥גּוּ אֹתֹֽו׃ , Lev. 23:41)
-you shall sow, sow (ESV, NIV | BHS שֵׁ֤שׁ שָׁנִים֙ תִּזְרַ֣ע שָׂדֶ֔ךָ , Lev. 25:3)
-you shall sound, sound (ESV, NIV | BHS בְּיֹום֙ הַכִּפֻּרִ֔ים תַּעֲבִ֥ירוּ שֹׁופָ֖ר בְּכָל־אַרְצְכֶֽם׃ , Lev. 25:9)
-you shall offer, prepare (ESV, NIV | BHS אֶת־הַכֶּ֥בֶשׂ אֶחָ֖ד תַּעֲשֶׂ֣ה בַבֹּ֑קֶר , Num. 28:4)
-shall be eaten, eat (ESV, NIV | BHS שִׁבְעַ֣ת יָמִ֔ים מַצֹּ֖ות יֵאָכֵֽל׃ , Num. 28:17)
-shall have, hold (ESV, NIV | BHS וּבַחֹ֨דֶשׁ הַשְּׁבִיעִ֜י בְּאֶחָ֣ד לַחֹ֗דֶשׁ מִֽקְרָא־קֹ֨דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם , Num. 29:1)
-shall have, hold (ESV, NIV | BHS בַּיֹּום֙ הַשְּׁמִינִ֔י עֲצֶ֖רֶת תִּהְיֶ֣ה לָכֶ֑ם , Num. 29:35)
-you shall eat, eat (ESV, NIV | BHS שִׁבְעַ֥ת יָמִ֛ים תֹּֽאכַל־עָלָ֥יו מַצֹּ֖ות לֶ֣חֶם עֹ֑נִי , Deut. 16:3)
-you shall keep, celebrate (ESV, NIV | BHS חַ֧ג הַסֻּכֹּ֛ת תַּעֲשֶׂ֥ה לְךָ֖ שִׁבְעַ֣ת יָמִ֑ים , Deut. 16:13)
-you shall bury, be sure to bury (ESV, NIV | BHS כִּֽי־קָבֹ֤ור תִּקְבְּרֶ֨נּוּ֙ בַּיֹּ֣ום הַה֔וּא , Deut. 21:23)
-you shall give, pay (ESV, NIV | BHS בְּיֹומֹו֩ תִתֵּ֨ן שְׂכָרֹ֜ו , Deut. 24:15)
-shall go out, do say (ESV, NIV | BHS וְלֹא־יֵצֵ֥א מִפִּיכֶ֖ם דָּבָ֑ר עַ֠ד יֹ֣ום , Josh. 6:10)
-shall go out, go out (ESV, NIV | BHS וְאַתָּ֗ה תֵּצֵ֤א בָעֶ֨רֶב֙ לְעֵ֣ינֵיהֶ֔ם כְּמֹוצָאֵ֖י גֹּולָֽה׃ , Ezek. 12:4)
+(x)	וְלֹא־_תֹותִ֥ירוּ_ מִמֶּ֖נּוּ עַד־בֹּ֑קֶר (Exod. 12:10)
+NIV	Do not leave any of it till morning. if some is left till morning, you must burn it.
+ESV	And you shall let none of it remain until the morning. anything that remains until the morning you shall burn.
+
+(x)	וּבַיֹּ֤ום הָרִאשֹׁון֙ מִקְרָא־קֹ֔דֶשׁ וּבַיֹּום֙ הַשְּׁבִיעִ֔י מִקְרָא־קֹ֖דֶשׁ _יִהְיֶ֣ה_ לָכֶ֑ם (Exod. 12:16)
+NIV	On the first day _hold_ a sacred assembly, and another one on the seventh day. Do no work at all on these days, except to prepare food for everyone to eat — that is all you may do.
+ESV	On the first day you _shall hold_ a holy assembly, and on the seventh day a holy assembly. No work shall be done on those days. But what everyone needs to eat, that alone may be prepared by you.
+
+(x)	מַצֹּות֙ _יֵֽאָכֵ֔ל_ אֵ֖ת שִׁבְעַ֣ת הַיָּמִ֑ים (Exod. 13:7)
+NIV	_Eat_ unleavened bread during those seven days. nothing with yeast in it is to be seen among you, nor shall any yeast be seen anywhere within your borders.
+ESV	Unleavened bread _shall be eaten_ for seven days. no leavened bread shall be seen with you, and no leaven shall be seen with you in all your territory.
+
+(x)	שֵׁ֤שֶׁת יָמִים֙ _תַּעֲשֶׂ֣ה_ מַעֲשֶׂ֔יךָ (Exod. 23:12)
+NIV	“Six days _do_ your work, but on the seventh day _do_ not work, so that your ox and your _do_nkey may rest and the slave born in your household, and the alien as well, may be refreshed.
+ESV	“Six days _you shall do_ your work, but on the seventh day you shall rest. that your ox and your donkey may have rest, and the son of your servant woman, and the alien, may be refreshed.
+
+(x)	שִׁבְעַ֣ת יָמִים֩ _תֹּאכַ֨ל_ מַצֹּ֜ות כַּֽאֲשֶׁ֣ר צִוִּיתִ֗ךָ לְמֹועֵד֙ חֹ֣דֶשׁ הָֽאָבִ֔יב (Exod. 23:15)
+NIV	“Celebrate the Feast of Unleavened Bread. for seven days _eat_ bread made without yeast, as I commanded you. Do this at the appointed time in the month of Abib, for in that month you came out of Egypt. “No one is to appear before me empty-handed.
+ESV	You shall keep the Feast of Unleavened Bread. As I commanded you, _you shall eat_ unleavened bread for seven days at the appointed time in the month of Abib, for in it you came out of Egypt. None shall appear before me empty-handed.
+
+(x)	שִׁבְעַ֣ת יָמִ֗ים _תְּכַפֵּר֙_ עַל־הַמִּזְבֵּ֔חַ (Exod. 29:37)
+NIV	For seven days _make atonement_ for the altar and consecrate it. Then the altar will be most holy, and whatever touches it will be holy.
+ESV	Seven days _you shall make atonement_ for the altar and consecrate it, and the altar shall be most holy. Whatever touches the altar shall become holy.
+
+(x)	וְאֵת֙ הַכֶּ֣בֶשׂ הַשֵּׁנִ֔י _תַּעֲשֶׂ֖ה_ בֵּ֣ין הָעַרְבָּ֑יִם (Exod. 29:41)
+NIV	_Sacrifice_ the other lamb at twilight with the same grain offering and its drink offering as in the morning — a pleasing aroma, an offering made to the LORD by fire.
+ESV	The other lamb _you shall offer_ at twilight, and shall offer with it a grain offering and its drink offering, as in the morning, for a pleasing aroma, a food offering to the Lord.
+
+(x)	לֹא־_תְבַעֲר֣וּ_ אֵ֔שׁ בְּכֹ֖ל מֹשְׁבֹֽתֵיכֶ֑ם בְּיֹ֖ום הַשַּׁבָּֽת׃ פ (Exod. 35:3)
+NIV	Do not light a fire in any of your dwellings on the Sabbath day.”
+ESV	_You shall kindle_ no fire in all your dwelling places on the Sabbath day.”
+
+(x)	לַאֲשֶׁ֨ר ה֥וּא לֹ֛ו _יִתְּנֶ֖נּוּ_ בְּיֹ֥ום אַשְׁמָתֹֽו׃ (Lev. 5:24)
+NIV	or whatever it was he swore falsely about. He must make restitution in full, add a fifth of the value to it and _give_ it all to the owner on the day he presents his guilt offering.
+ESV	or anything about which he has sworn falsely, he shall restore it in full and shall add a fifth to it, and _give_ it to him to whom it belongs on the day he realizes his guilt.
+
+(x)	לֹֽא־_תָלִ֞ין_ פְּעֻלַּ֥ת שָׂכִ֛יר אִתְּךָ֖ עַד־בֹּֽקֶר׃ (Lev. 19:13)
+NIV	“‘Do not defraud your neighbor or rob him. “‘Do not hold back the wages of a hired man overnight.
+ESV	“You shall not oppress your neighbor or rob him. The wages of a hired servant shall not remain with you all night until the morning.
+
+(x)	לֹֽא־_תֹותִ֥ירוּ_ מִמֶּ֖נּוּ עַד־בֹּ֑קֶר (Lev. 22:30)
+NIV	It must be eaten that same day. _leave_ none of it till morning. I am the LORD.
+ESV	It shall be eaten on the same day. _you shall leave_ none of it until morning: I am the Lord.
+
+(x)	וְכָל־מְלָאכָה֙ לֹ֣א _תַעֲשׂ֔וּ_ בְּעֶ֖צֶם הַיֹּ֣ום הַזֶּ֑ה (Lev. 23:28)
+NIV	_Do_ no work on that day, because it is the Day of Atonement, when atonement is made for you before the LORD your God.
+ESV	And you shall not do any work on that very day, for it is a Day of Atonement, to make atonement for you before the Lord your God.
+
+(x)	בַּחֹ֥דֶשׁ הַשְּׁבִיעִ֖י _תָּחֹ֥גּוּ_ אֹתֹֽו׃ (Lev. 23:41)
+NIV	Celebrate this as a festival to the LORD for seven days each year. This is to be a lasting ordinance for the generations to come. _celebrate_ it in the seventh month.
+ESV	You shall celebrate it as a feast to the Lord for seven days in the year. It is a statute forever throughout your generations. _you shall celebrate_ it in the seventh month.
+
+(x)	שֵׁ֤שׁ שָׁנִים֙ _תִּזְרַ֣ע_ שָׂדֶ֔ךָ (Lev. 25:3)
+NIV	For six years _sow_ your fields, and for six years prune your vineyards and gather their crops.
+ESV	For six years _you shall sow_ your field, and for six years you shall prune your vineyard and gather in its fruits,
+
+(x)	בְּיֹום֙ הַכִּפֻּרִ֔ים _תַּעֲבִ֥ירוּ_ שֹׁופָ֖ר בְּכָל־אַרְצְכֶֽם׃ (Lev. 25:9)
+NIV	Then have the trumpet _sound_ed everywhere on the tenth day of the seventh month. on the Day of Atonement _sound_ the trumpet throughout your land.
+ESV	Then _you shall sound_ the loud trumpet on the tenth day of the seventh month. On the Day of Atonement _you shall sound_ the trumpet throughout all your land.
+
+(x)	אֶת־הַכֶּ֥בֶשׂ אֶחָ֖ד _תַּעֲשֶׂ֣ה_ בַבֹּ֑קֶר וַעֲשִׂירִ֧ית הָאֵיפָ֛ה סֹ֖לֶת לְמִנְחָ֑ה בְּלוּלָ֛ה בְּשֶׁ֥מֶן כָּתִ֖ית רְבִיעִ֥ת הַהִֽין׃ (Num. 28:4)
+NIV	_Prepare_ one lamb in the morning and the other at twilight,
+ESV	The one lamb _you shall offer_ in the morning, and the other lamb _you shall offer_ at twilight.
+
+(x)	שִׁבְעַ֣ת יָמִ֔ים מַצֹּ֖ות _יֵאָכֵֽל_׃ (Num. 28:17)
+NIV	On the fifteenth day of this month there is to be a festival. for seven days _eat_ bread made without yeast.
+ESV	and on the fifteenth day of this month is a feast. Seven days shall unleavened bread be eaten.
+
+(x)	וּבַחֹ֨דֶשׁ הַשְּׁבִיעִ֜י בְּאֶחָ֣ד לַחֹ֗דֶשׁ מִֽקְרָא־קֹ֨דֶשׁ֙ _יִהְיֶ֣ה_ לָכֶ֔ם (Num. 29:1)
+NIV	“‘On the first day of the seventh month _hold_ a sacred assembly and do no regular work. It is a day for you to sound the trumpets.
+ESV	“On the first day of the seventh month you _shall have_ a holy convocation. You shall not do any ordinary work. It is a day for you to blow the trumpets,
+
+(x)	בַּיֹּום֙ הַשְּׁמִינִ֔י עֲצֶ֖רֶת _תִּהְיֶ֣ה_ לָכֶ֑ם (Num. 29:35)
+NIV	“‘On the eighth day _hold_ an assembly and do no regular work.
+ESV	“On the eighth day you _shall have_ a solemn assembly. You shall not do any ordinary work,
+
+(x)	שִׁבְעַ֥ת יָמִ֛ים _תֹּֽאכַל_־עָלָ֥יו מַצֹּ֖ות לֶ֣חֶם עֹ֑נִי (Deut. 16:3)
+NIV	Do not _eat_ it with bread made with yeast, but for seven days _eat_ unleavened bread, the bread of affliction, because you left Egypt in haste — so that all the days of your life you may remember the time of your departure from Egypt.
+ESV	You shall eat no leavened bread with it. Seven days _you shall eat_ it with unleavened bread, the bread of affliction — for you came out of the land of Egypt in haste — that all the days of your life you may remember the day when you came out of the land of Egypt.
+
+(x)	חַ֧ג הַסֻּכֹּ֛ת _תַּעֲשֶׂ֥ה_ לְךָ֖ שִׁבְעַ֣ת יָמִ֑ים בְּאָ֨סְפְּךָ֔ מִֽגָּרְנְךָ֖ וּמִיִּקְבֶֽךָ׃ (Deut. 16:13)
+NIV	_Celebrate_ the Feast of Tabernacles for seven days after you have gathered the produce of your threshing-floor and your winepress.
+ESV	“_You shall keep_ the Feast of Booths seven days, when you have gathered in the produce from your threshing floor and your winepress.
+
+(x)	כִּֽי־קָבֹ֤ור _תִּקְבְּרֶ֨נּוּ֙_ בַּיֹּ֣ום הַה֔וּא (Deut. 21:23)
+NIV	you must not leave his body on the tree overnight. _Be sure to bury_ him that same day, because anyone who is hung on a tree is under God’s curse. You must not desecrate the land the LORD your God is giving you as an inheritance.
+ESV	his body shall not remain all night on the tree, but _you shall bury_ him the same day, for a hanged man is cursed by God. You shall not defile your land that the Lord your God is giving you for an inheritance.
+
+(x)	בְּיֹומֹו֩ _תִתֵּ֨ן_ שְׂכָרֹ֜ו (Deut. 24:15)
+NIV	_Pay_ him his wages each day before sunset, because he is poor and is counting on it. Otherwise he may cry to the LORD against you, and you will be guilty of sin.
+ESV	_You shall give_ him his wages on the same day, before the sun sets ( for he is poor and counts on it ), lest he cry against you to the Lord, and you be guilty of sin.
+
+(x)	וְלֹא־_יֵצֵ֥א_ מִפִּיכֶ֖ם דָּבָ֑ר עַ֠ד יֹ֣ום אָמְרִ֧י אֲלֵיכֶ֛ם (Josh. 6:10)
+NIV	But Joshua had commanded the people, “Do not give a war cry, do not raise your voices, do not say a word until the day I tell you to shout. Then shout!”
+ESV	But Joshua commanded the people, “You shall not shout or make your voice heard, neither shall any word go out of your mouth, until the day I tell you to shout. Then you shall shout.”
+
+(x)	וְאַתָּ֗ה _תֵּצֵ֤א_ בָעֶ֨רֶב֙ לְעֵ֣ינֵיהֶ֔ם כְּמֹוצָאֵ֖י גֹּולָֽה׃ (Ezek. 12:4)
+NIV	During the daytime, while they watch, bring out your belongings packed for exile. Then in the evening, while they are watching, _go out_ like those who go into exile.
+ESV	You shall bring out your baggage by day in their sight, as baggage for exile, and you _shall go out_ yourself at evening in their sight, as those do who must go into exile.

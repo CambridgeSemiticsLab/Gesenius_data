@@ -1,135 +1,135 @@
-eng_TAMsimp,wqtl,yqtl,Ø,qtl,impv,ptcp,wayq,infc,jussM,infa,jussF,cohoT,cohoM
-FUT,681,312,116,68,23,100,4,16,2,3,1,2,1
-FUT ~ MOD shall,592,253,73,48,10,67,2,5,2,4,2,1,0
-PRES,146,194,33,49,11,27,2,25,3,1,1,0,0
-IMPV ~ MOD shall,257,101,28,3,15,6,0,1,3,1,0,0,0
-IMPV,107,24,15,13,153,3,0,4,6,18,1,0,0
-MOD is to ~ MOD shall,191,72,22,11,7,2,0,0,1,2,0,0,0
-PAST,54,14,22,65,0,5,42,2,0,1,0,0,0
-MOD shall,150,29,21,1,2,2,0,0,0,0,0,0,0
-MOD must ~ MOD shall,56,41,48,6,0,1,0,0,1,0,0,0,0
-FUT ~ PRES,41,40,5,11,4,5,1,3,0,0,0,0,0
-MOD may,24,23,5,2,5,0,1,1,5,0,0,0,0
-PAST ~ PRES,44,4,3,8,0,0,5,0,0,0,0,0,0
-MOD shall ~ PRES,24,14,8,3,2,4,0,0,0,0,1,0,0
-FUT ~ MOD may,27,16,6,2,2,0,0,1,0,0,0,0,0
-PRES PERF,5,6,6,12,2,0,3,0,0,1,0,0,0
-MOD shall ~ TO INF,19,7,1,0,0,1,0,0,0,0,0,0,0
-PRES ~ PRES PART,11,8,1,2,0,3,1,1,0,0,0,0,0
-PRES ~ PRES PERF,2,12,4,7,0,1,0,0,0,0,0,0,0
-MOD would,13,5,1,2,0,1,3,0,0,0,0,0,0
-TO INF,7,14,0,0,3,0,0,0,0,0,1,0,0
-FUT ~ MOD lest,6,16,0,1,0,0,0,0,0,0,1,0,0
-MOD would ~ PAST,15,2,1,5,0,0,1,0,0,0,0,0,0
-MOD may ~ TO INF,11,10,0,1,0,1,0,0,0,0,0,0,0
-MOD may ~ PRES,8,9,1,0,0,0,2,0,1,0,0,0,0
-MOD let,5,2,3,1,1,1,0,0,3,1,1,3,0
-FUT ~ IMPV,13,2,1,0,1,2,0,0,0,0,0,0,0
-PRES ~ TO INF,8,8,3,0,0,0,0,0,0,0,0,0,0
-MOD may ~ MOD shall,7,6,4,0,1,0,0,0,0,0,0,0,0
-PAST ~ PRES PART,9,0,0,5,0,0,1,1,0,1,0,0,0
-FUT ~ TO INF,7,4,1,1,1,2,0,0,0,0,0,0,0
-MOD shall ~ PRES PART,11,4,1,0,0,0,0,0,0,0,0,0,0
-IMPV ~ PRES,8,4,0,2,1,0,0,0,0,0,0,0,0
-IMPV ~ MOD let,7,1,0,0,4,0,0,0,1,0,1,0,0
-PRES PART,7,2,1,3,0,0,1,0,0,0,0,0,0
-IMPV ~ TO INF,7,0,1,0,4,0,0,0,1,0,0,0,0
-PAST ~ PRES PERF,0,1,1,8,0,0,2,1,0,0,0,0,0
-FUT ~ MOD let,6,1,1,0,1,2,0,0,0,0,0,0,1
-FUT ~ PRES PART,7,3,0,1,0,1,0,0,0,0,0,0,0
-MOD can ~ MOD may,6,3,1,0,0,0,0,0,1,0,0,0,0
-FUT ~ MOD would,5,4,0,1,0,0,0,0,0,0,0,0,1
-MOD can ~ MOD shall,5,2,2,0,1,0,0,0,0,0,0,0,0
-MOD shall ~ PAST,7,1,0,1,0,0,0,0,0,0,0,0,0
-MOD let ~ MOD shall,3,3,1,0,1,0,0,0,1,0,0,0,0
-MOD is to ~ PRES,5,2,0,0,0,1,0,0,0,0,0,0,0
-MOD is to ~ MOD let,6,0,0,0,2,0,0,0,0,0,0,0,0
-MOD let ~ MOD may,4,1,0,1,0,1,0,0,1,0,0,0,0
-FUT ~ PAST,2,5,0,0,0,0,0,1,0,0,0,0,0
-MOD is to ~ PAST,5,2,0,0,0,0,0,0,0,0,0,0,0
-MOD lest ~ MOD may,3,4,0,0,0,0,0,0,0,0,0,0,0
-PAST ~ TO INF,2,1,1,2,0,0,1,0,0,0,0,0,0
-MOD lest ~ TO INF,4,3,0,0,0,0,0,0,0,0,0,0,0
-PAST ~ PAST PROG,1,1,4,0,0,0,1,0,0,0,0,0,0
-MOD shall ~ PRES PERF,3,0,0,2,0,1,0,0,0,0,0,0,0
-FUT ~ PRES PERF,1,0,0,3,1,1,0,0,0,0,0,0,0
-IMPV ~ MOD lest,3,2,0,0,0,0,0,0,0,0,0,0,0
-MOD shall ~ MOD would,2,3,0,0,0,0,0,0,0,0,0,0,0
-MOD may ~ MOD must,1,3,1,0,0,0,0,0,0,0,0,0,0
-MOD can,0,1,0,2,0,2,0,0,0,0,0,0,0
-MOD would ~ PRES,0,4,0,1,0,0,0,0,0,0,0,0,0
-IMPV ~ PAST,2,1,0,0,2,0,0,0,0,0,0,0,0
-MOD should ~ PRES,0,3,0,0,0,0,0,1,0,0,0,0,0
-HAB used to ~ PAST,0,1,1,1,0,0,1,0,0,0,0,0,0
-IMPV ~ MOD may,3,0,0,1,0,0,0,0,0,0,0,0,0
-IMPV ~ MOD must,1,0,2,0,0,1,0,0,0,0,0,0,0
-PAST PERF,0,0,0,3,0,0,1,0,0,0,0,0,0
-MOD shall ~ MOD should,2,1,1,0,0,0,0,0,0,0,0,0,0
-FUT ~ MOD can,2,1,0,0,0,0,0,0,1,0,0,0,0
-MOD let ~ TO INF,0,1,0,0,0,0,0,0,2,0,0,1,0
-FUT ~ FUT PERF,2,1,0,1,0,0,0,0,0,0,0,0,0
-MOD should,0,2,2,0,0,0,0,0,0,0,0,0,0
-MOD could ~ MOD may,1,1,1,0,0,0,0,0,0,0,0,0,0
-PAST ~ PAST PERF,0,0,0,1,0,0,2,0,0,0,0,0,0
-MOD can ~ PRES,1,2,0,0,0,0,0,0,0,0,0,0,0
-MOD should ~ TO INF,1,1,0,0,0,0,0,1,0,0,0,0,0
-IMPV ~ MOD would,3,0,0,0,0,0,0,0,0,0,0,0,0
-MOD VB ~ PRES,3,0,0,0,0,0,0,0,0,0,0,0,0
-MOD is to ~ TO INF,2,1,0,0,0,0,0,0,0,0,0,0,0
-HAB used to ~ MOD would,2,0,0,0,0,1,0,0,0,0,0,0,0
-HAB used to,0,1,0,0,0,1,1,0,0,0,0,0,0
-MOD was to,1,1,0,0,0,1,0,0,0,0,0,0,0
-FUT ~ FUT going-to,0,0,0,0,0,3,0,0,0,0,0,0,0
-IMPV ~ MOD is to,1,0,0,0,1,0,0,0,0,0,0,0,0
-MOD that be ~ TO INF,2,0,0,0,0,0,0,0,0,0,0,0,0
-MOD was to ~ PAST,1,0,1,0,0,0,0,0,0,0,0,0,0
-PRES ~ PRES PROG,1,0,1,0,0,0,0,0,0,0,0,0,0
-FUT ~ MOD must,0,1,1,0,0,0,0,0,0,0,0,0,0
-IMPV ~ PRES PART,2,0,0,0,0,0,0,0,0,0,0,0,0
-MOD would ~ PRES PART,2,0,0,0,0,0,0,0,0,0,0,0,0
-FUT going-to ~ MOD shall,1,0,1,0,0,0,0,0,0,0,0,0,0
-PRES PART ~ PRES PERF,0,0,0,2,0,0,0,0,0,0,0,0,0
-MOD may ~ PRES PART,2,0,0,0,0,0,0,0,0,0,0,0,0
-MOD can ~ MOD let,2,0,0,0,0,0,0,0,0,0,0,0,0
-MOD lest ~ MOD might,1,1,0,0,0,0,0,0,0,0,0,0,0
-MOD may ~ MOD should,1,1,0,0,0,0,0,0,0,0,0,0,0
-MOD let ~ PRES,1,0,0,0,0,0,0,0,1,0,0,0,0
-MOD must ~ PRES,0,2,0,0,0,0,0,0,0,0,0,0,0
-MOD let ~ MOD must,1,0,0,0,0,0,0,0,1,0,0,0,0
-MOD lest ~ PRES PART,2,0,0,0,0,0,0,0,0,0,0,0,0
-MOD lest ~ MOD must,2,0,0,0,0,0,0,0,0,0,0,0,0
-MOD must ~ PRES PART,1,1,0,0,0,0,0,0,0,0,0,0,0
-MOD is to ~ MOD may,0,0,0,0,1,0,0,0,0,0,0,0,0
-MOD let ~ PRES PART,0,0,0,0,0,0,0,0,0,0,0,0,1
-MOD should ~ MOD would,0,1,0,0,0,0,0,0,0,0,0,0,0
-MOD let ~ MOD should,0,1,0,0,0,0,0,0,0,0,0,0,0
-MOD let ~ MOD would,1,0,0,0,0,0,0,0,0,0,0,0,0
-MOD can ~ TO INF,0,0,0,1,0,0,0,0,0,0,0,0,0
-MOD would ~ PRES PROG,0,0,1,0,0,0,0,0,0,0,0,0,0
-FUT ~ MOD is to,1,0,0,0,0,0,0,0,0,0,0,0,0
-FUT ~ MOD VB,0,1,0,0,0,0,0,0,0,0,0,0,0
-MOD ~ MOD would,1,0,0,0,0,0,0,0,0,0,0,0,0
-MOD would ~ TO INF,1,0,0,0,0,0,0,0,0,0,0,0,0
-MOD must,0,0,0,0,0,1,0,0,0,0,0,0,0
-FUT ~ FUT PROG,1,0,0,0,0,0,0,0,0,0,0,0,0
-MOD might ~ MOD would,0,1,0,0,0,0,0,0,0,0,0,0,0
-PAST PROG ~ TO INF,0,1,0,0,0,0,0,0,0,0,0,0,0
-FUT PROG,1,0,0,0,0,0,0,0,0,0,0,0,0
-FUT ~ MOD should,0,1,0,0,0,0,0,0,0,0,0,0,0
-FUT ~ MOD that be,0,0,0,0,0,0,0,0,1,0,0,0,0
-PAST PERF ~ PRES PART,0,0,0,1,0,0,0,0,0,0,0,0,0
-MOD could,0,1,0,0,0,0,0,0,0,0,0,0,0
-PRES PERF ~ TO INF,0,0,0,1,0,0,0,0,0,0,0,0,0
-MOD let ~ MOD might,1,0,0,0,0,0,0,0,0,0,0,0,0
-MOD might,0,1,0,0,0,0,0,0,0,0,0,0,0
-MOD quest must ~ MOD shall,0,1,0,0,0,0,0,0,0,0,0,0,0
-PRES ~ VB,1,0,0,0,0,0,0,0,0,0,0,0,0
-MOD could ~ MOD would,0,1,0,0,0,0,0,0,0,0,0,0,0
-MOD lest ~ PRES,0,1,0,0,0,0,0,0,0,0,0,0,0
-HAB used to ~ PAST PROG,0,0,0,1,0,0,0,0,0,0,0,0,0
-HAB used to ~ PRES PART,1,0,0,0,0,0,0,0,0,0,0,0,0
-MOD could ~ TO INF,0,1,0,0,0,0,0,0,0,0,0,0,0
-IMPV ~ MOD VB,1,0,0,0,0,0,0,0,0,0,0,0,0
-MOD is to ~ MOD lest,1,0,0,0,0,0,0,0,0,0,0,0,0
-MOD is to ~ PRES PART,1,0,0,0,0,0,0,0,0,0,0,0,0
-MOD VB ~ MOD can,0,1,0,0,0,0,0,0,0,0,0,0,0
+eng_TAMsimp,wqtl,yqtl,Ø,qtl,impv,ptcp,wayq,infc,infa,jussF,cohoF
+FUT,681,315,116,68,23,100,4,16,3,1,2
+FUT ~ MOD shall,592,255,73,48,10,67,2,5,4,2,1
+PRES,146,197,33,49,11,27,2,25,1,1,0
+IMPV ~ MOD shall,257,104,28,3,15,6,0,1,1,0,0
+IMPV,107,30,15,13,153,3,0,4,18,1,0
+MOD is to ~ MOD shall,191,73,22,11,7,2,0,0,2,0,0
+PAST,54,14,22,65,0,5,42,2,1,0,0
+MOD shall,150,29,21,1,2,2,0,0,0,0,0
+MOD must ~ MOD shall,56,42,48,6,0,1,0,0,0,0,0
+FUT ~ PRES,41,40,5,11,4,5,1,3,0,0,0
+MOD may,24,28,5,2,5,0,1,1,0,0,0
+PAST ~ PRES,44,4,3,8,0,0,5,0,0,0,0
+MOD shall ~ PRES,24,14,8,3,2,4,0,0,0,1,0
+FUT ~ MOD may,27,16,6,2,2,0,0,1,0,0,0
+PRES PERF,5,6,6,12,2,0,3,0,1,0,0
+MOD shall ~ TO INF,19,7,1,0,0,1,0,0,0,0,0
+PRES ~ PRES PART,11,8,1,2,0,3,1,1,0,0,0
+PRES ~ PRES PERF,2,12,4,7,0,1,0,0,0,0,0
+MOD would,13,5,1,2,0,1,3,0,0,0,0
+TO INF,7,14,0,0,3,0,0,0,0,1,0
+FUT ~ MOD lest,6,16,0,1,0,0,0,0,0,1,0
+MOD would ~ PAST,15,2,1,5,0,0,1,0,0,0,0
+MOD may ~ TO INF,11,10,0,1,0,1,0,0,0,0,0
+MOD may ~ PRES,8,10,1,0,0,0,2,0,0,0,0
+MOD let,5,5,3,1,1,1,0,0,1,1,3
+FUT ~ IMPV,13,2,1,0,1,2,0,0,0,0,0
+PRES ~ TO INF,8,8,3,0,0,0,0,0,0,0,0
+MOD may ~ MOD shall,7,6,4,0,1,0,0,0,0,0,0
+PAST ~ PRES PART,9,0,0,5,0,0,1,1,1,0,0
+FUT ~ TO INF,7,4,1,1,1,2,0,0,0,0,0
+MOD shall ~ PRES PART,11,4,1,0,0,0,0,0,0,0,0
+IMPV ~ PRES,8,4,0,2,1,0,0,0,0,0,0
+IMPV ~ MOD let,7,2,0,0,4,0,0,0,0,1,0
+PRES PART,7,2,1,3,0,0,1,0,0,0,0
+IMPV ~ TO INF,7,1,1,0,4,0,0,0,0,0,0
+PAST ~ PRES PERF,0,1,1,8,0,0,2,1,0,0,0
+FUT ~ MOD let,6,2,1,0,1,2,0,0,0,0,0
+FUT ~ PRES PART,7,3,0,1,0,1,0,0,0,0,0
+MOD can ~ MOD may,6,4,1,0,0,0,0,0,0,0,0
+FUT ~ MOD would,5,5,0,1,0,0,0,0,0,0,0
+MOD can ~ MOD shall,5,2,2,0,1,0,0,0,0,0,0
+MOD shall ~ PAST,7,1,0,1,0,0,0,0,0,0,0
+MOD let ~ MOD shall,3,4,1,0,1,0,0,0,0,0,0
+MOD is to ~ PRES,5,2,0,0,0,1,0,0,0,0,0
+MOD is to ~ MOD let,6,0,0,0,2,0,0,0,0,0,0
+MOD let ~ MOD may,4,2,0,1,0,1,0,0,0,0,0
+FUT ~ PAST,2,5,0,0,0,0,0,1,0,0,0
+MOD is to ~ PAST,5,2,0,0,0,0,0,0,0,0,0
+MOD lest ~ MOD may,3,4,0,0,0,0,0,0,0,0,0
+PAST ~ TO INF,2,1,1,2,0,0,1,0,0,0,0
+MOD lest ~ TO INF,4,3,0,0,0,0,0,0,0,0,0
+PAST ~ PAST PROG,1,1,4,0,0,0,1,0,0,0,0
+MOD shall ~ PRES PERF,3,0,0,2,0,1,0,0,0,0,0
+FUT ~ PRES PERF,1,0,0,3,1,1,0,0,0,0,0
+IMPV ~ MOD lest,3,2,0,0,0,0,0,0,0,0,0
+MOD shall ~ MOD would,2,3,0,0,0,0,0,0,0,0,0
+MOD may ~ MOD must,1,3,1,0,0,0,0,0,0,0,0
+MOD can,0,1,0,2,0,2,0,0,0,0,0
+MOD would ~ PRES,0,4,0,1,0,0,0,0,0,0,0
+IMPV ~ PAST,2,1,0,0,2,0,0,0,0,0,0
+MOD should ~ PRES,0,3,0,0,0,0,0,1,0,0,0
+HAB used to ~ PAST,0,1,1,1,0,0,1,0,0,0,0
+IMPV ~ MOD may,3,0,0,1,0,0,0,0,0,0,0
+IMPV ~ MOD must,1,0,2,0,0,1,0,0,0,0,0
+PAST PERF,0,0,0,3,0,0,1,0,0,0,0
+MOD shall ~ MOD should,2,1,1,0,0,0,0,0,0,0,0
+FUT ~ MOD can,2,2,0,0,0,0,0,0,0,0,0
+MOD let ~ TO INF,0,3,0,0,0,0,0,0,0,0,1
+FUT ~ FUT PERF,2,1,0,1,0,0,0,0,0,0,0
+MOD should,0,2,2,0,0,0,0,0,0,0,0
+MOD could ~ MOD may,1,1,1,0,0,0,0,0,0,0,0
+PAST ~ PAST PERF,0,0,0,1,0,0,2,0,0,0,0
+MOD can ~ PRES,1,2,0,0,0,0,0,0,0,0,0
+MOD should ~ TO INF,1,1,0,0,0,0,0,1,0,0,0
+IMPV ~ MOD would,3,0,0,0,0,0,0,0,0,0,0
+MOD VB ~ PRES,3,0,0,0,0,0,0,0,0,0,0
+MOD is to ~ TO INF,2,1,0,0,0,0,0,0,0,0,0
+HAB used to ~ MOD would,2,0,0,0,0,1,0,0,0,0,0
+HAB used to,0,1,0,0,0,1,1,0,0,0,0
+MOD was to,1,1,0,0,0,1,0,0,0,0,0
+FUT ~ FUT going-to,0,0,0,0,0,3,0,0,0,0,0
+IMPV ~ MOD is to,1,0,0,0,1,0,0,0,0,0,0
+MOD that be ~ TO INF,2,0,0,0,0,0,0,0,0,0,0
+MOD was to ~ PAST,1,0,1,0,0,0,0,0,0,0,0
+PRES ~ PRES PROG,1,0,1,0,0,0,0,0,0,0,0
+FUT ~ MOD must,0,1,1,0,0,0,0,0,0,0,0
+IMPV ~ PRES PART,2,0,0,0,0,0,0,0,0,0,0
+MOD would ~ PRES PART,2,0,0,0,0,0,0,0,0,0,0
+FUT going-to ~ MOD shall,1,0,1,0,0,0,0,0,0,0,0
+PRES PART ~ PRES PERF,0,0,0,2,0,0,0,0,0,0,0
+MOD may ~ PRES PART,2,0,0,0,0,0,0,0,0,0,0
+MOD can ~ MOD let,2,0,0,0,0,0,0,0,0,0,0
+MOD lest ~ MOD might,1,1,0,0,0,0,0,0,0,0,0
+MOD may ~ MOD should,1,1,0,0,0,0,0,0,0,0,0
+MOD let ~ PRES,1,1,0,0,0,0,0,0,0,0,0
+MOD must ~ PRES,0,2,0,0,0,0,0,0,0,0,0
+MOD let ~ MOD must,1,1,0,0,0,0,0,0,0,0,0
+MOD lest ~ PRES PART,2,0,0,0,0,0,0,0,0,0,0
+MOD lest ~ MOD must,2,0,0,0,0,0,0,0,0,0,0
+MOD must ~ PRES PART,1,1,0,0,0,0,0,0,0,0,0
+MOD is to ~ MOD may,0,0,0,0,1,0,0,0,0,0,0
+MOD let ~ PRES PART,0,1,0,0,0,0,0,0,0,0,0
+MOD should ~ MOD would,0,1,0,0,0,0,0,0,0,0,0
+MOD let ~ MOD should,0,1,0,0,0,0,0,0,0,0,0
+MOD let ~ MOD would,1,0,0,0,0,0,0,0,0,0,0
+MOD can ~ TO INF,0,0,0,1,0,0,0,0,0,0,0
+MOD would ~ PRES PROG,0,0,1,0,0,0,0,0,0,0,0
+FUT ~ MOD is to,1,0,0,0,0,0,0,0,0,0,0
+FUT ~ MOD VB,0,1,0,0,0,0,0,0,0,0,0
+MOD ~ MOD would,1,0,0,0,0,0,0,0,0,0,0
+MOD would ~ TO INF,1,0,0,0,0,0,0,0,0,0,0
+MOD must,0,0,0,0,0,1,0,0,0,0,0
+FUT ~ FUT PROG,1,0,0,0,0,0,0,0,0,0,0
+MOD might ~ MOD would,0,1,0,0,0,0,0,0,0,0,0
+PAST PROG ~ TO INF,0,1,0,0,0,0,0,0,0,0,0
+FUT PROG,1,0,0,0,0,0,0,0,0,0,0
+FUT ~ MOD should,0,1,0,0,0,0,0,0,0,0,0
+FUT ~ MOD that be,0,1,0,0,0,0,0,0,0,0,0
+PAST PERF ~ PRES PART,0,0,0,1,0,0,0,0,0,0,0
+MOD could,0,1,0,0,0,0,0,0,0,0,0
+PRES PERF ~ TO INF,0,0,0,1,0,0,0,0,0,0,0
+MOD let ~ MOD might,1,0,0,0,0,0,0,0,0,0,0
+MOD might,0,1,0,0,0,0,0,0,0,0,0
+MOD quest must ~ MOD shall,0,1,0,0,0,0,0,0,0,0,0
+PRES ~ VB,1,0,0,0,0,0,0,0,0,0,0
+MOD could ~ MOD would,0,1,0,0,0,0,0,0,0,0,0
+MOD lest ~ PRES,0,1,0,0,0,0,0,0,0,0,0
+HAB used to ~ PAST PROG,0,0,0,1,0,0,0,0,0,0,0
+HAB used to ~ PRES PART,1,0,0,0,0,0,0,0,0,0,0
+MOD could ~ TO INF,0,1,0,0,0,0,0,0,0,0,0
+IMPV ~ MOD VB,1,0,0,0,0,0,0,0,0,0,0
+MOD is to ~ MOD lest,1,0,0,0,0,0,0,0,0,0,0
+MOD is to ~ PRES PART,1,0,0,0,0,0,0,0,0,0,0
+MOD VB ~ MOD can,0,1,0,0,0,0,0,0,0,0,0

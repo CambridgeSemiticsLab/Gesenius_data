@@ -1,27 +1,101 @@
 eng_TAMsimp.isin(["FUT", "FUT ~ MOD shall"]) and mother_verbtype == "ptcp"
 25 of 167
-I will establish (ESV, NIV | BHS הִנְנִי֩ מֵבִ֨יא אֶת־הַמַּבּ֥וּל מַ֨יִם֙ עַל־הָאָ֔רֶץ וַהֲקִמֹתִ֥י אֶת־בְּרִיתִ֖י אִתָּ֑ךְ , Gen. 6:18)
-I will plead, I will pray (ESV, NIV | BHS הִנֵּ֨ה אָנֹכִ֜י יֹוצֵ֤א מֵֽעִמָּךְ֙ וְהַעְתַּרְתִּ֣י אֶל־יְהוָ֔ה , Exod. 8:25)
-it shall be, will have (ESV, NIV | BHS הִנְנִ֨י נֹתֵ֥ן לֹ֛ו אֶת־בְּרִיתִ֖י שָׁלֹֽום׃ וְהָ֤יְתָה לֹּו֙ וּלְזַרְעֹ֣ו אַחֲרָ֔יו בְּרִ֖ית כְּהֻנַּ֣ת עֹולָ֑ם , Num. 25:13)
-he will kill (ESV, NIV | BHS אַתָּ֣ה אֹמֵ֔ר וַהֲרָגָֽנִי׃ ס , I Kgs. 18:14)
-I will make (ESV, NIV | BHS כִּי֩ הִנֵּ֨ה הָאָדֹ֜ון יְהוָ֣ה צְבָאֹ֗ות מֵסִ֤יר מִירוּשָׁלִַ֨ם֙ וּמִ֣יהוּדָ֔ה מַשְׁעֵ֖ן וּמַשְׁעֵנָ֑ה כֹּ֚ל מִשְׁעַן־לֶ֔חֶם וְכֹ֖ל מִשְׁעַן־מָֽיִם׃ וְנָתַתִּ֥י נְעָרִ֖ים שָׂרֵיהֶ֑ם , Isa. 3:4)
-will disappear (ESV, NIV | BHS עֲזֻבֹ֖ות עָרֵ֣י עֲרֹעֵ֑ר וְנִשְׁבַּ֤ת מִבְצָר֙ מֵֽאֶפְרַ֔יִם , Isa. 17:3)
-shall be carried, will be carried off (ESV, NIV | BHS הִנֵּה֮ יָמִ֣ים בָּאִים֒ וְנִשָּׂ֣א׀ כָּל־, Isa. 39:6)
-it will burn (ESV, NIV | BHS הִנֵּ֨ה אַפִּ֤י וַֽחֲמָתִי֙ נִתֶּ֨כֶת֙ אֶל־הַמָּקֹ֣ום הַזֶּ֔ה עַל־הָֽאָדָם֙ וְעַל־הַבְּהֵמָ֔ה וְעַל־עֵ֥ץ הַשָּׂדֶ֖ה וְעַל־פְּרִ֣י הָֽאֲדָמָ֑ה וּבָעֲרָ֖ה , Jer. 7:20)
-they shall catch, they will catch (ESV, NIV | BHS הִנְנִ֨י שֹׁלֵ֜חַ לְדַיָּגִ֥ים רַבִּ֛ים וְדִיג֑וּם , Jer. 16:16)
-he shall strike down, he will put to death (ESV, NIV | BHS הִנְנִ֣י׀ נֹתֵ֣ן אֹתָ֗ם בְּיַד֙ נְבֽוּכַדְרֶאצַּ֣ר מֶֽלֶךְ־בָּבֶ֔ל וְהִכָּ֖ם לְעֵינֵיכֶֽם׃ , Jer. 29:21)
-I will sow, I will plant (ESV, NIV | BHS הִנֵּ֛ה יָמִ֥ים בָּאִ֖ים וְזָרַעְתִּ֗י אֶת־בֵּ֤ית יִשְׂרָאֵל֙ וְאֶת־בֵּ֣ית יְהוּדָ֔ה זֶ֥רַע אָדָ֖ם וְזֶ֥רַע בְּהֵמָֽה׃ , Jer. 31:27)
-shall be bought, will be bought (ESV, NIV | BHS כֵּ֣ן אָנֹכִ֞י מֵבִ֤יא עֲלֵיהֶם֙ אֶת־כָּל־הַטֹּובָ֔ה וְנִקְנָ֥ה הַשָּׂדֶ֖ה בָּאָ֣רֶץ הַזֹּ֑את , Jer. 32:43)
-will bring back, I will bring back (ESV, NIV | BHS הִנְנִ֨י מְצַוֶּ֜ה וַהֲשִׁ֨בֹתִ֜ים אֶל־הָעִ֤יר הַזֹּאת֙ , Jer. 34:22)
-I will deliver, I will hand over (ESV, NIV | BHS הִנְנִ֤י פֹוקֵד֙ אֶל־אָמֹ֣ון מִנֹּ֔א וְעַל־פַּרְעֹה֙ וְעַל־מִצְרַ֔יִם וְעַל־אֱלֹהֶ֖יהָ וְעַל־מְלָכֶ֑יהָ וְעַ֨ל־פַּרְעֹ֔ה וּנְתַתִּ֗ים בְּיַד֙ מְבַקְשֵׁ֣י נַפְשָׁ֔ם וּבְיַ֛ד נְבֽוּכַדְרֶאצַּ֥ר מֶֽלֶךְ־בָּבֶ֖ל וּבְיַד־עֲבָדָ֑יו , Jer. 46:26)
-they shall array themselves, they will take up their positions (ESV, NIV | BHS וּמַעֲלֶ֨ה עַל־בָּבֶ֜ל קְהַל־גֹּויִ֤ם גְּדֹלִים֙ מֵאֶ֣רֶץ צָפֹ֔ון וְעָ֣רְכוּ לָ֔הּ , Jer. 50:9)
-they shall eat, the people will eat (ESV, NIV | BHS הִנְנִ֨י שֹׁבֵ֤ר מַטֵּה־לֶ֨חֶם֙ בִּיר֣וּשָׁלִַ֔ם וְאָכְלוּ־לֶ֥חֶם בְּמִשְׁקָ֖ל וּבִדְאָגָ֑ה , Ezek. 4:16)
-it will be fulfilled, it will take place (ESV, NIV | BHS הִנֵּ֤ה בָאָה֙ וְנִֽהְיָ֔תָה , Ezek. 21:12)
-I will make, I will turn (ESV, NIV | BHS הִנְנִי֩ נֹתְנָ֨ךְ לִבְנֵי־קֶ֜דֶם לְמֹֽורָשָׁ֗ה וְנָתַתִּ֤י אֶת־רַבָּה֙ לִנְוֵ֣ה גְמַלִּ֔ים , Ezek. 25:5)
-I will stop, I will put an end (ESV, NIV | BHS הִנְנִ֧י מֵבִ֣יא אֶל־צֹ֗ר נְבוּכַדְרֶאצַּ֧ר מֶֽלֶךְ־בָּבֶ֛ל מִצָּפֹ֖ון מֶ֣לֶךְ מְלָכִ֑ים בְּס֛וּס וּבְרֶ֥כֶב וּבְפָרָשִׁ֖ים וְקָהָ֥ל וְעַם־רָֽב׃ וְהִשְׁבַּתִּ֖י הֲמֹ֣ון שִׁירָ֑יִךְ , Ezek. 26:13)
-I will lay, I will attach (ESV, NIV | BHS הִנֵּ֨ה אֲנִ֜י מֵבִ֥יא בָכֶ֛ם ר֖וּחַ וְנָתַתִּי֩ עֲלֵיכֶ֨ם גִּדִ֜ים , Ezek. 37:6)
-I will restore, I will repay (ESV, NIV | BHS הִנְנִ֨י שֹׁלֵ֤חַ לָכֶם֙ אֶת־הַדָּגָן֙ וְהַתִּירֹ֣ושׁ וְהַיִּצְהָ֔ר וְשִׁלַּמְתִּ֤י לָכֶם֙ אֶת־הַשָּׁנִ֔ים , Joel 2:25)
-shake, I will shake (ESV, NIV | BHS כִּֽי־הִנֵּ֤ה אָֽנֹכִי֙ מְצַוֶּ֔ה וַהֲנִעֹ֥ותִי בְכָֽל־הַגֹּויִ֖ם אֶת־בֵּ֣ית יִשְׂרָאֵ֑ל , Amos 9:9)
-I will bring, I will bring back (ESV, NIV | BHS הִנְנִ֥י מֹושִׁ֛יעַ אֶת־עַמִּ֖י מֵאֶ֣רֶץ מִזְרָ֑ח וּמֵאֶ֖רֶץ מְבֹ֥וא הַשָּֽׁמֶשׁ׃ וְהֵבֵאתִ֣י אֹתָ֔ם , Zech. 8:8)
-will be (ESV, NIV | BHS כִּֽי־הִנֵּ֤ה הַיֹּום֙ בָּ֔א וְהָי֨וּ כָל־זֵדִ֜ים וְכָל־עֹשֵׂ֤ה רִשְׁעָה֙ קַ֔שׁ , Mal. 3:19)
-I will establish (ESV, NIV | BHS הִנֵּה־בֵ֞ן נֹולָ֣ד לָ֗ךְ וַהֲכִ֨ינֹותִ֜י כִּסֵּ֧א מַלְכוּתֹ֛ו עַל־יִשְׂרָאֵ֖ל עַד־עֹולָֽם׃ , I Chr. 22:10)
+(x)	הִנְנִי֩ מֵבִ֨יא אֶת־הַמַּבּ֥וּל מַ֨יִם֙ עַל־הָאָ֔רֶץ וַ_הֲקִמֹתִ֥י_ אֶת־בְּרִיתִ֖י אִתָּ֑ךְ (Gen. 6:18)
+NIV	But _I will establish_ my covenant with you, and you will enter the ark — you and your sons and your wife and your sons’ wives with you.
+ESV	But _I will establish_ my covenant with you, and you shall come into the ark, you, your sons, your wife, and your sons’ wives with you.
+
+(x)	הִנֵּ֨ה אָנֹכִ֜י יֹוצֵ֤א מֵֽעִמָּךְ֙ וְ_הַעְתַּרְתִּ֣י_ אֶל־יְהוָ֔ה (Exod. 8:25)
+NIV	Moses answered, “As soon as I leave you, _I will pray_ to the LORD, and tomorrow the flies will leave Pharaoh and his officials and his people. Only be sure that Pharaoh does not act deceitfully again by not letting the people go to offer sacrifices to the LORD.”
+ESV	Then Moses said, “Behold, I am going out from you and _I will plead_ with the Lord that the swarms of flies may depart from Pharaoh, from his servants, and from his people, tomorrow. Only let not Pharaoh cheat again by not letting the people go to sacrifice to the Lord.”
+
+(x)	הִנְנִ֨י נֹתֵ֥ן לֹ֛ו אֶת־בְּרִיתִ֖י שָׁלֹֽום׃ וְ_הָ֤יְתָה_ לֹּו֙ וּלְזַרְעֹ֣ו אַחֲרָ֔יו בְּרִ֖ית כְּהֻנַּ֣ת עֹולָ֑ם (Num. 25:13)
+NIV	He and his descendants _will have_ a covenant of a lasting priesthood, because he was zealous for the honor of his God and made atonement for the Israelites.”
+ESV	and _it shall be_ to him and to his descendants after him the covenant of a perpetual priesthood, because he was jealous for his God and made atonement for the people of Israel.’”
+
+(x)	אַתָּ֣ה אֹמֵ֔ר וַ_הֲרָגָֽנִי_׃ ס (I Kgs. 18:14)
+NIV	And now you tell me to go to my master and say, ‘Elijah is here.’ _He will kill_ me!”
+ESV	And now you say, ‘Go, tell your lord, “Behold, Elijah is here”’. and _he will kill_ me.”
+
+(x)	כִּי֩ הִנֵּ֨ה הָאָדֹ֜ון יְהוָ֣ה צְבָאֹ֗ות מֵסִ֤יר מִירוּשָׁלִַ֨ם֙ וּמִ֣יהוּדָ֔ה מַשְׁעֵ֖ן וּמַשְׁעֵנָ֑ה כֹּ֚ל מִשְׁעַן־לֶ֔חֶם וְכֹ֖ל מִשְׁעַן־מָֽיִם׃ וְ_נָתַתִּ֥י_ נְעָרִ֖ים שָׂרֵיהֶ֑ם (Isa. 3:4)
+NIV	_I will make_ boys their officials. mere children will govern them.
+ESV	And _I will make_ boys their princes, and infants shall rule over them.
+
+(x)	עֲזֻבֹ֖ות עָרֵ֣י עֲרֹעֵ֑ר וְ_נִשְׁבַּ֤ת_ מִבְצָר֙ מֵֽאֶפְרַ֔יִם (Isa. 17:3)
+NIV	The fortified city _will disappear_ from Ephraim, and royal power from Damascus. the remnant of Aram will be like the glory of the Israelites,” declares the LORD Almighty.
+ESV	The fortress _will disappear_ from Ephraim, and the kingdom from Damascus. and the remnant of Syria will be like the glory of the children of Israel, declares the Lord of hosts.
+
+(x)	הִנֵּה֮ יָמִ֣ים בָּאִים֒ וְ_נִשָּׂ֣א_׀ כָּל־ (Isa. 39:6)
+NIV	The time will surely come when everything in your palace, and all that your fathers have stored up until this day, _will be carried off_ to Babylon. Nothing will be left, says the LORD.
+ESV	Behold, the days are coming, when all that is in your house, and that which your fathers have stored up till this day, _shall be carried_ to Babylon. Nothing shall be left, says the Lord.
+
+(x)	הִנֵּ֨ה אַפִּ֤י וַֽחֲמָתִי֙ נִתֶּ֨כֶת֙ אֶל־הַמָּקֹ֣ום הַזֶּ֔ה עַל־הָֽאָדָם֙ וְעַל־הַבְּהֵמָ֔ה וְעַל־עֵ֥ץ הַשָּׂדֶ֖ה וְעַל־פְּרִ֣י הָֽאֲדָמָ֑ה וּ_בָעֲרָ֖ה_ (Jer. 7:20)
+NIV	“‘Therefore this is what the Sovereign LORD says: My anger and my wrath will be poured out on this place, on man and beast, on the trees of the field and on the fruit of the ground, and _it will burn_ and not be quenched.
+ESV	Therefore thus says the Lord God: behold, my anger and my wrath will be poured out on this place, upon man and beast, upon the trees of the field and the fruit of the ground. _it will burn_ and not be quenched.”
+
+(x)	הִנְנִ֨י שֹׁלֵ֜חַ לְדַיָּגִ֥ים רַבִּ֛ים וְ_דִיג֑וּם_ (Jer. 16:16)
+NIV	“But now I will send for many fishermen,” declares the LORD, “and _they will catch_ them. After that I will send for many hunters, and they will hunt them down on every mountain and hill and from the crevices of the rocks.
+ESV	“Behold, I am sending for many fishers, declares the Lord, and _they shall catch_ them. And afterward I will send for many hunters, and they shall hunt them from every mountain and every hill, and out of the clefts of the rocks.
+
+(x)	הִנְנִ֣י׀ נֹתֵ֣ן אֹתָ֗ם בְּיַד֙ נְבֽוּכַדְרֶאצַּ֣ר מֶֽלֶךְ־בָּבֶ֔ל וְ_הִכָּ֖ם_ לְעֵינֵיכֶֽם׃ (Jer. 29:21)
+NIV	This is what the LORD Almighty, the God of Israel, says about Ahab son of Kolaiah and Zedekiah son of Maaseiah, who are prophesying lies to you in my name: “I will hand them over to Nebuchadnezzar king of Babylon, and he will put them to death before your very eyes.
+ESV	‘Thus says the Lord of hosts, the God of Israel, concerning Ahab the son of Kolaiah and Zedekiah the son of Maaseiah, who are prophesying a lie to you in my name: Behold, I will deliver them into the hand of Nebuchadnezzar king of Babylon, and he shall strike them down before your eyes.
+
+(x)	הִנֵּ֛ה יָמִ֥ים בָּאִ֖ים וְ_זָרַעְתִּ֗י_ אֶת־בֵּ֤ית יִשְׂרָאֵל֙ וְאֶת־בֵּ֣ית יְהוּדָ֔ה זֶ֥רַע אָדָ֖ם וְזֶ֥רַע בְּהֵמָֽה׃ (Jer. 31:27)
+NIV	“The days are coming,” declares the LORD, “when _I will plant_ the house of Israel and the house of Judah with the offspring of men and of animals.
+ESV	“Behold, the days are coming, declares the Lord, when _I will sow_ the house of Israel and the house of Judah with the seed of man and the seed of beast.
+
+(x)	כֵּ֣ן אָנֹכִ֞י מֵבִ֤יא עֲלֵיהֶם֙ אֶת־כָּל־הַטֹּובָ֔ה וְ_נִקְנָ֥ה_ הַשָּׂדֶ֖ה בָּאָ֣רֶץ הַזֹּ֑את (Jer. 32:43)
+NIV	Once more fields _will be bought_ in this land of which you say, ‘It is a desolate waste, without men or animals, for it has been handed over to the Babylonians.’
+ESV	Fields _shall be bought_ in this land of which you are saying, ‘It is a desolation, without man or beast. it is given into the hand of the Chaldeans.’
+
+(x)	הִנְנִ֨י מְצַוֶּ֜ה וַ_הֲשִׁ֨בֹתִ֜ים_ אֶל־הָעִ֤יר הַזֹּאת֙ (Jer. 34:22)
+NIV	I am going to give the order, declares the LORD, and I will bring them back to this city. They will fight against it, take it and burn it down. And I will lay waste the towns of Judah so that no-one can live there.”
+ESV	Behold, I will command, declares the Lord, and will bring them back to this city. And they will fight against it and take it and burn it with fire. I will make the cities of Judah a desolation without inhabitant.”
+
+(x)	הִנְנִ֤י פֹוקֵד֙ אֶל־אָמֹ֣ון מִנֹּ֔א וְעַל־פַּרְעֹה֙ וְעַל־מִצְרַ֔יִם וְעַל־אֱלֹהֶ֖יהָ וְעַל־מְלָכֶ֑יהָ וְעַ֨ל־פַּרְעֹ֔ה וּ_נְתַתִּ֗ים_ בְּיַד֙ מְבַקְשֵׁ֣י נַפְשָׁ֔ם וּבְיַ֛ד נְבֽוּכַדְרֶאצַּ֥ר מֶֽלֶךְ־בָּבֶ֖ל וּבְיַד־עֲבָדָ֑יו (Jer. 46:26)
+NIV	I will hand them over to those who seek their lives, to Nebuchadnezzar king of Babylon and his officers. Later, however, Egypt will be inhabited as in times past,” declares the LORD.
+ESV	_I will deliver_ them into the hand of those who seek their life, into the hand of Nebuchadnezzar king of Babylon and his officers. Afterward Egypt shall be inhabited as in the days of old, declares the Lord.
+
+(x)	וּמַעֲלֶ֨ה עַל־בָּבֶ֜ל קְהַל־גֹּויִ֤ם גְּדֹלִים֙ מֵאֶ֣רֶץ צָפֹ֔ון וְ_עָ֣רְכוּ_ לָ֔הּ (Jer. 50:9)
+NIV	For I will stir up and bring against Babylon an alliance of great nations from the land of the north. _They will take up their positions_ against her, and from the north she will be captured. Their arrows will be like skilled warriors who do not return empty-handed.
+ESV	For behold, I am stirring up and bringing against Babylon a gathering of great nations, from the north country. And _they shall array themselves_ against her. From there she shall be taken. Their arrows are like a skilled warrior who does not return empty-handed.
+
+(x)	הִנְנִ֨י שֹׁבֵ֤ר מַטֵּה־לֶ֨חֶם֙ בִּיר֣וּשָׁלִַ֔ם וְ_אָכְלוּ_־לֶ֥חֶם בְּמִשְׁקָ֖ל וּבִדְאָגָ֑ה (Ezek. 4:16)
+NIV	He then said to me: “Son of man, I will cut off the supply of food in Jerusalem. _The people will eat_ rationed food in anxiety and drink rationed water in despair,
+ESV	Moreover, he said to me, “Son of man, behold, I will break the supply of bread in Jerusalem. _They shall eat_ bread by weight and with anxiety, and they shall drink water by measure and in dismay.
+
+(x)	הִנֵּ֤ה בָאָה֙ וְ_נִֽהְיָ֔תָה_ (Ezek. 21:12)
+NIV	And when they ask you, ‘Why are you groaning?’ you shall say, ‘Because of the news that is coming. Every heart will melt and every hand go limp. every spirit will become faint and every knee become as weak as water.’ It is coming! It will surely take place, declares the Sovereign LORD.”
+ESV	And when they say to you, ‘Why do you groan?’ you shall say, ‘Because of the news that it is coming. Every heart will melt, and all hands will be feeble. every spirit will faint, and all knees will be weak as water. Behold, it is coming, and _it will be fulfilled_,’” declares the Lord God.
+
+(x)	הִנְנִי֩ נֹתְנָ֨ךְ לִבְנֵי־קֶ֜דֶם לְמֹֽורָשָׁ֗ה וְ_נָתַתִּ֤י_ אֶת־רַבָּה֙ לִנְוֵ֣ה גְמַלִּ֔ים (Ezek. 25:5)
+NIV	_I will turn_ Rabbah into a pasture for camels and Ammon into a resting place for sheep. Then you will know that I am the LORD.
+ESV	_I will make_ Rabbah a pasture for camels and Ammon a fold for flocks. Then you will know that I am the Lord.
+
+(x)	הִנְנִ֧י מֵבִ֣יא אֶל־צֹ֗ר נְבוּכַדְרֶאצַּ֧ר מֶֽלֶךְ־בָּבֶ֛ל מִצָּפֹ֖ון מֶ֣לֶךְ מְלָכִ֑ים בְּס֛וּס וּבְרֶ֥כֶב וּבְפָרָשִׁ֖ים וְקָהָ֥ל וְעַם־רָֽב׃ וְ_הִשְׁבַּתִּ֖י_ הֲמֹ֣ון שִׁירָ֑יִךְ (Ezek. 26:13)
+NIV	_I will put an end_ to your noisy songs, and the music of your harps will be heard no more.
+ESV	And _I will stop_ the music of your songs, and the sound of your lyres shall be heard no more.
+
+(x)	הִנֵּ֨ה אֲנִ֜י מֵבִ֥יא בָכֶ֛ם ר֖וּחַ וְ_נָתַתִּי֩_ עֲלֵיכֶ֨ם גִּדִ֜ים (Ezek. 37:6)
+NIV	_I will attach_ tendons to you and make flesh come upon you and cover you with skin. I will put breath in you, and you will come to life. Then you will know that I am the LORD.’”
+ESV	And _I will lay_ sinews upon you, and will cause flesh to come upon you, and cover you with skin, and put breath in you, and you shall live, and you shall know that I am the Lord.”
+
+(x)	הִנְנִ֨י שֹׁלֵ֤חַ לָכֶם֙ אֶת־הַדָּגָן֙ וְהַתִּירֹ֣ושׁ וְהַיִּצְהָ֔ר וְ_שִׁלַּמְתִּ֤י_ לָכֶם֙ אֶת־הַשָּׁנִ֔ים (Joel 2:25)
+NIV	“_I will repay_ you for the years the locusts have eaten — the great locust and the young locust, the other locusts and the locust swarm — my great army that I sent among you.
+ESV	_I will restore_ to you the years that the swarming locust has eaten, the hopper, the destroyer, and the cutter, my great army, which I sent among you.
+
+(x)	כִּֽי־הִנֵּ֤ה אָֽנֹכִי֙ מְצַוֶּ֔ה וַ_הֲנִעֹ֥ותִי_ בְכָֽל־הַגֹּויִ֖ם אֶת־בֵּ֣ית יִשְׂרָאֵ֑ל (Amos 9:9)
+NIV	“For I will give the command, and _I will shake_ the house of Israel among all the nations as grain is shaken in a sieve, and not a pebble will reach the ground.
+ESV	“For behold, I will command, and _shake_ the house of Israel among all the nations as one _shake_s with a sieve, but no pebble shall fall to the earth.
+
+(x)	הִנְנִ֥י מֹושִׁ֛יעַ אֶת־עַמִּ֖י מֵאֶ֣רֶץ מִזְרָ֑ח וּמֵאֶ֖רֶץ מְבֹ֥וא הַשָּֽׁמֶשׁ׃ וְ_הֵבֵאתִ֣י_ אֹתָ֔ם (Zech. 8:8)
+NIV	I will bring them back to live in Jerusalem. they will be my people, and I will be faithful and righteous to them as their God.”
+ESV	and _I will bring_ them to dwell in the midst of Jerusalem. And they shall be my people, and I will be their God, in faithfulness and in righteousness.”
+
+(x)	כִּֽי־הִנֵּ֤ה הַיֹּום֙ בָּ֔א וְ_הָי֨וּ_ כָל־זֵדִ֜ים וְכָל־עֹשֵׂ֤ה רִשְׁעָה֙ קַ֔שׁ (Mal. 3:19)
+NIV	“Surely the day is coming. it will burn like a furnace. All the arrogant and every evildoer _will be_ stubble, and that day that is coming will set them on fire,” says the LORD Almighty. “Not a root or a branch _will be_ left to them.
+ESV	“For behold, the day is coming, burning like an oven, when all the arrogant and all evildoers _will be_ stubble. The day that is coming shall set them ablaze, says the Lord of hosts, so that it will leave them neither root nor branch.
+
+(x)	הִנֵּה־בֵ֞ן נֹולָ֣ד לָ֗ךְ וַ_הֲכִ֨ינֹותִ֜י_ כִּסֵּ֧א מַלְכוּתֹ֛ו עַל־יִשְׂרָאֵ֖ל עַד־עֹולָֽם׃ (I Chr. 22:10)
+NIV	He is the one who will build a house for my Name. He will be my son, and I will be his father. And _I will establish_ the throne of his kingdom over Israel forever.’
+ESV	He shall build a house for my name. He shall be my son, and I will be his father, and _I will establish_ his royal throne in Israel forever.’

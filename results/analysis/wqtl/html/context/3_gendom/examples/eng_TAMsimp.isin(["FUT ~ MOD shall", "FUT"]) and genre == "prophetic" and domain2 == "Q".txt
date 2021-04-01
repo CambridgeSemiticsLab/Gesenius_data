@@ -1,27 +1,101 @@
 eng_TAMsimp.isin(["FUT ~ MOD shall", "FUT"]) and genre == "prophetic" and domain2 == "Q"
 25 of 1363
-I will put (ESV, NIV | BHS וְשַׂמְתִּ֨י חַחִ֜י בְּאַפֶּ֗ךָ , II Kgs. 19:28)
-will be full, will fill (ESV, NIV | BHS וּמָלְא֥וּ בָתֵּיהֶ֖ם אֹחִ֑ים , Isa. 13:21)
-you will defile (ESV, NIV | BHS וְטִמֵּאתֶ֗ם אֶת־צִפּוּי֙ פְּסִילֵ֣י כַסְפֶּ֔ךָ וְאֶת־אֲפֻדַּ֖ת מַסֵּכַ֣ת זְהָבֶ֑ךָ , Isa. 30:22)
-will be (ESV, NIV | BHS וְהָיָ֤ה כָזֶה֙ יֹ֣ום מָחָ֔ר , Isa. 56:12)
-shall see, see (ESV, NIV | BHS וְרָא֥וּ אֶת־כְּבֹודִֽי׃ , Isa. 66:18)
-shall die, will die (ESV, NIV | BHS וּמֵ֨תוּ גְדֹלִ֧ים וּקְטַנִּ֛ים בָּאָ֥רֶץ הַזֹּ֖את , Jer. 16:6)
-I will build up (ESV, NIV | BHS וּבְנִיתִים֙ , Jer. 24:6)
-I will make draw near, I will bring near (ESV, NIV | BHS וְהִקְרַבְתִּ֖יו , Jer. 30:21)
-shall come back, will return (ESV, NIV | BHS וְשָׁ֨בוּ֙ הַכַּשְׂדִּ֔ים , Jer. 37:8)
-men shall cry, men will shout (ESV, NIV | BHS וְקָרְא֧וּ עֲלֵיהֶ֛ם , Jer. 49:29)
-I will destroy (ESV, NIV | BHS וְאִבַּדְתִּ֖י בָּמֹֽותֵיכֶֽם׃ , Ezek. 6:3)
-you shall know, you will know (ESV, NIV | BHS וִידַעְתֶּ֕ם , Ezek. 13:9)
-he shall be taken, he will be caught (ESV, NIV | BHS וְנִתְפַּ֖שׂ בִּמְצֽוּדָתִ֑י , Ezek. 17:20)
-I will direct (ESV, NIV | BHS וְנָתַתִּ֨י קִנְאָתִ֜י בָּ֗ךְ , Ezek. 23:25)
-I will make go down, I will bring down (ESV, NIV | BHS וְהֹורַדְתִּיךְ֩ אֶת־יֹ֨ורְדֵי בֹ֜ור אֶל־עַ֣ם עֹולָ֗ם , Ezek. 26:20)
-I will execute, I will inflict (ESV, NIV | BHS וְעָשִׂ֥יתִי שְׁפָטִ֖ים בְּמִצְרָ֑יִם , Ezek. 30:19)
-he shall feed, he will tend (ESV, NIV | BHS וְרָעָ֣ה אֶתְהֶ֔ן אֵ֖ת עַבְדִּ֣י דָוִ֑יד , Ezek. 34:23)
-they will know (ESV, NIV | BHS וְיָדְע֖וּ , Ezek. 36:38)
-they will seize the spoil, they will plunder (ESV, NIV | BHS וְשָׁלְל֣וּ אֶת־שֹׁלְלֵיהֶ֗ם , Ezek. 39:10)
-I will punish (ESV, NIV | BHS וּפָקַדְתִּ֤י עָלָיו֙ דְּרָכָ֔יו , Hos. 4:9)
-I will strike, I will tear down (ESV, NIV | BHS וְהִכֵּיתִ֥י בֵית־הַחֹ֖רֶף עַל־בֵּ֣ית הַקָּ֑יִץ , Amos 3:15)
-shall be black, will go dark (ESV, NIV | BHS וְקָדַ֥ר עֲלֵיהֶ֖ם הַיֹּֽום׃ , Mic. 3:6)
-shall come in, will come (ESV, NIV | BHS וּבָ֖אוּ חֶמְדַּ֣ת כָּל־הַגֹּויִ֑ם , Hag. 2:7)
-I will bring home, I will bring back (ESV, NIV | BHS וַהֲשִֽׁיבֹותִים֙ מֵאֶ֣רֶץ מִצְרַ֔יִם , Zech. 10:10)
-he will turn (ESV, NIV | BHS וְהֵשִׁ֤יב לֵב־אָבֹות֙ עַל־בָּנִ֔ים , Mal. 3:24)
+(x)	וְ_שַׂמְתִּ֨י_ חַחִ֜י בְּאַפֶּ֗ךָ וּמִתְגִּי֙ בִּשְׂפָתֶ֔יךָ (II Kgs. 19:28)
+NIV	Because you rage against me and your insolence has reached my ears, _I will put_ my hook in your nose and my bit in your mouth, and I will make you return by the way you came.’
+ESV	Because you have raged against me and your complacency has come into my ears, _I will put_ my hook in your nose and my bit in your mouth, and I will turn you back on the way by which you came.
+
+(x)	וּ_מָלְא֥וּ_ בָתֵּיהֶ֖ם אֹחִ֑ים (Isa. 13:21)
+NIV	But desert creatures will lie there, jackals _will fill_ her houses. there the owls will dwell, and there the wild goats will leap about.
+ESV	But wild animals will lie down there, and their houses _will be full_ of howling creatures. there ostriches will dwell, and there wild goats will dance.
+
+(x)	וְ_טִמֵּאתֶ֗ם_ אֶת־צִפּוּי֙ פְּסִילֵ֣י כַסְפֶּ֔ךָ וְאֶת־אֲפֻדַּ֖ת מַסֵּכַ֣ת זְהָבֶ֑ךָ (Isa. 30:22)
+NIV	Then _you will defile_ your idols overlaid with silver and your images covered with gold. you will throw them away like a menstrual cloth and say to them, “Away with you!”
+ESV	Then _you will defile_ your carved idols overlaid with silver and your gold-plated metal images. You will scatter them as unclean things. You will say to them, “Be gone!”
+
+(x)	וְ_הָיָ֤ה_ כָזֶה֙ יֹ֣ום מָחָ֔ר גָּדֹ֖ול יֶ֥תֶר מְאֹֽד׃ (Isa. 56:12)
+NIV	“Come,” each one cries, “let me get wine! Let us drink our fill of beer! And tomorrow _will be_ like today, or even far better.”
+ESV	“Come,” they say, “let me get wine. let us fill ourselves with strong drink. and tomorrow _will be_ like this day, great beyond measure.”
+
+(x)	וְאָנֹכִ֗י בָּאָ֕ה לְקַבֵּ֥ץ אֶת־כָּל־הַגֹּויִ֖ם וְהַלְּשֹׁנֹ֑ות וּבָ֖אוּ וְ_רָא֥וּ_ אֶת־כְּבֹודִֽי׃ (Isa. 66:18)
+NIV	“And I, because of their actions and their imaginations, am about to come and gather all nations and tongues, and they will come and _see_ my glory.
+ESV	“For I know their works and their thoughts, and the time is coming to gather all nations and tongues. And they shall come and _shall see_ my glory,
+
+(x)	וּ_מֵ֨תוּ_ גְדֹלִ֧ים וּקְטַנִּ֛ים בָּאָ֥רֶץ הַזֹּ֖את (Jer. 16:6)
+NIV	“Both high and low _will die_ in this land. They will not be buried or mourned, and no-one will cut himself or shave his head for them.
+ESV	Both great and small _shall die_ in this land. They shall not be buried, and no one shall lament for them or cut himself or make himself bald for them.
+
+(x)	וּ_בְנִיתִים֙_ (Jer. 24:6)
+NIV	My eyes will watch over them for their good, and I will bring them back to this land. I will build them up and not tear them down. I will plant them and not uproot them.
+ESV	I will set my eyes on them for good, and I will bring them back to this land. I will build them up, and not tear them down. I will plant them, and not uproot them.
+
+(x)	וְ_הִקְרַבְתִּ֖יו_ (Jer. 30:21)
+NIV	Their leader will be one of their own. their ruler will arise from among them. I will bring him near and he will come close to me, for who is he who will devote himself to be close to me?’ declares the LORD.
+ESV	Their prince shall be one of themselves. their ruler shall come out from their midst. I will make him draw near, and he shall approach me, for who would dare of himself to approach me? declares the Lord.
+
+(x)	וְ_שָׁ֨בוּ֙_ הַכַּשְׂדִּ֔ים (Jer. 37:8)
+NIV	Then the Babylonians _will return_ and attack this city. they will capture it and burn it down.’
+ESV	And the Chaldeans _shall come back_ and fight against this city. They shall capture it and burn it with fire.
+
+(x)	וְ_קָרְא֧וּ_ עֲלֵיהֶ֛ם (Jer. 49:29)
+NIV	Their tents and their flocks will be taken. their shelters will be carried off with all their goods and camels. _Men will shout_ to them, ‘Terror on every side!’
+ESV	Their tents and their flocks shall be taken, their curtains and all their goods. their camels shall be led away from them, and _men shall cry_ to them: ‘Terror on every side!’
+
+(x)	וְ_אִבַּדְתִּ֖י_ בָּמֹֽותֵיכֶֽם׃ (Ezek. 6:3)
+NIV	and say: ‘O mountains of Israel, hear the word of the Sovereign LORD. This is what the Sovereign LORD says to the mountains and hills, to the ravines and valleys: I am about to bring a sword against you, and _I will destroy_ your high places.
+ESV	and say, You mountains of Israel, hear the word of the Lord God! Thus says the Lord God to the mountains and the hills, to the ravines and the valleys: Behold, I, even I, will bring a sword upon you, and _I will destroy_ your high places.
+
+(x)	וִ_ידַעְתֶּ֕ם_ כִּ֥י אֲנִ֖י אֲדֹנָ֥י יְהוִֽה׃ (Ezek. 13:9)
+NIV	My hand will be against the prophets who see false visions and utter lying divinations. They will not belong to the council of my people or be listed in the records of the house of Israel, nor will they enter the land of Israel. Then _you will know_ that I am the Sovereign LORD.
+ESV	My hand will be against the prophets who see false visions and who give lying divinations. They shall not be in the council of my people, nor be enrolled in the register of the house of Israel, nor shall they enter the land of Israel. And _you shall know_ that I am the Lord God.
+
+(x)	וְ_נִתְפַּ֖שׂ_ בִּמְצֽוּדָתִ֑י (Ezek. 17:20)
+NIV	I will spread my net for him, and _he will be caught_ in my snare. I will bring him to Babylon and execute judgment upon him there because he was unfaithful to me.
+ESV	I will spread my net over him, and _he shall be taken_ in my snare, and I will bring him to Babylon and enter into judgment with him there for the treachery he has committed against me.
+
+(x)	וְ_נָתַתִּ֨י_ קִנְאָתִ֜י בָּ֗ךְ (Ezek. 23:25)
+NIV	_I will direct_ my jealous anger against you, and they will deal with you in fury. They will cut off your noses and your ears, and those of you who are left will fall by the sword. They will take away your sons and daughters, and those of you who are left will be consumed by fire.
+ESV	And _I will direct_ my jealousy against you, that they may deal with you in fury. They shall cut off your nose and your ears, and your survivors shall fall by the sword. They shall seize your sons and your daughters, and your survivors shall be devoured by fire.
+
+(x)	בְּתִתִּ֤י אֹתָךְ֙ עִ֣יר נֶחֱרֶ֔בֶת כֶּעָרִ֖ים אֲשֶׁ֣ר לֹֽא־נֹושָׁ֑בוּ בְּהַעֲלֹ֤ות עָלַ֨יִךְ֙ אֶת־תְּהֹ֔ום וְכִסּ֖וּךְ הַמַּ֥יִם הָרַבִּֽים׃ וְ_הֹורַדְתִּיךְ֩_ אֶת־יֹ֨ורְדֵי בֹ֜ור אֶל־עַ֣ם עֹולָ֗ם (Ezek. 26:20)
+NIV	then I will bring you down with those who go down to the pit, to the people of long ago. I will make you dwell in the earth below, as in ancient ruins, with those who go down to the pit, and you will not return or take your place in the land of the living.
+ESV	then I will make you go down with those who go down to the pit, to the people of old, and I will make you to dwell in the world below, among ruins from of old, with those who go down to the pit, so that you will not be inhabited. but I will set beauty in the land of the living.
+
+(x)	וְ_עָשִׂ֥יתִי_ שְׁפָטִ֖ים בְּמִצְרָ֑יִם (Ezek. 30:19)
+NIV	So _I will inflict_ punishment on Egypt, and they will know that I am the LORD.’”
+ESV	Thus _I will execute_ judgments on Egypt. Then they will know that I am the Lord.”
+
+(x)	וְ_רָעָ֣ה_ אֶתְהֶ֔ן אֵ֖ת עַבְדִּ֣י דָוִ֑יד (Ezek. 34:23)
+NIV	I will place over them one shepherd, my servant David, and _he will tend_ them. _he will tend_ them and be their shepherd.
+ESV	And I will set up over them one shepherd, my servant David, and _he shall feed_ them: _he shall feed_ them and be their shepherd.
+
+(x)	וְ_יָדְע֖וּ_ (Ezek. 36:38)
+NIV	as numerous as the flocks for offerings at Jerusalem during her appointed feasts. So will the ruined cities be filled with flocks of people. Then _they will know_ that I am the LORD.”
+ESV	Like the flock for sacrifices, like the flock at Jerusalem during her appointed feasts, so shall the waste cities be filled with flocks of people. Then _they will know_ that I am the Lord.”
+
+(x)	וְ_שָׁלְל֣וּ_ אֶת־שֹׁלְלֵיהֶ֗ם (Ezek. 39:10)
+NIV	They will not need to gather wood from the fields or cut it from the forests, because they will use the weapons for fuel. And _they will plunder_ those who plundered them and loot those who looted them, declares the Sovereign LORD.
+ESV	so that they will not need to take wood out of the field or cut down any out of the forests, for they will make their fires of the weapons. _They will seize the spoil_ of those who despoiled them, and plunder those who plundered them, declares the Lord God.
+
+(x)	וּ_פָקַדְתִּ֤י_ עָלָיו֙ דְּרָכָ֔יו (Hos. 4:9)
+NIV	And it will be: Like people, like priests. _I will punish_ both of them for their ways and repay them for their deeds.
+ESV	And it shall be like people, like priest. _I will punish_ them for their ways and repay them for their deeds.
+
+(x)	וְ_הִכֵּיתִ֥י_ בֵית־הַחֹ֖רֶף עַל־בֵּ֣ית הַקָּ֑יִץ (Amos 3:15)
+NIV	_I will tear down_ the winter house along with the summer house. the houses adorned with ivory will be destroyed and the mansions will be demolished,” declares the LORD.
+ESV	_I will strike_ the winter house along with the summer house, and the houses of ivory shall perish, and the great houses shall come to an end,” declares the Lord.
+
+(x)	וְ_קָדַ֥ר_ עֲלֵיהֶ֖ם הַיֹּֽום׃ (Mic. 3:6)
+NIV	Therefore night will come over you, without visions, and darkness, without divination. The sun will set for the prophets, and the day _will go dark_ for them.
+ESV	Therefore it shall be night to you, without vision, and darkness to you, without divination. The sun shall go down on the prophets, and the day _shall be black_ over them.
+
+(x)	וּ_בָ֖אוּ_ חֶמְדַּ֣ת כָּל־הַגֹּויִ֑ם (Hag. 2:7)
+NIV	I will shake all nations, and the desired of all nations _will come_, and I will fill this house with glory,’ says the LORD Almighty.
+ESV	And I will shake all nations, so that the treasures of all nations _shall come in_, and I will fill this house with glory, says the Lord of hosts.
+
+(x)	וַ_הֲשִֽׁיבֹותִים֙_ מֵאֶ֣רֶץ מִצְרַ֔יִם (Zech. 10:10)
+NIV	I will bring them back from Egypt and gather them from Assyria. I will bring them to Gilead and Lebanon, and there will not be room enough for them.
+ESV	I will bring them home from the land of Egypt, and gather them from Assyria, and I will bring them to the land of Gilead and to Lebanon, till there is no room for them.
+
+(x)	וְ_הֵשִׁ֤יב_ לֵב־אָבֹות֙ עַל־בָּנִ֔ים וְלֵ֥ב בָּנִ֖ים עַל־אֲבֹותָ֑ם (Mal. 3:24)
+NIV	_He will turn_ the hearts of the fathers to their children, and the hearts of the children to their fathers. or else I will come and strike the land with a curse.”
+ESV	And _he will turn_ the hearts of fathers to their children and the hearts of children to their fathers, lest I come and strike the land with a decree of utter destruction.”

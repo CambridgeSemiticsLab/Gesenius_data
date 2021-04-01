@@ -1,17 +1,61 @@
 eng_TAMsimp == "IMPV ~ MOD shall" and cl_args.isin(["OV", "_W_OV"])
 15 of 137
-you shall impose, require (ESV, NIV | BHS תָּשִׂ֣ימוּ עֲלֵיהֶ֔ם , Exod. 5:8)
-you shall mistreat, do take advantage (ESV, NIV | BHS כָּל־אַלְמָנָ֥ה וְיָתֹ֖ום לֹ֥א תְעַנּֽוּן׃ , Exod. 22:21)
-you shall make, make (ESV, NIV | BHS וְאֶת־הַמִּשְׁכָּ֥ן תַּעֲשֶׂ֖ה עֶ֣שֶׂר יְרִיעֹ֑ת , Exod. 26:1)
-you shall pour out, pour out (ESV, NIV | BHS וְאֶת־כָּל־הַדָּ֣ם תִּשְׁפֹּ֔ךְ אֶל־יְסֹ֖וד הַמִּזְבֵּֽחַ׃ , Exod. 29:12)
-you shall pour, do pour (ESV, NIV | BHS וְנֵ֕סֶךְ לֹ֥א תִסְּכ֖וּ עָלָֽיו׃ , Exod. 30:9)
-offer, present (ESV, NIV | BHS תֻּפִינֵי֙ מִנְחַ֣ת פִּתִּ֔ים תַּקְרִ֥יב , Lev. 6:14)
-you shall take, do have sexual relations with (ESV, NIV | BHS אֶֽת־בַּת־בְּנָ֞הּ וְאֶת־בַּת־בִּתָּ֗הּ לֹ֤א תִקַּח֙ , Lev. 18:17)
-you shall uncover, do have sexual relations with (ESV, NIV | BHS וְעֶרְוַ֨ת אֲחֹ֧ות אִמְּךָ֛ וַאֲחֹ֥ות אָבִ֖יךָ לֹ֣א תְגַלֵּ֑ה , Lev. 20:19)
-you shall do, do (ESV, NIV | BHS כָּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃ , Lev. 23:35)
-you shall offer, prepare (ESV, NIV | BHS וְיַ֤יִן לַנֶּ֨סֶךְ֙ רְבִיעִ֣ית הַהִ֔ין תַּעֲשֶׂ֥ה עַל־הָעֹלָ֖ה אֹ֣ו לַזָּ֑בַח לַכֶּ֖בֶשׂ הָאֶחָֽד׃ , Num. 15:5)
-you shall do, do (ESV, NIV | BHS כָּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃ ס , Num. 28:25)
-you shall give, give (ESV, NIV | BHS אֵ֣ת׀ שְׁלֹ֣שׁ הֶעָרִ֗ים תִּתְּנוּ֙ מֵעֵ֣בֶר לַיַּרְדֵּ֔ן , Num. 35:14)
-you shall chop down, cut down (ESV, NIV | BHS וּפְסִילֵ֥י אֱלֹֽהֵיהֶ֖ם תְּגַדֵּע֑וּן , Deut. 12:3)
-you shall cut down, do cut down (ESV, NIV | BHS וְאֹתֹ֖ו לֹ֣א תִכְרֹ֑ת , Deut. 20:19)
-you shall cover, cover (ESV, NIV | BHS פָּנֶ֣יךָ תְכַסֶּ֔ה , Ezek. 12:6)
+(x)	וְאֶת־מַתְכֹּ֨נֶת הַלְּבֵנִ֜ים אֲשֶׁ֣ר הֵם֩ עֹשִׂ֨ים תְּמֹ֤ול שִׁלְשֹׁם֙ _תָּשִׂ֣ימוּ_ עֲלֵיהֶ֔ם (Exod. 5:8)
+NIV	But _require_ them to make the same number of bricks as before. don’t reduce the quota. They are lazy. that is why they are crying out, ‘Let us go and sacrifice to our God.’
+ESV	But the number of bricks that they made in the past _you shall impose_ on them, you shall by no means reduce it, for they are idle. Therefore they cry, ‘Let us go and offer sacrifice to our God.’
+
+(x)	כָּל־אַלְמָנָ֥ה וְיָתֹ֖ום לֹ֥א _תְעַנּֽוּן_׃ (Exod. 22:21)
+NIV	“Do not take advantage of a widow or an orphan.
+ESV	You shall not mistreat any widow or fatherless child.
+
+(x)	וְאֶת־הַמִּשְׁכָּ֥ן _תַּעֲשֶׂ֖ה_ עֶ֣שֶׂר יְרִיעֹ֑ת (Exod. 26:1)
+NIV	“_Make_ the tabernacle with ten curtains of finely twisted linen and blue, purple and scarlet yarn, with cherubim worked into them by a skilled craftsman.
+ESV	“Moreover, _you shall make_ the tabernacle with ten curtains of fine twined linen and blue and purple and scarlet yarns. _you shall make_ them with cherubim skillfully worked into them.
+
+(x)	וְאֶת־כָּל־הַדָּ֣ם _תִּשְׁפֹּ֔ךְ_ אֶל־יְסֹ֖וד הַמִּזְבֵּֽחַ׃ (Exod. 29:12)
+NIV	Take some of the bull’s blood and put it on the horns of the altar with your finger, and _pour out_ the rest of it at the base of the altar.
+ESV	and shall take part of the blood of the bull and put it on the horns of the altar with your finger, and the rest of the blood _you shall pour out_ at the base of the altar.
+
+(x)	וְנֵ֕סֶךְ לֹ֥א _תִסְּכ֖וּ_ עָלָֽיו׃ (Exod. 30:9)
+NIV	Do not offer on this altar any other incense or any burnt offering or grain offering, and do not pour a drink offering on it.
+ESV	You shall not offer unauthorized incense on it, or a burnt offering, or a grain offering, and you shall not pour a drink offering on it.
+
+(x)	תֻּפִינֵי֙ מִנְחַ֣ת פִּתִּ֔ים _תַּקְרִ֥יב_ (Lev. 6:14)
+NIV	Prepare it with oil on a griddle. bring it well-mixed and _present_ the grain offering broken in pieces as an aroma pleasing to the LORD.
+ESV	It shall be made with oil on a griddle. You shall bring it well mixed, in baked pieces like a grain _offer_ing, and _offer_ it for a pleasing aroma to the Lord.
+
+(x)	אֶֽת־בַּת־בְּנָ֞הּ וְאֶת־בַּת־בִּתָּ֗הּ לֹ֤א _תִקַּח֙_ לְגַלֹּ֣ות עֶרְוָתָ֔הּ (Lev. 18:17)
+NIV	“‘Do not have sexual relations with both a woman and her daughter. Do not have sexual relations with either her son’s daughter or her daughter’s daughter. they are her close relatives. That is wickedness.
+ESV	You shall not uncover the nakedness of a woman and of her daughter, and you shall not take her son’s daughter or her daughter’s daughter to uncover her nakedness. they are relatives. it is depravity.
+
+(x)	וְעֶרְוַ֨ת אֲחֹ֧ות אִמְּךָ֛ וַאֲחֹ֥ות אָבִ֖יךָ לֹ֣א _תְגַלֵּ֑ה_ (Lev. 20:19)
+NIV	“‘Do not have sexual relations with the sister of either your mother or your father, for that would dishonor a close relative. both of you would be held responsible.
+ESV	You shall not uncover the nakedness of your mother’s sister or of your father’s sister, for that is to make naked one’s relative. they shall bear their iniquity.
+
+(x)	כָּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א _תַעֲשֽׂוּ_׃ (Lev. 23:35)
+NIV	The first day is a sacred assembly. _do_ no regular work.
+ESV	On the first day shall be a holy convocation. you shall not do any ordinary work.
+
+(x)	וְיַ֤יִן לַנֶּ֨סֶךְ֙ רְבִיעִ֣ית הַהִ֔ין _תַּעֲשֶׂ֥ה_ עַל־הָעֹלָ֖ה אֹ֣ו לַזָּ֑בַח לַכֶּ֖בֶשׂ הָאֶחָֽד׃ (Num. 15:5)
+NIV	With each lamb for the burnt offering or the sacrifice, _prepare_ a quarter of a hin of wine as a drink offering.
+ESV	and _you shall offer_ with the burnt offering, or for the sacrifice, a quarter of a hin of wine for the drink offering for each lamb.
+
+(x)	כָּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א _תַעֲשֽׂוּ_׃ ס (Num. 28:25)
+NIV	On the seventh day hold a sacred assembly and _do_ no regular work.
+ESV	And on the seventh day you shall have a holy convocation. You shall not do any ordinary work.
+
+(x)	אֵ֣ת׀ שְׁלֹ֣שׁ הֶעָרִ֗ים _תִּתְּנוּ֙_ מֵעֵ֣בֶר לַיַּרְדֵּ֔ן (Num. 35:14)
+NIV	_Give_ three on this side of the Jordan and three in Canaan as cities of refuge.
+ESV	_You shall give_ three cities beyond the Jordan, and three cities in the land of Canaan, to be cities of refuge.
+
+(x)	וּפְסִילֵ֥י אֱלֹֽהֵיהֶ֖ם _תְּגַדֵּע֑וּן_ (Deut. 12:3)
+NIV	Break down their altars, smash their sacred stones and burn their Asherah poles in the fire. _cut down_ the idols of their gods and wipe out their names from those places.
+ESV	You shall tear down their altars and dash in pieces their pillars and burn their Asherim with fire. _You shall chop down_ the carved images of their gods and destroy their name out of that place.
+
+(x)	וְאֹתֹ֖ו לֹ֣א _תִכְרֹ֑ת_ (Deut. 20:19)
+NIV	When you lay siege to a city for a long time, fighting against it to capture it, do not destroy its trees by putting an axe to them, because you can eat their fruit. Do not cut them down. Are the trees of the field people, that you should besiege them?
+ESV	“When you besiege a city for a long time, making war against it in order to take it, you shall not destroy its trees by wielding an axe against them. You may eat from them, but you shall not cut them down. Are the trees in the field human, that they should be besieged by you?
+
+(x)	פָּנֶ֣יךָ _תְכַסֶּ֔ה_ (Ezek. 12:6)
+NIV	Put them on your shoulder as they are watching and carry them out at dusk. _Cover_ your face so that you cannot see the land, for I have made you a sign to the house of Israel.”
+ESV	In their sight you shall lift the baggage upon your shoulder and carry it out at dusk. _You shall cover_ your face that you may not see the land, for I have made you a sign for the house of Israel.”

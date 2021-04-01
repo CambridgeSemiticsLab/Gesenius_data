@@ -1,0 +1,164 @@
+eng_TAMsimp == "PAST" and french_tense == "passé_comp"
+27 of 27
+
+(x)	וַֽיְמָרֲרֻ֖הוּ וָ_רֹ֑בּוּ_ וַֽיִּשְׂטְמֻ֖הוּ בַּעֲלֵ֥י חִצִּֽים׃ (Gen. 49:23)
+NIV	With bitterness archers attacked him. _they shot_ at him with hostility.
+ESV	The archers bitterly attacked him, _shot_ at him, and harassed him severely,
+NBS	ils ont visé
+NBS (verse)	Ils l'ont provoqué, ils l'ont visé, les archers qui étaient ses adversaires.
+
+(x)	וַיֹּאמַ֗ר יְהוָ֞ה מִסִּינַ֥י בָּא֙ וְ_זָרַ֤ח_ מִשֵּׂעִיר֙ לָ֔מֹו הֹופִ֨יעַ֙ מֵהַ֣ר פָּארָ֔ן וְאָתָ֖ה מֵרִבְבֹ֣ת קֹ֑דֶשׁ מִֽימִינֹ֕ו אֵ֥שׁ דָּ֖ת לָֽמֹו׃ (Deut. 33:2)
+NIV	He said: “The LORD came from Sinai and _dawned over_ them from Seir. he shone forth from Mount Paran. He came with myriads of holy ones from the south, from his mountain slopes.
+ESV	He said, “The Lord came from Sinai and _dawned_ from Seir upon us. he shone forth from Mount Paran. he came from the ten thousands of holy ones, with flaming fire at his right hand.
+NBS	il s est levé
+NBS (verse)	Il dit~: Le Seigneur est venu du Sinaï, il s'est levé sur eux de Séir~; depuis le mont Parân il a paru dans sa splendeur et il est sorti d'entre des dizaines de milliers de saints. De sa main droite il leur a envoyé le feu de la loi.
+
+(x)	וַיֹּאמַ֗ר יְהוָ֞ה מִסִּינַ֥י בָּא֙ וְזָרַ֤ח מִשֵּׂעִיר֙ לָ֔מֹו הֹופִ֨יעַ֙ מֵהַ֣ר פָּארָ֔ן וְ_אָתָ֖ה_ מֵרִבְבֹ֣ת קֹ֑דֶשׁ מִֽימִינֹ֕ו אֵ֥שׁ דָּ֖ת לָֽמֹו׃ (Deut. 33:2)
+NIV	He said: “The LORD came from Sinai and dawned over them from Seir. he shone forth from Mount Paran. _He came_ with myriads of holy ones from the south, from his mountain slopes.
+ESV	He said, “The Lord came from Sinai and dawned from Seir upon us. he shone forth from Mount Paran. _he came_ from the ten thousands of holy ones, with flaming fire at his right hand.
+NBS	il est sorti
+NBS (verse)	Il dit~: Le Seigneur est venu du Sinaï, il s'est levé sur eux de Séir~; depuis le mont Parân il a paru dans sa splendeur et il est sorti d'entre des dizaines de milliers de saints. De sa main droite il leur a envoyé le feu de la loi.
+
+(x)	יָדָהּ֙ לַיָּתֵ֣ד תִּשְׁלַ֔חְנָה וִֽימִינָ֖הּ לְהַלְמ֣וּת עֲמֵלִ֑ים וְ_הָלְמָ֤ה_ סִֽיסְרָא֙ מָחֲקָ֣ה רֹאשֹׁ֔ו וּמָחֲצָ֥ה וְחָלְפָ֖ה רַקָּתֹֽו׃ (Judg. 5:26)
+NIV	Her hand reached for the tent peg, her right hand for the workman’s hammer. _She struck_ Sisera, she crushed his head, she shattered and pierced his temple.
+ESV	She sent her hand to the tent peg and her right hand to the workmen’s mallet. _she struck_ Sisera. she crushed his head. she shattered and pierced his temple.
+NBS	elle a frappé
+NBS (verse)	D'une main elle a saisi le pieu, de sa main droite le marteau des travailleurs~; elle a frappé Sisera, elle lui a fendu la tête, elle lui a fracassé et transpercé la tempe.
+
+(x)	יָדָהּ֙ לַיָּתֵ֣ד תִּשְׁלַ֔חְנָה וִֽימִינָ֖הּ לְהַלְמ֣וּת עֲמֵלִ֑ים וְהָלְמָ֤ה סִֽיסְרָא֙ מָחֲקָ֣ה רֹאשֹׁ֔ו וּ_מָחֲצָ֥ה_ וְחָלְפָ֖ה רַקָּתֹֽו׃ (Judg. 5:26)
+NIV	Her hand reached for the tent peg, her right hand for the workman’s hammer. She struck Sisera, she crushed his head, _she shattered_ and pierced his temple.
+ESV	She sent her hand to the tent peg and her right hand to the workmen’s mallet. she struck Sisera. she crushed his head. _she shattered_ and pierced his temple.
+NBS	elle a fracassé
+NBS (verse)	D'une main elle a saisi le pieu, de sa main droite le marteau des travailleurs~; elle a frappé Sisera, elle lui a fendu la tête, elle lui a fracassé et transpercé la tempe.
+
+(x)	הִנֵּה֩ הַיֹּ֨ום הַזֶּ֜ה רָא֣וּ עֵינֶ֗יךָ אֵ֣ת אֲשֶׁר־נְתָנְךָ֩ יְהוָ֨ה׀ הַיֹּ֤ום׀ בְּיָדִי֙ בַּמְּעָרָ֔ה וְ_אָמַ֥ר_ לַהֲרָגֲךָ֖ וַתָּ֣חָס עָלֶ֑יךָ וָאֹמַ֗ר לֹא־אֶשְׁלַ֤ח יָדִי֙ בַּֽאדֹנִ֔י כִּי־מְשִׁ֥יחַ יְהוָ֖ה הֽוּא׃ (I Sam. 24:11)
+NIV	This day you have seen with your own eyes how the LORD gave you into my hands in the cave. Some _urged_ me to kill you, but I spared you. I said, ‘I will not lift my hand against my master, because he is the LORD’s anointed.’
+ESV	Behold, this day your eyes have seen how the Lord gave you today into my hand in the cave. And _some told_ me to kill you, but I spared you. I said, ‘I will not put out my hand against my lord, for he is the Lord’s anointed.’
+NBS	On a dit
+NBS (verse)	Tu le vois en ce jour, de tes propres yeux~: aujourd'hui le Seigneur t'avait livré à moi dans la grotte. On m'a dit de te tuer, mais je t'ai épargné, en disant~: «~Je ne porterai pas la main sur mon seigneur, car c'est lui qui a reçu l'onction du Seigneur.~»
+
+(x)	מִֽי־מָדַ֨ד בְּשָׁעֳלֹ֜ו מַ֗יִם וְשָׁמַ֨יִם֙ בַּזֶּ֣רֶת תִּכֵּ֔ן וְכָ֥ל בַּשָּׁלִ֖שׁ עֲפַ֣ר הָאָ֑רֶץ וְ_שָׁקַ֤ל_ בַּפֶּ֨לֶס֙ הָרִ֔ים וּגְבָעֹ֖ות בְּמֹאזְנָֽיִם׃ (Isa. 40:12)
+NIV	Who has measured the waters in the hollow of his hand, or with the breadth of his hand marked off the heavens? Who has held the dust of the earth in a basket, or _weighed_ the mountains on the scales and the hills in a balance?
+ESV	Who has measured the waters in the hollow of his hand and marked off the heavens with a span, enclosed the dust of the earth in a measure and _weighed_ the mountains in scales and the hills in a balance?
+NBS	a pesé
+NBS (verse)	Qui a mesuré les eaux dans le creux de sa main, fixé les dimensions du ciel avec la paume, jaugé dans une mesure toute la poussière de la terre~? Qui a pesé les montagnes au crochet et les collines à la balance~?
+
+(x)	וְהֵ֛מָּה מָר֥וּ וְ_עִצְּב֖וּ_ אֶת־ר֣וּחַ קָדְשֹׁ֑ו וַיֵּהָפֵ֥ךְ לָהֶ֛ם לְאֹויֵ֖ב ה֥וּא נִלְחַם־בָּֽם׃ (Isa. 63:10)
+NIV	Yet they rebelled and _grieved_ his Holy Spirit. So he turned and became their enemy and he himself fought against them.
+ESV	But they rebelled and _grieved_ his Holy Spirit. therefore he turned to be their enemy, and himself fought against them.
+NBS	ils ont attristé
+NBS (verse)	Mais ils ont été rebelles, ils ont attristé son souffle sacré. Alors il s'est changé à leur égard en ennemi~; il les a lui-même combattus.
+
+(x)	וְהִנֵּ֣ה כָל־הַנָּשִׁ֗ים אֲשֶׁ֤ר נִשְׁאֲרוּ֙ בְּבֵ֣ית מֶֽלֶךְ־יְהוּדָ֔ה מוּצָאֹ֕ות אֶל־שָׂרֵ֖י מֶ֣לֶךְ בָּבֶ֑ל וְהֵ֣נָּה אֹמְרֹ֗ות הִסִּית֜וּךָ וְ_יָכְל֤וּ_ לְךָ֙ אַנְשֵׁ֣י שְׁלֹמֶ֔ךָ הָטְבְּע֥וּ בַבֹּ֛ץ רַגְלֶ֖ךָ נָסֹ֥גוּ אָחֹֽור׃ (Jer. 38:22)
+NIV	All the women left in the palace of the king of Judah will be brought out to the officials of the king of Babylon. Those women will say to you: “‘They misled you and _overcame_ you — those trusted friends of yours. Your feet are sunk in the mud. your friends have deserted you.’
+ESV	Behold, all the women left in the house of the king of Judah were being led out to the officials of the king of Babylon and were saying, “‘Your trusted friends have deceived you and _prevailed_ against you. now that your feet are sunk in the mud, they turn away from you.’
+NBS	ils ont emporté
+NBS (verse)	Toutes les femmes qui sont restées dans la maison du roi de Juda seront menées aux princes du roi de Babylone, et elles diront~: Ils t'ont entraîné et ils l'ont emporté sur toi, tes amis. Quand tes pieds se sont enfoncés dans la boue, ils ont reculé.
+
+(x)	וּ_בָזָ֥ה_ אָלָ֖ה לְהָפֵ֣ר בְּרִ֑ית וְהִנֵּ֨ה נָתַ֥ן יָדֹ֛ו וְכָל־אֵ֥לֶּה עָשָׂ֖ה לֹ֥א יִמָּלֵֽט׃ ס (Ezek. 17:18)
+NIV	_He despised_ the oath by breaking the covenant. Because he had given his hand in pledge and yet did all these things, he shall not escape.
+ESV	_He despised_ the oath in breaking the covenant, and behold, he gave his hand and did all these things. he shall not escape.
+NBS	Il a méprisé
+NBS (verse)	Il a méprisé l'adjuration, en rompant l'alliance~; il s'était engagé et il a fait tout cela~; il n'échappera pas~!
+
+(x)	וְאַ֗ף כִּ֤י תִשְׁלַ֨חְנָה֙ לַֽאֲנָשִׁ֔ים בָּאִ֖ים מִמֶּרְחָ֑ק אֲשֶׁ֨ר מַלְאָ֜ךְ שָׁל֤וּחַ אֲלֵיהֶם֙ וְהִנֵּה־בָ֔אוּ לַאֲשֶׁ֥ר רָחַ֛צְתְּ כָּחַ֥לְתְּ עֵינַ֖יִךְ וְ_עָ֥דִית_ עֶֽדִי׃ (Ezek. 23:40)
+NIV	“They even sent messengers for men who came from far away, and when they arrived you bathed yourself for them, painted your eyes and _put on_ your jewellery.
+ESV	They even sent for men to come from afar, to whom a messenger was sent. and behold, they came. For them you bathed yourself, painted your eyes, and _adorned yourself_ with ornaments.
+NBS	tu t es parée
+NBS (verse)	Elles ont même envoyé chercher des hommes venant de loin~; elles leur ont envoyé des messagers, et ils sont venus. Pour eux tu t'es lavée, tu as mis du fard à tes yeux, tu t'es parée de tes ornements~;
+
+(x)	אַ֨תְּ־כְּר֔וּב מִמְשַׁ֖ח הַסֹּוכֵ֑ךְ וּ_נְתַתִּ֗יךָ_ בְּהַ֨ר קֹ֤דֶשׁ אֱלֹהִים֙ הָיִ֔יתָ בְּתֹ֥וךְ אַבְנֵי־אֵ֖שׁ הִתְהַלָּֽכְתָּ׃ (Ezek. 28:14)
+NIV	You were anointed as a guardian cherub, for so _I ordained_ you. You were on the holy mount of God. you walked among the fiery stones.
+ESV	You were an anointed guardian cherub. _I placed_ you. you were on the holy mountain of God. in the midst of the stones of fire you walked.
+NBS	je t avais placé
+NBS (verse)	Tu étais un keroub protecteur, aux ailes déployées~; je t'avais placé dans la montagne sacrée de Dieu~; tu étais là, tu te promenais au milieu des pierres ardentes.
+
+(x)	בְּתָפְשָׂ֨ם בְּךָ֤ בַכַּף֙ תֵּרֹ֔וץ וּ_בָקַעְתָּ֥_ לָהֶ֖ם כָּל־כָּתֵ֑ף וּבְהִֽשָּׁעֲנָ֤ם עָלֶ֨יךָ֙ תִּשָּׁבֵ֔ר וְהַעֲמַדְתָּ֥ לָהֶ֖ם כָּל־מָתְנָֽיִם׃ ס (Ezek. 29:7)
+NIV	When they grasped you with their hands, you splintered and _you tore open_ their shoulders. when they leaned on you, you broke and their backs were wrenched.
+ESV	when they grasped you with the hand, you broke and _tore_ all their shoulders. and when they leaned on you, you broke and made all their loins to shake.
+NBS	tu as déchiré
+NBS (verse)	Lorsqu'ils t'ont saisi, tu t'es cassé et tu leur as déchiré toute l'épaule~; lorsqu'ils se sont appuyés sur toi, tu t'es brisé et tu leur as complètement paralysé les reins.
+
+(x)	וַתַּגְדִּ֤ילוּ עָלַי֙ בְּפִיכֶ֔ם וְ_הַעְתַּרְתֶּ֥ם_ עָלַ֖י דִּבְרֵיכֶ֑ם אֲנִ֖י שָׁמָֽעְתִּי׃ ס (Ezek. 35:13)
+NIV	You boasted against me and spoke against me without restraint, and I heard it.
+ESV	And you magnified yourselves against me with your mouth, and _multiplied_ your words against me. I heard it.
+NBS	vous avez tenu
+NBS (verse)	Vous vous êtes élevés contre moi par vos discours, vous avez tenu contre moi des propos grossiers, je les ai entendus moi-même.
+
+(x)	פָּנֹ֤ה אֶל־הַרְבֵּה֙ וְהִנֵּ֣ה לִמְעָ֔ט וַ_הֲבֵאתֶ֥ם_ הַבַּ֖יִת וְנָפַ֣חְתִּי בֹ֑ו יַ֣עַן מֶ֗ה נְאֻם֙ יְהוָ֣ה צְבָאֹ֔ות יַ֗עַן בֵּיתִי֙ אֲשֶׁר־ה֣וּא חָרֵ֔ב וְאַתֶּ֥ם רָצִ֖ים אִ֥ישׁ לְבֵיתֹֽו׃ (Hag. 1:9)
+NIV	“You expected much, but see, it turned out to be little. What _you brought_ home, I blew away. Why?” declares the LORD Almighty. “Because of my house, which remains a ruin, while each of you is busy with his own house.
+ESV	You looked for much, and behold, it came to little. And when _you brought_ it home, I blew it away. Why? declares the Lord of hosts. Because of my house that lies in ruins, while each of you busies himself with his own house.
+NBS	vous l avez rapporté
+NBS (verse)	On attendait beaucoup, et il y a eu peu~; vous l'avez rapporté à la maison, mais j'ai soufflé dessus. Pourquoi~? – déclaration du Seigneur (YHWH) des Armées. A cause de ma maison, qui est en ruine, tandis que chacun de vous s'affaire pour sa propre maison.
+
+(x)	שָׁ֘לֵ֤ו הָיִ֨יתִי׀ וַֽיְפַרְפְּרֵ֗נִי וְ_אָחַ֣ז_ בְּ֭עָרְפִּי וַֽיְפַצְפְּצֵ֑נִי וַיְקִימֵ֥נִי לֹ֝֗ו לְמַטָּרָֽה׃ (Job 16:12)
+NIV	All was well with me, but he shattered me. _he seized_ me by the neck and crushed me. He has made me his target.
+ESV	I was at ease, and he broke me apart. _he seized_ me by the neck and dashed me to pieces. he set me up as his target.
+NBS	il a saisi
+NBS (verse)	J'étais tranquille, et il m'a secoué, il m'a saisi par la nuque et m'a brisé. Il m'a redressé pour lui servir de cible.
+
+(x)	וְ_נָתַ֣תִּי_ אֶת־לִבִּ֗י לִדְרֹ֤ושׁ וְלָתוּר֙ בַּֽחָכְמָ֔ה עַ֛ל כָּל־אֲשֶׁ֥ר נַעֲשָׂ֖ה תַּ֣חַת הַשָּׁמָ֑יִם ה֣וּא׀ עִנְיַ֣ן רָ֗ע נָתַ֧ן אֱלֹהִ֛ים לִבְנֵ֥י הָאָדָ֖ם לַעֲנֹ֥ות בֹּֽו׃ (Eccl. 1:13)
+NIV	_I devoted_ myself to study and to explore by wisdom all that is done under heaven. What a heavy burden God has laid on men!
+ESV	And _I applied_ my heart to seek and to search out by wisdom all that is done under heaven. It is an unhappy business that God has given to the children of man to be busy with.
+NBS	J ai décidé
+NBS (verse)	J'ai décidé de rechercher et d'explorer par la sagesse tout ce qui se fait sous le ciel~; c'est une occupation funeste que Dieu impose aux humains.
+
+(x)	וְ_גָדַ֣לְתִּי_ וְהֹוסַ֔פְתִּי מִכֹּ֛ל שֶׁהָיָ֥ה לְפָנַ֖י בִּירוּשָׁלִָ֑ם אַ֥ף חָכְמָתִ֖י עָ֥מְדָה לִּֽי׃ (Eccl. 2:9)
+NIV	_I became greater_ by far than anyone in Jerusalem before me. In all this my wisdom stayed with me.
+ESV	So _I became great_ and surpassed all who were before me in Jerusalem. Also my wisdom remained with me.
+NBS	Je suis devenu grand
+NBS (verse)	Je suis devenu grand, j'ai surpassé tous ceux qui étaient avant moi à Jérusalem, et ma sagesse demeurait avec moi.
+
+(x)	וּ_פָנִ֣יתִֽי_ אֲנִ֗י בְּכָל־מַעֲשַׂי֙ שֶֽׁעָשׂ֣וּ יָדַ֔י וּבֶֽעָמָ֖ל שֶׁעָמַ֣לְתִּי לַעֲשֹׂ֑ות וְהִנֵּ֨ה הַכֹּ֥ל הֶ֨בֶל֙ וּרְע֣וּת ר֔וּחַ וְאֵ֥ין יִתְרֹ֖ון תַּ֥חַת הַשָּֽׁמֶשׁ׃ (Eccl. 2:11)
+NIV	Yet when I _surveyed_ all that my hands had done and what I had toiled to achieve, everything was meaningless, a chasing after the wind. nothing was gained under the sun.
+ESV	Then I _considered_ all that my hands had done and the toil I had expended in doing it, and behold, all was vanity and a striving after wind, and there was nothing to be gained under the sun.
+NBS	je me suis retourné
+NBS (verse)	Et moi, je me suis retourné vers toutes les choses que mes mains avaient faites, le travail pour lequel j'avais tant peiné~: tout n'est que futilité et poursuite du vent, il n'en résulte aucun avantage sous le soleil.
+
+(x)	וּ_פָנִ֤יתִֽי_ אֲנִי֙ לִרְאֹ֣ות חָכְמָ֔ה וְהֹולֵלֹ֖ות וְסִכְל֑וּת כִּ֣י׀ מֶ֣ה הָאָדָ֗ם שֶׁיָּבֹוא֙ אַחֲרֵ֣י הַמֶּ֔לֶךְ אֵ֥ת אֲשֶׁר־כְּבָ֖ר עָשֽׂוּהוּ׃ (Eccl. 2:12)
+NIV	Then I _turned_ my thoughts to consider wisdom, and also madness and folly. What more can the king’s successor do than what has already been done?
+ESV	So I _turned_ to consider wisdom and madness and folly. For what can the man do who comes after the king? Only what has already been done.
+NBS	je me suis retourné
+NBS (verse)	Et moi, je me suis retourné pour voir la sagesse, la démence et la folie. – En effet, que fera celui qui succédera au roi~? Ce qu'on a déjà fait.~–
+
+(x)	וְ_רָאִ֣יתִי_ אָ֔נִי שֶׁיֵּ֥שׁ יִתְרֹ֛ון לַֽחָכְמָ֖ה מִן־הַסִּכְל֑וּת כִּֽיתְרֹ֥ון הָאֹ֖ור מִן־הַחֹֽשֶׁךְ׃ (Eccl. 2:13)
+NIV	I _saw_ that wisdom is better than folly, just as light is better than darkness.
+ESV	Then I _saw_ that there is more gain in wisdom than in folly, as there is more gain in light than in darkness.
+NBS	j ai vu
+NBS (verse)	Et moi, j'ai vu ceci~: l'avantage de la sagesse l'emporte sur celui de la folie, comme l'avantage de la lumière sur celui des ténèbres~;
+
+(x)	וְ_אָמַ֨רְתִּֽי_ אֲנִ֜י בְּלִבִּ֗י כְּמִקְרֵ֤ה הַכְּסִיל֙ גַּם־אֲנִ֣י יִקְרֵ֔נִי וְלָ֧מָּה חָכַ֛מְתִּי אֲנִ֖י אָ֣ז יֹותֵ֑ר וְדִבַּ֣רְתִּי בְלִבִּ֔י שֶׁגַּם־זֶ֖ה הָֽבֶל׃ (Eccl. 2:15)
+NIV	Then I _thought_ in my heart, “The fate of the fool will overtake me also. What then do I gain by being wise?” I said in my heart, “This too is meaningless.”
+ESV	Then I _said_ in my heart, “What happens to the fool will happen to me also. Why then have I been so very wise?” And I _said_ in my heart that this also is vanity.
+NBS	Je suis dit
+NBS (verse)	Je me suis dit~: Le sort de l'homme stupide m'attend, moi aussi~; pourquoi aurai-je alors montré, moi, davantage de sagesse~? Et je me suis dit que c'est là encore une futilité.
+
+(x)	וְ_שָׂנֵ֤אתִֽי_ אֲנִי֙ אֶת־כָּל־עֲמָלִ֔י שֶׁאֲנִ֥י עָמֵ֖ל תַּ֣חַת הַשָּׁ֑מֶשׁ שֶׁ֣אַנִּיחֶ֔נּוּ לָאָדָ֖ם שֶׁיִּהְיֶ֥ה אַחֲרָֽי׃ (Eccl. 2:18)
+NIV	I _hated_ all the things I had toiled for under the sun, because I must leave them to the one who comes after me.
+ESV	I _hated_ all my toil in which I toil under the sun, seeing that I must leave it to the man who will come after me,
+NBS	J ai détesté
+NBS (verse)	J'ai détesté tout le travail que j'ai fait sous le soleil, et que je dois laisser à celui qui me succédera.
+
+(x)	וְ_סַבֹּ֥ותִֽי_ אֲנִ֖י לְיַאֵ֣שׁ אֶת־לִבִּ֑י עַ֚ל כָּל־הֶ֣עָמָ֔ל שֶׁעָמַ֖לְתִּי תַּ֥חַת הַשָּֽׁמֶשׁ׃ (Eccl. 2:20)
+NIV	So my heart _began_ to despair over all my toilsome labour under the sun.
+ESV	So I _turned about_ and gave my heart up to despair over all the toil of my labors under the sun,
+NBS	J suis venu
+NBS (verse)	J'en suis venu à me décourager de tout le travail que j'avais fait sous le soleil.
+
+(x)	וְ_רָאִ֗יתִי_ כִּ֣י אֵ֥ין טֹוב֙ מֵאֲשֶׁ֨ר יִשְׂמַ֤ח הָאָדָם֙ בְּֽמַעֲשָׂ֔יו כִּי־ה֖וּא חֶלְקֹ֑ו כִּ֣י מִ֤י יְבִיאֶ֨נּוּ֙ לִרְאֹ֔ות בְּמֶ֖ה שֶׁיִּהְיֶ֥ה אַחֲרָֽיו׃ (Eccl. 3:22)
+NIV	So _I saw_ that there is nothing better for a man than to enjoy his work, because that is his lot. For who can bring him to see what will happen after him?
+ESV	So _I saw_ that there is nothing better than that a man should rejoice in his work, for that is his lot. Who can bring him to see what will be after him?
+NBS	J ai vu
+NBS (verse)	J'ai vu qu'il n'y a rien de mieux pour l'être humain que de se réjouir de ses œuvres~: c'est là sa part. En effet, qui le fera revenir pour voir ce qui sera après lui~?
+
+(x)	וְ_רָאִיתִי֮_ אֶת־כָּל־מַעֲשֵׂ֣ה הָאֱלֹהִים֒ כִּי֩ לֹ֨א יוּכַ֜ל הָאָדָ֗ם לִמְצֹוא֙ אֶת־הַֽמַּעֲשֶׂה֙ אֲשֶׁ֣ר נַעֲשָׂ֣ה תַֽחַת־הַשֶּׁ֔מֶשׁ בְּ֠שֶׁל אֲשֶׁ֨ר יַעֲמֹ֧ל הָאָדָ֛ם לְבַקֵּ֖שׁ וְלֹ֣א יִמְצָ֑א וְגַ֨ם אִם־יֹאמַ֤ר הֶֽחָכָם֙ לָדַ֔עַת לֹ֥א יוּכַ֖ל לִמְצֹֽא׃ (Eccl. 8:17)
+NIV	then _I saw_ all that God has done. No-one can comprehend what goes on under the sun. Despite all his efforts to search it out, man cannot discover its meaning. Even if a wise man claims he knows, he cannot really comprehend it.
+ESV	then _I saw_ all the work of God, that man cannot find out the work that is done under the sun. However much man may toil in seeking, he will not find it out. Even though a wise man claims to know, he cannot find it out.
+NBS	j ai vu
+NBS (verse)	j'ai vu toute l'œuvre de Dieu~: l'être humain ne peut pas trouver l'œuvre qui se fait sous le soleil~; ce que l'être humain cherche avec peine, il ne le trouvera pas~; et même si le sage prétend connaître, il ne peut pas trouver.
+
+(x)	אַתָּה־הוּא֙ יְהוָ֣ה הָאֱלֹהִ֔ים אֲשֶׁ֤ר בָּחַ֨רְתָּ֙ בְּאַבְרָ֔ם וְהֹוצֵאתֹ֖ו מֵא֣וּר כַּשְׂדִּ֑ים וְ_שַׂ֥מְתָּ_ שְּׁמֹ֖ו אַבְרָהָֽם׃ (Neh. 9:7)
+NIV	“You are the LORD God, who chose Abram and brought him out of Ur of the Chaldeans and _named_ him Abraham.
+ESV	You are the Lord, the God who chose Abram and brought him out of Ur of the Chaldeans and _gave_ him the name Abraham.
+NBS	qui as donné
+NBS (verse)	C'est toi, Seigneur Dieu, qui as choisi Abram, qui lui as fait quitter Our-des-Chaldéens et qui lui as donné le nom d'Abraham.

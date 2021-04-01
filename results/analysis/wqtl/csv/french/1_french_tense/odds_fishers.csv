@@ -1,0 +1,40 @@
+,imparfait,passé_comp,passé_simp
+PAST,0.46,0.63,4.97
+PAST ~ PRES,12.19,0.23,0.0
+PRES,0.09,5.87,1.17
+MOD would ~ PAST,inf,0.0,0.0
+FUT,0.59,4.54,0.0
+FUT ~ MOD shall,0.72,1.33,1.11
+MOD would,15.93,0.0,0.25
+PRES PERF,0.0,inf,0.0
+PAST ~ PRES PART,1.59,0.59,0.9
+PAST ~ PRES PERF,0.0,inf,0.0
+FUT ~ PRES,0.52,4.96,0.0
+PAST ~ PAST PROG,4.27,0.0,0.9
+PRES ~ PRES PART,1.05,2.43,0.0
+HAB used to ~ PAST,inf,0.0,0.0
+HAB used to ~ MOD would,inf,0.0,0.0
+HAB used to,2.11,0.0,1.81
+MOD is to ~ MOD shall,0.0,0.0,inf
+FUT ~ MOD lest,inf,0.0,0.0
+PAST ~ TO INF,0.0,0.0,inf
+IMPV ~ MOD would,inf,0.0,0.0
+PRES PART,1.05,0.0,3.63
+FUT ~ MOD may,0.0,inf,0.0
+IMPV ~ PRES,0.0,0.0,inf
+FUT ~ MOD can,0.0,inf,0.0
+HAB used to ~ PAST PROG,inf,0.0,0.0
+IMPV,0.0,0.0,inf
+TO INF,inf,0.0,0.0
+MOD may,inf,0.0,0.0
+MOD may ~ PRES,inf,0.0,0.0
+MOD shall,0.0,0.0,inf
+MOD should,inf,0.0,0.0
+MOD should ~ PRES,inf,0.0,0.0
+PRES ~ PRES PERF,0.0,inf,0.0
+MOD was to ~ PAST,inf,0.0,0.0
+MOD would ~ PRES PART,inf,0.0,0.0
+MOD ~ MOD would,inf,0.0,0.0
+PAST ~ PAST PERF,0.0,0.0,inf
+PRES PERF ~ TO INF,0.0,inf,0.0
+MOD was to,inf,0.0,0.0

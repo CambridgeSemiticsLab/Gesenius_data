@@ -1,0 +1,284 @@
+eng_TAMsimp == "PAST" and french_tense == "passé_simp"
+47 of 47
+
+(x)	וְ_הֶאֱמִ֖ן_ בַּֽיהוָ֑ה וַיַּחְשְׁבֶ֥הָ לֹּ֖ו צְדָקָֽה׃ (Gen. 15:6)
+NIV	_Abram believed_ the LORD, and he credited it to him as righteousness.
+ESV	And _he believed_ the Lord, and he counted it to him as righteousness.
+NBS	mit sa foi Il Il Il
+NBS (verse)	Il mit sa foi dans le Seigneur~; il le lui compta comme justice.
+
+(x)	וְ_הֹוכִ֥חַ_ אַבְרָהָ֖ם אֶת־אֲבִימֶ֑לֶךְ עַל־אֹדֹות֙ בְּאֵ֣ר הַמַּ֔יִם אֲשֶׁ֥ר גָּזְל֖וּ עַבְדֵ֥י אֲבִימֶֽלֶךְ׃ (Gen. 21:25)
+NIV	Then Abraham _complained_ to Abimelech about a well of water that Abimelech’s servants had seized.
+ESV	When Abraham _reproved_ Abimelech about a well of water that Abimelech’s servants had seized,
+NBS	fit des reproches
+NBS (verse)	Abraham fit des reproches à Abimélek au sujet d'un puits dont les gens d'Abimélek s'étaient emparés de force.
+
+(x)	וְיַעֲקֹ֣ב שָׁמַ֗ע כִּ֤י טִמֵּא֙ אֶת־דִּינָ֣ה בִתֹּ֔ו וּבָנָ֛יו הָי֥וּ אֶת־מִקְנֵ֖הוּ בַּשָּׂדֶ֑ה וְ_הֶחֱרִ֥שׁ_ יַעֲקֹ֖ב עַד־בֹּאָֽם׃ (Gen. 34:5)
+NIV	When Jacob heard that his daughter Dinah had been defiled, his sons were in the fields with his livestock. so he _kept quiet_ about it until they came home.
+ESV	Now Jacob heard that he had defiled his daughter Dinah. But his sons were with his livestock in the field, so Jacob held his peace until they came.
+NBS	silence garda le
+NBS (verse)	Jacob apprit qu'il avait souillé Dina, sa fille~; mais comme ses fils étaient aux champs avec son troupeau, Jacob garda le silence jusqu'à leur arrivée.
+
+(x)	וְאֶת־עַמּוּדָ֤יו חֲמִשָּׁה֙ וְאֶת־וָ֣וֵיהֶ֔ם וְ_צִפָּ֧ה_ רָאשֵׁיהֶ֛ם וַחֲשֻׁקֵיהֶ֖ם זָהָ֑ב וְאַדְנֵיהֶ֥ם חֲמִשָּׁ֖ה נְחֹֽשֶׁת׃ פ (Exod. 36:38)
+NIV	and they made five posts with hooks for them. _They overlaid_ the tops of the posts and their bands with gold and made their five bases of bronze.
+ESV	and its five pillars with their hooks. _He overlaid_ their capitals, and their fillets were of gold, but their five bases were of bronze.
+NBS	on couvrit
+NBS (verse)	On fit ses cinq colonnes et leurs crochets, on couvrit d'or leurs chapiteaux et leurs tringles~; leurs cinq socles étaient de bronze.
+
+(x)	וַתֵּ֣רֶא דְּלִילָ֗ה כִּֽי־הִגִּ֣יד לָהּ֮ אֶת־כָּל־לִבֹּו֒ וַתִּשְׁלַ֡ח וַתִּקְרָא֩ לְסַרְנֵ֨י פְלִשְׁתִּ֤ים לֵאמֹר֙ עֲל֣וּ הַפַּ֔עַם כִּֽי־הִגִּ֥יד לִ֖י אֶת־כָּל־לִבֹּ֑ו וְ_עָל֤וּ_ אֵלֶ֨יהָ֙ סַרְנֵ֣י פְלִשְׁתִּ֔ים וַיַּעֲל֥וּ הַכֶּ֖סֶף בְּיָדָֽם׃ (Judg. 16:18)
+NIV	When Delilah saw that he had told her everything, she sent word to the rulers of the Philistines, “Come back once more. he has told me everything.” So the rulers of the Philistines _returned_ with the silver in their hands.
+ESV	When Delilah saw that he had told her all his heart, she sent and called the lords of the Philistines, saying, “Come up again, for he has told me all his heart.” Then the lords of the Philistines _came up_ to her and brought the money in their hands.
+NBS	montèrent
+NBS (verse)	Dalila, voyant qu'il lui avait ouvert tout son cœur, fit appeler les princes de la confédération des Philistins et leur fit dire~: Montez, cette fois, car il m'a ouvert tout son cœur. Les princes de la confédération des Philistins montèrent donc chez elle et apportèrent l'argent.
+
+(x)	וְיָצָ֧אתִי אַחֲרָ֛יו וְהִכִּתִ֖יו וְהִצַּ֣לְתִּי מִפִּ֑יו וַיָּ֣קָם עָלַ֔י וְ_הֶחֱזַ֨קְתִּי֙_ בִּזְקָנֹ֔ו וְהִכִּתִ֖יו וַהֲמִיתִּֽיו׃ (I Sam. 17:35)
+NIV	I went after it, struck it and rescued the sheep from its mouth. When it turned on me, _I seized_ it by its hair, struck it and killed it.
+ESV	I went after him and struck him and delivered it out of his mouth. And if he arose against me, _I caught_ him by his beard and struck him and killed him.
+NBS	je saisissais
+NBS (verse)	je lui courais après, je le frappais et je délivrais la bête de sa gueule. S'il se dressait contre moi, je le saisissais par la barbe, je le frappais et je le tuais.
+
+(x)	וַיַּלְבֵּ֨שׁ שָׁא֤וּל אֶת־דָּוִד֙ מַדָּ֔יו וְ_נָתַ֛ן_ קֹ֥ובַע נְחֹ֖שֶׁת עַל־רֹאשֹׁ֑ו וַיַּלְבֵּ֥שׁ אֹתֹ֖ו שִׁרְיֹֽון׃ (I Sam. 17:38)
+NIV	Then Saul dressed David in his own tunic. _He put_ a coat of armour on him and a bronze helmet on his head.
+ESV	Then Saul clothed David with his armor. _He put_ a helmet of bronze on his head and clothed him with a coat of mail,
+NBS	il plaça
+NBS (verse)	Saül revêtit David de ses propres habits~; il plaça sur sa tête un casque de bronze et le revêtit d'une cuirasse.
+
+(x)	וְאֶת־הָעָ֨ם אֲשֶׁר־בָּ֜הּ הֹוצִ֗יא וַיָּ֣שֶׂם בַּ֠מְּגֵרָה וּבַחֲרִצֵ֨י הַבַּרְזֶ֜ל וּֽבְמַגְזְרֹ֣ת הַבַּרְזֶ֗ל וְ_הֶעֱבִ֤יר_ אֹותָם֙ בַּמַּלְבֵּ֔ן וְכֵ֣ן יַעֲשֶׂ֔ה לְכֹ֖ל עָרֵ֣י בְנֵֽי־עַמֹּ֑ון וַיָּ֧שָׁב דָּוִ֛ד וְכָל־הָעָ֖ם יְרוּשָׁלִָֽם׃ פ (II Sam. 12:31)
+NIV	and brought out the people who were there, consigning them to labour with saws and with iron picks and axes, and he made them work at brickmaking. He did this to all the Ammonite towns. Then David and his entire army returned to Jerusalem.
+ESV	And he brought out the people who were in it and set them to labor with saws and iron picks and iron axes and made them toil at the brick kilns. And thus he did to all the cities of the Ammonites. Then David and all the people returned to Jerusalem.
+NBS	condamna
+NBS (verse)	Quant au peuple qui s'y trouvait, il le fit sortir~; il les affecta aux scies, aux herses de fer et aux haches de fer, et les condamna au moulage des briques~; il traita de même toutes les villes des Ammonites. Puis David revint à Jérusalem avec toutes les troupes.
+
+(x)	וְעָלֶ֨יהָ֙ כְּתֹ֣נֶת פַּסִּ֔ים כִּי֩ כֵ֨ן תִּלְבַּ֧שְׁןָ בְנֹות־הַמֶּ֛לֶךְ הַבְּתוּלֹ֖ת מְעִילִ֑ים וַיֹּצֵ֨א אֹותָ֤הּ מְשָֽׁרְתֹו֙ הַח֔וּץ וְ_נָעַ֥ל_ הַדֶּ֖לֶת אַחֲרֶֽיהָ׃ (II Sam. 13:18)
+NIV	So his servant put her out and _bolted_ the door after her. She was wearing a richly ornamented robe, for this was the kind of garment the virgin daughters of the king wore.
+ESV	Now she was wearing a long robe with sleeves, for thus were the virgin daughters of the king dressed. So his servant put her out and _bolted_ the door after her.
+NBS	verrouilla
+NBS (verse)	Elle portait une tunique multicolore, car c'était le vêtement dont étaient vêtues les filles vierges du roi. Le serviteur d'Amnon la mit dehors et verrouilla la porte derrière elle.
+
+(x)	וְאֶ֨לֶף אִ֣ישׁ עִמֹּו֮ מִבִּנְיָמִן֒ וְצִיבָ֗א נַ֚עַר בֵּ֣ית שָׁא֔וּל וַחֲמֵ֨שֶׁת עָשָׂ֥ר בָּנָ֛יו וְעֶשְׂרִ֥ים עֲבָדָ֖יו אִתֹּ֑ו וְ_צָלְח֥וּ_ הַיַּרְדֵּ֖ן לִפְנֵ֥י הַמֶּֽלֶךְ׃ (II Sam. 19:18)
+NIV	With him were a thousand Benjamites, along with Ziba, the steward of Saul’s household, and his fifteen sons and twenty servants. _They rushed_ to the Jordan, where the king was.
+ESV	And with him were a thousand men from Benjamin. And Ziba the servant of the house of Saul, with his fifteen sons and his twenty servants, _rushed down_ to the Jordan before the king,
+NBS	Ils parvinrent
+NBS (verse)	Il avait avec lui mille hommes de Benjamin, ainsi que Tsiba, qui était au service de la maison de Saül, avec ses quinze fils et ses vingt serviteurs. Ils parvinrent au Jourdain avant le roi.
+
+(x)	וְ_עָבְרָ֣ה_ הָעֲבָרָ֗ה לַֽעֲבִיר֙ אֶת־בֵּ֣ית הַמֶּ֔לֶךְ וְלַעֲשֹׂ֥ות הַטֹּ֖וב בְּעֵינָ֑יו וְשִׁמְעִ֣י בֶן־גֵּרָ֗א נָפַל֙ לִפְנֵ֣י הַמֶּ֔לֶךְ בְּעָבְרֹ֖ו בַּיַּרְדֵּֽן׃ (II Sam. 19:19)
+NIV	_They crossed_ at the ford to take the king’s household over and to do whatever he wished. When Shimei son of Gera crossed the Jordan, he fell prostrate before the king
+ESV	and _they crossed_ the ford to bring over the king’s household and to do his pleasure. And Shimei the son of Gera fell down before the king, as he was about to cross the Jordan,
+NBS	passa
+NBS (verse)	L'équipe de passeurs passa pour faire passer la maison du roi comme il lui plaisait. Shiméi, fils de Guéra, tomba devant le roi quand celui-ci eut passé le Jourdain.
+
+(x)	וּבְנָיָ֨הוּ בֶן־יְהֹויָדָ֧ע בֶּן־אִֽישׁ־חַ֛יִל רַב־פְּעָלִ֖ים מִֽקַּבְצְאֵ֑ל ה֣וּא הִכָּ֗ה אֵ֣ת שְׁנֵ֤י אֲרִאֵל֙ מֹואָ֔ב וְ֠הוּא יָרַ֞ד וְ_הִכָּ֧ה_ אֶֽת־הָאֲרִ֛י בְּתֹ֥וךְ הַבֹּ֖אר בְּיֹ֥ום הַשָּֽׁלֶג׃ (II Sam. 23:20)
+NIV	Benaiah son of Jehoiada was a valiant fighter from Kabzeel, who performed great exploits. He struck down two of Moab’s best men. He also went down into a pit on a snowy day and _killed_ a lion.
+ESV	And Benaiah the son of Jehoiada was a valiant man of Kabzeel, a doer of great deeds. He _struck down_ two ariels of Moab. He also went down and _struck down_ a lion in a pit on a day when snow had fallen.
+NBS	abattit
+NBS (verse)	Benaya, fils de Joïada, était un homme de valeur, originaire de Qabtséel, qui avait fait de nombreux exploits. C'est lui qui abattit les deux Ariel de Moab. C'est lui qui descendit et abattit un lion dans une citerne, un jour de neige.
+
+(x)	וְהֶעֱלָ֣ה שְׁלֹמֹ֡ה שָׁלֹשׁ֩ פְּעָמִ֨ים בַּשָּׁנָ֜ה עֹלֹ֣ות וּשְׁלָמִ֗ים עַל־הַמִּזְבֵּ֨חַ֙ אֲשֶׁ֣ר בָּנָ֣ה לַיהוָ֔ה וְהַקְטֵ֣יר אִתֹּ֗ו אֲשֶׁ֖ר לִפְנֵ֣י יְהוָ֑ה וְ_שִׁלַּ֖ם_ אֶת־הַבָּֽיִת׃ (I Kgs. 9:25)
+NIV	Three times a year Solomon sacrificed burnt offerings and fellowship offerings on the altar he had built for the LORD, burning incense before the LORD along with them, and so _fulfilled_ the temple obligations.
+ESV	Three times a year Solomon used to offer up burnt offerings and peace offerings on the altar that he built to the Lord, making offerings with it before the Lord. So _he finished_ the house.
+NBS	Il acheva
+NBS (verse)	Salomon offrait trois fois par an des holocaustes et des sacrifices de paix sur l'autel qu'il avait bâti pour le Seigneur et il offrait de l'encens sur celui qui était devant le Seigneur. Il acheva la Maison.
+
+(x)	וַיַּ֣עַשׂ יָרָבְעָ֣ם׀ חָ֡ג בַּחֹ֣דֶשׁ הַשְּׁמִינִ֣י בַּחֲמִשָּֽׁה־עָשָׂר֩ יֹ֨ום׀ לַחֹ֜דֶשׁ כֶּחָ֣ג׀ אֲשֶׁ֣ר בִּיהוּדָ֗ה וַיַּ֨עַל֙ עַל־הַמִּזְבֵּ֔חַ כֵּ֤ן עָשָׂה֙ בְּבֵֽית־אֵ֔ל לְזַבֵּ֖חַ לָעֲגָלִ֣ים אֲשֶׁר־עָשָׂ֑ה וְ_הֶעֱמִיד֙_ בְּבֵ֣ית אֵ֔ל אֶת־כֹּהֲנֵ֥י הַבָּמֹ֖ות אֲשֶׁ֥ר עָשָֽׂה׃ (I Kgs. 12:32)
+NIV	He instituted a festival on the fifteenth day of the eighth month, like the festival held in Judah, and offered sacrifices on the altar. This he did in Bethel, sacrificing to the calves he had made. And at Bethel he also installed priests at the high places he had made.
+ESV	And Jeroboam appointed a feast on the fifteenth day of the eighth month like the feast that was in Judah, and he offered sacrifices on the altar. So he did in Bethel, sacrificing to the calves that he made. And _he placed_ in Bethel the priests of the high places that he had made.
+NBS	Il installa
+NBS (verse)	Jéroboam fit une fête le quinzième jour du huitième mois, comme la fête qu'on célébrait en Juda, et il monta à l'autel. C'est ainsi qu'il agit à Beth-El, en sacrifiant aux taurillons qu'il avait faits. Il installa à Beth-El les prêtres des hauts lieux qu'il avait faits.
+
+(x)	וְ_נָתַן֩_ בַּיֹּ֨ום הַה֤וּא מֹופֵת֙ לֵאמֹ֔ר זֶ֣ה הַמֹּופֵ֔ת אֲשֶׁ֖ר דִּבֶּ֣ר יְהוָ֑ה הִנֵּ֤ה הַמִּזְבֵּ֨חַ֙ נִקְרָ֔ע וְנִשְׁפַּ֖ךְ הַדֶּ֥שֶׁן אֲשֶׁר־עָלָֽיו׃ (I Kgs. 13:3)
+NIV	That same day _the man of God gave_ a sign: “This is the sign the LORD has declared: The altar will be split apart and the ashes on it will be poured out.”
+ESV	And _he gave_ a sign the same day, saying, “This is the sign that the Lord has spoken: ‘Behold, the altar shall be torn down, and the ashes that are on it shall be poured out.’”
+NBS	il donna
+NBS (verse)	Ce même jour, il donna un présage, en disant~: Tel est le présage indiquant que c'est le Seigneur qui parle~: l'autel se fendra, et les cendres grasses qui sont dessus se répandront.
+
+(x)	וְהֶעָרִ֣ים יַהֲרֹ֡סוּ וְכָל־חֶלְקָ֣ה טֹ֠ובָה יַשְׁלִ֨יכוּ אִישׁ־אַבְנֹ֜ו וּ_מִלְא֗וּהָ_ וְכָל־מַעְיַן־מַ֤יִם יִסְתֹּ֨מוּ֙ וְכָל־עֵֽץ־טֹ֣וב יַפִּ֔ילוּ עַד־הִשְׁאִ֧יר אֲבָנֶ֛יהָ בַּקִּ֖יר חֲרָ֑שֶׂת וַיָּסֹ֥בּוּ הַקַּלָּעִ֖ים וַיַּכּֽוּהָ׃ (II Kgs. 3:25)
+NIV	They destroyed the towns, and each man threw a stone on every good field until it _was covered_. They stopped up all the springs and cut down every good tree. Only Kir Hareseth was left with its stones in place, but men armed with slings surrounded it and attacked it as well.
+ESV	And they overthrew the cities, and on every good piece of land every man threw a stone until it _was covered_. They stopped every spring of water and felled all the good trees, till only its stones were left in Kir-hareseth, and the slingers surrounded and attacked it.
+NBS	remplirent en
+NBS (verse)	Ils rasèrent les villes, ils jetèrent chacun sa pierre dans toutes les meilleures parcelles et les en remplirent, ils bouchèrent toutes les sources et abattirent tous les bons arbres. Finalement, il ne resta plus que les pierres de Qir-Haréseth~; les hommes armés de frondes l'encerclèrent et la mirent à mal.
+
+(x)	וְ_לָקַ֣ח_ אֶת־כָּל־הַזָּהָב־וְ֠הַכֶּסֶף וְאֵ֨ת כָּל־הַכֵּלִ֜ים הַנִּמְצְאִ֣ים בֵּית־יְהוָ֗ה וּבְאֹֽצְרֹות֙ בֵּ֣ית הַמֶּ֔לֶךְ וְאֵ֖ת בְּנֵ֣י הַתַּֽעֲרֻבֹ֑ות וַיָּ֖שָׁב שֹׁמְרֹֽונָה׃ (II Kgs. 14:14)
+NIV	_He took_ all the gold and silver and all the articles found in the temple of the LORD and in the treasuries of the royal palace. He also took hostages and returned to Samaria.
+ESV	And _he seized_ all the gold and silver, and all the vessels that were found in the house of the Lord and in the treasuries of the king’s house, also hostages, and he returned to Samaria.
+NBS	prit Il
+NBS (verse)	Il prit tout l'or et l'argent, ainsi que tous les objets qui se trouvaient dans la maison du Seigneur et dans les trésors de la maison du roi~; il prit aussi des otages, puis il retourna à Samarie.
+
+(x)	ה֣וּא׀ הֵסִ֣יר אֶת־הַבָּמֹ֗ות וְ_שִׁבַּר֙_ אֶת־הַמַּצֵּבֹ֔ת וְכָרַ֖ת אֶת־הָֽאֲשֵׁרָ֑ה וְכִתַּת֩ נְחַ֨שׁ הַנְּחֹ֜שֶׁת אֲשֶׁר־עָשָׂ֣ה מֹשֶׁ֗ה כִּ֣י עַד־הַיָּמִ֤ים הָהֵ֨מָּה֙ הָי֤וּ בְנֵֽי־יִשְׂרָאֵל֙ מְקַטְּרִ֣ים לֹ֔ו וַיִּקְרָא־לֹ֖ו נְחֻשְׁתָּֽן׃ (II Kgs. 18:4)
+NIV	He removed the high places, _smashed_ the sacred stones and cut down the Asherah poles. He broke into pieces the bronze snake Moses had made, for up to that time the Israelites had been burning incense to it. ( It was called Nehushtan. )
+ESV	He removed the high places and _broke_ the pillars and cut down the Asherah. And he _broke_ in pieces the bronze serpent that Moses had made, for until those days the people of Israel had made offerings to it ( it was called Nehushtan ).
+NBS	brisa
+NBS (verse)	C'est lui qui supprima les hauts lieux, brisa les pierres levées, coupa le poteau cultuel (l'ashéra) et mit en pièces le serpent de bronze que Moïse avait fait, car jusqu'alors les Israélites lui avaient offert de l'encens~: on l'appelait Nehoushtân.
+
+(x)	ה֣וּא׀ הֵסִ֣יר אֶת־הַבָּמֹ֗ות וְשִׁבַּר֙ אֶת־הַמַּצֵּבֹ֔ת וְכָרַ֖ת אֶת־הָֽאֲשֵׁרָ֑ה וְ_כִתַּת֩_ נְחַ֨שׁ הַנְּחֹ֜שֶׁת אֲשֶׁר־עָשָׂ֣ה מֹשֶׁ֗ה כִּ֣י עַד־הַיָּמִ֤ים הָהֵ֨מָּה֙ הָי֤וּ בְנֵֽי־יִשְׂרָאֵל֙ מְקַטְּרִ֣ים לֹ֔ו וַיִּקְרָא־לֹ֖ו נְחֻשְׁתָּֽן׃ (II Kgs. 18:4)
+NIV	He removed the high places, smashed the sacred stones and cut down the Asherah poles. _He broke into pieces_ the bronze snake Moses had made, for up to that time the Israelites had been burning incense to it. ( It was called Nehushtan. )
+ESV	He removed the high places and broke the pillars and cut down the Asherah. And _he broke in pieces_ the bronze serpent that Moses had made, for until those days the people of Israel had made offerings to it ( it was called Nehushtan ).
+NBS	mit en pièces
+NBS (verse)	C'est lui qui supprima les hauts lieux, brisa les pierres levées, coupa le poteau cultuel (l'ashéra) et mit en pièces le serpent de bronze que Moïse avait fait, car jusqu'alors les Israélites lui avaient offert de l'encens~: on l'appelait Nehoushtân.
+
+(x)	וְ_הֶחֱרִ֣ישׁוּ_ הָעָ֔ם וְלֹֽא־עָנ֥וּ אֹתֹ֖ו דָּבָ֑ר כִּי־מִצְוַ֨ת הַמֶּ֥לֶךְ הִ֛יא לֵאמֹ֖ר לֹ֥א תַעֲנֻֽהוּ׃ (II Kgs. 18:36)
+NIV	But the people _remained silent_ and said nothing in reply, because the king had commanded, “Do not answer him.”
+ESV	But the people _were silent_ and answered him not a word, for the king’s command was, “Do not answer him.”
+NBS	silence garda le
+NBS (verse)	Le peuple garda le silence~; il ne lui répondit pas un mot, car le roi avait donné cet ordre~: «~Vous ne lui répondrez pas.~»
+
+(x)	וַיְצַ֣ו הַמֶּ֡לֶךְ אֶת־חִלְקִיָּהוּ֩ הַכֹּהֵ֨ן הַגָּדֹ֜ול וְאֶת־כֹּהֲנֵ֣י הַמִּשְׁנֶה֮ וְאֶת־שֹׁמְרֵ֣י הַסַּף֒ לְהֹוצִיא֙ מֵהֵיכַ֣ל יְהוָ֔ה אֵ֣ת כָּל־הַכֵּלִ֗ים הָֽעֲשׂוּיִם֙ לַבַּ֣עַל וְלָֽאֲשֵׁרָ֔ה וּלְכֹ֖ל צְבָ֣א הַשָּׁמָ֑יִם וַֽיִּשְׂרְפֵ֞ם מִח֤וּץ לִירוּשָׁלִַ֨ם֙ בְּשַׁדְמֹ֣ות קִדְרֹ֔ון וְ_נָשָׂ֥א_ אֶת־עֲפָרָ֖ם בֵּֽית־אֵֽל׃ (II Kgs. 23:4)
+NIV	The king ordered Hilkiah the high priest, the priests next in rank and the doorkeepers to remove from the temple of the LORD all the articles made for Baal and Asherah and all the starry hosts. He burned them outside Jerusalem in the fields of the Kidron Valley and _took_ the ashes to Bethel.
+ESV	And the king commanded Hilkiah the high priest and the priests of the second order and the keepers of the threshold to bring out of the temple of the Lord all the vessels made for Baal, for Asherah, and for all the host of heaven. He burned them outside Jerusalem in the fields of the Kidron and _carried_ their ashes to Bethel.
+NBS	il fit porter
+NBS (verse)	Le roi ordonna à Hilqiya, le grand prêtre, aux prêtres de second rang et aux gardiens du seuil de sortir du temple du Seigneur tous les objets qui avaient été faits pour le Baal, pour l'Ashéra et pour toute l'armée du ciel~; il les brûla hors de Jérusalem, dans les terrains du Cédron, et il en fit porter la poussière à Beth-El.
+
+(x)	וְ_טִמֵּ֣א_ אֶת־הַתֹּ֔פֶת אֲשֶׁ֖ר בְּגֵ֣י בֶן־הִנֹּ֑ם לְבִלְתִּ֗י לְהַעֲבִ֨יר אִ֜ישׁ אֶת־בְּנֹ֧ו וְאֶת־בִּתֹּ֛ו בָּאֵ֖שׁ לַמֹּֽלֶךְ׃ (II Kgs. 23:10)
+NIV	_He desecrated_ Topheth, which was in the Valley of Ben Hinnom, so no-one could use it to sacrifice his son or daughter in the fire to Molech.
+ESV	And _he defiled_ Topheth, which is in the Valley of the Son of Hinnom, that no one might burn his son or his daughter as an offering to Molech.
+NBS	rendit impur
+NBS (verse)	Le roi rendit impur le topheth qui est dans la vallée du Fils de Hinnom, afin que personne ne fasse plus passer son fils ou sa fille par le feu au Molek.
+
+(x)	וְ_שִׁבַּר֙_ אֶת־הַמַּצֵּבֹ֔ות וַיִּכְרֹ֖ת אֶת־הָאֲשֵׁרִ֑ים וַיְמַלֵּ֥א אֶת־מְקֹומָ֖ם עַצְמֹ֥ות אָדָֽם׃ (II Kgs. 23:14)
+NIV	_Josiah smashed_ the sacred stones and cut down the Asherah poles and covered the sites with human bones.
+ESV	And _he broke in pieces_ the pillars and cut down the Asherim and filled their places with the bones of men.
+NBS	brisa Il
+NBS (verse)	Il brisa les pierres levées, coupa les poteaux cultuels (les ashéras) et remplit ces lieux d'ossements humains.
+
+(x)	וְגַ֨ם אֶת־הַמִּזְבֵּ֜חַ אֲשֶׁ֣ר בְּבֵֽית־אֵ֗ל הַבָּמָה֙ אֲשֶׁ֨ר עָשָׂ֜ה יָרָבְעָ֤ם בֶּן־נְבָט֙ אֲשֶׁ֣ר הֶחֱטִ֣יא אֶת־יִשְׂרָאֵ֔ל גַּ֣ם אֶת־הַמִּזְבֵּ֧חַ הַה֛וּא וְאֶת־הַבָּמָ֖ה נָתָ֑ץ וַיִּשְׂרֹ֧ף אֶת־הַבָּמָ֛ה הֵדַ֥ק לְעָפָ֖ר וְ_שָׂרַ֥ף_ אֲשֵׁרָֽה׃ (II Kgs. 23:15)
+NIV	Even the altar at Bethel, the high place made by Jeroboam son of Nebat, who had caused Israel to sin — even that altar and high place he demolished. He _burned_ the high place and ground it to powder, and _burned_ the Asherah pole also.
+ESV	Moreover, the altar at Bethel, the high place erected by Jeroboam the son of Nebat, who made Israel to sin, that altar with the high place he pulled down and burned, reducing it to dust. He also burned the Asherah.
+NBS	il brûla
+NBS (verse)	De même pour ce qui est de l'autel qui était à Beth-El et du haut lieu qu'avait fait Jéroboam, fils de Nebath, qui avait fait pécher Israël~: il démolit cet autel et le haut lieu~; il brûla le haut lieu et le réduisit en poussière, et il brûla le poteau cultuel (l'ashéra).
+
+(x)	וְ_הִגְלָ֣ה_ אֶת־כָּל־יְ֠רוּשָׁלִַם וְֽאֶת־כָּל־הַשָּׂרִ֞ים וְאֵ֣ת׀ כָּל־גִּבֹּורֵ֣י הַחַ֗יִל עֲשֶׂ֤רֶת אֲלָפִים֙ גֹּולֶ֔ה וְכָל־הֶחָרָ֖שׁ וְהַמַּסְגֵּ֑ר לֹ֣א נִשְׁאַ֔ר זוּלַ֖ת דַּלַּ֥ת עַם־הָאָֽרֶץ׃ (II Kgs. 24:14)
+NIV	_He carried into exile_ all Jerusalem: all the officers and fighting men, and all the craftsmen and artisans — a total of ten thousand. Only the poorest people of the land were left.
+ESV	_He carried away_ all Jerusalem and all the officials and all the mighty men of valor, 10,000 captives, and all the craftsmen and the smiths. None remained, except the poorest people of the land.
+NBS	exila Il
+NBS (verse)	Il exila tout Jérusalem, tous les princes et tous les vaillants guerriers, au nombre de dix mille exilés, avec tous les artisans et les serruriers~: il ne resta que le petit peuple du pays.
+
+(x)	וְ_שִׁנָּ֕א_ אֵ֖ת בִּגְדֵ֣י כִלְאֹ֑ו וְאָכַ֨ל לֶ֧חֶם תָּמִ֛יד לְפָנָ֖יו כָּל־יְמֵ֥י חַיָּֽיו׃ (II Kgs. 25:29)
+NIV	So _Jehoiachin put aside_ his prison clothes and for the rest of his life ate regularly at the king’s table.
+ESV	So _Jehoiachin put off_ his prison garments. And every day of his life he dined regularly at the king’s table,
+NBS	Il fit enlever
+NBS (verse)	Il lui fit enlever ses vêtements de détenu~; Joïakîn mangea devant lui constamment, tous les jours de sa vie.
+
+(x)	וְשִׁנָּ֕א אֵ֖ת בִּגְדֵ֣י כִלְאֹ֑ו וְ_אָכַ֨ל_ לֶ֧חֶם תָּמִ֛יד לְפָנָ֖יו כָּל־יְמֵ֥י חַיָּֽיו׃ (II Kgs. 25:29)
+NIV	So Jehoiachin put aside his prison clothes and for the rest of his life _ate_ regularly at the king’s table.
+ESV	So Jehoiachin put off his prison garments. And every day of his life _he dined_ regularly at the king’s table,
+NBS	mangea
+NBS (verse)	Il lui fit enlever ses vêtements de détenu~; Joïakîn mangea devant lui constamment, tous les jours de sa vie.
+
+(x)	וְ_שִׁנָּ֕ה_ אֵ֖ת בִּגְדֵ֣י כִלְאֹ֑ו וְאָכַ֨ל לֶ֧חֶם לְפָנָ֛יו תָּמִ֖יד כָּל־יְמֵ֥י חַיָּֽו׃ (Jer. 52:33)
+NIV	So _Jehoiachin put aside_ his prison clothes and for the rest of his life ate regularly at the king’s table.
+ESV	So _Jehoiachin put off_ his prison garments. And every day of his life he dined regularly at the king’s table,
+NBS	Il fit enlever
+NBS (verse)	Il lui fit enlever ses vêtements de détenu~; Joïakîn mangea devant lui constamment, tous les jours de sa vie.
+
+(x)	וְשִׁנָּ֕ה אֵ֖ת בִּגְדֵ֣י כִלְאֹ֑ו וְ_אָכַ֨ל_ לֶ֧חֶם לְפָנָ֛יו תָּמִ֖יד כָּל־יְמֵ֥י חַיָּֽו׃ (Jer. 52:33)
+NIV	So Jehoiachin put aside his prison clothes and for the rest of his life _ate_ regularly at the king’s table.
+ESV	So Jehoiachin put off his prison garments. And every day of his life _he dined_ regularly at the king’s table,
+NBS	mangea
+NBS (verse)	Il lui fit enlever ses vêtements de détenu~; Joïakîn mangea devant lui constamment, tous les jours de sa vie.
+
+(x)	וַיֹּ֨אמֶר אֲלֵיהֶ֜ם טַמְּא֣וּ אֶת־הַבַּ֗יִת וּמַלְא֧וּ אֶת־הַחֲצֵרֹ֛ות חֲלָלִ֖ים צֵ֑אוּ וְ_יָצְא֖וּ_ וְהִכּ֥וּ בָעִֽיר׃ (Ezek. 9:7)
+NIV	Then he said to them, “Defile the temple and fill the courts with the slain. Go!” So _they went out_ and began killing throughout the city.
+ESV	Then he said to them, “Defile the house, and fill the courts with the slain. Go out.” So _they went out_ and struck in the city.
+NBS	Ils sortirent
+NBS (verse)	Il leur dit~: Rendez la Maison impure et remplissez ses cours de vos victimes~! Sortez~! Ils sortirent et ils frappèrent dans la ville.
+
+(x)	וְ_הֶעֱבִירַ֥נִי_ עֲלֵיהֶ֖ם סָבִ֣יב׀ סָבִ֑יב וְהִנֵּ֨ה רַבֹּ֤ות מְאֹד֙ עַל־פְּנֵ֣י הַבִּקְעָ֔ה וְהִנֵּ֖ה יְבֵשֹׁ֥ות מְאֹֽד׃ (Ezek. 37:2)
+NIV	He led me to and fro among them, and I saw a great many bones on the floor of the valley, bones that were very dry.
+ESV	And _he led_ me around among them, and behold, there were very many on the surface of the valley, and behold, they were very dry.
+NBS	Il me fit passer
+NBS (verse)	Il me fit passer auprès d'eux, tout autour~: ils étaient très nombreux, dans la vallée, et ils étaient très secs.
+
+(x)	וַיֹּולִכֵ֨נִי֙ דֶּ֣רֶךְ הַדָּרֹ֔ום וְהִנֵּה־שַׁ֖עַר דֶּ֣רֶךְ הַדָּרֹ֑ום וּ_מָדַ֤ד_ אֵילָיו֙ וְאֵ֣ילַמָּ֔יו כַּמִּדֹּ֖ות הָאֵֽלֶּה׃ (Ezek. 40:24)
+NIV	Then he led me to the south side and I saw a gate facing south. _He measured_ its jambs and its portico, and they had the same measurements as the others.
+ESV	And he led me toward the south, and behold, there was a gate on the south. And _he measured_ its jambs and its vestibule. they had the same size as the others.
+NBS	Il mesura
+NBS (verse)	Il me fit aller du côté sud, où se trouvait la porte qui donnait sur le sud. Il en mesura les piliers et les vestibules, qui avaient les mêmes dimensions.
+
+(x)	וּ_בָ֣א_ לִפְנִ֔ימָה וַיָּ֥מָד אֵֽיל־הַפֶּ֖תַח שְׁתַּ֣יִם אַמֹּ֑ות וְהַפֶּ֨תַח֙ שֵׁ֣שׁ אַמֹּ֔ות וְרֹ֥חַב הַפֶּ֖תַח שֶׁ֥בַע אַמֹּֽות׃ (Ezek. 41:3)
+NIV	Then _he went_ into the inner sanctuary and measured the jambs of the entrance. each was two cubits wide. The entrance was six cubits wide, and the projecting walls on each side of it were seven cubits wide.
+ESV	Then _he went_ into the inner room and measured the jambs of the entrance, two cubits. and the entrance, six cubits. and the sidewalls on either side of the entrance, seven cubits.
+NBS	il entra
+NBS (verse)	Puis il entra à l'intérieur. Il mesura les piliers de l'entrée~: deux coudées~; l'entrée~: six coudées~; et la largeur de l'entrée~: sept coudées.
+
+(x)	וּ_מָדַ֣ד_ אֶת־הַבַּ֔יִת אֹ֖רֶךְ מֵאָ֣ה אַמָּ֑ה וְהַגִּזְרָ֤ה וְהַבִּנְיָה֙ וְקִ֣ירֹותֶ֔יהָ אֹ֖רֶךְ מֵאָ֥ה אַמָּֽה׃ (Ezek. 41:13)
+NIV	Then _he measured_ the temple. it was a hundred cubits long, and the temple courtyard and the building with its walls were also a hundred cubits long.
+ESV	Then _he measured_ the temple, a hundred cubits long. and the yard and the building with its walls, a hundred cubits long.
+NBS	mesura Il
+NBS (verse)	Il mesura la Maison~: cent coudées de longueur, le secteur, le bâtiment et ses murs~: cent coudées de longueur.
+
+(x)	וּ_מָדַ֣ד_ אֹֽרֶךְ־הַ֠בִּנְיָן אֶל־פְּנֵ֨י הַגִּזְרָ֜ה אֲשֶׁ֨ר עַל־אַחֲרֶ֧יהָ וְאַתִּיקֶ֛יהָא מִפֹּ֥ו וּמִפֹּ֖ו מֵאָ֣ה אַמָּ֑ה וְהַֽהֵיכָל֙ הַפְּנִימִ֔י וְאֻֽלַמֵּ֖י הֶחָצֵֽר׃ (Ezek. 41:15)
+NIV	Then _he measured_ the length of the building facing the courtyard at the rear of the temple, including its galleries on each side. it was a hundred cubits. The outer sanctuary, the inner sanctuary and the portico facing the court,
+ESV	Then _he measured_ the length of the building facing the yard that was at the back and its galleries on either side, a hundred cubits. The inside of the nave and the vestibules of the court,
+NBS	mesura Il
+NBS (verse)	Il mesura la longueur du bâtiment sur le front du secteur à l'arrière et ses galeries de chaque côté~: cent coudées. Le temple intérieur, les vestibules extérieurs,
+
+(x)	וְכִלָּ֗ה אֶת־מִדֹּות֙ הַבַּ֣יִת הַפְּנִימִ֔י וְ_הֹוצִיאַ֨נִי֙_ דֶּ֣רֶךְ הַשַּׁ֔עַר אֲשֶׁ֥ר פָּנָ֖יו דֶּ֣רֶךְ הַקָּדִ֑ים וּמְדָדֹ֖ו סָבִ֥יב׀ סָבִֽיב׃ (Ezek. 42:15)
+NIV	When he had finished measuring what was inside the temple area, he led me out by the east gate and measured the area all around:
+ESV	Now when he had finished measuring the interior of the temple area, he led me out by the gate that faced east, and measured the temple area all around.
+NBS	il me fit sortir
+NBS (verse)	Lorsqu'il eut achevé de mesurer la Maison intérieure, il me fit sortir par la porte qui donnait sur l'est, et il mesura l'enceinte tout autour.
+
+(x)	שֶֽׁ֭הִכָּה גֹּויִ֣ם רַבִּ֑ים וְ֝_הָרַ֗ג_ מְלָכִ֥ים עֲצוּמִֽים׃ (Psa. 135:10)
+NIV	He struck down many nations and _killed_ mighty kings —
+ESV	who struck down many nations and _killed_ mighty kings,
+NBS	tua
+NBS (verse)	Il battit une multitude de nations et tua des rois puissants,
+
+(x)	וְ_נָתַ֣ן_ אַרְצָ֣ם נַחֲלָ֑ה נַ֝חֲלָ֗ה לְיִשְׂרָאֵ֥ל עַמֹּֽו׃ (Psa. 135:12)
+NIV	and _he gave_ their land as an inheritance, an inheritance to his people Israel.
+ESV	and _gave_ their land as a heritage, a heritage to his people Israel.
+NBS	il donna
+NBS (verse)	et il donna leur pays comme patrimoine, comme patrimoine à Israël, son peuple.
+
+(x)	עִ֣יר קְטַנָּ֔ה וַאֲנָשִׁ֥ים בָּ֖הּ מְעָ֑ט וּ_בָֽא_־אֵלֶ֜יהָ מֶ֤לֶךְ גָּדֹול֙ וְסָבַ֣ב אֹתָ֔הּ וּבָנָ֥ה עָלֶ֖יהָ מְצֹודִ֥ים גְּדֹלִֽים׃ (Eccl. 9:14)
+NIV	There was once a small city with only a few people in it. And a powerful king _came_ against it, surrounded it and built huge siegeworks against it.
+ESV	There was a little city with few men in it, and a great king _came_ against it and besieged it, building great siegeworks against it.
+NBS	vint
+NBS (verse)	Il y avait une petite ville, avec peu d'hommes~; un roi puissant vint contre elle, l'investit et bâtit contre elle de grands ouvrages de siège.
+
+(x)	עִ֣יר קְטַנָּ֔ה וַאֲנָשִׁ֥ים בָּ֖הּ מְעָ֑ט וּבָֽא־אֵלֶ֜יהָ מֶ֤לֶךְ גָּדֹול֙ וְ_סָבַ֣ב_ אֹתָ֔הּ וּבָנָ֥ה עָלֶ֖יהָ מְצֹודִ֥ים גְּדֹלִֽים׃ (Eccl. 9:14)
+NIV	There was once a small city with only a few people in it. And a powerful king came against it, _surrounded_ it and built huge siegeworks against it.
+ESV	There was a little city with few men in it, and a great king came against it and _besieged_ it, building great siegeworks against it.
+NBS	investit
+NBS (verse)	Il y avait une petite ville, avec peu d'hommes~; un roi puissant vint contre elle, l'investit et bâtit contre elle de grands ouvrages de siège.
+
+(x)	וּמָ֣צָא בָ֗הּ אִ֤ישׁ מִסְכֵּן֙ חָכָ֔ם וּ_מִלַּט_־ה֥וּא אֶת־הָעִ֖יר בְּחָכְמָתֹ֑ו וְאָדָם֙ לֹ֣א זָכַ֔ר אֶת־הָאִ֥ישׁ הַמִּסְכֵּ֖ן הַהֽוּא׃ (Eccl. 9:15)
+NIV	Now there lived in that city a man poor but wise, and he _saved_ the city by his wisdom. But nobody remembered that poor man.
+ESV	But there was found in it a poor, wise man, and he by his wisdom _delivered_ the city. Yet no one remembered that poor man.
+NBS	qui délivra
+NBS (verse)	Il se trouvait là un homme pauvre et sage qui délivra la ville par sa sagesse. Et personne ne s'est souvenu de cet homme pauvre.
+
+(x)	וְ_קִבֵּל֙_ הַיְּהוּדִ֔ים אֵ֥ת אֲשֶׁר־הֵחֵ֖לּוּ לַעֲשֹׂ֑ות וְאֵ֛ת אֲשֶׁר־כָּתַ֥ב מָרְדֳּכַ֖י אֲלֵיהֶֽם׃ (Esth. 9:23)
+NIV	So the Jews _agreed_ to continue the celebration they had begun, doing what Mordecai had written to them.
+ESV	So the Jews _accepted_ what they had started to do, and what Mordecai had written to them.
+NBS	firent une tradition
+NBS (verse)	Les Juifs firent une tradition de leur célébration initiale et de ce que Mardochée leur avait écrit.
+
+(x)	וְ_קִבְּלוּ֙_ הַכֹּהֲנִ֣ים וְהַלְוִיִּ֔ם מִשְׁקַ֛ל הַכֶּ֥סֶף וְהַזָּהָ֖ב וְהַכֵּלִ֑ים לְהָבִ֥יא לִירוּשָׁלִַ֖ם לְבֵ֥ית אֱלֹהֵֽינוּ׃ פ (Ezra 8:30)
+NIV	Then the priests and Levites _received_ the silver and gold and sacred articles that had been weighed out to be taken to the house of our God in Jerusalem.
+ESV	So the priests and the Levites _took over_ the weight of the silver and the gold and the vessels, to bring them to Jerusalem, to the house of our God.
+NBS	reçurent
+NBS (verse)	Les prêtres et les lévites reçurent l'argent, l'or et les objets qui avaient été pesés, pour les porter à Jérusalem, dans la maison de notre Dieu.
+
+(x)	וּמֵעַ֣ל לְשַֽׁעַר־אֶ֠פְרַיִם וְעַל־שַׁ֨עַר הַיְשָׁנָ֜ה וְעַל־שַׁ֣עַר הַדָּגִ֗ים וּמִגְדַּ֤ל חֲנַנְאֵל֙ וּמִגְדַּ֣ל הַמֵּאָ֔ה וְעַ֖ד שַׁ֣עַר הַצֹּ֑אן וְ_עָ֣מְד֔וּ_ בְּשַׁ֖עַר הַמַּטָּרָֽה׃ (Neh. 12:39)
+NIV	over the Gate of Ephraim, the Jeshanah Gate, the Fish Gate, the Tower of Hananel and the Tower of the Hundred, as far as the Sheep Gate. At the Gate of the Guard _they stopped_.
+ESV	and above the Gate of Ephraim, and by the Gate of Yeshanah, and by the Fish Gate and the Tower of Hananel and the Tower of the Hundred, to the Sheep Gate. and _they came to a halt_ at the Gate of the Guard.
+NBS	on s arrêta
+NBS (verse)	puis au-dessus de la porte d'Ephraïm, de la Vieille porte, de la porte des Poissons, de la tour de Hananéel et de la tour de Méa, jusqu'à la porte du Petit bétail. Et l'on s'arrêta à la porte de la Garde.
+
+(x)	בַּיֹּ֣ום הַה֗וּא נִקְרָ֛א בְּסֵ֥פֶר מֹשֶׁ֖ה בְּאָזְנֵ֣י הָעָ֑ם וְ_נִמְצָא֙_ כָּת֣וּב בֹּ֔ו אֲ֠שֶׁר לֹא־יָבֹ֨וא עַמֹּנִ֧י וּמֹאָבִ֛י בִּקְהַ֥ל הָאֱלֹהִ֖ים עַד־עֹולָֽם׃ (Neh. 13:1)
+NIV	On that day the Book of Moses was read aloud in the hearing of the people and there _it was found_ written that no Ammonite or Moabite should ever be admitted into the assembly of God,
+ESV	On that day they read from the Book of Moses in the hearing of the people. And in it _was found_ written that no Ammonite or Moabite should ever enter the assembly of God,
+NBS	trouva on
+NBS (verse)	En ce temps-là, on lut le livre de Moïse au peuple et on y trouva écrit que l'Ammonite et le Moabite n'entreraient jamais dans l'assemblée de Dieu,
+
+(x)	בְּנָיָ֨ה בֶן־יְהֹויָדָ֧ע בֶּן־אִֽישׁ־חַ֛יִל רַב־פְּעָלִ֖ים מִֽן־קַבְצְאֵ֑ל ה֣וּא הִכָּ֗ה אֵ֣ת שְׁנֵ֤י אֲרִיאֵל֙ מֹואָ֔ב וְ֠הוּא יָרַ֞ד וְ_הִכָּ֧ה_ אֶֽת־הָאֲרִ֛י בְּתֹ֥וךְ הַבֹּ֖ור בְּיֹ֥ום הַשָּֽׁלֶג׃ (I Chr. 11:22)
+NIV	Benaiah son of Jehoiada was a valiant fighter from Kabzeel, who performed great exploits. He struck down two of Moab’s best men. He also went down into a pit on a snowy day and _killed_ a lion.
+ESV	And Benaiah the son of Jehoiada was a valiant man of Kabzeel, a doer of great deeds. He _struck down_ two heroes of Moab. He also went down and _struck down_ a lion in a pit on a day when snow had fallen.
+NBS	abattit
+NBS (verse)	Benaya, fils de Joïada, était un homme de valeur, originaire de Qabtséel, qui avait fait de nombreux exploits. C'est lui qui abattit les deux Ariel de Moab. C'est lui qui descendit et abattit un lion dans une citerne, un jour de neige.
+
+(x)	וַיְנַתְּצ֣וּ לְפָנָ֗יו אֵ֚ת מִזְבְּחֹ֣ות הַבְּעָלִ֔ים וְהַֽחַמָּנִ֛ים אֲשֶׁר־לְמַ֥עְלָה מֵעֲלֵיהֶ֖ם גִּדֵּ֑עַ וְ֠הָאֲשֵׁרִים וְהַפְּסִלִ֤ים וְהַמַּסֵּכֹות֙ שִׁבַּ֣ר וְ_הֵדַ֔ק_ וַיִּזְרֹק֙ עַל־פְּנֵ֣י הַקְּבָרִ֔ים הַזֹּבְחִ֖ים לָהֶֽם׃ (II Chr. 34:4)
+NIV	Under his direction the altars of the Baals were torn down. he cut to pieces the incense altars that were above them, and smashed the Asherah poles, the idols and the images. These _he broke to pieces_ and scattered over the graves of those who had sacrificed to them.
+ESV	And they chopped down the altars of the Baals in his presence, and he cut down the incense altars that stood above them. And he broke in pieces the Asherim and the carved and the metal images, and _he made dust_ of them and scattered it over the graves of those who had sacrificed to them.
+NBS	il réduisit en poussière
+NBS (verse)	On démolit devant lui les autels des Baals, il abattit les brasiers à encens qui étaient dessus~; il brisa les poteaux cultuels (les ashéras), les statues et les idoles de métal fondu, il les réduisit en poussière, il en jeta la poussière sur les tombes, sur ceux qui leur avaient sacrifié~;

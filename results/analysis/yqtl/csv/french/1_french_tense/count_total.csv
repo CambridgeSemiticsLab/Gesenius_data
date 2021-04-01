@@ -1,0 +1,78 @@
+eng_TAMsimp,TOTAL,imparfait,passé_comp,passé_simp
+PAST,227,124,49,54
+PRES,152,26,103,23
+FUT,31,18,13,0
+FUT ~ MOD shall,29,11,14,4
+MOD would,27,27,0,0
+PAST ~ PRES,26,17,8,1
+MOD would ~ PAST,21,20,0,1
+PRES PERF,16,1,15,0
+MOD could,15,14,0,1
+PAST ~ PRES PART,15,9,3,3
+FUT ~ PRES,13,4,7,2
+PAST ~ PRES PERF,13,6,7,0
+MOD should,11,11,0,0
+HAB used to ~ PAST,10,9,0,1
+PRES ~ PRES PERF,9,1,7,1
+FUT ~ MOD would,8,7,0,1
+IMPV ~ MOD shall,7,7,0,0
+MOD may,7,7,0,0
+MOD should ~ MOD was to,6,6,0,0
+PRES ~ TO INF,6,0,0,6
+FUT ~ MOD may,6,3,2,1
+PAST ~ PAST PROG,6,3,2,1
+MOD was to ~ PAST,5,4,0,1
+IMPV ~ PRES,5,1,4,0
+MOD can,5,5,0,0
+MOD may ~ PRES,5,3,2,0
+PRES PART,4,3,0,1
+MOD shall,4,4,0,0
+IMPV,3,3,0,0
+MOD lest ~ PRES,3,3,0,0
+HAB used to,3,1,0,2
+PAST PROG,3,3,0,0
+MOD was to,3,3,0,0
+MOD let ~ PRES,3,2,1,0
+MOD can ~ PAST,2,0,2,0
+MOD is to ~ MOD shall,2,0,1,1
+FUT ~ PAST,2,0,1,1
+MOD can ~ MOD could,2,2,0,0
+MOD might ~ PAST,2,0,2,0
+?VB ~ PAST,2,2,0,0
+MOD should ~ PAST,2,2,0,0
+PAST ~ TO INF,2,2,0,0
+MOD should ~ MOD would,2,2,0,0
+MOD shall ~ PRES,2,1,1,0
+PAST PERF,2,1,1,0
+PAST ~ PAST PERF,2,1,1,0
+PAST PERF ~ PRES,2,0,2,0
+PRES ~ PRES PART,2,1,1,0
+MOD should ~ PRES,2,2,0,0
+PRES PART ~ TO INF,1,0,0,1
+PAST PROG ~ PRES PART,1,1,0,0
+FUT ~ PRES PERF,1,0,1,0
+MOD VB ~ MOD may,1,1,0,0
+HAB used to ~ MOD would,1,1,0,0
+MOD would ~ PRES PART,1,1,0,0
+FUT ~ MOD lest,1,1,0,0
+MOD would ~ PRES,1,1,0,0
+PRES ~ PRES PROG,1,0,1,0
+MOD should ~ TO INF,1,1,0,0
+JJ ~ PRES,1,0,1,0
+MOD might ~ MOD would,1,1,0,0
+MOD may ~ PAST,1,0,1,0
+MOD can ~ MOD shall,1,1,0,0
+MOD can ~ PRES,1,0,1,0
+MOD could ~ MOD might,1,1,0,0
+MOD could ~ MOD would,1,1,0,0
+MOD could ~ PAST,1,1,0,0
+MOD could ~ PRES PERF,1,1,0,0
+MOD could ~ TO INF,1,1,0,0
+MOD shall ~ PAST,1,1,0,0
+MOD lest,1,1,0,0
+MOD lest ~ MOD would,1,1,0,0
+MOD shall ~ MOD should,1,1,0,0
+MOD let ~ PAST,1,1,0,0
+MOD must,1,0,1,0
+MOD might ~ PRES PERF,1,0,1,0
+TO INF,1,0,1,0

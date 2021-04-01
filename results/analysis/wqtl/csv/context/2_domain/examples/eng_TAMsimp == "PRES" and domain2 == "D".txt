@@ -1,27 +1,101 @@
 eng_TAMsimp == "PRES" and domain2 == "D"
 25 of 44
-is struck (ESV, NIV | BHS וְהֻכָּ֣ה , Exod. 22:1)
-lets loose, lets them stray (ESV, NIV | BHS וְשִׁלַּח֙ אֶת־בְּעִירֹ֔ו , Exod. 22:4)
-is consumed, it burns (ESV, NIV | BHS וְנֶאֱכַ֣ל גָּדִ֔ישׁ אֹ֥ו הַקָּמָ֖ה אֹ֣ו הַשָּׂדֶ֑ה , Exod. 22:5)
-it dies (ESV, NIV | BHS וּמֵ֛ת , Exod. 22:9)
-lies, sleeps (ESV, NIV | BHS וְשָׁכַ֣ב עִמָּ֑הּ , Exod. 22:15)
-gives, delivers (ESV, NIV | BHS וּנְתָנֹ֞ו יְהוָ֧ה אֱלֹהֶ֛יךָ בְּיָדֶ֖ךָ , Deut. 21:10)
-you see, you notice (ESV, NIV | BHS וְרָאִיתָ֙ בַּשִּׁבְיָ֔ה אֵ֖שֶׁת יְפַת־תֹּ֑אַר , Deut. 21:11)
-they discipline (ESV, NIV | BHS וְיִסְּר֣וּ אֹתֹ֔ו , Deut. 21:18)
-you hang, is hung (ESV, NIV | BHS וְתָלִ֥יתָ אֹתֹ֖ו עַל־עֵֽץ׃ , Deut. 21:22)
-he writes (ESV, NIV | BHS וְכָ֨תַב לָ֜הּ סֵ֤פֶר כְּרִיתֻת֙ , Deut. 24:1)
-puts, gives (ESV, NIV | BHS וְנָתַ֣ן בְּיָדָ֔הּ , Deut. 24:1)
-she departs, she leaves (ESV, NIV | BHS וְיָצְאָ֖ה מִבֵּיתֹ֑ו , Deut. 24:2)
-hates, dislikes (ESV, NIV | BHS וּשְׂנֵאָהּ֮ הָאִ֣ישׁ הָאַחֲרֹון֒ , Deut. 24:3)
-puts, gives (ESV, NIV | BHS וְנָתַ֣ן בְּיָדָ֔הּ , Deut. 24:3)
-he treats as a slave, treats as a slave (ESV, NIV | BHS וְהִתְעַמֶּר־בֹּ֖ו , Deut. 24:7)
-sells (ESV, NIV | BHS וּמְכָרֹ֑ו , Deut. 24:7)
-dies (ESV, NIV | BHS וּמֵ֨ת אַחַ֤ד מֵהֶם֙ , Deut. 25:5)
-draws near, comes (ESV, NIV | BHS וְקָֽרְבָה֙ אֵ֣שֶׁת הָֽאֶחָ֔ד , Deut. 25:11)
-seizes (ESV, NIV | BHS וְהֶחֱזִ֖יקָה בִּמְבֻשָֽׁיו׃ , Deut. 25:11)
-I say (ESV, NIV | BHS וְאָמַרְתִּ֣י , Jer. 20:9)
-there is, is (ESV, NIV | BHS וְהָיָ֤ה בְלִבִּי֙ כְּאֵ֣שׁ בֹּעֶ֔רֶת , Jer. 20:9)
-one asks, someone asks (ESV, NIV | BHS וְאָמַ֣ר אֵלָ֔יו , Zech. 13:6)
-see (ESV, NIV | BHS וְרָא֖וּ כָל־הָעַמִּ֣ים כְּבֹודֹֽו׃ , Psa. 97:6)
-comes, comes forward (ESV, NIV | BHS וּבָֽא־רֵ֝עֵ֗הוּ , Prov. 18:17)
-examines, questions (ESV, NIV | BHS וַחֲקָרֹֽו׃ , Prov. 18:17)
+(x)	וְ_הֻכָּ֣ה_ (Exod. 22:1)
+NIV	“If a thief is caught breaking in and _is struck_ so that he dies, the defender is not guilty of bloodshed.
+ESV	If a thief is found breaking in and _is struck_ so that he dies, there shall be no bloodguilt for him,
+
+(x)	וְ_שִׁלַּח֙_ אֶת־בְּעִירֹ֔ו (Exod. 22:4)
+NIV	“If a man grazes his livestock in a field or vineyard and _lets them stray_ and they graze in another man’s field, he must make restitution from the best of his own field or vineyard.
+ESV	“If a man causes a field or vineyard to be grazed over, or lets his beast loose and it feeds in another man’s field, he shall make restitution from the best in his own field and in his own vineyard.
+
+(x)	וְ_נֶאֱכַ֣ל_ גָּדִ֔ישׁ אֹ֥ו הַקָּמָ֖ה אֹ֣ו הַשָּׂדֶ֑ה (Exod. 22:5)
+NIV	“If a fire breaks out and spreads into thornbushes so that _it burns_ shocks of grain or standing grain or the whole field, the one who started the fire must make restitution.
+ESV	“If fire breaks out and catches in thorns so that the stacked grain or the standing grain or the field _is consumed_, he who started the fire shall make full restitution.
+
+(x)	וּ_מֵ֛ת_ (Exod. 22:9)
+NIV	“If a man gives a donkey, an ox, a sheep or any other animal to his neighbor for safekeeping and _it dies_ or is injured or is taken away while no one is looking,
+ESV	“If a man gives to his neighbor a donkey or an ox or a sheep or any beast to keep safe, and _it dies_ or is injured or is driven away, without anyone seeing it,
+
+(x)	וְ_שָׁכַ֣ב_ עִמָּ֑הּ (Exod. 22:15)
+NIV	“If a man seduces a virgin who is not pledged to be married and _sleeps_ with her, he must pay the bride-price, and she shall be his wife.
+ESV	“If a man seduces a virgin who is not betrothed and _lies_ with her, he shall give the bride-price for her and make her his wife.
+
+(x)	וּ_נְתָנֹ֞ו_ יְהוָ֧ה אֱלֹהֶ֛יךָ בְּיָדֶ֖ךָ (Deut. 21:10)
+NIV	When you go to war against your enemies and the LORD your God _delivers_ them into your hands and you take captives,
+ESV	“When you go out to war against your enemies, and the Lord your God _gives_ them into your hand and you take them captive,
+
+(x)	וְ_רָאִיתָ֙_ בַּשִּׁבְיָ֔ה אֵ֖שֶׁת יְפַת־תֹּ֑אַר (Deut. 21:11)
+NIV	if _you notice_ among the captives a beautiful woman and are attracted to her, you may take her as your wife.
+ESV	and _you see_ among the captives a beautiful woman, and you desire to take her to be your wife,
+
+(x)	וְ_יִסְּר֣וּ_ אֹתֹ֔ו (Deut. 21:18)
+NIV	If a man has a stubborn and rebellious son who does not obey his father and mother and will not listen to them when _they discipline_ him,
+ESV	“If a man has a stubborn and rebellious son who will not obey the voice of his father or the voice of his mother, and, though _they discipline_ him, will not listen to them,
+
+(x)	וְ_תָלִ֥יתָ_ אֹתֹ֖ו עַל־עֵֽץ׃ (Deut. 21:22)
+NIV	If a man guilty of a capital offence is put to death and his body _is hung_ on a tree,
+ESV	“And if a man has committed a crime punishable by death and he is put to death, and _you hang_ him on a tree,
+
+(x)	וְ_כָ֨תַב_ לָ֜הּ סֵ֤פֶר כְּרִיתֻת֙ (Deut. 24:1)
+NIV	If a man marries a woman who becomes displeasing to him because he finds something indecent about her, and _he writes_ her a certificate of divorce, gives it to her and sends her from his house,
+ESV	“When a man takes a wife and marries her, if then she finds no favor in his eyes because he has found some indecency in her, and _he writes_ her a certificate of divorce and puts it in her hand and sends her out of his house, and she departs out of his house,
+
+(x)	וְ_נָתַ֣ן_ בְּיָדָ֔הּ (Deut. 24:1)
+NIV	If a man marries a woman who becomes displeasing to him because he finds something indecent about her, and he writes her a certificate of divorce, _gives_ it to her and sends her from his house,
+ESV	“When a man takes a wife and marries her, if then she finds no favor in his eyes because he has found some indecency in her, and he writes her a certificate of divorce and _puts_ it in her hand and sends her out of his house, and she departs out of his house,
+
+(x)	וְ_יָצְאָ֖ה_ מִבֵּיתֹ֑ו (Deut. 24:2)
+NIV	and if after _she leaves_ his house she becomes the wife of another man,
+ESV	“When a man takes a wife and marries her, if then she finds no favor in his eyes because he has found some indecency in her, and he writes her a certificate of divorce and puts it in her hand and sends her out of his house, and _she departs_ out of his house,
+
+(x)	וּ_שְׂנֵאָהּ֮_ הָאִ֣ישׁ הָאַחֲרֹון֒ (Deut. 24:3)
+NIV	and her second husband _dislikes_ her and writes her a certificate of divorce, gives it to her and sends her from his house, or if he dies,
+ESV	and the latter man _hates_ her and writes her a certificate of divorce and puts it in her hand and sends her out of his house, or if the latter man dies, who took her to be his wife,
+
+(x)	וְ_נָתַ֣ן_ בְּיָדָ֔הּ (Deut. 24:3)
+NIV	and her second husband dislikes her and writes her a certificate of divorce, _gives_ it to her and sends her from his house, or if he dies,
+ESV	and the latter man hates her and writes her a certificate of divorce and _puts_ it in her hand and sends her out of his house, or if the latter man dies, who took her to be his wife,
+
+(x)	כִּי־יִמָּצֵ֣א אִ֗ישׁ גֹּנֵ֨ב נֶ֤פֶשׁ מֵאֶחָיו֙ מִבְּנֵ֣י יִשְׂרָאֵ֔ל וְ_הִתְעַמֶּר_־בֹּ֖ו וּמְכָרֹ֑ו (Deut. 24:7)
+NIV	If a man is caught kidnapping one of his brother Israelites and treats him as a slave or sells him, the kidnapper must die. You must purge the evil from among you.
+ESV	“If a man is found stealing one of his brothers of the people of Israel, and if he treats him as a slave or sells him, then that thief shall die. So you shall purge the evil from your midst.
+
+(x)	כִּי־יִמָּצֵ֣א אִ֗ישׁ גֹּנֵ֨ב נֶ֤פֶשׁ מֵאֶחָיו֙ מִבְּנֵ֣י יִשְׂרָאֵ֔ל וְהִתְעַמֶּר־בֹּ֖ו וּ_מְכָרֹ֑ו_ (Deut. 24:7)
+NIV	If a man is caught kidnapping one of his brother Israelites and treats him as a slave or _sells_ him, the kidnapper must die. You must purge the evil from among you.
+ESV	“If a man is found stealing one of his brothers of the people of Israel, and if he treats him as a slave or _sells_ him, then that thief shall die. So you shall purge the evil from your midst.
+
+(x)	וּ_מֵ֨ת_ אַחַ֤ד מֵהֶם֙ (Deut. 25:5)
+NIV	If brothers are living together and one of them _dies_ without a son, his widow must not marry outside the family. Her husband’s brother shall take her and marry her and fulfil the duty of a brother-in-law to her.
+ESV	“If brothers dwell together, and one of them _dies_ and has no son, the wife of the dead man shall not be married outside the family to a stranger. Her husband’s brother shall go in to her and take her as his wife and perform the duty of a husband’s brother to her.
+
+(x)	וְ_קָֽרְבָה֙_ אֵ֣שֶׁת הָֽאֶחָ֔ד לְהַצִּ֥יל אֶת־אִישָּׁ֖הּ מִיַּ֣ד מַכֵּ֑הוּ (Deut. 25:11)
+NIV	If two men are fighting and the wife of one of them _comes_ to rescue her husband from his assailant, and she reaches out and seizes him by his private parts,
+ESV	“When men fight with one another and the wife of the one _draws near_ to rescue her husband from the hand of him who is beating him and puts out her hand and seizes him by the private parts,
+
+(x)	וְ_הֶחֱזִ֖יקָה_ בִּמְבֻשָֽׁיו׃ (Deut. 25:11)
+NIV	If two men are fighting and the wife of one of them comes to rescue her husband from his assailant, and she reaches out and _seizes_ him by his private parts,
+ESV	“When men fight with one another and the wife of the one draws near to rescue her husband from the hand of him who is beating him and puts out her hand and _seizes_ him by the private parts,
+
+(x)	וְ_אָמַרְתִּ֣י_ (Jer. 20:9)
+NIV	But if _I say_, “I will not mention him or speak any more in his name,” his word is in my heart like a fire, a fire shut up in my bones. I am weary of holding it in. indeed, I cannot.
+ESV	If _I say_, “I will not mention him, or speak any more in his name,” there is in my heart as it were a burning fire shut up in my bones, and I am weary with holding it in, and I cannot.
+
+(x)	וְ_הָיָ֤ה_ בְלִבִּי֙ כְּאֵ֣שׁ בֹּעֶ֔רֶת עָצֻ֖ר בְּעַצְמֹתָ֑י (Jer. 20:9)
+NIV	But if I say, “I will not mention him or speak any more in h_is_ name,” h_is_ word _is_ in my heart like a fire, a fire shut up in my bones. I am weary of holding it in. indeed, I cannot.
+ESV	If I say, “I will not mention him, or speak any more in his name,” _there is_ in my heart as it were a burning fire shut up in my bones, and I am weary with holding it in, and I cannot.
+
+(x)	וְ_אָמַ֣ר_ אֵלָ֔יו (Zech. 13:6)
+NIV	If _someone asks_ him, ‘What are these wounds on your body?’ he will answer, ‘The wounds I was given at the house of my friends.’
+ESV	And if _one asks_ him, ‘What are these wounds on your back?’ he will say, ‘The wounds I received in the house of my friends.’
+
+(x)	וְ_רָא֖וּ_ כָל־הָעַמִּ֣ים כְּבֹודֹֽו׃ (Psa. 97:6)
+NIV	The heavens proclaim his righteousness, and all the peoples _see_ his glory.
+ESV	The heavens proclaim his righteousness, and all the peoples _see_ his glory.
+
+(x)	וּבָֽא־רֵ֝עֵ֗הוּ (Prov. 18:17)
+NIV	The first to present his case seems right, till another _comes forward_ and questions him.
+ESV	The one who states his case first seems right, until the other _comes_ and examines him.
+
+(x)	וַ_חֲקָרֹֽו_׃ (Prov. 18:17)
+NIV	The first to present his case seems right, till another comes forward and _questions_ him.
+ESV	The one who states his case first seems right, until the other comes and _examines_ him.

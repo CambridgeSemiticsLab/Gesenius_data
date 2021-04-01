@@ -1,0 +1,296 @@
+eng_TAMsimp == "PAST" and french_tense == "passé_comp"
+49 of 49
+
+(x)	_יִמְצָאֵ֨הוּ֙_ בְּאֶ֣רֶץ מִדְבָּ֔ר וּבְתֹ֖הוּ יְלֵ֣ל יְשִׁמֹ֑ן יְסֹֽבְבֶ֨נְהוּ֙ יְבֹ֣ונְנֵ֔הוּ יִצְּרֶ֖נְהוּ כְּאִישֹׁ֥ון עֵינֹֽו׃ (Deut. 32:10)
+NIV	In a desert land _he found_ him, in a barren and howling waste. He shielded him and cared for him. he guarded him as the apple of his eye,
+ESV	“_He found_ him in a desert land, and in the howling waste of the wilderness. he encircled him, he cared for him, he kept him as the apple of his eye.
+NBS	Il a trouvé l
+NBS (verse)	Il l'a trouvé dans un pays désert, dans un chaos hurlant et aride~; il l'entourait, il prenait soin de lui, il le gardait comme la prunelle de son œil,
+
+(x)	צ֥וּר יְלָדְךָ֖ _תֶּ֑שִׁי_ וַתִּשְׁכַּ֖ח אֵ֥ל מְחֹלְלֶֽךָ׃ (Deut. 32:18)
+NIV	_You deserted_ the Rock, who fathered you. you forgot the God who gave you birth.
+ESV	_You were unmindful_ of the Rock that bore you, and you forgot the God who gave you birth.
+NBS	Tu as dédaigné
+NBS (verse)	Tu as dédaigné le Rocher qui t'a fait naître, tu as oublié le Dieu qui t'a engendré.
+
+(x)	וּלְלֵוִ֣י אָמַ֔ר תֻּמֶּ֥יךָ וְאוּרֶ֖יךָ לְאִ֣ישׁ חֲסִידֶ֑ךָ אֲשֶׁ֤ר נִסִּיתֹו֙ בְּמַסָּ֔ה _תְּרִיבֵ֖הוּ_ עַל־מֵ֥י מְרִיבָֽה׃ (Deut. 33:8)
+NIV	About Levi he said: “Your Thummim and Urim belong to the man you favoured. You tested him at Massah. _you contended with_ him at the waters of Meribah.
+ESV	And of Levi he said, “Give to Levi your Thummim, and your Urim to your godly one, whom you tested at Massah, with whom _you quarreled_ at the waters of Meribah.
+NBS	tu as cherché querelle
+NBS (verse)	Sur Lévi, il dit~: Ton toummim et ton ourim ont été confiés à l'homme qui t'est fidèle, celui que tu as mis à l'épreuve à Massa («~Epreuve~»), et à qui tu as cherché querelle aux eaux de Meriba («~Querelle~»).
+
+(x)	וַיִּדֹּ֨ם הַשֶּׁ֜מֶשׁ וְיָרֵ֣חַ עָמָ֗ד עַד־_יִקֹּ֥ם_ גֹּוי֙ אֹֽיְבָ֔יו הֲלֹא־הִ֥יא כְתוּבָ֖ה עַל־סֵ֣פֶר הַיָּשָׁ֑ר וַיַּעֲמֹ֤ד הַשֶּׁ֨מֶשׁ֙ בַּחֲצִ֣י הַשָּׁמַ֔יִם וְלֹא־אָ֥ץ לָבֹ֖וא כְּיֹ֥ום תָּמִֽים׃ (Josh. 10:13)
+NIV	So the sun stood still, and the moon stopped, till the nation _avenged_ itself on its enemies, as it is written in the Book of Jashar. The sun stopped in the middle of the sky and delayed going down about a full day.
+ESV	And the sun stood still, and the moon stopped, until the nation _took vengeance_ on their enemies. Is this not written in the Book of Jashar? The sun stopped in the midst of heaven and did not hurry to set for about a whole day.
+NBS	eût tiré vengeance
+NBS (verse)	Alors le soleil se tint immobile, la lune s'arrêta, jusqu'à ce que la nation eût tiré vengeance de ses ennemis. Cela est écrit dans le livre du Juste~: le soleil s'arrêta au milieu du ciel et ne se pressa pas de se coucher, presque tout un jour.
+
+(x)	אָ֚ז _יְרַ֣ד_ שָׂרִ֔יד לְאַדִּירִ֖ים עָ֑ם יְהוָ֕ה יְרַד־לִ֖י בַּגִּבֹּורִֽים׃ (Judg. 5:13)
+NIV	“Then the men who were left _came down_ to the nobles. the people of the LORD came to me with the mighty.
+ESV	Then _down marched_ the remnant of the noble. the people of the Lord marched down for me against the mighty.
+NBS	sont descendus
+NBS (verse)	Alors des survivants sont descendus vers les braves, le peuple du Seigneur est descendu pour lui à la rencontre des héros.
+
+(x)	אָ֚ז יְרַ֣ד שָׂרִ֔יד לְאַדִּירִ֖ים עָ֑ם יְהוָ֕ה _יְרַד_־לִ֖י בַּגִּבֹּורִֽים׃ (Judg. 5:13)
+NIV	“Then the men who were left _came_ down to the nobles. the people of the LORD _came_ to me with the mighty.
+ESV	Then down marched the remnant of the noble. the people of the Lord _marched down_ for me against the mighty.
+NBS	est descendu
+NBS (verse)	Alors des survivants sont descendus vers les braves, le peuple du Seigneur est descendu pour lui à la rencontre des héros.
+
+(x)	יָדָהּ֙ לַיָּתֵ֣ד _תִּשְׁלַ֔חְנָה_ וִֽימִינָ֖הּ לְהַלְמ֣וּת עֲמֵלִ֑ים וְהָלְמָ֤ה סִֽיסְרָא֙ מָחֲקָ֣ה רֹאשֹׁ֔ו וּמָחֲצָ֥ה וְחָלְפָ֖ה רַקָּתֹֽו׃ (Judg. 5:26)
+NIV	Her hand _reached_ for the tent peg, her right hand for the workman’s hammer. She struck Sisera, she crushed his head, she shattered and pierced his temple.
+ESV	_She sent_ her hand to the tent peg and her right hand to the workmen’s mallet. she struck Sisera. she crushed his head. she shattered and pierced his temple.
+NBS	D une main elle a saisi
+NBS (verse)	D'une main elle a saisi le pieu, de sa main droite le marteau des travailleurs~; elle a frappé Sisera, elle lui a fendu la tête, elle lui a fracassé et transpercé la tempe.
+
+(x)	וָאֶעֱמֹ֤ד עָלָיו֙ וַ_אֲמֹ֣תְתֵ֔הוּ_ כִּ֣י יָדַ֔עְתִּי כִּ֛י לֹ֥א יִֽחְיֶ֖ה אַחֲרֵ֣י נִפְלֹ֑ו וָאֶקַּ֞ח הַנֵּ֣זֶר׀ אֲשֶׁ֣ר עַל־רֹאשֹׁ֗ו וְאֶצְעָדָה֙ אֲשֶׁ֣ר עַל־זְרֹעֹ֔ו וָאֲבִיאֵ֥ם אֶל־אֲדֹנִ֖י הֵֽנָּה׃ (II Sam. 1:10)
+NIV	“So I stood over him and _killed_ him, because I knew that after he had fallen he could not survive. And I took the crown that was on his head and the band on his arm and have brought them here to my lord.”
+ESV	So I stood beside him and _killed_ him, because I was sure that he could not live after he had fallen. And I took the crown that was on his head and the armlet that was on his arm, and I have brought them here to my lord.”
+NBS	je lui ai donné la mort
+NBS (verse)	Je me suis arrêté près de lui et je lui ai donné la mort, sachant bien qu'il ne survivrait pas à sa chute. J'ai pris le diadème qui était sur sa tête et la chaînette qu'il avait au bras, et je te les apporte ici, mon seigneur~!
+
+(x)	וַיֹּצֵ֥א לַמֶּרְחָ֖ב אֹתִ֑י _יְחַלְּצֵ֖נִי_ כִּי־חָ֥פֵֽץ בִּֽי׃ (II Sam. 22:20)
+NIV	He brought me out into a spacious place. _he rescued_ me because he delighted in me.
+ESV	He brought me out into a broad place. _he rescued_ me, because he delighted in me.
+NBS	il m a délivré
+NBS (verse)	Il m'a fait sortir pour me mettre au large, il m'a délivré, car il a pris plaisir en moi.
+
+(x)	וְלֹא־יָשִׁ֣יב אֶל־לִבֹּ֗ו וְלֹ֨א דַ֥עַת וְלֹֽא־תְבוּנָה֮ לֵאמֹר֒ חֶצְיֹ֞ו שָׂרַ֣פְתִּי בְמֹו־אֵ֗שׁ וְ֠אַף אָפִ֤יתִי עַל־גֶּחָלָיו֙ לֶ֔חֶם _אֶצְלֶ֥ה_ בָשָׂ֖ר וְאֹכֵ֑ל וְיִתְרֹו֙ לְתֹועֵבָ֣ה אֶעֱשֶׂ֔ה לְב֥וּל עֵ֖ץ אֶסְגֹּֽוד׃ (Isa. 44:19)
+NIV	No-one stops to think, no-one has the knowledge or understanding to say, “Half of it I used for fuel. I even baked bread over its coals, _I roasted_ meat and I ate. Shall I make a detestable thing from what is left? Shall I bow down to a block of wood?”
+ESV	No one considers, nor is there knowledge or discernment to say, “Half of it I burned in the fire. I also baked bread on its coals. _I roasted_ meat and have eaten. And shall I make the rest of it an abomination? Shall I fall down before a block of wood?”
+NBS	j ai rôti
+NBS (verse)	Il ne réfléchit pas et il n'a ni connaissance ni d'intelligence pour dire~: J'en ai jeté une moitié au feu, j'ai cuit du pain sur les braises, j'ai rôti de la viande et je l'ai mangée~; et avec le reste je ferais une abomination~! Je ferais des révérences devant un morceau de bois~!
+
+(x)	הָרִֽאשֹׁנֹות֙ מֵאָ֣ז הִגַּ֔דְתִּי וּמִפִּ֥י יָצְא֖וּ וְ_אַשְׁמִיעֵ֑ם_ פִּתְאֹ֥ם עָשִׂ֖יתִי וַתָּבֹֽאנָה׃ (Isa. 48:3)
+NIV	I foretold the former things long ago, my mouth announced them and I made them known. then suddenly I acted, and they came to pass.
+ESV	“The former things I declared of old. they went out from my mouth, and _I announced_ them. then suddenly I did them, and they came to pass.
+NBS	entendre je ai fait l
+NBS (verse)	Depuis longtemps j'avais annoncé ce qui s'est passé~; c'est sorti de ma bouche, et je l'ai fait entendre~; tout à coup j'ai agi, et c'est arrivé.
+
+(x)	הַבִּ֨יטוּ֙ אֶל־אַבְרָהָ֣ם אֲבִיכֶ֔ם וְאֶל־שָׂרָ֖ה _תְּחֹולֶלְכֶ֑ם_ כִּי־אֶחָ֣ד קְרָאתִ֔יו וַאֲבָרְכֵ֖הוּ וְאַרְבֵּֽהוּ׃ ס (Isa. 51:2)
+NIV	look to Abraham, your father, and to Sarah, who gave you birth. When I called him he was but one, and I blessed him and made him many.
+ESV	Look to Abraham your father and to Sarah who _bore_ you. for he was but one when I called him, that I might bless him and multiply him.
+NBS	qui vous a mis au monde
+NBS (verse)	Portez les regards sur Abraham, votre père, et sur Sara qui vous a mis au monde~; car quand il était seul je l'ai appelé, puis je l'ai béni et multiplié.
+
+(x)	פּוּרָ֣ה׀ דָּרַ֣כְתִּי לְבַדִּ֗י וּמֵֽעַמִּים֙ אֵֽין־אִ֣ישׁ אִתִּ֔י וְאֶדְרְכֵ֣ם בְּאַפִּ֔י וְ_אֶרְמְסֵ֖ם_ בַּחֲמָתִ֑י וְיֵ֤ז נִצְחָם֙ עַל־בְּגָדַ֔י וְכָל־מַלְבּוּשַׁ֖י אֶגְאָֽלְתִּי׃ (Isa. 63:3)
+NIV	“I have trodden the winepress alone. from the nations no-one was with me. I trampled them in my anger and trod them down in my wrath. their blood spattered my garments, and I stained all my clothing.
+ESV	“I have trodden the winepress alone, and from the peoples no one was with me. I trod them in my anger and _trampled_ them in my wrath. their lifeblood spattered on my garments, and stained all my apparel.
+NBS	je les ai écrasés
+NBS (verse)	– J'ai été seul à fouler à la cuve, et aucun homme d'entre tous les peuples n'était avec moi~; je les ai foulés aux pieds dans ma colère, je les ai écrasés dans ma fureur~; mes vêtements ont été aspergés de leur sang, j'ai taché tous mes habits.
+
+(x)	פּוּרָ֣ה׀ דָּרַ֣כְתִּי לְבַדִּ֗י וּמֵֽעַמִּים֙ אֵֽין־אִ֣ישׁ אִתִּ֔י וְאֶדְרְכֵ֣ם בְּאַפִּ֔י וְאֶרְמְסֵ֖ם בַּחֲמָתִ֑י וְיֵ֤ז נִצְחָם֙ עַל־בְּגָדַ֔י וְכָל־מַלְבּוּשַׁ֖י _אֶגְאָֽלְתִּי_׃ (Isa. 63:3)
+NIV	“I have trodden the winepress alone. from the nations no-one was with me. I trampled them in my anger and trod them down in my wrath. their blood spattered my garments, and _I stained_ all my clothing.
+ESV	“I have trodden the winepress alone, and from the peoples no one was with me. I trod them in my anger and trampled them in my wrath. their lifeblood spattered on my garments, and _stained_ all my apparel.
+NBS	j ai taché
+NBS (verse)	– J'ai été seul à fouler à la cuve, et aucun homme d'entre tous les peuples n'était avec moi~; je les ai foulés aux pieds dans ma colère, je les ai écrasés dans ma fureur~; mes vêtements ont été aspergés de leur sang, j'ai taché tous mes habits.
+
+(x)	וַיֹּ֤אמֶר לָהֶם֙ בָּר֔וּךְ מִפִּיו֙ _יִקְרָ֣א_ אֵלַ֔י אֵ֥ת כָּל־הַדְּבָרִ֖ים הָאֵ֑לֶּה וַאֲנִ֛י כֹּתֵ֥ב עַל־הַסֵּ֖פֶר בַּדְּיֹֽו׃ פ (Jer. 36:18)
+NIV	“Yes,” Baruch replied, “_he dictated_ all these words to me, and I wrote them in ink on the scroll.”
+ESV	Baruch answered them, “_He dictated_ all these words to me, while I wrote them with ink on the scroll.”
+NBS	Il a dicté
+NBS (verse)	Baruch leur répondit~: Il m'a dicté toutes ces paroles, et je les écrivais dans ce livre avec de l'encre.
+
+(x)	וַֽיִּתְּנֻ֤הוּ בַסּוּגַר֙ בַּֽחַחִ֔ים וַיְבִאֻ֖הוּ אֶל־מֶ֣לֶךְ בָּבֶ֑ל _יְבִאֻ֨הוּ֙_ בַּמְּצֹדֹ֔ות לְמַ֗עַן לֹא־יִשָּׁמַ֥ע קֹולֹ֛ו עֹ֖וד אֶל־הָרֵ֥י יִשְׂרָאֵֽל׃ פ (Ezek. 19:9)
+NIV	With hooks they pulled him into a cage and brought him to the king of Babylon. _They put_ him in prison, so his roar was heard no longer on the mountains of Israel.
+ESV	With hooks they put him in a cage and brought him to the king of Babylon. _they brought_ him into custody, that his voice should no more be heard on the mountains of Israel.
+NBS	elles l ont emmené
+NBS (verse)	Elles l'ont mis dans une cage avec une boucle, elles l'ont emmené auprès du roi de Babylone~; elles l'ont emmené dans des forteresses, afin qu'on n'entende plus sa voix sur les montagnes d'Israël.
+
+(x)	בְּתָפְשָׂ֨ם בְּךָ֤ בַכַּף֙ תֵּרֹ֔וץ וּבָקַעְתָּ֥ לָהֶ֖ם כָּל־כָּתֵ֑ף וּבְהִֽשָּׁעֲנָ֤ם עָלֶ֨יךָ֙ _תִּשָּׁבֵ֔ר_ וְהַעֲמַדְתָּ֥ לָהֶ֖ם כָּל־מָתְנָֽיִם׃ ס (Ezek. 29:7)
+NIV	When they grasped you with their hands, you splintered and you tore open their shoulders. when they leaned on you, _you broke_ and their backs were wrenched.
+ESV	when they grasped you with the hand, _you broke_ and tore all their shoulders. and when they leaned on you, _you broke_ and made all their loins to shake.
+NBS	tu es brisé t
+NBS (verse)	Lorsqu'ils t'ont saisi, tu t'es cassé et tu leur as déchiré toute l'épaule~; lorsqu'ils se sont appuyés sur toi, tu t'es brisé et tu leur as complètement paralysé les reins.
+
+(x)	יַ֗עַן אֲשֶׁ֨ר _יְשָׁרְת֤וּ_ אֹותָם֙ לִפְנֵ֣י גִלּֽוּלֵיהֶ֔ם וְהָי֥וּ לְבֵֽית־יִשְׂרָאֵ֖ל לְמִכְשֹׁ֣ול עָוֹ֑ן עַל־כֵּן֩ נָשָׂ֨אתִי יָדִ֜י עֲלֵיהֶ֗ם נְאֻם֙ אֲדֹנָ֣י יְהוִ֔ה וְנָשְׂא֖וּ עֲוֹנָֽם׃ (Ezek. 44:12)
+NIV	But because _they served_ them in the presence of their idols and made the house of Israel fall into sin, therefore I have sworn with uplifted hand that they must bear the consequences of their sin, declares the Sovereign LORD.
+ESV	Because _they ministered_ to them before their idols and became a stumbling block of iniquity to the house of Israel, therefore I have sworn concerning them, declares the Lord God, and they shall bear their punishment.
+NBS	ils ont officié
+NBS (verse)	Parce qu'ils ont officié devant ses idoles et qu'ils ont été pour la maison d'Israël un obstacle qui fait trébucher, une cause de faute, je leur jure, à main levée,~– déclaration du Seigneur Dieu~– qu'ils seront chargés de leur faute.
+
+(x)	בְּחַבְלֵ֨י אָדָ֤ם אֶמְשְׁכֵם֙ בַּעֲבֹתֹ֣ות אַהֲבָ֔ה וָאֶהְיֶ֥ה לָהֶ֛ם כִּמְרִ֥ימֵי עֹ֖ל עַ֣ל לְחֵיהֶ֑ם וְ_אַ֥ט_ אֵלָ֖יו אֹוכִֽיל׃ (Hos. 11:4)
+NIV	I led them with cords of human kindness, with ties of love. I lifted the yoke from their neck and _bent down_ to feed them.
+ESV	I led them with cords of kindness, with the bands of love, and I became to them as one who eases the yoke on their jaws, and _I bent down_ to them and fed them.
+NBS	je ai présenté
+NBS (verse)	Je les ai tirés avec des liens humains, avec des chaînes d'amour. J'ai été pour eux celui qui relâchait leur joug, je leur ai présenté de quoi manger.
+
+(x)	_אֶֽתֶּן_־לְךָ֥ מֶ֨לֶךְ֙ בְּאַפִּ֔י וְאֶקַּ֖ח בְּעֶבְרָתִֽי׃ ס (Hos. 13:11)
+NIV	So in my anger _I gave_ you a king, and in my wrath I took him away.
+ESV	_I gave_ you a king in my anger, and I took him away in my wrath.
+NBS	Je ai donné
+NBS (verse)	Je t'ai donné un roi dans ma colère, je te l'ôterai dans ma fureur.
+
+(x)	גַּם־הִ֗יא לַגֹּלָה֙ הָלְכָ֣ה בַשֶּׁ֔בִי גַּ֧ם עֹלָלֶ֛יהָ _יְרֻטְּשׁ֖וּ_ בְּרֹ֣אשׁ כָּל־חוּצֹ֑ות וְעַל־נִכְבַּדֶּ֨יהָ֙ יַדּ֣וּ גֹורָ֔ל וְכָל־גְּדֹולֶ֖יהָ רֻתְּק֥וּ בַזִּקִּֽים׃ (Nah. 3:10)
+NIV	Yet she was taken captive and went into exile. Her infants _were dashed to pieces_ at the head of every street. Lots were cast for her nobles, and all her great men were put in chains.
+ESV	Yet she became an exile. she went into captivity. her infants _were dashed in pieces_ at the head of every street. for her honored men lots were cast, and all her great men were bound in chains.
+NBS	on a écrasé
+NBS (verse)	Et cependant elle aussi est partie en exil, elle s'en est allée captive~; on a écrasé ses enfants à tous les coins de rues~; on a tiré ses dignitaires au sort, et tous ses grands ont été chargés de chaînes.
+
+(x)	וַתְּחַסְּרֵ֣הוּ מְּ֭עַט מֵאֱלֹהִ֑ים וְכָבֹ֖וד וְהָדָ֣ר _תְּעַטְּרֵֽהוּ_׃ (Psa. 8:6)
+NIV	You made him a little lower than the heavenly beingsc and _crowned_ him with glory and honor.
+ESV	Yet you have made him a little lower than the heavenly beings and _crowned_ him with glory and honor.
+NBS	tu l as couronné
+NBS (verse)	Tu l'as fait de peu inférieur à un dieu, tu l'as couronné de gloire et de magnificence.
+
+(x)	וַיֹּוצִיאֵ֥נִי לַמֶּרְחָ֑ב _יְ֝חַלְּצֵ֗נִי_ כִּ֘י חָ֥פֵֽץ בִּֽי׃ (Psa. 18:20)
+NIV	He brought me out into a spacious place. _he rescued_ me because he delighted in me.
+ESV	He brought me out into a broad place. _he rescued_ me, because he delighted in me.
+NBS	il m a délivré
+NBS (verse)	Il m'a fait sortir pour me mettre au large, il m'a délivré, car il a pris plaisir en moi.
+
+(x)	אַתָּ֤ה׀ יָדְךָ֡ גֹּויִ֣ם הֹ֭ורַשְׁתָּ וַתִּטָּעֵ֑ם _תָּרַ֥ע_ לְ֝אֻמִּ֗ים וַֽתְּשַׁלְּחֵֽם׃ (Psa. 44:3)
+NIV	With your hand you drove out the nations and planted our fathers. _you crushed_ the peoples and made our fathers flourish.
+ESV	you with your own hand drove out the nations, but them you planted. _you afflicted_ the peoples, but them you set free.
+NBS	tu as frappé
+NBS (verse)	De ta main tu as dépossédé des nations pour les planter, tu as frappé des peuples pour leur permettre de s'étendre.
+
+(x)	וְ֭עַתָּה פִּתּוּחֶ֣יהָ יָּ֑חַד בְּכַשִּׁ֥יל וְ֝כֵֽילַפֹּ֗ת _יַהֲלֹמֽוּן_׃ (Psa. 74:6)
+NIV	_They smashed_ all the carved paneling with their axes and hatchets.
+ESV	And all its carved wood _they broke down_ with hatchets and hammers.
+NBS	ils ont brisé
+NBS (verse)	et maintenant ils ont brisé toutes les sculptures à coups de haches et de marteaux.
+
+(x)	אַתָּ֣ה רִ֭צַּצְתָּ רָאשֵׁ֣י לִוְיָתָ֑ן _תִּתְּנֶ֥נּוּ_ מַ֝אֲכָ֗ל לְעָ֣ם לְצִיִּֽים׃ (Psa. 74:14)
+NIV	It was you who crushed the heads of Leviathan and _gave_ him as food to the creatures of the desert.
+ESV	You crushed the heads of Leviathan. _you gave_ him as food for the creatures of the wilderness.
+NBS	Tu as donné l
+NBS (verse)	c'est toi qui as écrasé les têtes de Léviathan. Tu l'as donné en pâture à un peuple, aux habitants du désert.
+
+(x)	זֹ֤רְמוּ מַ֨יִם׀ עָבֹ֗ות קֹ֖ול נָתְנ֣וּ שְׁחָקִ֑ים אַף־חֲ֝צָצֶ֗יךָ _יִתְהַלָּֽכוּ_׃ (Psa. 77:18)
+NIV	The clouds poured down water, the skies resounded with thunder. your arrows _flashed back and forth_.
+ESV	The clouds poured out water. the skies gave forth thunder. your arrows _flashed on every side_.
+NBS	ont volé de toutes parts
+NBS (verse)	Les nuages ont versé des torrents d'eau, le ciel d'orage a fait retentir sa voix~; tes flèches ont volé de toutes parts
+
+(x)	גֶּ֭פֶן מִמִּצְרַ֣יִם _תַּסִּ֑יעַ_ תְּגָרֵ֥שׁ גֹּ֝ויִ֗ם וַתִּטָּעֶֽהָ׃ (Psa. 80:9)
+NIV	You brought a vine out of Egypt. you drove out the nations and planted it.
+ESV	You brought a vine out of Egypt. you drove out the nations and planted it.
+NBS	Tu avais arraché
+NBS (verse)	Tu avais arraché de l'Egypte une vigne~; tu as chassé des nations et tu l'as plantée.
+
+(x)	גֶּ֭פֶן מִמִּצְרַ֣יִם תַּסִּ֑יעַ _תְּגָרֵ֥שׁ_ גֹּ֝ויִ֗ם וַתִּטָּעֶֽהָ׃ (Psa. 80:9)
+NIV	You brought a vine out of Egypt. _you drove out_ the nations and planted it.
+ESV	You brought a vine out of Egypt. _you drove out_ the nations and planted it.
+NBS	tu as chassé
+NBS (verse)	Tu avais arraché de l'Egypte une vigne~; tu as chassé des nations et tu l'as plantée.
+
+(x)	הֲסִירֹ֣ותִי מִסֵּ֣בֶל שִׁכְמֹ֑ו כַּ֝פָּ֗יו מִדּ֥וּד _תַּעֲבֹֽרְנָה_׃ (Psa. 81:7)
+NIV	He says, “I removed the burden from their shoulders. their hands _were set free_ from the basket.
+ESV	“I relieved your shoulder of the burden. your hands _were freed_ from the basket.
+NBS	ont lâché
+NBS (verse)	J'ai déchargé son épaule du fardeau, ses mains ont lâché la corbeille.
+
+(x)	בַּצָּרָ֥ה קָרָ֗אתָ וָאֲחַ֫לְּצֶ֥ךָּ אֶ֭עֶנְךָ בְּסֵ֣תֶר רַ֑עַם _אֶבְחָֽנְךָ֨_ עַל־מֵ֖י מְרִיבָ֣ה סֶֽלָה׃ (Psa. 81:8)
+NIV	In your distress you called and I rescued you, I answered you out of a thundercloud. _I tested_ you at the waters of Meribah. Selah
+ESV	In distress you called, and I delivered you. I answered you in the secret place of thunder. _I tested_ you at the waters of Meribah. Selah
+NBS	je t ai éprouvé
+NBS (verse)	Tu as crié dans la détresse, et je t'ai délivré~; je t'ai répondu dans le secret du tonnerre~; je t'ai éprouvé près des eaux de Meriba. Pause.
+
+(x)	אַרְבָּ֘עִ֤ים שָׁנָ֨ה׀ _אָ֘ק֤וּט_ בְּדֹ֗ור וָאֹמַ֗ר עַ֤ם תֹּעֵ֣י לֵבָ֣ב הֵ֑ם וְ֝הֵ֗ם לֹא־יָדְע֥וּ דְרָכָֽי׃ (Psa. 95:10)
+NIV	For forty years _I was angry_ with that generation. I said, “They are a people whose hearts go astray, and they have not known my ways.”
+ESV	For forty years _I loathed_ that generation and said, “They are a people who go astray in their heart, and they have not known my ways.”
+NBS	j ai eu en dégoût
+NBS (verse)	Pendant quarante ans, j'ai eu cette génération en dégoût et je dis~: C'est un peuple dont le cœur est égaré~; ils ne connaissent pas mes voies.
+
+(x)	וַיַּאֲמִ֥ינוּ בִדְבָרָ֑יו _יָ֝שִׁ֗ירוּ_ תְּהִלָּתֹֽו׃ (Psa. 106:12)
+NIV	Then they believed his promises and _sang_ his praise.
+ESV	Then they believed his words. _they sang_ his praise.
+NBS	ils ont chanté
+NBS (verse)	Ils ont cru ses paroles, ils ont chanté sa louange.
+
+(x)	וַתִּבְעַר־אֵ֥שׁ בַּעֲדָתָ֑ם לֶ֝הָבָ֗ה _תְּלַהֵ֥ט_ רְשָׁעִֽים׃ (Psa. 106:18)
+NIV	Fire blazed among their followers. a flame _consumed_ the wicked.
+ESV	Fire also broke out in their company. the flame _burned up_ the wicked.
+NBS	ont embrasé
+NBS (verse)	le feu a dévoré leur communauté, les flammes ont embrasé les méchants.
+
+(x)	_יַעֲשׂוּ_־עֵ֥גֶל בְּחֹרֵ֑ב וַ֝יִּשְׁתַּחֲו֗וּ לְמַסֵּכָֽה׃ (Psa. 106:19)
+NIV	At Horeb _they made_ a calf and worshiped an idol cast from metal.
+ESV	_They made_ a calf in Horeb and worshiped a metal image.
+NBS	Ils ont fait
+NBS (verse)	Ils ont fait un taurillon à l'Horeb, ils se sont prosternés devant une idole de métal fondu,
+
+(x)	פְּעָמִ֥ים רַבֹּ֗ות יַצִּ֫ילֵ֥ם וְ֭הֵמָּה _יַמְר֣וּ_ בַעֲצָתָ֑ם וַ֝יָּמֹ֗כּוּ בַּעֲוֹנָֽם׃ (Psa. 106:43)
+NIV	Many times he delivered them, but they _were bent on rebellion_ and they wasted away in their sin.
+ESV	Many times he delivered them, but they _were rebellious_ in their purposes and were brought low through their iniquity.
+NBS	ont fait rebelles
+NBS (verse)	Bien souvent il les a délivrés~; mais ils ont fait des projets de rebelles et ils se sont enfoncés dans leur faute.
+
+(x)	אֲפָפ֤וּנִי׀ חֶבְלֵי־מָ֗וֶת וּמְצָרֵ֣י שְׁאֹ֣ול מְצָא֑וּנִי צָרָ֖ה וְיָגֹ֣ון _אֶמְצָֽא_׃ (Psa. 116:3)
+NIV	The cords of death entangled me, the anguish of the grave came upon me. _I was overcome_ by trouble and sorrow.
+ESV	The snares of death encompassed me. the pangs of Sheol laid hold on me. _I suffered_ distress and anguish.
+NBS	j avais atteint
+NBS (verse)	Les liens de la mort m'avaient enserré, et les angoisses du séjour des morts m'avaient atteint~; j'avais atteint le fond de la détresse et du chagrin.
+
+(x)	שֹׁמֵ֣ר פְּתָאיִ֣ם יְהֹוָ֑ה דַּ֝לֹּותִ֗י וְלִ֣י _יְהֹושִֽׁיעַ_׃ (Psa. 116:6)
+NIV	The LORD protects the simplehearted. when I was in great need, _he saved_ me.
+ESV	The Lord preserves the simple. when I was brought low, _he saved_ me.
+NBS	il a sauvé
+NBS (verse)	le Seigneur garde les naïfs~; j'étais affaibli, et il m'a sauvé.
+
+(x)	בְּיֹ֣ום קָ֭רָֽאתִי וַֽתַּעֲנֵ֑נִי _תַּרְהִבֵ֖נִי_ בְנַפְשִׁ֣י עֹֽז׃ (Psa. 138:3)
+NIV	When I called, you answered me. you made me bold and stouthearted.
+ESV	On the day I called, you answered me. my strength of soul _you increased_.
+NBS	tu as donné de la hardiesse
+NBS (verse)	Le jour où je t'ai invoqué, tu m'as répondu, tu m'as donné de la hardiesse, de la force.
+
+(x)	כִּֽי־אַ֭תָּה קָנִ֣יתָ כִלְיֹתָ֑י _תְּ֝סֻכֵּ֗נִי_ בְּבֶ֣טֶן אִמִּֽי׃ (Psa. 139:13)
+NIV	For you created my inmost being. you knit me together in my mother’s womb.
+ESV	For you formed my inward parts. you knitted me together in my mother’s womb.
+NBS	as tenu caché qui m
+NBS (verse)	C'est toi qui as produit les profondeurs de mon être, qui m'as tenu caché dans le ventre de ma mère.
+
+(x)	וְ֭אֵלַי דָּבָ֣ר _יְגֻנָּ֑ב_ וַתִּקַּ֥ח אָ֝זְנִ֗י שֵׁ֣מֶץ מֶֽנְהֽוּ׃ (Job 4:12)
+NIV	“A word _was secretly brought_ to me, my ears caught a whisper of it.
+ESV	“Now a word was brought to me stealthily. my ear received the whisper of it.
+NBS	est arrivée furtivement
+NBS (verse)	Une parole est arrivée furtivement jusqu'à moi, mon oreille en a perçu le murmure.
+
+(x)	וְ֭רוּחַ עַל־פָּנַ֣י יַחֲלֹ֑ף _תְּ֝סַמֵּ֗ר_ שַֽׂעֲרַ֥ת בְּשָׂרִֽי׃ (Job 4:15)
+NIV	A spirit glided past my face, and the hair on my body _stood on end_.
+ESV	A spirit glided past my face. the hair of my flesh _stood up_.
+NBS	se sont hérissés
+NBS (verse)	un souffle passait sur mon visage, tous les poils de mon corps se sont hérissés.
+
+(x)	כִּ֣י מִ֭נְּעוּרַי גְּדֵלַ֣נִי כְאָ֑ב וּמִבֶּ֖טֶן אִמִּ֣י _אַנְחֶֽנָּה_׃ (Job 31:18)
+NIV	but from my youth I reared him as would a father, and from my birth _I guided_ the widow —
+ESV	( for from my youth the fatherless grew up with me as with a father, and from my mother’s womb _I guided_ the widow ),
+NBS	j ai guidé la veuve
+NBS (verse)	– car, depuis ma jeunesse, il a grandi avec moi comme avec un père~; depuis le ventre de ma mère, j'ai guidé la veuve~–
+
+(x)	וְעָֽדֵיכֶ֗ם _אֶתְבֹּ֫ונָ֥ן_ וְהִנֵּ֤ה אֵ֣ין לְאִיֹּ֣וב מֹוכִ֑יחַ עֹונֶ֖ה אֲמָרָ֣יו מִכֶּֽם׃ (Job 32:12)
+NIV	I gave you my full attention. But not one of you has proved Job wrong. none of you has answered his arguments.
+ESV	I gave you my attention, and, behold, there was none among you who refuted Job or who answered his words.
+NBS	Je ai accordé mon attention
+NBS (verse)	Je vous ai accordé toute mon attention~; mais aucun de vous n'a convaincu Job, aucun n'a répondu à ses discours.
+
+(x)	וָֽאֶחֱזֶ֣ה אָ֭נֹכִֽי _אָשִׁ֣ית_ לִבִּ֑י רָ֝אִ֗יתִי לָקַ֥חְתִּי מוּסָֽר׃ (Prov. 24:32)
+NIV	I _applied_ my heart to what I observed and learned a lesson from what I saw:
+ESV	Then I saw and _considered_ it. I looked and received instruction.
+NBS	j ai réfléchi
+NBS (verse)	Moi, j'ai regardé, j'ai réfléchi, j'ai vu, j'en ai tiré instruction.
+
+(x)	נִשְׂקַד֩ עֹ֨ל פְּשָׁעַ֜י בְּיָדֹ֗ו _יִשְׂתָּֽרְג֛וּ_ עָל֥וּ עַל־צַוָּארִ֖י הִכְשִׁ֣יל כֹּחִ֑י נְתָנַ֣נִי אֲדֹנָ֔י בִּידֵ֖י לֹא־אוּכַ֥ל קֽוּם׃ ס (Lam. 1:14)
+NIV	“My sins have been bound into a yoke. by his hands _they were woven together_. They have come upon my neck and the Lord has sapped my strength. He has handed me over to those I cannot withstand.
+ESV	“My transgressions were bound into a yoke. by his hand _they were fastened together_. they were set upon my neck. he caused my strength to fail. the Lord gave me into the hands of those whom I cannot withstand.
+NBS	elles se sont entrelacées
+NBS (verse)	Sa main a lié le joug de mes transgressions~; elles se sont entrelacées, elles me sont montées à la gorge~; il a fait vaciller ma force~; le Seigneur m'a livrée à des mains contre lesquelles je ne peux tenir.
+
+(x)	קָרַ֨בְתָּ֙ בְּיֹ֣ום _אֶקְרָאֶ֔ךָּ_ אָמַ֖רְתָּ אַל־תִּירָֽא׃ ס (Lam. 3:57)
+NIV	You came near when _I called_ you, and you said, “Do not fear.”
+ESV	You came near when _I called on_ you. you said, ‘Do not fear!’
+NBS	je t ai invoqué
+NBS (verse)	Au jour où je t'ai invoqué, tu t'es approché, tu as dit~: N'aie pas peur~!
+
+(x)	וַֽתִּתְּנֵם֙ בְּיַ֣ד צָֽרֵיהֶ֔ם וַיָּצֵ֖רוּ לָהֶ֑ם וּבְעֵ֤ת צָֽרָתָם֙ יִצְעֲק֣וּ אֵלֶ֔יךָ וְאַתָּה֙ מִשָּׁמַ֣יִם תִּשְׁמָ֔ע וּֽכְרַחֲמֶ֣יךָ הָֽרַבִּ֗ים _תִּתֵּ֤ן_ לָהֶם֙ מֹֽושִׁיעִ֔ים וְיֹושִׁיע֖וּם מִיַּ֥ד צָרֵיהֶֽם׃ (Neh. 9:27)
+NIV	So you handed them over to their enemies, who oppressed them. But when they were oppressed they cried out to you. From heaven you heard them, and in your great compassion _you gave_ them deliverers, who rescued them from the hand of their enemies.
+ESV	Therefore _you gave_ them into the hand of their enemies, who made them suffer. And in the time of their suffering they cried out to you and you heard them from heaven, and according to your great mercies _you gave_ them saviors who saved them from the hand of their enemies.
+NBS	tu as donné
+NBS (verse)	Alors tu les as livrés à leurs adversaires qui les opprimèrent. Mais, au temps de leur détresse, ils ont crié vers toi~; et toi, tu les as entendus du ciel, et dans ta grande compassion, tu leur as donné des sauveurs qui les ont délivrés de la main de leurs adversaires.
+
+(x)	וַֽתִּתְּנֵם֙ בְּיַ֣ד צָֽרֵיהֶ֔ם וַיָּצֵ֖רוּ לָהֶ֑ם וּבְעֵ֤ת צָֽרָתָם֙ יִצְעֲק֣וּ אֵלֶ֔יךָ וְאַתָּה֙ מִשָּׁמַ֣יִם תִּשְׁמָ֔ע וּֽכְרַחֲמֶ֣יךָ הָֽרַבִּ֗ים תִּתֵּ֤ן לָהֶם֙ מֹֽושִׁיעִ֔ים וְ_יֹושִׁיע֖וּם_ מִיַּ֥ד צָרֵיהֶֽם׃ (Neh. 9:27)
+NIV	So you handed them over to their enemies, who oppressed them. But when they were oppressed they cried out to you. From heaven you heard them, and in your great compassion you gave them deliverers, who _rescued_ them from the hand of their enemies.
+ESV	Therefore you gave them into the hand of their enemies, who made them suffer. And in the time of their suffering they cried out to you and you heard them from heaven, and according to your great mercies you gave them saviors who _saved_ them from the hand of their enemies.
+NBS	qui les ont délivrés
+NBS (verse)	Alors tu les as livrés à leurs adversaires qui les opprimèrent. Mais, au temps de leur détresse, ils ont crié vers toi~; et toi, tu les as entendus du ciel, et dans ta grande compassion, tu leur as donné des sauveurs qui les ont délivrés de la main de leurs adversaires.

@@ -1,27 +1,101 @@
 eng_TAMsimp.isin(["FUT", "FUT ~ MOD shall"]) and has_time == 1 
-25 of 354
-you shall eat, you will eat (ESV, NIV | BHS וְעָפָ֥ר תֹּאכַ֖ל כָּל־יְמֵ֥י חַיֶּֽיךָ׃ , Gen. 3:14)
-will lift up, will lift off (ESV, NIV | BHS בְּעֹ֣וד׀ שְׁלֹ֣שֶׁת יָמִ֗ים יִשָּׂ֨א פַרְעֹ֤ה אֶת־רֹֽאשְׁךָ֙ מֵֽעָלֶ֔יךָ , Gen. 40:19)
-I will drive out (ESV, NIV | BHS לֹ֧א אֲגָרְשֶׁ֛נּוּ מִפָּנֶ֖יךָ בְּשָׁנָ֣ה אֶחָ֑ת , Exod. 23:29)
-you will listen (ESV, NIV | BHS וְאִ֨ם־עַד־אֵ֔לֶּה לֹ֥א תִשְׁמְע֖וּ לִ֑י , Lev. 26:18)
-it shall be said, it will be said (ESV, NIV | BHS כָּעֵ֗ת יֵאָמֵ֤ר לְיַעֲקֹב֙ וּלְיִשְׂרָאֵ֔ל , Num. 23:23)
-shall be, will be (ESV, NIV | BHS כִּֽי־נְזִ֤יר אֱלֹהִים֙ יִהְיֶ֣ה הַנַּ֔עַר מִן־הַבֶּ֖טֶן עַד־יֹ֥ום מֹותֹֽו׃ פ , Judg. 13:7)
-will come down (ESV, NIV | BHS עַ֠תָּה יֵרְד֨וּ פְלִשְׁתִּ֤ים אֵלַי֙ הַגִּלְגָּ֔ל , I Sam. 13:12)
-I will put to death (ESV, NIV | BHS וּבַיֹּ֨ום הַזֶּ֜ה לֹ֣א אֲמִיתֶ֗ךָ , I Kgs. 2:26)
-he will speak out, he will cry out (ESV, NIV | BHS יִשָּׂא֩ בַיֹּ֨ום הַה֤וּא׀ , Isa. 3:7)
-it will happen (ESV, NIV | BHS מִקֵּ֞ץ שִׁבְעִ֤ים שָׁנָה֙ יִהְיֶ֣ה לְצֹ֔ר כְּשִׁירַ֖ת הַזֹּונָֽה׃ , Isa. 23:15)
-I will be exalted, will I be lifted up (ESV, NIV | BHS עַתָּ֖ה אֶנָּשֵֽׂא׃ , Isa. 33:10)
-I will contend, I will accuse (ESV, NIV | BHS כִּ֣י לֹ֤א לְעֹולָם֙ אָרִ֔יב , Isa. 57:16)
-I will be angry (ESV, NIV | BHS לֹ֥א אֶטֹּ֖ור לְעֹולָֽם׃ , Jer. 3:12)
-you will understand clearly (ESV, NIV | BHS בְּאַֽחֲרִית֙ הַיָּמִ֔ים תִּתְבֹּ֥ונְנוּ בָ֖הּ בִּינָֽה׃ , Jer. 23:20)
-she shall have people, it will be inhabited (ESV, NIV | BHS וְלֹֽא־תֵשֵׁ֥ב עֹוד֙ לָנֶ֔צַח , Jer. 50:39)
-I will dwell, I will live (ESV, NIV | BHS אֲשֶׁ֧ר אֶשְׁכָּן־שָׁ֛ם בְּתֹ֥וךְ בְּנֵֽי־יִשְׂרָאֵ֖ל לְעֹולָ֑ם , Ezek. 43:7)
-shall be put to shame, will be shamed (ESV, NIV | BHS וְלֹא־יֵבֹ֥שׁוּ עַמִּ֖י לְעֹולָֽם׃ ס , Joel 2:27)
-they shall lie down, they will lie down (ESV, NIV | BHS בְּבָתֵּ֣י אַשְׁקְלֹ֗ון בָּעֶ֨רֶב֙ יִרְבָּצ֔וּן , Zeph. 2:7)
-shall flow out, will flow out (ESV, NIV | BHS בַּיֹּ֣ום הַה֗וּא יֵצְא֤וּ מַֽיִם־חַיִּים֙ מִיר֣וּשָׁלִַ֔ם , Zech. 14:8)
-shall be lifted up, will be exalted (ESV, NIV | BHS וְעַתָּ֨ה יָר֪וּם רֹאשִׁ֡י עַ֤ל אֹֽיְבַ֬י סְֽבִיבֹותַ֗י , Psa. 27:6)
-will give thanks, will praise (ESV, NIV | BHS וַאֲנַ֤חְנוּ עַמְּךָ֨׀ וְצֹ֥אן מַרְעִיתֶךָ֮ נֹ֤ודֶ֥ה לְּךָ֗ לְעֹ֫ולָ֥ם לְדֹ֥ר וָדֹ֑ר , Psa. 79:13)
-shall strike, will harm (ESV, NIV | BHS יֹומָ֗ם הַשֶּׁ֥מֶשׁ לֹֽא־יַכֶּ֗כָּה , Psa. 121:6)
-he will spare, he will show mercy (ESV, NIV | BHS וְלֹֽא־יַ֝חְמֹ֗ול בְּיֹ֣ום נָקָֽם׃ , Prov. 6:34)
-shall rise, will rise (ESV, NIV | BHS וּבָעִתִּ֣ים הָהֵ֔ם רַבִּ֥ים יַֽעַמְד֖וּ עַל־מֶ֣לֶךְ הַנֶּ֑גֶב , Dan. 11:14)
-I will put (ESV, NIV | BHS אָשִׂ֥ים אֶת־שְׁמִ֖י לְעֵילֹֽום׃ , II Chr. 33:7)
+25 of 360
+(x)	וְעָפָ֥ר _תֹּאכַ֖ל_ כָּל־יְמֵ֥י חַיֶּֽיךָ׃ (Gen. 3:14)
+NIV	So the LORD God said to the serpent, “Because you have done this, “Cursed are you above all the livestock and all the wild animals! You will crawl on your belly and _you will eat_ dust all the days of your life.
+ESV	The Lord God said to the serpent, “Because you have done this, cursed are you above all livestock and above all beasts of the field. on your belly you shall go, and dust _you shall eat_ all the days of your life.
+
+(x)	בְּעֹ֣וד׀ שְׁלֹ֣שֶׁת יָמִ֗ים _יִשָּׂ֨א_ פַרְעֹ֤ה אֶת־רֹֽאשְׁךָ֙ מֵֽעָלֶ֔יךָ (Gen. 40:19)
+NIV	Within three days Pharaoh _will lift off_ your head and hang you on a tree. And the birds will eat away your flesh.”
+ESV	In three days Pharaoh _will lift up_ your head — from you! — and hang you on a tree. And the birds will eat the flesh from you.”
+
+(x)	לֹ֧א _אֲגָרְשֶׁ֛נּוּ_ מִפָּנֶ֖יךָ בְּשָׁנָ֣ה אֶחָ֑ת (Exod. 23:29)
+NIV	But I will not drive them out in a single year, because the land would become desolate and the wild animals too numerous for you.
+ESV	I will not drive them out from before you in one year, lest the land become desolate and the wild beasts multiply against you.
+
+(x)	וְאִ֨ם־עַד־אֵ֔לֶּה לֹ֥א _תִשְׁמְע֖וּ_ לִ֑י (Lev. 26:18)
+NIV	“‘If after all this you will not listen to me, I will punish you for your sins seven times over.
+ESV	And if in spite of this you will not listen to me, then I will discipline you again sevenfold for your sins,
+
+(x)	אִיעָ֣צְךָ֔ אֲשֶׁ֨ר _יַעֲשֶׂ֜ה_ הָעָ֥ם הַזֶּ֛ה לְעַמְּךָ֖ בְּאַחֲרִ֥ית הַיָּמִֽים׃ (Num. 24:14)
+NIV	Now I am going back to my people, but come, let me warn you of what this people _will do_ to your people in days to come.”
+ESV	And now, behold, I am going to my people. Come, I will let you know what this people _will do_ to your people in the latter days.”
+
+(x)	וְאַחַ֥ר _אֶחְדָּֽל_׃ (Judg. 15:7)
+NIV	Samson said to them, “Since you’ve acted like this, I won’t stop until I get my revenge on you.”
+ESV	And Samson said to them, “If this is what you do, I swear I will be avenged on you, and after that _I will quit_.”
+
+(x)	וְעַתָּ֖ה מַמְלַכְתְּךָ֣ לֹא־_תָק֑וּם_ (I Sam. 13:14)
+NIV	But now your kingdom will not endure. the LORD has sought out a man after his own heart and appointed him leader of his people, because you have not kept the LORD’s command.”
+ESV	But now your kingdom shall not continue. The Lord has sought out a man after his own heart, and the Lord has commanded him to be prince over his people, because you have not kept what the Lord commanded you.”
+
+(x)	וְכִסֵּ֣א דָוִ֗ד _יִהְיֶ֥ה_ נָכֹ֛ון לִפְנֵ֥י יְהוָ֖ה עַד־עֹולָֽם׃ (I Kgs. 2:45)
+NIV	But King Solomon will be blessed, and David’s throne _will remain_ secure before the LORD for ever.”
+ESV	But King Solomon _shall be_ blessed, and the throne of David _shall be_ established before the Lord forever.”
+
+(x)	בַּיֹּ֨ום הַה֜וּא _יָסִ֣יר_ אֲדֹנָ֗י אֵ֣ת תִּפְאֶ֧רֶת הָעֲכָסִ֛ים וְהַשְּׁבִיסִ֖ים וְהַשַּׂהֲרֹנִֽים׃ הַנְּטִיפֹ֥ות וְהַשֵּׁירֹ֖ות וְהָֽרְעָלֹֽות׃ הַפְּאֵרִ֤ים וְהַצְּעָדֹות֙ וְהַקִּשֻּׁרִ֔ים וּבָתֵּ֥י הַנֶּ֖פֶשׁ וְהַלְּחָשִֽׁים׃ הַטַּבָּעֹ֖ות וְנִזְמֵ֥י הָאָֽף׃ הַמַּֽחֲלָצֹות֙ וְהַמַּ֣עֲטָפֹ֔ות וְהַמִּטְפָּחֹ֖ות וְהָחֲרִיטִֽים׃ וְהַגִּלְיֹנִים֙ וְהַסְּדִינִ֔ים וְהַצְּנִיפֹ֖ות וְהָרְדִידִֽים׃ (Isa. 3:18)
+NIV	In that day the Lord _will snatch away_ their finery: the bangles and headbands and crescent necklaces,
+ESV	In that day the Lord _will take away_ the finery of the anklets, the headbands, and the crescents.
+
+(x)	וּמֵרֹ֥ב יָמִ֖ים _יִפָּקֵֽדוּ_׃ (Isa. 24:22)
+NIV	They will be herded together like prisoners bound in a dungeon. they will be shut up in prison and _be punished_ after many days.
+ESV	They will be gathered together as prisoners in a pit. they will be shut up in a prison, and after many days _they will be punished_.
+
+(x)	עֵינֶיךָ֩ תִרְאֶ֨ינָה יְרוּשָׁלִַ֜ם נָוֶ֣ה שַׁאֲנָ֗ן אֹ֤הֶל בַּל־יִצְעָן֙ בַּל־_יִסַּ֤ע_ יְתֵֽדֹתָיו֙ לָנֶ֔צַח וְכָל־חֲבָלָ֖יו בַּל־יִנָּתֵֽקוּ׃ (Isa. 33:20)
+NIV	Look upon Zion, the city of our festivals. your eyes will see Jerusalem, a peaceful abode, a tent that will not be moved. its stakes will never be pulled up, nor any of its ropes broken.
+ESV	Behold Zion, the city of our appointed feasts! Your eyes will see Jerusalem, an untroubled habitation, an immovable tent, whose stakes will never be plucked up, nor will any of its cords be broken.
+
+(x)	אָ֣ז _יִבָּקַ֤ע_ כַּשַּׁ֨חַר֙ אֹורֶ֔ךָ (Isa. 58:8)
+NIV	Then your light _will break forth_ like the dawn, and your healing will quickly appear. then your righteousness will go before you, and the glory of the LORD will be your rear guard.
+ESV	Then shall your light break forth like the dawn, and your healing shall spring up speedily. your righteousness shall go before you. the glory of the Lord shall be your rear guard.
+
+(x)	בַּיָּמִ֣ים הָהֵ֔מָּה _יֵלְכ֥וּ_ בֵית־יְהוּדָ֖ה עַל־בֵּ֣ית יִשְׂרָאֵ֑ל (Jer. 3:18)
+NIV	In those days the house of Judah _will join_ the house of Israel, and together they will come from a northern land to the land I gave your forefathers as an inheritance.
+ESV	In those days the house of Judah _shall join_ the house of Israel, and together they shall come from the land of the north to the land that I gave your fathers for a heritage.
+
+(x)	כָּ֣כָה _אֶשְׁבֹּ֞ר_ אֶת־עֹ֣ל׀ נְבֻֽכַדְנֶאצַּ֣ר מֶֽלֶךְ־בָּבֶ֗ל בְּעֹוד֙ שְׁנָתַ֣יִם יָמִ֔ים מֵעַ֕ל־צַוַּ֖אר כָּל־הַגֹּויִ֑ם (Jer. 28:11)
+NIV	and he said before all the people, “This is what the LORD says: ‘In the same way will I break the yoke of Nebuchadnezzar king of Babylon off the neck of all the nations within two years.’” At this, the prophet Jeremiah went on his way.
+ESV	And Hananiah spoke in the presence of all the people, saying, “Thus says the Lord: Even so _will I break_ the yoke of Nebuchadnezzar king of Babylon from the neck of all the nations within two years.” But Jeremiah the prophet went his way.
+
+(x)	בַּיֹּ֣ום הַה֗וּא _יִפָּ֤תַח_ פִּ֨יךָ֙ אֶת־הַפָּלִ֔יט (Ezek. 24:27)
+NIV	At that time your mouth _will be opened_. you will speak with him and will no longer be silent. So you will be a sign to them, and they will know that I am the LORD.”
+ESV	On that day your mouth _will be opened_ to the fugitive, and you shall speak and be no longer mute. So you will be a sign to them, and they will know that I am the Lord.”
+
+(x)	כִּ֣י׀ יָמִ֣ים רַבִּ֗ים _יֵֽשְׁבוּ֙_ בְּנֵ֣י יִשְׂרָאֵ֔ל (Hos. 3:4)
+NIV	For the Israelites _will live_ for many days without king or prince, without sacrifice or sacred stones, without ephod or idol.
+ESV	For the children of Israel _shall dwell_ many days without king or prince, without sacrifice or pillar, without ephod or household gods.
+
+(x)	וִיהוּדָ֖ה לְעֹולָ֣ם _תֵּשֵׁ֑ב_ וִירוּשָׁלִַ֖ם לְדֹ֥ור וָדֹֽור׃ (Joel 4:20)
+NIV	Judah _will be inhabited_ forever and Jerusalem through all generations.
+ESV	But Judah _shall be inhabited_ forever, and Jerusalem to all generations.
+
+(x)	בַּיֹּ֣ום הַה֔וּא _יֵאָמֵ֥ר_ לִירֽוּשָׁלִַ֖ם (Zeph. 3:16)
+NIV	On that day _they will say_ to Jerusalem, “Do not fear, O Zion. do not let your hands hang limp.
+ESV	On that day _it shall be said_ to Jerusalem: “Fear not, O Zion. let not your hands grow weak.
+
+(x)	כִּֽי־_יִהְי֣וּ_ אֵ֔פֶר תַּ֖חַת כַּפֹּ֣ות רַגְלֵיכֶ֑ם בַּיֹּום֙ אֲשֶׁ֣ר אֲנִ֣י עֹשֶׂ֔ה (Mal. 3:21)
+NIV	Then you will trample down the wicked. _they will be_ ashes under the soles of your feet on the day when I do these things,” says the LORD Almighty.
+ESV	And you shall tread down the wicked, for _they will be_ ashes under the soles of your feet, on the day when I act, says the Lord of hosts.
+
+(x)	עַל־כֵּ֥ן עַמִּ֥ים _יְ֝הֹודֻ֗ךָ_ לְעֹלָ֥ם וָעֶֽד׃ (Psa. 45:18)
+NIV	I will perpetuate your memory through all generations. therefore the nations _will praise_ you forever and ever.
+ESV	I will cause your name to be remembered in all generations. therefore nations _will praise_ you forever and ever.
+
+(x)	עַד־מָתַ֥י _תִּשְׁפְּטוּ_־עָ֑וֶל וּפְנֵ֥י רְ֝שָׁעִ֗ים תִּשְׂאוּ־ (Psa. 82:2)
+NIV	“How long _will you defend_ the unjust and show partiality to the wicked? Selah
+ESV	“How long _will you judge_ unjustly and show partiality to the wicked? Selah
+
+(x)	גַּם־בְּנֵיהֶ֥ם עֲדֵי־עַ֑ד _יֵ֝שְׁב֗וּ_ לְכִסֵּא־לָֽךְ׃ (Psa. 132:12)
+NIV	if your sons keep my covenant and the statutes I teach them, then their sons _will sit_ on your throne for ever and ever.”
+ESV	If your sons keep my covenant and my testimonies that I shall teach them, their sons also forever _shall sit_ on your throne.”
+
+(x)	וְלֹֽא־_יַ֝חְמֹ֗ול_ בְּיֹ֣ום נָקָֽם׃ (Prov. 6:34)
+NIV	for jealousy arouses a husband’s fury, and he will show no mercy when he takes revenge.
+ESV	For jealousy makes a man furious, and he will not spare when he takes revenge.
+
+(x)	וּבָעִתִּ֣ים הָהֵ֔ם רַבִּ֥ים _יַֽעַמְד֖וּ_ עַל־מֶ֣לֶךְ הַנֶּ֑גֶב (Dan. 11:14)
+NIV	“In those times many _will rise_ against the king of the South. The violent men among your own people will rebel in fulfilment of the vision, but without success.
+ESV	“In those times many _shall rise_ against the king of the south, and the violent among your own people shall lift themselves up in order to fulfill the vision, but they shall fail.
+
+(x)	בַּבַּ֨יִת הַזֶּ֜ה וּבִֽירוּשָׁלִַ֗ם אֲשֶׁ֤ר בָּחַ֨רְתִּי֙ מִכֹּל֙ שִׁבְטֵ֣י יִשְׂרָאֵ֔ל _אָשִׂ֥ים_ אֶת־שְׁמִ֖י לְעֵילֹֽום׃ (II Chr. 33:7)
+NIV	He took the carved image he had made and put it in God’s temple, of which God had said to David and to his son Solomon, “In this temple and in Jerusalem, which I have chosen out of all the tribes of Israel, _I will put_ my Name forever.
+ESV	And the carved image of the idol that he had made he set in the house of God, of which God said to David and to Solomon his son, “In this house, and in Jerusalem, which I have chosen out of all the tribes of Israel, _I will put_ my name forever,

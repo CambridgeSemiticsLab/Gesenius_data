@@ -5,25 +5,12 @@ from pathlib import Path
 
 tf_modules = [
     # order strategically to set priorities for features
-    "/Users/cody/github/CambridgeSemiticsLab/time_collocations/data/bhsa/tf", 
+    "custom_bhsa",
     "/Users/cody/github/etcbc/bhsa/tf/c", 
     "/Users/cody/github/etcbc/genre_synvar/tf/c", 
     "/Users/cody/github/etcbc/valence/tf/c",
     "/Users/cody/github/etcbc/heads/tf/c",
 ]
-
-# -- clone necessary data -- 
-
-# Need to complete the gitclone rule begun below
-# see: https://github.com/snakemake/snakemake/issues/350
-# rule get_bhsa:
-#     output:
-#         directory(expand("~/github/{package}", package=bhsa_packages))
-#     shell:
-#         """
-#         if [[! -d "{wildcards.package}" ]]; then
-#             git clone https://github.com/{}    
-#         """
 
 # -- preprocess the raw GBI data --
 rule preprocess_gbi:
@@ -43,8 +30,6 @@ rule preprocess_gbi:
 # then match the GBI word data to translation data
 rule prepare_gbi_verbs:
     input:
-        script="scripts/english/parse/prepare_verbs.py",
-        bhsa2gbi="_private_/GBI_alignment/bhsa2gbi.json",
         tf_mods=tf_modules,
         word_data=rules.preprocess_gbi.output.word_data,
         id2link=rules.preprocess_gbi.output.id2link,
@@ -62,7 +47,6 @@ rule parse_eng_verses:
         versestoparse=rules.prepare_gbi_verbs.output.versestoparse,
         verse2words=rules.preprocess_gbi.output.verse2words,
         word_data=rules.preprocess_gbi.output.word_data,
-        script="scripts/english/parse/parse_verses.py",
     output:
         parsedverses="_private_/GBI_alignment/parsings/parsedverses.pickle",
         verse2text="_private_/GBI_alignment/verse2text.json",
@@ -72,8 +56,6 @@ rule parse_eng_verses:
 # -- apply automatic matches to parsed english data to get tense tags
 rule parse_eng_tenses:
     input:
-        main_script="scripts/english/parse/parse_tenses.py",
-        impv_script="scripts/english/parse/imperatives.py",
         tense_rules="scripts/english/parse/tense_rules.py",
         parsedverses=rules.parse_eng_verses.output.parsedverses,
         eng_verbs=rules.prepare_gbi_verbs.output.eng_verbs,
@@ -87,13 +69,39 @@ rule parse_eng_tenses:
     script:
         "scripts/english/parse/parse_tenses.py"
 
+# -- ingest and parse French data --
+rule ingest_french:
+    input:
+        source="_private_/French/all verbs NBS11.CSV",
+        bhsa="/Users/cody/github/etcbc/bhsa/tf/c",
+    output:
+        bhsa2french="_private_/French/bhsa2french.json",
+        verses="_private_/French/french_verses.json"
+    script:
+        "scripts/french/parse/ingest_data.py"
+
+rule parse_french_verses:
+    input:
+        verses=rules.ingest_french.output.verses,
+    output:
+        parses="_private_/French/verse2parse.pickle"
+    script:
+        "scripts/french/parse/parse_verses.py"
+
+rule parse_french_tenses:
+    input:
+        parses=rules.parse_french_verses.output.parses,
+        bhsa2french=rules.ingest_french.output.bhsa2french
+    output:
+        bhsa2french="_private_/French/bhsa2french2.json"
+    script:
+        "scripts/french/parse/parse_tenses.py"
+
 # -- generate Hebrew samples --
 rule get_samples:
     input:
         tf_mod="/Users/cody/github/etcbc/bhsa/tf/c",
         bhsa2gbi=rules.prepare_gbi_verbs.output.bhsa2gbi,
-        verbform_script="scripts/hebrew/verb_form.py",
-        script="scripts/hebrew/get_samples.py",
     output:
         file="../results/samples/{verb}.json" 
     script:
@@ -110,8 +118,6 @@ niv_corr = "../results/datasets/niv_corrections.json"
 # produce initial to-do files
 rule get_eng_corrections:
     input:
-        script="scripts/english/parse/get_corrections.py",
-        script2="scripts/english/parse/correction_files.py",
         verse2text=rules.parse_eng_verses.output.verse2text,
         esv=rules.parse_eng_tenses.output.esv,
         niv=rules.parse_eng_tenses.output.niv,
@@ -134,8 +140,6 @@ rule get_eng_corrections:
 # removed each time pipeline is run, which would destroy the manual work
 rule apply_eng_corrections:
     input:
-        script="scripts/english/parse/apply_corrections.py",
-        script2="scripts/english/parse/correction_files.py",
         verse2text=rules.parse_eng_verses.output.verse2text,
         esv=rules.parse_eng_tenses.output.esv,
         niv=rules.parse_eng_tenses.output.niv,
@@ -152,14 +156,12 @@ rule apply_eng_corrections:
 # -- build csv tables --
 
 # - BHSA -
-hebrew_scripts = Path("scripts/hebrew")
 main_hebrew="scripts/hebrew/build_hebrew_tables.py"
 rule heb_tables:
     input:
         sample=rules.get_samples.output.file, 
         tf_mods=tf_modules,
         bhsa2gbi=rules.prepare_gbi_verbs.output.bhsa2gbi,
-        scripts=list(hebrew_scripts.glob('*.py'))
     output:
         hebrew="../results/datasets/{verb}/heb.csv",
         hebrew_clrela="../results/datasets/{verb}/heb_clrela.csv",
@@ -167,7 +169,6 @@ rule heb_tables:
         main_hebrew
 
 # - English -
-eng_scripts=Path("scripts/english")
 rule eng_tables:
     input:
         sample=rules.get_samples.output.file, 
@@ -177,7 +178,6 @@ rule eng_tables:
         esv_corr=esv_corr,
         run_corr=rules.apply_eng_corrections.output.run,
         parsedverses=rules.parse_eng_verses.output.parsedverses,
-        scripts=list(eng_scripts.glob('*.py')),
     output: 
         eng="../results/datasets/{verb}/eng.csv",
         eng_text="../results/datasets/{verb}/eng_text.csv" 
@@ -185,23 +185,32 @@ rule eng_tables:
         "scripts/english/build_eng_tables.py"
 
 # - LXX -
-lxx_scripts = Path("scripts/lxx")
 rule lxx_tables:
     input:
         sample=rules.get_samples.output.file, 
         lxx="_private_/verb_data/bhsa2lxx.json",
         lxx_verses="_private_/verb_data/lxx_verses.json",
-        scripts=list(lxx_scripts.glob("*.py")),
     output:
         lxx="../results/datasets/{verb}/lxx.csv",
     script:
         "scripts/lxx/build_lxx_tables.py"
 
+# - French -
+rule french_tables:
+    input:
+        sample=rules.get_samples.output.file,
+        bhsa2french=rules.parse_french_tenses.output.bhsa2french,
+        verses=rules.ingest_french.output.verses,
+    output:
+        tenses="../results/datasets/{verb}/french.csv",
+        text="../results/datasets/{verb}/french_text.csv"
+    script:
+        "scripts/french/build_french_tables.py"
+
 # - apply some correction filters to the tables - 
 # ! DEPRECATED ! as of yiqtol
 #rule correct_verb:
 #    input:
-#        script="scripts/correct_{verb}.py",
 #        files=expand('..results/datasets/{{verb}}/_{files}_.csv', files=results_csv),
 #    output:
 #        files=expand('..results/datasets/{{verb}}/{files}.csv', files=results_csv),
@@ -211,7 +220,12 @@ rule lxx_tables:
 # - run correlation analyses for verb - 
 rule analyze_verb:
     input:
-        data_dir=rules.heb_tables.output + rules.eng_tables.output + rules.lxx_tables.output,
+        data_dir=(
+            rules.heb_tables.output 
+            + rules.eng_tables.output
+            + rules.lxx_tables.output
+            + rules.french_tables.output
+        ),
         analyzers="scripts/analysis/analysis.py",
         script="scripts/analysis/verbs/{verb}/{analysis_name}.py"
     output:

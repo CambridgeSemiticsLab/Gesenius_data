@@ -1,12 +1,41 @@
 eng_TAMsimp == "MOD must ~ MOD shall" and genre == "instruction" 
 10 of 253
-he shall deal, he must grant (ESV, NIV | BHS כְּמִשְׁפַּ֥ט הַבָּנֹ֖ות יַעֲשֶׂה־לָּֽהּ׃ , Exod. 21:9)
-shall be put to death, must be put to death (ESV, NIV | BHS מֹ֥ות יוּמָֽת׃ ס , Exod. 22:18)
-it shall be eaten, it must be eaten (ESV, NIV | BHS בְּמָקֹ֤ום קָדֹושׁ֙ יֵאָכֵ֔ל , Lev. 7:6)
-you shall burn, must be burned (ESV, NIV | BHS בָּאֵ֣שׁ תִּשְׂרְפֶ֔נּוּ , Lev. 13:57)
-you shall revere, you must respect (ESV, NIV | BHS אִמֹּ֤ו וְאָבִיו֙ תִּירָ֔אוּ , Lev. 19:3)
-he shall take, he must marry (ESV, NIV | BHS כִּ֛י אִם־בְּתוּלָ֥ה מֵעַמָּ֖יו יִקַּ֥ח אִשָּֽׁה׃ , Lev. 21:14)
-he shall pay, he must pay for (ESV, NIV | BHS לְפִיהֶן֙ יָשִׁ֣יב גְּאֻלָּתֹ֔ו מִכֶּ֖סֶף מִקְנָתֹֽו׃ , Lev. 25:51)
-shall be put to death, must die (ESV, NIV | BHS מֹ֥ות יוּמַ֖ת הָאִ֑ישׁ , Num. 15:35)
-shall be, must be (ESV, NIV | BHS יָֽדְךָ֛ תִּֽהְיֶה־בֹּ֥ו בָרִֽאשֹׁונָ֖ה , Deut. 13:10)
-they shall alienate, must pass (ESV, NIV | BHS וְלֹ֥א יַעֲבִ֖יר רֵאשִׁ֣ית הָאָ֑רֶץ , Ezek. 48:14)
+(x)	כְּמִשְׁפַּ֥ט הַבָּנֹ֖ות _יַעֲשֶׂה_־לָּֽהּ׃ (Exod. 21:9)
+NIV	If he selects her for his son, _he must grant_ her the rights of a daughter.
+ESV	If he designates her for his son, _he shall deal_ with her as with a daughter.
+
+(x)	כָּל־שֹׁכֵ֥ב עִם־בְּהֵמָ֖ה מֹ֥ות _יוּמָֽת_׃ ס (Exod. 22:18)
+NIV	“Anyone who has sexual relations with an animal _must be put to death_.
+ESV	“Whoever lies with an animal _shall be put to death_.
+
+(x)	בְּמָקֹ֤ום קָדֹושׁ֙ _יֵאָכֵ֔ל_ (Lev. 7:6)
+NIV	Any male in a priest’s family may eat it, but _it must be eaten_ in a holy place. it is most holy.
+ESV	Every male among the priests may eat of it. _It shall be eaten_ in a holy place. It is most holy.
+
+(x)	בָּאֵ֣שׁ _תִּשְׂרְפֶ֔נּוּ_ אֵ֥ת אֲשֶׁר־בֹּ֖ו הַנָּֽגַע׃ (Lev. 13:57)
+NIV	But if it reappears in the clothing, or in the woven or knitted material, or in the leather article, it is spreading, and whatever has the mildew _must be burned_ with fire.
+ESV	Then if it appears again in the garment, in the warp or the woof, or in any article made of skin, it is spreading. _You shall burn_ with fire whatever has the disease.
+
+(x)	אִ֣ישׁ אִמֹּ֤ו וְאָבִיו֙ _תִּירָ֔אוּ_ וְאֶת־שַׁבְּתֹתַ֖י תִּשְׁמֹ֑רוּ (Lev. 19:3)
+NIV	“‘Each of _you must respect_ his mother and father, and you must observe my Sabbaths. I am the LORD your God.
+ESV	Every one of _you shall revere_ his mother and his father, and you shall keep my Sabbaths: I am the Lord your God.
+
+(x)	כִּ֛י אִם־בְּתוּלָ֥ה מֵעַמָּ֖יו _יִקַּ֥ח_ אִשָּֽׁה׃ (Lev. 21:14)
+NIV	He must not marry a widow, a divorced woman, or a woman defiled by prostitution, but only a virgin from his own people,
+ESV	A widow, or a divorced woman, or a woman who has been defiled, or a prostitute, these he shall not marry. But _he shall take_ as his wife a virgin of his own people,
+
+(x)	לְפִיהֶן֙ _יָשִׁ֣יב_ גְּאֻלָּתֹ֔ו מִכֶּ֖סֶף מִקְנָתֹֽו׃ (Lev. 25:51)
+NIV	If many years remain, _he must pay for_ his redemption a larger share of the price paid for him.
+ESV	If there are still many years left, _he shall pay_ proportionately for his redemption some of his sale price.
+
+(x)	מֹ֥ות _יוּמַ֖ת_ הָאִ֑ישׁ (Num. 15:35)
+NIV	Then the LORD said to Moses, “The man _must die_. The whole assembly must stone him outside the camp.”
+ESV	And the Lord said to Moses, “The man _shall be put to death_. all the congregation shall stone him with stones outside the camp.”
+
+(x)	יָֽדְךָ֛ _תִּֽהְיֶה_־בֹּ֥ו בָרִֽאשֹׁונָ֖ה לַהֲמִיתֹ֑ו וְיַ֥ד כָּל־הָעָ֖ם בָּאַחֲרֹנָֽה׃ (Deut. 13:10)
+NIV	You must certainly put him to death. Your hand _must be_ the first in putting him to death, and then the hands of all the people.
+ESV	But you shall kill him. Your hand _shall be_ first against him to put him to death, and afterward the hand of all the people.
+
+(x)	וְלֹ֥א יַעֲבִ֖יר רֵאשִׁ֣ית הָאָ֑רֶץ (Ezek. 48:14)
+NIV	They must not sell or exchange any of it. This is the best of the land and must not pass into other hands, because it is holy to the LORD.
+ESV	They shall not sell or exchange any of it. They shall not alienate this choice portion of the land, for it is holy to the Lord.

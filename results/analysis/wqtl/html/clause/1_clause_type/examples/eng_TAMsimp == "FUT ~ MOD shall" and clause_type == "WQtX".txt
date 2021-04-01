@@ -1,27 +1,101 @@
 eng_TAMsimp == "FUT ~ MOD shall" and clause_type == "WQtX"
 25 of 369
-shall be, will be (ESV, NIV | BHS וְהָי֣וּ יָמָ֔יו מֵאָ֥ה וְעֶשְׂרִ֖ים שָׁנָֽה׃ , Gen. 6:3)
-shall be filled, will be full (ESV, NIV | BHS וּמָ֨לְא֜וּ בָּתֵּ֤י מִצְרַ֨יִם֙ אֶת־הֶ֣עָרֹ֔ב , Exod. 8:17)
-shall bear, he will bear (ESV, NIV | BHS וְנָשָׂ֨א אַהֲרֹ֜ן אֶת־עֲוֹ֣ן הַקֳּדָשִׁ֗ים , Exod. 28:38)
-shall provide, will be (ESV, NIV | BHS וְ֠הָיְתָה שַׁבַּ֨ת הָאָ֤רֶץ לָכֶם֙ לְאָכְלָ֔ה לְךָ֖ וּלְעַבְדְּךָ֣ וְלַאֲמָתֶ֑ךָ וְלִשְׂכִֽירְךָ֙ וּלְתֹושָׁ֣בְךָ֔ , Lev. 25:6)
-shall value, will judge (ESV, NIV | BHS וְהֶעֱרִ֤יךְ הַכֹּהֵן֙ אֹתָ֔הּ בֵּ֥ין טֹ֖וב וּבֵ֣ין רָ֑ע , Lev. 27:12)
-shall be, will be (ESV, NIV | BHS וְהָיָ֨ה אֱדֹ֜ום יְרֵשָׁ֗ה , Num. 24:18)
-shall say, will say (ESV, NIV | BHS וְאָמַ֛ר אֲבִ֥י הַֽנַּעֲרָ֖ה אֶל־הַזְּקֵנִ֑ים , Deut. 22:16)
-shall strike down, will kill (ESV, NIV | BHS וְהִכְּךָ֖ הָאַרְיֵ֑ה , I Kgs. 20:36)
-shall stumble, will stumble (ESV, NIV | BHS וְכָ֥שְׁלוּ בָ֖ם רַבִּ֑ים , Isa. 8:15)
-shall hear, will hear (ESV, NIV | BHS וְשָׁמְע֧וּ בַיֹּום־הַה֛וּא הַחֵרְשִׁ֖ים דִּבְרֵי־סֵ֑פֶר , Isa. 29:18)
-shall flee away, will flee away (ESV, NIV | BHS וְנָ֖סוּ יָגֹ֥ון וַאֲנָחָֽה׃ פ , Isa. 35:10)
-shall come, will come (ESV, NIV | BHS וְהָלְכ֨וּ אֵלַ֤יִךְ , Isa. 60:14)
-be dark, grow dark (ESV, NIV | BHS וְקָדְר֥וּ הַשָּׁמַ֖יִם מִמָּ֑עַל , Jer. 4:28)
-shall be, will be plundered (ESV, NIV | BHS וְהָי֤וּ שֹׁאסַ֨יִךְ֙ לִמְשִׁסָּ֔ה , Jer. 30:16)
-shall be spared, will be spared (ESV, NIV | BHS וְחָיְתָ֣ה נַפְשֶׁ֔ךָ , Jer. 38:17)
-shall become, will become (ESV, NIV | BHS וְהָיְתָ֥ה אֱדֹ֖ום לְשַׁמָּ֑ה , Jer. 49:17)
-shall depart, will turn away (ESV, NIV | BHS וְסָ֥רָה קִנְאָתִ֖י מִמֵּ֑ךְ , Ezek. 16:42)
-shall come to an end, will come to an end (ESV, NIV | BHS וְנִשְׁבַּת־בָּ֖הּ גְּאֹ֣ון עֻזָּ֑הּ , Ezek. 30:18)
-shall know, will know (ESV, NIV | BHS וְיָֽדְעוּ֙ בֵּ֣ית יִשְׂרָאֵ֔ל , Ezek. 39:22)
-shall be full, will be filled with (ESV, NIV | BHS וּמָלְא֥וּ הַגֳּרָנֹ֖ות בָּ֑ר , Joel 2:24)
-shall drip, will drip (ESV, NIV | BHS וְהִטִּ֤יפוּ הֶֽהָרִים֙ עָסִ֔יס , Amos 9:13)
-shall be, will be (ESV, NIV | BHS וְהָיָה֩ שְׁאֵרִ֨ית יַעֲקֹ֜ב בַּגֹּויִ֗ם בְּקֶ֨רֶב֙ עַמִּ֣ים רַבִּ֔ים , Mic. 5:7)
-shall be dried up, will dry up (ESV, NIV | BHS וְהֹבִ֕ישׁוּ כֹּ֖ל מְצוּלֹ֣ות יְאֹ֑ר , Zech. 10:11)
-shall rise, will rise (ESV, NIV | BHS וְזָרְחָ֨ה לָכֶ֜ם יִרְאֵ֤י שְׁמִי֙ שֶׁ֣מֶשׁ צְדָקָ֔ה , Mal. 3:20)
-shall act wickedly, will continue to be wicked (ESV, NIV | BHS וְהִרְשִׁ֣יעוּ רְשָׁעִ֔ים , Dan. 12:10)
+(x)	וְ_הָי֣וּ_ יָמָ֔יו מֵאָ֥ה וְעֶשְׂרִ֖ים שָׁנָֽה׃ (Gen. 6:3)
+NIV	Then the LORD said, “My Spirit will not contend with man forever, for he is mortal. his days _will be_ a hundred and twenty years.”
+ESV	Then the Lord said, “My Spirit shall not abide in man forever, for he is flesh: his days _shall be_ 120 years.”
+
+(x)	וּ_מָ֨לְא֜וּ_ בָּתֵּ֤י מִצְרַ֨יִם֙ אֶת־הֶ֣עָרֹ֔ב וְגַ֥ם הָאֲדָמָ֖ה אֲשֶׁר־הֵ֥ם עָלֶֽיהָ׃ (Exod. 8:17)
+NIV	If you do not let my people go, I will send swarms of flies on you and your officials, on your people and into your houses. The houses of the Egyptians _will be full_ of flies, and even the ground where they are.
+ESV	Or else, if you will not let my people go, behold, I will send swarms of flies on you and your servants and your people, and into your houses. And the houses of the Egyptians _shall be filled_ with swarms of flies, and also the ground on which they stand.
+
+(x)	וְ_נָשָׂ֨א_ אַהֲרֹ֜ן אֶת־עֲוֹ֣ן הַקֳּדָשִׁ֗ים אֲשֶׁ֤ר יַקְדִּ֨ישׁוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל לְכָֽל־מַתְּנֹ֖ת קָדְשֵׁיהֶ֑ם (Exod. 28:38)
+NIV	It will be on Aaron’s forehead, and _he will bear_ the guilt involved in the sacred gifts the Israelites consecrate, whatever their gifts may be. It will be on Aaron’s forehead continually so that they will be acceptable to the LORD.
+ESV	It shall be on Aaron’s forehead, and Aaron _shall bear_ any guilt from the holy things that the people of Israel consecrate as their holy gifts. It shall regularly be on his forehead, that they may be accepted before the Lord.
+
+(x)	וְ֠_הָיְתָה_ שַׁבַּ֨ת הָאָ֤רֶץ לָכֶם֙ לְאָכְלָ֔ה לְךָ֖ וּלְעַבְדְּךָ֣ וְלַאֲמָתֶ֑ךָ וְלִשְׂכִֽירְךָ֙ וּלְתֹושָׁ֣בְךָ֔ הַגָּרִ֖ים עִמָּֽךְ׃ (Lev. 25:6)
+NIV	Whatever the land yields during the sabbath year _will be_ food for you — for yourself, your manservant and maidservant, and the hired worker and temporary resident who live among you,
+ESV	The Sabbath of the land _shall provide_ food for you, for yourself and for your male and female slaves and for your hired servant and the sojourner who lives with you,
+
+(x)	וְ_הֶעֱרִ֤יךְ_ הַכֹּהֵן֙ אֹתָ֔הּ בֵּ֥ין טֹ֖וב וּבֵ֣ין רָ֑ע (Lev. 27:12)
+NIV	who _will judge_ its quality as good or bad. Whatever value the priest then sets, that is what it will be.
+ESV	and the priest _shall value_ it as either good or bad. as the priest values it, so it shall be.
+
+(x)	וְ_הָיָ֨ה_ אֱדֹ֜ום יְרֵשָׁ֗ה (Num. 24:18)
+NIV	Edom _will be_ conquered. Seir, his enemy, _will be_ conquered, but Israel will grow strong.
+ESV	Edom _shall be_ dispossessed. Seir also, his enemies, _shall be_ dispossessed. Israel is doing valiantly.
+
+(x)	וְ_אָמַ֛ר_ אֲבִ֥י הַֽנַּעֲרָ֖ה אֶל־הַזְּקֵנִ֑ים (Deut. 22:16)
+NIV	The girl’s father _will say_ to the elders, “I gave my daughter in marriage to this man, but he dislikes her.
+ESV	And the father of the young woman _shall say_ to the elders, ‘I gave my daughter to this man to marry, and he hates her.
+
+(x)	וְ_הִכְּךָ֖_ הָאַרְיֵ֑ה (I Kgs. 20:36)
+NIV	So the prophet said, “Because you have not obeyed the LORD, as soon as you leave me a lion _will kill_ you.” And after the man went away, a lion found him and killed him.
+ESV	Then he said to him, “Because you have not obeyed the voice of the Lord, behold, as soon as you have gone from me, a lion shall strike you down.” And as soon as he had departed from him, a lion met him and struck him down.
+
+(x)	וְ_כָ֥שְׁלוּ_ בָ֖ם רַבִּ֑ים (Isa. 8:15)
+NIV	Many of them _will stumble_. they will fall and be broken, they will be snared and captured.”
+ESV	And many _shall stumble_ on it. They shall fall and be broken. they shall be snared and taken.”
+
+(x)	וְ_שָׁמְע֧וּ_ בַיֹּום־הַה֛וּא הַחֵרְשִׁ֖ים דִּבְרֵי־סֵ֑פֶר (Isa. 29:18)
+NIV	In that day the deaf _will hear_ the words of the scroll, and out of gloom and darkness the eyes of the blind will see.
+ESV	In that day the deaf _shall hear_ the words of a book, and out of their gloom and darkness the eyes of the blind shall see.
+
+(x)	וְ_נָ֖סוּ_ יָגֹ֥ון וַאֲנָחָֽה׃ פ (Isa. 35:10)
+NIV	and the ransomed of the LORD will return. They will enter Zion with singing. everlasting joy will crown their heads. Gladness and joy will overtake them, and sorrow and sighing _will flee away_.
+ESV	And the ransomed of the Lord shall return and come to Zion with singing. everlasting joy shall be upon their heads. they shall obtain gladness and joy, and sorrow and sighing _shall flee away_.
+
+(x)	וְ_הָלְכ֨וּ_ אֵלַ֤יִךְ שְׁחֹ֨וחַ֙ בְּנֵ֣י מְעַנַּ֔יִךְ (Isa. 60:14)
+NIV	The sons of your oppressors _will come_ bowing before you. all who despise you will bow down at your feet and will call you the City of the LORD, Zion of the Holy One of Israel.
+ESV	The sons of those who afflicted you _shall come_ bending low to you, and all who despised you shall bow down at your feet. they shall call you the City of the Lord, the Zion of the Holy One of Israel.
+
+(x)	וְ_קָדְר֥וּ_ הַשָּׁמַ֖יִם מִמָּ֑עַל (Jer. 4:28)
+NIV	Therefore the earth will mourn and the heavens above _grow dark_, because I have spoken and will not relent, I have decided and will not turn back.”
+ESV	“For this the earth shall mourn, and the heavens above _be dark_. for I have spoken. I have purposed. I have not relented, nor will I turn back.”
+
+(x)	וְ_הָי֤וּ_ שֹׁאסַ֨יִךְ֙ לִמְשִׁסָּ֔ה (Jer. 30:16)
+NIV	“‘But all who devour you will be devoured. all your enemies will go into exile. Those who plunder you _will be plundered_. all who make spoil of you I will despoil.
+ESV	Therefore all who devour you _shall be_ devoured, and all your foes, every one of them, shall go into captivity. those who plunder you _shall be_ plundered, and all who prey on you I will make a prey.
+
+(x)	וְ_חָיְתָ֣ה_ נַפְשֶׁ֔ךָ (Jer. 38:17)
+NIV	Then Jeremiah said to Zedekiah, “This is what the LORD God Almighty, the God of Israel, says: ‘If you surrender to the officers of the king of Babylon, your life _will be spared_ and this city will not be burned down. you and your family will live.
+ESV	Then Jeremiah said to Zedekiah, “Thus says the Lord, the God of hosts, the God of Israel: If you will surrender to the officials of the king of Babylon, then your life _shall be spared_, and this city shall not be burned with fire, and you and your house shall live.
+
+(x)	וְ_הָיְתָ֥ה_ אֱדֹ֖ום לְשַׁמָּ֑ה (Jer. 49:17)
+NIV	“Edom _will become_ an object of horror. all who pass by will be appalled and will scoff because of all its wounds.
+ESV	“Edom _shall become_ a horror. Everyone who passes by it will be horrified and will hiss because of all its disasters.
+
+(x)	וְ_סָ֥רָה_ קִנְאָתִ֖י מִמֵּ֑ךְ (Ezek. 16:42)
+NIV	Then my wrath against you will subside and my jealous anger _will turn away_ from you. I will be calm and no longer angry.
+ESV	So will I satisfy my wrath on you, and my jealousy _shall depart_ from you. I will be calm and will no more be angry.
+
+(x)	וְ_נִשְׁבַּת_־בָּ֖הּ גְּאֹ֣ון עֻזָּ֑הּ (Ezek. 30:18)
+NIV	Dark will be the day at Tahpanhes when I break the yoke of Egypt. there her proud strength _will come to an end_. She will be covered with clouds, and her villages will go into captivity.
+ESV	At Tehaphnehes the day shall be dark, when I break there the yoke bars of Egypt, and her proud might _shall come to an end_ in her. she shall be covered by a cloud, and her daughters shall go into captivity.
+
+(x)	וְ_יָֽדְעוּ֙_ בֵּ֣ית יִשְׂרָאֵ֔ל כִּ֛י אֲנִ֥י יְהוָ֖ה אֱלֹֽהֵיהֶ֑ם מִן־הַיֹּ֥ום הַה֖וּא וָהָֽלְאָה׃ (Ezek. 39:22)
+NIV	From that day forward the house of Israel _will know_ that I am the LORD their God.
+ESV	The house of Israel _shall know_ that I am the Lord their God, from that day forward.
+
+(x)	וּ_מָלְא֥וּ_ הַגֳּרָנֹ֖ות בָּ֑ר (Joel 2:24)
+NIV	The threshing-floors _will be filled with_ grain. the vats will overflow with new wine and oil.
+ESV	“The threshing floors _shall be full_ of grain. the vats shall overflow with wine and oil.
+
+(x)	וְ_הִטִּ֤יפוּ_ הֶֽהָרִים֙ עָסִ֔יס (Amos 9:13)
+NIV	“The days are coming,” declares the LORD, “when the reaper will be overtaken by the ploughman and the planter by the one treading grapes. New wine _will drip_ from the mountains and flow from all the hills.
+ESV	“Behold, the days are coming,” declares the Lord, “when the plowman shall overtake the reaper and the treader of grapes him who sows the seed. the mountains _shall drip_ sweet wine, and all the hills shall flow with it.
+
+(x)	וְ_הָיָה֩_ שְׁאֵרִ֨ית יַעֲקֹ֜ב בַּגֹּויִ֗ם בְּקֶ֨רֶב֙ עַמִּ֣ים רַבִּ֔ים כְּאַרְיֵה֙ בְּבַהֲמֹ֣ות יַ֔עַר כִּכְפִ֖יר בְּעֶדְרֵי־צֹ֑אן אֲשֶׁ֧ר (Mic. 5:7)
+NIV	The remnant of Jacob _will be_ among the nations, in the midst of many peoples, like a lion among the beasts of the forest, like a young lion among flocks of sheep, which mauls and mangles as it goes, and no-one can rescue.
+ESV	And the remnant of Jacob _shall be_ among the nations, in the midst of many peoples, like a lion among the beasts of the forest, like a young lion among the flocks of sheep, which, when it goes through, treads down and tears in pieces, and there is none to deliver.
+
+(x)	וְ_הֹבִ֕ישׁוּ_ כֹּ֖ל מְצוּלֹ֣ות יְאֹ֑ר (Zech. 10:11)
+NIV	They will pass through the sea of trouble. the surging sea will be subdued and all the depths of the Nile _will dry up_. Assyria’s pride will be brought down and Egypt’s sceptre will pass away.
+ESV	He shall pass through the sea of troubles and strike down the waves of the sea, and all the depths of the Nile _shall be dried up_. The pride of Assyria shall be laid low, and the scepter of Egypt shall depart.
+
+(x)	וְ_זָרְחָ֨ה_ לָכֶ֜ם יִרְאֵ֤י שְׁמִי֙ שֶׁ֣מֶשׁ צְדָקָ֔ה (Mal. 3:20)
+NIV	But for you who revere my name, the sun of righteousness _will rise_ with healing in its wings. And you will go out and leap like calves released from the stall.
+ESV	But for you who fear my name, the sun of righteousness _shall rise_ with healing in its wings. You shall go out leaping like calves from the stall.
+
+(x)	וְ_הִרְשִׁ֣יעוּ_ רְשָׁעִ֔ים (Dan. 12:10)
+NIV	Many will be purified, made spotless and refined, but the wicked _will continue to be wicked_. None of the wicked will understand, but those who are wise will understand.
+ESV	Many shall purify themselves and make themselves white and be refined, but the wicked _shall act wickedly_. And none of the wicked shall understand, but those who are wise shall understand.

@@ -1,22 +1,81 @@
 eng_TAMsimp == "FUT ~ MOD shall" and person == "p1" 
 20 of 20
-I shall be, I will be (ESV, NIV | BHS וְהָיִ֜יתִי נָ֤ע וָנָד֙ בָּאָ֔רֶץ , Gen. 4:14)
-we shall be fruitful, we will flourish (ESV, NIV | BHS וּפָרִ֥ינוּ בָאָֽרֶץ׃ , Gen. 26:22)
-I shall be destroyed, will be destroyed (ESV, NIV | BHS וְנִשְׁמַדְתִּ֖י אֲנִ֥י וּבֵיתִֽי׃ , Gen. 34:30)
-I shall bear the blame, I will bear the blame (ESV, NIV | BHS וְחָטָ֥אתִי לְאָבִ֖י כָּל־הַיָּמִֽים׃ , Gen. 44:32)
-we shall die, we will die (ESV, NIV | BHS וָמָֽתְנוּ׃ , Deut. 5:25)
-we shall be, we will be (ESV, NIV | BHS וְהָיִ֣ינוּ נְקִיִּ֔ם מִשְּׁבֻעָתֵ֖ךְ , Josh. 2:20)
-we shall flee, we will flee (ESV, NIV | BHS וְנַ֖סְנוּ לִפְנֵיהֶֽם׃ , Josh. 8:5)
-I shall drive out, I will drive out (ESV, NIV | BHS וְהֹ֣ורַשְׁתִּ֔ים , Josh. 14:12)
-I shall know, I will know (ESV, NIV | BHS וְיָדַעְתִּ֗י , Judg. 6:37)
-I shall become weak, I’ll become weak (ESV, NIV | BHS וְחָלִ֥יתִי , Judg. 16:7)
-I shall become weak, I’ll become weak (ESV, NIV | BHS וְחָלִ֥יתִי , Judg. 16:11)
-I shall escape, I will slip out (ESV, NIV | BHS וְנִמְלַטְתִּ֖י מִיָּדֹֽו׃ , I Sam. 27:1)
-we shall come, we will attack (ESV, NIV | BHS וּבָ֣אנוּ אֵלָ֗יו בְּאַחַ֤ד הַמְּקֹומֹת֙ , II Sam. 17:12)
-we shall drag, we will drag down (ESV, NIV | BHS וְסָחַ֤בְנוּ אֹתֹו֙ עַד־הַנַּ֔חַל , II Sam. 17:13)
-we shall die, we will die (ESV, NIV | BHS וָמַ֣תְנוּ שָׁ֔ם , II Kgs. 7:4)
-I shall go up, I will go up (ESV, NIV | BHS וְעָלִ֛יתִי בַּיֹּ֥ום הַשְּׁלִישִׁ֖י בֵּ֥ית יְהוָֽה׃ , II Kgs. 20:8)
-I shall kindle, will set fire (ESV, NIV | BHS וְהִצַּ֣תִּי אֵ֗שׁ בְּבָתֵּי֙ אֱלֹהֵ֣י מִצְרַ֔יִם , Jer. 43:12)
-I shall send, I will send (ESV, NIV | BHS וְשִׁלַּחְתִּי־לֹ֥ו צֹעִ֖ים , Jer. 48:12)
-shall devote, you will devote (ESV, NIV | BHS וְהַחֲרַמְתִּ֤י לַֽיהוָה֙ בִּצְעָ֔ם , Mic. 4:13)
-I shall dwell, I will dwell (ESV, NIV | BHS וְשַׁבְתִּ֥י בְּבֵית־יְ֝הוָ֗ה לְאֹ֣רֶךְ יָמִֽים׃ , Psa. 23:6)
+(x)	וְ_הָיִ֜יתִי_ נָ֤ע וָנָד֙ בָּאָ֔רֶץ (Gen. 4:14)
+NIV	Today you are driving me from the land, and _I will be_ hidden from your presence. _I will be_ a restless wanderer on the earth, and whoever finds me will kill me.”
+ESV	Behold, you have driven me today away from the ground, and from your face _I shall be_ hidden. _I shall be_ a fugitive and a wanderer on the earth, and whoever finds me will kill me.”
+
+(x)	וּ_פָרִ֥ינוּ_ בָאָֽרֶץ׃ (Gen. 26:22)
+NIV	He moved on from there and dug another well, and no one quarreled over it. He named it Rehoboth, saying, “Now the LORD has given us room and _we will flourish_ in the land.”
+ESV	And he moved from there and dug another well, and they did not quarrel over it. So he called its name Rehoboth, saying, “For now the Lord has made room for us, and _we shall be fruitful_ in the land.”
+
+(x)	וְ_נִשְׁמַדְתִּ֖י_ אֲנִ֥י וּבֵיתִֽי׃ (Gen. 34:30)
+NIV	Then Jacob said to Simeon and Levi, “You have brought trouble on me by making me a stench to the Canaanites and Perizzites, the people living in this land. We are few in number, and if they join forces against me and attack me, I and my household _will be destroyed_.”
+ESV	Then Jacob said to Simeon and Levi, “You have brought trouble on me by making me stink to the inhabitants of the land, the Canaanites and the Perizzites. My numbers are few, and if they gather themselves against me and attack me, _I shall be destroyed_, both I and my household.”
+
+(x)	וְ_חָטָ֥אתִי_ לְאָבִ֖י כָּל־הַיָּמִֽים׃ (Gen. 44:32)
+NIV	Your servant guaranteed the boy’s safety to my father. I said, ‘If I do not bring him back to you, _I will bear the blame_ before you, my father, all my life!’
+ESV	For your servant became a pledge of safety for the boy to my father, saying, ‘If I do not bring him back to you, then _I shall bear the blame_ before my father all my life.’
+
+(x)	וָ_מָֽתְנוּ_׃ (Deut. 5:25)
+NIV	But now, why should we die? This great fire will consume us, and _we will die_ if we hear the voice of the LORD our God any longer.
+ESV	Now therefore why should we die? For this great fire will consume us. If we hear the voice of the Lord our God any more, _we shall die_.
+
+(x)	וְ_הָיִ֣ינוּ_ נְקִיִּ֔ם מִשְּׁבֻעָתֵ֖ךְ אֲשֶׁ֥ר הִשְׁבַּעְתָּֽנוּ׃ (Josh. 2:20)
+NIV	But if you tell what we are doing, _we will be_ released from the oath you made us swear.”
+ESV	But if you tell this business of ours, then _we shall be_ guiltless with respect to your oath that you have made us swear.”
+
+(x)	וְ_נַ֖סְנוּ_ לִפְנֵיהֶֽם׃ (Josh. 8:5)
+NIV	I and all those with me will advance on the city, and when the men come out against us, as they did before, _we will flee_ from them.
+ESV	And I and all the people who are with me will approach the city. And when they come out against us just as before, _we shall flee_ before them.
+
+(x)	וְ_הֹ֣ורַשְׁתִּ֔ים_ כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה׃ (Josh. 14:12)
+NIV	Now give me this hill country that the LORD promised me that day. You yourself heard then that the Anakites were there and their cities were large and fortified, but, the LORD helping me, I will drive them out just as he said.”
+ESV	So now give me this hill country of which the Lord spoke on that day, for you heard on that day how the Anakim were there, with great fortified cities. It may be that the Lord will be with me, and I shall drive them out just as the Lord said.”
+
+(x)	וְ_יָדַעְתִּ֗י_ כִּֽי־תֹושִׁ֧יעַ בְּיָדִ֛י אֶת־יִשְׂרָאֵ֖ל כַּאֲשֶׁ֥ר דִּבַּֽרְתָּ׃ (Judg. 6:37)
+NIV	look, I will place a wool fleece on the threshing-floor. If there is dew only on the fleece and all the ground is dry, then _I will know_ that you will save Israel by my hand, as you said.”
+ESV	behold, I am laying a fleece of wool on the threshing floor. If there is dew on the fleece alone, and it is dry on all the ground, then _I shall know_ that you will save Israel by my hand, as you have said.”
+
+(x)	וְ_חָלִ֥יתִי_ (Judg. 16:7)
+NIV	Samson answered her, “If anyone ties me with seven fresh thongs that have not been dried, I’ll become as weak as any other man.”
+ESV	Samson said to her, “If they bind me with seven fresh bowstrings that have not been dried, then _I shall become weak_ and be like any other man.”
+
+(x)	וְ_חָלִ֥יתִי_ (Judg. 16:11)
+NIV	He said, “If anyone ties me securely with new ropes that have never been used, I’ll become as weak as any other man.”
+ESV	And he said to her, “If they bind me with new ropes that have not been used, then _I shall become weak_ and be like any other man.”
+
+(x)	וְ_נִמְלַטְתִּ֖י_ מִיָּדֹֽו׃ (I Sam. 27:1)
+NIV	But David thought to himself, “One of these days I shall be destroyed by the hand of Saul. The best thing I can do is to escape to the land of the Philistines. Then Saul will give up searching for me anywhere in Israel, and _I will slip out_ of his hand.”
+ESV	Then David said in his heart, “Now I shall perish one day by the hand of Saul. There is nothing better for me than that I should escape to the land of the Philistines. Then Saul will despair of seeking me any longer within the borders of Israel, and _I shall escape_ out of his hand.”
+
+(x)	וּ_בָ֣אנוּ_ אֵלָ֗יו בְּאַחַ֤ד הַמְּקֹומֹת֙ אֲשֶׁ֣ר נִמְצָ֣א שָׁ֔ם (II Sam. 17:12)
+NIV	Then _we will attack_ him wherever he may be found, and we will fall on him as dew settles on the ground. Neither he nor any of his men will be left alive.
+ESV	So _we shall come_ upon him in some place where he is to be found, and we shall light upon him as the dew falls on the ground, and of him and all the men with him not one will be left.
+
+(x)	וְ_סָחַ֤בְנוּ_ אֹתֹו֙ עַד־הַנַּ֔חַל עַ֛ד אֲשֶֽׁר־לֹא־נִמְצָ֥א שָׁ֖ם גַּם־צְרֹֽור׃ פ (II Sam. 17:13)
+NIV	If he withdraws into a city, then all Israel will bring ropes to that city, and we will drag it down to the valley until not even a piece of it can be found.”
+ESV	If he withdraws into a city, then all Israel will bring ropes to that city, and _we shall drag_ it into the valley, until not even a pebble is to be found there.”
+
+(x)	וָ_מַ֣תְנוּ_ שָׁ֔ם (II Kgs. 7:4)
+NIV	If we say, ‘We’ll go into the city’ — the famine is there, and _we will die_. And if we stay here, _we will die_. So let’s go over to the camp of the Arameans and surrender. If they spare us, we live. if they kill us, then we die.”
+ESV	If we say, ‘Let us enter the city,’ the famine is in the city, and _we shall die_ there. And if we sit here, we die also. So now come, let us go over to the camp of the Syrians. If they spare our lives we shall live, and if they kill us we shall but die.”
+
+(x)	וְ_עָלִ֛יתִי_ בַּיֹּ֥ום הַשְּׁלִישִׁ֖י בֵּ֥ית יְהוָֽה׃ (II Kgs. 20:8)
+NIV	Hezekiah had asked Isaiah, “What will be the sign that the LORD will heal me and that _I will go up_ to the temple of the LORD on the third day from now?”
+ESV	And Hezekiah said to Isaiah, “What shall be the sign that the Lord will heal me, and that _I shall go up_ to the house of the Lord on the third day?”
+
+(x)	וְ_הִצַּ֣תִּי_ אֵ֗שׁ בְּבָתֵּי֙ אֱלֹהֵ֣י מִצְרַ֔יִם (Jer. 43:12)
+NIV	He _will set fire_ to the temples of the gods of Egypt. he will burn their temples and take their gods captive. As a shepherd wraps his garment round him, so will he wrap Egypt round himself and depart from there unscathed.
+ESV	_I shall kindle_ a fire in the temples of the gods of Egypt, and he shall burn them and carry them away captive. And he shall clean the land of Egypt as a shepherd cleans his cloak of vermin, and he shall go away from there in peace.
+
+(x)	וְ_שִׁלַּחְתִּי_־לֹ֥ו צֹעִ֖ים (Jer. 48:12)
+NIV	But days are coming,” declares the LORD, “when _I will send_ men who pour from jars, and they will pour her out. they will empty her jars and smash her jugs.
+ESV	“Therefore, behold, the days are coming, declares the Lord, when _I shall send_ to him pourers who will pour him, and empty his vessels and break his jars in pieces.
+
+(x)	וְ_הַחֲרַמְתִּ֤י_ לַֽיהוָה֙ בִּצְעָ֔ם וְחֵילָ֖ם לַאֲדֹ֥ון כָּל־הָאָֽרֶץ׃ (Mic. 4:13)
+NIV	“Rise and thresh, O Daughter of Zion, for I will give you horns of iron. I will give you hoofs of bronze and you will break to pieces many nations.” _You will devote_ their ill-gotten gains to the LORD, their wealth to the Lord of all the earth.
+ESV	Arise and thresh, O daughter of Zion, for I will make your horn iron, and I will make your hoofs bronze. you shall beat in pieces many peoples. and _shall devote_ their gain to the Lord, their wealth to the Lord of the whole earth.
+
+(x)	וְ_שַׁבְתִּ֥י_ בְּבֵית־יְ֝הוָ֗ה לְאֹ֣רֶךְ יָמִֽים׃ (Psa. 23:6)
+NIV	Surely goodness and love will follow me all the days of my life, and _I will dwell_ in the house of the LORD forever.
+ESV	Surely goodness and mercy shall follow me all the days of my life, and _I shall dwell_ in the house of the Lord forever.

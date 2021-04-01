@@ -1,10 +1,41 @@
 eng_TAMsimp == "MOD let" and genre == "prose" and domain2 == "Q"
-8 of 8
-they will let live, will let live (ESV, NIV | BHS וְאֹתָ֥ךְ יְחַיּֽוּ׃ , Gen. 12:12)
-he will let go (ESV, NIV | BHS וְאַחֲרֵי־כֵ֖ן יְשַׁלַּ֥ח אֶתְכֶֽם׃ , Exod. 3:20)
-he will let go (ESV, NIV | BHS וְלֹ֥א יְשַׁלַּ֖ח אֶת־הָעָֽם׃ , Exod. 4:21)
-will let go (ESV, NIV | BHS אָנֹכִ֞י אֲשַׁלַּ֤ח אֶתְכֶם֙ , Exod. 8:24)
-he will let go (ESV, NIV | BHS אַֽחֲרֵי־כֵ֕ן יְשַׁלַּ֥ח אֶתְכֶ֖ם מִזֶּ֑ה , Exod. 11:1)
-let remain, do let remain (ESV, NIV | BHS וְלֹא־יָלִ֣ין לַבֹּ֔קֶר זֶ֖בַח חַ֥ג הַפָּֽסַח׃ , Exod. 34:25)
-let us leave (ESV, NIV | BHS וְלֹֽא־נַשְׁאֵ֤ר בָּהֶם֙ אִ֔ישׁ , I Sam. 14:36)
-let depart, do let go (ESV, NIV | BHS כִּ֥י שַׁלֵּ֖חַ תְּשַׁלְּחֵֽנִי׃ , I Kgs. 11:22)
+10 of 124
+(x)	_יִקָּו֨וּ_ הַמַּ֜יִם מִתַּ֤חַת הַשָּׁמַ֨יִם֙ אֶל־מָקֹ֣ום אֶחָ֔ד (Gen. 1:9)
+NIV	And God said, “Let the water under the sky be gathered to one place, and let dry ground appear.” And it was so.
+ESV	And God said, “Let the waters under the heavens be gathered together into one place, and let the dry land appear.” And it was so.
+
+(x)	_אֶֽעֱבֹ֨ר_ בְּכָל־צֹֽאנְךָ֜ הַיֹּ֗ום (Gen. 30:32)
+NIV	_Let me go_ through all your flocks today and remove from them every speckled or spotted sheep, every dark-colored lamb and every spotted or speckled goat. They will be my wages.
+ESV	_let me pass_ through all your flock today, removing from it every speckled and spotted sheep and every black lamb, and the spotted and speckled among the goats, and they shall be my wages.
+
+(x)	_יֵֽשְׁבוּ_־נָ֥א עֲבָדֶ֖יךָ בְּאֶ֥רֶץ גֹּֽשֶׁן׃ (Gen. 47:4)
+NIV	They also said to him, “We have come to live here awhile, because the famine is severe in Canaan and your servants’ flocks have no pasture. So now, please let your servants settle in Goshen.”
+ESV	They said to Pharaoh, “We have come to sojourn in the land, for there is no pasture for your servants’ flocks, for the famine is severe in the land of Canaan. And now, please let your servants dwell in the land of Goshen.”
+
+(x)	_יֻתַּ֞ן_ אֶת־הָאָ֧רֶץ הַזֹּ֛את לַעֲבָדֶ֖יךָ לַאֲחֻזָּ֑ה (Num. 32:5)
+NIV	If we have found favor in your eyes,” they said, “let this land be given to your servants as our possession. Do not make us cross the Jordan.”
+ESV	And they said, “If we have found favor in your sight, let this land be given to your servants for a possession. Do not take us across the Jordan.”
+
+(x)	יְהוָ֣ה ה֔וּא הַטֹּ֥וב בְּעֵינָ֖יו _יַעֲשֶֽׂה_׃ פ (I Sam. 3:18)
+NIV	So Samuel told him everything, hiding nothing from him. Then Eli said, “He is the LORD. _let him do_ what is good in his eyes.”
+ESV	So Samuel told him everything and hid nothing from him. And he said, “It is the Lord. _Let him do_ what seems good to him.”
+
+(x)	_יָק֤וּמוּ_ נָא֙ הַנְּעָרִ֔ים (II Sam. 2:14)
+NIV	Then Abner said to Joab, “Let’s have some of the young men get up and fight hand to hand in front of us.” “All right, let them do it,” Joab said.
+ESV	And Abner said to Joab, “Let the young men arise and compete before us.” And Joab said, “Let them arise.”
+
+(x)	_יִקַּ֥ח_ (II Sam. 24:22)
+NIV	Araunah said to David, “Let my lord the king take whatever pleases him and offer it up. Here are oxen for the burnt offering, and here are threshing-sledges and ox yokes for the wood.
+ESV	Then Araunah said to David, “Let my lord the king take and offer up what seems good to him. Here are the oxen for the burnt offering and the threshing sledges and the yokes of the oxen for the wood.
+
+(x)	_יֻתַּן_־נָ֣א לְעַבְדְּךָ֔ מַשָּׂ֥א צֶֽמֶד־פְּרָדִ֖ים אֲדָמָ֑ה (II Kgs. 5:17)
+NIV	“If you will not,” said Naaman, “please let me, your servant, be given as much earth as a pair of mules can carry, for your servant will never again make burnt offerings and sacrifices to any other god but the LORD.
+ESV	Then Naaman said, “If not, please let there be given to your servant two mules’ load of earth, for from now on your servant will not offer burnt offering or sacrifice to any god but the Lord.
+
+(x)	_יִכָּתֵ֞ב_ לְהָשִׁ֣יב אֶת־הַסְּפָרִ֗ים מַחֲשֶׁ֜בֶת הָמָ֤ן בֶּֽן־הַמְּדָ֨תָא֙ הָאֲגָגִ֔י אֲשֶׁ֣ר כָּתַ֗ב לְאַבֵּד֙ אֶת־הַיְּהוּדִ֔ים אֲשֶׁ֖ר בְּכָל־מְדִינֹ֥ות הַמֶּֽלֶךְ׃ (Esth. 8:5)
+NIV	“If it pleases the king,” she said, “and if he regards me with favour and thinks it the right thing to do, and if he is pleased with me, _let an order be written_ overruling the dispatches that Haman son of Hammedatha, the Agagite, devised and wrote to destroy the Jews in all the king’s provinces.
+ESV	Esther rose and stood before the king. And she said, “If it please the king, and if I have found favor in his sight, and if the thing seems right before the king, and I am pleasing in his eyes, let an order be written to revoke the letters devised by Haman the Agagite, the son of Hammedatha, which he wrote to destroy the Jews who are in all the provinces of the king.
+
+(x)	וְ_נָסֵ֨ב_ חֹומָ֣ה וּמִגְדָּלִים֮ דְּלָתַ֣יִם וּבְרִיחִים֒ (II Chr. 14:6)
+NIV	“Let us build up these towns,” he said to Judah, “and put walls round them, with towers, gates and bars. The land is still ours, because we have sought the LORD our God. we sought him and he has given us rest on every side.” So they built and prospered.
+ESV	And he said to Judah, “Let us build these cities and _surround_ them with walls and towers, gates and bars. The land is still ours, because we have sought the Lord our God. We have sought him, and he has given us peace on every side.” So they built and prospered.

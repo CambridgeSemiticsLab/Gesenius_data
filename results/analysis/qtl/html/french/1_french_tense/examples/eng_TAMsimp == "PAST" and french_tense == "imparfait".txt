@@ -1,0 +1,1967 @@
+eng_TAMsimp == "PAST" and french_tense == "imparfait"
+393 of 393
+
+(x)	הַנְּפִלִ֞ים _הָי֣וּ_ בָאָרֶץ֮ בַּיָּמִ֣ים הָהֵם֒ וְגַ֣ם אַֽחֲרֵי־כֵ֗ן אֲשֶׁ֨ר יָבֹ֜אוּ בְּנֵ֤י הָֽאֱלֹהִים֙ אֶל־בְּנֹ֣ות הָֽאָדָ֔ם וְיָלְד֖וּ לָהֶ֑ם הֵ֧מָּה הַגִּבֹּרִ֛ים אֲשֶׁ֥ר מֵעֹולָ֖ם אַנְשֵׁ֥י הַשֵּֽׁם׃ פ (Gen. 6:4)
+NIV	The Nephilim _were_ on the earth in those days — and also afterward — when the sons of God went to the daughters of men and had children by them. They _were_ the heroes of old, men of renown.
+ESV	The Nephilim _were_ on the earth in those days, and also afterward, when the sons of God came in to the daughters of man and they bore children to them. These _were_ the mighty men who _were_ of old, the men of renown.
+NBS	étaient
+
+(x)	אֵ֚לֶּה תֹּולְדֹ֣ת נֹ֔חַ נֹ֗חַ אִ֥ישׁ צַדִּ֛יק תָּמִ֥ים הָיָ֖ה בְּדֹֽרֹתָ֑יו אֶת־הָֽאֱלֹהִ֖ים _הִֽתְהַלֶּךְ_־נֹֽחַ׃ (Gen. 6:9)
+NIV	This is the account of Noah. Noah was a righteous man, blameless among the people of his time, and he _walked_ with God.
+ESV	These are the generations of Noah. Noah was a righteous man, blameless in his generation. Noah _walked_ with God.
+NBS	marchait
+
+(x)	וַֽיְהִ֖י לְשִׁבְעַ֣ת הַיָּמִ֑ים וּמֵ֣י הַמַּבּ֔וּל _הָי֖וּ_ עַל־הָאָֽרֶץ׃ (Gen. 7:10)
+NIV	And after the seven days the floodwaters _came_ on the earth.
+ESV	And after seven days the waters of the flood _came_ upon the earth.
+NBS	étaient
+
+(x)	וּלְאַבְרָ֥ם _הֵיטִ֖יב_ בַּעֲבוּרָ֑הּ וַֽיְהִי־לֹ֤ו צֹאן־וּבָקָר֙ וַחֲמֹרִ֔ים וַעֲבָדִים֙ וּשְׁפָחֹ֔ת וַאֲתֹנֹ֖ת וּגְמַלִּֽים׃ (Gen. 12:16)
+NIV	He treated Abram well for her sake, and Abram acquired sheep and cattle, male and female donkeys, menservants and maidservants, and camels.
+ESV	And for her sake _he dealt well_ with Abram. and he had sheep, oxen, male donkeys, male servants, female servants, female donkeys, and camels.
+NBS	on le traita bien
+
+(x)	וְגַם־לְלֹ֔וט הַהֹלֵ֖ךְ אֶת־אַבְרָ֑ם _הָיָ֥ה_ צֹאן־וּבָקָ֖ר וְאֹהָלִֽים׃ (Gen. 13:5)
+NIV	Now Lot, who was moving about with Abram, also _had_ flocks and herds and tents.
+ESV	And Lot, who went with Abram, also _had_ flocks and herds and tents,
+NBS	avait
+
+(x)	וְלֹא־נָשָׂ֥א אֹתָ֛ם הָאָ֖רֶץ לָשֶׁ֣בֶת יַחְדָּ֑ו כִּֽי־_הָיָ֤ה_ רְכוּשָׁם֙ רָ֔ב וְלֹ֥א יָֽכְל֖וּ לָשֶׁ֥בֶת יַחְדָּֽו׃ (Gen. 13:6)
+NIV	But the land could not support them while they stayed together, for their possessions _were_ so great that they _were_ not able to stay together.
+ESV	so that the land could not support both of them dwelling together. for their possessions _were_ so great that they could not dwell together,
+NBS	étaient
+
+(x)	וּבְאַרְבַּע֩ עֶשְׂרֵ֨ה שָׁנָ֜ה _בָּ֣א_ כְדָרְלָעֹ֗מֶר וְהַמְּלָכִים֙ אֲשֶׁ֣ר אִתֹּ֔ו וַיַּכּ֤וּ אֶת־רְפָאִים֙ בְּעַשְׁתְּרֹ֣ת קַרְנַ֔יִם וְאֶת־הַזּוּזִ֖ים בְּהָ֑ם וְאֵת֙ הָֽאֵימִ֔ים בְּשָׁוֵ֖ה קִרְיָתָֽיִם׃ (Gen. 14:5)
+NIV	In the fourteenth year, Kedorlaomer and the kings allied with him _went out_ and defeated the Rephaites in Ashteroth Karnaim, the Zuzites in Ham, the Emites in Shaveh Kiriathaim
+ESV	In the fourteenth year Chedorlaomer and the kings who were with him _came_ and defeated the Rephaim in Ashteroth-karnaim, the Zuzim in Ham, the Emim in Shaveh-kiriathaim,
+NBS	arrivèrent
+
+(x)	טֶרֶם֮ יִשְׁכָּבוּ֒ וְאַנְשֵׁ֨י הָעִ֜יר אַנְשֵׁ֤י סְדֹם֙ _נָסַ֣בּוּ_ עַל־הַבַּ֔יִת מִנַּ֖עַר וְעַד־זָקֵ֑ן כָּל־הָעָ֖ם מִקָּצֶֽה׃ (Gen. 19:4)
+NIV	Before they had gone to bed, all the men from every part of the city of Sodom — both young and old — _surrounded_ the house.
+ESV	But before they lay down, the men of the city, the men of Sodom, both young and old, all the people to the last man, _surrounded_ the house.
+NBS	entourèrent
+
+(x)	וַיֵּ֨לֶךְ֙ וַיִּקַּ֔ח וַיָּבֵ֖א לְאִמֹּ֑ו וַתַּ֤עַשׂ אִמֹּו֙ מַטְעַמִּ֔ים כַּאֲשֶׁ֖ר _אָהֵ֥ב_ אָבִֽיו׃ (Gen. 27:14)
+NIV	So he went and got them and brought them to his mother, and she prepared some tasty food, just the way his father _liked_ it.
+ESV	So he went and took them and brought them to his mother, and his mother prepared delicious food, such as his father _loved_.
+NBS	aimait
+
+(x)	עִ֠ם אֲשֶׁ֨ר תִּמְצָ֣א אֶת־אֱלֹהֶיךָ֮ לֹ֣א יִֽחְיֶה֒ נֶ֣גֶד אַחֵ֧ינוּ הַֽכֶּר־לְךָ֛ מָ֥ה עִמָּדִ֖י וְקַֽח־לָ֑ךְ וְלֹֽא־_יָדַ֣ע_ יַעֲקֹ֔ב כִּ֥י רָחֵ֖ל גְּנָבָֽתַם׃ (Gen. 31:32)
+NIV	But if you find anyone who has your gods, he shall not live. In the presence of our relatives, see for yourself whether there is anything of yours here with me. and if so, take it.” Now Jacob did not know that Rachel had stolen the gods.
+ESV	Anyone with whom you find your gods shall not live. In the presence of our kinsmen point out what I have that is yours, and take it.” Now Jacob did not know that Rachel had stolen them.
+NBS	savait
+
+(x)	וְיִשְׂרָאֵ֗ל _אָהַ֤ב_ אֶת־יֹוסֵף֙ מִכָּל־בָּנָ֔יו כִּֽי־בֶן־זְקֻנִ֥ים ה֖וּא לֹ֑ו וְעָ֥שָׂה לֹ֖ו כְּתֹ֥נֶת פַּסִּֽים׃ (Gen. 37:3)
+NIV	Now Israel _loved_ Joseph more than any of his other sons, because he had been born to him in his old age. and he made a richly ornamented robe for him.
+ESV	Now Israel _loved_ Joseph more than any other of his sons, because he was the son of his old age. And he made him a robe of many colors.
+NBS	aimait
+
+(x)	וַיִּרְא֣וּ אֶחָ֗יו כִּֽי־אֹתֹ֞ו _אָהַ֤ב_ אֲבִיהֶם֙ מִכָּל־אֶחָ֔יו וַֽיִּשְׂנְא֖וּ אֹתֹ֑ו וְלֹ֥א יָכְל֖וּ דַּבְּרֹ֥ו לְשָׁלֹֽם׃ (Gen. 37:4)
+NIV	When his brothers saw that their father _loved_ him more than any of them, they hated him and could not speak a kind word to him.
+ESV	But when his brothers saw that their father _loved_ him more than all his brothers, they hated him and could not speak peacefully to him.
+NBS	aimait
+
+(x)	וַיֵּ֣דַע אֹונָ֔ן כִּ֛י לֹּ֥א לֹ֖ו יִהְיֶ֣ה הַזָּ֑רַע וְהָיָ֞ה אִם־_בָּ֨א_ אֶל־אֵ֤שֶׁת אָחִיו֙ וְשִׁחֵ֣ת אַ֔רְצָה לְבִלְתִּ֥י נְתָן־זֶ֖רַע לְאָחִֽיו׃ (Gen. 38:9)
+NIV	But Onan knew that the offspring would not be his. so whenever _he lay with_ his brother’s wife, he spilled his semen on the ground to keep from producing offspring for his brother.
+ESV	But Onan knew that the offspring would not be his. So whenever _he went in_ to his brother’s wife he would waste the semen on the ground, so as not to give offspring to his brother.
+NBS	il allait
+
+(x)	וַיֵּ֛רַע בְּעֵינֵ֥י יְהוָ֖ה אֲשֶׁ֣ר _עָשָׂ֑ה_ וַיָּ֖מֶת גַּם־אֹתֹֽו׃ (Gen. 38:10)
+NIV	What _he did_ was wicked in the LORD’s sight. so he put him to death also.
+ESV	And what _he did_ was wicked in the sight of the Lord, and he put him to death also.
+NBS	il faisait
+
+(x)	וַיַּעֲזֹ֣ב כָּל־אֲשֶׁר־לֹו֮ בְּיַד־יֹוסֵף֒ וְלֹא־_יָדַ֤ע_ אִתֹּו֙ מְא֔וּמָה כִּ֥י אִם־הַלֶּ֖חֶם אֲשֶׁר־ה֣וּא אֹוכֵ֑ל וַיְהִ֣י יֹוסֵ֔ף יְפֵה־תֹ֖אַר וִיפֵ֥ה מַרְאֶֽה׃ (Gen. 39:6)
+NIV	So he left in Joseph’s care everything he had. with Joseph in charge, he did not concern himself with anything except the food he ate. Now Joseph was well-built and handsome,
+ESV	So he left all that he had in Joseph’s charge, and because of him he had no concern about anything but the food he ate. Now Joseph was handsome in form and appearance.
+NBS	il s occupait
+
+(x)	וַיִּתֵּ֞ן שַׂ֤ר בֵּית־הַסֹּ֨הַר֙ בְּיַד־יֹוסֵ֔ף אֵ֚ת כָּל־הָ֣אֲסִירִ֔ם אֲשֶׁ֖ר בְּבֵ֣ית הַסֹּ֑הַר וְאֵ֨ת כָּל־אֲשֶׁ֤ר עֹשִׂים֙ שָׁ֔ם ה֖וּא _הָיָ֥ה_ עֹשֶֽׂה׃ (Gen. 39:22)
+NIV	So the warden put Joseph in charge of all those held in the prison, and he _was_ made responsible for all that _was_ done there.
+ESV	And the keeper of the prison put Joseph in charge of all the prisoners who were in the prison. Whatever _was_ done there, he _was_ the one who did it.
+NBS	passait
+
+(x)	וְכָל־הָאָ֨רֶץ֙ _בָּ֣אוּ_ מִצְרַ֔יְמָה לִשְׁבֹּ֖ר אֶל־יֹוסֵ֑ף כִּֽי־חָזַ֥ק הָרָעָ֖ב בְּכָל־הָאָֽרֶץ׃ (Gen. 41:57)
+NIV	And all the countries _came_ to Egypt to buy grain from Joseph, because the famine was severe in all the world.
+ESV	Moreover, all the earth _came_ to Egypt to Joseph to buy grain, because the famine was severe over all the earth.
+NBS	on venait
+
+(x)	וְאֶת־בִּנְיָמִין֙ אֲחִ֣י יֹוסֵ֔ף לֹא־שָׁלַ֥ח יַעֲקֹ֖ב אֶת־אֶחָ֑יו כִּ֣י _אָמַ֔ר_ פֶּן־יִקְרָאֶ֖נּוּ אָסֹֽון׃ (Gen. 42:4)
+NIV	But Jacob did not send Benjamin, Joseph’s brother, with the others, because _he was afraid_ that harm might come to him.
+ESV	But Jacob did not send Benjamin, Joseph’s brother, with his brothers, for _he feared_ that harm might happen to him.
+NBS	disait il
+
+(x)	וְהֵם֙ לֹ֣א _יָֽדְע֔וּ_ כִּ֥י שֹׁמֵ֖עַ יֹוסֵ֑ף כִּ֥י הַמֵּלִ֖יץ בֵּינֹתָֽם׃ (Gen. 42:23)
+NIV	They did not realize that Joseph could understand them, since he was using an interpreter.
+ESV	They did not know that Joseph understood them, for there was an interpreter between them.
+NBS	Ils savaient
+
+(x)	וַיַּגִּ֨דוּ לֹ֜ו לֵאמֹ֗ר עֹ֚וד יֹוסֵ֣ף חַ֔י וְכִֽי־ה֥וּא מֹשֵׁ֖ל בְּכָל־אֶ֣רֶץ מִצְרָ֑יִם וַיָּ֣פָג לִבֹּ֔ו כִּ֥י לֹא־_הֶאֱמִ֖ין_ לָהֶֽם׃ (Gen. 45:26)
+NIV	They told him, “Joseph is still alive! In fact, he is ruler of all Egypt.” Jacob was stunned. he did not believe them.
+ESV	And they told him, “Joseph is still alive, and he is ruler over all the land of Egypt.” And his heart became numb, for he did not believe them.
+NBS	il croyait
+
+(x)	רַ֛ק אַדְמַ֥ת הַכֹּהֲנִ֖ים לֹ֣א קָנָ֑ה כִּי֩ חֹ֨ק לַכֹּהֲנִ֜ים מֵאֵ֣ת פַּרְעֹ֗ה וְאָֽכְל֤וּ אֶת־חֻקָּם֙ אֲשֶׁ֨ר _נָתַ֤ן_ לָהֶם֙ פַּרְעֹ֔ה עַל־כֵּ֕ן לֹ֥א מָכְר֖וּ אֶת־אַדְמָתָֽם׃ (Gen. 47:22)
+NIV	However, he did not buy the land of the priests, because they received a regular allotment from Pharaoh and had food enough from the allotment Pharaoh _gave_ them. That is why they did not sell their land.
+ESV	Only the land of the priests he did not buy, for the priests had a fixed allowance from Pharaoh and lived on the allowance that Pharaoh _gave_ them. therefore they did not sell their land.
+NBS	avait accordée
+
+(x)	וַיֹּ֤אמֶר יִשְׂרָאֵל֙ אֶל־יֹוסֵ֔ף רְאֹ֥ה פָנֶ֖יךָ לֹ֣א _פִלָּ֑לְתִּי_ וְהִנֵּ֨ה הֶרְאָ֥ה אֹתִ֛י אֱלֹהִ֖ים גַּ֥ם אֶת־זַרְעֶֽךָ׃ (Gen. 48:11)
+NIV	Israel said to Joseph, “I never expected to see your face again, and now God has allowed me to see your children too.”
+ESV	And Israel said to Joseph, “I never expected to see your face. and behold, God has let me see your offspring also.”
+NBS	Je pensais
+
+(x)	וְאַתֶּ֕ם חֲשַׁבְתֶּ֥ם עָלַ֖י רָעָ֑ה אֱלֹהִים֙ _חֲשָׁבָ֣הּ_ לְטֹבָ֔ה לְמַ֗עַן עֲשֹׂ֛ה כַּיֹּ֥ום הַזֶּ֖ה לְהַחֲיֹ֥ת עַם־רָֽב׃ (Gen. 50:20)
+NIV	You _intended_ to harm me, but God _intended_ it for good to accomplish what is now being done, the saving of many lives.
+ESV	As for you, you _meant_ evil against me, but God _meant_ it for good, to bring it about that many people should be kept alive, as they are today.
+NBS	comptait en faire
+
+(x)	וַיַּ֣רְא פַּרְעֹ֗ה כִּ֤י _הָֽיְתָה֙_ הָֽרְוָחָ֔ה וְהַכְבֵּד֙ אֶת־לִבֹּ֔ו וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה׃ ס (Exod. 8:11)
+NIV	But when Pharaoh saw that _there was_ relief, he hardened his heart and would not listen to Moses and Aaron, just as the LORD had said.
+ESV	But when Pharaoh saw that _there was_ a respite, he hardened his heart and would not listen to them, as the Lord had said.
+NBS	il y avait
+
+(x)	וְלֹֽא־יָכְל֣וּ הַֽחַרְטֻמִּ֗ים לַעֲמֹ֛ד לִפְנֵ֥י מֹשֶׁ֖ה מִפְּנֵ֣י הַשְּׁחִ֑ין כִּֽי־_הָיָ֣ה_ הַשְּׁחִ֔ין בַּֽחֲרְטֻמִּ֖ם וּבְכָל־מִצְרָֽיִם׃ (Exod. 9:11)
+NIV	The magicians could not stand before Moses because of the boils that _were_ on them and on all the Egyptians.
+ESV	And the magicians could not stand before Moses because of the boils, for the boils _came_ upon the magicians and upon all the Egyptians.
+NBS	étaient
+
+(x)	לֹֽא־רָא֞וּ אִ֣ישׁ אֶת־אָחִ֗יו וְלֹא־קָ֛מוּ אִ֥ישׁ מִתַּחְתָּ֖יו שְׁלֹ֣שֶׁת יָמִ֑ים וּֽלְכָל־בְּנֵ֧י יִשְׂרָאֵ֛ל _הָ֥יָה_ אֹ֖ור בְּמֹושְׁבֹתָֽם׃ (Exod. 10:23)
+NIV	No one could see anyone else or leave his place for three days. Yet all the Israelites _had_ light in the places where they lived.
+ESV	They did not see one another, nor did anyone rise from his place for three days, but all the people of Israel _had_ light where they lived.
+NBS	avaient
+
+(x)	וַיְהִ֗י כִּֽי־_הִקְשָׁ֣ה_ פַרְעֹה֮ לְשַׁלְּחֵנוּ֒ וַיַּהֲרֹ֨ג יְהֹוָ֤ה כָּל־בְּכֹור֙ בְּאֶ֣רֶץ מִצְרַ֔יִם מִבְּכֹ֥ר אָדָ֖ם וְעַד־בְּכֹ֣ור בְּהֵמָ֑ה עַל־כֵּן֩ אֲנִ֨י זֹבֵ֜חַ לַֽיהוָ֗ה כָּל־פֶּ֤טֶר רֶ֨חֶם֙ הַזְּכָרִ֔ים וְכָל־בְּכֹ֥ור בָּנַ֖י אֶפְדֶּֽה׃ (Exod. 13:15)
+NIV	When Pharaoh _stubbornly refused_ to let us go, the LORD killed every firstborn in Egypt, both man and animal. This is why I sacrifice to the LORD the first male offspring of every womb and redeem each of my firstborn sons.’
+ESV	For when Pharaoh _stubbornly refused_ to let us go, the Lord killed all the firstborn in the land of Egypt, both the firstborn of man and the firstborn of animals. Therefore I sacrifice to the Lord all the males that first open the womb, but all the firstborn of my sons I redeem.’
+NBS	refusait obstinément
+
+(x)	וּפַרְעֹ֖ה _הִקְרִ֑יב_ וַיִּשְׂאוּ֩ בְנֵֽי־יִשְׂרָאֵ֨ל אֶת־עֵינֵיהֶ֜ם וְהִנֵּ֥ה מִצְרַ֣יִם׀ נֹסֵ֣עַ אַחֲרֵיהֶ֗ם וַיִּֽירְאוּ֙ מְאֹ֔ד וַיִּצְעֲק֥וּ בְנֵֽי־יִשְׂרָאֵ֖ל אֶל־יְהוָֽה׃ (Exod. 14:10)
+NIV	As Pharaoh _approached_, the Israelites looked up, and there were the Egyptians, marching after them. They were terrified and cried out to the LORD.
+ESV	When Pharaoh _drew near_, the people of Israel lifted up their eyes, and behold, the Egyptians were marching after them, and they feared greatly. And the people of Israel cried out to the Lord.
+NBS	approchait
+
+(x)	וַיִּרְא֣וּ בְנֵֽי־יִשְׂרָאֵ֗ל וַיֹּ֨אמְר֜וּ אִ֤ישׁ אֶל־אָחִיו֙ מָ֣ן ה֔וּא כִּ֛י לֹ֥א _יָדְע֖וּ_ מַה־ה֑וּא וַיֹּ֤אמֶר מֹשֶׁה֙ אֲלֵהֶ֔ם ה֣וּא הַלֶּ֔חֶם אֲשֶׁ֨ר נָתַ֧ן יְהוָ֛ה לָכֶ֖ם לְאָכְלָֽה׃ (Exod. 16:15)
+NIV	When the Israelites saw it, they said to each other, “What is it?” For they did not know what it was. Moses said to them, “It is the bread the LORD has given you to eat.
+ESV	When the people of Israel saw it, they said to one another, “What is it?” For they did not know what it was. And Moses said to them, “It is the bread that the Lord has given you to eat.
+NBS	ils savaient
+
+(x)	וַיָּמֹ֣דּוּ בָעֹ֔מֶר וְלֹ֤א הֶעְדִּיף֙ הַמַּרְבֶּ֔ה וְהַמַּמְעִ֖יט לֹ֣א _הֶחְסִ֑יר_ אִ֥ישׁ לְפִֽי־אָכְלֹ֖ו לָקָֽטוּ׃ (Exod. 16:18)
+NIV	And when they measured it by the omer, he who gathered much did not have too much, and he who gathered little did not have too little. Each one gathered as much as he needed.
+ESV	But when they measured it with an omer, whoever gathered much had nothing left over, and whoever gathered little had no lack. Each of them gathered as much as he could eat.
+NBS	manquait
+
+(x)	וַיָּמֹ֣דּוּ בָעֹ֔מֶר וְלֹ֤א הֶעְדִּיף֙ הַמַּרְבֶּ֔ה וְהַמַּמְעִ֖יט לֹ֣א הֶחְסִ֑יר אִ֥ישׁ לְפִֽי־אָכְלֹ֖ו _לָקָֽטוּ_׃ (Exod. 16:18)
+NIV	And when they measured it by the omer, he who _gathered_ much did not have too much, and he who _gathered_ little did not have too little. Each one _gathered_ as much as he needed.
+ESV	But when they measured it with an omer, whoever _gathered_ much had nothing left over, and whoever _gathered_ little had no lack. Each of them _gathered_ as much as he could eat.
+NBS	recueillait
+
+(x)	וַיְהִ֣י׀ בַּיֹּ֣ום הַשִּׁשִּׁ֗י _לָֽקְט֥וּ_ לֶ֨חֶם֙ מִשְׁנֶ֔ה שְׁנֵ֥י הָעֹ֖מֶר לָאֶחָ֑ד וַיָּבֹ֨אוּ֙ כָּל־נְשִׂיאֵ֣י הָֽעֵדָ֔ה וַיַּגִּ֖ידוּ לְמֹשֶֽׁה׃ (Exod. 16:22)
+NIV	On the sixth day, _they gathered_ twice as much — two omers for each person — and the leaders of the community came and reported this to Moses.
+ESV	On the sixth day _they gathered_ twice as much bread, two omers each. And when all the leaders of the congregation came and told Moses,
+NBS	recueillirent ils
+
+(x)	וִידֵ֤י מֹשֶׁה֙ כְּבֵדִ֔ים וַיִּקְחוּ־אֶ֛בֶן וַיָּשִׂ֥ימוּ תַחְתָּ֖יו וַיֵּ֣שֶׁב עָלֶ֑יהָ וְאַהֲרֹ֨ן וְח֜וּר _תָּֽמְכ֣וּ_ בְיָדָ֗יו מִזֶּ֤ה אֶחָד֙ וּמִזֶּ֣ה אֶחָ֔ד וַיְהִ֥י יָדָ֛יו אֱמוּנָ֖ה עַד־בֹּ֥א הַשָּֽׁמֶשׁ׃ (Exod. 17:12)
+NIV	When Moses’ hands grew tired, they took a stone and put it under him and he sat on it. Aaron and Hur held his hands up — one on one side, one on the other — so that his hands remained steady till sunset.
+ESV	But Moses’ hands grew weary, so they took a stone and put it under him, and he sat on it, while Aaron and Hur _held up_ his hands, one on one side, and the other on the other side. So his hands were steady until the going down of the sun.
+NBS	soutenaient
+
+(x)	וַיַּ֣רְא הָעָ֔ם כִּֽי־_בֹשֵׁ֥שׁ_ מֹשֶׁ֖ה לָרֶ֣דֶת מִן־הָהָ֑ר וַיִּקָּהֵ֨ל הָעָ֜ם עַֽל־אַהֲרֹ֗ן וַיֹּאמְר֤וּ אֵלָיו֙ ק֣וּם׀ עֲשֵׂה־לָ֣נוּ אֱלֹהִ֗ים אֲשֶׁ֤ר יֵֽלְכוּ֙ לְפָנֵ֔ינוּ כִּי־זֶ֣ה׀ מֹשֶׁ֣ה הָאִ֗ישׁ אֲשֶׁ֤ר הֶֽעֱלָ֨נוּ֙ מֵאֶ֣רֶץ מִצְרַ֔יִם לֹ֥א יָדַ֖עְנוּ מֶה־הָ֥יָה לֹֽו׃ (Exod. 32:1)
+NIV	When the people saw that Moses _was so long_ in coming down from the mountain, they gathered around Aaron and said, “Come, make us gods who will go before us. As for this fellow Moses who brought us up out of Egypt, we don’t know what has happened to him.”
+ESV	When the people saw that Moses _delayed_ to come down from the mountain, the people gathered themselves together to Aaron and said to him, “Up, make us gods who shall go before us. As for this Moses, the man who brought us up out of the land of Egypt, we do not know what has become of him.”
+NBS	tardait
+
+(x)	וַֽיְהִ֗י כַּאֲשֶׁ֤ר _קָרַב֙_ אֶל־הַֽמַּחֲנֶ֔ה וַיַּ֥רְא אֶת־הָעֵ֖גֶל וּמְחֹלֹ֑ת וַיִּֽחַר־אַ֣ף מֹשֶׁ֗ה וַיַּשְׁלֵ֤ךְ מִיָּדָיו֙ אֶת־הַלֻּחֹ֔ת וַיְשַׁבֵּ֥ר אֹתָ֖ם תַּ֥חַת הָהָֽר׃ (Exod. 32:19)
+NIV	When Moses _approached_ the camp and saw the calf and the dancing, his anger burned and he threw the tablets out of his hands, breaking them to pieces at the foot of the mountain.
+ESV	And as soon as _he came near_ the camp and saw the calf and the dancing, Moses’ anger burned hot, and he threw the tablets out of his hands and broke them at the foot of the mountain.
+NBS	approchait il
+
+(x)	וַיִּגֹּ֥ף יְהוָ֖ה אֶת־הָעָ֑ם עַ֚ל אֲשֶׁ֣ר _עָשׂ֣וּ_ אֶת־הָעֵ֔גֶל אֲשֶׁ֥ר עָשָׂ֖ה אַהֲרֹֽן׃ ס (Exod. 32:35)
+NIV	And the LORD struck the people with a plague because of what _they did_ with the calf Aaron had made.
+ESV	Then the Lord sent a plague on the people, because _they made_ the calf, the one that Aaron made.
+NBS	ils avaient fait
+
+(x)	וַיֹּ֤אמֶר יְהוָה֙ אֶל־מֹשֶׁ֔ה פְּסָל־לְךָ֛ שְׁנֵֽי־לֻחֹ֥ת אֲבָנִ֖ים כָּרִאשֹׁנִ֑ים וְכָתַבְתִּי֙ עַל־הַלֻּחֹ֔ת אֶת־הַדְּבָרִ֔ים אֲשֶׁ֥ר _הָי֛וּ_ עַל־הַלֻּחֹ֥ת הָרִאשֹׁנִ֖ים אֲשֶׁ֥ר שִׁבַּֽרְתָּ׃ (Exod. 34:1)
+NIV	The LORD said to Moses, “Chisel out two stone tablets like the first ones, and I will write on them the words that _were_ on the first tablets, which you broke.
+ESV	The Lord said to Moses, “Cut for yourself two tablets of stone like the first, and I will write on the tablets the words that _were_ on the first tablets, which you broke.
+NBS	étaient
+
+(x)	וַיְהִ֗י בְּרֶ֤דֶת מֹשֶׁה֙ מֵהַ֣ר סִינַ֔י וּשְׁנֵ֨י לֻחֹ֤ת הָֽעֵדֻת֙ בְּיַד־מֹשֶׁ֔ה בְּרִדְתֹּ֖ו מִן־הָהָ֑ר וּמֹשֶׁ֣ה לֹֽא־_יָדַ֗ע_ כִּ֥י קָרַ֛ן עֹ֥ור פָּנָ֖יו בְּדַבְּרֹ֥ו אִתֹּֽו׃ (Exod. 34:29)
+NIV	When Moses came down from Mount Sinai with the two tablets of the Testimony in his hands, he was not aware that his face was radiant because he had spoken with the LORD.
+ESV	When Moses came down from Mount Sinai, with the two tablets of the testimony in his hand as he came down from the mountain, Moses did not know that the skin of his face shone because he had been talking with God.
+NBS	savait
+
+(x)	וְכָל־אִ֞ישׁ אֲשֶׁר־_נִמְצָ֣א_ אִתֹּ֗ו תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתֹולַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ וְעִזִּ֑ים וְעֹרֹ֨ת אֵילִ֧ם מְאָדָּמִ֛ים וְעֹרֹ֥ת תְּחָשִׁ֖ים הֵבִֽיאוּ׃ (Exod. 35:23)
+NIV	Everyone who _had_ blue, purple or scarlet yarn or fine linen, or goat hair, ram skins dyed red or hides of sea cows brought them.
+ESV	And every one who _possessed_ blue or purple or scarlet yarns or fine linen or goats’ hair or tanned rams’ skins or goatskins brought them.
+NBS	qui avaient
+
+(x)	וְהַמְּלָאכָ֗ה _הָיְתָ֥ה_ דַיָּ֛ם לְכָל־הַמְּלָאכָ֖ה לַעֲשֹׂ֣ות אֹתָ֑הּ וְהֹותֵֽר׃ ס (Exod. 36:7)
+NIV	because what they already had _was_ more than enough to do all the work.
+ESV	for the material they had _was_ sufficient to do all the work, and more.
+NBS	suffisaient amplement
+
+(x)	כַּפְתֹּרֵיהֶ֥ם וּקְנֹתָ֖ם מִמֶּ֣נָּה _הָי֑וּ_ כֻּלָּ֛הּ מִקְשָׁ֥ה אַחַ֖ת זָהָ֥ב טָהֹֽור׃ (Exod. 37:22)
+NIV	The buds and the branches _were_ all of one piece with the lampstand, hammered out of pure gold.
+ESV	Their calyxes and their branches _were_ of one piece with it. The whole of it was a single piece of hammered work of pure gold.
+NBS	étaient
+
+(x)	וְלֹא־יָכֹ֣ל מֹשֶׁ֗ה לָבֹוא֙ אֶל־אֹ֣הֶל מֹועֵ֔ד כִּֽי־שָׁכַ֥ן עָלָ֖יו הֶעָנָ֑ן וּכְבֹ֣וד יְהוָ֔ה _מָלֵ֖א_ אֶת־הַמִּשְׁכָּֽן׃ (Exod. 40:35)
+NIV	Moses could not enter the Tent of Meeting because the cloud had settled upon it, and the glory of the LORD _filled_ the tabernacle.
+ESV	And Moses was not able to enter the tent of meeting because the cloud settled on it, and the glory of the Lord _filled_ the tabernacle.
+NBS	remplissait
+
+(x)	וְאֶת־הָעֹלָ֗ה _הִמְצִ֧יאוּ_ אֵלָ֛יו לִנְתָחֶ֖יהָ וְאֶת־הָרֹ֑אשׁ וַיַּקְטֵ֖ר עַל־הַמִּזְבֵּֽחַ׃ (Lev. 9:13)
+NIV	_They handed_ him the burnt offering piece by piece, including the head, and he burned them on the altar.
+ESV	And _they handed_ the burnt offering to him, piece by piece, and the head, and he burned them on the altar.
+NBS	Ils remirent
+
+(x)	בִּשְׁנַ֤ת הַיֹּובֵל֙ יָשׁ֣וּב הַשָּׂדֶ֔ה לַאֲשֶׁ֥ר _קָנָ֖הוּ_ מֵאִתֹּ֑ו לַאֲשֶׁר־לֹ֖ו אֲחֻזַּ֥ת הָאָֽרֶץ׃ (Lev. 27:24)
+NIV	In the Year of Jubilee the field will revert to the person from whom _he bought_ it, the one whose land it was.
+ESV	In the year of jubilee the field shall return to him from whom it _was bought_, to whom the land belongs as a possession.
+NBS	acheté été avait il
+
+(x)	וְאֵ֨ת כָּל־הָעֵדָ֜ה _הִקְהִ֗ילוּ_ בְּאֶחָד֙ לַחֹ֣דֶשׁ הַשֵּׁנִ֔י וַיִּתְיַֽלְד֥וּ עַל־מִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם בְּמִסְפַּ֣ר שֵׁמֹ֗ות מִבֶּ֨ן עֶשְׂרִ֥ים שָׁנָ֛ה וָמַ֖עְלָה לְגֻלְגְּלֹתָֽם׃ (Num. 1:18)
+NIV	and they called the whole community together on the first day of the second month. The people indicated their ancestry by their clans and families, and the men twenty years old or more were listed by name, one by one,
+ESV	and on the first day of the second month, they assembled the whole congregation together, who registered themselves by clans, by fathers’ houses, according to the number of names from twenty years old and upward, head by head,
+NBS	ils rassemblèrent
+
+(x)	וַֽיַּעֲשׂ֖וּ בְּנֵ֣י יִשְׂרָאֵ֑ל כְּ֠כֹל אֲשֶׁר־צִוָּ֨ה יְהוָ֜ה אֶת־מֹשֶׁ֗ה כֵּֽן־_חָנ֤וּ_ לְדִגְלֵיהֶם֙ וְכֵ֣ן נָסָ֔עוּ אִ֥ישׁ לְמִשְׁפְּחֹתָ֖יו עַל־בֵּ֥ית אֲבֹתָֽיו׃ (Num. 2:34)
+NIV	So the Israelites did everything the LORD commanded Moses. that is the way _they encamped_ under their standards, and that is the way they set out, each with his clan and family.
+ESV	Thus did the people of Israel. According to all that the Lord commanded Moses, so _they camped_ by their standards, and so they set out, each one in his clan, according to his fathers’ house.
+NBS	campaient ils
+
+(x)	וַיָּ֣מָת נָדָ֣ב וַאֲבִיה֣וּא לִפְנֵ֣י יְהוָ֡ה בְּֽהַקְרִבָם֩ אֵ֨שׁ זָרָ֜ה לִפְנֵ֤י יְהוָה֙ בְּמִדְבַּ֣ר סִינַ֔י וּבָנִ֖ים לֹא־_הָי֣וּ_ לָהֶ֑ם וַיְכַהֵ֤ן אֶלְעָזָר֙ וְאִ֣יתָמָ֔ר עַל־פְּנֵ֖י אַהֲרֹ֥ן אֲבִיהֶֽם׃ פ (Num. 3:4)
+NIV	Nadab and Abihu, however, fell dead before the LORD when they made an offering with unauthorized fire before him in the Desert of Sinai. They _had_ no sons. so only Eleazar and Ithamar served as priests during the lifetime of their father Aaron.
+ESV	But Nadab and Abihu died before the Lord when they offered unauthorized fire before the Lord in the wilderness of Sinai, and they _had_ no children. So Eleazar and Ithamar served as priests in the lifetime of Aaron their father.
+NBS	avaient
+
+(x)	עַל־פִּ֤י יְהוָה֙ יַחֲנ֔וּ וְעַל־פִּ֥י יְהוָ֖ה יִסָּ֑עוּ אֶת־מִשְׁמֶ֤רֶת יְהוָה֙ _שָׁמָ֔רוּ_ עַל־פִּ֥י יְהוָ֖ה בְּיַד־מֹשֶֽׁה׃ פ (Num. 9:23)
+NIV	At the LORD’s command they encamped, and at the LORD’s command they set out. _They obeyed_ the LORD’s order, in accordance with his command through Moses.
+ESV	At the command of the Lord they camped, and at the command of the Lord they set out. _They kept_ the charge of the Lord, at the command of the Lord by Moses.
+NBS	assuraient ils
+
+(x)	_שָׁטוּ֩_ הָעָ֨ם וְלָֽקְט֜וּ וְטָחֲנ֣וּ בָרֵחַ֗יִם אֹ֤ו דָכוּ֙ בַּמְּדֹכָ֔ה וּבִשְּׁלוּ֙ בַּפָּר֔וּר וְעָשׂ֥וּ אֹתֹ֖ו עֻגֹ֑ות וְהָיָ֣ה טַעְמֹ֔ו כְּטַ֖עַם לְשַׁ֥ד הַשָּֽׁמֶן׃ (Num. 11:8)
+NIV	The people _went around_ gathering it, and then ground it in a handmill or crushed it in a mortar. They cooked it in a pot or made it into cakes. And it tasted like something made with olive oil.
+ESV	The people _went about_ and gathered it and ground it in handmills or beat it in mortars and boiled it in pots and made cakes of it. And the taste of it was like the taste of cakes baked with oil.
+NBS	se dispersait
+
+(x)	שָׁטוּ֩ הָעָ֨ם וְלָֽקְט֜וּ וְטָחֲנ֣וּ בָרֵחַ֗יִם אֹ֤ו _דָכוּ֙_ בַּמְּדֹכָ֔ה וּבִשְּׁלוּ֙ בַּפָּר֔וּר וְעָשׂ֥וּ אֹתֹ֖ו עֻגֹ֑ות וְהָיָ֣ה טַעְמֹ֔ו כְּטַ֖עַם לְשַׁ֥ד הַשָּֽׁמֶן׃ (Num. 11:8)
+NIV	The people went around gathering it, and then ground it in a handmill or _crushed_ it in a mortar. They cooked it in a pot or made it into cakes. And it tasted like something made with olive oil.
+ESV	The people went about and gathered it and ground it in handmills or _beat_ it in mortars and boiled it in pots and made cakes of it. And the taste of it was like the taste of cakes baked with oil.
+NBS	on pilait
+
+(x)	וַיֵּ֨רֶד יְהוָ֥ה׀ בֶּעָנָן֮ וַיְדַבֵּ֣ר אֵלָיו֒ וַיָּ֗אצֶל מִן־הָר֨וּחַ֙ אֲשֶׁ֣ר עָלָ֔יו וַיִּתֵּ֕ן עַל־שִׁבְעִ֥ים אִ֖ישׁ הַזְּקֵנִ֑ים וַיְהִ֗י כְּנֹ֤וחַ עֲלֵיהֶם֙ הָר֔וּחַ וַיִּֽתְנַבְּא֖וּ וְלֹ֥א _יָסָֽפוּ_׃ (Num. 11:25)
+NIV	Then the LORD came down in the cloud and spoke with him, and he took of the Spirit that was on him and put the Spirit on the seventy elders. When the Spirit rested on them, they prophesied, but they did not do so again.
+ESV	Then the Lord came down in the cloud and spoke to him, and took some of the Spirit that was on him and put it on the seventy elders. And as soon as the Spirit rested on them, they prophesied. But they did not continue doing it.
+NBS	ils continuèrent
+
+(x)	וִיהֹושֻׁ֣עַ בִּן־נ֗וּן וְכָלֵב֙ בֶּן־יְפֻנֶּ֔ה מִן־הַתָּרִ֖ים אֶת־הָאָ֑רֶץ _קָרְע֖וּ_ בִּגְדֵיהֶֽם׃ (Num. 14:6)
+NIV	Joshua son of Nun and Caleb son of Jephunneh, who were among those who had explored the land, _tore_ their clothes
+ESV	And Joshua the son of Nun and Caleb the son of Jephunneh, who were among those who had spied out the land, _tore_ their clothes
+NBS	déchirèrent
+
+(x)	וִיהֹושֻׁ֣עַ בִּן־נ֔וּן וְכָלֵ֖ב בֶּן־יְפֻנֶּ֑ה _חָיוּ֙_ מִן־הָאֲנָשִׁ֣ים הָהֵ֔ם הַֽהֹלְכִ֖ים לָת֥וּר אֶת־הָאָֽרֶץ׃ (Num. 14:38)
+NIV	Of the men who went to explore the land, only Joshua son of Nun and Caleb son of Jephunneh _survived_.
+ESV	Of those men who went to spy out the land, only Joshua the son of Nun and Caleb the son of Jephunneh _remained alive_.
+NBS	restèrent vivants
+
+(x)	וַיַּעְפִּ֕לוּ לַעֲלֹ֖ות אֶל־רֹ֣אשׁ הָהָ֑ר וַאֲרֹ֤ון בְּרִית־יְהוָה֙ וּמֹשֶׁ֔ה לֹא־_מָ֖שׁוּ_ מִקֶּ֥רֶב הַֽמַּחֲנֶֽה׃ (Num. 14:44)
+NIV	Nevertheless, in their presumption they went up toward the high hill country, though neither Moses nor the ark of the LORD’s covenant _moved_ from the camp.
+ESV	But they presumed to go up to the heights of the hill country, although neither the ark of the covenant of the Lord nor Moses _departed_ out of the camp.
+NBS	bougèrent
+
+(x)	וְלֹא־_הָ֥יָה_ מַ֖יִם לָעֵדָ֑ה וַיִּקָּ֣הֲל֔וּ עַל־מֹשֶׁ֖ה וְעַֽל־אַהֲרֹֽן׃ (Num. 20:2)
+NIV	Now _there was_ no water for the community, and the people gathered in opposition to Moses and Aaron.
+ESV	Now _there was_ no water for the congregation. And they assembled themselves together against Moses and against Aaron.
+NBS	Il y avait
+
+(x)	וַיֹּ֨אמֶר בִּלְעָ֜ם אֶל־מַלְאַ֤ךְ יְהוָה֙ חָטָ֔אתִי כִּ֚י לֹ֣א _יָדַ֔עְתִּי_ כִּ֥י אַתָּ֛ה נִצָּ֥ב לִקְרָאתִ֖י בַּדָּ֑רֶךְ וְעַתָּ֛ה אִם־רַ֥ע בְּעֵינֶ֖יךָ אָשׁ֥וּבָה לִּֽי׃ (Num. 22:34)
+NIV	Balaam said to the angel of the LORD, “I have sinned. I did not realize you were standing in the road to oppose me. Now if you are displeased, I will go back.”
+ESV	Then Balaam said to the angel of the Lord, “I have sinned, for I did not know that you stood in the road against me. Now therefore, if it is evil in your sight, I will turn back.”
+NBS	je savais
+
+(x)	וַיַּ֣רְא בִּלְעָ֗ם כִּ֣י _טֹ֞וב_ בְּעֵינֵ֤י יְהוָה֙ לְבָרֵ֣ךְ אֶת־יִשְׂרָאֵ֔ל וְלֹא־הָלַ֥ךְ כְּפַֽעַם־בְּפַ֖עַם לִקְרַ֣את נְחָשִׁ֑ים וַיָּ֥שֶׁת אֶל־הַמִּדְבָּ֖ר פָּנָֽיו׃ (Num. 24:1)
+NIV	Now when Balaam saw that _it pleased_ the LORD to bless Israel, he did not resort to sorcery as at other times, but turned his face toward the desert.
+ESV	When Balaam saw that _it pleased_ the Lord to bless Israel, he did not go, as at other times, to look for omens, but set his face toward the wilderness.
+NBS	il plaisait
+
+(x)	וּבְאֵ֨לֶּה֙ לֹא־_הָ֣יָה_ אִ֔ישׁ מִפְּקוּדֵ֣י מֹשֶׁ֔ה וְאַהֲרֹ֖ן הַכֹּהֵ֑ן אֲשֶׁ֥ר פָּקְד֛וּ אֶת־בְּנֵ֥י יִשְׂרָאֵ֖ל בְּמִדְבַּ֥ר סִינָֽי׃ (Num. 26:64)
+NIV	Not one of them _was_ among those counted by Moses and Aaron the priest when they counted the Israelites in the Desert of Sinai.
+ESV	But among these _there was_ not one of those listed by Moses and Aaron the priest, who had listed the people of Israel in the wilderness of Sinai.
+NBS	il y avait
+
+(x)	כִּֽי־אָמַ֤ר יְהוָה֙ לָהֶ֔ם מֹ֥ות יָמֻ֖תוּ בַּמִּדְבָּ֑ר וְלֹא־_נֹותַ֤ר_ מֵהֶם֙ אִ֔ישׁ כִּ֚י אִם־כָּלֵ֣ב בֶּן־יְפֻנֶּ֔ה וִיהֹושֻׁ֖עַ בִּן־נֽוּן׃ ס (Num. 26:65)
+NIV	For the LORD had told those Israelites they would surely die in the desert, and not one of them _was left_ except Caleb son of Jephunneh and Joshua son of Nun.
+ESV	For the Lord had said of them, “They shall die in the wilderness.” Not one of them _was left_, except Caleb the son of Jephunneh and Joshua the son of Nun.
+NBS	Il restait
+
+(x)	וּמִקְנֶ֣ה׀ רַ֗ב _הָיָ֞ה_ לִבְנֵ֧י רְאוּבֵ֛ן וְלִבְנֵי־גָ֖ד עָצ֣וּם מְאֹ֑ד וַיִּרְא֞וּ אֶת־אֶ֤רֶץ יַעְזֵר֙ וְאֶת־אֶ֣רֶץ גִּלְעָ֔ד וְהִנֵּ֥ה הַמָּקֹ֖ום מְקֹ֥ום מִקְנֶֽה׃ (Num. 32:1)
+NIV	The Reubenites and Gadites, who _had_ very large herds and flocks, saw that the lands of Jazer and Gilead were suitable for livestock.
+ESV	Now the people of Reuben and the people of Gad _had_ a very great number of livestock. And they saw the land of Jazer and the land of Gilead, and behold, the place was a place for livestock.
+NBS	avaient
+
+(x)	וְאָמַרְתָּ֣ לְבִנְךָ֔ עֲבָדִ֛ים _הָיִ֥ינוּ_ לְפַרְעֹ֖ה בְּמִצְרָ֑יִם וַיֹּוצִיאֵ֧נוּ יְהוָ֛ה מִמִּצְרַ֖יִם בְּיָ֥ד חֲזָקָֽה׃ (Deut. 6:21)
+NIV	tell him: “_We were_ slaves of Pharaoh in Egypt, but the LORD brought us out of Egypt with a mighty hand.
+ESV	then you shall say to your son, ‘_We were_ Pharaoh’s slaves in Egypt. And the Lord brought us out of Egypt with a mighty hand.
+NBS	Nous étions
+
+(x)	וְאֶכְתֹּב֙ עַל־הַלֻּחֹ֔ת אֶת־הַדְּבָרִ֔ים אֲשֶׁ֥ר _הָי֛וּ_ עַל־הַלֻּחֹ֥ת הָרִאשֹׁנִ֖ים אֲשֶׁ֣ר שִׁבַּ֑רְתָּ וְשַׂמְתָּ֖ם בָּאָרֹֽון׃ (Deut. 10:2)
+NIV	I will write on the tablets the words that _were_ on the first tablets, which you broke. Then you are to put them in the chest.”
+ESV	And I will write on the tablets the words that _were_ on the first tablets that you broke, and you shall put them in the ark.’
+NBS	étaient
+
+(x)	אֲשֶׁ֨ר קָֽרְךָ֜ בַּדֶּ֗רֶךְ וַיְזַנֵּ֤ב בְּךָ֙ כָּל־הַנֶּחֱשָׁלִ֣ים אַֽחַרֶ֔יךָ וְאַתָּ֖ה עָיֵ֣ף וְיָגֵ֑עַ וְלֹ֥א _יָרֵ֖א_ אֱלֹהִֽים׃ (Deut. 25:18)
+NIV	When you were weary and worn out, they met you on your journey and cut off all who were lagging behind. they had no fear of God.
+ESV	how he attacked you on the way when you were faint and weary, and cut off your tail, those who were lagging behind you, and he did not fear God.
+NBS	il craignait
+
+(x)	וְהֵשִׁ֣יב בְּךָ֗ אֵ֚ת כָּל־מַדְוֵ֣ה מִצְרַ֔יִם אֲשֶׁ֥ר _יָגֹ֖רְתָּ_ מִפְּנֵיהֶ֑ם וְדָבְק֖וּ בָּֽךְ׃ (Deut. 28:60)
+NIV	He will bring upon you all the diseases of Egypt that _you dreaded_, and they will cling to you.
+ESV	And he will bring upon you again all the diseases of Egypt, of which _you were afraid_, and they shall cling to you.
+NBS	qui t effrayaient
+
+(x)	וְאָמַ֖ר אֵ֣י אֱלֹהֵ֑ימֹו צ֖וּר _חָסָ֥יוּ_ בֹֽו׃ (Deut. 32:37)
+NIV	He will say: “Now where are their gods, the rock _they took refuge_ in,
+ESV	Then he will say, ‘Where are their gods, the rock in which _they took refuge_,
+NBS	servait d abri
+
+(x)	וְלֹֽא־קָ֨ם נָבִ֥יא עֹ֛וד בְּיִשְׂרָאֵ֖ל כְּמֹשֶׁ֑ה אֲשֶׁר֙ _יְדָעֹ֣ו_ יְהוָ֔ה פָּנִ֖ים אֶל־פָּנִֽים׃ (Deut. 34:10)
+NIV	Since then, no prophet has risen in Israel like Moses, whom the LORD _knew_ face to face,
+ESV	And there has not arisen a prophet since in Israel like Moses, whom the Lord _knew_ face to face,
+NBS	connaissait
+
+(x)	וַתִּקַּ֧ח הָֽאִשָּׁ֛ה אֶת־שְׁנֵ֥י הָאֲנָשִׁ֖ים וַֽתִּצְפְּנֹ֑ו וַתֹּ֣אמֶר׀ כֵּ֗ן בָּ֤אוּ אֵלַי֙ הָֽאֲנָשִׁ֔ים וְלֹ֥א _יָדַ֖עְתִּי_ מֵאַ֥יִן הֵֽמָּה׃ (Josh. 2:4)
+NIV	But the woman had taken the two men and hidden them. She said, “Yes, the men came to me, but I did not know where they had come from.
+ESV	But the woman had taken the two men and hidden them. And she said, “True, the men came to me, but I did not know where they were from.
+NBS	je savais
+
+(x)	וַיְהִ֞י כִּרְאֹ֣ות מֶֽלֶךְ־הָעַ֗י וַֽיְמַהֲר֡וּ וַיַּשְׁכִּ֡ימוּ וַיֵּצְא֣וּ אַנְשֵֽׁי־הָעִ֣יר לִקְרַֽאת־יִ֠שְׂרָאֵל לַֽמִּלְחָמָ֞ה ה֧וּא וְכָל־עַמֹּ֛ו לַמֹּועֵ֖ד לִפְנֵ֣י הָֽעֲרָבָ֑ה וְהוּא֙ לֹ֣א _יָדַ֔ע_ כִּֽי־אֹרֵ֥ב לֹ֖ו מֵאַחֲרֵ֥י הָעִֽיר׃ (Josh. 8:14)
+NIV	When the king of Ai saw this, he and all the men of the city hurried out early in the morning to meet Israel in battle at a certain place overlooking the Arabah. But he did not know that an ambush had been set against him behind the city.
+ESV	And as soon as the king of Ai saw this, he and all his people, the men of the city, hurried and went out early to the appointed place toward the Arabah to meet Israel in battle. But he did not know that there was an ambush against him behind the city.
+NBS	Il savait
+
+(x)	וִיהֹושֻׁ֨עַ֙ לֹֽא־הֵשִׁ֣יב יָדֹ֔ו אֲשֶׁ֥ר _נָטָ֖ה_ בַּכִּידֹ֑ון עַ֚ד אֲשֶׁ֣ר הֶחֱרִ֔ים אֵ֖ת כָּל־יֹשְׁבֵ֥י הָעָֽי׃ (Josh. 8:26)
+NIV	For Joshua did not draw back the hand that _held out_ his javelin until he had destroyed all who lived in Ai.
+ESV	But Joshua did not draw back his hand with which _he stretched out_ the javelin until he had devoted all the inhabitants of Ai to destruction.
+NBS	brandissait il
+
+(x)	וְאֵ֨ת כָּל־הַמְּלָכִ֤ים הָאֵ֨לֶּה֙ וְאֶת־אַרְצָ֔ם לָכַ֥ד יְהֹושֻׁ֖עַ פַּ֣עַם אֶחָ֑ת כִּ֗י יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל _נִלְחָ֖ם_ לְיִשְׂרָאֵֽל׃ (Josh. 10:42)
+NIV	All these kings and their lands Joshua conquered in one campaign, because the LORD, the God of Israel, _fought_ for Israel.
+ESV	And Joshua captured all these kings and their land at one time, because the Lord God of Israel _fought_ for Israel.
+NBS	combattait
+
+(x)	וְכֹ֗ל עָרֵי֙ סִיחֹון֙ מֶ֣לֶךְ הָאֱמֹרִ֔י אֲשֶׁ֥ר _מָלַ֖ךְ_ בְּחֶשְׁבֹּ֑ון עַד־גְּב֖וּל בְּנֵ֥י עַמֹּֽון׃ (Josh. 13:10)
+NIV	and all the towns of Sihon king of the Amorites, who _ruled_ in Heshbon, out to the border of the Ammonites.
+ESV	and all the cities of Sihon king of the Amorites, who _reigned_ in Heshbon, as far as the boundary of the Ammonites.
+NBS	régnait
+
+(x)	וְכֹל֙ עָרֵ֣י הַמִּישֹׁ֔ר וְכָֽל־מַמְלְכ֗וּת סִיחֹון֙ מֶ֣לֶךְ הָאֱמֹרִ֔י אֲשֶׁ֥ר _מָלַ֖ךְ_ בְּחֶשְׁבֹּ֑ון אֲשֶׁר֩ הִכָּ֨ה מֹשֶׁ֜ה אֹתֹ֣ו׀ וְאֶת־נְשִׂיאֵ֣י מִדְיָ֗ן אֶת־אֱוִ֤י וְאֶת־רֶ֨קֶם֙ וְאֶת־צ֤וּר וְאֶת־חוּר֙ וְאֶת־רֶ֔בַע נְסִיכֵ֣י סִיחֹ֔ון יֹשְׁבֵ֖י הָאָֽרֶץ׃ (Josh. 13:21)
+NIV	all the towns on the plateau and the entire realm of Sihon king of the Amorites, who _ruled_ at Heshbon. Moses had defeated him and the Midianite chiefs, Evi, Rekem, Zur, Hur and Reba — princes allied with Sihon — who lived in that country.
+ESV	that is, all the cities of the tableland, and all the kingdom of Sihon king of the Amorites, who _reigned_ in Heshbon, whom Moses defeated with the leaders of Midian, Evi and Rekem and Zur and Hur and Reba, the princes of Sihon, who lived in the land.
+NBS	régnait
+
+(x)	וְעַתָּ֗ה הִנֵּה֩ הֶחֱיָ֨ה יְהוָ֣ה׀ אֹותִי֮ כַּאֲשֶׁ֣ר דִּבֵּר֒ זֶה֩ אַרְבָּעִ֨ים וְחָמֵ֜שׁ שָׁנָ֗ה מֵ֠אָז דִּבֶּ֨ר יְהוָ֜ה אֶת־הַדָּבָ֤ר הַזֶּה֙ אֶל־מֹשֶׁ֔ה אֲשֶׁר־_הָלַ֥ךְ_ יִשְׂרָאֵ֖ל בַּמִּדְבָּ֑ר וְעַתָּה֙ הִנֵּ֣ה אָנֹכִ֣י הַיֹּ֔ום בֶּן־חָמֵ֥שׁ וּשְׁמֹונִ֖ים שָׁנָֽה׃ (Josh. 14:10)
+NIV	“Now then, just as the LORD promised, he has kept me alive for forty-five years since the time he said this to Moses, while Israel _moved about_ in the desert. So here I am today, eighty-five years old!
+ESV	And now, behold, the Lord has kept me alive, just as he said, these forty-five years since the time that the Lord spoke this word to Moses, while Israel _walked_ in the wilderness. And now, behold, I am this day eighty-five years old.
+NBS	marchait
+
+(x)	וְלִצְלָפְחָד֩ בֶּן־חֵ֨פֶר בֶּן־גִּלְעָ֜ד בֶּן־מָכִ֣יר בֶּן־מְנַשֶּׁ֗ה לֹא־_הָ֥יוּ_ לֹ֛ו בָּנִ֖ים כִּ֣י אִם־בָּנֹ֑ות וְאֵ֨לֶּה֙ שְׁמֹ֣ות בְּנֹתָ֔יו מַחְלָ֣ה וְנֹעָ֔ה חָגְלָ֥ה מִלְכָּ֖ה וְתִרְצָֽה׃ (Josh. 17:3)
+NIV	Now Zelophe_had_ son of Hepher, the son of Gilead, the son of Makir, the son of Manasseh, _had_ no sons but only daughters, whose names were Mahlah, Noah, Hoglah, Milcah and Tirzah.
+ESV	Now Zelophe_had_ the son of Hepher, son of Gilead, son of Machir, son of Manasseh, _had_ no sons, but only daughters, and these are the names of his daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah.
+NBS	avait
+
+(x)	עַל־פִּ֨י יְהוָ֜ה _נָ֣תְנוּ_ לֹ֗ו אֶת־הָעִיר֙ אֲשֶׁ֣ר שָׁאָ֔ל אֶת־תִּמְנַת־סֶ֖רַח בְּהַ֣ר אֶפְרָ֑יִם וַיִּבְנֶ֥ה אֶת־הָעִ֖יר וַיֵּ֥שֶׁב בָּֽהּ׃ (Josh. 19:50)
+NIV	as the LORD had commanded. _They gave_ him the town he asked for — Timnath Serah in the hill country of Ephraim. And he built up the town and settled there.
+ESV	By command of the Lord _they gave_ him the city that he asked, Timnath-serah in the hill country of Ephraim. And he rebuilt the city and settled in it.
+NBS	ils donnèrent
+
+(x)	וַיִּשְׁמַ֞ע פִּֽינְחָ֣ס הַכֹּהֵ֗ן וּנְשִׂיאֵ֨י הָעֵדָ֜ה וְרָאשֵׁ֨י אַלְפֵ֤י יִשְׂרָאֵל֙ אֲשֶׁ֣ר אִתֹּ֔ו אֶת־הַ֨דְּבָרִ֔ים אֲשֶׁ֧ר _דִּבְּר֛וּ_ בְּנֵי־רְאוּבֵ֥ן וּבְנֵי־גָ֖ד וּבְנֵ֣י מְנַשֶּׁ֑ה וַיִּיטַ֖ב בְּעֵינֵיהֶֽם׃ (Josh. 22:30)
+NIV	When Phinehas the priest and the leaders of the community — the heads of the clans of the Israelites — heard what Reuben, Gad and Manasseh _had to say_, they were pleased.
+ESV	When Phinehas the priest and the chiefs of the congregation, the heads of the families of Israel who were with him, heard the words that the people of Reuben and the people of Gad and the people of Manasseh _spoke_, it was good in their eyes.
+NBS	disaient
+
+(x)	וַיִּיטַ֣ב הַדָּבָ֗ר בְּעֵינֵי֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וַיְבָרֲכ֥וּ אֱלֹהִ֖ים בְּנֵ֣י יִשְׂרָאֵ֑ל וְלֹ֣א _אָמְר֗וּ_ לַעֲלֹ֤ות עֲלֵיהֶם֙ לַצָּבָ֔א לְשַׁחֵת֙ אֶת־הָאָ֔רֶץ אֲשֶׁ֛ר בְּנֵי־רְאוּבֵ֥ן וּבְנֵי־גָ֖ד יֹשְׁבִ֥ים בָּֽהּ׃ (Josh. 22:33)
+NIV	They were glad to hear the report and praised God. And _they talked_ no more about going to war against them to devastate the country where the Reubenites and the Gadites lived.
+ESV	And the report was good in the eyes of the people of Israel. And the people of Israel blessed God and _spoke_ no more of making war against them to destroy the land where the people of Reuben and the people of Gad were settled.
+NBS	parlèrent
+
+(x)	וַיֹּ֨אמֶר יְהֹושֻׁ֜עַ אֶל־כָּל־הָעָ֗ם כֹּֽה־אָמַ֣ר יְהוָה֮ אֱלֹהֵ֣י יִשְׂרָאֵל֒ בְּעֵ֣בֶר הַנָּהָ֗ר _יָשְׁב֤וּ_ אֲבֹֽותֵיכֶם֙ מֵֽעֹולָ֔ם תֶּ֛רַח אֲבִ֥י אַבְרָהָ֖ם וַאֲבִ֣י נָחֹ֑ור וַיַּעַבְד֖וּ אֱלֹהִ֥ים אֲחֵרִֽים׃ (Josh. 24:2)
+NIV	Joshua said to all the people, “This is what the LORD, the God of Israel, says: ‘Long ago your forefathers, including Terah the father of Abraham and Nahor, _lived_ beyond the River and worshipped other gods.
+ESV	And Joshua said to all the people, “Thus says the Lord, the God of Israel, ‘Long ago, your fathers _lived_ beyond the Euphrates, Terah, the father of Abraham and of Nahor. and they served other gods.
+NBS	habitaient
+
+(x)	וְאִם֩ רַ֨ע בְּֽעֵינֵיכֶ֜ם לַעֲבֹ֣ד אֶת־יְהוָ֗ה בַּחֲר֨וּ לָכֶ֣ם הַיֹּום֮ אֶת־מִ֣י תַעֲבֹדוּן֒ אִ֣ם אֶת־אֱלֹהִ֞ים אֲשֶׁר־_עָבְד֣וּ_ אֲבֹותֵיכֶ֗ם אֲשֶׁר֙ מֵעֵ֣בֶר הַנָּהָ֔ר וְאִם֙ אֶת־אֱלֹהֵ֣י הָאֱמֹרִ֔י אֲשֶׁ֥ר אַתֶּ֖ם יֹשְׁבִ֣ים בְּאַרְצָ֑ם וְאָנֹכִ֣י וּבֵיתִ֔י נַעֲבֹ֖ד אֶת־יְהוָֽה׃ פ (Josh. 24:15)
+NIV	But if serving the LORD seems undesirable to you, then choose for yourselves this day whom you will serve, whether the gods your forefathers _served_ beyond the River, or the gods of the Amorites, in whose land you are living. But as for me and my household, we will serve the LORD.”
+ESV	And if it is evil in your eyes to serve the Lord, choose this day whom you will serve, whether the gods your fathers _served_ in the region beyond the River, or the gods of the Amorites in whose land you dwell. But as for me and my house, we will serve the Lord.”
+NBS	servaient
+
+(x)	וְגַם֙ כָּל־הַדֹּ֣ור הַה֔וּא נֶאֶסְפ֖וּ אֶל־אֲבֹותָ֑יו וַיָּקָם֩ דֹּ֨ור אַחֵ֜ר אַחֲרֵיהֶ֗ם אֲשֶׁ֤ר לֹא־_יָֽדְעוּ֙_ אֶת־יְהוָ֔ה וְגַם֙ אֶת־הַֽמַּעֲשֶׂ֔ה אֲשֶׁ֥ר עָשָׂ֖ה לְיִשְׂרָאֵֽל׃ ס (Judg. 2:10)
+NIV	After that whole generation had been gathered to their fathers, another generation grew up, who _knew_ neither the LORD nor what he had done for Israel.
+ESV	And all that generation also were gathered to their fathers. And there arose another generation after them who did not know the Lord or the work that he had done for Israel.
+NBS	connaissait
+
+(x)	בְּכֹ֣ל׀ אֲשֶׁ֣ר _יָצְא֗וּ_ יַד־יְהוָה֙ הָיְתָה־בָּ֣ם לְרָעָ֔ה כַּֽאֲשֶׁר֙ דִּבֶּ֣ר יְהוָ֔ה וְכַאֲשֶׁ֛ר נִשְׁבַּ֥ע יְהוָ֖ה לָהֶ֑ם וַיֵּ֥צֶר לָהֶ֖ם מְאֹֽד׃ (Judg. 2:15)
+NIV	Whenever Israel _went out_ to fight, the hand of the LORD was against them to defeat them, just as he had sworn to them. They were in great distress.
+ESV	Whenever _they marched out_, the hand of the Lord was against them for harm, as the Lord had warned, and as the Lord had sworn to them. And they were in terrible distress.
+NBS	ils se mettaient en campagne
+
+(x)	וְכִֽי־_הֵקִ֨ים_ יְהוָ֥ה׀ לָהֶם֮ שֹֽׁפְטִים֒ וְהָיָ֤ה יְהוָה֙ עִם־הַשֹּׁפֵ֔ט וְהֹֽושִׁיעָם֙ מִיַּ֣ד אֹֽיְבֵיהֶ֔ם כֹּ֖ל יְמֵ֣י הַשֹּׁופֵ֑ט כִּֽי־יִנָּחֵ֤ם יְהוָה֙ מִנַּֽאֲקָתָ֔ם מִפְּנֵ֥י לֹחֲצֵיהֶ֖ם וְדֹחֲקֵיהֶֽם׃ (Judg. 2:18)
+NIV	Whenever the LORD _raised up_ a judge for them, he was with the judge and saved them out of the hands of their enemies as long as the judge lived. for the LORD had compassion on them as they groaned under those who oppressed and afflicted them.
+ESV	Whenever the Lord _raised up_ judges for them, the Lord was with the judge, and he saved them from the hand of their enemies all the days of the judge. For the Lord was moved to pity by their groaning because of those who afflicted and oppressed them.
+NBS	suscitait
+
+(x)	וְהָיָ֣ה׀ בְּמֹ֣ות הַשֹּׁופֵ֗ט יָשֻׁ֨בוּ֙ וְהִשְׁחִ֣יתוּ מֵֽאֲבֹותָ֔ם לָלֶ֗כֶת אַֽחֲרֵי֙ אֱלֹהִ֣ים אֲחֵרִ֔ים לְעָבְדָ֖ם וּלְהִשְׁתַּחֲוֹ֣ת לָהֶ֑ם לֹ֤א _הִפִּ֨ילוּ֙_ מִמַּ֣עַלְלֵיהֶ֔ם וּמִדַּרְכָּ֖ם הַקָּשָֽׁה׃ (Judg. 2:19)
+NIV	But when the judge died, the people returned to ways even more corrupt than those of their fathers, following other gods and serving and worshipping them. _They refused to give up_ their evil practices and stubborn ways.
+ESV	But whenever the judge died, they turned back and were more corrupt than their fathers, going after other gods, serving them and bowing down to them. They did not drop any of their practices or their stubborn ways.
+NBS	ils laissaient
+
+(x)	וַיִּמְכְּרֵ֣ם יְהוָ֗ה בְּיַד֙ יָבִ֣ין מֶֽלֶךְ־כְּנַ֔עַן אֲשֶׁ֥ר _מָלַ֖ךְ_ בְּחָצֹ֑ור וְשַׂר־צְבָאֹו֙ סִֽיסְרָ֔א וְה֥וּא יֹושֵׁ֖ב בַּחֲרֹ֥שֶׁת הַגֹּויִֽם׃ (Judg. 4:2)
+NIV	So the LORD sold them into the hands of Jabin, a king of Canaan, who _reigned_ in Hazor. The commander of his army was Sisera, who lived in Harosheth Haggoyim.
+ESV	And the Lord sold them into the hand of Jabin king of Canaan, who _reigned_ in Hazor. The commander of his army was Sisera, who lived in Harosheth-hagoyim.
+NBS	régnait
+
+(x)	מַ֥יִם _שָׁאַ֖ל_ חָלָ֣ב נָתָ֑נָה בְּסֵ֥פֶל אַדִּירִ֖ים הִקְרִ֥יבָה חֶמְאָֽה׃ (Judg. 5:25)
+NIV	_He asked for_ water, and she gave him milk. in a bowl fit for nobles she brought him curdled milk.
+ESV	_He asked_ water and she gave him milk. she brought him curds in a noble’s bowl.
+NBS	demandait Il
+
+(x)	וַתָּ֥עָז יַד־מִדְיָ֖ן עַל־יִשְׂרָאֵ֑ל מִפְּנֵ֨י מִדְיָ֜ן _עָשֽׂוּ_ לָהֶ֣ם׀ בְּנֵ֣י יִשְׂרָאֵ֗ל אֶת־הַמִּנְהָרֹות֙ אֲשֶׁ֣ר בֶּֽהָרִ֔ים וְאֶת־הַמְּעָרֹ֖ות וְאֶת־הַמְּצָדֹֽות׃ (Judg. 6:2)
+NIV	Because the power of Midian was so oppressive, the Israelites _prepared_ shelters for themselves in mountain clefts, caves and strongholds.
+ESV	And the hand of Midian overpowered Israel, and because of Midian the people of Israel _made_ for themselves the dens that are in the mountains and the caves and the strongholds.
+NBS	aménagèrent
+
+(x)	וְעַתָּ֗ה קְרָ֨א נָ֜א בְּאָזְנֵ֤י הָעָם֙ לֵאמֹ֔ר מִֽי־יָרֵ֣א וְחָרֵ֔ד יָשֹׁ֥ב וְיִצְפֹּ֖ר מֵהַ֣ר הַגִּלְעָ֑ד וַיָּ֣שָׁב מִן־הָעָ֗ם עֶשְׂרִ֤ים וּשְׁנַ֨יִם֙ אֶ֔לֶף וַעֲשֶׂ֥רֶת אֲלָפִ֖ים _נִשְׁאָֽרוּ_׃ ס (Judg. 7:3)
+NIV	announce now to the people, ‘Anyone who trembles with fear may turn back and leave Mount Gilead.’” So twenty-two thousand men left, while ten thousand _remained_.
+ESV	Now therefore proclaim in the ears of the people, saying, ‘Whoever is fearful and trembling, let him return home and hurry away from Mount Gilead.’” Then 22,000 of the people returned, and 10,000 _remained_.
+NBS	il restait
+
+(x)	וַֽיִּלְכְּד֡וּ שְׁנֵֽי־שָׂרֵ֨י מִדְיָ֜ן אֶת־עֹרֵ֣ב וְאֶת־זְאֵ֗ב וַיַּהַרְג֨וּ אֶת־עֹורֵ֤ב בְּצוּר־עֹורֵב֙ וְאֶת־זְאֵב֙ הָרְג֣וּ בְיֶֽקֶב־זְאֵ֔ב וַֽיִּרְדְּפ֖וּ אֶל־מִדְיָ֑ן וְרֹאשׁ־עֹרֵ֣ב וּזְאֵ֔ב _הֵבִ֨יאוּ֙_ אֶל־גִּדְעֹ֔ון מֵעֵ֖בֶר לַיַּרְדֵּֽן׃ (Judg. 7:25)
+NIV	They also captured two of the Midianite leaders, Oreb and Zeeb. They killed Oreb at the rock of Oreb, and Zeeb at the winepress of Zeeb. They pursued the Midianites and _brought_ the heads of Oreb and Zeeb to Gideon, who was by the Jordan.
+ESV	And they captured the two princes of Midian, Oreb and Zeeb. They killed Oreb at the rock of Oreb, and Zeeb they killed at the winepress of Zeeb. Then they pursued Midian, and _they brought_ the heads of Oreb and Zeeb to Gideon across the Jordan.
+NBS	apportèrent
+
+(x)	וַיֹּ֨אמֶר֙ לְיֶ֣תֶר בְּכֹורֹ֔ו ק֖וּם הֲרֹ֣ג אֹותָ֑ם וְלֹא־שָׁלַ֨ף הַנַּ֤עַר חַרְבֹּו֙ כִּ֣י _יָרֵ֔א_ כִּ֥י עֹודֶ֖נּוּ נָֽעַר׃ (Judg. 8:20)
+NIV	Turning to Jether, his oldest son, he said, “Kill them!” But Jether did not draw his sword, because he was only a boy and _was afraid_.
+ESV	So he said to Jether his firstborn, “Rise and kill them!” But the young man did not draw his sword, for _he was afraid_, because he was still a young man.
+NBS	il avait peur
+
+(x)	וּלְגִדְעֹ֗ון הָיוּ֙ שִׁבְעִ֣ים בָּנִ֔ים יֹצְאֵ֖י יְרֵכֹ֑ו כִּֽי־נָשִׁ֥ים רַבֹּ֖ות _הָ֥יוּ_ לֹֽו׃ (Judg. 8:30)
+NIV	He had seventy sons of his own, for _he had_ many wives.
+ESV	Now Gideon _had_ seventy sons, his own offspring, for he _had_ many wives.
+NBS	il avait
+
+(x)	וּמִגְדַּל־עֹז֮ _הָיָ֣ה_ בְתֹוךְ־הָעִיר֒ וַיָּנֻ֨סוּ שָׁ֜מָּה כָּל־הָאֲנָשִׁ֣ים וְהַנָּשִׁ֗ים וְכֹל֙ בַּעֲלֵ֣י הָעִ֔יר וַֽיִּסְגְּר֖וּ בַּעֲדָ֑ם וַֽיַּעֲל֖וּ עַל־גַּ֥ג הַמִּגְדָּֽל׃ (Judg. 9:51)
+NIV	Inside the city, however, _was_ a strong tower, to which all the men and women — all the people of the city — fled. They locked themselves in and climbed up on the tower roof.
+ESV	But _there was_ a strong tower within the city, and all the men and women and all the leaders of the city fled to it and shut themselves in, and they went up to the roof of the tower.
+NBS	Il avait
+
+(x)	וַיְהִי֩ אִ֨ישׁ אֶחָ֧ד מִצָּרְעָ֛ה מִמִּשְׁפַּ֥חַת הַדָּנִ֖י וּשְׁמֹ֣ו מָנֹ֑וחַ וְאִשְׁתֹּ֥ו עֲקָרָ֖ה וְלֹ֥א _יָלָֽדָה_׃ (Judg. 13:2)
+NIV	A certain man of Zorah, named Manoah, from the clan of the Danites, had a wife who was sterile and _remained childless_.
+ESV	There was a certain man of Zorah, of the tribe of the Danites, whose name was Manoah. And his wife was barren and had no children.
+NBS	elle avait eu enfant d
+
+(x)	וַיֹּאמֶר֩ מַלְאַ֨ךְ יְהוָ֜ה אֶל־מָנֹ֗וחַ אִם־תַּעְצְרֵ֨נִי֙ לֹא־אֹכַ֣ל בְּלַחְמֶ֔ךָ וְאִם־תַּעֲשֶׂ֣ה עֹלָ֔ה לַיהוָ֖ה תַּעֲלֶ֑נָּה כִּ֚י לֹא־_יָדַ֣ע_ מָנֹ֔וחַ כִּֽי־מַלְאַ֥ךְ יְהוָ֖ה הֽוּא׃ (Judg. 13:16)
+NIV	The angel of the LORD replied, “Even though you detain me, I will not eat any of your food. But if you prepare a burnt offering, offer it to the LORD.” ( Manoah did not realise that it was the angel of the LORD. )
+ESV	And the angel of the Lord said to Manoah, “If you detain me, I will not eat of your food. But if you prepare a burnt offering, then offer it to the Lord.” ( For Manoah did not know that he was the angel of the Lord. )
+NBS	savait
+
+(x)	וְאָבִ֨יו וְאִמֹּ֜ו לֹ֣א _יָדְע֗וּ_ כִּ֤י מֵיְהוָה֙ הִ֔יא כִּי־תֹאֲנָ֥ה הֽוּא־מְבַקֵּ֖שׁ מִפְּלִשְׁתִּ֑ים וּבָעֵ֣ת הַהִ֔יא פְּלִשְׁתִּ֖ים מֹשְׁלִ֥ים בְּיִשְׂרָאֵֽל׃ פ (Judg. 14:4)
+NIV	( His parents did not know that this was from the LORD, who was seeking an occasion to confront the Philistines. for at that time they were ruling over Israel. )
+ESV	His father and mother did not know that it was from the Lord, for he was seeking an opportunity against the Philistines. At that time the Philistines ruled over Israel.
+NBS	savaient
+
+(x)	וַתֹּ֕אמֶר פְּלִשְׁתִּ֥ים עָלֶ֖יךָ שִׁמְשֹׁ֑ון וַיִּקַ֣ץ מִשְּׁנָתֹ֗ו וַיֹּ֨אמֶר֙ אֵצֵ֞א כְּפַ֤עַם בְּפַ֨עַם֙ וְאִנָּעֵ֔ר וְהוּא֙ לֹ֣א _יָדַ֔ע_ כִּ֥י יְהוָ֖ה סָ֥ר מֵעָלָֽיו׃ (Judg. 16:20)
+NIV	Then she called, “Samson, the Philistines are upon you!” He awoke from his sleep and thought, “I’ll go out as before and shake myself free.” But he did not know that the LORD had left him.
+ESV	And she said, “The Philistines are upon you, Samson!” And he awoke from his sleep and said, “I will go out as at other times and shake myself free.” But he did not know that the Lord had left him.
+NBS	il savait
+
+(x)	הֵ֥מָּה הִרְחִ֖יקוּ מִבֵּ֣ית מִיכָ֑ה וְהָאֲנָשִׁ֗ים אֲשֶׁ֤ר בַּבָּתִּים֙ אֲשֶׁר֙ עִם־בֵּ֣ית מִיכָ֔ה _נִֽזְעֲק֔וּ_ וַיַּדְבִּ֖יקוּ אֶת־בְּנֵי־דָֽן׃ (Judg. 18:22)
+NIV	When they had gone some distance from Micah’s house, the men who lived near Micah _were called together_ and overtook the Danites.
+ESV	When they had gone a distance from the home of Micah, the men who were in the houses near Micah’s house _were called out_, and they overtook the people of Dan.
+NBS	s appelèrent les uns les autres
+
+(x)	הֵמָּה֮ מֵיטִיבִ֣ים אֶת־לִבָּם֒ וְהִנֵּה֩ אַנְשֵׁ֨י הָעִ֜יר אַנְשֵׁ֣י בְנֵֽי־בְלִיַּ֗עַל _נָסַ֨בּוּ֙_ אֶת־הַבַּ֔יִת מִֽתְדַּפְּקִ֖ים עַל־הַדָּ֑לֶת וַיֹּאמְר֗וּ אֶל־הָ֠אִישׁ בַּ֣עַל הַבַּ֤יִת הַזָּקֵן֙ לֵאמֹ֔ר הֹוצֵ֗א אֶת־הָאִ֛ישׁ אֲשֶׁר־בָּ֥א אֶל־בֵּיתְךָ֖ וְנֵדָעֶֽנּוּ׃ (Judg. 19:22)
+NIV	While they were enjoying themselves, some of the wicked men of the city _surrounded_ the house. Pounding on the door, they shouted to the old man who owned the house, “Bring out the man who came to your house so we can have sex with him.”
+ESV	As they were making their hearts merry, behold, the men of the city, worthless fellows, _surrounded_ the house, beating on the door. And they said to the old man, the master of the house, “Bring out the man who came into your house, that we may know him.”
+NBS	entourèrent
+
+(x)	וַיָּבֹאוּ֩ מִנֶּ֨גֶד לַגִּבְעָ֜ה עֲשֶׂרֶת֩ אֲלָפִ֨ים אִ֤ישׁ בָּחוּר֙ מִכָּל־יִשְׂרָאֵ֔ל וְהַמִּלְחָמָ֖ה כָּבֵ֑דָה וְהֵם֙ לֹ֣א _יָדְע֔וּ_ כִּֽי־נֹגַ֥עַת עֲלֵיהֶ֖ם הָרָעָֽה׃ פ (Judg. 20:34)
+NIV	Then ten thousand of Israel’s finest men made a frontal attack on Gibeah. The fighting was so heavy that the Benjamites did not realise how near disaster was.
+ESV	And there came against Gibeah 10,000 chosen men out of all Israel, and the battle was hard, but the Benjaminites did not know that disaster was close upon them.
+NBS	se doutaient
+
+(x)	וַיִּרְא֥וּ בְנֵֽי־בִנְיָמִ֖ן כִּ֣י נִגָּ֑פוּ וַיִּתְּנ֨וּ אִֽישׁ־יִשְׂרָאֵ֤ל מָקֹום֙ לְבִנְיָמִ֔ן כִּ֤י _בָֽטְחוּ֙_ אֶל־הָ֣אֹרֵ֔ב אֲשֶׁר שָׂ֖מוּ אֶל־הַגִּבְעָֽה׃ (Judg. 20:36)
+NIV	Then the Benjamites saw that they were beaten. Now the men of Israel had given way before Benjamin, because _they relied_ on the ambush they had set near Gibeah.
+ESV	So the people of Benjamin saw that they were defeated. The men of Israel gave ground to Benjamin, because _they trusted_ the men in ambush whom they had set against Gibeah.
+NBS	comptaient
+
+(x)	וְהַמַּשְׂאֵ֗ת _הֵחֵ֛לָּה_ לַעֲלֹ֥ות מִן־הָעִ֖יר עַמּ֣וּד עָשָׁ֑ן וַיִּ֤פֶן בִּנְיָמִן֙ אַחֲרָ֔יו וְהִנֵּ֛ה עָלָ֥ה כְלִיל־הָעִ֖יר הַשָּׁמָֽיְמָה׃ (Judg. 20:40)
+NIV	But when the column of smoke _began_ to rise from the city, the Benjamites turned and saw the smoke of the whole city going up into the sky.
+ESV	But when the signal _began_ to rise out of the city in a column of smoke, the Benjaminites looked behind them, and behold, the whole of the city went up in smoke to heaven.
+NBS	commençait
+
+(x)	וּלְחַנָּ֕ה יִתֵּ֛ן מָנָ֥ה אַחַ֖ת אַפָּ֑יִם כִּ֤י אֶת־חַנָּה֙ _אָהֵ֔ב_ וַֽיהוָ֖ה סָגַ֥ר רַחְמָֽהּ׃ (I Sam. 1:5)
+NIV	But to Hannah he gave a double portion because _he loved_ her, and the LORD had closed her womb.
+ESV	But to Hannah he gave a double portion, because _he loved_ her, though the Lord had closed her womb.
+NBS	aimait il
+
+(x)	וְהָיָה֙ כִּ֣י _הִרְבְּתָ֔ה_ לְהִתְפַּלֵּ֖ל לִפְנֵ֣י יְהוָ֑ה וְעֵלִ֖י שֹׁמֵ֥ר אֶת־פִּֽיהָ׃ (I Sam. 1:12)
+NIV	As _she kept on_ praying to the LORD, Eli observed her mouth.
+ESV	As _she continued_ praying before the Lord, Eli observed her mouth.
+NBS	se prolongeait
+
+(x)	אֶל־הַנַּ֥עַר הַזֶּ֖ה _הִתְפַּלָּ֑לְתִּי_ וַיִּתֵּ֨ן יְהוָ֥ה לִי֙ אֶת־שְׁאֵ֣לָתִ֔י אֲשֶׁ֥ר שָׁאַ֖לְתִּי מֵעִמֹּֽו׃ (I Sam. 1:27)
+NIV	_I prayed_ for this child, and the LORD has granted me what I asked of him.
+ESV	For this child _I prayed_, and the Lord has granted me my petition that I made to him.
+NBS	priais je
+
+(x)	אֶל־הַנַּ֥עַר הַזֶּ֖ה הִתְפַּלָּ֑לְתִּי וַיִּתֵּ֨ן יְהוָ֥ה לִי֙ אֶת־שְׁאֵ֣לָתִ֔י אֲשֶׁ֥ר _שָׁאַ֖לְתִּי_ מֵעִמֹּֽו׃ (I Sam. 1:27)
+NIV	I prayed for this child, and the LORD has granted me what _I asked_ of him.
+ESV	For this child I prayed, and the Lord has granted me my petition that _I made_ to him.
+NBS	je demandais
+
+(x)	וּבְנֵ֥י עֵלִ֖י בְּנֵ֣י בְלִיָּ֑עַל לֹ֥א _יָדְע֖וּ_ אֶת־יְהוָֽה׃ (I Sam. 2:12)
+NIV	Eli’s sons were wicked men. they had no regard for the LORD.
+ESV	Now the sons of Eli were worthless men. They did not know the Lord.
+NBS	ils connaissaient
+
+(x)	אִם־יֶחֱטָ֨א אִ֤ישׁ לְאִישׁ֙ וּפִֽלְלֹ֣ו אֱלֹהִ֔ים וְאִ֤ם לַֽיהוָה֙ יֶֽחֱטָא־אִ֔ישׁ מִ֖י יִתְפַּלֶּל־לֹ֑ו וְלֹ֤א יִשְׁמְעוּ֙ לְקֹ֣ול אֲבִיהֶ֔ם כִּֽי־_חָפֵ֥ץ_ יְהוָ֖ה לַהֲמִיתָֽם׃ (I Sam. 2:25)
+NIV	If a man sins against another man, God may mediate for him. but if a man sins against the LORD, who will intercede for him?” His sons, however, did not listen to their father’s rebuke, for it was the LORD’s will to put them to death.
+ESV	If someone sins against a man, God will mediate for him, but if someone sins against the Lord, who can intercede for him?” But they would not listen to the voice of their father, for _it was the will_ of the Lord to put them to death.
+NBS	voulait
+
+(x)	וּשְׁמוּאֵ֕ל טֶ֖רֶם _יָדַ֣ע_ אֶת־יְהוָ֑ה וְטֶ֛רֶם יִגָּלֶ֥ה אֵלָ֖יו דְּבַר־יְהוָֽה׃ (I Sam. 3:7)
+NIV	Now Samuel did not yet know the LORD: The word of the LORD had not yet been revealed to him.
+ESV	Now Samuel did not yet know the Lord, and the word of the Lord had not yet been revealed to him.
+NBS	connaissait
+
+(x)	וַיֹּ֥סֶף יְהוָ֖ה לְהֵרָאֹ֣ה בְשִׁלֹ֑ה כִּֽי־_נִגְלָ֨ה_ יְהוָ֧ה אֶל־שְׁמוּאֵ֛ל בְּשִׁלֹ֖ו בִּדְבַ֥ר יְהוָֽה׃ פ (I Sam. 3:21)
+NIV	The LORD continued to appear at Shiloh, and there he _revealed himself_ to Samuel through his word.
+ESV	And the Lord appeared again at Shiloh, for the Lord _revealed himself_ to Samuel at Shiloh by the word of the Lord.
+NBS	révélait
+
+(x)	וַיַּשְׁכִּ֣מוּ בַבֹּקֶר֮ מִֽמָּחֳרָת֒ וְהִנֵּ֣ה דָגֹ֗ון נֹפֵ֤ל לְפָנָיו֙ אַ֔רְצָה לִפְנֵ֖י אֲרֹ֣ון יְהוָ֑ה וְרֹ֨אשׁ דָּגֹ֜ון וּשְׁתֵּ֣י׀ כַּפֹּ֣ות יָדָ֗יו כְּרֻתֹות֙ אֶל־הַמִּפְתָּ֔ן רַ֥ק דָּגֹ֖ון _נִשְׁאַ֥ר_ עָלָֽיו׃ (I Sam. 5:4)
+NIV	But the following morning when they rose, there was Dagon, fallen on his face on the ground before the ark of the LORD! His head and hands had been broken off and were lying on the threshold. only his body _remained_.
+ESV	But when they rose early on the next morning, behold, Dagon had fallen face downward on the ground before the ark of the Lord, and the head of Dagon and both his hands were lying cut off on the threshold. Only the trunk of Dagon _was left_ to him.
+NBS	il restait
+
+(x)	וַיִּשְׁלְח֨וּ וַיַּאַסְפ֜וּ אֶת־כָּל־סַרְנֵ֣י פְלִשְׁתִּ֗ים וַיֹּֽאמְרוּ֙ שַׁלְּח֞וּ אֶת־אֲרֹ֨ון אֱלֹהֵ֤י יִשְׂרָאֵל֙ וְיָשֹׁ֣ב לִמְקֹמֹ֔ו וְלֹֽא־יָמִ֥ית אֹתִ֖י וְאֶת־עַמִּ֑י כִּֽי־הָיְתָ֤ה מְהֽוּמַת־מָ֨וֶת֙ בְּכָל־הָעִ֔יר _כָּבְדָ֥ה_ מְאֹ֛ד יַ֥ד הָאֱלֹהִ֖ים שָֽׁם׃ (I Sam. 5:11)
+NIV	So they called together all the rulers of the Philistines and said, “Send the ark of the god of Israel away. let it go back to its own place, or it will kill us and our people.” For death had filled the city with panic. God’s hand was very heavy upon it.
+ESV	They sent therefore and gathered together all the lords of the Philistines and said, “Send away the ark of the God of Israel, and let it return to its own place, that it may not kill us and our people.” For there was a deathly panic throughout the whole city. The hand of God was very heavy there.
+NBS	faisait pesante s
+
+(x)	וְהָֽאֲנָשִׁים֙ אֲשֶׁ֣ר לֹא־_מֵ֔תוּ_ הֻכּ֖וּ בַּטְּחֹרִ֑ים וַתַּ֛עַל שַֽׁוְעַ֥ת הָעִ֖יר הַשָּׁמָֽיִם׃ (I Sam. 5:12)
+NIV	Those who did not die were afflicted with tumours, and the outcry of the city went up to heaven.
+ESV	The men who did not die were struck with tumors, and the cry of the city went up to heaven.
+NBS	mouraient
+
+(x)	וַיֹּ֣וחֶל ׀ שִׁבְעַ֣ת יָמִ֗ים לַמֹּועֵד֙ אֲשֶׁ֣ר שְׁמוּאֵ֔ל וְלֹא־_בָ֥א_ שְׁמוּאֵ֖ל הַגִּלְגָּ֑ל וַיָּ֥פֶץ הָעָ֖ם מֵעָלָֽיו׃ (I Sam. 13:8)
+NIV	He waited for seven days, the time set by Samuel. but Samuel did not come to Gilgal, and Saul’s men began to scatter.
+ESV	He waited seven days, the time appointed by Samuel. But Samuel did not come to Gilgal, and the people were scattering from him.
+NBS	arrivait
+
+(x)	וַיֹּ֥אמֶר שְׁמוּאֵ֖ל מֶ֣ה עָשִׂ֑יתָ וַיֹּ֣אמֶר שָׁא֡וּל כִּֽי־רָאִיתִי֩ כִֽי־נָפַ֨ץ הָעָ֜ם מֵעָלַ֗י וְאַתָּה֙ לֹא־_בָ֨אתָ֙_ לְמֹועֵ֣ד הַיָּמִ֔ים וּפְלִשְׁתִּ֖ים נֶאֱסָפִ֥ים מִכְמָֽשׂ׃ (I Sam. 13:11)
+NIV	“What have you done?” asked Samuel. Saul replied, “When I saw that the men were scattering, and that you did not come at the set time, and that the Philistines were assembling at Michmash,
+ESV	Samuel said, “What have you done?” And Saul said, “When I saw that the people were scattering from me, and that you did not come within the days appointed, and that the Philistines had mustered at Michmash,
+NBS	tu arrivais
+
+(x)	וַאֲחִיָּ֣ה בֶן־אֲחִט֡וּב אֲחִ֡י אִיכָבֹ֣וד׀ בֶּן־פִּינְחָ֨ס בֶּן־עֵלִ֜י כֹּהֵ֧ן׀ יְהוָ֛ה בְּשִׁלֹ֖ו נֹשֵׂ֣א אֵפֹ֑וד וְהָעָם֙ לֹ֣א _יָדַ֔ע_ כִּ֥י הָלַ֖ךְ יֹונָתָֽן׃ (I Sam. 14:3)
+NIV	among whom was Ahijah, who was wearing an ephod. He was a son of Ichabod’s brother Ahitub son of Phinehas, the son of Eli, the LORD’s priest in Shiloh. No-one _was aware_ that Jonathan had left.
+ESV	including Ahijah the son of Ahitub, Ichabod’s brother, son of Phinehas, son of Eli, the priest of the Lord in Shiloh, wearing an ephod. And the people did not know that Jonathan had gone.
+NBS	savait
+
+(x)	וּבֵ֣ין הַֽמַּעְבְּרֹ֗ות אֲשֶׁ֨ר _בִּקֵּ֤שׁ_ יֹֽונָתָן֙ לַֽעֲבֹר֙ עַל־מַצַּ֣ב פְּלִשְׁתִּ֔ים שֵׁן־הַסֶּ֤לַע מֵהָעֵ֨בֶר֙ מִזֶּ֔ה וְשֵׁן־הַסֶּ֥לַע מֵהָעֵ֖בֶר מִזֶּ֑ה וְשֵׁ֤ם הָֽאֶחָד֙ בֹּוצֵ֔ץ וְשֵׁ֥ם הָאֶחָ֖ד סֶֽנֶּה׃ (I Sam. 14:4)
+NIV	On each side of the pass that Jonathan _intended_ to cross to reach the Philistine outpost was a cliff. one was called Bozez, and the other Seneh.
+ESV	Within the passes, by which Jonathan _sought_ to go over to the Philistine garrison, there was a rocky crag on the one side and a rocky crag on the other side. The name of the one was Bozez, and the name of the other Seneh.
+NBS	cherchait
+
+(x)	וַיָּבֹ֤א הָעָם֙ אֶל־הַיַּ֔עַר וְהִנֵּ֖ה הֵ֣לֶךְ דְּבָ֑שׁ וְאֵין־מַשִּׂ֤יג יָדֹו֙ אֶל־פִּ֔יו כִּֽי־_יָרֵ֥א_ הָעָ֖ם אֶת־הַשְּׁבֻעָֽה׃ (I Sam. 14:26)
+NIV	When they went into the woods, they saw the honey oozing out, yet no-one put his hand to his mouth, because they _feared_ the oath.
+ESV	And when the people entered the forest, behold, the honey was dropping, but no one put his hand to his mouth, for the people _feared_ the oath.
+NBS	respectait
+
+(x)	וַיֹּ֨אמֶר שָׁא֤וּל אֶל־שְׁמוּאֵל֙ חָטָ֔אתִי כִּֽי־עָבַ֥רְתִּי אֶת־פִּֽי־יְהוָ֖ה וְאֶת־דְּבָרֶ֑יךָ כִּ֤י _יָרֵ֨אתִי֙_ אֶת־הָעָ֔ם וָאֶשְׁמַ֖ע בְּקֹולָֽם׃ (I Sam. 15:24)
+NIV	Then Saul said to Samuel, “I have sinned. I violated the LORD’s command and your instructions. _I was afraid_ of the people and so I gave in to them.
+ESV	Saul said to Samuel, “I have sinned, for I have transgressed the commandment of the Lord and your words, because _I feared_ the people and obeyed their voice.
+NBS	craignais je
+
+(x)	וְלֹא־יָסַ֨ף שְׁמוּאֵ֜ל לִרְאֹ֤ות אֶת־שָׁאוּל֙ עַד־יֹ֣ום מֹותֹ֔ו כִּֽי־_הִתְאַבֵּ֥ל_ שְׁמוּאֵ֖ל אֶל־שָׁא֑וּל וַיהוָ֣ה נִחָ֔ם כִּֽי־הִמְלִ֥יךְ אֶת־שָׁא֖וּל עַל־יִשְׂרָאֵֽל׃ פ (I Sam. 15:35)
+NIV	Until the day Samuel died, he did not go to see Saul again, though Samuel _mourned_ for him. And the LORD was grieved that he had made Saul king over Israel.
+ESV	And Samuel did not see Saul again until the day of his death, but Samuel _grieved_ over Saul. And the Lord regretted that he had made Saul king over Israel.
+NBS	menait deuil
+
+(x)	וַיְּשָּֽׁמְעוּ֙ הַדְּבָרִ֔ים אֲשֶׁ֖ר _דִּבֶּ֣ר_ דָּוִ֑ד וַיַּגִּ֥דוּ לִפְנֵֽי־שָׁא֖וּל וַיִּקָּחֵֽהוּ׃ (I Sam. 17:31)
+NIV	What David _said_ was overheard and reported to Saul, and Saul sent for him.
+ESV	When the words that David _spoke_ were heard, they repeated them before Saul, and he sent for him.
+NBS	disait
+
+(x)	וַיַּ֤רְא שָׁאוּל֙ וַיֵּ֔דַע כִּ֥י יְהוָ֖ה עִם־דָּוִ֑ד וּמִיכַ֥ל בַּת־שָׁא֖וּל _אֲהֵבַֽתְהוּ_׃ (I Sam. 18:28)
+NIV	When Saul realised that the LORD was with David and that his daughter Michal _loved_ David,
+ESV	But when Saul saw and knew that the Lord was with David, and that Michal, Saul’s daughter, _loved_ him,
+NBS	elle aimait David
+
+(x)	וַיֵּצְא֖וּ שָׂרֵ֣י פְלִשְׁתִּ֑ים וַיְהִ֣י׀ מִדֵּ֣י צֵאתָ֗ם _שָׂכַ֤ל_ דָּוִד֙ מִכֹּל֙ עַבְדֵ֣י שָׁא֔וּל וַיִּיקַ֥ר שְׁמֹ֖ו מְאֹֽד׃ ס (I Sam. 18:30)
+NIV	The Philistine commanders continued to go out to battle, and as often as they did, David met with more success than the rest of Saul’s officers, and his name became well known.
+ESV	Then the princes of the Philistines came out to battle, and as often as they came out David had more success than all the servants of Saul, so that his name was highly esteemed.
+NBS	réussissait
+
+(x)	וַיְדַבֵּ֣ר שָׁא֗וּל אֶל־יֹונָתָ֤ן בְּנֹו֙ וְאֶל־כָּל־עֲבָדָ֔יו לְהָמִ֖ית אֶת־דָּוִ֑ד וִיהֹֽונָתָן֙ בֶּן־שָׁא֔וּל _חָפֵ֥ץ_ בְּדָוִ֖ד מְאֹֽד׃ (I Sam. 19:1)
+NIV	Saul told his son Jonathan and all the attendants to kill David. But Jonathan was very fond of David
+ESV	And Saul spoke to Jonathan his son and to all his servants, that they should kill David. But Jonathan, Saul’s son, _delighted_ much in David.
+NBS	plaisait
+
+(x)	וַיֹּ֤וסֶף יְהֹֽונָתָן֙ לְהַשְׁבִּ֣יעַ אֶת־דָּוִ֔ד בְּאַהֲבָתֹ֖ו אֹתֹ֑ו כִּֽי־אַהֲבַ֥ת נַפְשֹׁ֖ו _אֲהֵבֹֽו_׃ ס (I Sam. 20:17)
+NIV	And Jonathan made David reaffirm his oath out of love for him, because _he loved_ him as _he loved_ himself.
+ESV	And Jonathan made David swear again by his love for him, for _he loved_ him as _he loved_ his own soul.
+NBS	l aimait
+
+(x)	וַיָּ֧קָם יְהֹונָתָ֛ן מֵעִ֥ם הַשֻּׁלְחָ֖ן בָּחֳרִי־אָ֑ף וְלֹא־אָכַ֞ל בְּיֹום־הַחֹ֤דֶשׁ הַשֵּׁנִי֙ לֶ֔חֶם כִּ֤י _נֶעְצַב֙_ אֶל־דָּוִ֔ד כִּ֥י הִכְלִמֹ֖ו אָבִֽיו׃ ס (I Sam. 20:34)
+NIV	Jonathan got up from the table in fierce anger. on that second day of the month he did not eat, because _he was grieved_ at his father’s shameful treatment of David.
+ESV	And Jonathan rose from the table in fierce anger and ate no food the second day of the month, for _he was grieved_ for David, because his father had disgraced him.
+NBS	il avait de la peine
+
+(x)	וְהַנַּ֖עַר לֹֽא־_יָדַ֣ע_ מְא֑וּמָה אַ֤ךְ יְהֹֽונָתָן֙ וְדָוִ֔ד יָדְע֖וּ אֶת־הַדָּבָֽר׃ (I Sam. 20:39)
+NIV	( The boy _knew_ nothing of all this. only Jonathan and David _knew_. )
+ESV	But the boy _knew_ nothing. Only Jonathan and David _knew_ the matter.
+NBS	savait
+
+(x)	וְהַנַּ֖עַר לֹֽא־יָדַ֣ע מְא֑וּמָה אַ֤ךְ יְהֹֽונָתָן֙ וְדָוִ֔ד _יָדְע֖וּ_ אֶת־הַדָּבָֽר׃ (I Sam. 20:39)
+NIV	( The boy _knew_ nothing of all this. only Jonathan and David _knew_. )
+ESV	But the boy _knew_ nothing. Only Jonathan and David _knew_ the matter.
+NBS	savaient
+
+(x)	וַיִּתֶּן־לֹ֥ו הַכֹּהֵ֖ן קֹ֑דֶשׁ כִּי֩ לֹא־_הָ֨יָה_ שָׁ֜ם לֶ֗חֶם כִּֽי־אִם־לֶ֤חֶם הַפָּנִים֙ הַמּֽוּסָרִים֙ מִלִּפְנֵ֣י יְהוָ֔ה לָשׂוּם֙ לֶ֣חֶם חֹ֔ם בְּיֹ֖ום הִלָּקְחֹֽו׃ (I Sam. 21:7)
+NIV	So the priest gave him the consecrated bread, since _there was_ no bread there except the bread of the Presence that had been removed from before the LORD and replaced by hot bread on the day it was taken away.
+ESV	So the priest gave him the holy bread, for _there was_ no bread there but the bread of the Presence, which is removed from before the Lord, to be replaced by hot bread on the day it is taken away.
+NBS	il n avait pas
+
+(x)	וַיִּשָּׁבַ֥ע דָּוִ֖ד לְשָׁא֑וּל וַיֵּ֤לֶךְ שָׁאוּל֙ אֶל־בֵּיתֹ֔ו וְדָוִד֙ וַֽאֲנָשָׁ֔יו _עָל֖וּ_ עַל־הַמְּצוּדָֽה׃ פ (I Sam. 24:23)
+NIV	So David gave his oath to Saul. Then Saul returned home, but David and his men _went up_ to the stronghold.
+ESV	And David swore this to Saul. Then Saul went home, but David and his men _went up_ to the stronghold.
+NBS	remontèrent
+
+(x)	וַיְמַהֵ֣ר שָׁא֗וּל וַיִּפֹּ֤ל מְלֹא־קֹֽומָתֹו֙ אַ֔רְצָה וַיִּרָ֥א מְאֹ֖ד מִדִּבְרֵ֣י שְׁמוּאֵ֑ל גַּם־כֹּ֨חַ֙ לֹא־_הָ֣יָה_ בֹ֔ו כִּ֣י לֹ֤א אָכַל֙ לֶ֔חֶם כָּל־הַיֹּ֖ום וְכָל־הַלָּֽיְלָה׃ (I Sam. 28:20)
+NIV	Immediately Saul fell full length on the ground, filled with fear because of Samuel’s words. His strength _was gone_, for he had eaten nothing all that day and night.
+ESV	Then Saul fell at once full length on the ground, filled with fear because of the words of Samuel. And _there was_ no strength in him, for he had eaten nothing all day and all night.
+NBS	il manquait
+
+(x)	וַיִּקַּ֣ח דָּוִ֔ד אֶת־כָּל־הַצֹּ֖אן וְהַבָּקָ֑ר _נָהֲג֗וּ_ לִפְנֵי֙ הַמִּקְנֶ֣ה הַה֔וּא וַיֹּ֣אמְר֔וּ זֶ֖ה שְׁלַ֥ל דָּוִֽד׃ (I Sam. 30:20)
+NIV	He took all the flocks and herds, and his men _drove_ them ahead of the other livestock, saying, “This is David’s plunder.”
+ESV	David also captured all the flocks and herds, and _the people drove_ the livestock before him, and said, “This is David’s spoil.”
+NBS	ceux qui conduisaient
+
+(x)	וַיָּשִׂ֨מוּ֙ אֶת־כֵּלָ֔יו בֵּ֖ית עַשְׁתָּרֹ֑ות וְאֶת־גְּוִיָּתֹו֙ _תָּקְע֔וּ_ בְּחֹומַ֖ת בֵּ֥ית שָֽׁן׃ (I Sam. 31:10)
+NIV	They put his armour in the temple of the Ashtoreths and _fastened_ his body to the wall of Beth Shan.
+ESV	They put his armor in the temple of Ashtaroth, and _they fastened_ his body to the wall of Beth-shan.
+NBS	ils clouèrent
+
+(x)	מִדַּ֣ם חֲלָלִ֗ים מֵחֵ֨לֶב֙ גִּבֹּורִ֔ים קֶ֚שֶׁת יְהֹ֣ונָתָ֔ן לֹ֥א _נָשֹׂ֖וג_ אָחֹ֑ור וְחֶ֣רֶב שָׁא֔וּל לֹ֥א תָשׁ֖וּב רֵיקָֽם׃ (II Sam. 1:22)
+NIV	From the blood of the slain, from the flesh of the mighty, the bow of Jonathan did not turn back, the sword of Saul did not return unsatisfied.
+ESV	“From the blood of the slain, from the fat of the mighty, the bow of Jonathan _turned_ not back, and the sword of Saul re_turned_ not empty.
+NBS	reculait
+
+(x)	שָׁא֣וּל וִיהֹונָתָ֗ן הַנֶּאֱהָבִ֤ים וְהַנְּעִימִם֙ בְּחַיֵּיהֶ֔ם וּבְמֹותָ֖ם לֹ֣א נִפְרָ֑דוּ מִנְּשָׁרִ֣ים _קַ֔לּוּ_ מֵאֲרָיֹ֖ות גָּבֵֽרוּ׃ (II Sam. 1:23)
+NIV	“Saul and Jonathan — in life they were loved and gracious, and in death they were not parted. _They were swifter_ than eagles, they were stronger than lions.
+ESV	“Saul and Jonathan, beloved and lovely! In life and in death they were not divided. _they were swifter_ than eagles. they were stronger than lions.
+NBS	ils étaient plus rapides
+
+(x)	שָׁא֣וּל וִיהֹונָתָ֗ן הַנֶּאֱהָבִ֤ים וְהַנְּעִימִם֙ בְּחַיֵּיהֶ֔ם וּבְמֹותָ֖ם לֹ֣א נִפְרָ֑דוּ מִנְּשָׁרִ֣ים קַ֔לּוּ מֵאֲרָיֹ֖ות _גָּבֵֽרוּ_׃ (II Sam. 1:23)
+NIV	“Saul and Jonathan — in life they were loved and gracious, and in death they were not parted. They were swifter than eagles, _they were stronger_ than lions.
+ESV	“Saul and Jonathan, beloved and lovely! In life and in death they were not divided. they were swifter than eagles. _they were stronger_ than lions.
+NBS	ils étaient plus forts
+
+(x)	בֶּן־אַרְבָּעִ֨ים שָׁנָ֜ה אִֽישׁ־בֹּ֣שֶׁת בֶּן־שָׁא֗וּל בְּמָלְכֹו֙ עַל־יִשְׂרָאֵ֔ל וּשְׁתַּ֥יִם שָׁנִ֖ים מָלָ֑ךְ אַ֚ךְ בֵּ֣ית יְהוּדָ֔ה _הָי֖וּ_ אַחֲרֵ֥י דָוִֽד׃ (II Sam. 2:10)
+NIV	Ish-bosheth son of Saul was forty years old when he became king over Israel, and he reigned two years. The house of Judah, however, _followed_ David.
+ESV	Ish-bosheth, Saul’s son, was forty years old when he began to reign over Israel, and he reigned two years. But the house of Judah _followed_ David.
+NBS	avait suivi
+
+(x)	וַֽיִּרְדְּפ֛וּ יֹואָ֥ב וַאֲבִישַׁ֖י אַחֲרֵ֣י אַבְנֵ֑ר וְהַשֶּׁ֣מֶשׁ בָּ֔אָה וְהֵ֗מָּה _בָּ֚אוּ_ עַד־גִּבְעַ֣ת אַמָּ֔ה אֲשֶׁר֙ עַל־פְּנֵי־גִ֔יחַ דֶּ֖רֶךְ מִדְבַּ֥ר גִּבְעֹֽון׃ (II Sam. 2:24)
+NIV	But Joab and Abishai pursued Abner, and as the sun was setting, they _came_ to the hill of Ammah, near Giah on the way to the wasteland of Gibeon.
+ESV	But Joab and Abishai pursued Abner. And as the sun was going down they _came_ to the hill of Ammah, which lies before Giah on the way to the wilderness of Gibeon.
+NBS	ils arrivèrent
+
+(x)	וְהִנֵּה֩ עַבְדֵ֨י דָוִ֤ד וְיֹואָב֙ _בָּ֣א_ מֵֽהַגְּד֔וּד וְשָׁלָ֥ל רָ֖ב עִמָּ֣ם הֵבִ֑יאוּ וְאַבְנֵ֗ר אֵינֶ֤נּוּ עִם־דָּוִד֙ בְּחֶבְרֹ֔ון כִּ֥י שִׁלְּחֹ֖ו וַיֵּ֥לֶךְ בְּשָׁלֹֽום׃ (II Sam. 3:22)
+NIV	Just then David’s men and Joab _returned_ from a raid and brought with them a great deal of plunder. But Abner was no longer with David in Hebron, because David had sent him away, and he had gone in peace.
+ESV	Just then the servants of David _arrived_ with Joab from a raid, bringing much spoil with them. But Abner was not with David at Hebron, for he had sent him away, and he had gone in peace.
+NBS	revenaient
+
+(x)	וְיֹואָ֛ב וְכָל־הַצָּבָ֥א אֲשֶׁר־אִתֹּ֖ו _בָּ֑אוּ_ וַיַּגִּ֤דוּ לְיֹואָב֙ לֵאמֹ֔ר בָּֽא־אַבְנֵ֤ר בֶּן־נֵר֙ אֶל־הַמֶּ֔לֶךְ וַֽיְשַׁלְּחֵ֖הוּ וַיֵּ֥לֶךְ בְּשָׁלֹֽום׃ (II Sam. 3:23)
+NIV	When Joab and all the soldiers with him _arrived_, he was told that Abner son of Ner had come to the king and that the king had sent him away and that he had gone in peace.
+ESV	When Joab and all the army that was with him _came_, it was told Joab, “Abner the son of Ner _came_ to the king, and he has let him go, and he has gone in peace.”
+NBS	arrivèrent
+
+(x)	וַ֠יָּבִאוּ אֶת־רֹ֨אשׁ אִֽישׁ־בֹּ֥שֶׁת אֶל־דָּוִד֮ חֶבְרֹון֒ וַיֹּֽאמְרוּ֙ אֶל־הַמֶּ֔לֶךְ הִנֵּֽה־רֹ֣אשׁ אִֽישׁ־בֹּ֗שֶׁת בֶּן־שָׁאוּל֙ אֹֽיִבְךָ֔ אֲשֶׁ֥ר _בִּקֵּ֖שׁ_ אֶת־נַפְשֶׁ֑ךָ וַיִּתֵּ֣ן יְ֠הוָה לַֽאדֹנִ֨י הַמֶּ֤לֶךְ נְקָמֹות֙ הַיֹּ֣ום הַזֶּ֔ה מִשָּׁא֖וּל וּמִזַּרְעֹֽו׃ ס (II Sam. 4:8)
+NIV	They brought the head of Ish-bosheth to David at Hebron and said to the king, “Here is the head of Ish-bosheth son of Saul, your enemy, who _tried to take_ your life. This day the LORD has avenged my lord the king against Saul and his offspring.”
+ESV	and brought the head of Ish-bosheth to David at Hebron. And they said to the king, “Here is the head of Ish-bosheth, the son of Saul, your enemy, who _sought_ your life. The Lord has avenged my lord the king this day on Saul and on his offspring.”
+NBS	en voulait
+
+(x)	וְהָיָה֙ אֲרֹ֣ון יְהוָ֔ה בָּ֖א עִ֣יר דָּוִ֑ד וּמִיכַ֨ל בַּת־שָׁא֜וּל _נִשְׁקְפָ֣ה_׀ בְּעַ֣ד הַחַלֹּ֗ון וַתֵּ֨רֶא אֶת־הַמֶּ֤לֶךְ דָּוִד֙ מְפַזֵּ֤ז וּמְכַרְכֵּר֙ לִפְנֵ֣י יְהוָ֔ה וַתִּ֥בֶז לֹ֖ו בְּלִבָּֽהּ׃ (II Sam. 6:16)
+NIV	As the ark of the LORD was entering the City of David, Michal daughter of Saul _watched_ from a window. And when she saw King David leaping and dancing before the LORD, she despised him in her heart.
+ESV	As the ark of the Lord came into the city of David, Michal the daughter of Saul _looked_ out of the window and saw King David leaping and dancing before the Lord, and she despised him in her heart.
+NBS	regardait
+
+(x)	וַיָּ֨שֶׂם דָּוִ֤ד נְצִבִים֙ בַּאֲרַ֣ם דַּמֶּ֔שֶׂק וַתְּהִ֤י אֲרָם֙ לְדָוִ֔ד לַעֲבָדִ֖ים נֹושְׂאֵ֣י מִנְחָ֑ה וַיֹּ֤שַׁע יְהוָה֙ אֶת־דָּוִ֔ד בְּכֹ֖ל אֲשֶׁ֥ר _הָלָֽךְ_׃ (II Sam. 8:6)
+NIV	He put garrisons in the Aramean kingdom of Damascus, and the Arameans became subject to him and brought tribute. The LORD gave David victory wherever _he went_.
+ESV	Then David put garrisons in Aram of Damascus, and the Syrians became servants to David and brought tribute. And the Lord gave victory to David wherever _he went_.
+NBS	allait il
+
+(x)	וַיָּ֨שֶׂם בֶּאֱדֹ֜ום נְצִבִ֗ים בְּכָל־אֱדֹום֙ שָׂ֣ם נְצִבִ֔ים וַיְהִ֥י כָל־אֱדֹ֖ום עֲבָדִ֣ים לְדָוִ֑ד וַיֹּ֤ושַׁע יְהוָה֙ אֶת־דָּוִ֔ד בְּכֹ֖ל אֲשֶׁ֥ר _הָלָֽךְ_׃ (II Sam. 8:14)
+NIV	He put garrisons throughout Edom, and all the Edomites became subject to David. The LORD gave David victory wherever _he went_.
+ESV	Then he put garrisons in Edom. throughout all Edom he put garrisons, and all the Edomites became David’s servants. And the Lord gave victory to David wherever _he went_.
+NBS	il allait
+
+(x)	וַיְהִ֕י בִּשְׁמֹ֥ור יֹואָ֖ב אֶל־הָעִ֑יר וַיִּתֵּן֙ אֶת־א֣וּרִיָּ֔ה אֶל־הַמָּקֹום֙ אֲשֶׁ֣ר _יָדַ֔ע_ כִּ֥י אַנְשֵׁי־חַ֖יִל שָֽׁם׃ (II Sam. 11:16)
+NIV	So while Joab had the city under siege, he put Uriah at a place where _he knew_ the strongest defenders were.
+ESV	And as Joab was besieging the city, he assigned Uriah to the place where _he knew_ there were valiant men.
+NBS	il savait
+
+(x)	וַיִּשְׂנָאֶ֣הָ אַמְנֹ֗ון שִׂנְאָה֙ גְּדֹולָ֣ה מְאֹ֔ד כִּ֣י גְדֹולָ֗ה הַשִּׂנְאָה֙ אֲשֶׁ֣ר _שְׂנֵאָ֔הּ_ מֵאַהֲבָ֖ה אֲשֶׁ֣ר אֲהֵבָ֑הּ וַֽיֹּאמֶר־לָ֥הּ אַמְנֹ֖ון ק֥וּמִי לֵֽכִי׃ (II Sam. 13:15)
+NIV	Then Amnon hated her with intense hatred. In fact, _he hated_ her more than he had loved her. Amnon said to her, “Get up and get out!”
+ESV	Then Amnon hated her with very great hatred, so that the hatred with which _he hated_ her was greater than the love with which he had loved her. And Amnon said to her, “Get up! Go!”
+NBS	il la détesta
+
+(x)	וְלֹֽא־דִבֶּ֧ר אַבְשָׁלֹ֛ום עִם־אַמְנֹ֖ון לְמֵרָ֣ע וְעַד־טֹ֑וב כִּֽי־_שָׂנֵ֤א_ אַבְשָׁלֹום֙ אֶת־אַמְנֹ֔ון עַל־דְּבַר֙ אֲשֶׁ֣ר עִנָּ֔ה אֵ֖ת תָּמָ֥ר אֲחֹתֹֽו׃ פ (II Sam. 13:22)
+NIV	Absalom never said a word to Amnon, either good or bad. _he hated_ Amnon because he had disgraced his sister Tamar.
+ESV	But Absalom spoke to Amnon neither good nor bad, for Absalom _hated_ Amnon, because he had violated his sister Tamar.
+NBS	détestait
+
+(x)	וּכְאַבְשָׁלֹ֗ום לֹא־_הָיָ֧ה_ אִישׁ־יָפֶ֛ה בְּכָל־יִשְׂרָאֵ֖ל לְהַלֵּ֣ל מְאֹ֑ד מִכַּ֤ף רַגְלֹו֙ וְעַ֣ד קָדְקֳדֹ֔ו לֹא־הָ֥יָה בֹ֖ו מֽוּם׃ (II Sam. 14:25)
+NIV	In all Israel _there was_ not a man so highly praised for his handsome appearance as Absalom. From the top of his head to the sole of his foot _there was_ no blemish in him.
+ESV	Now in all Israel _there was_ no one so much to be praised for his handsome appearance as Absalom. From the sole of his foot to the crown of his head _there was_ no blemish in him.
+NBS	Il y avait
+
+(x)	וּכְאַבְשָׁלֹ֗ום לֹא־הָיָ֧ה אִישׁ־יָפֶ֛ה בְּכָל־יִשְׂרָאֵ֖ל לְהַלֵּ֣ל מְאֹ֑ד מִכַּ֤ף רַגְלֹו֙ וְעַ֣ד קָדְקֳדֹ֔ו לֹא־_הָ֥יָה_ בֹ֖ו מֽוּם׃ (II Sam. 14:25)
+NIV	In all Israel _there was_ not a man so highly praised for his handsome appearance as Absalom. From the top of his head to the sole of his foot _there was_ no blemish in him.
+ESV	Now in all Israel _there was_ no one so much to be praised for his handsome appearance as Absalom. From the sole of his foot to the crown of his head _there was_ no blemish in him.
+NBS	il y avait
+
+(x)	וְכֹֽה־_אָמַ֥ר_ שִׁמְעִ֖י בְּקַֽלְלֹ֑ו צֵ֥א צֵ֛א אִ֥ישׁ הַדָּמִ֖ים וְאִ֥ישׁ הַבְּלִיָּֽעַל׃ (II Sam. 16:7)
+NIV	As he cursed, Shimei _said_, “Get out, get out, you man of blood, you scoundrel!
+ESV	And Shimei _said_ as he cursed, “Get out, get out, you man of blood, you worthless man!
+NBS	parlait
+
+(x)	וַיֹּ֤אמֶר אֲלֵיהֶם֙ הַמֶּ֔לֶךְ אֲשֶׁר־יִיטַ֥ב בְּעֵינֵיכֶ֖ם אֶעֱשֶׂ֑ה וַיַּעֲמֹ֤ד הַמֶּ֨לֶךְ֙ אֶל־יַ֣ד הַשַּׁ֔עַר וְכָל־הָעָם֙ _יָֽצְא֔וּ_ לְמֵאֹ֖ות וְלַאֲלָפִֽים׃ (II Sam. 18:4)
+NIV	The king answered, “I will do whatever seems best to you.” So the king stood beside the gate while all the men _marched out_ in units of hundreds and of thousands.
+ESV	The king said to them, “Whatever seems best to you I will do.” So the king stood at the side of the gate, while all the army _marched out_ by hundreds and by thousands.
+NBS	partaient en campagne
+
+(x)	וַיִּקָּרֵא֙ אַבְשָׁלֹ֔ום לִפְנֵ֖י עַבְדֵ֣י דָוִ֑ד וְאַבְשָׁלֹ֞ום רֹכֵ֣ב עַל־הַפֶּ֗רֶד וַיָּבֹ֣א הַפֶּ֡רֶד תַּ֣חַת שֹׂובֶךְ֩ הָאֵלָ֨ה הַגְּדֹולָ֜ה וַיֶּחֱזַ֧ק רֹאשֹׁ֣ו בָאֵלָ֗ה וַיֻּתַּן֙ בֵּ֤ין הַשָּׁמַ֨יִם֙ וּבֵ֣ין הָאָ֔רֶץ וְהַפֶּ֥רֶד אֲשֶׁר־תַּחְתָּ֖יו _עָבָֽר_׃ (II Sam. 18:9)
+NIV	Now Absalom happened to meet David’s men. He was riding his mule, and as the mule went under the thick branches of a large oak, Absalom’s head got caught in the tree. He was left hanging in mid-air, while the mule he was riding _kept on going_.
+ESV	And Absalom happened to meet the servants of David. Absalom was riding on his mule, and the mule went under the thick branches of a great oak, and his head caught fast in the oak, and he was suspended between heaven and earth, while the mule that was under him _went on_.
+NBS	poursuivait
+
+(x)	וַיִּקְרָ֣א אֲחִימַ֗עַץ וַיֹּ֤אמֶר אֶל־הַמֶּ֨לֶךְ֙ שָׁלֹ֔ום וַיִּשְׁתַּ֧חוּ לַמֶּ֛לֶךְ לְאַפָּ֖יו אָ֑רְצָה ס וַיֹּ֗אמֶר בָּרוּךְ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ אֲשֶׁ֤ר סִגַּר֙ אֶת־הָ֣אֲנָשִׁ֔ים אֲשֶׁר־_נָשְׂא֥וּ_ אֶת־יָדָ֖ם בַּֽאדֹנִ֥י הַמֶּֽלֶךְ׃ (II Sam. 18:28)
+NIV	Then Ahimaaz called out to the king, “All is well!” He bowed down before the king with his face to the ground and said, “Praise be to the LORD your God! He has delivered up the men who _lifted_ their hands against my lord the king.”
+ESV	Then Ahimaaz cried out to the king, “All is well.” And he bowed before the king with his face to the earth and said, “Blessed be the Lord your God, who has delivered up the men who _raised_ their hand against my lord the king.”
+NBS	levaient
+
+(x)	וַיִּרְגַּ֣ז הַמֶּ֗לֶךְ וַיַּ֛עַל עַל־עֲלִיַּ֥ת הַשַּׁ֖עַר וַיֵּ֑בְךְּ וְכֹ֣ה׀ _אָמַ֣ר_ בְּלֶכְתֹּ֗ו בְּנִ֤י אַבְשָׁלֹום֙ בְּנִ֣י בְנִ֣י אַבְשָׁלֹ֔ום מִֽי־יִתֵּ֤ן מוּתִי֙ אֲנִ֣י תַחְתֶּ֔יךָ אַבְשָׁלֹ֖ום בְּנִ֥י בְנִֽי׃ (II Sam. 19:1)
+NIV	The king was shaken. He went up to the room over the gateway and wept. As he went, _he said_: “O my son Absalom! My son, my son Absalom! If only I had died instead of you — O Absalom, my son, my son!”
+ESV	And the king was deeply moved and went up to the chamber over the gate and wept. And as he went, _he said_, “O my son Absalom, my son, my son Absalom! Would I had died instead of you, O Absalom, my son, my son!”
+NBS	disait Il
+
+(x)	וַתְּהִ֨י הַתְּשֻׁעָ֜ה בַּיֹּ֥ום הַה֛וּא לְאֵ֖בֶל לְכָל־הָעָ֑ם כִּֽי־_שָׁמַ֣ע_ הָעָ֗ם בַּיֹּ֤ום הַהוּא֙ לֵאמֹ֔ר נֶעֱצַ֥ב הַמֶּ֖לֶךְ עַל־בְּנֹֽו׃ (II Sam. 19:3)
+NIV	And for the whole army the victory that day was turned into mourning, because on that day the troops _heard_ it said, “The king is grieving for his son.”
+ESV	So the victory that day was turned into mourning for all the people, for the people _heard_ that day, “The king is grieving for his son.”
+NBS	entendait
+
+(x)	וַיֹּ֣אמֶר אֶל־הַמֶּ֗לֶךְ אַל־יַחֲשָׁב־לִ֣י אֲדֹנִי֮ עָוֹן֒ וְאַל־תִּזְכֹּ֗ר אֵ֚ת אֲשֶׁ֣ר הֶעֱוָ֣ה עַבְדְּךָ֔ בַּיֹּ֕ום אֲשֶׁר־_יָׄצָ֥ׄאׄ_ אֲדֹנִֽי־הַמֶּ֖לֶךְ מִירֽוּשָׁלִָ֑ם לָשׂ֥וּם הַמֶּ֖לֶךְ אֶל־לִבֹּֽו׃ (II Sam. 19:20)
+NIV	and said to him, “May my lord not hold me guilty. Do not remember how your servant did wrong on the day my lord the king _left_ Jerusalem. May the king put it out of his mind.
+ESV	and said to the king, “Let not my lord hold me guilty or remember how your servant did wrong on the day my lord the king _left_ Jerusalem. Do not let the king take it to heart.
+NBS	tu sortais
+
+(x)	וְשָׁ֨ם _נִקְרָ֜א_ אִ֣ישׁ בְּלִיַּ֗עַל וּשְׁמֹ֛ו שֶׁ֥בַע בֶּן־בִּכְרִ֖י אִ֣ישׁ יְמִינִ֑י וַיִּתְקַ֣ע בַּשֹּׁפָ֗ר וַ֠יֹּאמֶר אֵֽין־לָ֨נוּ חֵ֜לֶק בְּדָוִ֗ד וְלֹ֤א נַֽחֲלָה־לָ֨נוּ֙ בְּבֶן־יִשַׁ֔י אִ֥ישׁ לְאֹהָלָ֖יו יִשְׂרָאֵֽל׃ (II Sam. 20:1)
+NIV	Now a troublemaker named Sheba son of Bicri, a Benjamite, _happened to be_ there. He sounded the trumpet and shouted, “We have no share in David, no part in Jesse’s son! Every man to his tent, O Israel!”
+ESV	Now there _happened to be_ there a worthless man, whose name was Sheba, the son of Bichri, a Benjaminite. And he blew the trumpet and said, “We have no portion in David, and we have no inheritance in the son of Jesse. every man to his tents, O Israel!”
+NBS	Il se trouvait
+
+(x)	הֵ֗ם עִם־הָאֶ֤בֶן הַגְּדֹולָה֙ אֲשֶׁ֣ר בְּגִבְעֹ֔ון וַעֲמָשָׂ֖א בָּ֣א לִפְנֵיהֶ֑ם וְיֹואָ֞ב חָג֣וּר׀ מִדֹּ֣ו לְבֻשׁ֗וּ וְעָלָ֞יו חֲגֹ֥ור חֶ֨רֶב֙ מְצֻמֶּ֤דֶת עַל־מָתְנָיו֙ בְּתַעְרָ֔הּ וְה֥וּא _יָצָ֖א_ וַתִּפֹּֽל׃ ס (II Sam. 20:8)
+NIV	While they were at the great rock in Gibeon, Amasa came to meet them. Joab was wearing his military tunic, and strapped over it at his waist was a belt with a dagger in its sheath. As he _stepped forward_, it dropped out of its sheath.
+ESV	When they were at the great stone that is in Gibeon, Amasa came to meet them. Now Joab was wearing a soldier’s garment, and over it was a belt with a sword in its sheath fastened on his thigh, and as he _went forward_ it fell out.
+NBS	avançait s
+
+(x)	וַעֲמָשָׂ֛א מִתְגֹּלֵ֥ל בַּדָּ֖ם בְּתֹ֣וךְ הַֽמְּסִלָּ֑ה וַיַּ֨רְא הָאִ֜ישׁ כִּֽי־_עָמַ֣ד_ כָּל־הָעָ֗ם וַיַּסֵּב֩ אֶת־עֲמָשָׂ֨א מִן־הַֽמְסִלָּ֤ה הַשָּׂדֶה֙ וַיַּשְׁלֵ֤ךְ עָלָיו֙ בֶּ֔גֶד כַּאֲשֶׁ֣ר רָאָ֔ה כָּל־הַבָּ֥א עָלָ֖יו וְעָמָֽד׃ (II Sam. 20:12)
+NIV	Amasa lay wallowing in his blood in the middle of the road, and the man saw that all the troops _came to a halt_ there. When he realised that everyone who came up to Amasa stopped, he dragged him from the road into a field and threw a garment over him.
+ESV	And Amasa lay wallowing in his blood in the highway. And anyone who came by, seeing him, _stopped_. And when the man saw that all the people _stopped_, he carried Amasa out of the highway into the field and threw a garment over him.
+NBS	s arrêtait
+
+(x)	_עָלָ֤ה_ עָשָׁן֙ בְּאַפֹּ֔ו וְאֵ֥שׁ מִפִּ֖יו תֹּאכֵ֑ל גֶּחָלִ֖ים בָּעֲר֥וּ מִמֶּֽנּוּ׃ (II Sam. 22:9)
+NIV	Smoke _rose_ from his nostrils. consuming fire came from his mouth, burning coals blazed out of it.
+ESV	Smoke _went up_ from his nostrils, and devouring fire from his mouth. glowing coals flamed forth from him.
+NBS	montait
+
+(x)	וְאַחֲרָ֛יו שַׁמָּ֥א בֶן־אָגֵ֖א הָרָרִ֑י וַיֵּאָסְפ֨וּ פְלִשְׁתִּ֜ים לַחַיָּ֗ה וַתְּהִי־שָׁ֞ם חֶלְקַ֤ת הַשָּׂדֶה֙ מְלֵאָ֣ה עֲדָשִׁ֔ים וְהָעָ֥ם _נָ֖ס_ מִפְּנֵ֥י פְלִשְׁתִּֽים׃ (II Sam. 23:11)
+NIV	Next to him was Shammah son of Agee the Hararite. When the Philistines banded together at a place where there was a field full of lentils, Israel’s troops _fled_ from them.
+ESV	And next to him was Shammah, the son of Agee the Hararite. The Philistines gathered together at Lehi, where there was a plot of ground full of lentils, and the men _fled_ from the Philistines.
+NBS	fuyait
+
+(x)	וַיֹּ֡אמֶר חָלִילָה֩ לִּ֨י יְהוָ֜ה מֵעֲשֹׂ֣תִי זֹ֗את הֲדַ֤ם הָֽאֲנָשִׁים֙ הַהֹלְכִ֣ים בְּנַפְשֹׁותָ֔ם וְלֹ֥א אָבָ֖ה לִשְׁתֹּותָ֑ם אֵ֣לֶּה _עָשׂ֔וּ_ שְׁלֹ֖שֶׁת הַגִּבֹּרִֽים׃ ס (II Sam. 23:17)
+NIV	“Far be it from me, O LORD, to do this!” he said. “Is it not the blood of men who went at the risk of their lives?” And David would not drink it. Such _were the exploits_ of the three mighty men.
+ESV	and said, “Far be it from me, O Lord, that I should do this. Shall I drink the blood of the men who went at the risk of their lives?” Therefore he would not drink it. These things the three mighty men _did_.
+NBS	firent
+
+(x)	וַיֹּ֗אמֶר אַ֤תְּ יָדַ֨עַתְּ֙ כִּי־לִי֙ הָיְתָ֣ה הַמְּלוּכָ֔ה וְעָלַ֞י _שָׂ֧מוּ_ כָֽל־יִשְׂרָאֵ֛ל פְּנֵיהֶ֖ם לִמְלֹ֑ךְ וַתִּסֹּ֤ב הַמְּלוּכָה֙ וַתְּהִ֣י לְאָחִ֔י כִּ֥י מֵיְהוָ֖ה הָ֥יְתָה לֹּֽו׃ (I Kgs. 2:15)
+NIV	“As you know,” he said, “the kingdom was mine. All Israel _looked_ to me as their king. But things changed, and the kingdom has gone to my brother. for it has come to him from the LORD.
+ESV	He said, “You know that the kingdom was mine, and that all Israel fully _expected_ me to reign. However, the kingdom has turned about and become my brother’s, for it was his from the Lord.
+NBS	portait
+
+(x)	וּשְׁלֹמֹה֩ _נָתַ֨ן_ לְחִירָ֜ם עֶשְׂרִים֩ אֶ֨לֶף כֹּ֤ר חִטִּים֙ מַכֹּ֣לֶת לְבֵיתֹ֔ו וְעֶשְׂרִ֥ים כֹּ֖ר שֶׁ֣מֶן כָּתִ֑ית כֹּֽה־יִתֵּ֧ן שְׁלֹמֹ֛ה לְחִירָ֖ם שָׁנָ֥ה בְשָׁנָֽה׃ פ (I Kgs. 5:25)
+NIV	and Solomon _gave_ Hiram twenty thousand cors of wheat as food for his household, in addition to twenty thousand baths of pressed olive oil. Solomon continued to do this for Hiram year after year.
+ESV	while Solomon _gave_ Hiram 20,000 cors of wheat as food for his household, and 20,000 cors of beaten oil. Solomon _gave_ this to Hiram year by year.
+NBS	donnait
+
+(x)	וְלֹֽא־יָכְל֧וּ הַכֹּהֲנִ֛ים לַעֲמֹ֥ד לְשָׁרֵ֖ת מִפְּנֵ֥י הֶֽעָנָ֑ן כִּי־_מָלֵ֥א_ כְבֹוד־יְהוָ֖ה אֶת־בֵּ֥ית יְהוָֽה׃ פ (I Kgs. 8:11)
+NIV	And the priests could not perform their service because of the cloud, for the glory of the LORD _filled_ his temple.
+ESV	so that the priests could not stand to minister because of the cloud, for the glory of the Lord _filled_ the house of the Lord.
+NBS	remplissait
+
+(x)	וַיַּגֶּד־לָ֥הּ שְׁלֹמֹ֖ה אֶת־כָּל־דְּבָרֶ֑יהָ לֹֽא־_הָיָ֤ה_ דָּבָר֙ נֶעְלָ֣ם מִן־הַמֶּ֔לֶךְ אֲשֶׁ֧ר לֹ֦א הִגִּ֖יד לָֽהּ׃ (I Kgs. 10:3)
+NIV	Solomon answered all her questions. nothing _was_ too hard for the king to explain to her.
+ESV	And Solomon answered all her questions. _there was_ nothing hidden from the king that he could not explain to her.
+NBS	il y avait
+
+(x)	וְלֹֽא־_הֶאֱמַ֣נְתִּי_ לַדְּבָרִ֗ים עַ֤ד אֲשֶׁר־בָּ֨אתִי֙ וַתִּרְאֶ֣ינָה עֵינַ֔י וְהִנֵּ֥ה לֹֽא־הֻגַּד־לִ֖י הַחֵ֑צִי הֹוסַ֤פְתָּ חָכְמָה֙ וָטֹ֔וב אֶל־הַשְּׁמוּעָ֖ה אֲשֶׁ֥ר שָׁמָֽעְתִּי׃ (I Kgs. 10:7)
+NIV	But I did not believe these things until I came and saw with my own eyes. Indeed, not even half was told me. in wisdom and wealth you have far exceeded the report I heard.
+ESV	but I did not believe the reports until I came and my own eyes had seen it. And behold, the half was not told me. Your wisdom and prosperity surpass the report that I heard.
+NBS	Je croyais
+
+(x)	וַֽיְהִי֙ מִשְׁקַ֣ל הַזָּהָ֔ב אֲשֶׁר־_בָּ֥א_ לִשְׁלֹמֹ֖ה בְּשָׁנָ֣ה אֶחָ֑ת שֵׁ֥שׁ מֵאֹ֛ות שִׁשִּׁ֥ים וָשֵׁ֖שׁ כִּכַּ֥ר זָהָֽב׃ (I Kgs. 10:14)
+NIV	The weight of the gold that Solomon _received_ yearly was 666 talents,
+ESV	Now the weight of gold that _came_ to Solomon in one year was 666 talents of gold,
+NBS	arrivait qui
+
+(x)	וְכֵ֣ן _עָשָׂ֔ה_ לְכָל־נָשָׁ֖יו הַנָּכְרִיֹּ֑ות מַקְטִירֹ֥ות וּֽמְזַבְּחֹ֖ות לֵאלֹהֵיהֶֽן׃ (I Kgs. 11:8)
+NIV	_He did_ the same for all his foreign wives, who burned incense and offered sacrifices to their gods.
+ESV	And so _he did_ for all his foreign wives, who made offerings and sacrificed to their gods.
+NBS	agissait Il
+
+(x)	וַֽיַּעֲזֹ֛ב אֶת־עֲצַ֥ת הַזְּקֵנִ֖ים אֲשֶׁ֣ר _יְעָצֻ֑הוּ_ וַיִּוָּעַ֗ץ אֶת־הַיְלָדִים֙ אֲשֶׁ֣ר גָּדְל֣וּ אִתֹּ֔ו אֲשֶׁ֥ר הָעֹמְדִ֖ים לְפָנָֽיו׃ (I Kgs. 12:8)
+NIV	But Rehoboam rejected the advice the elders _gave_ him and consulted the young men who had grown up with him and were serving him.
+ESV	But he abandoned the counsel that the old men _gave_ him and took counsel with the young men who had grown up with him and stood before him.
+NBS	donnaient que lui
+
+(x)	וַיַּ֖עַשׂ אֶת־בֵּ֣ית בָּמֹ֑ות וַיַּ֤עַשׂ כֹּֽהֲנִים֙ מִקְצֹ֣ות הָעָ֔ם אֲשֶׁ֥ר לֹֽא־_הָי֖וּ_ מִבְּנֵ֥י לֵוִֽי׃ (I Kgs. 12:31)
+NIV	Jeroboam built shrines on high places and appointed priests from all sorts of people, even though they _were_ not Levites.
+ESV	He also made temples on high places and appointed priests from among all the people, who _were_ not of the Levites.
+NBS	étaient
+
+(x)	וַיַּ֧עַשׂ יְהוּדָ֛ה הָרַ֖ע בְּעֵינֵ֣י יְהוָ֑ה וַיְקַנְא֣וּ אֹתֹ֗ו מִכֹּל֙ אֲשֶׁ֣ר עָשׂ֣וּ אֲבֹתָ֔ם בְּחַטֹּאתָ֖ם אֲשֶׁ֥ר _חָטָֽאוּ_׃ (I Kgs. 14:22)
+NIV	Judah did evil in the eyes of the LORD. By the sins _they committed_ they stirred up his jealous anger more than their fathers had done.
+ESV	And Judah did what was evil in the sight of the Lord, and they provoked him to jealousy with their sins that _they committed_, more than all that their fathers had done.
+NBS	les péchés ils commettaient
+
+(x)	וּבְנֵ֣י יִשְׂרָאֵ֗ל הָתְפָּקְדוּ֙ וְכָלְכְּל֔וּ וַיֵּלְכ֖וּ לִקְרָאתָ֑ם וַיַּחֲנ֨וּ בְנֵֽי־יִשְׂרָאֵ֜ל נֶגְדָּ֗ם כִּשְׁנֵי֙ חֲשִׂפֵ֣י עִזִּ֔ים וַאֲרָ֖ם _מִלְא֥וּ_ אֶת־הָאָֽרֶץ׃ (I Kgs. 20:27)
+NIV	When the Israelites were also mustered and given provisions, they marched out to meet them. The Israelites camped opposite them like two small flocks of goats, while the Arameans _covered_ the countryside.
+ESV	And the people of Israel were mustered and were provisioned and went against them. The people of Israel encamped before them like two little flocks of goats, but the Syrians _filled_ the country.
+NBS	remplissaient
+
+(x)	וַיְהִ֗י אַחַר֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה כֶּ֧רֶם _הָיָ֛ה_ לְנָבֹ֥ות הַיִּזְרְעֵאלִ֖י אֲשֶׁ֣ר בְּיִזְרְעֶ֑אל אֵ֚צֶל הֵיכַ֣ל אַחְאָ֔ב מֶ֖לֶךְ שֹׁמְרֹֽון׃ (I Kgs. 21:1)
+NIV	Some time later there was an incident involving a vineyard belonging to Naboth the Jezreelite. _The vineyard was_ in Jezreel, close to the palace of Ahab king of Samaria.
+ESV	Now Naboth the Jezreelite _had_ a vineyard in Jezreel, beside the palace of Ahab king of Samaria.
+NBS	avait
+
+(x)	רַ֚ק לֹֽא־הָיָ֣ה כְאַחְאָ֔ב אֲשֶׁ֣ר הִתְמַכֵּ֔ר לַעֲשֹׂ֥ות הָרַ֖ע בְּעֵינֵ֣י יְהוָ֑ה אֲשֶׁר־_הֵסַ֥תָּה_ אֹתֹ֖ו אִיזֶ֥בֶל אִשְׁתֹּֽו׃ (I Kgs. 21:25)
+NIV	( There was never a man like Ahab, who sold himself to do evil in the eyes of the LORD, _urged on_ by Jezebel his wife.
+ESV	( There was none who sold himself to do what was evil in the sight of the Lord like Ahab, whom Jezebel his wife _incited_.
+NBS	qui incitait
+
+(x)	וְיֶ֨תֶר֙ הַקָּדֵ֔שׁ אֲשֶׁ֣ר _נִשְׁאַ֔ר_ בִּימֵ֖י אָסָ֣א אָבִ֑יו בִּעֵ֖ר מִן־הָאָֽרֶץ׃ (I Kgs. 22:47)
+NIV	He rid the land of the rest of the male shrine-prostitutes who _remained_ there even after the reign of his father Asa.
+ESV	And from the land he exterminated the remnant of the male cult prostitutes who _remained_ in the days of his father Asa.
+NBS	qui subsistaient
+
+(x)	וַיָּ֜מָת כִּדְבַ֥ר יְהוָ֣ה׀ אֲשֶׁר־דִּבֶּ֣ר אֵלִיָּ֗הוּ וַיִּמְלֹ֤ךְ יְהֹורָם֙ תַּחְתָּ֔יו פ בִּשְׁנַ֣ת שְׁתַּ֔יִם לִיהֹורָ֥ם בֶּן־יְהֹושָׁפָ֖ט מֶ֣לֶךְ יְהוּדָ֑ה כִּ֛י לֹֽא־_הָ֥יָה_ לֹ֖ו בֵּֽן׃ (II Kgs. 1:17)
+NIV	So he died, according to the word of the LORD that Elijah _had_ spoken. Because Ahaziah _had_ no son, Joram succeeded him as king in the second year of Jehoram son of Jehoshaphat king of Judah.
+ESV	So he died according to the word of the Lord that Elijah _had_ spoken. Jehoram became king in his place in the second year of Jehoram the son of Jehoshaphat, king of Judah, because Ahaziah _had_ no son.
+NBS	Achazia n avait pas
+
+(x)	וַיֹּ֨אמֶר֙ וּקְחוּ־קֶ֔מַח וַיַּשְׁלֵ֖ךְ אֶל־הַסִּ֑יר וַיֹּ֗אמֶר צַ֤ק לָעָם֙ וְיֹאכֵ֔לוּ וְלֹ֥א _הָיָ֛ה_ דָּבָ֥ר רָ֖ע בַּסִּֽיר׃ ס (II Kgs. 4:41)
+NIV	Elisha said, “Get some flour.” He put it into the pot and said, “Serve it to the people to eat.” And _there was_ nothing harmful in the pot.
+ESV	He said, “Then bring flour.” And he threw it into the pot and said, “Pour some out for the men, that they may eat.” And _there was_ no harm in the pot.
+NBS	il y avait
+
+(x)	בְּיָמָיו֙ _פָּשַׁ֣ע_ אֱדֹ֔ום מִתַּ֖חַת יַד־יְהוּדָ֑ה וַיַּמְלִ֥כוּ עֲלֵיהֶ֖ם מֶֽלֶךְ׃ (II Kgs. 8:20)
+NIV	In the time of Jehoram, Edom _rebelled_ against Judah and set up its own king.
+ESV	In his days Edom _revolted_ from the rule of Judah and set up a king of their own.
+NBS	se révolta
+
+(x)	וְיֵה֖וּא _בָּ֣א_ בַשָּׁ֑עַר וַתֹּ֣אמֶר הֲשָׁלֹ֔ום זִמְרִ֖י הֹרֵ֥ג אֲדֹנָֽיו׃ (II Kgs. 9:31)
+NIV	As Jehu _entered_ the gate, she asked, “Have you come in peace, Zimri, you murderer of your master?”
+ESV	And as Jehu _entered_ the gate, she said, “Is it peace, you Zimri, murderer of your master?”
+NBS	arrivait
+
+(x)	וַיַּ֨עַשׂ יְהֹואָ֧שׁ הַיָּשָׁ֛ר בְּעֵינֵ֥י יְהוָ֖ה כָּל־יָמָ֑יו אֲשֶׁ֣ר _הֹורָ֔הוּ_ יְהֹויָדָ֖ע הַכֹּהֵֽן׃ (II Kgs. 12:3)
+NIV	Joash did what was right in the eyes of the LORD all the years Jehoiada the priest _instructed_ him.
+ESV	And Jehoash did what was right in the eyes of the Lord all his days, because Jehoiada the priest _instructed_ him.
+NBS	instruisait l
+
+(x)	וַיִּמְצָא֩ מֶֽלֶךְ־אַשּׁ֨וּר בְּהֹושֵׁ֜עַ קֶ֗שֶׁר אֲשֶׁ֨ר שָׁלַ֤ח מַלְאָכִים֙ אֶל־סֹ֣וא מֶֽלֶךְ־מִצְרַ֔יִם וְלֹא־_הֶעֱלָ֥ה_ מִנְחָ֛ה לְמֶ֥לֶךְ אַשּׁ֖וּר כְּשָׁנָ֣ה בְשָׁנָ֑ה וַֽיַּעַצְרֵ֨הוּ֙ מֶ֣לֶךְ אַשּׁ֔וּר וַיַּאַסְרֵ֖הוּ בֵּ֥ית כֶּֽלֶא׃ (II Kgs. 17:4)
+NIV	But the king of Assyria discovered that Hoshea was a traitor, for he had sent envoys to So king of Egypt, and he no longer paid tribute to the king of Assyria, as he had done year by year. Therefore Shalmaneser seized him and put him in prison.
+ESV	But the king of Assyria found treachery in Hoshea, for he had sent messengers to So, king of Egypt, and _offered_ no tribute to the king of Assyria, as he had done year by year. Therefore the king of Assyria shut him up and bound him in prison.
+NBS	qui faisait monter
+
+(x)	וְלֹ֖א שָׁמֵ֑עוּ וַיַּקְשׁ֤וּ אֶת־עָרְפָּם֙ כְּעֹ֣רֶף אֲבֹותָ֔ם אֲשֶׁר֙ לֹ֣א _הֶאֱמִ֔ינוּ_ בַּֽיהוָ֖ה אֱלֹהֵיהֶֽם׃ (II Kgs. 17:14)
+NIV	But they would not listen and were as stiff-necked as their fathers, who did not trust in the LORD their God.
+ESV	But they would not listen, but were stubborn, as their fathers had been, who did not believe in the Lord their God.
+NBS	qui avaient mis leur foi
+
+(x)	וַיִּשְׁמַ֣ע עֲלֵיהֶם֮ חִזְקִיָּהוּ֒ וַיַּרְאֵ֣ם אֶת־כָּל־בֵּ֣ית נְכֹתֹ֡ו אֶת־הַכֶּסֶף֩ וְאֶת־הַזָּהָ֨ב וְאֶת־הַבְּשָׂמִ֜ים וְאֵ֣ת׀ שֶׁ֣מֶן הַטֹּ֗וב וְאֵת֙ בֵּ֣ית כֵּלָ֔יו וְאֵ֛ת כָּל־אֲשֶׁ֥ר _נִמְצָ֖א_ בְּאֹֽוצְרֹתָ֑יו לֹֽא־הָיָ֣ה דָבָ֗ר אֲ֠שֶׁר לֹֽא־הֶרְאָ֧ם חִזְקִיָּ֛הוּ בְּבֵיתֹ֖ו וּבְכָל־מֶמְשַׁלְתֹּֽו׃ (II Kgs. 20:13)
+NIV	Hezekiah received the messengers and showed them all that was in his storehouses — the silver, the gold, the spices and the fine oil — his armoury and everything _found_ among his treasures. There was nothing in his palace or in all his kingdom that Hezekiah did not show them.
+ESV	And Hezekiah welcomed them, and he showed them all his treasure house, the silver, the gold, the spices, the precious oil, his armory, all that _was found_ in his storehouses. There was nothing in his house or in all his realm that Hezekiah did not show them.
+NBS	qui se trouvait
+
+(x)	אַ֗ךְ לֹ֤א יַֽעֲלוּ֙ כֹּהֲנֵ֣י הַבָּמֹ֔ות אֶל־מִזְבַּ֥ח יְהוָ֖ה בִּירוּשָׁלִָ֑ם כִּ֛י אִם־_אָכְל֥וּ_ מַצֹּ֖ות בְּתֹ֥וךְ אֲחֵיהֶֽם׃ (II Kgs. 23:9)
+NIV	Although the priests of the high places did not serve at the altar of the LORD in Jerusalem, _they ate_ unleavened bread with their fellow priests.
+ESV	However, the priests of the high places did not come up to the altar of the Lord in Jerusalem, but _they ate_ unleavened bread among their brothers.
+NBS	mangeaient ils
+
+(x)	כִּ֣י לֹ֤א נַֽעֲשָׂה֙ כַּפֶּ֣סַח הַזֶּ֔ה מִימֵי֙ הַשֹּׁ֣פְטִ֔ים אֲשֶׁ֥ר _שָׁפְט֖וּ_ אֶת־יִשְׂרָאֵ֑ל וְכֹ֗ל יְמֵ֛י מַלְכֵ֥י יִשְׂרָאֵ֖ל וּמַלְכֵ֥י יְהוּדָֽה׃ (II Kgs. 23:22)
+NIV	Not since the days of the judges who _led_ Israel, nor throughout the days of the kings of Israel and the kings of Judah, had any such Passover been observed.
+ESV	For no such Passover had been kept since the days of the judges who _judged_ Israel, or during all the days of the kings of Israel or of the kings of Judah.
+NBS	gouvernaient
+
+(x)	בְּתִשְׁעָ֣ה לַחֹ֔דֶשׁ וַיֶּחֱזַ֥ק הָרָעָ֖ב בָּעִ֑יר וְלֹא־_הָ֥יָה_ לֶ֖חֶם לְעַ֥ם הָאָֽרֶץ׃ (II Kgs. 25:3)
+NIV	By the ninth day of the [ fourth ] month the famine in the city had become so severe that _there was_ no food for the people to eat.
+ESV	On the ninth day of the fourth month the famine was so severe in the city that _there was_ no food for the people of the land.
+NBS	il avait
+
+(x)	_שָׂ֥ם_ תֵּבֵ֛ל כַּמִּדְבָּ֖ר וְעָרָ֣יו הָרָ֑ס אֲסִירָ֖יו לֹא־פָ֥תַח בָּֽיְתָה׃ (Isa. 14:17)
+NIV	_the man who made_ the world a desert, who overthrew its cities and would not let his captives go home?”
+ESV	_who made_ the world like a desert and overthrew its cities, who did not let his prisoners go home?’
+NBS	réduisait
+
+(x)	שָׂ֥ם תֵּבֵ֛ל כַּמִּדְבָּ֖ר וְעָרָ֣יו _הָרָ֑ס_ אֲסִירָ֖יו לֹא־פָ֥תַח בָּֽיְתָה׃ (Isa. 14:17)
+NIV	the man who made the world a desert, who _overthrew_ its cities and would not let his captives go home?”
+ESV	who made the world like a desert and _overthrew_ its cities, who did not let his prisoners go home?’
+NBS	qui rasait
+
+(x)	כִּ֣י שַׁדְמֹות֩ חֶשְׁבֹּ֨ון אֻמְלָ֜ל גֶּ֣פֶן שִׂבְמָ֗ה בַּעֲלֵ֤י גֹויִם֙ הָלְמ֣וּ שְׂרוּקֶּ֔יהָ עַד־יַעְזֵ֥ר _נָגָ֖עוּ_ תָּ֣עוּ מִדְבָּ֑ר שְׁלֻ֣חֹותֶ֔יהָ נִטְּשׁ֖וּ עָ֥בְרוּ יָֽם׃ (Isa. 16:8)
+NIV	The fields of Heshbon wither, the vines of Sibmah also. The rulers of the nations have trampled down the choicest vines, which once _reached_ Jazer and spread towards the desert. Their shoots spread out and went as far as the sea.
+ESV	For the fields of Heshbon languish, and the vine of Sibmah. the lords of the nations have struck down its branches, which _reached_ to Jazer and strayed to the desert. its shoots spread abroad and passed over the sea.
+NBS	qui s étendaient
+
+(x)	כִּ֣י שַׁדְמֹות֩ חֶשְׁבֹּ֨ון אֻמְלָ֜ל גֶּ֣פֶן שִׂבְמָ֗ה בַּעֲלֵ֤י גֹויִם֙ הָלְמ֣וּ שְׂרוּקֶּ֔יהָ עַד־יַעְזֵ֥ר נָגָ֖עוּ תָּ֣עוּ מִדְבָּ֑ר שְׁלֻ֣חֹותֶ֔יהָ נִטְּשׁ֖וּ _עָ֥בְרוּ_ יָֽם׃ (Isa. 16:8)
+NIV	The fields of Heshbon wither, the vines of Sibmah also. The rulers of the nations have trampled down the choicest vines, which once reached Jazer and spread towards the desert. Their shoots spread out and _went as far as_ the sea.
+ESV	For the fields of Heshbon languish, and the vine of Sibmah. the lords of the nations have struck down its branches, which reached to Jazer and strayed to the desert. its shoots spread abroad and _passed over_ the sea.
+NBS	dépassaient
+
+(x)	וְהָאָ֥רֶץ חָנְפָ֖ה תַּ֣חַת יֹשְׁבֶ֑יהָ כִּֽי־עָבְר֤וּ תֹורֹת֙ _חָ֣לְפוּ_ חֹ֔ק הֵפֵ֖רוּ בְּרִ֥ית עֹולָֽם׃ (Isa. 24:5)
+NIV	The earth is defiled by its people. they have disobeyed the laws, _violated_ the statutes and broken the everlasting covenant.
+ESV	The earth lies defiled under its inhabitants. for they have transgressed the laws, _violated_ the statutes, broken the everlasting covenant.
+NBS	altéraient
+
+(x)	וְהָאָ֥רֶץ חָנְפָ֖ה תַּ֣חַת יֹשְׁבֶ֑יהָ כִּֽי־עָבְר֤וּ תֹורֹת֙ חָ֣לְפוּ חֹ֔ק _הֵפֵ֖רוּ_ בְּרִ֥ית עֹולָֽם׃ (Isa. 24:5)
+NIV	The earth is defiled by its people. they have disobeyed the laws, violated the statutes and _broken_ the everlasting covenant.
+ESV	The earth lies defiled under its inhabitants. for they have transgressed the laws, violated the statutes, _broken_ the everlasting covenant.
+NBS	rompaient ils
+
+(x)	וַֽיַּחֲרִ֔ישׁוּ וְלֹֽא־_עָנ֥וּ_ אֹתֹ֖ו דָּבָ֑ר כִּֽי־מִצְוַ֨ת הַמֶּ֥לֶךְ הִ֛יא לֵאמֹ֖ר לֹ֥א תַעֲנֻֽהוּ׃ (Isa. 36:21)
+NIV	But the people remained silent and said nothing in reply, because the king had commanded, “Do not answer him.”
+ESV	But they were silent and _answered_ him not a word, for the king’s command was, “Do not answer him.”
+NBS	ils répondirent
+
+(x)	וַיִּשְׂמַ֣ח עֲלֵיהֶם֮ חִזְקִיָּהוּ֒ וַיַּרְאֵ֣ם אֶת־בֵּ֣ית נְכֹתֹ֡ו אֶת־הַכֶּסֶף֩ וְאֶת־הַזָּהָ֨ב וְאֶת־הַבְּשָׂמִ֜ים וְאֵ֣ת׀ הַשֶּׁ֣מֶן הַטֹּ֗וב וְאֵת֙ כָּל־בֵּ֣ית כֵּלָ֔יו וְאֵ֛ת כָּל־אֲשֶׁ֥ר _נִמְצָ֖א_ בְּאֹֽצְרֹתָ֑יו לֹֽא־הָיָ֣ה דָבָ֗ר אֲ֠שֶׁר לֹֽא־הֶרְאָ֧ם חִזְקִיָּ֛הוּ בְּבֵיתֹ֖ו וּבְכָל־מֶמְשַׁלְתֹּֽו׃ (Isa. 39:2)
+NIV	Hezekiah received the envoys gladly and showed them what was in his storehouses — the silver, the gold, the spices, the fine oil, his entire armoury and everything _found_ among his treasures. There was nothing in his palace or in all his kingdom that Hezekiah did not show them.
+ESV	And Hezekiah welcomed them gladly. And he showed them his treasure house, the silver, the gold, the spices, the precious oil, his whole armory, all that _was found_ in his storehouses. There was nothing in his house or in all his realm that Hezekiah did not show them.
+NBS	qui se trouvait
+
+(x)	בֵּ֧ית קָדְשֵׁ֣נוּ וְתִפְאַרְתֵּ֗נוּ אֲשֶׁ֤ר _הִֽלְל֨וּךָ֙_ אֲבֹתֵ֔ינוּ הָיָ֖ה לִשְׂרֵ֣פַת אֵ֑שׁ וְכָל־מַחֲמַדֵּ֖ינוּ הָיָ֥ה לְחָרְבָּֽה׃ (Isa. 64:10)
+NIV	Our holy and glorious temple, where our fathers _praised_ you, has been burned with fire, and all that we treasured lies in ruins.
+ESV	Our holy and beautiful house, where our fathers _praised_ you, has been burned by fire, and all our pleasant places have become ruins.
+NBS	célébraient tes louanges
+
+(x)	נִדְרַ֨שְׁתִּי֙ לְלֹ֣וא _שָׁאָ֔לוּ_ נִמְצֵ֖אתִי לְלֹ֣א בִקְשֻׁ֑נִי אָמַ֨רְתִּי֙ הִנֵּ֣נִי הִנֵּ֔נִי אֶל־גֹּ֖וי לֹֽא־קֹרָ֥א בִשְׁמִֽי׃ (Isa. 65:1)
+NIV	“I revealed myself to those who did not ask for me. I was found by those who did not seek me. To a nation that did not call on my name, I said, ‘Here am I, here am I.’
+ESV	I was ready to be sought by those who did not ask for me. I was ready to be found by those who did not seek me. I said, “Here am I, here am I,” to a nation that was not called by my name.
+NBS	ceux qui demandaient
+
+(x)	נִדְרַ֨שְׁתִּי֙ לְלֹ֣וא שָׁאָ֔לוּ נִמְצֵ֖אתִי לְלֹ֣א _בִקְשֻׁ֑נִי_ אָמַ֨רְתִּי֙ הִנֵּ֣נִי הִנֵּ֔נִי אֶל־גֹּ֖וי לֹֽא־קֹרָ֥א בִשְׁמִֽי׃ (Isa. 65:1)
+NIV	“I revealed myself to those who did not ask for me. I was found by those who did not seek me. To a nation that did not call on my name, I said, ‘Here am I, here am I.’
+ESV	I was ready to be sought by those who did not ask for me. I was ready to be found by those who did not seek me. I said, “Here am I, here am I,” to a nation that was not called by my name.
+NBS	ceux qui me cherchaient
+
+(x)	נִדְרַ֨שְׁתִּי֙ לְלֹ֣וא שָׁאָ֔לוּ נִמְצֵ֖אתִי לְלֹ֣א בִקְשֻׁ֑נִי אָמַ֨רְתִּי֙ הִנֵּ֣נִי הִנֵּ֔נִי אֶל־גֹּ֖וי לֹֽא־_קֹרָ֥א_ בִשְׁמִֽי׃ (Isa. 65:1)
+NIV	“I revealed myself to those who did not ask for me. I was found by those who did not seek me. To a nation that did not call on my name, I said, ‘Here am I, here am I.’
+ESV	I was ready to be sought by those who did not ask for me. I was ready to be found by those who did not seek me. I said, “Here am I, here am I,” to a nation that was not called by my name.
+NBS	qui invoquait
+
+(x)	וַאֲנִ֕י כְּכֶ֥בֶשׂ אַלּ֖וּף יוּבַ֣ל לִטְבֹ֑וחַ וְלֹֽא־_יָדַ֜עְתִּי_ כִּֽי־עָלַ֣י׀ חָשְׁב֣וּ מַחֲשָׁבֹ֗ות נַשְׁחִ֨יתָה עֵ֤ץ בְּלַחְמֹו֙ וְנִכְרְתֶ֨נּוּ֙ מֵאֶ֣רֶץ חַיִּ֔ים וּשְׁמֹ֖ו לֹֽא־יִזָּכֵ֥ר עֹֽוד׃ (Jer. 11:19)
+NIV	I had been like a gentle lamb led to the slaughter. I did not realise that they had plotted against me, saying, “Let us destroy the tree and its fruit. let us cut him off from the land of the living, that his name be remembered no more.”
+ESV	But I was like a gentle lamb led to the slaughter. I did not know it was against me they devised schemes, saying, “Let us destroy the tree with its fruit, let us cut him off from the land of the living, that his name be remembered no more.”
+NBS	je savais
+
+(x)	_נִמְצְא֤וּ_ דְבָרֶ֨יךָ֙ וָאֹ֣כְלֵ֔ם וַיְהִ֤י דְבָֽרְךָ֙ לִ֔י לְשָׂשֹׂ֖ון וּלְשִׂמְחַ֣ת לְבָבִ֑י כִּֽי־נִקְרָ֤א שִׁמְךָ֙ עָלַ֔י יְהוָ֖ה אֱלֹהֵ֥י צְבָאֹֽות׃ ס (Jer. 15:16)
+NIV	When your words _came_, I ate them. they were my joy and my heart’s delight, for I bear your name, O LORD God Almighty.
+ESV	Your words _were found_, and I ate them, and your words became to me a joy and the delight of my heart, for I am called by your name, O Lord, God of hosts.
+NBS	se trouvaient
+
+(x)	הֲתִֽמְלֹ֔ךְ כִּ֥י אַתָּ֖ה מְתַחֲרֶ֣ה בָאָ֑רֶז אָבִ֜יךָ הֲלֹ֧וא _אָכַ֣ל_ וְשָׁתָ֗ה וְעָשָׂ֤ה מִשְׁפָּט֙ וּצְדָקָ֔ה אָ֖ז טֹ֥וב לֹֽו׃ (Jer. 22:15)
+NIV	‘Does it make you a king to have more and more cedar? Did not your father have food and drink? He did what was right and just, so all went well with him.
+ESV	Do you think you are a king because you compete in cedar? Did not your father eat and drink and do justice and righteousness? Then it was well with him.
+NBS	mangeait il
+
+(x)	_דָּ֛ן_ דִּין־עָנִ֥י וְאֶבְיֹ֖ון אָ֣ז טֹ֑וב הֲלֹוא־הִ֛יא הַדַּ֥עַת אֹתִ֖י נְאֻם־יְהוָֽה׃ (Jer. 22:16)
+NIV	_He defended_ the cause of the poor and needy, and so all went well. Is that not what it means to know me?” declares the LORD.
+ESV	_He judged_ the cause of the poor and needy. then it was well. Is not this to know me? declares the Lord.
+NBS	jugeait il
+
+(x)	וְאֶ֨ת־בָּר֔וּךְ _שָׁאֲל֖וּ_ לֵאמֹ֑ר הַגֶּד־נָ֣א לָ֔נוּ אֵ֗יךְ כָּתַ֛בְתָּ אֶת־כָּל־הַדְּבָרִ֥ים הָאֵ֖לֶּה מִפִּֽיו׃ (Jer. 36:17)
+NIV	Then _they asked_ Baruch, “Tell us, how did you come to write all this? Did Jeremiah dictate it?”
+ESV	Then _they asked_ Baruch, “Tell us, please, how did you write all these words? Was it at his dictation?”
+NBS	Ils interrogèrent
+
+(x)	וְלֹ֥א _שָׁמַ֛ע_ ה֥וּא וַעֲבָדָ֖יו וְעַ֣ם הָאָ֑רֶץ אֶל־דִּבְרֵ֣י יְהוָ֔ה אֲשֶׁ֣ר דִּבֶּ֔ר בְּיַ֖ד יִרְמְיָ֥הוּ הַנָּבִֽיא׃ (Jer. 37:2)
+NIV	Neither he nor his attendants nor the people of the land paid any attention to the words the LORD had spoken through Jeremiah the prophet.
+ESV	But neither he nor his servants nor the people of the land _listened_ to the words of the Lord that he spoke through Jeremiah the prophet.
+NBS	écoutèrent
+
+(x)	וְאֶת־בֵּ֤ית הַמֶּ֨לֶךְ֙ וְאֶת־בֵּ֣ית הָעָ֔ם שָׂרְפ֥וּ הַכַּשְׂדִּ֖ים בָּאֵ֑שׁ וְאֶת־חֹמֹ֥ות יְרוּשָׁלִַ֖ם _נָתָֽצוּ_׃ (Jer. 39:8)
+NIV	The Babylonians set fire to the royal palace and the houses of the people and _broke down_ the walls of Jerusalem.
+ESV	The Chaldeans burned the king’s house and the house of the people, and _broke down_ the walls of Jerusalem.
+NBS	démolirent ils
+
+(x)	וְאֵ֣ת כָּל־הַיְּהוּדִ֗ים אֲשֶׁר־הָי֨וּ אִתֹּ֤ו אֶת־גְּדַלְיָ֨הוּ֙ בַּמִּצְפָּ֔ה וְאֶת־הַכַּשְׂדִּ֖ים אֲשֶׁ֣ר _נִמְצְאוּ_־שָׁ֑ם אֵ֚ת אַנְשֵׁ֣י הַמִּלְחָמָ֔ה הִכָּ֖ה יִשְׁמָעֵֽאל׃ (Jer. 41:3)
+NIV	Ishmael also killed all the Jews who _were_ with Gedaliah at Mizpah, as well as the Babylonian soldiers who _were_ there.
+ESV	Ishmael also struck down all the Judeans who were with Gedaliah at Mizpah, and the Chaldean soldiers who _happened_ to be there.
+NBS	qui se trouvaient
+
+(x)	וַיְהִ֛י בַּיֹּ֥ום הַשֵּׁנִ֖י לְהָמִ֣ית אֶת־גְּדַלְיָ֑הוּ וְאִ֖ישׁ לֹ֥א _יָדָֽע_׃ (Jer. 41:4)
+NIV	The day after Gedaliah’s assassination, before anyone _knew_ about it,
+ESV	On the day after the murder of Gedaliah, before anyone _knew_ of it,
+NBS	savait
+
+(x)	מִפְּנֵי֙ הַכַּשְׂדִּ֔ים כִּ֥י _יָרְא֖וּ_ מִפְּנֵיהֶ֑ם כִּֽי־הִכָּ֞ה יִשְׁמָעֵ֣אל בֶּן־נְתַנְיָ֗ה אֶת־גְּדַלְיָ֨הוּ֙ בֶּן־אֲחִיקָ֔ם אֲשֶׁר־הִפְקִ֥יד מֶֽלֶךְ־בָּבֶ֖ל בָּאָֽרֶץ׃ ס (Jer. 41:18)
+NIV	to escape the Babylonians. _They were afraid_ of them because Ishmael son of Nethaniah had killed Gedaliah son of Ahikam, whom the king of Babylon had appointed as governor over the land.
+ESV	because of the Chaldeans. For _they were afraid_ of them, because Ishmael the son of Nethaniah had struck down Gedaliah the son of Ahikam, whom the king of Babylon had made governor over the land.
+NBS	ils avaient peur
+
+(x)	וְהֵ֨מָּה֙ _אָמְר֣וּ_ אֶֽל־יִרְמְיָ֔הוּ יְהִ֤י יְהוָה֙ בָּ֔נוּ לְעֵ֖ד אֱמֶ֣ת וְנֶאֱמָ֑ן אִם־לֹ֡א כְּֽכָל־הַ֠דָּבָר אֲשֶׁ֨ר יִֽשְׁלָחֲךָ֜ יְהוָ֧ה אֱלֹהֶ֛יךָ אֵלֵ֖ינוּ כֵּ֥ן נַעֲשֶֽׂה׃ (Jer. 42:5)
+NIV	Then they _said_ to Jeremiah, “May the LORD be a true and faithful witness against us if we do not act in accordance with everything the LORD your God sends you to tell us.
+ESV	Then they _said_ to Jeremiah, “May the Lord be a true and faithful witness against us if we do not act according to all the word with which the Lord your God sends you to us.
+NBS	dirent
+
+(x)	מִפְּנֵ֣י רָעָתָ֗ם אֲשֶׁ֤ר עָשׂוּ֙ לְהַכְעִסֵ֔נִי לָלֶ֣כֶת לְקַטֵּ֔ר לַעֲבֹ֖ד לֵאלֹהִ֣ים אֲחֵרִ֑ים אֲשֶׁר֙ לֹ֣א _יְדָע֔וּם_ הֵ֖מָּה אַתֶּ֥ם וַאֲבֹתֵיכֶֽם׃ (Jer. 44:3)
+NIV	because of the evil they have done. They provoked me to anger by burning incense and by worshipping other gods that neither they nor you nor your fathers ever _knew_.
+ESV	because of the evil that they committed, provoking me to anger, in that they went to make offerings and serve other gods that _they knew_ not, neither they, nor you, nor your fathers.
+NBS	connaissaient ils
+
+(x)	וְאִ֣ם׀ לֹ֣וא הַשְּׂחֹ֗ק הָיָ֤ה לְךָ֙ יִשְׂרָאֵ֔ל אִם־בְּגַנָּבִ֖ים נִמְצָ֑א כִּֽי־מִדֵּ֧י דְבָרֶ֥יךָ בֹּ֖ו תִּתְנֹודָֽד׃ (Jer. 48:27)
+NIV	Was not Israel the object of your ridicule? _Was she caught_ among thieves, that you shake your head in scorn whenever you speak of her?
+ESV	Was not Israel a derision to you? _Was he found_ among thieves, that whenever you spoke of him you wagged your head?
+NBS	été trouvé Avait il
+
+(x)	בַּחֹ֤דֶשׁ הָֽרְבִיעִי֙ בְּתִשְׁעָ֣ה לַחֹ֔דֶשׁ וַיֶּחֱזַ֥ק הָרָעָ֖ב בָּעִ֑יר וְלֹא־_הָיָ֥ה_ לֶ֖חֶם לְעַ֥ם הָאָֽרֶץ׃ (Jer. 52:6)
+NIV	By the ninth day of the fourth month the famine in the city had become so severe that _there was_ no food for the people to eat.
+ESV	On the ninth day of the fourth month the famine was so severe in the city that _there was_ no food for the people of the land.
+NBS	il y avait
+
+(x)	הָעַמּוּדִ֣ים׀ שְׁנַ֗יִם הַיָּ֤ם אֶחָד֙ וְהַבָּקָ֞ר שְׁנֵים־עָשָׂ֤ר נְחֹ֨שֶׁת֙ אֲשֶׁר־תַּ֣חַת הַמְּכֹנֹ֔ות אֲשֶׁ֥ר עָשָׂ֛ה הַמֶּ֥לֶךְ שְׁלֹמֹ֖ה לְבֵ֣ית יְהוָ֑ה לֹא־_הָיָ֣ה_ מִשְׁקָ֔ל לִנְחֻשְׁתָּ֖ם כָּל־הַכֵּלִ֥ים הָאֵֽלֶּה׃ (Jer. 52:20)
+NIV	The bronze from the two pillars, the Sea and the twelve bronze bulls under it, and the movable stands, which King Solomon had made for the temple of the LORD, _was_ more than could be weighed.
+ESV	As for the two pillars, the one sea, the twelve bronze bulls that were under the sea, and the stands, which Solomon the king had made for the house of the Lord, the bronze of all these things _was_ beyond weight.
+NBS	avaient un poids incalculable
+
+(x)	וִֽידַעְתֶּם֙ כִּֽי־אֲנִ֣י יְהוָ֔ה בִּֽהְיֹ֣ות חַלְלֵיהֶ֗ם בְּתֹוךְ֙ גִּלּ֣וּלֵיהֶ֔ם סְבִיבֹ֖ות מִזְבְּחֹֽותֵיהֶ֑ם אֶל֩ כָּל־גִּבְעָ֨ה רָמָ֜ה בְּכֹ֣ל׀ רָאשֵׁ֣י הֶהָרִ֗ים וְתַ֨חַת כָּל־עֵ֤ץ רַֽעֲנָן֙ וְתַ֨חַת֙ כָּל־אֵלָ֣ה עֲבֻתָּ֔ה מְקֹ֗ום אֲשֶׁ֤ר _נָֽתְנוּ_־שָׁם֙ רֵ֣יחַ נִיחֹ֔חַ לְכֹ֖ל גִּלּוּלֵיהֶֽם׃ (Ezek. 6:13)
+NIV	And they will know that I am the LORD, when their people lie slain among their idols around their altars, on every high hill and on all the mountaintops, under every spreading tree and every leafy oak — places where _they offered_ fragrant incense to all their idols.
+ESV	And you shall know that I am the Lord, when their slain lie among their idols around their altars, on every high hill, on all the mountaintops, under every green tree, and under every leafy oak, wherever _they offered_ pleasing aroma to all their idols.
+NBS	ils présentaient
+
+(x)	בִּבְנֹותַ֤יִךְ גַּבֵּךְ֙ בְּרֹ֣אשׁ כָּל־דֶּ֔רֶךְ וְרָמָתֵ֥ךְ עָשִׂ֖ית בְּכָל־רְחֹ֑וב וְלֹא־הָיִ֥ית כַּזֹּונָ֖ה לְקַלֵּ֥ס אֶתְנָֽן׃ (Ezek. 16:31)
+NIV	When you built your mounds at the head of every street and made your lofty shrines in every public square, _you were_ unlike a prostitute, because you scorned payment.
+ESV	building your vaulted chamber at the head of every street, and making your lofty place in every square. Yet _you were_ not like a prostitute, because you scorned payment.
+NBS	tu étais
+
+(x)	לָ֠כֵן הִנְנִ֨י מְקַבֵּ֤ץ אֶת־כָּל־מְאַהֲבַ֨יִךְ֙ אֲשֶׁ֣ר _עָרַ֣בְתְּ_ עֲלֵיהֶ֔ם וְאֵת֙ כָּל־אֲשֶׁ֣ר אָהַ֔בְתְּ עַ֖ל כָּל־אֲשֶׁ֣ר שָׂנֵ֑את וְקִבַּצְתִּי֩ אֹתָ֨ם עָלַ֜יִךְ מִסָּבִ֗יב וְגִלֵּיתִ֤י עֶרְוָתֵךְ֙ אֲלֵהֶ֔ם וְרָא֖וּ אֶת־כָּל־עֶרְוָתֵֽךְ׃ (Ezek. 16:37)
+NIV	therefore I am going to gather all your lovers, with whom _you found pleasure_, those you loved as well as those you hated. I will gather them against you from all around and will strip you in front of them, and they will see all your nakedness.
+ESV	therefore, behold, I will gather all your lovers with whom _you took pleasure_, all those you loved and all those you hated. I will gather them against you from every side and will uncover your nakedness to them, that they may see all your nakedness.
+NBS	tu te plaisais
+
+(x)	הִנֵּה־זֶ֣ה הָיָ֔ה עֲוֹ֖ן סְדֹ֣ם אֲחֹותֵ֑ךְ גָּאֹ֨ון שִׂבְעַת־לֶ֜חֶם וְשַׁלְוַ֣ת הַשְׁקֵ֗ט הָ֤יָה לָהּ֙ וְלִבְנֹותֶ֔יהָ וְיַד־עָנִ֥י וְאֶבְיֹ֖ון לֹ֥א _הֶחֱזִֽיקָה_׃ (Ezek. 16:49)
+NIV	“‘Now this was the sin of your sister Sodom: She and her daughters were arrogant, overfed and unconcerned. they did not help the poor and needy.
+ESV	Behold, this was the guilt of your sister Sodom: she and her daughters had pride, excess of food, and prosperous ease, but did not aid the poor and needy.
+NBS	elle faisait redonner courage
+
+(x)	יַ֜עַן בְּמִשְׁפָּטַ֣י _מָאָ֗סוּ_ וְאֶת־חֻקֹּותַי֙ לֹא־הָלְכ֣וּ בָהֶ֔ם וְאֶת־שַׁבְּתֹותַ֖י חִלֵּ֑לוּ כִּ֛י אַחֲרֵ֥י גִלּוּלֵיהֶ֖ם לִבָּ֥ם הֹלֵֽךְ׃ (Ezek. 20:16)
+NIV	because _they rejected_ my laws and did not follow my decrees and desecrated my Sabbaths. For their hearts were devoted to their idols.
+ESV	because _they rejected_ my rules and did not walk in my statutes, and profaned my Sabbaths. for their heart went after their idols.
+NBS	rejetaient
+
+(x)	יַ֜עַן בְּמִשְׁפָּטַ֣י מָאָ֗סוּ וְאֶת־חֻקֹּותַי֙ לֹא־_הָלְכ֣וּ_ בָהֶ֔ם וְאֶת־שַׁבְּתֹותַ֖י חִלֵּ֑לוּ כִּ֛י אַחֲרֵ֥י גִלּוּלֵיהֶ֖ם לִבָּ֥ם הֹלֵֽךְ׃ (Ezek. 20:16)
+NIV	because they rejected my laws and did not follow my decrees and desecrated my Sabbaths. For their hearts were devoted to their idols.
+ESV	because they rejected my rules and did not walk in my statutes, and profaned my Sabbaths. for their heart went after their idols.
+NBS	ils suivaient
+
+(x)	בֶּן־אָדָ֑ם שְׁתַּ֣יִם נָשִׁ֔ים בְּנֹ֥ות אֵם־אַחַ֖ת _הָיֽוּ_׃ (Ezek. 23:2)
+NIV	“Son of man, _there were_ two women, daughters of the same mother.
+ESV	“Son of man, _there were_ two women, the daughters of one mother.
+NBS	il y avait
+
+(x)	וַתַּרְבֶּ֖ה אֶת־תַּזְנוּתֶ֑יהָ לִזְכֹּר֙ אֶת־יְמֵ֣י נְעוּרֶ֔יהָ אֲשֶׁ֥ר _זָנְתָ֖ה_ בְּאֶ֥רֶץ מִצְרָֽיִם׃ (Ezek. 23:19)
+NIV	Yet she became more and more promiscuous as she recalled the days of her youth, when _she was a prostitute_ in Egypt.
+ESV	Yet she increased her whoring, remembering the days of her youth, when _she played the whore_ in the land of Egypt
+NBS	elle se prostituait
+
+(x)	שֵׁשׁ־בְּרִקְמָ֤ה מִמִּצְרַ֨יִם֙ הָיָ֣ה מִפְרָשֵׂ֔ךְ לִהְיֹ֥ות לָ֖ךְ לְנֵ֑ס תְּכֵ֧לֶת וְאַרְגָּמָ֛ן מֵאִיֵּ֥י אֱלִישָׁ֖ה _הָיָ֥ה_ מְכַסֵּֽךְ׃ (Ezek. 27:7)
+NIV	Fine embroidered linen from Egypt was your sail and served as your banner. your awnings _were_ of blue and purple from the coasts of Elishah.
+ESV	Of fine embroidered linen from Egypt _was_ your sail, serving as your banner. blue and purple from the coasts of Elishah _was_ your awning.
+NBS	faisaient
+
+(x)	פָּרַ֨ס וְל֤וּד וּפוּט֙ הָי֣וּ בְחֵילֵ֔ךְ אַנְשֵׁ֖י מִלְחַמְתֵּ֑ךְ מָגֵ֤ן וְכֹובַע֙ _תִּלּוּ_־בָ֔ךְ הֵ֖מָּה נָתְנ֥וּ הֲדָרֵֽךְ׃ (Ezek. 27:10)
+NIV	“‘Men of Persia, Lydia and Put served as soldiers in your army. _They hung_ their shields and helmets on your walls, bringing you splendour.
+ESV	“Persia and Lud and Put were in your army as your men of war. _They hung_ the shield and helmet in you. they gave you splendor.
+NBS	ils suspendaient
+
+(x)	בְּנֵ֧י אַרְוַ֣ד וְחֵילֵ֗ךְ עַל־חֹומֹותַ֨יִךְ֙ סָבִ֔יב וְגַ֨מָּדִ֔ים בְּמִגְדְּלֹותַ֖יִךְ הָי֑וּ שִׁלְטֵיהֶ֞ם _תִּלּ֤וּ_ עַל־חֹומֹותַ֨יִךְ֙ סָבִ֔יב הֵ֖מָּה כָּלְל֥וּ יָפְיֵֽךְ׃ (Ezek. 27:11)
+NIV	Men of Arvad and Helech manned your walls on every side. men of Gammad were in your towers. _They hung_ their shields around your walls. they brought your beauty to perfection.
+ESV	Men of Arvad and Helech were on your walls all around, and men of Gamad were in your towers. _They hung_ their shields on your walls all around. they made perfect your beauty.
+NBS	suspendaient ils
+
+(x)	בְּנֵ֧י אַרְוַ֣ד וְחֵילֵ֗ךְ עַל־חֹומֹותַ֨יִךְ֙ סָבִ֔יב וְגַ֨מָּדִ֔ים בְּמִגְדְּלֹותַ֖יִךְ הָי֑וּ שִׁלְטֵיהֶ֞ם תִּלּ֤וּ עַל־חֹומֹותַ֨יִךְ֙ סָבִ֔יב הֵ֖מָּה _כָּלְל֥וּ_ יָפְיֵֽךְ׃ (Ezek. 27:11)
+NIV	Men of Arvad and Helech manned your walls on every side. men of Gammad were in your towers. They hung their shields around your walls. they brought your beauty to perfection.
+ESV	Men of Arvad and Helech were on your walls all around, and men of Gamad were in your towers. They hung their shields on your walls all around. they _made perfect_ your beauty.
+NBS	ils rendaient parfaite
+
+(x)	תַּרְשִׁ֥ישׁ סֹחַרְתֵּ֖ךְ מֵרֹ֣ב כָּל־הֹ֑ון בְּכֶ֤סֶף בַּרְזֶל֙ בְּדִ֣יל וְעֹופֶ֔רֶת _נָתְנ֖וּ_ עִזְבֹונָֽיִךְ׃ (Ezek. 27:12)
+NIV	“‘Tarshish did business with you because of your great wealth of goods. _they exchanged_ silver, iron, tin and lead for your merchandise.
+ESV	“Tarshish did business with you because of your great wealth of every kind. silver, iron, tin, and lead _they exchanged_ for your wares.
+NBS	ils fournissaient
+
+(x)	יָוָ֤ן תֻּבַל֙ וָמֶ֔שֶׁךְ הֵ֖מָּה רֹֽכְלָ֑יִךְ בְּנֶ֤פֶשׁ אָדָם֙ וּכְלֵ֣י נְחֹ֔שֶׁת _נָתְנ֖וּ_ מַעֲרָבֵֽךְ׃ (Ezek. 27:13)
+NIV	“‘Greece, Tubal and Meshech traded with you. _they exchanged_ slaves and articles of bronze for your wares.
+ESV	Javan, Tubal, and Meshech traded with you. _they exchanged_ human beings and vessels of bronze for your merchandise.
+NBS	ils donnaient
+
+(x)	מִבֵּ֖ית תֹּוגַרְמָ֑ה סוּסִ֤ים וּפָֽרָשִׁים֙ וּפְרָדִ֔ים _נָתְנ֖וּ_ עִזְבֹונָֽיִךְ׃ (Ezek. 27:14)
+NIV	“‘Men of Beth Togarmah _exchanged_ work horses, war horses and mules for your merchandise.
+ESV	From Beth-togarmah _they exchanged_ horses, war horses, and mules for your wares.
+NBS	fournissait
+
+(x)	אֲרָ֥ם סֹחַרְתֵּ֖ךְ מֵרֹ֣ב מַעֲשָׂ֑יִךְ בְּ֠נֹפֶךְ אַרְגָּמָ֨ן וְרִקְמָ֤ה וּבוּץ֙ וְרָאמֹ֣ת וְכַדְכֹּ֔ד _נָתְנ֖וּ_ בְּעִזְבֹונָֽיִךְ׃ (Ezek. 27:16)
+NIV	“‘Aram did business with you because of your many products. _they exchanged_ turquoise, purple fabric, embroidered work, fine linen, coral and rubies for your merchandise.
+ESV	Syria did business with you because of your abundant goods. _they exchanged_ for your wares emeralds, purple, embroidered work, fine linen, coral, and ruby.
+NBS	ils fournissaient
+
+(x)	יְהוּדָה֙ וְאֶ֣רֶץ יִשְׂרָאֵ֔ל הֵ֖מָּה רֹכְלָ֑יִךְ בְּחִטֵּ֣י מִ֠נִּית וּפַנַּ֨ג וּדְבַ֤שׁ וָשֶׁ֨מֶן֙ וָצֹ֔רִי _נָתְנ֖וּ_ מַעֲרָבֵֽךְ׃ (Ezek. 27:17)
+NIV	“‘Judah and Israel traded with you. _they exchanged_ wheat from Minnith and confections, honey, oil and balm for your wares.
+ESV	Judah and the land of Israel traded with you. _they exchanged_ for your merchandise wheat of Minnith, meal, honey, oil, and balm.
+NBS	ils donnaient
+
+(x)	וְדָ֤ן וְיָוָן֙ מְאוּזָּ֔ל בְּעִזְבֹונַ֖יִךְ _נָתָ֑נּוּ_ בַּרְזֶ֤ל עָשֹׁות֙ קִדָּ֣ה וְקָנֶ֔ה בְּמַעֲרָבֵ֖ךְ הָיָֽה׃ (Ezek. 27:19)
+NIV	“‘Danites and Greeks from Uzal bought your merchandise. _they exchanged_ wrought iron, cassia and calamus for your wares.
+ESV	and casks of wine from Uzal _they exchanged_ for your wares. wrought iron, cassia, and calamus were bartered for your merchandise.
+NBS	fournissaient
+
+(x)	רֹכְלֵ֤י שְׁבָא֙ וְרַעְמָ֔ה הֵ֖מָּה רֹכְלָ֑יִךְ בְּרֹ֨אשׁ כָּל־בֹּ֜שֶׂם וּבְכָל־אֶ֤בֶן יְקָרָה֙ וְזָהָ֔ב _נָתְנ֖וּ_ עִזְבֹונָֽיִךְ׃ (Ezek. 27:22)
+NIV	“‘The merchants of Sheba and Raamah traded with you. for your merchandise _they exchanged_ the finest of all kinds of spices and precious stones, and gold.
+ESV	The traders of Sheba and Raamah traded with you. _they exchanged_ for your wares the best of all kinds of spices and all precious stones and gold.
+NBS	ils fournissaient
+
+(x)	אַ֨תְּ־כְּר֔וּב מִמְשַׁ֖ח הַסֹּוכֵ֑ךְ וּנְתַתִּ֗יךָ בְּהַ֨ר קֹ֤דֶשׁ אֱלֹהִים֙ _הָיִ֔יתָ_ בְּתֹ֥וךְ אַבְנֵי־אֵ֖שׁ הִתְהַלָּֽכְתָּ׃ (Ezek. 28:14)
+NIV	_You were_ anointed as a guardian cherub, for so I ordained you. _You were_ on the holy mount of God. you walked among the fiery stones.
+ESV	You were an anointed guardian cherub. I placed you. _you were_ on the holy mountain of God. in the midst of the stones of fire you walked.
+NBS	tu étais
+
+(x)	אַ֨תְּ־כְּר֔וּב מִמְשַׁ֖ח הַסֹּוכֵ֑ךְ וּנְתַתִּ֗יךָ בְּהַ֨ר קֹ֤דֶשׁ אֱלֹהִים֙ הָיִ֔יתָ בְּתֹ֥וךְ אַבְנֵי־אֵ֖שׁ _הִתְהַלָּֽכְתָּ_׃ (Ezek. 28:14)
+NIV	You were anointed as a guardian cherub, for so I ordained you. You were on the holy mount of God. _you walked_ among the fiery stones.
+ESV	You were an anointed guardian cherub. I placed you. you were on the holy mountain of God. in the midst of the stones of fire _you walked_.
+NBS	tu te promenais
+
+(x)	_גָּבַ֤הּ_ לִבְּךָ֙ בְּיָפְיֶ֔ךָ שִׁחַ֥תָּ חָכְמָתְךָ֖ עַל־יִפְעָתֶ֑ךָ עַל־אֶ֣רֶץ הִשְׁלַכְתִּ֗יךָ לִפְנֵ֧י מְלָכִ֛ים נְתַתִּ֖יךָ לְרַ֥אֲוָה בָֽךְ׃ (Ezek. 28:17)
+NIV	Your heart _became proud_ on account of your beauty, and you corrupted your wisdom because of your splendour. So I threw you to the earth. I made a spectacle of you before kings.
+ESV	Your heart _was proud_ because of your beauty. you corrupted your wisdom for the sake of your splendor. I cast you to the ground. I exposed you before kings, to feast their eyes on you.
+NBS	Ton cœur s est enhardi
+
+(x)	בִּסְעַפֹּתָ֤יו קִֽנְנוּ֙ כָּל־עֹ֣וף הַשָּׁמַ֔יִם וְתַ֤חַת פֹּֽארֹתָיו֙ _יָֽלְד֔וּ_ כֹּ֖ל חַיַּ֣ת הַשָּׂדֶ֑ה וּבְצִלֹּו֙ יֵֽשְׁב֔וּ כֹּ֖ל גֹּויִ֥ם רַבִּֽים׃ (Ezek. 31:6)
+NIV	All the birds of the air nested in its boughs, all the beasts of the field _gave birth_ under its branches. all the great nations lived in its shade.
+ESV	All the birds of the heavens made their nests in its boughs. under its branches all the beasts of the field _gave birth_ to their young, and under its shadow lived all great nations.
+NBS	mettaient bas leurs petits
+
+(x)	גַּם־הֵ֗ם אִתֹּ֛ו יָרְד֥וּ שְׁאֹ֖ולָה אֶל־חַלְלֵי־חָ֑רֶב וּזְרֹעֹ֛ו _יָשְׁב֥וּ_ בְצִלֹּ֖ו בְּתֹ֥וךְ גֹּויִֽם׃ (Ezek. 31:17)
+NIV	Those who _lived_ in its shade, its allies among the nations, had also gone down to the grave with it, joining those killed by the sword.
+ESV	They also went down to Sheol with it, to those who are slain by the sword. yes, those who were its arm, who _lived_ under its shadow among the nations.
+NBS	habitaient ils
+
+(x)	וְיַד־יְהוָה֩ הָיְתָ֨ה אֵלַ֜י בָּעֶ֗רֶב לִפְנֵי֙ בֹּ֣וא הַפָּלִ֔יט וַיִּפְתַּ֣ח אֶת־פִּ֔י עַד־בֹּ֥וא אֵלַ֖י בַּבֹּ֑קֶר וַיִּפָּ֣תַח פִּ֔י וְלֹ֥א _נֶאֱלַ֖מְתִּי_ עֹֽוד׃ פ (Ezek. 33:22)
+NIV	Now the evening before the man arrived, the hand of the LORD was upon me, and he opened my mouth before the man came to me in the morning. So my mouth was opened and I was no longer silent.
+ESV	Now the hand of the Lord had been upon me the evening before the fugitive came. and he had opened my mouth by the time the man came to me in the morning, so my mouth was opened, and I was no longer mute.
+NBS	je étais muet
+
+(x)	וַיָּבֹ֗וא אֶל־הַגֹּויִם֙ אֲשֶׁר־_בָּ֣אוּ_ שָׁ֔ם וַֽיְחַלְּל֖וּ אֶת־שֵׁ֣ם קָדְשִׁ֑י בֶּאֱמֹ֤ר לָהֶם֙ עַם־יְהוָ֣ה אֵ֔לֶּה וּמֵאַרְצֹ֖ו יָצָֽאוּ׃ (Ezek. 36:20)
+NIV	And wherever _they went_ among the nations they profaned my holy name, for it was said of them, ‘These are the LORD’s people, and yet they had to leave his land.’
+ESV	But when _they came_ to the nations, wherever _they came_, they profaned my holy name, in that people said of them, ‘These are the people of the Lord, and yet they had to go out of his land.’
+NBS	ils se rendaient
+
+(x)	וְתָאָ֗יו שְׁלֹושָׁ֤ה מִפֹּו֙ וּשְׁלֹשָׁ֣ה מִפֹּ֔ו וְאֵילָ֤יו וְאֵֽלַמָּיו֙ _הָיָ֔ה_ כְּמִדַּ֖ת הַשַּׁ֣עַר הָרִאשֹׁ֑ון חֲמִשִּׁ֤ים אַמָּה֙ אָרְכֹּ֔ו וְרֹ֕חַב חָמֵ֥שׁ וְעֶשְׂרִ֖ים בָּאַמָּֽה׃ (Ezek. 40:21)
+NIV	Its alcoves — three on each side — its projecting walls and its portico _had_ the same measurements as those of the first gateway. It was fifty cubits long and twenty-five cubits wide.
+ESV	Its side rooms, three on either side, and its jambs and its vestibule _were_ of the same size as those of the first gate. Its length was fifty cubits, and its breadth twenty-five cubits.
+NBS	avaient
+
+(x)	וְהִנֵּ֗ה כְּבֹוד֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל בָּ֖א מִדֶּ֣רֶךְ הַקָּדִ֑ים וְקֹולֹ֗ו כְּקֹול֙ מַ֣יִם רַבִּ֔ים וְהָאָ֖רֶץ _הֵאִ֥ירָה_ מִכְּבֹדֹֽו׃ (Ezek. 43:2)
+NIV	and I saw the glory of the God of Israel coming from the east. His voice was like the roar of rushing waters, and the land _was radiant_ with his glory.
+ESV	And behold, the glory of the God of Israel was coming from the east. And the sound of his coming was like the sound of many waters, and the earth _shone_ with his glory.
+NBS	illuminait s
+
+(x)	וַתִּשָּׂאֵ֣נִי ר֔וּחַ וַתְּבִיאֵ֕נִי אֶל־הֶֽחָצֵ֖ר הַפְּנִימִ֑י וְהִנֵּ֛ה _מָלֵ֥א_ כְבֹוד־יְהוָ֖ה הַבָּֽיִת׃ (Ezek. 43:5)
+NIV	Then the Spirit lifted me up and brought me into the inner court, and the glory of the LORD _filled_ the temple.
+ESV	the Spirit lifted me up and brought me into the inner court. and behold, the glory of the Lord _filled_ the temple.
+NBS	remplissait
+
+(x)	וְאָנֹכִ֤י תִרְגַּ֨לְתִּי֙ לְאֶפְרַ֔יִם קָחָ֖ם עַל־זְרֹֽועֹתָ֑יו וְלֹ֥א יָדְע֖וּ כִּ֥י _רְפָאתִֽים_׃ (Hos. 11:3)
+NIV	It was I who taught Ephraim to walk, taking them by the arms. but they did not realise it was I who healed them.
+ESV	Yet it was I who taught Ephraim to walk. I took them up by their arms, but they did not know that _I healed_ them.
+NBS	je prenais soin d eux
+
+(x)	וָיָּ֤שַׂר אֶל־מַלְאָךְ֙ וַיֻּכָ֔ל _בָּכָ֖ה_ וַיִּתְחַנֶּן־לֹ֑ו בֵּֽית־אֵל֙ יִמְצָאֶ֔נּוּ וְשָׁ֖ם יְדַבֵּ֥ר עִמָּֽנוּ׃ (Hos. 12:5)
+NIV	He struggled with the angel and overcame him. _he wept_ and begged for his favour. He found him at Bethel and talked with him there —
+ESV	He strove with the angel and prevailed. _he wept_ and sought his favor. He met God at Bethel, and there God spoke with us —
+NBS	pleura il
+
+(x)	כְּדַבֵּ֤ר אֶפְרַ֨יִם֙ רְתֵ֔ת _נָשָׂ֥א_ ה֖וּא בְּיִשְׂרָאֵ֑ל וַיֶּאְשַׁ֥ם בַּבַּ֖עַל וַיָּמֹֽת׃ (Hos. 13:1)
+NIV	When Ephraim spoke, men trembled. he _was exalted_ in Israel. But he became guilty of Baal worship and died.
+ESV	When Ephraim spoke, there was trembling. he _was exalted_ in Israel, but he incurred guilt through Baal and died.
+NBS	avait la haute main
+
+(x)	בְּיֹום֙ עֲמָֽדְךָ֣ מִנֶּ֔גֶד בְּיֹ֛ום שְׁבֹ֥ות זָרִ֖ים חֵילֹ֑ו וְנָכְרִ֞ים _בָּ֣אוּ_ שְׁעָרָ֗יו וְעַל־יְרוּשָׁלִַ֨ם֙ יַדּ֣וּ גֹורָ֔ל גַּם־אַתָּ֖ה כְּאַחַ֥ד מֵהֶֽם׃ (Obad. 1:11)
+NIV	On the day you stood aloof while strangers carried off his wealth and foreigners _entered_ his gates and cast lots for Jerusalem, you were like one of them.
+ESV	On the day that you stood aloof, on the day that strangers carried off his wealth and foreigners _entered_ his gates and cast lots for Jerusalem, you were like one of them.
+NBS	entraient
+
+(x)	וַֽיהוָ֗ה הֵטִ֤יל רֽוּחַ־גְּדֹולָה֙ אֶל־הַיָּ֔ם וַיְהִ֥י סַֽעַר־גָּדֹ֖ול בַּיָּ֑ם וְהָ֣אֳנִיָּ֔ה _חִשְּׁבָ֖ה_ לְהִשָּׁבֵֽר׃ (Jonah 1:4)
+NIV	Then the LORD sent a great wind on the sea, and such a violent storm arose that the ship _threatened_ to break up.
+ESV	But the Lord hurled a great wind upon the sea, and there was a mighty tempest on the sea, so that the ship _threatened_ to break up.
+NBS	menaçait
+
+(x)	וַיִּֽירְא֤וּ הָֽאֲנָשִׁים֙ יִרְאָ֣ה גְדֹולָ֔ה וַיֹּאמְר֥וּ אֵלָ֖יו מַה־זֹּ֣את עָשִׂ֑יתָ כִּֽי־_יָדְע֣וּ_ הָאֲנָשִׁ֗ים כִּֽי־מִלִּפְנֵ֤י יְהוָה֙ ה֣וּא בֹרֵ֔חַ כִּ֥י הִגִּ֖יד לָהֶֽם׃ (Jonah 1:10)
+NIV	This terrified them and they asked, “What have you done?” ( _They knew_ he was running away from the LORD, because he had already told them so. )
+ESV	Then the men were exceedingly afraid and said to him, “What is this that you have done!” For the men _knew_ that he was fleeing from the presence of the Lord, because he had told them.
+NBS	savaient Ils
+
+(x)	וַיַּ֤רְא הָֽאֱלֹהִים֙ אֶֽת־מַ֣עֲשֵׂיהֶ֔ם כִּי־_שָׁ֖בוּ_ מִדַּרְכָּ֣ם הָרָעָ֑ה וַיִּנָּ֣חֶם הָאֱלֹהִ֗ים עַל־הָרָעָ֛ה אֲשֶׁר־דִּבֶּ֥ר לַעֲשֹׂות־לָהֶ֖ם וְלֹ֥א עָשָֽׂה׃ (Jonah 3:10)
+NIV	When God saw what they did and how _they turned_ from their evil ways, he had compassion and did not bring upon them the destruction he had threatened.
+ESV	When God saw what they did, how _they turned_ from their evil way, God relented of the disaster that he had said he would do to them, and he did not do it.
+NBS	ils revenaient
+
+(x)	וַיִּתְפַּלֵּ֨ל אֶל־יְהוָ֜ה וַיֹּאמַ֗ר אָנָּ֤ה יְהוָה֙ הֲלֹוא־זֶ֣ה דְבָרִ֗י עַד־הֱיֹותִי֙ עַל־אַדְמָתִ֔י עַל־כֵּ֥ן קִדַּ֖מְתִּי לִבְרֹ֣חַ תַּרְשִׁ֑ישָׁה כִּ֣י _יָדַ֗עְתִּי_ כִּ֤י אַתָּה֙ אֵֽל־חַנּ֣וּן וְרַח֔וּם אֶ֤רֶךְ אַפַּ֨יִם֙ וְרַב־חֶ֔סֶד וְנִחָ֖ם עַל־הָרָעָֽה׃ (Jonah 4:2)
+NIV	He prayed to the LORD, “O LORD, is this not what I said when I was still at home? That is why I was so quick to flee to Tarshish. _I knew_ that you are a gracious and compassionate God, slow to anger and abounding in love, a God who relents from sending calamity.
+ESV	And he prayed to the Lord and said, “O Lord, is not this what I said when I was yet in my country? That is why I made haste to flee to Tarshish. for _I knew_ that you are a gracious God and merciful, slow to anger and abounding in steadfast love, and relenting from disaster.
+NBS	je savais
+
+(x)	עַמִּ֗י זְכָר־נָא֙ מַה־_יָּעַ֗ץ_ בָּלָק֙ מֶ֣לֶךְ מֹואָ֔ב וּמֶה־עָנָ֥ה אֹתֹ֖ו בִּלְעָ֣ם בֶּן־בְּעֹ֑ור מִן־הַשִּׁטִּים֙ עַד־הַגִּלְגָּ֔ל לְמַ֕עַן דַּ֖עַת צִדְקֹ֥ות יְהוָֽה׃ (Mic. 6:5)
+NIV	My people, remember what Balak king of Moab _counselled_ and what Balaam son of Beor answered. Remember [ your journey ] from Shittim to Gilgal, that you may know the righteous acts of the LORD.”
+ESV	O my people, remember what Balak king of Moab _devised_, and what Balaam the son of Beor answered him, and what happened from Shittim to Gilgal, that you may know the saving acts of the Lord.”
+NBS	projetait
+
+(x)	אַיֵּה֙ מְעֹ֣ון אֲרָיֹ֔ות וּמִרְעֶ֥ה ה֖וּא לַכְּפִרִ֑ים אֲשֶׁ֣ר _הָלַךְ֩_ אַרְיֵ֨ה לָבִ֥יא שָׁ֛ם גּ֥וּר אַרְיֵ֖ה וְאֵ֥ין מַחֲרִֽיד׃ (Nah. 2:12)
+NIV	Where now is the lions’ den, the place where they fed their young, where the lion and lioness _went_, and the cubs, with nothing to fear?
+ESV	Where is the lions’ den, the feeding place of the young lions, where the lion and lioness _went_, where his cubs were, with none to disturb?
+NBS	parcouraient
+
+(x)	מִֽהְיֹותָ֥ם _בָּא֙_ אֶל־עֲרֵמַ֣ת עֶשְׂרִ֔ים וְהָיְתָ֖ה עֲשָׂרָ֑ה בָּ֣א אֶל־הַיֶּ֗קֶב לַחְשֹׂף֙ חֲמִשִּׁ֣ים פּוּרָ֔ה וְהָיְתָ֖ה עֶשְׂרִֽים׃ (Hag. 2:16)
+NIV	When anyone _came_ to a heap of twenty measures, there were only ten. When anyone went to a wine vat to draw fifty measures, there were only twenty.
+ESV	how did you fare? When _one came_ to a heap of twenty measures, there were but ten. When _one came_ to the wine vat to draw fifty measures, there were but twenty.
+NBS	on venait
+
+(x)	מִֽהְיֹותָ֥ם בָּא֙ אֶל־עֲרֵמַ֣ת עֶשְׂרִ֔ים וְהָיְתָ֖ה עֲשָׂרָ֑ה _בָּ֣א_ אֶל־הַיֶּ֗קֶב לַחְשֹׂף֙ חֲמִשִּׁ֣ים פּוּרָ֔ה וְהָיְתָ֖ה עֶשְׂרִֽים׃ (Hag. 2:16)
+NIV	When anyone came to a heap of t_went_y measures, there were only ten. When anyone _went_ to a wine vat to draw fifty measures, there were only t_went_y.
+ESV	how did you fare? When _one came_ to a heap of twenty measures, there were but ten. When _one came_ to the wine vat to draw fifty measures, there were but twenty.
+NBS	on venait
+
+(x)	וְקֶ֤צֶף גָּדֹול֙ אֲנִ֣י קֹצֵ֔ף עַל־הַגֹּויִ֖ם הַשַּֽׁאֲנַנִּ֑ים אֲשֶׁ֤ר אֲנִי֙ _קָצַ֣פְתִּי_ מְּעָ֔ט וְהֵ֖מָּה עָזְר֥וּ לְרָעָֽה׃ (Zech. 1:15)
+NIV	but I am very angry with the nations that feel secure. I was only a little angry, but they added to the calamity.’
+ESV	And I am exceedingly angry with the nations that are at ease. for while I _was angry_ but a little, they furthered the disaster.
+NBS	je étais irrité
+
+(x)	וַיְהִ֥י כַאֲשֶׁר־_קָרָ֖א_ וְלֹ֣א שָׁמֵ֑עוּ כֵּ֤ן יִקְרְאוּ֙ וְלֹ֣א אֶשְׁמָ֔ע אָמַ֖ר יְהוָ֥ה צְבָאֹֽות׃ (Zech. 7:13)
+NIV	“‘When I _called_, they did not listen. so when they _called_, I would not listen,’ says the LORD Almighty.
+ESV	“As I _called_, and they would not hear, so they _called_, and I would not hear,” says the Lord of hosts,
+NBS	il appelait
+
+(x)	כִּ֗י לִפְנֵי֙ הַיָּמִ֣ים הָהֵ֔ם שְׂכַ֤ר הָֽאָדָם֙ לֹ֣א _נִֽהְיָ֔ה_ וּשְׂכַ֥ר הַבְּהֵמָ֖ה אֵינֶ֑נָּה וְלַיֹּוצֵ֨א וְלַבָּ֤א אֵין־שָׁלֹום֙ מִן־הַצָּ֔ר וַאֲשַׁלַּ֥ח אֶת־כָּל־הָאָדָ֖ם אִ֥ישׁ בְּרֵעֵֽהוּ׃ (Zech. 8:10)
+NIV	Before that time _there were_ no wages for man or beast. No-one could go about his business safely because of his enemy, for I had turned every man against his neighbour.
+ESV	For before those days _there was_ no wage for man or any wage for beast, neither was there any safety from the foe for him who went out or came in, for I set every man against his neighbor.
+NBS	il y avait
+
+(x)	תֹּורַ֤ת אֱמֶת֙ הָיְתָ֣ה בְּפִ֔יהוּ וְעַוְלָ֖ה לֹא־_נִמְצָ֣א_ בִשְׂפָתָ֑יו בְּשָׁלֹ֤ום וּבְמִישֹׁור֙ הָלַ֣ךְ אִתִּ֔י וְרַבִּ֖ים הֵשִׁ֥יב מֵעָוֹֽן׃ (Mal. 2:6)
+NIV	True instruction was in his mouth and nothing false _was found_ on his lips. He walked with me in peace and uprightness, and turned many from sin.
+ESV	True instruction was in his mouth, and no wrong _was found_ on his lips. He walked with me in peace and uprightness, and he turned many from iniquity.
+NBS	on trouvait
+
+(x)	תֹּורַ֤ת אֱמֶת֙ הָיְתָ֣ה בְּפִ֔יהוּ וְעַוְלָ֖ה לֹא־נִמְצָ֣א בִשְׂפָתָ֑יו בְּשָׁלֹ֤ום וּבְמִישֹׁור֙ _הָלַ֣ךְ_ אִתִּ֔י וְרַבִּ֖ים הֵשִׁ֥יב מֵעָוֹֽן׃ (Mal. 2:6)
+NIV	True instruction was in his mouth and nothing false was found on his lips. _He walked_ with me in peace and uprightness, and turned many from sin.
+ESV	True instruction was in his mouth, and no wrong was found on his lips. _He walked_ with me in peace and uprightness, and he turned many from iniquity.
+NBS	marchait il
+
+(x)	אָ֧ז _נִדְבְּר֛וּ_ יִרְאֵ֥י יְהוָ֖ה אִ֣ישׁ אֶת־רֵעֵ֑הוּ וַיַּקְשֵׁ֤ב יְהוָה֙ וַיִּשְׁמָ֔ע וַ֠יִּכָּתֵב סֵ֣פֶר זִכָּרֹ֤ון לְפָנָיו֙ לְיִרְאֵ֣י יְהוָ֔ה וּלְחֹשְׁבֵ֖י שְׁמֹֽו׃ (Mal. 3:16)
+NIV	Then those who feared the LORD _talked_ with each other, and the LORD listened and heard. A scroll of remembrance was written in his presence concerning those who feared the LORD and honoured his name.
+ESV	Then those who feared the Lord _spoke_ with one another. The Lord paid attention and heard them, and a book of remembrance was written before him of those who feared the Lord and esteemed his name.
+NBS	se parlèrent
+
+(x)	_עָ֘לָ֤ה_ עָשָׁ֨ן׀ בְּאַפֹּ֗ו וְאֵשׁ־מִפִּ֥יו תֹּאכֵ֑ל גֶּ֝חָלִ֗ים בָּעֲר֥וּ מִמֶּֽנּוּ׃ (Psa. 18:9)
+NIV	Smoke _rose_ from his nostrils. consuming fire came from his mouth, burning coals blazed out of it.
+ESV	Smoke _went up_ from his nostrils, and devouring fire from his mouth. glowing coals flamed forth from him.
+NBS	montait
+
+(x)	מִנֹּ֗גַהּ נֶ֫גְדֹּ֥ו עָבָ֥יו _עָבְר֑וּ_ בָּ֝רָ֗ד וְגַֽחֲלֵי־אֵֽשׁ׃ (Psa. 18:13)
+NIV	Out of the brightness of his presence clouds _advanced_, with hailstones and bolts of lightning.
+ESV	Out of the brightness before him hailstones and coals of fire _broke through_ his clouds.
+NBS	provenaient
+
+(x)	חַיִּ֤ים׀ _שָׁאַ֣ל_ מִ֭מְּךָ נָתַ֣תָּה לֹּ֑ו אֹ֥רֶךְ יָ֝מִ֗ים עֹולָ֥ם וָעֶֽד׃ (Psa. 21:5)
+NIV	_He asked_ you for life, and you gave it to him — length of days, forever and ever.
+ESV	_He asked_ life of you. you gave it to him, length of days forever and ever.
+NBS	Il demandait
+
+(x)	אֵלֶ֣יךָ _זָעֲק֣וּ_ וְנִמְלָ֑טוּ בְּךָ֖ בָטְח֣וּ וְלֹא־בֹֽושׁוּ׃ (Psa. 22:6)
+NIV	_They cried_ to you and were saved. in you they trusted and were not disappointed.
+ESV	To you _they cried_ and were rescued. in you they trusted and were not put to shame.
+NBS	Ils criaient
+
+(x)	אֵלֶ֣יךָ זָעֲק֣וּ וְנִמְלָ֑טוּ בְּךָ֖ _בָטְח֣וּ_ וְלֹא־בֹֽושׁוּ׃ (Psa. 22:6)
+NIV	They cried to you and were saved. in you _they trusted_ and were not disappointed.
+ESV	To you they cried and were rescued. in you _they trusted_ and were not put to shame.
+NBS	ils mettaient confiance
+
+(x)	אֵלֶ֣יךָ זָעֲק֣וּ וְנִמְלָ֑טוּ בְּךָ֖ בָטְח֣וּ וְלֹא־_בֹֽושׁוּ_׃ (Psa. 22:6)
+NIV	They cried to you and were saved. in you they trusted and were not disappointed.
+ESV	To you they cried and were rescued. in you they trusted and were not put to shame.
+NBS	ils avaient honte
+
+(x)	כִּֽי־_הֶ֭חֱרַשְׁתִּי_ בָּל֣וּ עֲצָמָ֑י בְּ֝שַׁאֲגָתִ֗י כָּל־הַיֹּֽום׃ (Psa. 32:3)
+NIV	When _I kept silent_, my bones wasted away through my groaning all day long.
+ESV	For when _I kept silent_, my bones wasted away through my groaning all day long.
+NBS	silence gardais le je je
+
+(x)	כִּֽי־הֶ֭חֱרַשְׁתִּי _בָּל֣וּ_ עֲצָמָ֑י בְּ֝שַׁאֲגָתִ֗י כָּל־הַיֹּֽום׃ (Psa. 32:3)
+NIV	When I kept silent, my bones _wasted away_ through my groaning all day long.
+ESV	For when I kept silent, my bones _wasted away_ through my groaning all day long.
+NBS	se consumaient
+
+(x)	וַאֲנִ֤י׀ בַּחֲלֹותָ֡ם לְב֬וּשִׁי שָׂ֗ק _עִנֵּ֣יתִי_ בַצֹּ֣ום נַפְשִׁ֑י וּ֝תְפִלָּתִ֗י עַל־חֵיקִ֥י תָשֽׁוּב׃ (Psa. 35:13)
+NIV	Yet when they were ill, I put on sackcloth and _humbled_ myself with fasting. When my prayers returned to me unanswered,
+ESV	But I, when they were sick — I wore sackcloth. _I afflicted_ myself with fasting. I prayed with head bowed on my chest.
+NBS	je privais
+
+(x)	_חַם_־לִבִּ֨י׀ בְּקִרְבִּ֗י בַּהֲגִיגִ֥י תִבְעַר־אֵ֑שׁ דִּ֝בַּ֗רְתִּי בִּלְשֹֽׁונִי׃ (Psa. 39:4)
+NIV	My heart _grew hot_ within me, and as I meditated, the fire burned. then I spoke with my tongue:
+ESV	My heart _became hot_ within me. As I mused, the fire burned. then I spoke with my tongue:
+NBS	Mon cœur brûlait
+
+(x)	גַּם־אִ֤ישׁ שְׁלֹומִ֨י׀ אֲשֶׁר־_בָּטַ֣חְתִּי_ בֹ֖ו אֹוכֵ֣ל לַחְמִ֑י הִגְדִּ֖יל עָלַ֣י עָקֵֽב׃ (Psa. 41:10)
+NIV	Even my close friend, whom _I trusted_, he who shared my bread, has lifted up his heel against me.
+ESV	Even my close friend in whom _I trusted_, who ate my bread, has lifted his heel against me.
+NBS	qui avait confiance
+
+(x)	כִּֽי־הִנֵּ֣ה הַ֭מְּלָכִים _נֹֽועֲד֑וּ_ עָבְר֥וּ יַחְדָּֽו׃ (Psa. 48:5)
+NIV	When the kings _joined forces_, when they advanced together,
+ESV	For behold, the kings _assembled_. they came on together.
+NBS	s étaient ligués
+
+(x)	וַאֲנִי־בַ֭עַר וְלֹ֣א אֵדָ֑ע בְּ֝הֵמֹ֗ות _הָיִ֥יתִי_ עִמָּֽךְ׃ (Psa. 73:22)
+NIV	_I was_ senseless and ignorant. _I was_ a brute beast before you.
+ESV	_I was_ brutish and ignorant. _I was_ like a beast toward you.
+NBS	j étais
+
+(x)	אִם־_הֲרָגָ֥ם_ וּדְרָשׁ֑וּהוּ וְ֝שָׁ֗בוּ וְשִֽׁחֲרוּ־אֵֽל׃ (Psa. 78:34)
+NIV	Whenever God _slew_ them, they would seek him. they eagerly turned to him again.
+ESV	When _he killed_ them, they sought him. they repented and sought God earnestly.
+NBS	tuer il allait les
+
+(x)	_תָּע֣וּ_ בַ֭מִּדְבָּר בִּישִׁימֹ֣ון דָּ֑רֶךְ עִ֥יר מֹ֝ושָׁ֗ב לֹ֣א מָצָֽאוּ׃ (Psa. 107:4)
+NIV	_Some wandered_ in desert wastelands, finding no way to a city where they could settle.
+ESV	_Some wandered_ in desert wastes, finding no way to a city to dwell in.
+NBS	Ils erraient
+
+(x)	וַיֶּאֱהַ֣ב קְ֭לָלָה וַתְּבֹואֵ֑הוּ וְֽלֹא־_חָפֵ֥ץ_ בִּ֝בְרָכָ֗ה וַתִּרְחַ֥ק מִמֶּֽנּוּ׃ (Psa. 109:17)
+NIV	He loved to pronounce a curse — may it come on him. he found no pleasure in blessing — may it be far from him.
+ESV	He loved to curse. let curses come upon him! He did not delight in blessing. may it be far from him!
+NBS	Il se plaisait
+
+(x)	אֲ֭נִי _אָמַ֣רְתִּי_ בְחָפְזִ֑י כָּֽל־הָאָדָ֥ם כֹּזֵֽב׃ (Psa. 116:11)
+NIV	And in my dismay I _said_, “All men are liars.”
+ESV	I _said_ in my alarm, “All mankind are liars.”
+NBS	disais
+
+(x)	_סַבּ֥וּנִי_ גַם־סְבָב֑וּנִי בְּשֵׁ֥ם יְ֝הוָ֗ה כִּ֣י אֲמִילַֽם׃ (Psa. 118:11)
+NIV	They surrounded me on every side, but in the name of the LORD I cut them off.
+ESV	_They surrounded_ me, surrounded me on every side. in the name of the Lord I cut them off!
+NBS	Elles entouraient m
+
+(x)	סַבּ֥וּנִי גַם־_סְבָב֑וּנִי_ בְּשֵׁ֥ם יְ֝הוָ֗ה כִּ֣י אֲמִילַֽם׃ (Psa. 118:11)
+NIV	They surrounded me on every side, but in the name of the LORD I cut them off.
+ESV	They _surrounded_ me, _surrounded_ me on every side. in the name of the Lord I cut them off!
+NBS	elles étaient autour de moi
+
+(x)	_סַבּ֤וּנִי_ כִדְבֹורִ֗ים דֹּ֭עֲכוּ כְּאֵ֣שׁ קֹוצִ֑ים בְּשֵׁ֥ם יְ֝הוָ֗ה כִּ֣י אֲמִילַֽם׃ (Psa. 118:12)
+NIV	_They swarmed around_ me like bees, but they died out as quickly as burning thorns. in the name of the LORD I cut them off.
+ESV	_They surrounded_ me like bees. they went out like a fire among thorns. in the name of the Lord I cut them off!
+NBS	Elles m entouraient
+
+(x)	שִׁ֗יר הַֽמַּ֫עֲלֹ֥ות בְּשׁ֣וּב יְ֭הוָה אֶת־שִׁיבַ֣ת צִיֹּ֑ון _הָ֝יִ֗ינוּ_ כְּחֹלְמִֽים׃ (Psa. 126:1)
+NIV	When the LORD brought back the captives to Zion, _we were_ like men who dreamed.
+ESV	When the Lord restored the fortunes of Zion, _we were_ like those who dream.
+NBS	nous étions
+
+(x)	עַ֥ל נַהֲרֹ֨ות׀ בָּבֶ֗ל שָׁ֣ם _יָ֭שַׁבְנוּ_ גַּם־בָּכִ֑ינוּ בְּ֝זָכְרֵ֗נוּ אֶת־צִיֹּֽון׃ (Psa. 137:1)
+NIV	By the rivers of Babylon _we sat_ and wept when we remembered Zion.
+ESV	By the waters of Babylon, there _we sat down_ and wept, when we remembered Zion.
+NBS	nous étions assis
+
+(x)	עַ֥ל נַהֲרֹ֨ות׀ בָּבֶ֗ל שָׁ֣ם יָ֭שַׁבְנוּ גַּם־_בָּכִ֑ינוּ_ בְּ֝זָכְרֵ֗נוּ אֶת־צִיֹּֽון׃ (Psa. 137:1)
+NIV	By the rivers of Babylon we sat and _wept_ when we remembered Zion.
+ESV	By the waters of Babylon, there we sat down and _wept_, when we remembered Zion.
+NBS	nous pleurions
+
+(x)	אִ֛ישׁ _הָיָ֥ה_ בְאֶֽרֶץ־ע֖וּץ אִיֹּ֣וב שְׁמֹ֑ו וְהָיָ֣ה׀ הָאִ֣ישׁ הַה֗וּא תָּ֧ם וְיָשָׁ֛ר וִירֵ֥א אֱלֹהִ֖ים וְסָ֥ר מֵרָֽע׃ (Job 1:1)
+NIV	In the land of Uz there _lived_ a man whose name was Job. This man was blameless and upright. he feared God and shunned evil.
+ESV	_There was_ a man in the land of Uz whose name was Job, and that man was blameless and upright, one who feared God and turned away from evil.
+NBS	Il y avait
+
+(x)	וַיֵּשְׁב֤וּ אִתֹּו֙ לָאָ֔רֶץ שִׁבְעַ֥ת יָמִ֖ים וְשִׁבְעַ֣ת לֵילֹ֑ות וְאֵין־דֹּבֵ֤ר אֵלָיו֙ דָּבָ֔ר כִּ֣י _רָא֔וּ_ כִּֽי־גָדַ֥ל הַכְּאֵ֖ב מְאֹֽד׃ (Job 2:13)
+NIV	Then they sat on the ground with him for seven days and seven nights. No-one said a word to him, because _they saw_ how great his suffering was.
+ESV	And they sat with him on the ground seven days and seven nights, and no one spoke a word to him, for _they saw_ that his suffering was very great.
+NBS	ils voyaient
+
+(x)	וְ֭אֵלֶּה _צָפַ֣נְתָּ_ בִלְבָבֶ֑ךָ יָ֝דַ֗עְתִּי כִּי־זֹ֥את עִמָּֽךְ׃ (Job 10:13)
+NIV	“But this is what _you concealed_ in your heart, and I know that this was in your mind:
+ESV	Yet these things _you hid_ in your heart. I know that this was your purpose.
+NBS	tu réservais
+
+(x)	עַ֣יִן _שְׁ֭זָפַתּוּ_ וְלֹ֣א תֹוסִ֑יף וְלֹא־עֹ֝֗וד תְּשׁוּרֶ֥נּוּ מְקֹומֹֽו׃ (Job 20:9)
+NIV	The eye that _saw_ him will not see him again. his place will look on him no more.
+ESV	The eye that _saw_ him will see him no more, nor will his place any more behold him.
+NBS	qui le regardait
+
+(x)	מִֽי־יִתֵּ֣ן _יָ֭דַעְתִּי_ וְאֶמְצָאֵ֑הוּ אָ֝בֹ֗וא עַד־תְּכוּנָתֹֽו׃ (Job 23:3)
+NIV	If only _I knew_ where to find him. if only I could go to his dwelling!
+ESV	Oh, that _I knew_ where I might find him, that I might come even to his seat!
+NBS	je savais
+
+(x)	כַּאֲשֶׁ֣ר _הָ֭יִיתִי_ בִּימֵ֣י חָרְפִּ֑י בְּסֹ֥וד אֱ֝לֹ֗והַּ עֲלֵ֣י אָהֳלִֽי׃ (Job 29:4)
+NIV	Oh, for the days when _I was_ in my prime, when God’s intimate friendship blessed my house,
+ESV	as _I was_ in my prime, when the friendship of God was upon my tent,
+NBS	j étais
+
+(x)	_רָא֣וּנִי_ נְעָרִ֣ים וְנֶחְבָּ֑אוּ וִֽ֝ישִׁישִׁים קָ֣מוּ עָמָֽדוּ׃ (Job 29:8)
+NIV	the young men _saw_ me and stepped aside and the old men rose to their feet.
+ESV	the young men _saw_ me and withdrew, and the aged rose and stood.
+NBS	voyaient me
+
+(x)	רָא֣וּנִי נְעָרִ֣ים וְנֶחְבָּ֑אוּ וִֽ֝ישִׁישִׁים _קָ֣מוּ_ עָמָֽדוּ׃ (Job 29:8)
+NIV	the young men saw me and stepped aside and the old men _rose to their feet_.
+ESV	the young men saw me and withdrew, and the aged _rose_ and stood.
+NBS	levaient se
+
+(x)	רָא֣וּנִי נְעָרִ֣ים וְנֶחְבָּ֑אוּ וִֽ֝ישִׁישִׁים קָ֣מוּ _עָמָֽדוּ_׃ (Job 29:8)
+NIV	the young men saw me and stepped aside and the old men _rose to their feet_.
+ESV	the young men saw me and withdrew, and the aged rose and _stood_.
+NBS	debout se tenaient
+
+(x)	שָׂ֭רִים _עָצְר֣וּ_ בְמִלִּ֑ים וְ֝כַ֗ף יָשִׂ֥ימוּ לְפִיהֶֽם׃ (Job 29:9)
+NIV	the chief men _refrained_ from speaking and covered their mouths with their hands.
+ESV	the princes _refrained_ from talking and laid their hand on their mouth.
+NBS	arrêtaient
+
+(x)	קֹול־נְגִידִ֥ים _נֶחְבָּ֑אוּ_ וּ֝לְשֹׁונָ֗ם לְחִכָּ֥ם דָּבֵֽקָה׃ (Job 29:10)
+NIV	the voices of the nobles _were hushed_, and their tongues stuck to the roof of their mouths.
+ESV	the voice of the nobles _was hushed_, and their tongue stuck to the roof of their mouth.
+NBS	se taisaient
+
+(x)	קֹול־נְגִידִ֥ים נֶחְבָּ֑אוּ וּ֝לְשֹׁונָ֗ם לְחִכָּ֥ם _דָּבֵֽקָה_׃ (Job 29:10)
+NIV	the voices of the nobles were hushed, and their tongues _stuck_ to the roof of their mouths.
+ESV	the voice of the nobles was hushed, and their tongue _stuck_ to the roof of their mouth.
+NBS	attachait s
+
+(x)	כִּ֤י אֹ֣זֶן _שָׁ֭מְעָה_ וַֽתְּאַשְּׁרֵ֑נִי וְעַ֥יִן רָ֝אֲתָ֗ה וַתְּעִידֵֽנִי׃ (Job 29:11)
+NIV	Whoever _heard_ me spoke well of me, and those who saw me commended me,
+ESV	When the ear _heard_, it called me blessed, and when the eye saw, it approved,
+NBS	entendait qui m
+
+(x)	כִּ֤י אֹ֣זֶן שָׁ֭מְעָה וַֽתְּאַשְּׁרֵ֑נִי וְעַ֥יִן _רָ֝אֲתָ֗ה_ וַתְּעִידֵֽנִי׃ (Job 29:11)
+NIV	Whoever heard me spoke well of me, and those who _saw_ me commended me,
+ESV	When the ear heard, it called me blessed, and when the eye _saw_, it approved,
+NBS	voyait
+
+(x)	עֵינַ֣יִם _הָ֭יִיתִי_ לַֽעִוֵּ֑ר וְרַגְלַ֖יִם לַפִּסֵּ֣חַ אָֽנִי׃ (Job 29:15)
+NIV	I _was_ eyes to the blind and feet to the lame.
+ESV	I _was_ eyes to the blind and feet to the lame.
+NBS	J étais
+
+(x)	לִֽי־_שָׁמְע֥וּ_ וְיִחֵ֑לּוּ וְ֝יִדְּמ֗וּ לְמֹ֣ו עֲצָתִֽי׃ (Job 29:21)
+NIV	“_Men listened_ to me expectantly, waiting in silence for my counsel.
+ESV	“_Men listened_ to me and waited and kept silence for my counsel.
+NBS	On écoutait
+
+(x)	וְיִֽחֲל֣וּ כַמָּטָ֣ר לִ֑י וּ֝פִיהֶ֗ם _פָּעֲר֥וּ_ לְמַלְקֹֽושׁ׃ (Job 29:23)
+NIV	They waited for me as for showers and _drank in_ my words as the spring rain.
+ESV	They waited for me as for the rain, and _they opened_ their mouths as for the spring rain.
+NBS	ouvraient ils
+
+(x)	כִּֽי־תֹאמַ֗ר הֵן֮ לֹא־_יָדַ֪עְנ֫וּ_ זֶ֥ה הֲֽלֹא־תֹ֘כֵ֤ן לִבֹּ֨ות׀ הֽוּא־יָבִ֗ין וְנֹצֵ֣ר נַ֭פְשְׁךָ ה֣וּא יֵדָ֑ע וְהֵשִׁ֖יב לְאָדָ֣ם כְּפָעֳלֹֽו׃ (Prov. 24:12)
+NIV	If you say, “But _we knew_ nothing about this,” does not he who weighs the heart perceive it? Does not he who guards your life know it? Will he not repay each person according to what he has done?
+ESV	If you say, “Behold, we did not know this,” does not he who weighs the heart perceive it? Does not he who keeps watch over your soul know it, and will he not repay man according to his work?
+NBS	Nous savions
+
+(x)	וְהִנֵּ֨ה עָ֘לָ֤ה כֻלֹּ֨ו׀ קִמְּשֹׂנִ֗ים _כָּסּ֣וּ_ פָנָ֣יו חֲרֻלִּ֑ים וְגֶ֖דֶר אֲבָנָ֣יו נֶהֱרָֽסָה׃ (Prov. 24:31)
+NIV	thorns had come up everywhere, the ground _was covered_ with weeds, and the stone wall was in ruins.
+ESV	and behold, it was all overgrown with thorns. the ground _was covered_ with nettles, and its stone wall was broken down.
+NBS	couvraient
+
+(x)	וְזֹאת֩ לְפָנִ֨ים בְּיִשְׂרָאֵ֜ל עַל־הַגְּאוּלָּ֤ה וְעַל־הַתְּמוּרָה֙ לְקַיֵּ֣ם כָּל־דָּבָ֔ר _שָׁלַ֥ף_ אִ֛ישׁ נַעֲלֹ֖ו וְנָתַ֣ן לְרֵעֵ֑הוּ וְזֹ֥את הַתְּעוּדָ֖ה בְּיִשְׂרָאֵֽל׃ (Ruth 4:7)
+NIV	( Now in earlier times in Israel, for the redemption and transfer of property to become final, one party _took off_ his sandal and gave it to the other. This was the method of legalising transactions in Israel. )
+ESV	Now this was the custom in former times in Israel concerning redeeming and exchanging: to confirm a transaction, the one _drew off_ his sandal and gave it to the other, and this was the manner of attesting in Israel.
+NBS	ôtait
+
+(x)	וְגָדַ֣לְתִּי וְהֹוסַ֔פְתִּי מִכֹּ֛ל שֶׁהָיָ֥ה לְפָנַ֖י בִּירוּשָׁלִָ֑ם אַ֥ף חָכְמָתִ֖י _עָ֥מְדָה_ לִּֽי׃ (Eccl. 2:9)
+NIV	I became greater by far than anyone in Jerusalem before me. In all this my wisdom _stayed_ with me.
+ESV	So I became great and surpassed all who were before me in Jerusalem. Also my wisdom _remained_ with me.
+NBS	demeurait
+
+(x)	אֵֽין־קֵ֣ץ לְכָל־הָעָ֗ם לְכֹ֤ל אֲשֶׁר־_הָיָה֙_ לִפְנֵיהֶ֔ם גַּ֥ם הָאַחֲרֹונִ֖ים לֹ֣א יִשְׂמְחוּ־בֹ֑ו כִּֽי־גַם־זֶ֥ה הֶ֖בֶל וְרַעְיֹ֥ון רֽוּחַ׃ (Eccl. 4:16)
+NIV	There was no end to all the people who _were_ before them. But those who came later _were_ not pleased with the successor. This too is meaningless, a chasing after the wind.
+ESV	There was no end of all the people, all of whom _he led_. Yet those who come later will not rejoice in him. Surely this also is vanity and a striving after wind.
+NBS	il se tenait
+
+(x)	קָרָ֤אתִי לַֽמְאַהֲבַי֙ הֵ֣מָּה רִמּ֔וּנִי כֹּהֲנַ֥י וּזְקֵנַ֖י בָּעִ֣יר גָּוָ֑עוּ כִּֽי־_בִקְשׁ֥וּ_ אֹ֨כֶל֙ לָ֔מֹו וְיָשִׁ֖יבוּ אֶת־נַפְשָֽׁם׃ ס (Lam. 1:19)
+NIV	“I called to my allies but they betrayed me. My priests and my elders perished in the city while _they searched for_ food to keep themselves alive.
+ESV	“I called to my lovers, but they deceived me. my priests and elders perished in the city, while _they sought_ food to revive their strength.
+NBS	ils cherchaient
+
+(x)	_צָד֣וּ_ צְעָדֵ֔ינוּ מִלֶּ֖כֶת בִּרְחֹבֹתֵ֑ינוּ קָרַ֥ב קִצֵּ֛ינוּ מָלְא֥וּ יָמֵ֖ינוּ כִּי־בָ֥א קִצֵּֽינוּ׃ ס (Lam. 4:18)
+NIV	Men _stalked_ us at every step, so we could not walk in our streets. Our end was near, our days were numbered, for our end had come.
+ESV	_They dogged_ our steps so that we could not walk in our streets. our end drew near. our days were numbered, for our end had come.
+NBS	On épiait
+
+(x)	צָד֣וּ צְעָדֵ֔ינוּ מִלֶּ֖כֶת בִּרְחֹבֹתֵ֑ינוּ _קָרַ֥ב_ קִצֵּ֛ינוּ מָלְא֥וּ יָמֵ֖ינוּ כִּי־בָ֥א קִצֵּֽינוּ׃ ס (Lam. 4:18)
+NIV	Men stalked us at every step, so we could not walk in our streets. Our end _was near_, our days were numbered, for our end had come.
+ESV	They dogged our steps so that we could not walk in our streets. our end _drew near_. our days were numbered, for our end had come.
+NBS	approchait
+
+(x)	קַלִּ֤ים _הָיוּ֙_ רֹדְפֵ֔ינוּ מִנִּשְׁרֵ֖י שָׁמָ֑יִם עַל־הֶהָרִ֣ים דְּלָקֻ֔נוּ בַּמִּדְבָּ֖ר אָ֥רְבוּ לָֽנוּ׃ ס (Lam. 4:19)
+NIV	Our pursuers _were_ swifter than eagles in the sky. they chased us over the mountains and lay in wait for us in the desert.
+ESV	Our pursuers _were_ swifter than the eagles in the heavens. they chased us on the mountains. they lay in wait for us in the wilderness.
+NBS	étaient
+
+(x)	אִ֣ישׁ יְהוּדִ֔י _הָיָ֖ה_ בְּשׁוּשַׁ֣ן הַבִּירָ֑ה וּשְׁמֹ֣ו מָרְדֳּכַ֗י בֶּ֣ן יָאִ֧יר בֶּן־שִׁמְעִ֛י בֶּן־קִ֖ישׁ אִ֥ישׁ יְמִינִֽי׃ (Esth. 2:5)
+NIV	Now _there was_ in the citadel of Susa a Jew of the tribe of Benjamin, named Mordecai son of Jair, the son of Shimei, the son of Kish,
+ESV	Now _there was_ a Jew in Susa the citadel whose name was Mordecai, the son of Jair, son of Shimei, son of Kish, a Benjaminite,
+NBS	Il y avait
+
+(x)	וַיֵּצֵ֤א הָמָן֙ בַּיֹּ֣ום הַה֔וּא שָׂמֵ֖חַ וְטֹ֣וב לֵ֑ב וְכִרְאֹות֩ הָמָ֨ן אֶֽת־מָרְדֳּכַ֜י בְּשַׁ֣עַר הַמֶּ֗לֶךְ וְלֹא־_קָם֙_ וְלֹא־זָ֣ע מִמֶּ֔נּוּ וַיִּמָּלֵ֥א הָמָ֛ן עַֽל־מָרְדֳּכַ֖י חֵמָֽה׃ (Esth. 5:9)
+NIV	Haman went out that day happy and in high spirits. But when he saw Mordecai at the king’s gate and observed that he neither rose nor showed fear in his presence, he was filled with rage against Mordecai.
+ESV	And Haman went out that day joyful and glad of heart. But when Haman saw Mordecai in the king’s gate, that he neither rose nor trembled before him, he was filled with wrath against Mordecai.
+NBS	se levait
+
+(x)	וַיֵּצֵ֤א הָמָן֙ בַּיֹּ֣ום הַה֔וּא שָׂמֵ֖חַ וְטֹ֣וב לֵ֑ב וְכִרְאֹות֩ הָמָ֨ן אֶֽת־מָרְדֳּכַ֜י בְּשַׁ֣עַר הַמֶּ֗לֶךְ וְלֹא־קָם֙ וְלֹא־_זָ֣ע_ מִמֶּ֔נּוּ וַיִּמָּלֵ֥א הָמָ֛ן עַֽל־מָרְדֳּכַ֖י חֵמָֽה׃ (Esth. 5:9)
+NIV	Haman went out that day happy and in high spirits. But when he saw Mordecai at the king’s gate and observed that he neither rose nor _showed fear_ in his presence, he was filled with rage against Mordecai.
+ESV	And Haman went out that day joyful and glad of heart. But when Haman saw Mordecai in the king’s gate, that he neither rose nor _trembled_ before him, he was filled with wrath against Mordecai.
+NBS	tremblait
+
+(x)	וַיֹּאמֶר֮ הָמָן֒ אַ֣ף לֹא־הֵבִיאָה֩ אֶסְתֵּ֨ר הַמַּלְכָּ֧ה עִם־הַמֶּ֛לֶךְ אֶל־הַמִּשְׁתֶּ֥ה אֲשֶׁר־_עָשָׂ֖תָה_ כִּ֣י אִם־אֹותִ֑י וְגַם־לְמָחָ֛ר אֲנִ֥י קָֽרוּא־לָ֖הּ עִם־הַמֶּֽלֶךְ׃ (Esth. 5:12)
+NIV	“And that’s not all,” Haman added. “I’m the only person Queen Esther invited to accompany the king to the banquet _she gave_. And she has invited me along with the king tomorrow.
+ESV	Then Haman said, “Even Queen Esther let no one but me come with the king to the feast _she prepared_. And tomorrow also I am invited by her together with the king.
+NBS	donnait elle
+
+(x)	וַיָּ֥שָׁב מָרְדֳּכַ֖י אֶל־שַׁ֣עַר הַמֶּ֑לֶךְ וְהָמָן֙ _נִדְחַ֣ף_ אֶל־בֵּיתֹ֔ו אָבֵ֖ל וַחֲפ֥וּי רֹֽאשׁ׃ (Esth. 6:12)
+NIV	Afterwards Mordecai returned to the king’s gate. But Haman _rushed_ home, with his head covered, in grief,
+ESV	Then Mordecai returned to the king’s gate. But Haman _hurried_ to his house, mourning and with his head covered.
+NBS	précipitait se
+
+(x)	וְהַמֶּ֜לֶךְ קָ֤ם בַּחֲמָתֹו֙ מִמִּשְׁתֵּ֣ה הַיַּ֔יִן אֶל־גִּנַּ֖ת הַבִּיתָ֑ן וְהָמָ֣ן _עָמַ֗ד_ לְבַקֵּ֤שׁ עַל־נַפְשֹׁו֙ מֵֽאֶסְתֵּ֣ר הַמַּלְכָּ֔ה כִּ֣י רָאָ֔ה כִּֽי־כָלְתָ֥ה אֵלָ֛יו הָרָעָ֖ה מֵאֵ֥ת הַמֶּֽלֶךְ׃ (Esth. 7:7)
+NIV	The king got up in a rage, left his wine and went out into the palace garden. But Haman, realising that the king had already decided his fate, _stayed_ behind to beg Queen Esther for his life.
+ESV	And the king arose in his wrath from the wine-drinking and went into the palace garden, but Haman _stayed_ to beg for his life from Queen Esther, for he saw that harm was determined against him by the king.
+NBS	restait
+
+(x)	וְהַמֶּ֡לֶךְ _שָׁב֩_ מִגִּנַּ֨ת הַבִּיתָ֜ן אֶל־בֵּ֣ית׀ מִשְׁתֵּ֣ה הַיַּ֗יִן וְהָמָן֙ נֹפֵ֔ל עַל־הַמִּטָּה֙ אֲשֶׁ֣ר אֶסְתֵּ֣ר עָלֶ֔יהָ וַיֹּ֣אמֶר הַמֶּ֔לֶךְ הֲ֠גַם לִכְבֹּ֧ושׁ אֶת־הַמַּלְכָּ֛ה עִמִּ֖י בַּבָּ֑יִת הַדָּבָ֗ר יָצָא֙ מִפִּ֣י הַמֶּ֔לֶךְ וּפְנֵ֥י הָמָ֖ן חָפֽוּ׃ ס (Esth. 7:8)
+NIV	Just as the king _returned_ from the palace garden to the banquet hall, Haman was falling on the couch where Esther was reclining. The king exclaimed, “Will he even molest the queen while she is with me in the house?” As soon as the word left the king’s mouth, they covered Haman’s face.
+ESV	And the king _returned_ from the palace garden to the place where they were drinking wine, as Haman was falling on the couch where Esther was. And the king said, “Will he even assault the queen in my presence, in my own house?” As the word left the mouth of the king, they covered Haman’s face.
+NBS	revenait
+
+(x)	אֲשֶׁר֩ _נָתַ֨ן_ הַמֶּ֜לֶךְ לַיְּהוּדִ֣ים׀ אֲשֶׁ֣ר בְּכָל־עִיר־וָעִ֗יר לְהִקָּהֵל֮ וְלַעֲמֹ֣ד עַל־נַפְשָׁם֒ לְהַשְׁמִיד֩ וְלַהֲרֹ֨ג וּלְאַבֵּ֜ד אֶת־כָּל־חֵ֨יל עַ֧ם וּמְדִינָ֛ה הַצָּרִ֥ים אֹתָ֖ם טַ֣ף וְנָשִׁ֑ים וּשְׁלָלָ֖ם לָבֹֽוז׃ (Esth. 8:11)
+NIV	The king’s edict _granted_ the Jews in every city the right to assemble and protect themselves. to destroy, kill and annihilate any armed force of any nationality or province that might attack them and their women and children. and to plunder the property of their enemies.
+ESV	saying that the king _allowed_ the Jews who were in every city to gather and defend their lives, to destroy, to kill, and to annihilate any armed force of any people or province that might attack them, children and women included, and to plunder their goods,
+NBS	autorisait
+
+(x)	וּמִקְצָת֙ יָמִ֣ים עֲשָׂרָ֔ה _נִרְאָ֤ה_ מַרְאֵיהֶם֙ טֹ֔וב וּבְרִיאֵ֖י בָּשָׂ֑ר מִן־כָּל־הַיְלָדִ֔ים הָאֹ֣כְלִ֔ים אֵ֖ת פַּתְבַּ֥ג הַמֶּֽלֶךְ׃ (Dan. 1:15)
+NIV	At the end of the ten days they _looked_ healthier and better nourished than any of the young men who ate the royal food.
+ESV	At the end of ten days _it was seen_ that they were better in appearance and fatter in flesh than all the youths who ate the king’s food.
+NBS	ils avaient
+
+(x)	וַיְדַבֵּ֣ר אִתָּם֮ הַמֶּלֶךְ֒ וְלֹ֤א _נִמְצָא֙_ מִכֻּלָּ֔ם כְּדָנִיֵּ֣אל חֲנַנְיָ֔ה מִֽישָׁאֵ֖ל וַעֲזַרְיָ֑ה וַיַּֽעַמְד֖וּ לִפְנֵ֥י הַמֶּֽלֶךְ׃ (Dan. 1:19)
+NIV	The king talked with them, and _he found_ none equal to Daniel, Hananiah, Mishael and Azariah. so they entered the king’s service.
+ESV	And the king spoke with them, and among all of them none _was found_ like Daniel, Hananiah, Mishael, and Azariah. Therefore they stood before the king.
+NBS	il s trouvait
+
+(x)	וְכֹ֗ל דְּבַר֙ חָכְמַ֣ת בִּינָ֔ה אֲשֶׁר־_בִּקֵּ֥שׁ_ מֵהֶ֖ם הַמֶּ֑לֶךְ וַֽיִּמְצָאֵ֞ם עֶ֣שֶׂר יָדֹ֗ות עַ֤ל כָּל־הַֽחַרְטֻמִּים֙ הָֽאַשָּׁפִ֔ים אֲשֶׁ֖ר בְּכָל־מַלְכוּתֹֽו׃ (Dan. 1:20)
+NIV	In every matter of wisdom and understanding about which the king _questioned_ them, he found them ten times better than all the magicians and enchanters in his whole kingdom.
+ESV	And in every matter of wisdom and understanding about which the king _inquired_ of them, he found them ten times better than all the magicians and enchanters that were in all his kingdom.
+NBS	interrogeait
+
+(x)	בִּשְׁנַ֣ת שָׁלֹ֗ושׁ לְכֹ֨ורֶשׁ֙ מֶ֣לֶךְ פָּרַ֔ס דָּבָר֙ נִגְלָ֣ה לְדָֽנִיֵּ֔אל אֲשֶׁר־_נִקְרָ֥א_ שְׁמֹ֖ו בֵּלְטְשַׁאצַּ֑ר וֶאֱמֶ֤ת הַדָּבָר֙ וְצָבָ֣א גָדֹ֔ול וּבִין֙ אֶת־הַדָּבָ֔ר וּבִ֥ינָה לֹ֖ו בַּמַּרְאֶֽה׃ (Dan. 10:1)
+NIV	In the third year of Cyrus king of Persia, a revelation was given to Daniel ( who _was called_ Belteshazzar ). Its message was true and it concerned a great war. The understanding of the message came to him in a vision.
+ESV	In the third year of Cyrus king of Persia a word was revealed to Daniel, who _was named_ Belteshazzar. And the word was true, and it was a great conflict. And he understood the word and had understanding of the vision.
+NBS	nommait
+
+(x)	וַאֲנִי֙ _נִשְׁאַ֣רְתִּי_ לְבַדִּ֔י וָֽאֶרְאֶ֗ה אֶת־הַמַּרְאָ֤ה הַגְּדֹלָה֙ הַזֹּ֔את וְלֹ֥א נִשְׁאַר־בִּ֖י כֹּ֑ח וְהֹודִ֗י נֶהְפַּ֤ךְ עָלַי֙ לְמַשְׁחִ֔ית וְלֹ֥א עָצַ֖רְתִּי כֹּֽחַ׃ (Dan. 10:8)
+NIV	So I _was left_ alone, gazing at this great vision. I had no strength left, my face turned deathly pale and I was helpless.
+ESV	So I _was left_ alone and saw this great vision, and no strength _was left_ in me. My radiant appearance was fearfully changed, and I retained no strength.
+NBS	Je restai
+
+(x)	וּבְדַבְּרֹ֣ו עִמִּ֔י כַּדְּבָרִ֖ים הָאֵ֑לֶּה _נָתַ֧תִּי_ פָנַ֛י אַ֖רְצָה וְנֶאֱלָֽמְתִּי׃ (Dan. 10:15)
+NIV	While he was saying this to me, _I bowed_ with my face towards the ground and was speechless.
+ESV	When he had spoken to me according to these words, _I turned_ my face toward the ground and was mute.
+NBS	baissais je
+
+(x)	וּבַשָּׁנָ֣ה הַשֵּׁנִ֗ית לְבֹואָ֞ם אֶל־בֵּ֤ית הָֽאֱלֹהִים֙ לִיר֣וּשָׁלִַ֔ם בַּחֹ֖דֶשׁ הַשֵּׁנִ֑י _הֵחֵ֡לּוּ_ זְרֻבָּבֶ֣ל בֶּן־שְׁ֠אַלְתִּיאֵל וְיֵשׁ֨וּעַ בֶּן־יֹֽוצָדָ֜ק וּשְׁאָ֥ר אֲחֵיהֶ֣ם׀ הַכֹּהֲנִ֣ים וְהַלְוִיִּ֗ם וְכָל־הַבָּאִים֙ מֵהַשְּׁבִ֣י יְרֽוּשָׁלִַ֔ם וַיַּעֲמִ֣ידוּ אֶת־הַלְוִיִּ֗ם מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה לְנַצֵּ֖חַ עַל־מְלֶ֥אכֶת בֵּית־יְהוָֽה׃ פ (Ezra 3:8)
+NIV	In the second month of the second year after their arrival at the house of God in Jerusalem, Zerubbabel son of Shealtiel, Jeshua son of Jozadak and the rest of their brothers ( the priests and the Levites and all who had returned from the captivity to Jerusalem ) _began_ the work, appointing Levites twenty years of age and older to supervise the building of the house of the LORD.
+ESV	Now in the second year after their coming to the house of God at Jerusalem, in the second month, Zerubbabel the son of Shealtiel and Jeshua the son of Jozadak _made a beginning_, together with the rest of their kinsmen, the priests and the Levites and all who had come to Jerusalem from the captivity. They appointed the Levites, from twenty years old and upward, to supervise the work of the house of the Lord.
+NBS	commencèrent
+
+(x)	וַֽ֠יַּעֲנוּ בְּהַלֵּ֨ל וּבְהֹודֹ֤ת לַֽיהוָה֙ כִּ֣י טֹ֔וב כִּֽי־לְעֹולָ֥ם חַסְדֹּ֖ו עַל־יִשְׂרָאֵ֑ל וְכָל־הָעָ֡ם הֵרִיעוּ֩ תְרוּעָ֨ה גְדֹולָ֤ה בְהַלֵּל֙ לַֽיהוָ֔ה עַ֖ל _הוּסַ֥ד_ בֵּית־יְהוָֽה׃ ס (Ezra 3:11)
+NIV	With praise and thanksgiving they sang to the LORD: “He is good. his love to Israel endures for ever.” And all the people gave a great shout of praise to the LORD, because the foundation of the house of the LORD was laid.
+ESV	And they sang responsively, praising and giving thanks to the Lord, “For he is good, for his steadfast love endures forever toward Israel.” And all the people shouted with a great shout when they praised the Lord, because the foundation of the house of the Lord was laid.
+NBS	on posait les fondations
+
+(x)	וְאֵ֣ין הָעָ֗ם מַכִּירִים֙ קֹ֚ול תְּרוּעַ֣ת הַשִּׂמְחָ֔ה לְקֹ֖ול בְּכִ֣י הָעָ֑ם כִּ֣י הָעָ֗ם מְרִיעִים֙ תְּרוּעָ֣ה גְדֹולָ֔ה וְהַקֹּ֥ול _נִשְׁמַ֖ע_ עַד־לְמֵרָחֹֽוק׃ פ (Ezra 3:13)
+NIV	No-one could distinguish the sound of the shouts of joy from the sound of weeping, because the people made so much noise. And the sound _was heard_ far away.
+ESV	so that the people could not distinguish the sound of the joyful shout from the sound of the people’s weeping, for the people shouted with a great shout, and the sound _was heard_ far away.
+NBS	qui s entendait
+
+(x)	וּבְמַלְכוּת֙ אֲחַשְׁוֵרֹ֔ושׁ בִּתְחִלַּ֖ת מַלְכוּתֹ֑ו _כָּתְב֣וּ_ שִׂטְנָ֔ה עַל־יֹשְׁבֵ֥י יְהוּדָ֖ה וִירוּשָׁלִָֽם׃ ס (Ezra 4:6)
+NIV	At the beginning of the reign of Xerxes, _they lodged_ an accusation against the people of Judah and Jerusalem.
+ESV	And in the reign of Ahasuerus, in the beginning of his reign, _they wrote_ an accusation against the inhabitants of Judah and Jerusalem.
+NBS	ils écrivirent
+
+(x)	הַ֠בָּאִים מֵֽהַשְּׁבִ֨י בְנֵֽי־הַגֹּולָ֜ה _הִקְרִ֥יבוּ_ עֹלֹ֣ות׀ לֵאלֹהֵ֣י יִשְׂרָאֵ֗ל פָּרִ֨ים שְׁנֵים־עָשָׂ֤ר עַל־כָּל־יִשְׂרָאֵל֙ אֵילִ֣ים׀ תִּשְׁעִ֣ים וְשִׁשָּׁ֗ה כְּבָשִׂים֙ שִׁבְעִ֣ים וְשִׁבְעָ֔ה צְפִירֵ֥י חַטָּ֖את שְׁנֵ֣ים עָשָׂ֑ר הַכֹּ֖ל עֹולָ֥ה לַיהוָֽה׃ פ (Ezra 8:35)
+NIV	Then the exiles who had returned from captivity _sacrificed_ burnt offerings to the God of Israel: twelve bulls for all Israel, ninety-six rams, seventy-seven male lambs and, as a sin offering, twelve male goats. All this was a burnt offering to the LORD.
+ESV	At that time those who had come from captivity, the returned exiles, _offered_ burnt offerings to the God of Israel, twelve bulls for all Israel, ninety-six rams, seventy-seven lambs, and as a sin offering twelve male goats. All this was a burnt offering to the Lord.
+NBS	présentèrent
+
+(x)	וּכְהִתְפַּלֵּ֤ל עֶזְרָא֙ וּכְ֨הִתְוַדֹּתֹ֔ו בֹּכֶה֙ וּמִתְנַפֵּ֔ל לִפְנֵ֖י בֵּ֣ית הָאֱלֹהִ֑ים נִקְבְּצוּ֩ אֵלָ֨יו מִיִּשְׂרָאֵ֜ל קָהָ֣ל רַב־מְאֹ֗ד אֲנָשִׁ֤ים וְנָשִׁים֙ וִֽילָדִ֔ים כִּֽי־_בָכ֥וּ_ הָעָ֖ם הַרְבֵּה־בֶֽכֶה׃ ס (Ezra 10:1)
+NIV	While Ezra was praying and confessing, weeping and throwing himself down before the house of God, a large crowd of Israelites — men, women and children — gathered round him. They too wept bitterly.
+ESV	While Ezra prayed and made confession, weeping and casting himself down before the house of God, a very great assembly of men, women, and children, gathered to him out of Israel, for the people _wept bitterly_.
+NBS	répandait
+
+(x)	דִּבְרֵ֥י נְחֶמְיָ֖ה בֶּן־חֲכַלְיָ֑ה וַיְהִ֤י בְחֹֽדֶשׁ־כִּסְלֵיו֙ שְׁנַ֣ת עֶשְׂרִ֔ים וַאֲנִ֥י _הָיִ֖יתִי_ בְּשׁוּשַׁ֥ן הַבִּירָֽה׃ (Neh. 1:1)
+NIV	The words of Nehemiah son of Hacaliah: In the month of Kislev in the twentieth year, while I _was_ in the citadel of Susa,
+ESV	The words of Nehemiah the son of Hacaliah. Now it happened in the month of Chislev, in the twentieth year, as I _was_ in Susa the capital,
+NBS	étais
+
+(x)	אָנָּ֣א אֲדֹנָ֗י תְּהִ֣י נָ֣א אָזְנְךָֽ־קַ֠שֶּׁבֶת אֶל־תְּפִלַּ֨ת עַבְדְּךָ֜ וְאֶל־תְּפִלַּ֣ת עֲבָדֶ֗יךָ הַֽחֲפֵצִים֙ לְיִרְאָ֣ה אֶת־שְׁמֶ֔ךָ וְהַצְלִֽיחָה־נָּ֤א לְעַבְדְּךָ֙ הַיֹּ֔ום וּתְנֵ֣הוּ לְרַחֲמִ֔ים לִפְנֵ֖י הָאִ֣ישׁ הַזֶּ֑ה וַאֲנִ֛י _הָיִ֥יתִי_ מַשְׁקֶ֖ה לַמֶּֽלֶךְ׃ פ (Neh. 1:11)
+NIV	O Lord, let your ear be attentive to the prayer of this your servant and to the prayer of your servants who delight in revering your name. Give your servant success today by granting him favour in the presence of this man.” I _was_ cupbearer to the king.
+ESV	O Lord, let your ear be attentive to the prayer of your servant, and to the prayer of your servants who delight to fear your name, and give success to your servant today, and grant him mercy in the sight of this man.” Now I _was_ cupbearer to the king.
+NBS	j étais
+
+(x)	וְהַסְּגָנִ֗ים לֹ֤א _יָדְעוּ֙_ אָ֣נָה הָלַ֔כְתִּי וּמָ֖ה אֲנִ֣י עֹשֶׂ֑ה וְלַיְּהוּדִ֨ים וְלַכֹּהֲנִ֜ים וְלַחֹרִ֣ים וְלַסְּגָנִ֗ים וּלְיֶ֨תֶר֙ עֹשֵׂ֣ה הַמְּלָאכָ֔ה עַד־כֵּ֖ן לֹ֥א הִגַּֽדְתִּי׃ (Neh. 2:16)
+NIV	The officials did not know where I had gone or what I was doing, because as yet I had said nothing to the Jews or the priests or nobles or officials or any others who would be doing the work.
+ESV	And the officials did not know where I had gone or what I was doing, and I had not yet told the Jews, the priests, the nobles, the officials, and the rest who were to do the work.
+NBS	savaient
+
+(x)	וְעַל־יָדָ֖ם _הֶחֱזִ֣יקוּ_ הַתְּקֹועִ֑ים וְאַדִּֽירֵיהֶם֙ לֹא־הֵבִ֣יאוּ צַוָּרָ֔ם בַּעֲבֹדַ֖ת אֲדֹנֵיהֶֽם׃ ס (Neh. 3:5)
+NIV	The next section _was repaired_ by the men of Tekoa, but their nobles would not put their shoulders to the work under their supervisors.
+ESV	And next to them the Tekoites _repaired_, but their nobles would not stoop to serve their Lord.
+NBS	travaillèrent
+
+(x)	וַיְהִ֞י כַּֽאֲשֶׁר־שָׁמְע֤וּ אֹויְבֵ֨ינוּ֙ כִּי־_נֹ֣ודַֽע_ לָ֔נוּ וַיָּ֥פֶר הָאֱלֹהִ֖ים אֶת־עֲצָתָ֑ם וַנָּ֤שָׁב כֻּלָּ֨נוּ֙ אֶל־הַ֣חֹומָ֔ה אִ֖ישׁ אֶל־מְלַאכְתֹּֽו׃ (Neh. 4:9)
+NIV	When our enemies heard that we _were aware_ of their plot and that God had frustrated it, we all returned to the wall, each to his own work.
+ESV	When our enemies heard that _it was known_ to us and that God had frustrated their plan, we all returned to the wall, each to his work.
+NBS	nous étions avertis
+
+(x)	וְהַפַּחֹות֩ הָרִאשֹׁנִ֨ים אֲשֶׁר־לְפָנַ֜י הִכְבִּ֣ידוּ עַל־הָעָ֗ם וַיִּקְח֨וּ מֵהֶ֜ם בְּלֶ֤חֶם וָיַ֨יִן֙ אַחַר֙ כֶּֽסֶף־שְׁקָלִ֣ים אַרְבָּעִ֔ים גַּ֥ם נַעֲרֵיהֶ֖ם _שָׁלְט֣וּ_ עַל־הָעָ֑ם וַאֲנִי֙ לֹא־עָשִׂ֣יתִי כֵ֔ן מִפְּנֵ֖י יִרְאַ֥ת אֱלֹהִֽים׃ (Neh. 5:15)
+NIV	But the earlier governors — those preceding me — placed a heavy burden on the people and took forty shekels of silver from them in addition to food and wine. Their assistants also _lorded_ it over the people. But out of reverence for God I did not act like that.
+ESV	The former governors who were before me laid heavy burdens on the people and took from them for their daily ration forty shekels of silver. Even their servants _lorded_ it over the people. But I did not do so, because of the fear of God.
+NBS	dominaient en maîtres
+
+(x)	וַאֲשֶׁר֩ הָיָ֨ה נַעֲשֶׂ֜ה לְיֹ֣ום אֶחָ֗ד שֹׁ֣ור אֶחָ֞ד צֹ֠אן שֵׁשׁ־בְּרֻרֹ֤ות וְצִפֳּרִים֙ נַֽעֲשׂוּ־לִ֔י וּבֵ֨ין עֲשֶׂ֧רֶת יָמִ֛ים בְּכָל־יַ֖יִן לְהַרְבֵּ֑ה וְעִם־זֶ֗ה לֶ֤חֶם הַפֶּחָה֙ לֹ֣א בִקַּ֔שְׁתִּי כִּֽי־_כָֽבְדָ֥ה_ הָעֲבֹדָ֖ה עַל־הָעָ֥ם הַזֶּֽה׃ (Neh. 5:18)
+NIV	Each day one ox, six choice sheep and some poultry were prepared for me, and every ten days an abundant supply of wine of all kinds. In spite of all this, I never demanded the food allotted to the governor, because the demands _were heavy_ on these people.
+ESV	Now what was prepared at my expense for each day was one ox and six choice sheep and birds, and every ten days all kinds of wine in abundance. Yet for all this I did not demand the food allowance of the governor, because the service was too heavy on this people.
+NBS	pesait
+
+(x)	גַּ֣ם טֹובֹתָ֗יו הָי֤וּ אֹמְרִים֙ לְפָנַ֔י וּדְבָרַ֕י הָי֥וּ מֹוצִיאִ֖ים לֹ֑ו אִגְּרֹ֛ות _שָׁלַ֥ח_ טֹובִיָּ֖ה לְיָֽרְאֵֽנִי׃ (Neh. 6:19)
+NIV	Moreover, they kept reporting to me his good deeds and then telling him what I said. And Tobiah _sent_ letters to intimidate me.
+ESV	Also they spoke of his good deeds in my presence and reported my words to him. And Tobiah _sent_ letters to make me afraid.
+NBS	envoyait
+
+(x)	וַ֠תִּתֵּן אֹתֹ֨ת וּמֹֽפְתִ֜ים בְּפַרְעֹ֤ה וּבְכָל־עֲבָדָיו֙ וּבְכָל־עַ֣ם אַרְצֹ֔ו כִּ֣י _יָדַ֔עְתָּ_ כִּ֥י הֵזִ֖ידוּ עֲלֵיהֶ֑ם וַתַּֽעַשׂ־לְךָ֥ שֵׁ֖ם כְּהַיֹּ֥ום הַזֶּֽה׃ (Neh. 9:10)
+NIV	You sent miraculous signs and wonders against Pharaoh, against all his officials and all the people of his land, for _you knew_ how arrogantly the Egyptians treated them. You made a name for yourself, which remains to this day.
+ESV	and performed signs and wonders against Pharaoh and all his servants and all the people of his land, for _you knew_ that they acted arrogantly against our fathers. And you made a name for yourself, as it is to this day.
+NBS	tu savais
+
+(x)	וְאֵ֨לֶּה֙ רָאשֵׁ֣י הַמְּדִינָ֔ה אֲשֶׁ֥ר _יָשְׁב֖וּ_ בִּירוּשָׁלִָ֑ם וּבְעָרֵ֣י יְהוּדָ֗ה יָֽשְׁב֞וּ אִ֤ישׁ בַּאֲחֻזָּתֹו֙ בְּעָ֣רֵיהֶ֔ם יִשְׂרָאֵ֤ל הַכֹּהֲנִים֙ וְהַלְוִיִּ֣ם וְהַנְּתִינִ֔ים וּבְנֵ֖י עַבְדֵ֥י שְׁלֹמֹֽה׃ (Neh. 11:3)
+NIV	These are the provincial leaders who _settled_ in Jerusalem ( now some Israelites, priests, Levites, temple servants and descendants of Solomon’s servants lived in the towns of Judah, each on his own property in the various towns,
+ESV	These are the chiefs of the province who _lived_ in Jerusalem. but in the towns of Judah everyone _lived_ on his property in their towns: Israel, the priests, the Levites, the temple servants, and the descendants of Solomon’s servants.
+NBS	installèrent qui s
+
+(x)	וּבִֽירוּשָׁלִַ֨ם֙ _יָֽשְׁב֔וּ_ מִבְּנֵ֥י יְהוּדָ֖ה וּמִבְּנֵ֣י בִנְיָמִ֑ן מִבְּנֵ֣י יְ֠הוּדָה עֲתָיָ֨ה בֶן־עֻזִּיָּ֜ה בֶּן־זְכַרְיָ֧ה בֶן־אֲמַרְיָ֛ה בֶּן־שְׁפַטְיָ֥ה בֶן־מַהֲלַלְאֵ֖ל מִבְּנֵי־פָֽרֶץ׃ (Neh. 11:4)
+NIV	while other people from both Judah and Benjamin _lived_ in Jerusalem ): From the descendants of Judah: Athaiah son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalalel, a descendant of Perez.
+ESV	And in Jerusalem _lived_ certain of the sons of Judah and of the sons of Benjamin. Of the sons of Judah: Athaiah the son of Uzziah, son of Zechariah, son of Amariah, son of Shephatiah, son of Mahalalel, of the sons of Perez.
+NBS	installèrent s
+
+(x)	וּבְכָל־זֶ֕ה לֹ֥א _הָיִ֖יתִי_ בִּֽירוּשָׁלִָ֑ם כִּ֡י בִּשְׁנַת֩ שְׁלֹשִׁ֨ים וּשְׁתַּ֜יִם לְאַרְתַּחְשַׁ֤סְתְּא מֶֽלֶךְ־בָּבֶל֙ בָּ֣אתִי אֶל־הַמֶּ֔לֶךְ וּלְקֵ֥ץ יָמִ֖ים נִשְׁאַ֥לְתִּי מִן־הַמֶּֽלֶךְ׃ (Neh. 13:6)
+NIV	But while all this was going on, _I was_ not in Jerusalem, for in the thirty-second year of Artaxerxes king of Babylon I had returned to the king. Some time later I asked his permission
+ESV	While this was taking place, _I was_ not in Jerusalem, for in the thirty-second year of Artaxerxes king of Babylon I went to the king. And after some time I asked leave of the king
+NBS	Je étais
+
+(x)	וּבְכָל־זֶ֕ה לֹ֥א הָיִ֖יתִי בִּֽירוּשָׁלִָ֑ם כִּ֡י בִּשְׁנַת֩ שְׁלֹשִׁ֨ים וּשְׁתַּ֜יִם לְאַרְתַּחְשַׁ֤סְתְּא מֶֽלֶךְ־בָּבֶל֙ בָּ֣אתִי אֶל־הַמֶּ֔לֶךְ וּלְקֵ֥ץ יָמִ֖ים _נִשְׁאַ֥לְתִּי_ מִן־הַמֶּֽלֶךְ׃ (Neh. 13:6)
+NIV	But while all this was going on, I was not in Jerusalem, for in the thirty-second year of Artaxerxes king of Babylon I had returned to the king. Some time later _I asked_ his permission
+ESV	While this was taking place, I was not in Jerusalem, for in the thirty-second year of Artaxerxes king of Babylon I went to the king. And after some time _I asked_ leave of the king
+NBS	demandai je
+
+(x)	וְהַצֹּרִים֙ _יָ֣שְׁבוּ_ בָ֔הּ מְבִיאִ֥ים דָּ֖אג וְכָל־מֶ֑כֶר וּמֹכְרִ֧ים בַּשַּׁבָּ֛ת לִבְנֵ֥י יְהוּדָ֖ה וּבִירוּשָׁלִָֽם׃ (Neh. 13:16)
+NIV	Men from Tyre who _lived_ in Jerusalem were bringing in fish and all kinds of merchandise and selling them in Jerusalem on the Sabbath to the people of Judah.
+ESV	Tyrians also, who _lived_ in the city, brought in fish and all kinds of goods and sold them on the Sabbath to the people of Judah, in Jerusalem itself!
+NBS	qui habitaient
+
+(x)	וַיְהִ֡י כַּאֲשֶׁ֣ר צָֽלֲלוּ֩ שַׁעֲרֵ֨י יְרוּשָׁלִַ֜ם לִפְנֵ֣י הַשַּׁבָּ֗ת וָאֹֽמְרָה֙ וַיִּסָּגְר֣וּ הַדְּלָתֹ֔ות וָאֹ֣מְרָ֔ה אֲשֶׁר֙ לֹ֣א יִפְתָּח֔וּם עַ֖ד אַחַ֣ר הַשַּׁבָּ֑ת וּמִנְּעָרַ֗י _הֶֽעֱמַ֨דְתִּי֙_ עַל־הַשְּׁעָרִ֔ים לֹא־יָבֹ֥וא מַשָּׂ֖א בְּיֹ֥ום הַשַּׁבָּֽת׃ (Neh. 13:19)
+NIV	When evening shadows fell on the gates of Jerusalem before the Sabbath, I ordered the doors to be shut and not opened until the Sabbath was over. _I stationed_ some of my own men at the gates so that no load could be brought in on the Sabbath day.
+ESV	As soon as it began to grow dark at the gates of Jerusalem before the Sabbath, I commanded that the doors should be shut and gave orders that they should not be opened until after the Sabbath. And _I stationed_ some of my servants at the gates, that no load might be brought in on the Sabbath day.
+NBS	Je plaçai
+
+(x)	הֲלֹ֣וא עַל־אֵ֣לֶּה חָטָֽא־שְׁלֹמֹ֣ה מֶ֣לֶךְ יִשְׂרָאֵ֡ל וּבַגֹּויִ֣ם הָרַבִּים֩ לֹֽא־_הָיָ֨ה_ מֶ֜לֶךְ כָּמֹ֗הוּ וְאָה֤וּב לֵֽאלֹהָיו֙ הָיָ֔ה וַיִּתְּנֵ֣הוּ אֱלֹהִ֔ים מֶ֖לֶךְ עַל־כָּל־יִשְׂרָאֵ֑ל גַּם־אֹותֹ֣ו הֶחֱטִ֔יאוּ הַנָּשִׁ֖ים הַנָּכְרִיֹּֽות׃ (Neh. 13:26)
+NIV	Was it not because of marriages like these that Solomon king of Israel sinned? Among the many nations _there was_ no king like him. He was loved by his God, and God made him king over all Israel, but even he was led into sin by foreign women.
+ESV	Did not Solomon king of Israel sin on account of such women? Among the many nations _there was_ no king like him, and he was beloved by his God, and God made him king over all Israel. Nevertheless, foreign women made even him to sin.
+NBS	Il y avait
+
+(x)	וְלֹֽא־_הָיָ֧ה_ לְשֵׁשָׁ֛ן בָּנִ֖ים כִּ֣י אִם־בָּנֹ֑ות וּלְשֵׁשָׁ֛ן עֶ֥בֶד מִצְרִ֖י וּשְׁמֹ֥ו יַרְחָֽע׃ (I Chr. 2:34)
+NIV	Sheshan _had_ no sons — only daughters. He _had_ an Egyptian servant named Jarha.
+ESV	Now Sheshan _had_ no sons, only daughters, but Sheshan _had_ an Egyptian slave whose name was Jarha.
+NBS	avait
+
+(x)	הֵ֚מָּה הַיֹּ֣וצְרִ֔ים וְיֹשְׁבֵ֥י נְטָעִ֖ים וּגְדֵרָ֑ה עִם־הַמֶּ֥לֶךְ בִּמְלַאכְתֹּ֖ו _יָ֥שְׁבוּ_ שָֽׁם׃ ס (I Chr. 4:23)
+NIV	They were the potters who lived at Netaim and Gederah. _they stayed_ there and worked for the king.
+ESV	These were the potters who were inhabitants of Netaim and Gederah. _They lived_ there in the king’s service.
+NBS	habitaient ils
+
+(x)	וַיָּבֹ֡אוּ אֵלֶּה֩ הַכְּתוּבִ֨ים בְּשֵׁמֹ֜ות בִּימֵ֣י׀ יְחִזְקִיָּ֣הוּ מֶֽלֶךְ־יְהוּדָ֗ה וַיַּכּ֨וּ אֶת־אָהֳלֵיהֶ֜ם וְאֶת־הַמְּעוּנִ֨ים אֲשֶׁ֤ר _נִמְצְאוּ_־שָׁ֨מָּה֙ וַיַּחֲרִימֻם֙ עַד־הַיֹּ֣ום הַזֶּ֔ה וַיֵּשְׁב֖וּ תַּחְתֵּיהֶ֑ם כִּֽי־מִרְעֶ֥ה לְצֹאנָ֖ם שָֽׁם׃ (I Chr. 4:41)
+NIV	The men whose names _were_ listed came in the days of Hezekiah king of Judah. They attacked the Hamites in their dwellings and also the Meunites who _were_ there and completely destroyed them, as is evident to this day. Then they settled in their place, because there was pasture for their flocks.
+ESV	These, registered by name, came in the days of Hezekiah, king of Judah, and destroyed their tents and the Meunites who _were found_ there, and marked them for destruction to this day, and settled in their place, because there was pasture there for their flocks.
+NBS	qui se trouvaient
+
+(x)	וְלַמִּזְרָ֗ח _יָשַׁב֙_ עַד־לְבֹ֣וא מִדְבָּ֔רָה לְמִן־הַנָּהָ֖ר פְּרָ֑ת כִּ֧י מִקְנֵיהֶ֛ם רָב֖וּ בְּאֶ֥רֶץ גִּלְעָֽד׃ (I Chr. 5:9)
+NIV	To the east they occupied the land up to the edge of the desert that extends to the Euphrates River, because their livestock had increased in Gilead.
+ESV	He also lived to the east as far as the entrance of the desert this side of the Euphrates, because their livestock had multiplied in the land of Gilead.
+NBS	il habitait
+
+(x)	וּבְנֵי־גָ֣ד לְנֶגְדָּ֗ם _יָֽשְׁב֛וּ_ בְּאֶ֥רֶץ הַבָּשָׁ֖ן עַד־סַלְכָֽה׃ (I Chr. 5:11)
+NIV	The Gadites _lived_ next to them in Bashan, as far as Salecah:
+ESV	The sons of Gad _lived_ over against them in the land of Bashan as far as Salecah:
+NBS	habitaient
+
+(x)	וּבְנֵ֗י חֲצִי֙ שֵׁ֣בֶט מְנַשֶּׁ֔ה _יָשְׁב֖וּ_ בָּאָ֑רֶץ מִבָּשָׁ֞ן עַד־בַּ֧עַל חֶרְמֹ֛ון וּשְׂנִ֥יר וְהַר־חֶרְמֹ֖ון הֵ֥מָּה רָבֽוּ׃ (I Chr. 5:23)
+NIV	The people of the half-tribe of Manasseh were numerous. _they settled_ in the land from Bashan to Baal Hermon, that is, to Senir ( Mount Hermon ).
+ESV	The members of the half-tribe of Manasseh _lived_ in the land. They were very numerous from Bashan to Baal-hermon, Senir, and Mount Hermon.
+NBS	habitaient
+
+(x)	וַעֲלֵיהֶ֨ם לְתֹלְדֹותָ֜ם לְבֵ֣ית אֲבֹותָ֗ם גְּדוּדֵי֙ צְבָ֣א מִלְחָמָ֔ה שְׁלֹשִׁ֥ים וְשִׁשָּׁ֖ה אָ֑לֶף כִּֽי־_הִרְבּ֥וּ_ נָשִׁ֖ים וּבָנִֽים׃ (I Chr. 7:4)
+NIV	According to their family genealogy, they had 36,000 men ready for battle, for _they had many_ wives and children.
+ESV	And along with them, by their generations, according to their fathers’ houses, were units of the army for war, 36,000, for _they had many_ wives and sons.
+NBS	beaucoup ils avaient
+
+(x)	וְעַל־יְדֵ֣י בְנֵי־מְנַשֶּׁ֗ה בֵּית־שְׁאָ֤ן וּבְנֹתֶ֨יהָ֙ תַּעְנַ֣ךְ וּבְנֹתֶ֔יהָ מְגִדֹּ֥ו וּבְנֹותֶ֖יהָ דֹּ֣ור וּבְנֹותֶ֑יהָ בְּאֵ֨לֶּה֙ _יָשְׁב֔וּ_ בְּנֵ֥י יֹוסֵ֖ף בֶּן־יִשְׂרָאֵֽל׃ פ (I Chr. 7:29)
+NIV	Along the borders of Manasseh were Beth Shan, Taanach, Megiddo and Dor, together with their villages. The descendants of Joseph son of Israel _lived_ in these towns.
+ESV	also in possession of the Manassites, Beth-shean and its towns, Taanach and its towns, Megiddo and its towns, Dor and its towns. In these _lived_ the sons of Joseph the son of Israel.
+NBS	habitèrent
+
+(x)	אֵ֣לֶּה רָאשֵׁ֥י אָבֹ֛ות לְתֹלְדֹותָ֖ם רָאשִׁ֑ים אֵ֖לֶּה _יָשְׁב֥וּ_ בִירוּשָׁלִָֽם׃ ס (I Chr. 8:28)
+NIV	All these were heads of families, chiefs as listed in their genealogy, and _they lived_ in Jerusalem.
+ESV	These were the heads of fathers’ houses, according to their generations, chief men. These _lived_ in Jerusalem.
+NBS	Ils habitaient
+
+(x)	וּבְגִבְעֹ֥ון _יָשְׁב֖וּ_ אֲבִ֣י גִבְעֹ֑ון וְשֵׁ֥ם אִשְׁתֹּ֖ו מַעֲכָֽה׃ (I Chr. 8:29)
+NIV	Jeiel the father of Gibeon _lived_ in Gibeon. His wife’s name was Maacah,
+ESV	Jeiel the father of Gibeon _lived_ in Gibeon, and the name of his wife was Maacah.
+NBS	habitait
+
+(x)	וּמִקְלֹ֖ות הֹולִ֣יד אֶת־שִׁמְאָ֑ה וְאַף־הֵ֗מָּה נֶ֧גֶד אֲחֵיהֶ֛ם _יָשְׁב֥וּ_ בִירוּשָׁלִַ֖ם עִם־אֲחֵיהֶֽם׃ ס (I Chr. 8:32)
+NIV	and Mikloth, who was the father of Shimeah. They too _lived_ near their relatives in Jerusalem.
+ESV	and Mikloth ( he fathered Shimeah ). Now these also _lived_ opposite their kinsmen in Jerusalem, with their kinsmen.
+NBS	ils habitaient
+
+(x)	וּבִירוּשָׁלִַ֨ם֙ _יָשְׁב֔וּ_ מִן־בְּנֵ֥י יְהוּדָ֖ה וּמִן־בְּנֵ֣י בִנְיָמִ֑ן וּמִן־בְּנֵ֥י אֶפְרַ֖יִם וּמְנַשֶּֽׁה׃ (I Chr. 9:3)
+NIV	Those from Judah, from Benjamin, and from Ephraim and Manasseh who _lived_ in Jerusalem were:
+ESV	And some of the people of Judah, Benjamin, Ephraim, and Manasseh _lived_ in Jerusalem:
+NBS	s installèrent
+
+(x)	אֵלֶּה֩ רָאשֵׁ֨י הָאָבֹ֧ות לַלְוִיִּ֛ם לְתֹלְדֹותָ֖ם רָאשִׁ֑ים אֵ֖לֶּה _יָשְׁב֥וּ_ בִירוּשָׁלִָֽם׃ פ (I Chr. 9:34)
+NIV	All these were heads of Levite families, chiefs as listed in their genealogy, and _they lived_ in Jerusalem.
+ESV	These were heads of fathers’ houses of the Levites, according to their generations, leaders. These _lived_ in Jerusalem.
+NBS	Ils habitaient
+
+(x)	וּבְגִבְעֹ֛ון _יָשְׁב֥וּ_ אֲבִֽי־גִבְעֹ֖ון יְעִיאֵ֑ל וְשֵׁ֥ם אִשְׁתֹּ֖ו מַעֲכָֽה׃ (I Chr. 9:35)
+NIV	Jeiel the father of Gibeon _lived_ in Gibeon. His wife’s name was Maacah,
+ESV	In Gibeon _lived_ the father of Gibeon, Jeiel, and the name of his wife was Maacah,
+NBS	habitait
+
+(x)	וּמִקְלֹ֖ות הֹולִ֣יד אֶת־שִׁמְאָ֑ם וְאַף־הֵ֗ם נֶ֧גֶד אֲחֵיהֶ֛ם _יָשְׁב֥וּ_ בִירֽוּשָׁלִַ֖ם עִם־אֲחֵיהֶֽם׃ ס (I Chr. 9:38)
+NIV	Mikloth was the father of Shimeam. They too _lived_ near their relatives in Jerusalem.
+ESV	and Mikloth was the father of Shimeam. and these also _lived_ opposite their kinsmen in Jerusalem, with their kinsmen.
+NBS	habitaient ils
+
+(x)	וַיָּשִׂ֨ימוּ֙ אֶת־כֵּלָ֔יו בֵּ֖ית אֱלֹהֵיהֶ֑ם וְאֶת־גֻּלְגָּלְתֹּ֥ו _תָקְע֖וּ_ בֵּ֥ית דָּגֹֽון׃ ס (I Chr. 10:10)
+NIV	They put his armour in the temple of their gods and _hung up_ his head in the temple of Dagon.
+ESV	And they put his armor in the temple of their gods and _fastened_ his head in the temple of Dagon.
+NBS	ils clouèrent
+
+(x)	הֽוּא־הָיָ֨ה עִם־דָּוִ֜יד בַּפַּ֣ס דַּמִּ֗ים וְהַפְּלִשְׁתִּים֙ נֶאֱסְפוּ־שָׁ֣ם לַמִּלְחָמָ֔ה וַתְּהִ֛י חֶלְקַ֥ת הַשָּׂדֶ֖ה מְלֵאָ֣ה שְׂעֹורִ֑ים וְהָעָ֥ם _נָ֖סוּ_ מִפְּנֵ֥י פְלִשְׁתִּֽים׃ (I Chr. 11:13)
+NIV	He was with David at Pas Dammim when the Philistines gathered there for battle. At a place where there was a field full of barley, the troops _fled_ from the Philistines.
+ESV	He was with David at Pas-dammim when the Philistines were gathered there for battle. There was a plot of ground full of barley, and the men _fled_ from the Philistines.
+NBS	fuyait
+
+(x)	וַיֹּ֡אמֶר חָלִילָה֩ לִּ֨י מֵאֱלֹהַ֜י מֵעֲשֹׂ֣ות זֹ֗את הֲדַ֣ם הָאֲנָשִׁים֩ הָאֵ֨לֶּה אֶשְׁתֶּ֤ה בְנַפְשֹׁותָם֙ כִּ֣י בְנַפְשֹׁותָ֣ם הֱבִיא֔וּם וְלֹ֥א אָבָ֖ה לִשְׁתֹּותָ֑ם אֵ֣לֶּה _עָשׂ֔וּ_ שְׁלֹ֖שֶׁת הַגִּבֹּורִֽים׃ (I Chr. 11:19)
+NIV	“God forbid that I should do this!” he said. “Should I drink the blood of these men who went at the risk of their lives?” Because they risked their lives to bring it back, David would not drink it. Such _were the exploits_ of the three mighty men.
+ESV	and said, “Far be it from me before my God that I should do this. Shall I drink the lifeblood of these men? For at the risk of their lives they brought it.” Therefore he would not drink it. These things _did_ the three mighty men.
+NBS	firent
+
+(x)	וַיְהִ֗י אֲרֹון֙ בְּרִ֣ית יְהוָ֔ה בָּ֖א עַד־עִ֣יר דָּוִ֑יד וּמִיכַ֨ל בַּת־שָׁא֜וּל _נִשְׁקְפָ֣ה_׀ בְּעַ֣ד הַחַלֹּ֗ון וַתֵּ֨רֶא אֶת־הַמֶּ֤לֶךְ דָּוִיד֙ מְרַקֵּ֣ד וּמְשַׂחֵ֔ק וַתִּ֥בֶז לֹ֖ו בְּלִבָּֽהּ׃ פ (I Chr. 15:29)
+NIV	As the ark of the covenant of the LORD was entering the City of David, Michal daughter of Saul _watched_ from a window. And when she saw King David dancing and celebrating, she despised him in her heart.
+ESV	And as the ark of the covenant of the Lord came to the city of David, Michal the daughter of Saul _looked out_ of the window and saw King David dancing and rejoicing, and she despised him in her heart.
+NBS	regardait
+
+(x)	וַיָּ֤שֶׂם דָּוִיד֙ בַּאֲרַ֣ם דַּרְמֶ֔שֶׂק וַיְהִ֤י אֲרָם֙ לְדָוִ֔יד עֲבָדִ֖ים נֹשְׂאֵ֣י מִנְחָ֑ה וַיֹּ֤ושַׁע יְהוָה֙ לְדָוִ֔יד בְּכֹ֖ל אֲשֶׁ֥ר _הָלָֽךְ_׃ (I Chr. 18:6)
+NIV	He put garrisons in the Aramean kingdom of Damascus, and the Arameans became subject to him and brought tribute. The LORD gave David victory everywhere _he went_.
+ESV	Then David put garrisons in Syria of Damascus, and the Syrians became servants to David and brought tribute. And the Lord gave victory to David wherever _he went_.
+NBS	il allait
+
+(x)	וַיָּ֤שֶׂם בֶּֽאֱדֹום֙ נְצִיבִ֔ים וַיִּהְי֥וּ כָל־אֱדֹ֖ום עֲבָדִ֣ים לְדָוִ֑יד וַיֹּ֤ושַׁע יְהוָה֙ אֶת־דָּוִ֔יד בְּכֹ֖ל אֲשֶׁ֥ר _הָלָֽךְ_׃ (I Chr. 18:13)
+NIV	He put garrisons in Edom, and all the Edomites became subject to David. The LORD gave David victory everywhere _he went_.
+ESV	Then he put garrisons in Edom, and all the Edomites became David’s servants. And the Lord gave victory to David wherever _he went_.
+NBS	il allait
+
+(x)	וַיַּ֣רְא יֹואָ֗ב כִּֽי־_הָיְתָ֧ה_ פְנֵי־הַמִּלְחָמָ֛ה אֵלָ֖יו פָּנִ֣ים וְאָחֹ֑ור וַיִּבְחַ֗ר מִכָּל־בָּחוּר֙ בְּיִשְׂרָאֵ֔ל וַֽיַּעֲרֹ֖ךְ לִקְרַ֥את אֲרָֽם׃ (I Chr. 19:10)
+NIV	Joab saw that _there were_ battle lines in front of him and behind him. so he selected some of the best troops in Israel and deployed them against the Arameans.
+ESV	When Joab saw that the battle _was_ set against him both in front and in the rear, he chose some of the best men of Israel and arrayed them against the Syrians.
+NBS	il avait à se battre
+
+(x)	וַיִּרְא֞וּ עַבְדֵ֣י הֲדַדְעֶ֗זֶר כִּ֤י נִגְּפוּ֙ לִפְנֵ֣י יִשְׂרָאֵ֔ל וַיַּשְׁלִ֥ימוּ עִם־דָּוִ֖יד וַיַּֽעַבְדֻ֑הוּ וְלֹא־_אָבָ֣ה_ אֲרָ֔ם לְהֹושִׁ֥יעַ אֶת־בְּנֵי־עַמֹּ֖ון עֹֽוד׃ פ (I Chr. 19:19)
+NIV	When the vassals of Hadadezer saw that they had been defeated by Israel, they made peace with David and became subject to him. So the Arameans were not willing to help the Ammonites any more.
+ESV	And when the servants of Hadadezer saw that they had been defeated by Israel, they made peace with David and became subject to him. So the Syrians were not willing to save the Ammonites any more.
+NBS	voulurent
+
+(x)	וְלֹא־יָֽכְל֧וּ הַכֹּהֲנִ֛ים לַעֲמֹ֥וד לְשָׁרֵ֖ת מִפְּנֵ֣י הֶעָנָ֑ן כִּֽי־_מָלֵ֥א_ כְבֹוד־יְהוָ֖ה אֶת־בֵּ֥ית הָאֱלֹהִֽים׃ פ (II Chr. 5:14)
+NIV	and the priests could not perform their service because of the cloud, for the glory of the LORD _filled_ the temple of God.
+ESV	so that the priests could not stand to minister because of the cloud, for the glory of the Lord _filled_ the house of God.
+NBS	remplissait
+
+(x)	וְלֹ֤א יָֽכְלוּ֙ הַכֹּ֣הֲנִ֔ים לָבֹ֖וא אֶל־בֵּ֣ית יְהוָ֑ה כִּֽי־_מָלֵ֥א_ כְבֹוד־יְהוָ֖ה אֶת־בֵּ֥ית יְהוָֽה׃ (II Chr. 7:2)
+NIV	The priests could not enter the temple of the LORD because the glory of the LORD _filled_ it.
+ESV	And the priests could not enter the house of the Lord, because the glory of the Lord _filled_ the Lord’s house.
+NBS	remplissait
+
+(x)	אָ֣ז _הֶעֱלָ֧ה_ שְׁלֹמֹ֛ה עֹלֹ֖ות לַיהוָ֑ה עַ֚ל מִזְבַּ֣ח יְהוָ֔ה אֲשֶׁ֥ר בָּנָ֖ה לִפְנֵ֥י הָאוּלָֽם׃ (II Chr. 8:12)
+NIV	On the altar of the LORD that he had built in front of the portico, Solomon _sacrificed_ burnt offerings to the LORD,
+ESV	Then Solomon _offered up_ burnt offerings to the Lord on the altar of the Lord that he had built before the vestibule,
+NBS	offrait des holocaustes
+
+(x)	וּמַֽלְכַּת־שְׁבָ֗א שָֽׁמְעָה֮ אֶת־שֵׁ֣מַע שְׁלֹמֹה֒ וַתָּבֹ֣וא לְנַסֹּות֩ אֶת־שְׁלֹמֹ֨ה בְחִידֹ֜ות בִּירֽוּשָׁלִַ֗ם בְּחַ֣יִל כָּבֵ֣ד מְאֹ֡ד וּ֠גְמַלִּים נֹשְׂאִ֨ים בְּשָׂמִ֧ים וְזָהָ֛ב לָרֹ֖ב וְאֶ֣בֶן יְקָרָ֑ה וַתָּבֹוא֙ אֶל־שְׁלֹמֹ֔ה וַתְּדַבֵּ֣ר עִמֹּ֔ו אֵ֛ת כָּל־אֲשֶׁ֥ר _הָיָ֖ה_ עִם־לְבָבָֽהּ׃ (II Chr. 9:1)
+NIV	When the queen of Sheba heard of Solomon’s fame, she came to Jerusalem to test him with hard questions. Arriving with a very great caravan — with camels carrying spices, large quantities of gold, and precious stones — she came to Solomon and talked with him about all _she had_ on her mind.
+ESV	Now when the queen of Sheba heard of the fame of Solomon, she came to Jerusalem to test him with hard questions, having a very great retinue and camels bearing spices and very much gold and precious stones. And when she came to Solomon, she told him all that _was_ on her mind.
+NBS	elle avait dans le cœur
+
+(x)	וַיַּגֶּד־לָ֥הּ שְׁלֹמֹ֖ה אֶת־כָּל־דְּבָרֶ֑יהָ וְלֹֽא־_נֶעְלַ֤ם_ דָּבָר֙ מִשְּׁלֹמֹ֔ה אֲשֶׁ֧ר לֹ֦א הִגִּ֖יד לָֽהּ׃ (II Chr. 9:2)
+NIV	Solomon answered all her questions. nothing was too hard for him to explain to her.
+ESV	And Solomon answered all her questions. There was nothing hidden from Solomon that he could not explain to her.
+NBS	il y avait de caché
+
+(x)	וְלֹֽא־_הֶאֱמַ֣נְתִּי_ לְדִבְרֵיהֶ֗ם עַ֤ד אֲשֶׁר־בָּ֨אתִי֙ וַתִּרְאֶ֣ינָה עֵינַ֔י וְהִנֵּה֙ לֹ֣א הֻגַּד־לִ֔י חֲצִ֖י מַרְבִּ֣ית חָכְמָתֶ֑ךָ יָסַ֕פְתָּ עַל־הַשְּׁמוּעָ֖ה אֲשֶׁ֥ר שָׁמָֽעְתִּי׃ (II Chr. 9:6)
+NIV	But I did not believe what they said until I came and saw with my own eyes. Indeed, not even half the greatness of your wisdom was told me. you have far exceeded the report I heard.
+ESV	but I did not believe the reports until I came and my own eyes had seen it. And behold, half the greatness of your wisdom was not told me. you surpass the report that I heard.
+NBS	Je croyais
+
+(x)	וַיְהִי֙ מִשְׁקַ֣ל הַזָּהָ֔ב אֲשֶׁר־_בָּ֥א_ לִשְׁלֹמֹ֖ה בְּשָׁנָ֣ה אֶחָ֑ת שֵׁ֥שׁ מֵאֹ֛ות וְשִׁשִּׁ֥ים וָשֵׁ֖שׁ כִּכְּרֵ֥י זָהָֽב׃ (II Chr. 9:13)
+NIV	The weight of the gold that Solomon _received_ yearly was 666 talents,
+ESV	Now the weight of gold that _came_ to Solomon in one year was 666 talents of gold,
+NBS	qui arrivait
+
+(x)	וַֽיַּעֲזֹ֛ב אֶת־עֲצַ֥ת הַזְּקֵנִ֖ים אֲשֶׁ֣ר _יְעָצֻ֑הוּ_ וַיִּוָּעַ֗ץ אֶת־הַיְלָדִים֙ אֲשֶׁ֣ר גָּדְל֣וּ אִתֹּ֔ו הָעֹמְדִ֖ים לְפָנָֽיו׃ (II Chr. 10:8)
+NIV	But Rehoboam rejected the advice the elders _gave_ him and consulted the young men who had grown up with him and were serving him.
+ESV	But he abandoned the counsel that the old men _gave_ him, and took counsel with the young men who had grown up with him and stood before him.
+NBS	lui donnaient
+
+(x)	וַיְהִ֛י מִדֵּי־בֹ֥וא הַמֶּ֖לֶךְ בֵּ֣ית יְהוָ֑ה _בָּ֤אוּ_ הָרָצִים֙ וּנְשָׂא֔וּם וֶהֱשִׁב֖וּם אֶל־תָּ֥א הָרָצִֽים׃ (II Chr. 12:11)
+NIV	Whenever the king _went_ to the LORD’s temple, the guards _went_ with him, bearing the shields, and afterwards they returned them to the guardroom.
+ESV	And as often as the king went into the house of the Lord, the guard _came_ and carried them and brought them back to the guardroom.
+NBS	venaient
+
+(x)	וְהַ֨בָּמֹ֔ות לֹא־_סָ֖רוּ_ מִיִּשְׂרָאֵ֑ל רַ֧ק לְבַב־אָסָ֛א הָיָ֥ה שָׁלֵ֖ם כָּל־יָמָֽיו׃ (II Chr. 15:17)
+NIV	Although he did not remove the high places from Israel, Asa’s heart was fully committed [ to the LORD ] all his life.
+ESV	But the high places were not taken out of Israel. Nevertheless, the heart of Asa was wholly true all his days.
+NBS	disparurent
+
+(x)	וּמְלָאכָ֥ה רַבָּ֛ה _הָ֥יָה_ לֹ֖ו בְּעָרֵ֣י יְהוּדָ֑ה וְאַנְשֵׁ֧י מִלְחָמָ֛ה גִּבֹּ֥ורֵי חַ֖יִל בִּירוּשָׁלִָֽם׃ (II Chr. 17:13)
+NIV	and _had_ large supplies in the towns of Judah. He also kept experienced fighting men in Jerusalem.
+ESV	and he _had_ large supplies in the cities of Judah. He _had_ soldiers, mighty men of valor, in Jerusalem.
+NBS	Il avait
+
+(x)	וַיְהִ֣י אַֽחֲרֵיכֵ֡ן _בָּ֣אוּ_ בְנֵי־מֹואָב֩ וּבְנֵ֨י עַמֹּ֜ון וְעִמָּהֶ֧ם׀ מֵֽהָעַמֹּונִ֛ים עַל־יְהֹושָׁפָ֖ט לַמִּלְחָמָֽה׃ (II Chr. 20:1)
+NIV	After this, the Moabites and Ammonites with some of the Meunites _came_ to make war on Jehoshaphat.
+ESV	After this the Moabites and Ammonites, and with them some of the Meunites, _came_ against Jehoshaphat for battle.
+NBS	arrivèrent
+
+(x)	וּבְעֵת֩ _הֵחֵ֨לּוּ_ בְרִנָּ֜ה וּתְהִלָּ֗ה נָתַ֣ן יְהוָ֣ה׀ מְ֠אָֽרְבִים עַל־בְּנֵ֨י עַמֹּ֜ון מֹואָ֧ב וְהַר־שֵׂעִ֛יר הַבָּאִ֥ים לִֽיהוּדָ֖ה וַיִּנָּגֵֽפוּ׃ (II Chr. 20:22)
+NIV	As _they began_ to sing and praise, the LORD set ambushes against the men of Ammon and Moab and Mount Seir who were invading Judah, and they were defeated.
+ESV	And when _they began_ to sing and praise, the Lord set an ambush against the men of Ammon, Moab, and Mount Seir, who had come against Judah, so that they were routed.
+NBS	on commençait
+
+(x)	וּבַיֹּ֣ום הָרְבִעִ֗י _נִקְהֲלוּ֙_ לְעֵ֣מֶק בְּרָכָ֔ה כִּי־שָׁ֖ם בֵּרֲכ֣וּ אֶת־יְהוָ֑ה עַל־כֵּ֡ן קָֽרְא֞וּ אֶת־שֵׁ֨ם הַמָּקֹ֥ום הַה֛וּא עֵ֥מֶק בְּרָכָ֖ה עַד־הַיֹּֽום׃ (II Chr. 20:26)
+NIV	On the fourth day _they assembled_ in the Valley of Beracah, where they praised the LORD. This is why it is called the Valley of Beracah to this day.
+ESV	On the fourth day _they assembled_ in the Valley of Beracah, for there they blessed the Lord. Therefore the name of that place has been called the Valley of Beracah to this day.
+NBS	rassemblèrent ils se
+
+(x)	בְּיָמָיו֙ _פָּשַׁ֣ע_ אֱדֹ֔ום מִתַּ֖חַת יַד־יְהוּדָ֑ה וַיַּמְלִ֥יכוּ עֲלֵיהֶ֖ם מֶֽלֶךְ׃ (II Chr. 21:8)
+NIV	In the time of Jehoram, Edom _rebelled_ against Judah and set up its own king.
+ESV	In his days Edom _revolted_ from the rule of Judah and set up a king of their own.
+NBS	se révolta
+
+(x)	וַיְבַקֵּשׁ֩ אֶת־אֲחַזְיָ֨הוּ וַֽיִּלְכְּדֻ֜הוּ וְה֧וּא מִתְחַבֵּ֣א בְשֹֽׁמְרֹ֗ון וַיְבִאֻ֣הוּ אֶל־יֵהוּא֮ וַיְמִתֻהוּ֒ וַֽיִּקְבְּרֻ֔הוּ כִּ֤י אָֽמְרוּ֙ בֶּן־יְהֹושָׁפָ֣ט ה֔וּא אֲשֶׁר־_דָּרַ֥שׁ_ אֶת־יְהוָ֖ה בְּכָל־לְבָבֹ֑ו וְאֵין֙ לְבֵ֣ית אֲחַזְיָ֔הוּ לַעְצֹ֥ר כֹּ֖חַ לְמַמְלָכָֽה׃ (II Chr. 22:9)
+NIV	He then went in search of Ahaziah, and his men captured him while he was hiding in Samaria. He was brought to Jehu and put to death. They buried him, for they said, “He was a son of Jehoshaphat, who _sought_ the LORD with all his heart.” So there was no-one in the house of Ahaziah powerful enough to retain the kingdom.
+ESV	He searched for Ahaziah, and he was captured while hiding in Samaria, and he was brought to Jehu and put to death. They buried him, for they said, “He is the grandson of Jehoshaphat, who _sought_ the Lord with all his heart.” And the house of Ahaziah had no one able to rule the kingdom.
+NBS	cherchait
+
+(x)	וַיְהִ֡י בְּעֵת֩ יָבִ֨יא אֶת־הָֽאָרֹ֜ון אֶל־פְּקֻדַּ֣ת הַמֶּלֶךְ֮ בְּיַ֣ד הַלְוִיִּם֒ וְכִרְאֹותָ֞ם כִּי־רַ֣ב הַכֶּ֗סֶף וּבָ֨א סֹופֵ֤ר הַמֶּ֨לֶךְ֙ וּפְקִיד֙ כֹּהֵ֣ן הָרֹ֔אשׁ וִיעָ֨רוּ֙ אֶת־הָ֣אָרֹ֔ון וְיִשָּׂאֻ֖הוּ וִֽישִׁיבֻ֣הוּ אֶל־מְקֹמֹ֑ו כֹּ֤ה _עָשׂוּ֙_ לְיֹ֣ום׀ בְּיֹ֔ום וַיַּֽאַסְפוּ־כֶ֖סֶף לָרֹֽב׃ (II Chr. 24:11)
+NIV	Whenever the chest was brought in by the Levites to the king’s officials and they saw that there was a large amount of money, the royal secretary and the officer of the chief priest would come and empty the chest and carry it back to its place. _They did_ this regularly and collected a great amount of money.
+ESV	And whenever the chest was brought to the king’s officers by the Levites, when they saw that there was much money in it, the king’s secretary and the officer of the chief priest would come and empty the chest and take it and return it to its place. Thus _they did_ day after day, and collected money in abundance.
+NBS	ils procédaient
+
+(x)	וַיִּ֨בֶן מִגְדָּלִ֜ים בַּמִּדְבָּ֗ר וַיַּחְצֹב֙ בֹּרֹ֣ות רַבִּ֔ים כִּ֤י מִקְנֶה־רַּב֙ _הָ֣יָה_ לֹ֔ו וּבַשְּׁפֵלָ֖ה וּבַמִּישֹׁ֑ור אִכָּרִ֣ים וְכֹֽרְמִ֗ים בֶּהָרִים֙ וּבַכַּרְמֶ֔ל כִּֽי־אֹהֵ֥ב אֲדָמָ֖ה הָיָֽה׃ ס (II Chr. 26:10)
+NIV	He also built towers in the desert and dug many cisterns, because _he had_ much livestock in the foothills and in the plain. He had people working his fields and vineyards in the hills and in the fertile lands, for he loved the soil.
+ESV	And he built towers in the wilderness and cut out many cisterns, for he _had_ large herds, both in the Shephelah and in the plain, and he _had_ farmers and vinedressers in the hills and in the fertile lands, for he loved the soil.
+NBS	il avait
+
+(x)	וְ֠הוּא נִלְחַ֞ם עִם־מֶ֣לֶךְ בְּנֵי־עַמֹּון֮ וַיֶּחֱזַ֣ק עֲלֵיהֶם֒ וַיִּתְּנוּ־לֹ֨ו בְנֵֽי־עַמֹּ֜ון בַּשָּׁנָ֣ה הַהִ֗יא מֵאָה֙ כִּכַּר־כֶּ֔סֶף וַעֲשֶׂ֨רֶת אֲלָפִ֤ים כֹּרִים֙ חִטִּ֔ים וּשְׂעֹורִ֖ים עֲשֶׂ֣רֶת אֲלָפִ֑ים זֹ֗את _הֵשִׁ֤יבוּ_ לֹו֙ בְּנֵ֣י עַמֹּ֔ון ס וּבַשָּׁנָ֥ה הַשֵּׁנִ֖ית וְהַשְּׁלִשִֽׁית׃ (II Chr. 27:5)
+NIV	Jotham made war on the king of the Ammonites and conquered them. That year the Ammonites paid him a hundred talents of silver, ten thousand cors of wheat and ten thousand cors of barley. The Ammonites _brought_ him the same amount also in the second and third years.
+ESV	He fought with the king of the Ammonites and prevailed against them. And the Ammonites gave him that year 100 talents of silver, and 10,000 cors of wheat and 10,000 of barley. The Ammonites _paid_ him the same amount in the second and the third years.
+NBS	ce que payèrent
+
+(x)	וַיָּקֻ֕מוּ וַיָּסִ֨ירוּ֙ אֶת־הַֽמִּזְבְּחֹ֔ות אֲשֶׁ֖ר בִּירוּשָׁלִָ֑ם וְאֵ֤ת כָּל־הַֽמְקַטְּרֹות֙ _הֵסִ֔ירוּ_ וַיַּשְׁלִ֖יכוּ לְנַ֥חַל קִדְרֹֽון׃ (II Chr. 30:14)
+NIV	They removed the altars in Jerusalem and _cleared away_ the incense altars and threw them into the Kidron Valley.
+ESV	They set to work and removed the altars that were in Jerusalem, and all the altars for burning incense _they took away_ and threw into the Kidron Valley.
+NBS	supprimèrent ils
+
+(x)	בַּחֹ֨דֶשׁ֙ הַשְּׁלִשִׁ֔י _הֵחֵ֥לּוּ_ הָעֲרֵמֹ֖ות לְיִסֹּ֑וד וּבַחֹ֥דֶשׁ הַשְּׁבִיעִ֖י כִּלּֽוּ׃ ס (II Chr. 31:7)
+NIV	_They began_ doing this in the third month and finished in the seventh month.
+ESV	In the third month _they began_ to pile up the heaps, and finished them in the seventh month.
+NBS	Ils commencèrent
+
+(x)	בַּחֹ֨דֶשׁ֙ הַשְּׁלִשִׁ֔י הֵחֵ֥לּוּ הָעֲרֵמֹ֖ות לְיִסֹּ֑וד וּבַחֹ֥דֶשׁ הַשְּׁבִיעִ֖י _כִּלּֽוּ_׃ ס (II Chr. 31:7)
+NIV	They began doing this in the third month and _finished_ in the seventh month.
+ESV	In the third month they began to pile up the heaps, and _finished_ them in the seventh month.
+NBS	ils achevèrent
+
+(x)	וְהַמְשֹֽׁרֲרִ֨ים בְּנֵי־אָסָ֜ף עַל־מַעֲמָדָ֗ם כְּמִצְוַ֤ת דָּוִיד֙ וְאָסָ֞ף וְהֵימָ֤ן וִֽידֻתוּן֙ חֹוזֵ֣ה הַמֶּ֔לֶךְ וְהַשֹּׁעֲרִ֖ים לְשַׁ֣עַר וָשָׁ֑עַר אֵ֣ין לָהֶ֗ם לָסוּר֙ מֵעַ֣ל עֲבֹֽדָתָ֔ם כִּֽי־אֲחֵיהֶ֥ם הַלְוִיִּ֖ם _הֵכִ֥ינוּ_ לָהֶֽם׃ (II Chr. 35:15)
+NIV	The musicians, the descendants of Asaph, were in the places prescribed by David, Asaph, Heman and Jeduthun the king’s seer. The gatekeepers at each gate did not need to leave their posts, because their fellow Levites _made the preparations_ for them.
+ESV	The singers, the sons of Asaph, were in their place according to the command of David, and Asaph, and Heman, and Jeduthun the king’s seer. and the gatekeepers were at each gate. They did not need to depart from their service, for their brothers the Levites _prepared_ for them.
+NBS	préparèrent
+
+(x)	וְלֹֽא־נַעֲשָׂ֨ה פֶ֤סַח כָּמֹ֨הוּ֙ בְּיִשְׂרָאֵ֔ל מִימֵ֖י שְׁמוּאֵ֣ל הַנָּבִ֑יא וְכָל־מַלְכֵ֣י יִשְׂרָאֵ֣ל׀ לֹֽא־עָשׂ֡וּ כַּפֶּ֣סַח אֲשֶׁר־_עָשָׂ֣ה_ יֹֽ֠אשִׁיָּהוּ וְהַכֹּהֲנִ֨ים וְהַלְוִיִּ֤ם וְכָל־יְהוּדָה֙ וְיִשְׂרָאֵ֣ל הַנִּמְצָ֔א וְיֹושְׁבֵ֖י יְרוּשָׁלִָֽם׃ ס (II Chr. 35:18)
+NIV	The Passover had not been observed like this in Israel since the days of the prophet Samuel. and none of the kings of Israel had ever celebrated such a Passover as _did_ Josiah, with the priests, the Levites and all Judah and Israel who were there with the people of Jerusalem.
+ESV	No Passover like it had been kept in Israel since the days of Samuel the prophet. None of the kings of Israel had kept such a Passover as _was kept_ by Josiah, and the priests and the Levites, and all Judah and Israel who were present, and the inhabitants of Jerusalem.
+NBS	célébrèrent
+
+(x)	וְ֠גַם בַּמֶּ֤לֶךְ נְבֽוּכַדְנֶאצַּר֙ _מָרָ֔ד_ אֲשֶׁ֥ר הִשְׁבִּיעֹ֖ו בֵּֽאלֹהִ֑ים וַיֶּ֤קֶשׁ אֶת־עָרְפֹּו֙ וַיְאַמֵּ֣ץ אֶת־לְבָבֹ֔ו מִשּׁ֕וּב אֶל־יְהוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃ (II Chr. 36:13)
+NIV	He also rebelled against King Nebuchadnezzar, who had made him take an oath in God’s name. He became stiff-necked and hardened his heart and would not turn to the LORD, the God of Israel.
+ESV	He also rebelled against King Nebuchadnezzar, who had made him swear by God. He stiffened his neck and hardened his heart against turning to the Lord, the God of Israel.
+NBS	Il se rebella
+
+(x)	וַיִּשְׁלַ֡ח יְהוָה֩ אֱלֹהֵ֨י אֲבֹותֵיהֶ֧ם עֲלֵיהֶ֛ם בְּיַ֥ד מַלְאָכָ֖יו הַשְׁכֵּ֣ם וְשָׁלֹ֑וחַ כִּֽי־_חָמַ֥ל_ עַל־עַמֹּ֖ו וְעַל־מְעֹונֹֽו׃ (II Chr. 36:15)
+NIV	The LORD, the God of their fathers, sent word to them through his messengers again and again, because _he had pity_ on his people and on his dwelling-place.
+ESV	The Lord, the God of their fathers, sent persistently to them by his messengers, because _he had compassion_ on his people and on his dwelling place.
+NBS	il voulait épargner

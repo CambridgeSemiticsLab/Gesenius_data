@@ -1,0 +1,104 @@
+eng_TAMsimp == "PAST ~ PRES" and french_tense == "imparfait"
+17 of 17
+
+(x)	רְפָאִ֛ים יֵחָשְׁב֥וּ אַף־הֵ֖ם כָּעֲנָקִ֑ים וְהַמֹּ֣אָבִ֔ים _יִקְרְא֥וּ_ לָהֶ֖ם אֵמִֽים׃ (Deut. 2:11)
+NIV	Like the Anakites, they too were considered Rephaites, but the Moabites _called_ them Emites.
+ESV	Like the Anakim they are also counted as Rephaim, but the Moabites _call_ them Emim.
+NBS	appelaient
+NBS (verse)	Ils étaient considérés, eux aussi, comme des Rephaïtes, de même que les Anaqites~; les Moabites les appelaient Emites.
+
+(x)	אֶֽרֶץ־רְפָאִ֥ים תֵּחָשֵׁ֖ב אַף־הִ֑וא רְפָאִ֤ים יָֽשְׁבוּ־בָהּ֙ לְפָנִ֔ים וְהָֽעַמֹּנִ֔ים _יִקְרְא֥וּ_ לָהֶ֖ם זַמְזֻמִּֽים׃ (Deut. 2:20)
+NIV	( That too was considered a land of the Rephaites, who used to live there. but the Ammonites _called_ them Zamzummites.
+ESV	( It is also counted as a land of Rephaim. Rephaim formerly lived there — but the Ammonites _call_ them Zamzummim —
+NBS	appelaient
+NBS (verse)	– Cette région aussi était considérée comme un pays de Rephaïtes~: c'étaient des Rephaïtes qui habitaient là auparavant~; les Ammonites les appelaient Zamzoummites~:
+
+(x)	הִשָּׁ֣מֶר לְךָ֗ פֶּן־תִּנָּקֵשׁ֙ אַחֲרֵיהֶ֔ם אַחֲרֵ֖י הִשָּׁמְדָ֣ם מִפָּנֶ֑יךָ וּפֶן־תִּדְרֹ֨שׁ לֵֽאלֹהֵיהֶ֜ם לֵאמֹ֨ר אֵיכָ֨ה _יַעַבְד֜וּ_ הַגֹּויִ֤ם הָאֵ֨לֶּה֙ אֶת־אֱלֹ֣הֵיהֶ֔ם וְאֶעֱשֶׂה־כֵּ֖ן גַּם־אָֽנִי׃ (Deut. 12:30)
+NIV	and after they have been destroyed before you, be careful not to be ensnared by enquiring about their gods, saying, “How do these nations serve their gods? We will do the same.”
+ESV	take care that you be not ensnared to follow them, after they have been destroyed before you, and that you do not inquire about their gods, saying, ‘How did these nations serve their gods? — that I also may do the same.’
+NBS	servaient elles
+NBS (verse)	garde-toi de te laisser prendre au piège en les imitant, après qu'elles auront été détruites devant toi. Garde-toi de t'informer sur leurs dieux et de dire~: «~Comment ces nations servaient-elles leurs dieux~? Moi aussi, je veux faire de même~!~»
+
+(x)	נֶ֣גְבָּה לְאֶפְרַ֗יִם וְצָפֹ֨ונָה֙ לִמְנַשֶּׁ֔ה וַיְהִ֥י הַיָּ֖ם גְּבוּלֹ֑ו וּבְאָשֵׁר֙ _יִפְגְּע֣וּן_ מִצָּפֹ֔ון וּבְיִשָּׂשכָ֖ר מִמִּזְרָֽח׃ (Josh. 17:10)
+NIV	On the south the land belonged to Ephraim, on the north to Manasseh. The territory of Manasseh reached the sea and _bordered_ Asher on the north and Issachar on the east.
+ESV	the land to the south being Ephraim’s and that to the north being Manasseh’s, with the sea forming its boundary. On the north Asher _is reached_, and on the east Issachar.
+NBS	ils touchaient
+NBS (verse)	Au sud, c'était à Ephraïm, au nord à Manassé, et la mer leur servait de frontière~; ils touchaient Aser vers le nord et Issacar vers l'est.
+
+(x)	וְהַיַּרְדֵּ֥ן _יִגְבֹּל_־אֹתֹ֖ו לִפְאַת־קֵ֑דְמָה זֹ֡את נַחֲלַת֩ בְּנֵ֨י בִנְיָמִ֧ן לִגְבֽוּלֹתֶ֛יהָ סָבִ֖יב לְמִשְׁפְּחֹתָֽם׃ (Josh. 18:20)
+NIV	The Jordan _formed the boundary_ on the eastern side. These were the boundaries that marked out the inheritance of the clans of Benjamin on all sides.
+ESV	The Jordan forms its boundary on the eastern side. This is the inheritance of the people of Benjamin, according to their clans, boundary by boundary all around.
+NBS	formait la frontière
+NBS (verse)	Du côté est, le Jourdain formait la frontière. Voilà le patrimoine des fils de Benjamin, clan par clan, avec ses frontières tout autour.
+
+(x)	וַיֹּ֨אמְר֜וּ עַבְדֵ֤י אָכִישׁ֙ אֵלָ֔יו הֲלֹוא־זֶ֥ה דָוִ֖ד מֶ֣לֶךְ הָאָ֑רֶץ הֲלֹ֣וא לָזֶ֗ה _יַעֲנ֤וּ_ בַמְּחֹלֹות֙ לֵאמֹ֔ר הִכָּ֤ה שָׁאוּל֙ בַּאֲלָפָ֔יו וְדָוִ֖ד בְּרִבְבֹתָֽיו׃ (I Sam. 21:12)
+NIV	But the servants of Achish said to him, “Isn’t this David, the king of the land? Isn’t he the one _they sing_ about in their dances: “‘Saul has slain his thousands, and David his tens of thousands’?”
+ESV	And the servants of Achish said to him, “Is not this David the king of the land? Did they not sing to one another of him in dances, ‘Saul has struck down his thousands, and David his ten thousands’?”
+NBS	on chantait
+NBS (verse)	Les gens de la cour d'Akish lui dirent~: N'est-ce pas là David, le roi du pays~? N'est-ce pas celui pour qui l'on chantait en dansant~: Saül a abattu ses milliers, et David ses dizaines de milliers~!
+
+(x)	הֲלֹוא־זֶ֣ה דָוִ֔ד אֲשֶׁ֧ר _יַעֲנוּ_־לֹ֛ו בַּמְּחֹלֹ֖ות לֵאמֹ֑ר הִכָּ֤ה שָׁאוּל֙ בַּֽאֲלָפָ֔יו וְדָוִ֖ד בְּרִבְבֹתָֽיו׃ (I Sam. 29:5)
+NIV	Isn’t this the David _they sang_ about in their dances: “‘Saul has slain his thousands, and David his tens of thousands’?”
+ESV	Is not this David, of whom _they sing_ to one another in dances, ‘Saul has struck down his thousands, and David his ten thousands’?”
+NBS	on chantait
+NBS (verse)	N'est-ce pas ce David pour qui l'on chantait en dansant~: Saül a abattu ses milliers et David ses dizaines de milliers~!
+
+(x)	מַחֲטִיאֵ֤י אָדָם֙ בְּדָבָ֔ר וְלַמֹּוכִ֥יחַ בַּשַּׁ֖עַר _יְקֹשׁ֑וּן_ וַיַּטּ֥וּ בַתֹּ֖הוּ צַדִּֽיק׃ ס (Isa. 29:21)
+NIV	those who with a word make a man out to be guilty, who _ensnare_ the defender in court and with false testimony deprive the innocent of justice.
+ESV	who by a word make a man out to be an offender, and _lay a snare_ for him who reproves in the gate, and with an empty plea turn aside him who is in the right.
+NBS	qui tendaient des pièges
+NBS (verse)	– ceux qui condamnaient l'homme en justice, qui tendaient des pièges à celui qui accusait à la porte de la ville, et qui écartaient le juste sans motif.
+
+(x)	שִׁוִּ֤יתִי עַד־בֹּ֨קֶר֙ כָּֽאֲרִ֔י כֵּ֥ן _יְשַׁבֵּ֖ר_ כָּל־עַצְמֹותָ֑י מִיֹּ֥ום עַד־לַ֖יְלָה תַּשְׁלִימֵֽנִי׃ (Isa. 38:13)
+NIV	I waited patiently till dawn, but like a lion _he broke_ all my bones. day and night you made an end of me.
+ESV	I calmed myself until morning. like a lion _he breaks_ all my bones. from day to night you bring me to an end.
+NBS	brisait il
+NBS (verse)	Je me suis contenu jusqu'au matin~; comme un lion, il brisait tous mes os, du jour à la nuit tu m'auras achevé~!
+
+(x)	כְּס֤וּס עָגוּר֙ כֵּ֣ן אֲצַפְצֵ֔ף _אֶהְגֶּ֖ה_ כַּיֹּונָ֑ה דַּלּ֤וּ עֵינַי֙ לַמָּרֹ֔ום אֲדֹנָ֖י עָֽשְׁקָה־לִּ֥י עָרְבֵֽנִי׃ (Isa. 38:14)
+NIV	I cried like a swift or thrush, _I moaned_ like a mourning dove. My eyes grew weak as I looked to the heavens. I am troubled. O Lord, come to my aid!”
+ESV	Like a swallow or a crane I chirp. _I moan_ like a dove. My eyes are weary with looking upward. O Lord, I am oppressed. be my pledge of safety!
+NBS	je gémissais
+NBS (verse)	Je poussais des petits cris comme une hirondelle en voltigeant, je gémissais comme la colombe~; misérable, je levais les yeux en haut~: Seigneur, je suis oppressé, sois mon garant~!
+
+(x)	גֶּ֤פֶן בֹּוקֵק֙ יִשְׂרָאֵ֔ל פְּרִ֖י _יְשַׁוֶּה_־לֹּ֑ו כְּרֹ֣ב לְפִרְיֹ֗ו הִרְבָּה֙ לַֽמִּזְבְּחֹ֔ות כְּטֹ֣וב לְאַרְצֹ֔ו הֵיטִ֖יבוּ מַצֵּבֹֽות׃ (Hos. 10:1)
+NIV	Israel was a spreading vine. _he brought forth_ fruit for himself. As his fruit increased, he built more altars. as his land prospered, he adorned his sacred stones.
+ESV	Israel is a luxuriant vine that _yields_ its fruit. The more his fruit increased, the more altars he built. as his country improved, he improved his pillars.
+NBS	il produisait
+NBS (verse)	Israël était une vigne luxuriante, il produisait du fruit. Plus son fruit était abondant, plus il a multiplié les autels~; plus son pays était beau, plus il a embelli les pierres levées.
+
+(x)	אִם־_אֶ֭צְדָּק_ פִּ֣י יַרְשִׁיעֵ֑נִי תָּֽם־אָ֝֗נִי וַֽיַּעְקְשֵֽׁנִי׃ (Job 9:20)
+NIV	Even if _I were innocent_, my mouth would condemn me. if I were blameless, it would pronounce me guilty.
+ESV	Though _I am in the right_, my own mouth would condemn me. though I am blameless, he would prove me perverse.
+NBS	j étais juste
+NBS (verse)	Si j'étais juste, ma propre bouche me condamnerait~; si j'étais intègre, elle me donnerait tort.
+
+(x)	מִן־גֵּ֥ו _יְגֹרָ֑שׁוּ_ יָרִ֥יעוּ עָ֝לֵ֗ימֹו כַּגַּנָּֽב׃ (Job 30:5)
+NIV	_They were banished_ from their fellow-men, shouted at as if they were thieves.
+ESV	_They are driven out_ from human company. they shout after them as after a thief.
+NBS	On les chassait
+NBS (verse)	On les chassait d'entre les hommes, on poussait des cris contre eux comme contre un voleur,
+
+(x)	מִן־גֵּ֥ו יְגֹרָ֑שׁוּ _יָרִ֥יעוּ_ עָ֝לֵ֗ימֹו כַּגַּנָּֽב׃ (Job 30:5)
+NIV	They were banished from their fellow-men, _shouted_ at as if they were thieves.
+ESV	They are driven out from human company. _they shout_ after them as after a thief.
+NBS	on poussait des cris
+NBS (verse)	On les chassait d'entre les hommes, on poussait des cris contre eux comme contre un voleur,
+
+(x)	בֵּין־שִׂיחִ֥ים _יִנְהָ֑קוּ_ תַּ֖חַת חָר֣וּל יְסֻפָּֽחוּ׃ (Job 30:7)
+NIV	_They brayed_ among the bushes and huddled in the undergrowth.
+ESV	Among the bushes _they bray_. under the nettles they huddle together.
+NBS	ils allaient braire
+NBS (verse)	ils allaient braire parmi les buissons, ils s'entassaient sous les mauvaises herbes.
+
+(x)	בֵּין־שִׂיחִ֥ים יִנְהָ֑קוּ תַּ֖חַת חָר֣וּל _יְסֻפָּֽחוּ_׃ (Job 30:7)
+NIV	They brayed among the bushes and _huddled_ in the undergrowth.
+ESV	Among the bushes they bray. under the nettles _they huddle together_.
+NBS	ils s entassaient
+NBS (verse)	ils allaient braire parmi les buissons, ils s'entassaient sous les mauvaises herbes.
+
+(x)	נָע֤וּ עִוְרִים֙ בַּֽחוּצֹ֔ות נְגֹֽאֲל֖וּ בַּדָּ֑ם בְּלֹ֣א _יֽוּכְל֔וּ_ יִגְּע֖וּ בִּלְבֻשֵׁיהֶֽם׃ ס (Lam. 4:14)
+NIV	Now they grope through the streets like men who are blind. They are so defiled with blood that no-one _dares_ to touch their garments.
+ESV	They wandered, blind, through the streets. they were so defiled with blood that no one _was able_ to touch their garments.
+NBS	pouvait on
+NBS (verse)	Ils erraient comme des aveugles dans les rues, ils étaient souillés de sang~: on ne pouvait toucher leurs vêtements.

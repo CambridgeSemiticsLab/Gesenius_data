@@ -1,27 +1,101 @@
 eng_TAMsimp.isin(["FUT ~ MOD shall", "FUT"]) and genre == "prose" and domain2 == "Q"
-25 of 1117
-you shall surely die, you will surely die (ESV, NIV | BHS מֹ֥ות תָּמֽוּת׃ , Gen. 2:17)
-I will surely multiply, I will so increase (ESV, NIV | BHS הַרְבָּ֥ה אַרְבֶּ֖ה אֶת־זַרְעֵ֑ךְ , Gen. 16:10)
-will send (ESV, NIV | BHS ה֗וּא יִשְׁלַ֤ח מַלְאָכֹו֙ לְפָנֶ֔יךָ , Gen. 24:7)
-shall come, will come (ESV, NIV | BHS גֹּ֛וי וּקְהַ֥ל גֹּויִ֖ם יִהְיֶ֣ה מִמֶּ֑ךָּ , Gen. 35:11)
-you shall serve, you will worship (ESV, NIV | BHS תַּֽעַבְדוּן֙ אֶת־הָ֣אֱלֹהִ֔ים עַ֖ל הָהָ֥ר הַזֶּֽה׃ , Exod. 3:12)
-they will walk, they will follow (ESV, NIV | BHS הֲיֵלֵ֥ךְ בְּתֹורָתִ֖י , Exod. 16:4)
-disinherit, destroy (ESV, NIV | BHS וְאֹורִשֶׁ֑נּוּ , Num. 14:12)
-they shall come in, they will come in (ESV, NIV | BHS וְעַל־פִּ֣יו יָבֹ֗אוּ ה֛וּא וְכָל־בְּנֵי־יִשְׂרָאֵ֥ל אִתֹּ֖ו וְכָל־הָעֵדָֽה׃ , Num. 27:21)
-he will be slack, he will be slow (ESV, NIV | BHS לֹ֤א יְאַחֵר֙ לְשֹׂ֣נְאֹ֔ו , Deut. 7:10)
-will strike, will afflict (ESV, NIV | BHS יַכְּכָ֨ה יְהוָ֜ה בִּשְׁחִ֣ין רָ֗ע עַל־הַבִּרְכַּ֨יִם֙ וְעַל־הַשֹּׁקַ֔יִם , Deut. 28:35)
-will destroy (ESV, NIV | BHS הֽוּא־יַשְׁמִ֞יד אֶת־הַגֹּויִ֥ם הָאֵ֛לֶּה מִלְּפָנֶ֖יךָ , Deut. 31:3)
-I will cast (ESV, NIV | BHS וּ֠פֹה אַשְׁלִ֨יךְ לָכֶ֥ם גֹּורָ֛ל לִפְנֵ֥י יְהוָ֖ה בְּשִׁלֹֽה׃ , Josh. 18:8)
-I will go out, I’ll go out (ESV, NIV | BHS אֵצֵ֞א כְּפַ֤עַם בְּפַ֨עַם֙ , Judg. 16:20)
-I will make a treaty (ESV, NIV | BHS בְּזֹאת֙ אֶכְרֹ֣ת לָכֶ֔ם , I Sam. 11:2)
-shall be, will touch (ESV, NIV | BHS וְיָדִ֖י לֹ֥א תִֽהְיֶה־בָּֽךְ׃ , I Sam. 24:14)
-I will deal, I will show (ESV, NIV | BHS אֶעֱשֶׂה־חֶ֣סֶד׀ עִם־חָנ֣וּן בֶּן־נָחָ֗שׁ , II Sam. 10:2)
-will speak (ESV, NIV | BHS אָנֹכִ֕י אֲדַבֵּ֥ר עָלֶ֖יךָ אֶל־הַמֶּֽלֶךְ׃ , I Kgs. 2:18)
-there shall be, there will be (ESV, NIV | BHS אִם־יִהְיֶ֛ה הַשָּׁנִ֥ים הָאֵ֖לֶּה טַ֣ל וּמָטָ֑ר , I Kgs. 17:1)
-I will leave (ESV, NIV | BHS אִם־אֶעֶזְבֶ֑ךָּ , II Kgs. 4:30)
-shall be born, will be born to you (ESV, NIV | BHS אֲשֶׁ֥ר תֹּולִ֖יד , II Kgs. 20:18)
-you will redeem (ESV, NIV | BHS אִם־תִּגְאַל֙ , Ruth 4:4)
-he shall turn, he will turn (ESV, NIV | BHS וְיָשֵׂ֧ם ׀ פָּנָ֛יו לְאִיִּ֖ים , Dan. 11:18)
-I will gather (ESV, NIV | BHS מִשָּׁ֣ם אֲקַבְּצֵ֔ם , Neh. 1:9)
-shall have, will have (ESV, NIV | BHS וְאַחֲרֶ֖יךָ לֹ֥א יִֽהְיֶה־כֵּֽן׃ , II Chr. 1:12)
-shall see, will see (ESV, NIV | BHS וְלֹא־תִרְאֶ֣ינָה עֵינֶ֔יךָ בְּכֹל֙ הָֽרָעָ֔ה , II Chr. 34:28)
+25 of 1151
+(x)	כִּ֗י בְּיֹ֛ום אֲכָלְךָ֥ מִמֶּ֖נּוּ מֹ֥ות _תָּמֽוּת_׃ (Gen. 2:17)
+NIV	but you must not eat from the tree of the knowledge of good and evil, for when you eat of it _you will surely die_.”
+ESV	but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it _you shall surely die_.”
+
+(x)	וְדֹ֥ור רְבִיעִ֖י _יָשׁ֣וּבוּ_ הֵ֑נָּה (Gen. 15:16)
+NIV	In the fourth generation _your descendants will come back_ here, for the sin of the Amorites has not yet reached its full measure.”
+ESV	And _they shall come back_ here in the fourth generation, for the iniquity of the Amorites is not yet complete.”
+
+(x)	וְגַם־גְּמַלֶּ֖יךָ _אַשְׁקֶ֑ה_ (Gen. 24:14)
+NIV	May it be that when I say to a girl, ‘Please let down your jar that I may have a drink,’ and she says, ‘Drink, and _I’ll water_ your camels too’ — let her be the one you have chosen for your servant Isaac. By this I will know that you have shown kindness to my master.”
+ESV	Let the young woman to whom I shall say, ‘Please let down your jar that I may drink,’ and who shall say, ‘Drink, and _I will water_ your camels’ — let her be the one whom you have appointed for your servant Isaac. By this I shall know that you have shown steadfast love to my master.”
+
+(x)	כִּ֤י אִם־יִשְׂרָאֵל֙ _יִהְיֶ֣ה_ שְׁמֶ֔ךָ (Gen. 35:10)
+NIV	God said to him, “Your name is Jacob, but you will no longer be called Jacob. your name _will be_ Israel.” So he named him Israel.
+ESV	And God said to him, “Your name is Jacob. no longer shall your name be called Jacob, but Israel _shall be_ your name.” So he called his name Israel.
+
+(x)	וַאֲנִ֖י _אֶתֵּ֣ן_ אֶת־שְׂכָרֵ֑ךְ (Exod. 2:9)
+NIV	Pharaoh’s daughter said to her, “Take this baby and nurse him for me, and I _will pay_ you.” So the woman took the baby and nursed him.
+ESV	And Pharaoh’s daughter said to her, “Take this child away and nurse him for me, and I _will give_ you your wages.” So the woman took the child and nursed him.
+
+(x)	וְ_אִכָּבְדָ֤ה_ בְּפַרְעֹה֙ וּבְכָל־חֵילֹ֔ו בְּרִכְבֹּ֖ו וּבְפָרָשָֽׁיו׃ (Exod. 14:17)
+NIV	I will harden the hearts of the Egyptians so that they will go in after them. And _I will gain glory_ through Pharaoh and all his army, through his chariots and his horsemen.
+ESV	And I will harden the hearts of the Egyptians so that they shall go in after them, and _I will get glory_ over Pharaoh and all his host, his chariots, and his horsemen.
+
+(x)	_אַכֶּ֥נּוּ_ בַדֶּ֖בֶר (Num. 14:12)
+NIV	I will strike them down with a plague and destroy them, but I will make you into a nation greater and stronger than they.”
+ESV	_I will strike_ them with the pestilence and disinherit them, and I will make of you a nation greater and mightier than they.”
+
+(x)	עַל־פִּ֨יו _יֵצְא֜וּ_ (Num. 27:21)
+NIV	He is to stand before Eleazar the priest, who will obtain decisions for him by inquiring of the Urim before the LORD. At his command he and the entire community of the Israelites _will go out_, and at his command they will come in.”
+ESV	And he shall stand before Eleazar the priest, who shall inquire for him by the judgment of the Urim before the Lord. At his word _they shall go out_, and at his word they shall come in, both he and all the people of Israel with him, the whole congregation.”
+
+(x)	לֹ֤א _יְאַחֵר֙_ לְשֹׂ֣נְאֹ֔ו (Deut. 7:10)
+NIV	But those who hate him he will repay to their face by destruction. he will not be slow to repay to their face those who hate him.
+ESV	and repays to their face those who hate him, by destroying them. He will not be slack with one who hates him. He will repay him to his face.
+
+(x)	_יֹולֵ֨ךְ_ יְהוָ֜ה אֹֽתְךָ֗ וְאֶֽת־מַלְכְּךָ֙ אֲשֶׁ֣ר תָּקִ֣ים עָלֶ֔יךָ אֶל־גֹּ֕וי אֲשֶׁ֥ר לֹא־יָדַ֖עְתָּ אַתָּ֣ה וַאֲבֹתֶ֑יךָ (Deut. 28:36)
+NIV	The LORD _will drive_ you and the king you set over you to a nation unknown to you or your fathers. There you will worship other gods, gods of wood and stone.
+ESV	“The Lord _will bring_ you and your king whom you set over you to a nation that neither you nor your fathers have known. And there you shall serve other gods of wood and stone.
+
+(x)	ה֚וּא _יִהְיֶ֣ה_ עִמָּ֔ךְ (Deut. 31:8)
+NIV	The LORD himself goes before you and _will be_ with you. he will never leave you nor forsake you. Do not be afraid. do not be discouraged.”
+ESV	It is the Lord who goes before you. He _will be_ with you. he will not leave you or forsake you. Do not fear or be dismayed.”
+
+(x)	וְלֹא־_יֹאמְר֨וּ_ בְנֵיכֶ֤ם מָחָר֙ לְבָנֵ֔ינוּ (Josh. 22:27)
+NIV	On the contrary, it is to be a witness between us and you and the generations that follow, that we will worship the LORD at his sanctuary with our burnt offerings, sacrifices and fellowship offerings. Then in the future your descendants will not be able to say to ours, ‘You have no share in the LORD.’
+ESV	but to be a witness between us and you, and between our generations after us, that we do perform the service of the Lord in his presence with our burnt offerings and sacrifices and peace offerings, so your children will not say to our children in time to come, “You have no portion in the Lord.”’
+
+(x)	וְ_אִנָּעֵ֔ר_ (Judg. 16:20)
+NIV	Then she called, “Samson, the Philistines are upon you!” He awoke from his sleep and thought, “I’ll go out as before and _shake myself free_.” But he did not know that the LORD had left him.
+ESV	And she said, “The Philistines are upon you, Samson!” And he awoke from his sleep and said, “I will go out as at other times and _shake myself free_.” But he did not know that the Lord had left him.
+
+(x)	בְּזֹאת֙ _אֶכְרֹ֣ת_ לָכֶ֔ם בִּנְקֹ֥ור לָכֶ֖ם כָּל־עֵ֣ין יָמִ֑ין (I Sam. 11:2)
+NIV	But Nahash the Ammonite replied, “_I will make a treaty_ with you only on the condition that I gouge out the right eye of every one of you and so bring disgrace on all Israel.”
+ESV	But Nahash the Ammonite said to them, “On this condition _I will make a treaty_ with you, that I gouge out all your right eyes, and thus bring disgrace on all Israel.”
+
+(x)	וְיָדִ֖י לֹ֥א _תִֽהְיֶה_־בָּֽךְ׃ (I Sam. 24:14)
+NIV	As the old saying goes, ‘From evildoers come evil deeds,’ so my hand will not touch you.
+ESV	As the proverb of the ancients says, ‘Out of the wicked comes wickedness.’ But my hand shall not be against you.
+
+(x)	כְּכֹל֩ אֲשֶׁ֨ר יְצַוֶּ֜ה אֲדֹנִ֤י הַמֶּ֨לֶךְ֙ אֶת־עַבְדֹּ֔ו כֵּ֖ן _יַעֲשֶׂ֣ה_ עַבְדֶּ֑ךָ (II Sam. 9:11)
+NIV	Then Ziba said to the king, “Your servant _will do_ whatever my lord the king commands his servant to do.” So Mephibosheth ate at David’s table like one of the king’s sons.
+ESV	Then Ziba said to the king, “According to all that my lord the king commands his servant, so will your servant do.” So Mephibosheth ate at David’s table, like one of the king’s sons.
+
+(x)	כִּ֥י לֹֽא־_אָשִׁ֖יב_ אֶת־פָּנָֽיִךְ׃ (I Kgs. 2:20)
+NIV	“I have one small request to make of you,” she said. “Do not refuse me.” The king replied, “Make it, my mother. I will not refuse you.”
+ESV	Then she said, “I have one small request to make of you. do not refuse me.” And the king said to her, “Make your request, my mother, for I will not refuse you.”
+
+(x)	מֵהַנַּ֣חַל _תִּשְׁתֶּ֑ה_ (I Kgs. 17:4)
+NIV	_You will drink_ from the brook, and I have ordered the ravens to feed you there.”
+ESV	_You shall drink_ from the brook, and I have commanded the ravens to feed you there.”
+
+(x)	כִּ֡י לֹֽוא־_יַעֲשֶׂה֩_ עֹ֨וד עַבְדְּךָ֜ עֹלָ֤ה וָזֶ֨בַח֙ לֵאלֹהִ֣ים אֲחֵרִ֔ים כִּ֖י אִם־לַיהוָֽה׃ (II Kgs. 5:17)
+NIV	“If you will not,” said Naaman, “please let me, your servant, be given as much earth as a pair of mules can carry, for your servant will never again make burnt offerings and sacrifices to any other god but the LORD.
+ESV	Then Naaman said, “If not, please let there be given to your servant two mules’ load of earth, for from now on your servant will not offer burnt offering or sacrifice to any god but the Lord.
+
+(x)	בִּירוּשָׁלִַ֖ם _אָשִׂ֥ים_ אֶת־שְׁמִֽי׃ (II Kgs. 21:4)
+NIV	He built altars in the temple of the LORD, of which the LORD had said, “In Jerusalem _I will put_ my Name.”
+ESV	And he built altars in the house of the Lord, of which the Lord had said, “In Jerusalem _will I put_ my name.”
+
+(x)	כִּֽי־_יֵצֵ֤א_ דְבַר־הַמַּלְכָּה֙ עַל־כָּל־הַנָּשִׁ֔ים לְהַבְזֹ֥ות בַּעְלֵיהֶ֖ן בְּעֵינֵיהֶ֑ן בְּאָמְרָ֗ם (Esth. 1:17)
+NIV	For the queen’s conduct _will become known_ to all the women, and so they will despise their husbands and say, ‘King Xerxes commanded Queen Vashti to be brought before him, but she would not come.’
+ESV	For the queen’s behavior _will be made known_ to all women, causing them to look at their husbands with contempt, since they will say, ‘King Ahasuerus commanded Queen Vashti to be brought before him, and she did not come.’
+
+(x)	וְלֹ֥א _תַעֲמֹ֖ד_ (Dan. 11:17)
+NIV	He will determine to come with the might of his entire kingdom and will make an alliance with the king of the South. And he will give him a daughter in marriage in order to overthrow the kingdom, but his plans will not succeed or help him.
+ESV	He shall set his face to come with the strength of his whole kingdom, and he shall bring terms of an agreement and perform them. He shall give him the daughter of women to destroy the kingdom, but it shall not stand or be to his advantage.
+
+(x)	עַד־מָתַ֛י _יִהְיֶ֥ה_ מַֽהֲלָכֲךָ֖ (Neh. 2:6)
+NIV	Then the king, with the queen sitting beside him, asked me, “How long will your journey take, and when will you get back?” It pleased the king to send me. so I set a time.
+ESV	And the king said to me ( the queen sitting beside him ), “How long will you be gone, and when will you return?” So it pleased the king to send me when I had given him a time.
+
+(x)	וַ֠אֲנַחְנוּ _נִכְרֹ֨ת_ עֵצִ֤ים מִן־הַלְּבָנֹון֙ כְּכָל־צָרְכֶּ֔ךָ (II Chr. 2:15)
+NIV	and we _will cut_ all the logs from Lebanon that you need and will float them in rafts by sea down to Joppa. You can then take them up to Jerusalem.”
+ESV	And we _will cut_ whatever timber you need from Lebanon and bring it to you in rafts by sea to Joppa, so that you may take it up to Jerusalem.”
+
+(x)	וְלֹא־_תִרְאֶ֣ינָה_ עֵינֶ֔יךָ בְּכֹל֙ הָֽרָעָ֔ה אֲשֶׁ֨ר אֲנִ֥י מֵבִ֛יא עַל־הַמָּקֹ֥ום הַזֶּ֖ה וְעַל־יֹשְׁבָ֑יו (II Chr. 34:28)
+NIV	Now I will gather you to your fathers, and you will be buried in peace. Your eyes will not see all the disaster I am going to bring on this place and on those who live here.’” So they took her answer back to the king.
+ESV	Behold, I will gather you to your fathers, and you shall be gathered to your grave in peace, and your eyes shall not see all the disaster that I will bring upon this place and its inhabitants.’” And they brought back word to the king.

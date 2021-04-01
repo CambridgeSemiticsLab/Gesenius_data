@@ -1,0 +1,326 @@
+eng_TAMsimp == "PAST" and french_tense == "passé_simp"
+54 of 54
+
+(x)	הַנְּפִלִ֞ים הָי֣וּ בָאָרֶץ֮ בַּיָּמִ֣ים הָהֵם֒ וְגַ֣ם אַֽחֲרֵי־כֵ֗ן אֲשֶׁ֨ר _יָבֹ֜אוּ_ בְּנֵ֤י הָֽאֱלֹהִים֙ אֶל־בְּנֹ֣ות הָֽאָדָ֔ם וְיָלְד֖וּ לָהֶ֑ם הֵ֧מָּה הַגִּבֹּרִ֛ים אֲשֶׁ֥ר מֵעֹולָ֖ם אַנְשֵׁ֥י הַשֵּֽׁם׃ פ (Gen. 6:4)
+NIV	The Nephilim were on the earth in those days — and also afterward — when the sons of God _went_ to the daughters of men and had children by them. They were the heroes of old, men of renown.
+ESV	The Nephilim were on the earth in those days, and also afterward, when the sons of God _came in_ to the daughters of man and they bore children to them. These were the mighty men who were of old, the men of renown.
+NBS	vinrent
+NBS (verse)	En ces jours-là~– et encore après cela~– les Nephilim étaient sur la terre, lorsque les fils de Dieu vinrent vers les filles des humains et qu'elles leur donnèrent des enfants~: ce sont là les héros d'autrefois, les hommes de renom.
+
+(x)	וְ֠הִנֵּה אֲנַ֜חְנוּ מְאַלְּמִ֤ים אֲלֻמִּים֙ בְּתֹ֣וךְ הַשָּׂדֶ֔ה וְהִנֵּ֛ה קָ֥מָה אֲלֻמָּתִ֖י וְגַם־נִצָּ֑בָה וְהִנֵּ֤ה _תְסֻבֶּ֨ינָה֙_ אֲלֻמֹּ֣תֵיכֶ֔ם וַתִּֽשְׁתַּחֲוֶ֖יןָ לַאֲלֻמָּתִֽי׃ (Gen. 37:7)
+NIV	We were binding sheaves of grain out in the field when suddenly my sheaf rose and stood upright, while your sheaves _gathered around_ mine and bowed down to it.”
+ESV	Behold, we were binding sheaves in the field, and behold, my sheaf arose and stood upright. And behold, your sheaves _gathered around_ it and bowed down to my sheaf.”
+NBS	entourèrent
+NBS (verse)	Nous étions au milieu des champs à lier des gerbes~; soudain ma gerbe se dressa et se tint debout, et vos gerbes l'entourèrent et se prosternèrent devant elle.
+
+(x)	אָ֣ז _יָשִֽׁיר_־מֹשֶׁה֩ וּבְנֵ֨י יִשְׂרָאֵ֜ל אֶת־הַשִּׁירָ֤ה הַזֹּאת֙ לַֽיהוָ֔ה וַיֹּאמְר֖וּ לֵאמֹ֑ר אָשִׁ֤ירָה לַֽיהוָה֙ כִּֽי־גָאֹ֣ה גָּאָ֔ה ס֥וּס וְרֹכְבֹ֖ו רָמָ֥ה בַיָּֽם׃ (Exod. 15:1)
+NIV	Then Moses and the Israelites _sang_ this song to the LORD: “I will sing to the LORD, for he is highly exalted. The horse and its rider he has hurled into the sea.
+ESV	Then Moses and the people of Israel _sang_ this song to the Lord, saying, “I will sing to the Lord, for he has triumphed gloriously. the horse and his rider he has thrown into the sea.
+NBS	chantèrent
+NBS (verse)	Alors Moïse et les Israélites chantèrent pour le Seigneur~: Je chanterai pour le Seigneur, car il a montré sa souveraineté~; il a jeté dans la mer le cheval et son cavalier.
+
+(x)	אָ֣ז _יְדַבֵּ֤ר_ יְהֹושֻׁעַ֙ לַֽיהוָ֔ה בְּיֹ֗ום תֵּ֤ת יְהוָה֙ אֶת־הָ֣אֱמֹרִ֔י לִפְנֵ֖י בְּנֵ֣י יִשְׂרָאֵ֑ל וַיֹּ֣אמֶר׀ לְעֵינֵ֣י יִשְׂרָאֵ֗ל שֶׁ֚מֶשׁ בְּגִבְעֹ֣ון דֹּ֔ום וְיָרֵ֖חַ בְּעֵ֥מֶק אַיָּלֹֽון׃ (Josh. 10:12)
+NIV	On the day the LORD gave the Amorites over to Israel, Joshua _said_ to the LORD in the presence of Israel: “O sun, stand still over Gibeon, O moon, over the Valley of Aijalon.”
+ESV	At that time Joshua _spoke_ to the Lord in the day when the Lord gave the Amorites over to the sons of Israel, and he said in the sight of Israel, “Sun, stand still at Gibeon, and moon, in the Valley of Aijalon.”
+NBS	parla
+NBS (verse)	Alors Josué parla au Seigneur, le jour où le Seigneur livra les Amorites aux Israélites~; sous les yeux d'Israël, il dit~: Soleil, tiens-toi immobile sur Gabaon, et toi, lune, sur la vallée d'Ayyalôn~!
+
+(x)	אָ֚ז _יִקְרָ֣א_ יְהֹושֻׁ֔עַ לָרֽאוּבֵנִ֖י וְלַגָּדִ֑י וְלַחֲצִ֖י מַטֵּ֥ה מְנַשֶּֽׁה׃ (Josh. 22:1)
+NIV	Then Joshua _summoned_ the Reubenites, the Gadites and the half-tribe of Manasseh
+ESV	At that time Joshua _summoned_ the Reubenites and the Gadites and the half-tribe of Manasseh,
+NBS	appela
+NBS (verse)	Alors Josué appela les Rubénites, les Gadites et la demi-tribu de Manassé.
+
+(x)	וַיֵּצֵ֧א הַמַּשְׁחִ֛ית מִמַּחֲנֵ֥ה פְלִשְׁתִּ֖ים שְׁלֹשָׁ֣ה רָאשִׁ֑ים הָרֹ֨אשׁ אֶחָ֥ד _יִפְנֶ֛ה_ אֶל־דֶּ֥רֶךְ עָפְרָ֖ה אֶל־אֶ֥רֶץ שׁוּעָֽל׃ (I Sam. 13:17)
+NIV	Raiding parties went out from the Philistine camp in three detachments. One _turned_ towards Ophrah in the vicinity of Shual,
+ESV	And raiders came out of the camp of the Philistines in three companies. One company _turned_ toward Ophrah, to the land of Shual.
+NBS	prit
+NBS (verse)	Les troupes de destruction sortirent du camp des Philistins en trois bandes~: une bande prit le chemin d'Ophra, vers le pays de Shoual~;
+
+(x)	וַיִּתְקַ֤ע יֹואָב֙ בַּשֹּׁופָ֔ר וַיַּֽעַמְדוּ֙ כָּל־הָעָ֔ם וְלֹֽא־_יִרְדְּפ֥וּ_ עֹ֖וד אַחֲרֵ֣י יִשְׂרָאֵ֑ל וְלֹֽא־יָסְפ֥וּ עֹ֖וד לְהִלָּחֵֽם׃ (II Sam. 2:28)
+NIV	So Joab blew the trumpet, and all the men came to a halt. they no longer pursued Israel, nor did they fight any more.
+ESV	So Joab blew the trumpet, and all the men stopped and _pursued_ Israel no more, nor did they fight anymore.
+NBS	ils poursuivirent
+NBS (verse)	Joab sonna de la trompe, et tous les hommes s'arrêtèrent~; ils ne poursuivirent plus Israël et cessèrent le combat.
+
+(x)	וְאֶת־הָעָ֨ם אֲשֶׁר־בָּ֜הּ הֹוצִ֗יא וַיָּ֣שֶׂם בַּ֠מְּגֵרָה וּבַחֲרִצֵ֨י הַבַּרְזֶ֜ל וּֽבְמַגְזְרֹ֣ת הַבַּרְזֶ֗ל וְהֶעֱבִ֤יר אֹותָם֙ בַּמַּלְבֵּ֔ן וְכֵ֣ן _יַעֲשֶׂ֔ה_ לְכֹ֖ל עָרֵ֣י בְנֵֽי־עַמֹּ֑ון וַיָּ֧שָׁב דָּוִ֛ד וְכָל־הָעָ֖ם יְרוּשָׁלִָֽם׃ פ (II Sam. 12:31)
+NIV	and brought out the people who were there, consigning them to labour with saws and with iron picks and axes, and he made them work at brickmaking. _He did_ this to all the Ammonite towns. Then David and his entire army returned to Jerusalem.
+ESV	And he brought out the people who were in it and set them to labor with saws and iron picks and iron axes and made them toil at the brick kilns. And thus _he did_ to all the cities of the Ammonites. Then David and all the people returned to Jerusalem.
+NBS	traita il
+NBS (verse)	Quant au peuple qui s'y trouvait, il le fit sortir~; il les affecta aux scies, aux herses de fer et aux haches de fer, et les condamna au moulage des briques~; il traita de même toutes les villes des Ammonites. Puis David revint à Jérusalem avec toutes les troupes.
+
+(x)	_יַרְעֵ֥ם_ מִן־שָׁמַ֖יִם יְהוָ֑ה וְעֶלְיֹ֖ון יִתֵּ֥ן קֹולֹֽו׃ (II Sam. 22:14)
+NIV	The LORD _thundered_ from heaven. the voice of the Most High resounded.
+ESV	The Lord _thundered_ from heaven, and the Most High uttered his voice.
+NBS	tonna
+NBS (verse)	Le Seigneur tonna depuis le ciel, le Très-Haut fit retentir sa voix.
+
+(x)	יַרְעֵ֥ם מִן־שָׁמַ֖יִם יְהוָ֑ה וְעֶלְיֹ֖ון _יִתֵּ֥ן_ קֹולֹֽו׃ (II Sam. 22:14)
+NIV	The LORD thundered from heaven. the voice of the Most High _resounded_.
+ESV	The Lord thundered from heaven, and the Most High _uttered_ his voice.
+NBS	retentir fit
+NBS (verse)	Le Seigneur tonna depuis le ciel, le Très-Haut fit retentir sa voix.
+
+(x)	יִשְׁלַ֥ח מִמָּרֹ֖ום _יִקָּחֵ֑נִי_ יַֽמְשֵׁ֖נִי מִמַּ֥יִם רַבִּֽים׃ (II Sam. 22:17)
+NIV	“He reached down from on high and _took hold of_ me. he drew me out of deep waters.
+ESV	“He sent from on high, _he took_ me. he drew me out of many waters.
+NBS	il me saisit
+NBS (verse)	D'en haut il tend la main, il me saisit, il me retire des grandes eaux~;
+
+(x)	אָ֣ז _תָּבֹ֗אנָה_ שְׁתַּ֛יִם נָשִׁ֥ים זֹנֹ֖ות אֶל־הַמֶּ֑לֶךְ וַֽתַּעֲמֹ֖דְנָה לְפָנָֽיו׃ (I Kgs. 3:16)
+NIV	Now two prostitutes _came_ to the king and stood before him.
+ESV	Then two prostitutes _came_ to the king and stood before him.
+NBS	vinrent
+NBS (verse)	Alors deux prostituées vinrent chez le roi et se présentèrent devant lui.
+
+(x)	אָ֣ז _יַקְהֵ֣ל_ שְׁלֹמֹ֣ה אֶת־זִקְנֵ֣י יִשְׂרָאֵ֡ל אֶת־כָּל־רָאשֵׁ֣י הַמַּטֹּות֩ נְשִׂיאֵ֨י הָאָבֹ֜ות לִבְנֵ֧י יִשְׂרָאֵ֛ל אֶל־הַמֶּ֥לֶךְ שְׁלֹמֹ֖ה יְרוּשָׁלִָ֑ם לְֽהַעֲלֹ֞ות אֶת־אֲרֹ֧ון בְּרִית־יְהוָ֛ה מֵעִ֥יר דָּוִ֖ד הִ֥יא צִיֹּֽון׃ (I Kgs. 8:1)
+NIV	Then King Solomon _summoned_ into his presence at Jerusalem the elders of Israel, all the heads of the tribes and the chiefs of the Israelite families, to bring up the ark of the LORD’s covenant from Zion, the City of David.
+ESV	Then Solomon _assembled_ the elders of Israel and all the heads of the tribes, the leaders of the fathers’ houses of the people of Israel, before King Solomon in Jerusalem, to bring up the ark of the covenant of the Lord out of the city of David, which is Zion.
+NBS	rassembla
+NBS (verse)	Alors le roi Salomon rassembla auprès de lui, à Jérusalem, les anciens d'Israël et tous les chefs des tribus, les princes des familles des Israélites, pour faire monter de la Ville de David, c'est-à-dire Sion, le coffre de l'alliance du Seigneur.
+
+(x)	חִירָ֣ם מֶֽלֶךְ־צֹ֠ר נִשָּׂ֨א אֶת־שְׁלֹמֹ֜ה בַּעֲצֵי֩ אֲרָזִ֨ים וּבַעֲצֵ֧י בְרֹושִׁ֛ים וּבַזָּהָ֖ב לְכָל־חֶפְצֹ֑ו אָ֡ז _יִתֵּן֩_ הַמֶּ֨לֶךְ שְׁלֹמֹ֤ה לְחִירָם֙ עֶשְׂרִ֣ים עִ֔יר בְּאֶ֖רֶץ הַגָּלִֽיל׃ (I Kgs. 9:11)
+NIV	King Solomon _gave_ twenty towns in Galilee to Hiram king of Tyre, because Hiram had supplied him with all the cedar and pine and gold he wanted.
+ESV	and Hiram king of Tyre had supplied Solomon with cedar and cypress timber and gold, as much as he desired, King Solomon _gave_ to Hiram twenty cities in the land of Galilee.
+NBS	donna
+NBS (verse)	Alors, comme Hiram, roi de Tyr, avait fourni à Salomon du bois de cèdre, du bois de cyprès et de l'or, autant qu'il en avait désiré, le roi Salomon donna à Hiram vingt villes au pays de Galilée.
+
+(x)	וַיַּ֨עַשׂ הַמֶּ֧לֶךְ שְׁלֹמֹ֛ה מָאתַ֥יִם צִנָּ֖ה זָהָ֣ב שָׁח֑וּט שֵׁשׁ־מֵאֹ֣ות זָהָ֔ב _יַעֲלֶ֖ה_ עַל־הַצִּנָּ֥ה הָאֶחָֽת׃ (I Kgs. 10:16)
+NIV	King Solomon made two hundred large shields of hammered gold. six hundred bekas of gold _went_ into each shield.
+ESV	King Solomon made 200 large shields of beaten gold. 600 shekels of gold _went_ into each shield.
+NBS	employa il
+NBS (verse)	Le roi Salomon fit deux cents grands boucliers d'or battu, pour chacun desquels il employa six cents sicles d'or,
+
+(x)	אָ֧ז _יֵחָלֵ֛ק_ הָעָ֥ם יִשְׂרָאֵ֖ל לַחֵ֑צִי חֲצִ֨י הָעָ֜ם הָ֠יָה אַחֲרֵ֨י תִבְנִ֤י בֶן־גִּינַת֙ לְהַמְלִיכֹ֔ו וְהַחֲצִ֖י אַחֲרֵ֥י עָמְרִֽי׃ (I Kgs. 16:21)
+NIV	Then the people of Israel _were split_ into two factions. half supported Tibni son of Ginath for king, and the other half supported Omri.
+ESV	Then the people of Israel _were divided_ into two parts. Half of the people followed Tibni the son of Ginath, to make him king, and half followed Omri.
+NBS	se divisa
+NBS (verse)	Alors le peuple d'Israël se divisa en deux partis~: une moitié du peuple suivit Tibni, fils de Guinath, pour l'investir de la royauté~; l'autre moitié suivit Omri.
+
+(x)	וְהֶעָרִ֣ים יַהֲרֹ֡סוּ וְכָל־חֶלְקָ֣ה טֹ֠ובָה _יַשְׁלִ֨יכוּ_ אִישׁ־אַבְנֹ֜ו וּמִלְא֗וּהָ וְכָל־מַעְיַן־מַ֤יִם יִסְתֹּ֨מוּ֙ וְכָל־עֵֽץ־טֹ֣וב יַפִּ֔ילוּ עַד־הִשְׁאִ֧יר אֲבָנֶ֛יהָ בַּקִּ֖יר חֲרָ֑שֶׂת וַיָּסֹ֥בּוּ הַקַּלָּעִ֖ים וַיַּכּֽוּהָ׃ (II Kgs. 3:25)
+NIV	They destroyed the towns, and each man _threw_ a stone on every good field until it was covered. They stopped up all the springs and cut down every good tree. Only Kir Hareseth was left with its stones in place, but men armed with slings surrounded it and attacked it as well.
+ESV	And they over_threw_ the cities, and on every good piece of land every man _threw_ a stone until it was covered. They stopped every spring of water and felled all the good trees, till only its stones were left in Kir-hareseth, and the slingers surrounded and attacked it.
+NBS	jetèrent ils
+NBS (verse)	Ils rasèrent les villes, ils jetèrent chacun sa pierre dans toutes les meilleures parcelles et les en remplirent, ils bouchèrent toutes les sources et abattirent tous les bons arbres. Finalement, il ne resta plus que les pierres de Qir-Haréseth~; les hommes armés de frondes l'encerclèrent et la mirent à mal.
+
+(x)	אָ֣ז _יַעֲלֶ֗ה_ חֲזָאֵל֙ מֶ֣לֶךְ אֲרָ֔ם וַיִּלָּ֥חֶם עַל־גַּ֖ת וַֽיִּלְכְּדָ֑הּ וַיָּ֤שֶׂם חֲזָאֵל֙ פָּנָ֔יו לַעֲלֹ֖ות עַל־יְרוּשָׁלִָֽם׃ (II Kgs. 12:18)
+NIV	About this time Hazael king of Aram _went up_ and attacked Gath and captured it. Then he turned to attack Jerusalem.
+ESV	At that time Hazael king of Syria _went up_ and fought against Gath and took it. But when Hazael set his face to go up against Jerusalem,
+NBS	alla
+NBS (verse)	Alors Hazaël, roi d'Aram, alla faire la guerre à Gath, qu'il prit. Hazaël avait l'intention d'attaquer Jérusalem.
+
+(x)	אָ֣ז _יַכֶּֽה_־מְ֠נַחֵם אֶת־תִּפְסַ֨ח וְאֶת־כָּל־אֲשֶׁר־בָּ֤הּ וְאֶת־גְּבוּלֶ֨יהָ֙ מִתִּרְצָ֔ה כִּ֛י לֹ֥א פָתַ֖ח וַיַּ֑ךְ אֵ֛ת כָּל־הֶהָ֥רֹותֶ֖יהָ בִּקֵּֽעַ׃ פ (II Kgs. 15:16)
+NIV	At that time Menahem, starting out from Tirzah, _attacked_ Tiphsah and everyone in the city and its vicinity, because they refused to open their gates. He sacked Tiphsah and ripped open all the pregnant women.
+ESV	At that time Menahem _sacked_ Tiphsah and all who were in it and its territory from Tirzah on, because they did not open it to him. Therefore he _sacked_ it, and he ripped open all the women in it who were pregnant.
+NBS	mit à mal
+NBS (verse)	Alors Menahem mit à mal Tiphsah et tous ceux qui s'y trouvaient, ainsi que son territoire depuis Tirtsa, parce qu'elle n'avait pas ouvert ses portes~; il éventra toutes les femmes enceintes.
+
+(x)	אָ֣ז _יַעֲלֶ֣ה_ רְצִ֣ין מֶֽלֶךְ־אֲ֠רָם וּפֶ֨קַח בֶּן־רְמַלְיָ֧הוּ מֶֽלֶךְ־יִשְׂרָאֵ֛ל יְרוּשָׁלִַ֖ם לַמִּלְחָמָ֑ה וַיָּצֻ֨רוּ֙ עַל־אָחָ֔ז וְלֹ֥א יָכְל֖וּ לְהִלָּחֵֽם׃ (II Kgs. 16:5)
+NIV	Then Rezin king of Aram and Pekah son of Remaliah king of Israel _marched up_ to fight against Jerusalem and besieged Ahaz, but they could not overpower him.
+ESV	Then Rezin king of Syria and Pekah the son of Remaliah, king of Israel, _came up_ to wage war on Jerusalem, and they besieged Ahaz but could not conquer him.
+NBS	allèrent faire
+NBS (verse)	Alors Retsîn, roi d'Aram, et Péqah, fils de Remalia, roi d'Israël, allèrent faire la guerre à Jérusalem. Ils assiégèrent Achaz mais ils ne purent engager le combat.
+
+(x)	וַתִּבָּקַ֣ע הָעִ֗יר וְכָל־אַנְשֵׁ֣י הַמִּלְחָמָ֡ה _יִבְרְחוּ֩_ וַיֵּצְא֨וּ מֵהָעִ֜יר לַ֗יְלָה דֶּ֜רֶךְ שַׁ֤עַר בֵּין־הַחֹמֹתַ֨יִם֙ אֲשֶׁר֙ עַל־גַּ֣ן הַמֶּ֔לֶךְ וְכַשְׂדִּ֥ים עַל־הָעִ֖יר סָבִ֑יב וַיֵּלְכ֖וּ דֶּ֥רֶךְ הָעֲרָבָֽה׃ (Jer. 52:7)
+NIV	Then the city wall was broken through, and the whole army _fled_. They left the city at night through the gate between the two walls near the king’s garden, though the Babylonians were surrounding the city. They _fled_ towards the Arabah,
+ESV	Then a breach was made in the city, and all the men of war _fled_ and went out from the city by night by the way of a gate between the two walls, by the king’s garden, while the Chaldeans were around the city. And they went in the direction of the Arabah.
+NBS	prirent la fuite
+NBS (verse)	une brèche fut ouverte dans la ville~; tous les hommes de guerre prirent la fuite et sortirent de la ville, de nuit, par le chemin de la porte entre les deux murailles, près du Jardin du Roi, tandis que les Chaldéens encerclaient la ville. Ils prirent le chemin de la plaine aride.
+
+(x)	וַיַּרְעֵ֬ם בַּשָּׁמַ֨יִם׀ יְֽהוָ֗ה וְ֭עֶלְיֹון _יִתֵּ֣ן_ קֹלֹ֑ו בָּ֝רָ֗ד וְגַֽחֲלֵי־אֵֽשׁ׃ (Psa. 18:14)
+NIV	The LORD thundered from heaven. the voice of the Most High _resounded_.
+ESV	The Lord also thundered in the heavens, and the Most High _uttered_ his voice, hailstones and coals of fire.
+NBS	fit retentir
+NBS (verse)	Le Seigneur tonna dans le ciel, le Très-Haut fit retentir sa voix, avec la grêle et les braises.
+
+(x)	יִשְׁלַ֣ח מִ֭מָּרֹום _יִקָּחֵ֑נִי_ יַֽ֝מְשֵׁ֗נִי מִמַּ֥יִם רַבִּֽים׃ (Psa. 18:17)
+NIV	He reached down from on high and _took hold of_ me. he drew me out of deep waters.
+ESV	He sent from on high, _he took_ me. he drew me out of many waters.
+NBS	il me saisit
+NBS (verse)	D'en haut il tend la main, il me saisit, il me retire des grandes eaux~;
+
+(x)	הָ֤פַךְ יָ֨ם׀ לְֽיַבָּשָׁ֗ה בַּ֭נָּהָר _יַֽעַבְר֣וּ_ בְרָ֑גֶל שָׁ֝֗ם נִשְׂמְחָה־בֹּֽו׃ (Psa. 66:6)
+NIV	He turned the sea into dry land, _they passed_ through the waters on foot — come, let us rejoice in him.
+ESV	He turned the sea into dry land. _they passed_ through the river on foot. There did we rejoice in him,
+NBS	on traversa
+NBS (verse)	Il changea la mer en terre ferme, on traversa le fleuve à pied~: c'est là que nous nous sommes réjouis en lui.
+
+(x)	_יְבַקַּ֣ע_ צֻ֭רִים בַּמִּדְבָּ֑ר וַ֝יַּ֗שְׁקְ כִּתְהֹמֹ֥ות רַבָּֽה׃ (Psa. 78:15)
+NIV	_He split_ the rocks in the desert and gave them water as abundant as the seas.
+ESV	_He split_ rocks in the wilderness and gave them drink abundantly as from the deep.
+NBS	fendit Il
+NBS (verse)	Il fendit des rochers dans le désert et leur donna à boire de l'eau en abondance, comme celle des abîmes~;
+
+(x)	_יַסַּ֣ע_ קָ֭דִים בַּשָּׁמָ֑יִם וַיְנַהֵ֖ג בְּעֻזֹּ֣ו תֵימָֽן׃ (Psa. 78:26)
+NIV	_He let loose_ the east wind from the heavens and led forth the south wind by his power.
+ESV	He caused the east wind to blow in the heavens, and by his power he led out the south wind.
+NBS	il fit se lever
+NBS (verse)	Dans le ciel il fit se lever le vent d'est, par sa puissance il amena le vent du sud~:
+
+(x)	וְה֤וּא רַח֨וּם׀ יְכַפֵּ֥ר עָוֹן֮ וְֽלֹא־יַ֫שְׁחִ֥ית וְ֭הִרְבָּה לְהָשִׁ֣יב אַפֹּ֑ו וְלֹֽא־_יָ֝עִיר_ כָּל־חֲמָתֹֽו׃ (Psa. 78:38)
+NIV	Yet he was merciful. he forgave their iniquities and did not destroy them. Time after time he restrained his anger and did not stir up his full wrath.
+ESV	Yet he, being compassionate, atoned for their iniquity and did not destroy them. he restrained his anger often and did not stir up all his wrath.
+NBS	éveilla il
+NBS (verse)	Mais lui, qui est compatissant, faisait l'expiation de la faute et ne détruisait pas~; souvent il retint sa colère, il n'éveilla pas toute sa fureur.
+
+(x)	כַּ֭מָּה _יַמְר֣וּהוּ_ בַמִּדְבָּ֑ר יַ֝עֲצִיב֗וּהוּ בִּֽישִׁימֹֽון׃ (Psa. 78:40)
+NIV	How often _they rebelled against_ him in the desert and grieved him in the wasteland!
+ESV	How often _they rebelled against_ him in the wilderness and grieved him in the desert!
+NBS	rebellèrent
+NBS (verse)	Que de fois ils se rebellèrent contre lui dans le désert~! Que de fois ils l'attristèrent sur la terre aride~!
+
+(x)	_יְשַׁלַּ֬ח_ בָּהֶ֣ם עָ֭רֹב וַיֹּאכְלֵ֑ם וּ֝צְפַרְדֵּ֗עַ וַתַּשְׁחִיתֵֽם׃ (Psa. 78:45)
+NIV	_He sent_ swarms of flies that devoured them, and frogs that devastated them.
+ESV	_He sent_ among them swarms of flies, which devoured them, and frogs, which destroyed them.
+NBS	envoya Il
+NBS (verse)	Il envoya contre eux des mouches venimeuses qui les dévorèrent et des grenouilles qui les détruisirent.
+
+(x)	_יַהֲרֹ֣ג_ בַּבָּרָ֣ד גַּפְנָ֑ם וְ֝שִׁקְמֹותָ֗ם בַּֽחֲנָמַֽל׃ (Psa. 78:47)
+NIV	_He destroyed_ their vines with hail and their sycamore-figs with sleet.
+ESV	_He destroyed_ their vines with hail and their sycamores with frost.
+NBS	Il tua
+NBS (verse)	Il tua leurs vignes par la grêle et leurs sycomores par la gelée.
+
+(x)	_יְשַׁלַּח_־בָּ֨ם׀ חֲרֹ֬ון אַפֹּ֗ו עֶבְרָ֣ה וָזַ֣עַם וְצָרָ֑ה מִ֝שְׁלַ֗חַת מַלְאֲכֵ֥י רָעִֽים׃ (Psa. 78:49)
+NIV	_He unleashed_ against them his hot anger, his wrath, indignation and hostility — a band of destroying angels.
+ESV	_He let loose_ on them his burning anger, wrath, indignation, and distress, a company of destroying angels.
+NBS	lança Il
+NBS (verse)	Il lança contre eux sa colère ardente, fureur, rage et détresse, une mission de messagers de malheurs.
+
+(x)	וַ֭יִּרְעֵם כְּתֹ֣ם לְבָבֹ֑ו וּבִתְבוּנֹ֖ות כַּפָּ֣יו _יַנְחֵֽם_׃ (Psa. 78:72)
+NIV	And David shepherded them with integrity of heart. with skillful hands he _led_ them.
+ESV	With upright heart he shepherded them and _guided_ them with his skillful hand.
+NBS	il conduisit les
+NBS (verse)	Et David les fit paître avec un cœur intègre et il les conduisit avec des mains habiles.
+
+(x)	מֹ֘שֶׁ֤ה וְאַהֲרֹ֨ן׀ בְּֽכֹהֲנָ֗יו וּ֭שְׁמוּאֵל בְּקֹרְאֵ֣י שְׁמֹ֑ו קֹרִ֥אים אֶל־יְ֝הוָ֗ה וְה֣וּא _יַעֲנֵֽם_׃ (Psa. 99:6)
+NIV	Moses and Aaron were among his priests, Samuel was among those who called on his name. they called on the LORD and he _answered_ them.
+ESV	Moses and Aaron were among his priests, Samuel also was among those who called upon his name. They called to the Lord, and he _answered_ them.
+NBS	leur répondit
+NBS (verse)	Moïse et Aaron parmi ses prêtres, et Samuel parmi ceux qui invoquent son nom, invoquèrent le Seigneur, et il leur répondit.
+
+(x)	בְּעַמּ֣וּד עָ֭נָן _יְדַבֵּ֣ר_ אֲלֵיהֶ֑ם שָׁמְר֥וּ עֵ֝דֹתָ֗יו וְחֹ֣ק נָֽתַן־לָֽמֹו׃ (Psa. 99:7)
+NIV	_He spoke_ to them from the pillar of cloud. they kept his statutes and the decrees he gave them.
+ESV	In the pillar of the cloud _he spoke_ to them. they kept his testimonies and the statute that he gave them.
+NBS	parla Il
+NBS (verse)	Il leur parla dans la colonne de nuée~; ils ont gardé ses préceptes et le décret qu'il leur avait donné.
+
+(x)	וַיִּתֵּ֣ן לָ֭הֶם אַרְצֹ֣ות גֹּויִ֑ם וַעֲמַ֖ל לְאֻמִּ֣ים _יִירָֽשׁוּ_׃ (Psa. 105:44)
+NIV	he gave them the lands of the nations, and _they fell heir_ to what others had toiled for —
+ESV	And he gave them the lands of the nations, and _they took possession_ of the fruit of the peoples’ toil,
+NBS	possession prirent ils
+NBS (verse)	Il leur donna les pays des nations, et ils prirent possession du travail des peuples,
+
+(x)	וַיִּצְעֲק֣וּ אֶל־יְ֭הוָה בַּצַּ֣ר לָהֶ֑ם מִ֝מְּצֽוּקֹותֵיהֶ֗ם _יַצִּילֵֽם_׃ (Psa. 107:6)
+NIV	Then they cried out to the LORD in their trouble, and _he delivered_ them from their distress.
+ESV	Then they cried to the Lord in their trouble, and _he delivered_ them from their distress.
+NBS	il les délivra
+NBS (verse)	Dans la détresse, ils crièrent vers le Seigneur, et il les délivra de leur désarroi.
+
+(x)	וַיִּזְעֲק֣וּ אֶל־יְ֭הוָה בַּצַּ֣ר לָהֶ֑ם מִ֝מְּצֻֽקֹותֵיהֶ֗ם _יֹושִׁיעֵֽם_׃ (Psa. 107:13)
+NIV	Then they cried to the LORD in their trouble, and _he saved_ them from their distress.
+ESV	Then they cried to the Lord in their trouble, and _he delivered_ them from their distress.
+NBS	il les sauva
+NBS (verse)	Dans la détresse, ils crièrent vers le Seigneur, et il les sauva de leur désarroi.
+
+(x)	_יֹֽ֭וצִיאֵם_ מֵחֹ֣שֶׁךְ וְצַלְמָ֑וֶת וּמֹוסְרֹ֖ותֵיהֶ֣ם יְנַתֵּֽק׃ (Psa. 107:14)
+NIV	He brought them out of darkness and the deepest gloom and broke away their chains.
+ESV	He brought them out of darkness and the shadow of death, and burst their bonds apart.
+NBS	Il les fit sortir
+NBS (verse)	Il les fit sortir des ténèbres et de l'ombre de mort, et il rompit leurs liens.
+
+(x)	יֹֽ֭וצִיאֵם מֵחֹ֣שֶׁךְ וְצַלְמָ֑וֶת וּמֹוסְרֹ֖ותֵיהֶ֣ם _יְנַתֵּֽק_׃ (Psa. 107:14)
+NIV	He brought them out of darkness and the deepest gloom and _broke away_ their chains.
+ESV	He brought them out of darkness and the shadow of death, and burst their bonds apart.
+NBS	il rompit
+NBS (verse)	Il les fit sortir des ténèbres et de l'ombre de mort, et il rompit leurs liens.
+
+(x)	וַיִּזְעֲק֣וּ אֶל־יְ֭הוָה בַּצַּ֣ר לָהֶ֑ם מִ֝מְּצֻֽקֹותֵיהֶ֗ם _יֹושִׁיעֵֽם_׃ (Psa. 107:19)
+NIV	Then they cried to the LORD in their trouble, and _he saved_ them from their distress.
+ESV	Then they cried to the Lord in their trouble, and _he delivered_ them from their distress.
+NBS	il les sauva
+NBS (verse)	Dans la détresse, ils crièrent vers le Seigneur, et il les sauva de leur désarroi.
+
+(x)	_יִשְׁלַ֣ח_ דְּ֭בָרֹו וְיִרְפָּאֵ֑ם וִֽ֝ימַלֵּ֗ט מִשְּׁחִיתֹותָֽם׃ ׆ (Psa. 107:20)
+NIV	_He sent forth_ his word and healed them. he rescued them from the grave.
+ESV	_He sent out_ his word and healed them, and delivered them from their destruction.
+NBS	envoya Il
+NBS (verse)	Il envoya sa parole et les guérit, il les délivra de leurs infections.
+
+(x)	יִשְׁלַ֣ח דְּ֭בָרֹו וְיִרְפָּאֵ֑ם וִֽ֝_ימַלֵּ֗ט_ מִשְּׁחִיתֹותָֽם׃ ׆ (Psa. 107:20)
+NIV	He sent forth his word and healed them. _he rescued_ them from the grave.
+ESV	He sent out his word and healed them, and _delivered_ them from their destruction.
+NBS	il délivra
+NBS (verse)	Il envoya sa parole et les guérit, il les délivra de leurs infections.
+
+(x)	וַיִּצְעֲק֣וּ אֶל־יְ֭הוָה בַּצַּ֣ר לָהֶ֑ם וּֽ֝מִמְּצֽוּקֹתֵיהֶ֗ם _יֹוצִיאֵֽם_׃ (Psa. 107:28)
+NIV	Then they cried out to the LORD in their trouble, and he brought them out of their distress.
+ESV	Then they cried to the Lord in their trouble, and _he delivered_ them from their distress.
+NBS	il les fit sortir
+NBS (verse)	Dans la détresse, ils crièrent vers le Seigneur, et il les fit sortir de leur désarroi.
+
+(x)	_יָקֵ֣ם_ סְ֭עָרָה לִדְמָמָ֑ה וַ֝יֶּחֱשׁ֗וּ גַּלֵּיהֶֽם׃ (Psa. 107:29)
+NIV	_He stilled_ the storm to a whisper. the waves of the sea were hushed.
+ESV	He made the storm be still, and the waves of the sea were hushed.
+NBS	Il arrêta
+NBS (verse)	Il arrêta, calma la tempête, et les flots se turent.
+
+(x)	כִּֽי־תַחְבֹּ֣ל אַחֶ֣יךָ חִנָּ֑ם וּבִגְדֵ֖י עֲרוּמִּ֣ים _תַּפְשִֽׁיט_׃ (Job 22:6)
+NIV	You demanded security from your brothers for no reason. _you stripped_ men of their clothing, leaving them naked.
+ESV	For you have exacted pledges of your brothers for nothing and _stripped_ the naked of their clothing.
+NBS	tu arrachais
+NBS (verse)	Tu prenais sans raison des gages à tes frères, tu leur arrachais leurs vêtements et tu les laissais nus~;
+
+(x)	וּבִשְׁנֵים֩ עָשָׂ֨ר חֹ֜דֶשׁ הוּא־חֹ֣דֶשׁ אֲדָ֗ר בִּשְׁלֹושָׁ֨ה עָשָׂ֥ר יֹום֙ בֹּ֔ו אֲשֶׁ֨ר הִגִּ֧יעַ דְּבַר־הַמֶּ֛לֶךְ וְדָתֹ֖ו לְהֵעָשֹׂ֑ות בַּיֹּ֗ום אֲשֶׁ֨ר שִׂבְּר֜וּ אֹיְבֵ֤י הַיְּהוּדִים֙ לִשְׁלֹ֣וט בָּהֶ֔ם וְנַהֲפֹ֣וךְ ה֔וּא אֲשֶׁ֨ר _יִשְׁלְט֧וּ_ הַיְּהוּדִ֛ים הֵ֖מָּה בְּשֹׂנְאֵיהֶֽם׃ (Esth. 9:1)
+NIV	On the thirteenth day of the twelfth month, the month of Adar, the edict commanded by the king was to be carried out. On this day the enemies of the Jews had hoped to overpower them, but now the tables were turned and the Jews _got the upper hand_ over those who hated them.
+ESV	Now in the twelfth month, which is the month of Adar, on the thirteenth day of the same, when the king’s command and edict were about to be carried out, on the very day when the enemies of the Jews hoped to gain the mastery over them, the reverse occurred: the Jews _gained mastery_ over those who hated them.
+NBS	qui se rendirent maîtres
+NBS (verse)	Le treizième jour du douzième mois (le mois d'Adar), quand l'ordre et l'édit du roi devaient entrer en vigueur, le jour où les ennemis des Juifs espéraient se rendre maîtres d'eux, il y eut un retournement de situation~: ce sont les Juifs qui se rendirent maîtres de ceux qui les détestaient.
+
+(x)	וְאֵלַ֣י _יֵאָסְפ֗וּ_ כֹּ֤ל חָרֵד֙ בְּדִבְרֵ֣י אֱלֹהֵֽי־יִשְׂרָאֵ֔ל עַ֖ל מַ֣עַל הַגֹּולָ֑ה וַאֲנִי֙ יֹשֵׁ֣ב מְשֹׁומֵ֔ם עַ֖ד לְמִנְחַ֥ת הָעָֽרֶב׃ (Ezra 9:4)
+NIV	Then everyone who trembled at the words of the God of Israel _gathered_ round me because of this unfaithfulness of the exiles. And I sat there appalled until the evening sacrifice.
+ESV	Then all who trembled at the words of the God of Israel, because of the faithlessness of the returned exiles, _gathered_ around me while I sat appalled until the evening sacrifice.
+NBS	se rassemblèrent
+NBS (verse)	Auprès de moi se rassemblèrent tous ceux qui tremblaient aux paroles du Dieu d'Israël, à cause du sacrilège commis par les exilés~; quant à moi, je restai assis, atterré, jusqu'à l'heure de l'offrande du soir.
+
+(x)	וְאֵ֣ת׀ שַׁ֣עַר הָאַשְׁפֹּ֗ות הֶחֱזִיק֙ מַלְכִּיָּ֣ה בֶן־רֵכָ֔ב שַׂ֖ר פֶּ֣לֶךְ בֵּית־הַכָּ֑רֶם ה֣וּא _יִבְנֶ֔נּוּ_ וְיַעֲמִיד֙ דַּלְתֹתָ֔יו מַנְעֻלָ֖יו וּבְרִיחָֽיו׃ ס (Neh. 3:14)
+NIV	The Dung Gate was repaired by Malkijah son of Recab, ruler of the district of Beth Hakkerem. He _rebuilt_ it and put its doors and bolts and bars in place.
+ESV	Malchijah the son of Rechab, ruler of the district of Beth-haccherem, repaired the Dung Gate. He _rebuilt_ it and set its doors, its bolts, and its bars.
+NBS	Il la bâtit
+NBS (verse)	Malkiya, fils de Rékab, chef du district de Beth-Kérem, répara la porte du Fumier. Il la bâtit et en posa les battants, les verrous et les barres.
+
+(x)	וְאֵ֣ת׀ שַׁ֣עַר הָאַשְׁפֹּ֗ות הֶחֱזִיק֙ מַלְכִּיָּ֣ה בֶן־רֵכָ֔ב שַׂ֖ר פֶּ֣לֶךְ בֵּית־הַכָּ֑רֶם ה֣וּא יִבְנֶ֔נּוּ וְ_יַעֲמִיד֙_ דַּלְתֹתָ֔יו מַנְעֻלָ֖יו וּבְרִיחָֽיו׃ ס (Neh. 3:14)
+NIV	The Dung Gate was repaired by Malkijah son of Recab, ruler of the district of Beth Hakkerem. He rebuilt it and put its doors and bolts and bars in place.
+ESV	Malchijah the son of Rechab, ruler of the district of Beth-haccherem, repaired the Dung Gate. He rebuilt it and _set_ its doors, its bolts, and its bars.
+NBS	posa
+NBS (verse)	Malkiya, fils de Rékab, chef du district de Beth-Kérem, répara la porte du Fumier. Il la bâtit et en posa les battants, les verrous et les barres.
+
+(x)	וַיִּ֤בֶן הָעִיר֙ מִסָּבִ֔יב מִן־הַמִּלֹּ֖וא וְעַד־הַסָּבִ֑יב וְיֹואָ֕ב _יְחַיֶּ֖ה_ אֶת־שְׁאָ֥ר הָעִֽיר׃ (I Chr. 11:8)
+NIV	He built up the city around it, from the supporting terraces to the surrounding wall, while Joab _restored_ the rest of the city.
+ESV	And he built the city all around from the Millo in complete circuit, and Joab _repaired_ the rest of the city.
+NBS	redonna vie
+NBS (verse)	Il bâtit tout autour de la ville, depuis le Millo et tout autour~; Joab redonna vie au reste de la ville.
+
+(x)	וְאֶת־הָעָ֨ם אֲשֶׁר־בָּ֜הּ הֹוצִ֗יא וַיָּ֨שַׂר בַּמְּגֵרָ֜ה וּבַחֲרִיצֵ֤י הַבַּרְזֶל֙ וּבַמְּגֵרֹ֔ות וְכֵן֙ _יַעֲשֶׂ֣ה_ דָוִ֔יד לְכֹ֖ל עָרֵ֣י בְנֵי־עַמֹּ֑ון וַיָּ֧שָׁב דָּוִ֛יד וְכָל־הָעָ֖ם יְרוּשָׁלִָֽם׃ פ (I Chr. 20:3)
+NIV	and brought out the people who were there, consigning them to labour with saws and with iron picks and axes. David _did_ this to all the Ammonite towns. Then David and his entire army returned to Jerusalem.
+ESV	And he brought out the people who were in it and set them to labor with saws and iron picks and axes. And thus David _did_ to all the cities of the Ammonites. Then David and all the people returned to Jerusalem.
+NBS	traita
+NBS (verse)	Quant au peuple qui s'y trouvait, il le fit sortir~; il le condamna aux scies, aux herses de fer et aux haches~; il traita de même toutes les villes des Ammonites. Puis David revint à Jérusalem avec toutes les troupes.
+
+(x)	אָז֩ _יַקְהֵ֨יל_ שְׁלֹמֹ֜ה אֶת־זִקְנֵ֣י יִשְׂרָאֵ֗ל וְאֶת־כָּל־רָאשֵׁ֨י הַמַּטֹּ֜ות נְשִׂיאֵ֧י הָאָבֹ֛ות לִבְנֵ֥י יִשְׂרָאֵ֖ל אֶל־יְרוּשָׁלִָ֑ם לְֽהַעֲלֹ֞ות אֶת־אֲרֹ֧ון בְּרִית־יְהוָ֛ה מֵעִ֥יר דָּוִ֖יד הִ֥יא צִיֹּֽון׃ (II Chr. 5:2)
+NIV	Then Solomon _summoned_ to Jerusalem the elders of Israel, all the heads of the tribes and the chiefs of the Israelite families, to bring up the ark of the LORD’s covenant from Zion, the City of David.
+ESV	Then Solomon _assembled_ the elders of Israel and all the heads of the tribes, the leaders of the fathers’ houses of the people of Israel, in Jerusalem, to bring up the ark of the covenant of the Lord out of the city of David, which is Zion.
+NBS	rassembla
+NBS (verse)	Alors Salomon rassembla à Jérusalem les anciens d'Israël et tous les chefs des tribus, les princes des familles des Israélites, pour faire monter de la Ville de David, c'est-à-dire Sion, le coffre de l'alliance du Seigneur.
+
+(x)	וַיַּ֨עַשׂ הַמֶּ֧לֶךְ שְׁלֹמֹ֛ה מָאתַ֥יִם צִנָּ֖ה זָהָ֣ב שָׁח֑וּט שֵׁ֤שׁ מֵאֹות֙ זָהָ֣ב שָׁח֔וּט _יַעֲלֶ֖ה_ עַל־הַצִּנָּ֥ה הָאֶחָֽת׃ (II Chr. 9:15)
+NIV	King Solomon made two hundred large shields of hammered gold. six hundred bekas of hammered gold _went_ into each shield.
+ESV	King Solomon made 200 large shields of beaten gold. 600 shekels of beaten gold _went_ into each shield.
+NBS	il employa
+NBS (verse)	Le roi Salomon fit deux cents grands boucliers d'or battu, pour chacun desquels il employa six cents sicles d'or battu,
+
+(x)	וּשְׁלֹשׁ־מֵאֹ֤ות מָֽגִנִּים֙ זָהָ֣ב שָׁח֔וּט שְׁלֹ֤שׁ מֵאֹות֙ זָהָ֔ב _יַעֲלֶ֖ה_ עַל־הַמָּגֵ֣ן הָאֶחָ֑ת וַיִּתְּנֵ֣ם הַמֶּ֔לֶךְ בְּבֵ֖ית יַ֥עַר הַלְּבָנֹֽון׃ פ (II Chr. 9:16)
+NIV	He also made three hundred small shields of hammered gold, with three hundred bekas of gold in each shield. The king put them in the Palace of the Forest of Lebanon.
+ESV	And he made 300 shields of beaten gold. 300 shekels of gold _went_ into each shield. and the king put them in the House of the Forest of Lebanon.
+NBS	employa il
+NBS (verse)	et trois cents petits boucliers d'or battu, pour chacun desquels il employa trois cents sicles d'or~; le roi les mit dans la maison-de-la-forêt-du-Liban.

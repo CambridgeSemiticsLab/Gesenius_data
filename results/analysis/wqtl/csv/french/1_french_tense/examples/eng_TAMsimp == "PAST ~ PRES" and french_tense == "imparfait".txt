@@ -1,0 +1,224 @@
+eng_TAMsimp == "PAST ~ PRES" and french_tense == "imparfait"
+37 of 37
+
+(x)	וְ֠יָצָא אֶל־מִנֶּ֜גֶב לְמַעֲלֵ֤ה עַקְרַבִּים֙ וְ_עָ֣בַר_ צִ֔נָה וְעָלָ֥ה מִנֶּ֖גֶב לְקָדֵ֣שׁ בַּרְנֵ֑עַ וְעָבַ֤ר חֶצְרֹון֙ וְעָלָ֣ה אַדָּ֔רָה וְנָסַ֖ב הַקַּרְקָֽעָה׃ (Josh. 15:3)
+NIV	crossed south of Scorpion Pass, _continued on_ to Zin and went over to the south of Kadesh Barnea. Then it ran past Hezron up to Addar and curved around to Karka.
+ESV	It goes out southward of the ascent of Akrabbim, _passes along_ to Zin, and goes up south of Kadesh-barnea, along by Hezron, up to Addar, turns about to Karka,
+NBS	passait
+NBS (verse)	Elle aboutissait au sud de la montée d'Aqrabbim, passait par Tsîn et montait au sud de Qadesh-Barnéa~; de là elle passait par Hetsrôn, montait vers Addar et tournait à Qarqaa~;
+
+(x)	וְ֠יָצָא אֶל־מִנֶּ֜גֶב לְמַעֲלֵ֤ה עַקְרַבִּים֙ וְעָ֣בַר צִ֔נָה וְ_עָלָ֥ה_ מִנֶּ֖גֶב לְקָדֵ֣שׁ בַּרְנֵ֑עַ וְעָבַ֤ר חֶצְרֹון֙ וְעָלָ֣ה אַדָּ֔רָה וְנָסַ֖ב הַקַּרְקָֽעָה׃ (Josh. 15:3)
+NIV	crossed south of Scorpion Pass, continued on to Zin and _went over_ to the south of Kadesh Barnea. Then it ran past Hezron up to Addar and curved around to Karka.
+ESV	It goes out southward of the ascent of Akrabbim, passes along to Zin, and _goes up_ south of Kadesh-barnea, along by Hezron, up to Addar, turns about to Karka,
+NBS	montait
+NBS (verse)	Elle aboutissait au sud de la montée d'Aqrabbim, passait par Tsîn et montait au sud de Qadesh-Barnéa~; de là elle passait par Hetsrôn, montait vers Addar et tournait à Qarqaa~;
+
+(x)	וְ_עָבַ֣ר_ עַצְמֹ֗ונָה וְיָצָא֙ נַ֣חַל מִצְרַ֔יִם וְהָי֛וּ תֹצְאֹ֥ות הַגְּב֖וּל יָ֑מָּה זֶה־יִהְיֶ֥ה לָכֶ֖ם גְּב֥וּל נֶֽגֶב׃ (Josh. 15:4)
+NIV	It then passed along to Azmon and joined the Wadi of Egypt, ending at the sea. This is their southern boundary.
+ESV	_passes along_ to Azmon, goes out by the Brook of Egypt, and comes to its end at the sea. This shall be your south boundary.
+NBS	elle passait
+NBS (verse)	elle passait ensuite par Atsmôn et aboutissait à l'oued d'Egypte~; la frontière débouchait sur la mer~– telle sera votre frontière au sud.
+
+(x)	וְעָבַ֣ר עַצְמֹ֗ונָה וְ_יָצָא֙_ נַ֣חַל מִצְרַ֔יִם וְהָי֛וּ תֹצְאֹ֥ות הַגְּב֖וּל יָ֑מָּה זֶה־יִהְיֶ֥ה לָכֶ֖ם גְּב֥וּל נֶֽגֶב׃ (Josh. 15:4)
+NIV	It then passed along to Azmon and _joined_ the Wadi of Egypt, ending at the sea. This is their southern boundary.
+ESV	passes along to Azmon, _goes out_ by the Brook of Egypt, and comes to its end at the sea. This shall be your south boundary.
+NBS	aboutissait
+NBS (verse)	elle passait ensuite par Atsmôn et aboutissait à l'oued d'Egypte~; la frontière débouchait sur la mer~– telle sera votre frontière au sud.
+
+(x)	וְ_עָלָ֤ה_ הַגְּבוּל֙ בֵּ֣ית חָגְלָ֔ה וְעָבַ֕ר מִצְּפֹ֖ון לְבֵ֣ית הָעֲרָבָ֑ה וְעָלָ֣ה הַגְּב֔וּל אֶ֥בֶן בֹּ֖הַן בֶּן־רְאוּבֵֽן׃ (Josh. 15:6)
+NIV	_went up_ to Beth Hoglah and continued north of Beth Arabah to the Stone of Bohan son of Reuben.
+ESV	And the boundary _goes up_ to Beth-hoglah and passes along north of Beth-arabah. And the boundary _goes up_ to the stone of Bohan the son of Reuben.
+NBS	montait
+NBS (verse)	Puis la frontière montait vers Beth-Hogla et passait au nord de Beth-Araba~; puis la frontière s'élevait jusqu'à la pierre de Bohân, fils de Ruben~;
+
+(x)	וְ_עָלָ֨ה_ הַגְּב֥וּל׀ דְּבִרָה֮ מֵעֵ֣מֶק עָכֹור֒ וְצָפֹ֜ונָה פֹּנֶ֣ה אֶל־הַגִּלְגָּ֗ל אֲשֶׁר־נֹ֨כַח֙ לְמַעֲלֵ֣ה אֲדֻמִּ֔ים אֲשֶׁ֥ר מִנֶּ֖גֶב לַנָּ֑חַל וְעָבַ֤ר הַגְּבוּל֙ אֶל־מֵי־עֵ֣ין שֶׁ֔מֶשׁ וְהָי֥וּ תֹצְאֹתָ֖יו אֶל־עֵ֥ין רֹגֵֽל׃ (Josh. 15:7)
+NIV	The boundary then _went up_ to Debir from the Valley of Achor and turned north to Gilgal, which faces the Pass of Adummim south of the gorge. It continued along to the waters of En Shemesh and came out at En Rogel.
+ESV	And the boundary _goes up_ to Debir from the Valley of Achor, and so northward, turning toward Gilgal, which is opposite the ascent of Adummim, which is on the south side of the valley. And the boundary passes along to the waters of En-shemesh and ends at En-rogel.
+NBS	montait
+NBS (verse)	puis la frontière montait à Debir, par la vallée d'Akor, et se dirigeait vers le nord, du côté du Guilgal, qui est en face de la montée d'Adoummim, au sud de l'oued~; puis la frontière passait près des eaux d'Eïn-Shémesh et débouchait sur Eïn-Roguel.
+
+(x)	וְעָלָ֨ה הַגְּב֥וּל׀ דְּבִרָה֮ מֵעֵ֣מֶק עָכֹור֒ וְצָפֹ֜ונָה פֹּנֶ֣ה אֶל־הַגִּלְגָּ֗ל אֲשֶׁר־נֹ֨כַח֙ לְמַעֲלֵ֣ה אֲדֻמִּ֔ים אֲשֶׁ֥ר מִנֶּ֖גֶב לַנָּ֑חַל וְ_עָבַ֤ר_ הַגְּבוּל֙ אֶל־מֵי־עֵ֣ין שֶׁ֔מֶשׁ וְהָי֥וּ תֹצְאֹתָ֖יו אֶל־עֵ֥ין רֹגֵֽל׃ (Josh. 15:7)
+NIV	The boundary then went up to Debir from the Valley of Achor and turned north to Gilgal, which faces the Pass of Adummim south of the gorge. _It continued_ along to the waters of En Shemesh and came out at En Rogel.
+ESV	And the boundary goes up to Debir from the Valley of Achor, and so northward, turning toward Gilgal, which is opposite the ascent of Adummim, which is on the south side of the valley. And the boundary _passes along_ to the waters of En-shemesh and ends at En-rogel.
+NBS	passait
+NBS (verse)	puis la frontière montait à Debir, par la vallée d'Akor, et se dirigeait vers le nord, du côté du Guilgal, qui est en face de la montée d'Adoummim, au sud de l'oued~; puis la frontière passait près des eaux d'Eïn-Shémesh et débouchait sur Eïn-Roguel.
+
+(x)	וְ_עָלָ֨ה_ הַגְּב֜וּל גֵּ֣י בֶן־הִנֹּ֗ם אֶל־כֶּ֤תֶף הַיְבוּסִי֙ מִנֶּ֔גֶב הִ֖יא יְרֽוּשָׁלִָ֑ם וְ_עָלָ֨ה_ הַגְּב֜וּל אֶל־רֹ֣אשׁ הָהָ֗ר אֲ֠שֶׁר עַל־פְּנֵ֤י גֵֽי־הִנֹּם֙ יָ֔מָּה אֲשֶׁ֛ר בִּקְצֵ֥ה עֵֽמֶק־רְפָאִ֖ים צָפֹֽנָה׃ (Josh. 15:8)
+NIV	Then it ran up the Valley of Ben Hinnom along the southern slope of the Jebusite city ( that is, Jerusalem ). From there _it climbed_ to the top of the hill west of the Hinnom Valley at the northern end of the Valley of Rephaim.
+ESV	Then the boundary _goes up_ by the Valley of the Son of Hinnom at the southern shoulder of the Jebusite ( that is, Jerusalem ). And the boundary _goes up_ to the top of the mountain that lies over against the Valley of Hinnom, on the west, at the northern end of the Valley of Rephaim.
+NBS	élevait s
+NBS (verse)	La frontière montait de là par la vallée du Fils de Hinnom, sur le flanc sud de Jébus (c'est-à-dire Jérusalem)~; puis la frontière s'élevait jusqu'au sommet de la montagne qui est devant la vallée de Hinnom, à l'ouest, et à l'extrémité de la vallée des Rephaïtes, au nord.
+
+(x)	וְתָאַ֨ר הַגְּב֜וּל מֵרֹ֣אשׁ הָהָ֗ר אֶל־מַעְיַן֙ מֵ֣י נֶפְתֹּ֔וחַ וְיָצָ֖א אֶל־עָרֵ֣י הַר־עֶפְרֹ֑ון וְ_תָאַ֤ר_ הַגְּבוּל֙ בַּעֲלָ֔ה הִ֖יא קִרְיַ֥ת יְעָרִֽים׃ (Josh. 15:9)
+NIV	From the hilltop the boundary headed towards the spring of the waters of Nephtoah, came out at the towns of Mount Ephron and _went down_ towards Baalah ( that is, Kiriath Jearim ).
+ESV	Then the boundary extends from the top of the mountain to the spring of the waters of Nephtoah, and from there to the cities of Mount Ephron. Then the boundary _bends around_ to Baalah ( that is, Kiriath-jearim ).
+NBS	s incurvait
+NBS (verse)	Du sommet de la montagne la frontière s'incurvait vers la source des eaux de Nephtoah, continuait vers les villes du mont Ephrôn~; puis la frontière s'incurvait à Baala (c'est-à-dire Qiriath-Yéarim).
+
+(x)	וְנָסַב֩ הַגְּב֨וּל מִבַּעֲלָ֥ה יָ֨מָּה֙ אֶל־הַ֣ר שֵׂעִ֔יר וְ_עָבַ֕ר_ אֶל־כֶּ֧תֶף הַר־יְעָרִ֛ים מִצָּפֹ֖ונָה הִ֣יא כְסָלֹ֑ון וְיָרַ֥ד בֵּֽית־שֶׁ֖מֶשׁ וְעָבַ֥ר תִּמְנָֽה׃ (Josh. 15:10)
+NIV	Then it curved westward from Baalah to Mount Seir, _ran_ along the northern slope of Mount Jearim ( that is, Kesalon ), continued down to Beth Shemesh and crossed to Timnah.
+ESV	And the boundary circles west of Baalah to Mount Seir, _passes along_ to the northern shoulder of Mount Jearim ( that is, Chesalon ), and goes down to Beth-shemesh and _passes along_ by Timnah.
+NBS	passait
+NBS (verse)	De Baala la frontière tournait à l'ouest vers le mont de Séir, passait sur le flanc du mont des Forêts au nord (c'est-à-dire Kesalôn), descendait à Beth-Shémesh et passait par Timna.
+
+(x)	וְנָסַב֩ הַגְּב֨וּל מִבַּעֲלָ֥ה יָ֨מָּה֙ אֶל־הַ֣ר שֵׂעִ֔יר וְעָבַ֕ר אֶל־כֶּ֧תֶף הַר־יְעָרִ֛ים מִצָּפֹ֖ונָה הִ֣יא כְסָלֹ֑ון וְ_יָרַ֥ד_ בֵּֽית־שֶׁ֖מֶשׁ וְעָבַ֥ר תִּמְנָֽה׃ (Josh. 15:10)
+NIV	Then it curved westward from Baalah to Mount Seir, ran along the northern slope of Mount Jearim ( that is, Kesalon ), _continued down_ to Beth Shemesh and crossed to Timnah.
+ESV	And the boundary circles west of Baalah to Mount Seir, passes along to the northern shoulder of Mount Jearim ( that is, Chesalon ), and _goes down_ to Beth-shemesh and passes along by Timnah.
+NBS	descendait
+NBS (verse)	De Baala la frontière tournait à l'ouest vers le mont de Séir, passait sur le flanc du mont des Forêts au nord (c'est-à-dire Kesalôn), descendait à Beth-Shémesh et passait par Timna.
+
+(x)	וְנָסַב֩ הַגְּב֨וּל מִבַּעֲלָ֥ה יָ֨מָּה֙ אֶל־הַ֣ר שֵׂעִ֔יר וְעָבַ֕ר אֶל־כֶּ֧תֶף הַר־יְעָרִ֛ים מִצָּפֹ֖ונָה הִ֣יא כְסָלֹ֑ון וְיָרַ֥ד בֵּֽית־שֶׁ֖מֶשׁ וְ_עָבַ֥ר_ תִּמְנָֽה׃ (Josh. 15:10)
+NIV	Then it curved westward from Baalah to Mount Seir, ran along the northern slope of Mount Jearim ( that is, Kesalon ), continued down to Beth Shemesh and _crossed_ to Timnah.
+ESV	And the boundary circles west of Baalah to Mount Seir, _passes along_ to the northern shoulder of Mount Jearim ( that is, Chesalon ), and goes down to Beth-shemesh and _passes along_ by Timnah.
+NBS	passait
+NBS (verse)	De Baala la frontière tournait à l'ouest vers le mont de Séir, passait sur le flanc du mont des Forêts au nord (c'est-à-dire Kesalôn), descendait à Beth-Shémesh et passait par Timna.
+
+(x)	וְ_יָצָ֨א_ הַגְּב֜וּל אֶל־כֶּ֣תֶף עֶקְרֹון֮ צָפֹונָה֒ וְתָאַ֤ר הַגְּבוּל֙ שִׁכְּרֹ֔ונָה וְעָבַ֥ר הַר־הַֽבַּעֲלָ֖ה וְיָצָ֣א יַבְנְאֵ֑ל וְהָי֛וּ תֹּצְאֹ֥ות הַגְּב֖וּל יָֽמָּה׃ (Josh. 15:11)
+NIV	_It went_ to the northern slope of Ekron, turned towards Shikkeron, passed along to Mount Baalah and reached Jabneel. The boundary ended at the sea.
+ESV	The boundary _goes out_ to the shoulder of the hill north of Ekron, then the boundary bends around to Shikkeron and passes along to Mount Baalah and _goes out_ to Jabneel. Then the boundary comes to an end at the sea.
+NBS	aboutissait
+NBS (verse)	La frontière aboutissait sur le flanc d'Eqrôn, au nord~; puis la frontière s'incurvait vers Shikkerôn, passait par le mont de la Baala et aboutissait à Yabnéel~; puis la frontière débouchait sur la mer.
+
+(x)	וְיָצָ֨א הַגְּב֜וּל אֶל־כֶּ֣תֶף עֶקְרֹון֮ צָפֹונָה֒ וְ_תָאַ֤ר_ הַגְּבוּל֙ שִׁכְּרֹ֔ונָה וְעָבַ֥ר הַר־הַֽבַּעֲלָ֖ה וְיָצָ֣א יַבְנְאֵ֑ל וְהָי֛וּ תֹּצְאֹ֥ות הַגְּב֖וּל יָֽמָּה׃ (Josh. 15:11)
+NIV	It went to the northern slope of Ekron, _turned_ towards Shikkeron, passed along to Mount Baalah and reached Jabneel. The boundary ended at the sea.
+ESV	The boundary goes out to the shoulder of the hill north of Ekron, then the boundary _bends around_ to Shikkeron and passes along to Mount Baalah and goes out to Jabneel. Then the boundary comes to an end at the sea.
+NBS	s incurvait
+NBS (verse)	La frontière aboutissait sur le flanc d'Eqrôn, au nord~; puis la frontière s'incurvait vers Shikkerôn, passait par le mont de la Baala et aboutissait à Yabnéel~; puis la frontière débouchait sur la mer.
+
+(x)	וְיָצָ֨א הַגְּב֜וּל אֶל־כֶּ֣תֶף עֶקְרֹון֮ צָפֹונָה֒ וְתָאַ֤ר הַגְּבוּל֙ שִׁכְּרֹ֔ונָה וְ_עָבַ֥ר_ הַר־הַֽבַּעֲלָ֖ה וְיָצָ֣א יַבְנְאֵ֑ל וְהָי֛וּ תֹּצְאֹ֥ות הַגְּב֖וּל יָֽמָּה׃ (Josh. 15:11)
+NIV	It went to the northern slope of Ekron, turned towards Shikkeron, _passed along_ to Mount Baalah and reached Jabneel. The boundary ended at the sea.
+ESV	The boundary goes out to the shoulder of the hill north of Ekron, then the boundary bends around to Shikkeron and _passes along_ to Mount Baalah and goes out to Jabneel. Then the boundary comes to an end at the sea.
+NBS	passait
+NBS (verse)	La frontière aboutissait sur le flanc d'Eqrôn, au nord~; puis la frontière s'incurvait vers Shikkerôn, passait par le mont de la Baala et aboutissait à Yabnéel~; puis la frontière débouchait sur la mer.
+
+(x)	וְיָצָ֨א הַגְּב֜וּל אֶל־כֶּ֣תֶף עֶקְרֹון֮ צָפֹונָה֒ וְתָאַ֤ר הַגְּבוּל֙ שִׁכְּרֹ֔ונָה וְעָבַ֥ר הַר־הַֽבַּעֲלָ֖ה וְ_יָצָ֣א_ יַבְנְאֵ֑ל וְהָי֛וּ תֹּצְאֹ֥ות הַגְּב֖וּל יָֽמָּה׃ (Josh. 15:11)
+NIV	It went to the northern slope of Ekron, turned towards Shikkeron, passed along to Mount Baalah and _reached_ Jabneel. The boundary ended at the sea.
+ESV	The boundary _goes out_ to the shoulder of the hill north of Ekron, then the boundary bends around to Shikkeron and passes along to Mount Baalah and _goes out_ to Jabneel. Then the boundary comes to an end at the sea.
+NBS	aboutissait
+NBS (verse)	La frontière aboutissait sur le flanc d'Eqrôn, au nord~; puis la frontière s'incurvait vers Shikkerôn, passait par le mont de la Baala et aboutissait à Yabnéel~; puis la frontière débouchait sur la mer.
+
+(x)	וַיְהִ֨י לָהֶ֧ם הַגְּב֛וּל לִפְאַ֥ת צָפֹ֖ונָה מִן־הַיַּרְדֵּ֑ן וְ_עָלָ֣ה_ הַגְּבוּל֩ אֶל־כֶּ֨תֶף יְרִיחֹ֜ו מִצָּפֹ֗ון וְעָלָ֤ה בָהָר֙ יָ֔מָּה וְהָיוּ֙ תֹּֽצְאֹתָ֔יו מִדְבַּ֖רָה בֵּ֥ית אָֽוֶן׃ (Josh. 18:12)
+NIV	On the north side their boundary began at the Jordan, _passed_ the northern slope of Jericho and headed west into the hill country, coming out at the desert of Beth Aven.
+ESV	On the north side their boundary began at the Jordan. Then the boundary _goes up_ to the shoulder north of Jericho, then up through the hill country westward, and it ends at the wilderness of Beth-aven.
+NBS	montait
+NBS (verse)	Du côté du nord, leur frontière partait du Jourdain. La frontière montait sur le flanc de Jéricho au nord, s'élevait dans la montagne vers l'ouest pour déboucher sur le désert de Beth-Aven.
+
+(x)	וְ_עָבַר֩_ מִשָּׁ֨ם הַגְּב֜וּל ל֗וּזָה אֶל־כֶּ֤תֶף ל֨וּזָה֙ נֶ֔גְבָּה הִ֖יא בֵּֽית־אֵ֑ל וְיָרַ֤ד הַגְּבוּל֙ עַטְרֹ֣ות אַדָּ֔ר עַל־הָהָ֕ר אֲשֶׁ֛ר מִנֶּ֥גֶב לְבֵית־חֹרֹ֖ון תַּחְתֹּֽון׃ (Josh. 18:13)
+NIV	From there _it crossed_ to the south slope of Luz ( that is, Bethel ) and went down to Ataroth Addar on the hill south of Lower Beth Horon.
+ESV	From there the boundary _passes along_ southward in the direction of Luz, to the shoulder of Luz ( that is, Bethel ), then the boundary goes down to Ataroth-addar, on the mountain that lies south of Lower Beth-horon.
+NBS	passait
+NBS (verse)	La frontière passait de là à Louz, sur le flanc sud de Louz (c'est-à-dire Beth-El)~; puis la frontière descendait à Atroth-Addar, sur la montagne qui est au sud de Beth-Horôn-le-Bas.
+
+(x)	וְעָבַר֩ מִשָּׁ֨ם הַגְּב֜וּל ל֗וּזָה אֶל־כֶּ֤תֶף ל֨וּזָה֙ נֶ֔גְבָּה הִ֖יא בֵּֽית־אֵ֑ל וְ_יָרַ֤ד_ הַגְּבוּל֙ עַטְרֹ֣ות אַדָּ֔ר עַל־הָהָ֕ר אֲשֶׁ֛ר מִנֶּ֥גֶב לְבֵית־חֹרֹ֖ון תַּחְתֹּֽון׃ (Josh. 18:13)
+NIV	From there it crossed to the south slope of Luz ( that is, Bethel ) and _went down_ to Ataroth Addar on the hill south of Lower Beth Horon.
+ESV	From there the boundary passes along southward in the direction of Luz, to the shoulder of Luz ( that is, Bethel ), then the boundary _goes down_ to Ataroth-addar, on the mountain that lies south of Lower Beth-horon.
+NBS	descendait
+NBS (verse)	La frontière passait de là à Louz, sur le flanc sud de Louz (c'est-à-dire Beth-El)~; puis la frontière descendait à Atroth-Addar, sur la montagne qui est au sud de Beth-Horôn-le-Bas.
+
+(x)	וּפְאַת־נֶ֕גְבָּה מִקְצֵ֖ה קִרְיַ֣ת יְעָרִ֑ים וְ_יָצָ֤א_ הַגְּבוּל֙ יָ֔מָּה וְיָצָ֕א אֶל־מַעְיַ֖ן מֵ֥י נֶפְתֹּֽוחַ׃ (Josh. 18:15)
+NIV	The southern side _began_ at the outskirts of Kiriath Jearim on the west, and the boundary came out at the spring of the waters of Nephtoah.
+ESV	And the southern side begins at the outskirts of Kiriath-jearim. And the boundary _goes_ from there to Ephron, to the spring of the waters of Nephtoah.
+NBS	aboutissait
+NBS (verse)	Le côté sud commençait à la limite de Qiriath-Yéarim. La frontière aboutissait à l'ouest, elle aboutissait à la source des eaux de Nephtoah.
+
+(x)	וְ_יָרַ֨ד_ הַגְּב֜וּל אֶל־קְצֵ֣ה הָהָ֗ר אֲשֶׁר֙ עַל־פְּנֵי֙ גֵּ֣י בֶן־הִנֹּ֔ם אֲשֶׁ֛ר בְּעֵ֥מֶק רְפָאִ֖ים צָפֹ֑ונָה וְיָרַד֩ גֵּ֨י הִנֹּ֜ם אֶל־כֶּ֤תֶף הַיְבוּסִי֙ נֶ֔גְבָּה וְיָרַ֖ד עֵ֥ין רֹגֵֽל׃ (Josh. 18:16)
+NIV	The boundary _went down_ to the foot of the hill facing the Valley of Ben Hinnom, north of the Valley of Rephaim. It continued down the Hinnom Valley along the southern slope of the Jebusite city and so to En Rogel.
+ESV	Then the boundary _goes down_ to the border of the mountain that overlooks the Valley of the Son of Hinnom, which is at the north end of the Valley of Rephaim. And it then _goes down_ the Valley of Hinnom, south of the shoulder of the Jebusites, and downward to En-rogel.
+NBS	descendait
+NBS (verse)	La frontière descendait à l'extrémité de la montagne qui est en face de la vallée du Fils de Hinnom, dans la vallée des Rephaïtes, au nord. Elle descendait par la vallée de Hinnom, sur le flanc des Jébusites, au sud, et descendait jusqu'à Eïn-Roguel.
+
+(x)	וְיָרַ֨ד הַגְּב֜וּל אֶל־קְצֵ֣ה הָהָ֗ר אֲשֶׁר֙ עַל־פְּנֵי֙ גֵּ֣י בֶן־הִנֹּ֔ם אֲשֶׁ֛ר בְּעֵ֥מֶק רְפָאִ֖ים צָפֹ֑ונָה וְ_יָרַד֩_ גֵּ֨י הִנֹּ֜ם אֶל־כֶּ֤תֶף הַיְבוּסִי֙ נֶ֔גְבָּה וְיָרַ֖ד עֵ֥ין רֹגֵֽל׃ (Josh. 18:16)
+NIV	The boundary went down to the foot of the hill facing the Valley of Ben Hinnom, north of the Valley of Rephaim. _It continued down_ the Hinnom Valley along the southern slope of the Jebusite city and so to En Rogel.
+ESV	Then the boundary goes down to the border of the mountain that overlooks the Valley of the Son of Hinnom, which is at the north end of the Valley of Rephaim. And it then goes down the Valley of Hinnom, south of the shoulder of the Jebusites, and downward to En-rogel.
+NBS	descendait Elle
+NBS (verse)	La frontière descendait à l'extrémité de la montagne qui est en face de la vallée du Fils de Hinnom, dans la vallée des Rephaïtes, au nord. Elle descendait par la vallée de Hinnom, sur le flanc des Jébusites, au sud, et descendait jusqu'à Eïn-Roguel.
+
+(x)	וְ_תָאַ֣ר_ מִצָּפֹ֗ון וְיָצָא֙ עֵ֣ין שֶׁ֔מֶשׁ וְיָצָא֙ אֶל־גְּלִילֹ֔ות אֲשֶׁר־נֹ֖כַח מַעֲלֵ֣ה אֲדֻמִּ֑ים וְיָרַ֕ד אֶ֥בֶן בֹּ֖הַן בֶּן־רְאוּבֵֽן׃ (Josh. 18:17)
+NIV	It then curved north, went to En Shemesh, continued to Geliloth, which faces the Pass of Adummim, and ran down to the Stone of Bohan son of Reuben.
+ESV	Then _it bends_ in a northerly direction going on to En-shemesh, and from there goes to Geliloth, which is opposite the ascent of Adummim. Then it goes down to the stone of Bohan the son of Reuben,
+NBS	Elle s incurvait
+NBS (verse)	Elle s'incurvait au nord et aboutissait à Eïn-Shémesh, puis à Gueliloth, qui est en face de la montée d'Adoummim, et elle descendait à la pierre de Bohân, fils de Ruben.
+
+(x)	וְתָאַ֣ר מִצָּפֹ֗ון וְיָצָא֙ עֵ֣ין שֶׁ֔מֶשׁ וְיָצָא֙ אֶל־גְּלִילֹ֔ות אֲשֶׁר־נֹ֖כַח מַעֲלֵ֣ה אֲדֻמִּ֑ים וְ_יָרַ֕ד_ אֶ֥בֶן בֹּ֖הַן בֶּן־רְאוּבֵֽן׃ (Josh. 18:17)
+NIV	It then curved north, went to En Shemesh, continued to Geliloth, which faces the Pass of Adummim, and _ran down_ to the Stone of Bohan son of Reuben.
+ESV	Then it bends in a northerly direction going on to En-shemesh, and from there goes to Geliloth, which is opposite the ascent of Adummim. Then _it goes down_ to the stone of Bohan the son of Reuben,
+NBS	descendait
+NBS (verse)	Elle s'incurvait au nord et aboutissait à Eïn-Shémesh, puis à Gueliloth, qui est en face de la montée d'Adoummim, et elle descendait à la pierre de Bohân, fils de Ruben.
+
+(x)	וְ_עָבַ֨ר_ הַגְּב֜וּל אֶל־כֶּ֣תֶף בֵּית־חָגְלָה֮ צָפֹונָה֒ וְהָי֣וּ ׀ תֹּצְאֹ֣ות הַגְּב֗וּל אֶל־לְשֹׁ֤ון יָם־הַמֶּ֨לַח֙ צָפֹ֔ונָה אֶל־קְצֵ֥ה הַיַּרְדֵּ֖ן נֶ֑גְבָּה זֶ֖ה גְּב֥וּל נֶֽגֶב׃ (Josh. 18:19)
+NIV	It then went to the northern slope of Beth Hoglah and came out at the northern bay of the Salt Sea, at the mouth of the Jordan in the south. This was the southern boundary.
+ESV	Then the boundary _passes on_ to the north of the shoulder of Beth-hoglah. And the boundary ends at the northern bay of the Salt Sea, at the south end of the Jordan: this is the southern border.
+NBS	passait
+NBS (verse)	la frontière passait sur le flanc nord de Beth-Hogla~; puis la frontière aboutissait à la langue de la mer du Sel, au nord, vers l'embouchure du Jourdain, au sud. C'était la frontière sud.
+
+(x)	וְעָלָ֨ה גְבוּלָ֧ם׀ לַיָּ֛מָּה וּמַרְעֲלָ֖ה וּ_פָגַ֣ע_ בְּדַבָּ֑שֶׁת וּפָגַע֙ אֶל־הַנַּ֔חַל אֲשֶׁ֖ר עַל־פְּנֵ֥י יָקְנְעָֽם׃ (Josh. 19:11)
+NIV	Going west it ran to Maralah, _touched_ Dabbesheth, and extended to the ravine near Jokneam.
+ESV	Then their boundary goes up westward and on to Mareal and _touches_ Dabbesheth, then the brook that is east of Jokneam.
+NBS	touchait
+NBS (verse)	La frontière montait vers l'ouest et vers Maréala, touchait Dabbasheth, puis l'oued qui passe devant Yoqnéam.
+
+(x)	וְ_שָׁ֣ב_ מִשָּׂרִ֗יד קֵ֚דְמָה מִזְרַ֣ח הַשֶּׁ֔מֶשׁ עַל־גְּב֥וּל כִּסְלֹ֖ת תָּבֹ֑ר וְיָצָ֥א אֶל־הַדָּֽבְרַ֖ת וְעָלָ֥ה יָפִֽיעַ׃ (Josh. 19:12)
+NIV	_It turned_ east from Sarid towards the sunrise to the territory of Kisloth Tabor and went on to Daberath and up to Japhia.
+ESV	From Sarid _it goes_ in the other direction eastward toward the sunrise to the boundary of Chisloth-tabor. From there _it goes_ to Daberath, then up to Japhia.
+NBS	elle tournait
+NBS (verse)	De Sarid, elle tournait vers l'est, vers le soleil levant, à la frontière de Kisloth-Tabor, aboutissait à Dabrath et montait à Yaphia.
+
+(x)	וְשָׁ֣ב מִשָּׂרִ֗יד קֵ֚דְמָה מִזְרַ֣ח הַשֶּׁ֔מֶשׁ עַל־גְּב֥וּל כִּסְלֹ֖ת תָּבֹ֑ר וְ_יָצָ֥א_ אֶל־הַדָּֽבְרַ֖ת וְעָלָ֥ה יָפִֽיעַ׃ (Josh. 19:12)
+NIV	It turned east from Sarid towards the sunrise to the territory of Kisloth Tabor and _went on_ to Daberath and up to Japhia.
+ESV	From Sarid _it goes_ in the other direction eastward toward the sunrise to the boundary of Chisloth-tabor. From there _it goes_ to Daberath, then up to Japhia.
+NBS	aboutissait
+NBS (verse)	De Sarid, elle tournait vers l'est, vers le soleil levant, à la frontière de Kisloth-Tabor, aboutissait à Dabrath et montait à Yaphia.
+
+(x)	וְ_נָסַ֤ב_ אֹתֹו֙ הַגְּב֔וּל מִצְּפֹ֖ון חַנָּתֹ֑ן וְהָיוּ֙ תֹּֽצְאֹתָ֔יו גֵּ֖י יִפְתַּח־אֵֽל׃ (Josh. 19:14)
+NIV	There the boundary _went round_ on the north to Hannathon and ended at the Valley of Iphtah El.
+ESV	then on the north the boundary _turns about_ to Hannathon, and it ends at the Valley of Iphtahel.
+NBS	tournait
+NBS (verse)	La frontière tournait ensuite au nord de Hannatôn et débouchait sur la vallée de Yiphtah-El.
+
+(x)	וּ_פָגַע֩_ הַגְּב֨וּל בְּתָבֹ֤ור וְשַׁחֲצִ֨ימָה֙ וּבֵ֣ית שֶׁ֔מֶשׁ וְהָי֛וּ תֹּצְאֹ֥ות גְּבוּלָ֖ם הַיַּרְדֵּ֑ן עָרִ֥ים שֵׁשׁ־עֶשְׂרֵ֖ה וְחַצְרֵיהֶֽן׃ (Josh. 19:22)
+NIV	The boundary _touched_ Tabor, Shahazumah and Beth Shemesh, and ended at the Jordan. There were sixteen towns and their villages.
+ESV	The boundary also _touches_ Tabor, Shahazumah, and Beth-shemesh, and its boundary ends at the Jordan — sixteen cities with their villages.
+NBS	touchait
+NBS (verse)	la frontière touchait Tabor, Shahatsima, Beth-Shémesh~; puis leur frontière débouchait sur le Jourdain~: seize villes, et les villages qui en dépendent.
+
+(x)	וְאַֽלַמֶּ֥לֶךְ וְעַמְעָ֖ד וּמִשְׁאָ֑ל וּ_פָגַ֤ע_ בְּכַרְמֶל֙ הַיָּ֔מָּה וּבְשִׁיחֹ֖ור לִבְנָֽת׃ (Josh. 19:26)
+NIV	Allammelech, Amad and Mishal. On the west the boundary _touched_ Carmel and Shihor Libnath.
+ESV	Allammelech, Amad, and Mishal. On the west _it touches_ Carmel and Shihor-libnath,
+NBS	elle touchait
+NBS (verse)	Alammélek, Améad et Mishéal~; elle touchait, vers l'ouest, le Carmel et Shihor-Libnath~;
+
+(x)	וְ_שָׁ֨ב_ מִזְרַ֣ח הַשֶּׁמֶשׁ֮ בֵּ֣ית דָּגֹן֒ וּפָגַ֣ע בִּ֠זְבֻלוּן וּבְגֵ֨י יִפְתַּח־אֵ֥ל צָפֹ֛ונָה בֵּ֥ית הָעֵ֖מֶק וּנְעִיאֵ֑ל וְיָצָ֥א אֶל־כָּב֖וּל מִשְּׂמֹֽאל׃ (Josh. 19:27)
+NIV	It then turned east towards Beth Dagon, touched Zebulun and the Valley of Iphtah El, and went north to Beth Emek and Neiel, passing Cabul on the left.
+ESV	then _it turns_ eastward, it goes to Beth-dagon, and touches Zebulun and the Valley of Iphtahel northward to Beth-emek and Neiel. Then it continues in the north to Cabul,
+NBS	elle tournait
+NBS (verse)	puis elle tournait vers le soleil levant, vers Beth-Dagôn, touchait Zabulon et la vallée de Yiphtah-El, au nord de Beth-Emeq et de Néiel, et aboutissait à Kaboul, à gauche,
+
+(x)	וְשָׁ֨ב מִזְרַ֣ח הַשֶּׁמֶשׁ֮ בֵּ֣ית דָּגֹן֒ וּ_פָגַ֣ע_ בִּ֠זְבֻלוּן וּבְגֵ֨י יִפְתַּח־אֵ֥ל צָפֹ֛ונָה בֵּ֥ית הָעֵ֖מֶק וּנְעִיאֵ֑ל וְיָצָ֥א אֶל־כָּב֖וּל מִשְּׂמֹֽאל׃ (Josh. 19:27)
+NIV	It then turned east towards Beth Dagon, _touched_ Zebulun and the Valley of Iphtah El, and went north to Beth Emek and Neiel, passing Cabul on the left.
+ESV	then it turns eastward, it goes to Beth-dagon, and _touches_ Zebulun and the Valley of Iphtahel northward to Beth-emek and Neiel. Then it continues in the north to Cabul,
+NBS	touchait
+NBS (verse)	puis elle tournait vers le soleil levant, vers Beth-Dagôn, touchait Zabulon et la vallée de Yiphtah-El, au nord de Beth-Emeq et de Néiel, et aboutissait à Kaboul, à gauche,
+
+(x)	וְ_שָׁ֤ב_ הַגְּבוּל֙ הָֽרָמָ֔ה וְעַד־עִ֖יר מִבְצַר־צֹ֑ר וְ_שָׁ֤ב_ הַגְּבוּל֙ חֹסָ֔ה וְהָי֧וּ תֹצְאֹתָ֛יו הַיָּ֖מָּה מֵחֶ֥בֶל אַכְזִֽיבָה׃ (Josh. 19:29)
+NIV	The boundary then _turned_ back towards Ramah and went to the fortified city of Tyre, _turned_ towards Hosah and came out at the sea in the region of Aczib,
+ESV	Then the boundary _turns_ to Ramah, reaching to the fortified city of Tyre. Then the boundary _turns_ to Hosah, and it ends at the sea. Mahalab, Achzib,
+NBS	tournait
+NBS (verse)	La frontière tournait ensuite vers Rama jusqu'à la ville forte de Tyr~; puis la frontière tournait vers Hosa, pour déboucher sur la mer, par la contrée d'Akzib.
+
+(x)	וְ_שָׁ֨ב_ הַגְּב֥וּל יָ֨מָּה֙ אַזְנֹ֣ות תָּבֹ֔ור וְיָצָ֥א מִשָּׁ֖ם חוּקֹ֑קָה וּפָגַ֨ע בִּזְבֻל֜וּן מִנֶּ֗גֶב וּבְאָשֵׁר֙ פָּגַ֣ע מִיָּ֔ם וּבִ֣יהוּדָ֔ה הַיַּרְדֵּ֖ן מִזְרַ֥ח הַשָּֽׁמֶשׁ׃ (Josh. 19:34)
+NIV	The boundary _ran_ west through Aznoth Tabor and came out at Hukkok. It touched Zebulun on the south, Asher on the west and the Jordan on the east.
+ESV	Then the boundary _turns_ westward to Aznoth-tabor and goes from there to Hukkok, touching Zebulun at the south and Asher on the west and Judah on the east at the Jordan.
+NBS	tournait
+NBS (verse)	La frontière tournait vers l'ouest à Aznoth-Tabor et de là aboutissait à Houqoq~; elle touchait Zabulon du côté du sud, Aser du côté de l'ouest et Juda~; le Jourdain était vers le soleil levant.
+
+(x)	וְשָׁ֨ב הַגְּב֥וּל יָ֨מָּה֙ אַזְנֹ֣ות תָּבֹ֔ור וְ_יָצָ֥א_ מִשָּׁ֖ם חוּקֹ֑קָה וּפָגַ֨ע בִּזְבֻל֜וּן מִנֶּ֗גֶב וּבְאָשֵׁר֙ פָּגַ֣ע מִיָּ֔ם וּבִ֣יהוּדָ֔ה הַיַּרְדֵּ֖ן מִזְרַ֥ח הַשָּֽׁמֶשׁ׃ (Josh. 19:34)
+NIV	The boundary ran west through Aznoth Tabor and _came out_ at Hukkok. It touched Zebulun on the south, Asher on the west and the Jordan on the east.
+ESV	Then the boundary turns westward to Aznoth-tabor and _goes_ from there to Hukkok, touching Zebulun at the south and Asher on the west and Judah on the east at the Jordan.
+NBS	aboutissait
+NBS (verse)	La frontière tournait vers l'ouest à Aznoth-Tabor et de là aboutissait à Houqoq~; elle touchait Zabulon du côté du sud, Aser du côté de l'ouest et Juda~; le Jourdain était vers le soleil levant.
+
+(x)	הֲתִֽמְלֹ֔ךְ כִּ֥י אַתָּ֖ה מְתַחֲרֶ֣ה בָאָ֑רֶז אָבִ֜יךָ הֲלֹ֧וא אָכַ֣ל וְ_שָׁתָ֗ה_ וְעָשָׂ֤ה מִשְׁפָּט֙ וּצְדָקָ֔ה אָ֖ז טֹ֥וב לֹֽו׃ (Jer. 22:15)
+NIV	‘Does it make you a king to have more and more cedar? Did not your father have food and _drink_? He did what was right and just, so all went well with him.
+ESV	Do you think you are a king because you compete in cedar? Did not your father eat and _drink_ and do justice and righteousness? Then it was well with him.
+NBS	buvait il
+NBS (verse)	Es-tu roi parce que tu as la passion du cèdre~? Ton père ne mangeait-il pas, ne buvait-il pas~? Mais il agissait selon l'équité et la justice, – alors tout allait bien pour lui~–

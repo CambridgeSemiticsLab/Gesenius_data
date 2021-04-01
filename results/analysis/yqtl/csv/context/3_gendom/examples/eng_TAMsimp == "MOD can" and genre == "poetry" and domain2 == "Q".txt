@@ -1,12 +1,41 @@
 eng_TAMsimp == "MOD can" and genre == "poetry" and domain2 == "Q"
 10 of 111
-can I curse (ESV, NIV | BHS מָ֣ה אֶקֹּ֔ב , Num. 23:8)
-can do (ESV, NIV | BHS מַה־יַּעֲשֶׂ֖ה בָשָׂ֣ר לִֽי׃ , Psa. 56:5)
-can be allied with (ESV, NIV | BHS הַֽ֭יְחָבְרְךָ כִּסֵּ֣א הַוֹּ֑ות , Psa. 94:20)
-can turn back, can stop (ESV, NIV | BHS מִ֣י יְשִׁיבֶ֑נּוּ , Job 9:12)
-I pass (ESV, NIV | BHS וְלֹ֣א אֶעֱבֹ֑ור , Job 19:8)
-can you bind (ESV, NIV | BHS הַֽ֭תְקַשֵּׁר מַעֲדַנֹּ֣ות כִּימָ֑ה , Job 38:31)
-can you draw out, can you pull in (ESV, NIV | BHS תִּמְשֹׁ֣ךְ לִוְיָתָ֣ן בְּחַכָּ֑ה , Job 40:25)
-compare, can compare (ESV, NIV | BHS וְכָל־חֲ֝פָצִ֗ים לֹ֣א יִֽשְׁווּ־בָֽהּ׃ , Prov. 8:11)
-he find out, they fathom (ESV, NIV | BHS מִבְּלִ֞י אֲשֶׁ֧ר לֹא־יִמְצָ֣א הָאָדָ֗ם אֶת־הַֽמַּעֲשֶׂ֛ה , Eccl. 3:11)
-I escape (ESV, NIV | BHS וְלֹ֥א אֵצֵ֖א , Lam. 3:7)
+(x)	מָ֣ה _אֶקֹּ֔ב_ (Num. 23:8)
+NIV	How _can I curse_ those whom God has not cursed? How can I denounce those whom the LORD has not denounced?
+ESV	How _can I curse_ whom God has not cursed? How can I denounce whom the Lord has not denounced?
+
+(x)	מַה־_יַּעֲשֶׂ֖ה_ בָשָׂ֣ר לִֽי׃ (Psa. 56:5)
+NIV	In God, whose word I praise, in God I trust. I will not be afraid. What can mortal man do to me?
+ESV	In God, whose word I praise, in God I trust. I shall not be afraid. What can flesh do to me?
+
+(x)	הַֽ֭_יְחָבְרְךָ_ כִּסֵּ֣א הַוֹּ֑ות יֹצֵ֖ר עָמָ֣ל עֲלֵי־חֹֽק׃ יָ֭גֹודּוּ עַל־נֶ֣פֶשׁ צַדִּ֑יק וְדָ֖ם נָקִ֣י יַרְשִֽׁיעוּ׃ (Psa. 94:20)
+NIV	Can a corrupt throne be allied with you — one that brings on misery by its decrees?
+ESV	Can wicked rulers be allied with you, those who frame injustice by statute?
+
+(x)	מִ֣י _יְשִׁיבֶ֑נּוּ_ (Job 9:12)
+NIV	If he snatches away, who _can stop_ him? Who can say to him, ‘What are you doing?’
+ESV	Behold, he snatches away. who can turn him back? Who will say to him, ‘What are you doing?’
+
+(x)	וְלֹ֣א _אֶעֱבֹ֑ור_ (Job 19:8)
+NIV	He has blocked my way so that I cannot pass. he has shrouded my paths in darkness.
+ESV	He has walled up my way, so that I cannot pass, and he has set darkness upon my paths.
+
+(x)	הַֽ֭_תְקַשֵּׁר_ מַעֲדַנֹּ֣ות כִּימָ֑ה אֹֽו־מֹשְׁכֹ֖ות כְּסִ֣יל תְּפַתֵּֽחַ׃ (Job 38:31)
+NIV	“_Can you bind_ the beautiful Pleiades? Can you loose the cords of Orion?
+ESV	“_Can you bind_ the chains of the Pleiades or loose the cords of Orion?
+
+(x)	_תִּמְשֹׁ֣ךְ_ לִוְיָתָ֣ן בְּחַכָּ֑ה (Job 40:25)
+NIV	“_Can you pull in_ the leviathan with a fishhook or tie down his tongue with a rope?
+ESV	“_Can you draw out_ Leviathan with a fishhook or press down his tongue with a cord?
+
+(x)	וְכָל־חֲ֝פָצִ֗ים לֹ֣א _יִֽשְׁווּ_־בָֽהּ׃ (Prov. 8:11)
+NIV	for wisdom is more precious than rubies, and nothing you desire _can compare_ with her.
+ESV	for wisdom is better than jewels, and all that you may desire cannot _compare_ with her.
+
+(x)	מִבְּלִ֞י אֲשֶׁ֧ר לֹא־_יִמְצָ֣א_ הָאָדָ֗ם אֶת־הַֽמַּעֲשֶׂ֛ה אֲשֶׁר־עָשָׂ֥ה הָאֱלֹהִ֖ים מֵרֹ֥אשׁ וְעַד־סֹֽוף׃ (Eccl. 3:11)
+NIV	He has made everything beautiful in its time. He has also set eternity in the hearts of men. yet they cannot fathom what God has done from beginning to end.
+ESV	He has made everything beautiful in its time. Also, he has put eternity into man’s heart, yet so that he cannot find out what God has done from the beginning to the end.
+
+(x)	וְלֹ֥א _אֵצֵ֖א_ (Lam. 3:7)
+NIV	He has walled me in so that I cannot escape. he has weighed me down with chains.
+ESV	He has walled me about so that I cannot escape. he has made my chains heavy.

@@ -1,0 +1,257 @@
+eng_TAM == "PAST" and (niv.str.match(".*became") | esv.str.match(".*became"))
+64 of 64
+(x)	בָּֽעֲשִׂירִי֙ בְּאֶחָ֣ד לַחֹ֔דֶשׁ *נִרְא֖וּ* רָאשֵׁ֥י הֶֽהָרִֽים׃	Gen. 8:5
+NIV	The waters continued to recede until the tenth month, and on the first day of the tenth month the tops of the mountains *became visible*.
+ESV	And the waters continued to abate until the tenth month. in the tenth month, on the first day of the month, the tops of the mountains *were seen*.
+
+(x)	תֶּ֚רַח *הֹולִ֣יד* אֶת־אַבְרָ֔ם אֶת־נָחֹ֖ור וְאֶת־הָרָ֑ן	Gen. 11:27
+NIV	This is the account of Terah. Terah *became the father* of Abram, Nahor and Haran. And Haran *became the father* of Lot.
+ESV	Now these are the generations of Terah. Terah *fathered* Abram, Nahor, and Haran. and Haran *fathered* Lot.
+
+(x)	וְהָרָ֖ן *הֹולִ֥יד* אֶת־לֹֽוט׃	Gen. 11:27
+NIV	This is the account of Terah. Terah *became the father* of Abram, Nahor and Haran. And Haran *became the father* of Lot.
+ESV	Now these are the generations of Terah. Terah *fathered* Abram, Nahor, and Haran. and Haran *fathered* Lot.
+
+(x)	וּבְתוּאֵ֖ל *יָלַ֣ד* אֶת־רִבְקָ֑ה	Gen. 22:23
+NIV	Bethuel *became the father* of Rebekah. Milcah bore these eight sons to Abraham’s brother Nahor.
+ESV	( Bethuel *fathered* Rebekah. ) These eight Milcah bore to Nahor, Abraham’s brother.
+
+(x)	אַבְרָהָ֖ם *הֹולִ֥יד* אֶת־יִצְחָֽק׃	Gen. 25:19
+NIV	This is the account of Abraham’s son Isaac. Abraham *became the father* of Isaac,
+ESV	These are the generations of Isaac, Abraham’s son: Abraham *fathered* Isaac,
+
+(x)	עַ֥ד כִּֽי־*גָדַ֖ל* מְאֹֽד׃	Gen. 26:13
+NIV	The man became rich, and his wealth continued to grow until he became very wealthy.
+ESV	and the man became rich, and gained more and more until he became very wealthy.
+
+(x)	כִּ֤י עַבְדְּךָ֙ *עָרַ֣ב* אֶת־הַנַּ֔עַר מֵעִ֥ם אָבִ֖י לֵאמֹ֑ר	Gen. 44:32
+NIV	Your servant guaranteed the boy’s safety to my father. I said, ‘If I do not bring him back to you, I will bear the blame before you, my father, all my life!’
+ESV	For your servant *became a pledge of safety* for the boy to my father, saying, ‘If I do not bring him back to you, then I shall bear the blame before my father all my life.’
+
+(x)	כָּל־עֲפַ֥ר הָאָ֛רֶץ *הָיָ֥ה* כִנִּ֖ים בְּכָל־אֶ֥רֶץ מִצְרָֽיִם׃	Exod. 8:13
+NIV	They did this, and when Aaron stretched out his hand with the staff and struck the dust of the ground, gnats came upon men and animals. All the dust throughout the land of Egypt *became* gnats.
+ESV	And they did so. Aaron stretched out his hand with his staff and struck the dust of the earth, and there were gnats on man and beast. All the dust of the earth *became* gnats in all the land of Egypt.
+
+(x)	כִּ֥י *טָמֵ֖א* נִזְרֹֽו׃	Num. 6:12
+NIV	He must dedicate himself to the LORD for the period of his separation and must bring a year-old male lamb as a guilt offering. The previous days do not count, because *he became defiled* during his separation.
+ESV	and separate himself to the Lord for the days of his separation and bring a male lamb a year old for a guilt offering. But the previous period shall be void, because his separation *was defiled*.
+
+(x)	גַּם־בִּי֙ *הִתְאַנַּ֣ף* יְהוָ֔ה בִּגְלַלְכֶ֖ם לֵאמֹ֑ר	Deut. 1:37
+NIV	Because of you the LORD *became angry* with me also and said, “You shall not enter it, either.
+ESV	Even with me the Lord *was angry* on your account and said, ‘You also shall not go in there.
+
+(x)	כִּֽי־*חָזַ֣ק* יִשְׂרָאֵ֔ל	Judg. 1:28
+NIV	When Israel *became strong*, they pressed the Canaanites into forced labour but never drove them out completely.
+ESV	When Israel *grew strong*, they put the Canaanites to forced labor, but did not drive them out completely.
+
+(x)	וְיֹשְׁבֵ֤י בֵֽית־שֶׁ֨מֶשׁ֙ וּבֵ֣ית עֲנָ֔ת *הָי֥וּ* לָהֶ֖ם לָמַֽס׃ ס	Judg. 1:33
+NIV	Neither did Naphtali drive out those living in Beth Shemesh or Beth Anath. but the Naphtalites too lived among the Canaanite inhabitants of the land, and those living in Beth Shemesh and Beth Anath *became* forced labourers for them.
+ESV	Naphtali did not drive out the inhabitants of Beth-shemesh, or the inhabitants of Beth-anath, so they lived among the Canaanites, the inhabitants of the land. Nevertheless, the inhabitants of Beth-shemesh and of Beth-anath *became* subject to forced labor for them.
+
+(x)	וַיְהִ֕י כַּאֲשֶׁ֥ר *זָקֵ֖ן* שְׁמוּאֵ֑ל	1 Sam. 8:1
+NIV	When Samuel *grew old*, he appointed his sons as judges for Israel.
+ESV	When Samuel *became old*, he made his sons judges over Israel.
+
+(x)	עַל־כֵּן֙ *הָיְתָ֣ה* לְמָשָׁ֔ל	1 Sam. 10:12
+NIV	A man who lived there answered, “And who is their father?” So *it became* a saying: “Is Saul also among the prophets?”
+ESV	And a man of the place answered, “And who is their father?” Therefore *it became* a proverb, “Is Saul also among the prophets?”
+
+(x)	וְנֶ֨פֶשׁ֙ יְהֹ֣ונָתָ֔ן *נִקְשְׁרָ֖ה* בְּנֶ֣פֶשׁ דָּוִ֑ד	1 Sam. 18:1
+NIV	After David had finished talking with Saul, Jonathan *became one* in spirit with David, and he loved him as himself.
+ESV	As soon as he had finished speaking to Saul, the soul of Jonathan *was knit* to the soul of David, and Jonathan loved him as his own soul.
+
+(x)	וְה֖וּא *הָיָ֥ה* לְאָֽבֶן׃	1 Sam. 25:37
+NIV	Then in the morning, when Nabal was sober, his wife told him all these things, and his heart failed him and he *became* like a stone.
+ESV	In the morning, when the wine had gone out of Nabal, his wife told him these things, and his heart died within him, and he *became* as a stone.
+
+(x)	כִּ֥י *חָלִ֖יתִי* הַיֹּ֥ום שְׁלֹשָֽׁה׃	1 Sam. 30:13
+NIV	David asked him, “To whom do you belong, and where do you come from?” He said, “I am an Egyptian, the slave of an Amalekite. My master abandoned me when *I became ill* three days ago.
+ESV	And David said to him, “To whom do you belong? And where are you from?” He said, “I am a young man of Egypt, servant to an Amalekite, and my master left me behind because *I fell sick* three days ago.
+
+(x)	וְכָל־יִשְׂרָאֵ֖ל *נִבְהָֽלוּ*׃	2 Sam. 4:1
+NIV	When Ish-bosheth son of Saul heard that Abner had died in Hebron, he lost courage, and all Israel *became alarmed*.
+ESV	When Ish-bosheth, Saul’s son, heard that Abner had died at Hebron, his courage failed, and all Israel *was dismayed*.
+
+(x)	הִ֣יא *הָיְתָ֔ה* אִשָּׁ֖ה יְפַ֥ת מַרְאֶֽה׃ פ	2 Sam. 14:27
+NIV	Three sons and a daughter were born to Absalom. The daughter’s name was Tamar, and she *became* a beautiful woman.
+ESV	There were born to Absalom three sons, and one daughter whose name *was* Tamar. She *was* a beautiful woman.
+
+(x)	בָּעֵ֣ת הַהִ֔יא *חָלָ֖ה* אֲבִיָּ֥ה בֶן־יָרָבְעָֽם׃	1 Kgs. 14:1
+NIV	At that time Abijah son of Jeroboam *became ill*,
+ESV	At that time Abijah the son of Jeroboam *fell sick*.
+
+(x)	וּבִשְׁנַת֙ שְׁמֹנֶ֣ה עֶשְׂרֵ֔ה לַמֶּ֖לֶךְ יָרָבְעָ֣ם בֶּן־נְבָ֑ט *מָלַ֥ךְ* אֲבִיָּ֖ם עַל־יְהוּדָֽה׃	1 Kgs. 15:1
+NIV	In the eighteenth year of the reign of Jeroboam son of Nebat, Abijah *became king* of Judah,
+ESV	Now in the eighteenth year of King Jeroboam the son of Nebat, Abijam *began to reign* over Judah.
+
+(x)	וּבִשְׁנַ֣ת עֶשְׂרִ֔ים לְיָרָבְעָ֖ם מֶ֣לֶךְ יִשְׂרָאֵ֑ל *מָלַ֥ךְ* אָסָ֖א מֶ֥לֶךְ יְהוּדָֽה׃	1 Kgs. 15:9
+NIV	In the twentieth year of Jeroboam king of Israel, Asa *became king* of Judah,
+ESV	In the twentieth year of Jeroboam king of Israel, Asa *began to reign* over Judah,
+
+(x)	רַ֚ק לְעֵ֣ת זִקְנָתֹ֔ו *חָלָ֖ה* אֶת־רַגְלָֽיו׃	1 Kgs. 15:23
+NIV	As for all the other events of Asa’s reign, all his achievements, all he did and the cities he built, are they not written in the book of the annals of the kings of Judah? In his old age, however, his feet *became diseased*.
+ESV	Now the rest of all the acts of Asa, all his might, and all that he did, and the cities that he built, are they not written in the Book of the Chronicles of the Kings of Judah? But in his old age *he was diseased* in his feet.
+
+(x)	וְנָדָ֣ב בֶּן־יָרָבְעָ֗ם *מָלַךְ֙* עַל־יִשְׂרָאֵ֔ל בִּשְׁנַ֣ת שְׁתַּ֔יִם לְאָסָ֖א מֶ֣לֶךְ יְהוּדָ֑ה	1 Kgs. 15:25
+NIV	Nadab son of Jeroboam *became king* of Israel in the second year of Asa king of Judah, and he reigned over Israel for two years.
+ESV	Nadab the son of Jeroboam *began to reign* over Israel in the second year of Asa king of Judah, and he reigned over Israel two years.
+
+(x)	בִּשְׁנַ֣ת שָׁלֹ֔שׁ לְאָסָ֖א מֶ֣לֶךְ יְהוּדָ֑ה *מָ֠לַךְ* בַּעְשָׁ֨א בֶן־אֲחִיָּ֤ה עַל־כָּל־יִשְׂרָאֵל֙ בְּתִרְצָ֔ה עֶשְׂרִ֥ים וְאַרְבַּ֖ע שָׁנָֽה׃	1 Kgs. 15:33
+NIV	In the third year of Asa king of Judah, Baasha son of Ahijah *became king* of all Israel in Tirzah, and he reigned for twenty-four years.
+ESV	In the third year of Asa king of Judah, Baasha the son of Ahijah *began to reign* over all Israel at Tirzah, and he reigned twenty-four years.
+
+(x)	בִּשְׁנַ֨ת עֶשְׂרִ֤ים וָשֵׁשׁ֙ שָׁנָ֔ה לְאָסָ֖א מֶ֣לֶךְ יְהוּדָ֑ה *מָ֠לַךְ* אֵלָ֨ה בֶן־בַּעְשָׁ֧א עַל־יִשְׂרָאֵ֛ל בְּתִרְצָ֖ה שְׁנָתָֽיִם׃	1 Kgs. 16:8
+NIV	In the twenty-sixth year of Asa king of Judah, Elah son of Baasha *became king* of Israel, and he reigned in Tirzah for two years.
+ESV	In the twenty-sixth year of Asa king of Judah, Elah the son of Baasha *began to reign* over Israel in Tirzah, and he reigned two years.
+
+(x)	בִּשְׁנַת֩ שְׁלֹשִׁ֨ים וְאַחַ֜ת שָׁנָ֗ה לְאָסָא֙ מֶ֣לֶךְ יְהוּדָ֔ה *מָלַ֤ךְ* עָמְרִי֙ עַל־יִשְׂרָאֵ֔ל שְׁתֵּ֥ים עֶשְׂרֵ֖ה שָׁנָ֑ה	1 Kgs. 16:23
+NIV	In the thirty-first year of Asa king of Judah, Omri *became king* of Israel, and he reigned for twelve years, six of them in Tirzah.
+ESV	In the thirty-first year of Asa king of Judah, Omri *began to reign* over Israel, and he reigned for twelve years. six years he reigned in Tirzah.
+
+(x)	וְאַחְאָ֣ב בֶּן־עָמְרִ֗י *מָלַךְ֙* עַל־יִשְׂרָאֵ֔ל בִּשְׁנַ֨ת שְׁלֹשִׁ֤ים וּשְׁמֹנֶה֙ שָׁנָ֔ה לְאָסָ֖א מֶ֣לֶךְ יְהוּדָ֑ה	1 Kgs. 16:29
+NIV	In the thirty-eighth year of Asa king of Judah, Ahab son of Omri *became king* of Israel, and he reigned in Samaria over Israel for twenty-two years.
+ESV	In the thirty-eighth year of Asa king of Judah, Ahab the son of Omri *began to reign* over Israel, and Ahab the son of Omri reigned over Israel in Samaria twenty-two years.
+
+(x)	*חָלָ֕ה* בֶּן־הָאִשָּׁ֖ה בַּעֲלַ֣ת הַבָּ֑יִת	1 Kgs. 17:17
+NIV	Some time later the son of the woman who owned the house *became ill*. He grew worse and worse, and finally stopped breathing.
+ESV	After this the son of the woman, the mistress of the house, *became ill*. And his illness was so severe that there was no breath left in him.
+
+(x)	וִיהֹֽושָׁפָט֙ בֶּן־אָסָ֔א *מָלַ֖ךְ* עַל־יְהוּדָ֑ה בִּשְׁנַ֣ת אַרְבַּ֔ע לְאַחְאָ֖ב מֶ֥לֶךְ יִשְׂרָאֵֽל׃	1 Kgs. 22:41
+NIV	Jehoshaphat son of Asa *became king* of Judah in the fourth year of Ahab king of Israel.
+ESV	Jehoshaphat the son of Asa *began to reign* over Judah in the fourth year of Ahab king of Israel.
+
+(x)	אֲחַזְיָ֣הוּ בֶן־אַחְאָ֗ב *מָלַ֤ךְ* עַל־יִשְׂרָאֵל֙ בְּשֹׁ֣מְרֹ֔ון בִּשְׁנַת֙ שְׁבַ֣ע עֶשְׂרֵ֔ה לִיהֹושָׁפָ֖ט מֶ֣לֶךְ יְהוּדָ֑ה	1 Kgs. 22:52
+NIV	Ahaziah son of Ahab *became king* of Israel in Samaria in the seventeenth year of Jehoshaphat king of Judah, and he reigned over Israel for two years.
+ESV	Ahaziah the son of Ahab *began to reign* over Israel in Samaria in the seventeenth year of Jehoshaphat king of Judah, and he reigned two years over Israel.
+
+(x)	וִיהֹורָ֣ם בֶּן־אַחְאָ֗ב *מָלַ֤ךְ* עַל־יִשְׂרָאֵל֙ בְּשֹׁ֣מְרֹ֔ון בִּשְׁנַת֙ שְׁמֹנֶ֣ה עֶשְׂרֵ֔ה לִיהֹושָׁפָ֖ט מֶ֣לֶךְ יְהוּדָ֑ה	2 Kgs. 3:1
+NIV	Joram son of Ahab *became king* of Israel in Samaria in the eighteenth year of Jehoshaphat king of Judah, and he reigned for twelve years.
+ESV	In the eighteenth year of Jehoshaphat king of Judah, Jehoram the son of Ahab *became king* over Israel in Samaria, and he reigned twelve years.
+
+(x)	בִּשְׁנַת־שֶׁ֤בַע לְיֵהוּא֙ *מָלַ֣ךְ* יְהֹואָ֔שׁ	2 Kgs. 12:2
+NIV	In the seventh year of Jehu, Joash *became king*, and he reigned in Jerusalem for forty years. His mother’s name was Zibiah. she was from Beersheba.
+ESV	In the seventh year of Jehu, Jehoash *began to reign*, and he reigned forty years in Jerusalem. His mother’s name was Zibiah of Beersheba.
+
+(x)	בִּשְׁנַ֨ת עֶשְׂרִ֤ים וְשָׁלֹשׁ֙ שָׁנָ֔ה לְיֹואָ֥שׁ בֶּן־אֲחַזְיָ֖הוּ מֶ֣לֶךְ יְהוּדָ֑ה *מָ֠לַךְ* יְהֹואָחָ֨ז בֶּן־יֵה֤וּא עַל־יִשְׂרָאֵל֙ בְּשֹׁ֣מְרֹ֔ון שְׁבַ֥ע עֶשְׂרֵ֖ה שָׁנָֽה׃	2 Kgs. 13:1
+NIV	In the twenty-third year of Joash son of Ahaziah king of Judah, Jehoahaz son of Jehu *became king* of Israel in Samaria, and he reigned for seventeen years.
+ESV	In the twenty-third year of Joash the son of Ahaziah, king of Judah, Jehoahaz the son of Jehu *began to reign* over Israel in Samaria, and he reigned seventeen years.
+
+(x)	בִּשְׁנַ֨ת שְׁלֹשִׁ֤ים וָשֶׁ֨בַע֙ שָׁנָ֔ה לְיֹואָ֖שׁ מֶ֣לֶךְ יְהוּדָ֑ה *מָ֠לַךְ* יְהֹואָ֨שׁ בֶּן־יְהֹואָחָ֤ז עַל־יִשְׂרָאֵל֙ בְּשֹׁ֣מְרֹ֔ון שֵׁ֥שׁ עֶשְׂרֵ֖ה שָׁנָֽה׃	2 Kgs. 13:10
+NIV	In the thirty-seventh year of Joash king of Judah, Jehoash son of Jehoahaz *became king* of Israel in Samaria, and he reigned for sixteen years.
+ESV	In the thirty-seventh year of Joash king of Judah, Jehoash the son of Jehoahaz *began to reign* over Israel in Samaria, and he reigned sixteen years.
+
+(x)	בִּשְׁנַת֙ חֲמֵשׁ־עֶשְׂרֵ֣ה שָׁנָ֔ה לַאֲמַצְיָ֥הוּ בֶן־יֹואָ֖שׁ מֶ֣לֶךְ יְהוּדָ֑ה *מָ֠לַךְ* יָרָבְעָ֨ם בֶּן־יֹואָ֤שׁ מֶֽלֶךְ־יִשְׂרָאֵל֙ בְּשֹׁ֣מְרֹ֔ון אַרְבָּעִ֥ים וְאַחַ֖ת שָׁנָֽה׃	2 Kgs. 14:23
+NIV	In the fifteenth year of Amaziah son of Joash king of Judah, Jeroboam son of Jehoash king of Israel *became king* in Samaria, and he reigned for forty-one years.
+ESV	In the fifteenth year of Amaziah the son of Joash, king of Judah, Jeroboam the son of Joash, king of Israel, *began to reign* in Samaria, and he reigned forty-one years.
+
+(x)	בִּשְׁנַ֨ת שְׁלֹשִׁ֤ים וּשְׁמֹנֶה֙ שָׁנָ֔ה לַעֲזַרְיָ֖הוּ מֶ֣לֶךְ יְהוּדָ֑ה *מָ֠לַךְ* זְכַרְיָ֨הוּ בֶן־יָרָבְעָ֧ם עַל־יִשְׂרָאֵ֛ל בְּשֹׁמְרֹ֖ון שִׁשָּׁ֥ה חֳדָשִֽׁים׃	2 Kgs. 15:8
+NIV	In the thirty-eighth year of Azariah king of Judah, Zechariah son of Jeroboam *became king* of Israel in Samaria, and he reigned for six months.
+ESV	In the thirty-eighth year of Azariah king of Judah, Zechariah the son of Jeroboam *reigned* over Israel in Samaria six months.
+
+(x)	שַׁלּ֤וּם בֶּן־יָבֵישׁ֙ *מָלַ֔ךְ* בִּשְׁנַ֨ת שְׁלֹשִׁ֤ים וָתֵ֨שַׁע֙ שָׁנָ֔ה לְעֻזִיָּ֖ה מֶ֣לֶךְ יְהוּדָ֑ה	2 Kgs. 15:13
+NIV	Shallum son of Jabesh *became king* in the thirty-ninth year of Uzziah king of Judah, and he reigned in Samaria for one month.
+ESV	Shallum the son of Jabesh *began to reign* in the thirty-ninth year of Uzziah king of Judah, and he reigned one month in Samaria.
+
+(x)	בִּשְׁנַ֨ת שְׁלֹשִׁ֤ים וָתֵ֨שַׁע֙ שָׁנָ֔ה לַעֲזַרְיָ֖ה מֶ֣לֶךְ יְהוּדָ֑ה *מָ֠לַךְ* מְנַחֵ֨ם בֶּן־גָּדִ֧י עַל־יִשְׂרָאֵ֛ל עֶ֥שֶׂר שָׁנִ֖ים בְּשֹׁמְרֹֽון׃	2 Kgs. 15:17
+NIV	In the thirty-ninth year of Azariah king of Judah, Menahem son of Gadi *became king* of Israel, and he reigned in Samaria for ten years.
+ESV	In the thirty-ninth year of Azariah king of Judah, Menahem the son of Gadi *began to reign* over Israel, and he reigned ten years in Samaria.
+
+(x)	בִּשְׁנַת֙ חֲמִשִּׁ֣ים שָׁנָ֔ה לַעֲזַרְיָ֖ה מֶ֣לֶךְ יְהוּדָ֑ה *מָ֠לַךְ* פְּקַֽחְיָ֨ה בֶן־מְנַחֵ֧ם עַל־יִשְׂרָאֵ֛ל בְּשֹׁמְרֹ֖ון שְׁנָתָֽיִם׃	2 Kgs. 15:23
+NIV	In the fiftieth year of Azariah king of Judah, Pekahiah son of Menahem *became king* of Israel in Samaria, and he reigned for two years.
+ESV	In the fiftieth year of Azariah king of Judah, Pekahiah the son of Menahem *began to reign* over Israel in Samaria, and he reigned two years.
+
+(x)	בִּשְׁנַ֨ת חֲמִשִּׁ֤ים וּשְׁתַּ֨יִם֙ שָׁנָ֔ה לַעֲזַרְיָ֖ה מֶ֣לֶךְ יְהוּדָ֑ה *מָ֠לַךְ* פֶּ֣קַח בֶּן־רְמַלְיָ֧הוּ עַל־יִשְׂרָאֵ֛ל בְּשֹׁמְרֹ֖ון עֶשְׂרִ֥ים שָׁנָֽה׃	2 Kgs. 15:27
+NIV	In the fifty-second year of Azariah king of Judah, Pekah son of Remaliah *became king* of Israel in Samaria, and he reigned for twenty years.
+ESV	In the fifty-second year of Azariah king of Judah, Pekah the son of Remaliah *began to reign* over Israel in Samaria, and he reigned twenty years.
+
+(x)	בִּשְׁנַת֙ שְׁתֵּ֣ים עֶשְׂרֵ֔ה לְאָחָ֖ז מֶ֣לֶךְ יְהוּדָ֑ה *מָ֠לַךְ* הֹושֵׁ֨עַ בֶּן־אֵלָ֧ה בְשֹׁמְרֹ֛ון עַל־יִשְׂרָאֵ֖ל תֵּ֥שַׁע שָׁנִֽים׃	2 Kgs. 17:1
+NIV	In the twelfth year of Ahaz king of Judah, Hoshea son of Elah *became king* of Israel in Samaria, and he reigned for nine years.
+ESV	In the twelfth year of Ahaz king of Judah, Hoshea the son of Elah *began to reign* in Samaria over Israel, and he reigned nine years.
+
+(x)	בַּיָּמִ֣ים הָהֵ֔ם *חָלָ֥ה* חִזְקִיָּ֖הוּ לָמ֑וּת	2 Kgs. 20:1
+NIV	In those days Hezekiah *became ill* and was at the point of death. The prophet Isaiah son of Amoz went to him and said, “This is what the LORD says: Put your house in order, because you are going to die. you will not recover.”
+ESV	In those days Hezekiah *became sick* and was at the point of death. And Isaiah the prophet the son of Amoz came to him and said to him, “Thus says the Lord, ‘Set your house in order, for you shall die. you shall not recover.’”
+
+(x)	בַּיָּמִ֣ים הָהֵ֔ם *חָלָ֥ה* חִזְקִיָּ֖הוּ לָמ֑וּת	Isa. 38:1
+NIV	In those days Hezekiah *became ill* and was at the point of death. The prophet Isaiah son of Amoz went to him and said, “This is what the LORD says: Put your house in order, because you are going to die. you will not recover.”
+ESV	In those days Hezekiah *became sick* and was at the point of death. And Isaiah the prophet the son of Amoz came to him, and said to him, “Thus says the Lord: Set your house in order, for you shall die, you shall not recover.”
+
+(x)	כְּפִ֣יר *הָיָ֑ה*	Ezek. 19:3
+NIV	She brought up one of her cubs, and *he became* a strong lion. He learned to tear the prey and he devoured men.
+ESV	And she brought up one of her cubs. *he became* a young lion, and he learned to catch prey. he devoured men.
+
+(x)	כְּפִ֣יר *הָיָ֑ה*	Ezek. 19:6
+NIV	He prowled among the lions, for *he was* now a strong lion. He learned to tear the prey and he devoured men.
+ESV	He prowled among the lions. *he became* a young lion, and he learned to catch prey. he devoured men,
+
+(x)	*גָּבַ֤הּ* לִבְּךָ֙ בְּיָפְיֶ֔ךָ	Ezek. 28:17
+NIV	Your heart *became proud* on account of your beauty, and you corrupted your wisdom because of your splendour. So I threw you to the earth. I made a spectacle of you before kings.
+ESV	Your heart *was proud* because of your beauty. you corrupted your wisdom for the sake of your splendor. I cast you to the ground. I exposed you before kings, to feast their eyes on you.
+
+(x)	כְּשִׂמְחָ֨תְךָ֜ לְנַחְלַ֧ת בֵּֽית־יִשְׂרָאֵ֛ל עַ֥ל אֲשֶׁר־*שָׁמֵ֖מָה* כֵּ֣ן אֶעֱשֶׂה־לָּ֑ךְ	Ezek. 35:15
+NIV	Because you rejoiced when the inheritance of the house of Israel *became desolate*, that is how I will treat you. You will be desolate, O Mount Seir, you and all of Edom. Then they will know that I am the LORD.’”
+ESV	As you rejoiced over the inheritance of the house of Israel, because *it was desolate*, so I will deal with you. you shall be desolate, Mount Seir, and all Edom, all of it. Then they will know that I am the Lord.
+
+(x)	*חַם*־לִבִּ֨י׀ בְּקִרְבִּ֗י	Psa. 39:4
+NIV	My heart *grew hot* within me, and as I meditated, the fire burned. then I spoke with my tongue:
+ESV	My heart *became hot* within me. As I mused, the fire burned. then I spoke with my tongue:
+
+(x)	עֲשֵֽׂה־לָהֶ֥ם כְּמִדְיָ֑ן כְּֽסִֽיסְרָ֥א כְ֝יָבִ֗ין בְּנַ֣חַל קִישֹֽׁון׃ נִשְׁמְד֥וּ בְֽעֵין־דֹּ֑אר *הָ֥יוּ* דֹּ֝֗מֶן לָאֲדָמָֽה׃	Psa. 83:11
+NIV	who perished at Endor and *became* like refuse on the ground.
+ESV	who were destroyed at En-dor, who *became* dung for the ground.
+
+(x)	בְּצֵ֣את יִ֭שְׂרָאֵל מִמִּצְרָ֑יִם בֵּ֥ית יַ֝עֲקֹ֗ב מֵעַ֥ם לֹעֵֽז׃ *הָיְתָ֣ה* יְהוּדָ֣ה לְקָדְשֹׁ֑ו יִ֝שְׂרָאֵ֗ל מַמְשְׁלֹותָֽיו׃	Psa. 114:2
+NIV	Judah *became* God’s sanctuary, Israel his dominion.
+ESV	Judah *became* his sanctuary, Israel his dominion.
+
+(x)	בְּ֭אִיֹּוב *חָרָ֣ה* אַפֹּ֑ו עַֽל־צַדְּקֹ֥ו נַ֝פְשֹׁ֗ו מֵאֱלֹהִֽים׃	Job 32:2
+NIV	But Elihu son of Barakel the Buzite, of the family of Ram, *became very angry* with Job for justifying himself rather than God.
+ESV	Then Elihu the son of Barachel the Buzite, of the family of Ram, burned with anger. *He burned* with anger at Job because he justified himself rather than God.
+
+(x)	*הָי֤וּ* לְבָרֹות֙ לָ֔מֹו בְּשֶׁ֖בֶר בַּת־עַמִּֽי׃ ס	Lam. 4:10
+NIV	With their own hands compassionate women have cooked their own children, who *became* their food when my people were destroyed.
+ESV	The hands of compassionate women have boiled their own children. *they became* their food during the destruction of the daughter of my people.
+
+(x)	וּבְהִקָּבֵ֥ץ בְּתוּלֹ֖ות שֵׁנִ֑ית וּמָרְדֳּכַ֖י יֹשֵׁ֥ב בְּשַֽׁעַר־הַמֶּֽלֶךְ׃ בַּיָּמִ֣ים הָהֵ֔ם *קָצַף֩* בִּגְתָ֨ן וָתֶ֜רֶשׁ שְׁנֵֽי־סָרִיסֵ֤י הַמֶּ֨לֶךְ֙ מִשֹּׁמְרֵ֣י הַסַּ֔ף	Esth. 2:21
+NIV	During the time Mordecai was sitting at the king’s gate, Bigthana and Teresh, two of the king’s officers who guarded the doorway, *became angry* and conspired to assassinate King Xerxes.
+ESV	In those days, as Mordecai was sitting at the king’s gate, Bigthan and Teresh, two of the king’s eunuchs, who guarded the threshold, *became angry* and sought to lay hands on King Ahasuerus.
+
+(x)	וּצְפִ֥יר הָעִזִּ֖ים *הִגְדִּ֣יל* עַד־מְאֹ֑ד	Dan. 8:8
+NIV	The goat became very great, but at the height of his power his large horn was broken off, and in its place four prominent horns grew up towards the four winds of heaven.
+ESV	Then the goat became exceedingly great, but when he was strong, the great horn was broken, and instead of it there came up four conspicuous horns toward the four winds of heaven.
+
+(x)	וְהֵ֥ם וַאֲבֹתֵ֖ינוּ *הֵזִ֑ידוּ*	Neh. 9:16
+NIV	“But they, our forefathers, *became arrogant* and stiff-necked, and did not obey your commands.
+ESV	“But they and our fathers *acted presumptuously* and stiffened their neck and did not obey your commandments.
+
+(x)	וְהֵ֨מָּה *הֵזִ֜ידוּ*	Neh. 9:29
+NIV	“You warned them to return to your law, but they *became arrogant* and disobeyed your commands. They sinned against your ordinances, by which a man will live if he obeys them. Stubbornly they turned their backs on you, became stiff-necked and refused to listen.
+ESV	And you warned them in order to turn them back to your law. Yet they *acted presumptuously* and did not obey your commandments, but sinned against your rules, which if a person does them, he shall live by them, and they turned a stubborn shoulder and stiffened their neck and would not obey.
+
+(x)	וְעָרְפָּ֥ם *הִקְשׁ֖וּ*	Neh. 9:29
+NIV	“You warned them to return to your law, but they became arrogant and disobeyed your commands. They sinned against your ordinances, by which a man will live if he obeys them. Stubbornly they turned their backs on you, *became stiff-necked* and refused to listen.
+ESV	And you warned them in order to turn them back to your law. Yet they acted presumptuously and did not obey your commandments, but sinned against your rules, which if a person does them, he shall live by them, and they turned a stubborn shoulder and *stiffened* their neck and would not obey.
+
+(x)	כִּ֤י יְהוּדָה֙ *גָּבַ֣ר* בְּאֶחָ֔יו	1 Chr. 5:2
+NIV	and though Judah *was the strongest* of his brothers and a ruler came from him, the rights of the firstborn belonged to Joseph ) —
+ESV	though Judah *became strong* among his brothers and a chief came from him, yet the birthright belonged to Joseph ),
+
+(x)	כִּי־הֵ֜מָּה *הָֽיוּ*־לֹ֣ו יֹֽועֲצִ֗ים אַחֲרֵ֛י מֹ֥ות אָבִ֖יו לְמַשְׁחִ֥ית לֹֽו׃	2 Chr. 22:4
+NIV	He did evil in the eyes of the LORD, as the house of Ahab had done, for after his father’s death they *became* his advisers, to his undoing.
+ESV	He did what was evil in the sight of the Lord, as the house of Ahab had done. For after the death of his father they *were* his counselors, to his undoing.
+
+(x)	בֶּן־עֶשְׂרִ֨ים וְחָמֵ֤שׁ שָׁנָה֙ *מָלַ֣ךְ* אֲמַצְיָ֔הוּ	2 Chr. 25:1
+NIV	Amaziah was twenty-five years old when *he became king*, and he reigned in Jerusalem for twenty-nine years. His mother’s name was Jehoaddin. she was from Jerusalem.
+ESV	Amaziah was twenty-five years old when *he began to reign*, and he reigned twenty-nine years in Jerusalem. His mother’s name was Jehoaddan of Jerusalem.
+
+(x)	כִּֽי־הִפְלִ֥יא לְהֵעָזֵ֖ר עַ֥ד כִּֽי־*חָזָֽק*׃	2 Chr. 26:15
+NIV	In Jerusalem he made machines designed by skilful men for use on the towers and on the corner defences to shoot arrows and hurl large stones. His fame spread far and wide, for he was greatly helped until *he became powerful*.
+ESV	In Jerusalem he made engines, invented by skillful men, to be on the towers and the corners, to shoot arrows and great stones. And his fame spread far, for he was marvelously helped, till *he was strong*.
+
+(x)	יְחִזְקִיָּ֣הוּ *מָלַ֗ךְ* בֶּן־עֶשְׂרִ֤ים וְחָמֵשׁ֙ שָׁנָ֔ה	2 Chr. 29:1
+NIV	Hezekiah was twenty-five years old when *he became king*, and he reigned in Jerusalem for twenty-nine years. His mother’s name was Abijah daughter of Zechariah.
+ESV	Hezekiah *began to reign* when he was twenty-five years old, and he reigned twenty-nine years in Jerusalem. His mother’s name was Abijah the daughter of Zechariah.
+
+(x)	בַּיָּמִ֣ים הָהֵ֔ם *חָלָ֥ה* יְחִזְקִיָּ֖הוּ עַד־לָמ֑וּת	2 Chr. 32:24
+NIV	In those days Hezekiah *became ill* and was at the point of death. He prayed to the LORD, who answered him and gave him a miraculous sign.
+ESV	In those days Hezekiah *became sick* and was at the point of death, and he prayed to the Lord, and he answered him and gave him a sign.

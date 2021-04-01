@@ -1,0 +1,40 @@
+eng_TAMsimp,imparfait,passé_comp,passé_simp
+PAST,2.76,4.3,2.47
+PAST ~ PRES,1.11,10.25,inf
+PRES,11.0,1.5,4.12
+MOD would ~ PAST,1.0,inf,inf
+FUT,2.71,1.58,inf
+FUT ~ MOD shall,2.43,2.83,4.25
+MOD would,1.07,inf,15.0
+PRES PERF,inf,1.0,inf
+PAST ~ PRES PART,1.67,5.0,5.0
+PAST ~ PRES PERF,inf,1.0,inf
+FUT ~ PRES,3.0,1.5,inf
+PAST ~ PAST PROG,1.25,inf,5.0
+PRES ~ PRES PART,2.0,2.0,inf
+HAB used to ~ PAST,1.0,inf,inf
+HAB used to ~ MOD would,1.0,inf,inf
+HAB used to,1.5,inf,3.0
+MOD is to ~ MOD shall,inf,inf,1.0
+FUT ~ MOD lest,1.0,inf,inf
+PAST ~ TO INF,inf,inf,1.0
+IMPV ~ MOD would,1.0,inf,inf
+PRES PART,2.0,inf,2.0
+FUT ~ MOD may,inf,1.0,inf
+IMPV ~ PRES,inf,inf,1.0
+FUT ~ MOD can,inf,1.0,inf
+HAB used to ~ PAST PROG,1.0,inf,inf
+IMPV,inf,inf,1.0
+TO INF,1.0,inf,inf
+MOD may,1.0,inf,inf
+MOD may ~ PRES,1.0,inf,inf
+MOD shall,inf,inf,1.0
+MOD should,1.0,inf,inf
+MOD should ~ PRES,1.0,inf,inf
+PRES ~ PRES PERF,inf,1.0,inf
+MOD was to ~ PAST,1.0,inf,inf
+MOD would ~ PRES PART,1.0,inf,inf
+MOD ~ MOD would,1.0,inf,inf
+PAST ~ PAST PERF,inf,inf,1.0
+PRES PERF ~ TO INF,inf,1.0,inf
+MOD was to,1.0,inf,inf

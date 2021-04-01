@@ -1,27 +1,101 @@
 eng_TAMsimp == "PAST" and genre == "prose" and domain2 == "N" 
 25 of 65
-he believed, abram believed (ESV, NIV | BHS וְהֶאֱמִ֖ן בַּֽיהוָ֑ה , Gen. 15:6)
-he made (ESV, NIV | BHS וְעָ֥שָׂה לֹ֖ו כְּתֹ֥נֶת פַּסִּֽים׃ , Gen. 37:3)
-grew hot (ESV, NIV | BHS וְחַ֥ם הַשֶּׁ֖מֶשׁ , Exod. 16:21)
-they judged, they served as judges (ESV, NIV | BHS וְשָׁפְט֥וּ אֶת־הָעָ֖ם בְּכָל־עֵ֑ת , Exod. 18:26)
-he saved, saved (ESV, NIV | BHS וְהֹֽושִׁיעָם֙ מִיַּ֣ד אֹֽיְבֵיהֶ֔ם כֹּ֖ל יְמֵ֣י הַשֹּׁופֵ֑ט , Judg. 2:18)
-said (ESV, NIV | BHS וְאָמַר֙ , Judg. 19:30)
-they said (ESV, NIV | BHS וְאָמְר֗וּ , I Sam. 5:7)
-saw (ESV, NIV | BHS וְרָאָ֨ה שָׁא֜וּל כָּל־אִ֤ישׁ גִּבֹּור֙ וְכָל־בֶּן־חַ֔יִל , I Sam. 14:52)
-went in, went into (ESV, NIV | BHS וּבָ֥א , II Sam. 12:16)
-bolted (ESV, NIV | BHS וְנָעַ֥ל הַדֶּ֖לֶת אַחֲרֶֽיהָ׃ , II Sam. 13:18)
-they crossed (ESV, NIV | BHS וְעָבְרָ֣ה הָעֲבָרָ֗ה , II Sam. 19:19)
-he carved (ESV, NIV | BHS וְקָלַ֤ע כְּרוּבִים֙ וְתִ֣מֹרֹ֔ות וּפְטֻרֵ֖י צִצִּ֑ים , I Kgs. 6:35)
-he finished, fulfilled (ESV, NIV | BHS וְשִׁלַּ֖ם אֶת־הַבָּֽיִת׃ , I Kgs. 9:25)
-he saved himself, he was on his guard (ESV, NIV | BHS וְנִשְׁמַ֣ר שָׁ֑ם , II Kgs. 6:10)
-broke, smashed (ESV, NIV | BHS וְשִׁבַּר֙ אֶת־הַמַּצֵּבֹ֔ת , II Kgs. 18:4)
-was (ESV, NIV | BHS וְהָיָ֤ה יְהוָה֙ עִמֹּ֔ו , II Kgs. 18:7)
-carried, took (ESV, NIV | BHS וְנָשָׂ֥א אֶת־עֲפָרָ֖ם בֵּֽית־אֵֽל׃ , II Kgs. 23:4)
-he defiled, he desecrated (ESV, NIV | BHS וְטִמֵּ֣א אֶת־הַתֹּ֔פֶת , II Kgs. 23:10)
-he burned, burned (ESV, NIV | BHS וְשָׂרַ֥ף אֲשֵׁרָֽה׃ , II Kgs. 23:15)
-he dined, ate (ESV, NIV | BHS וְאָכַ֨ל לֶ֧חֶם תָּמִ֛יד לְפָנָ֖יו כָּל־יְמֵ֥י חַיָּֽיו׃ , II Kgs. 25:29)
-gave (ESV, NIV | BHS וְנָתַ֣ן לְרֵעֵ֑הוּ , Ruth 4:7)
-took over, received (ESV, NIV | BHS וְקִבְּלוּ֙ הַכֹּהֲנִ֣ים וְהַלְוִיִּ֔ם מִשְׁקַ֛ל הַכֶּ֥סֶף וְהַזָּהָ֖ב וְהַכֵּלִ֑ים , Ezra 8:30)
-struck down, killed (ESV, NIV | BHS וְהִכָּ֧ה אֶֽת־הָאֲרִ֛י בְּתֹ֥וךְ הַבֹּ֖ור בְּיֹ֥ום הַשָּֽׁלֶג׃ , I Chr. 11:22)
-brought back, they returned (ESV, NIV | BHS וֶהֱשִׁב֖וּם אֶל־תָּ֥א הָרָצִֽים׃ , II Chr. 12:11)
-he made dust, he broke to pieces (ESV, NIV | BHS וְהֵדַ֔ק , II Chr. 34:4)
+(x)	וְ_הֶאֱמִ֖ן_ בַּֽיהוָ֑ה (Gen. 15:6)
+NIV	_Abram believed_ the LORD, and he credited it to him as righteousness.
+ESV	And _he believed_ the Lord, and he counted it to him as righteousness.
+
+(x)	וְ_עָ֥שָׂה_ לֹ֖ו כְּתֹ֥נֶת פַּסִּֽים׃ (Gen. 37:3)
+NIV	Now Israel loved Joseph more than any of his other sons, because he had been born to him in his old age. and _he made_ a richly ornamented robe for him.
+ESV	Now Israel loved Joseph more than any other of his sons, because he was the son of his old age. And _he made_ him a robe of many colors.
+
+(x)	וְ_חַ֥ם_ הַשֶּׁ֖מֶשׁ (Exod. 16:21)
+NIV	Each morning everyone gathered as much as he needed, and when the sun _grew hot_, it melted away.
+ESV	Morning by morning they gathered it, each as much as he could eat. but when the sun _grew hot_, it melted.
+
+(x)	וְ_שָׁפְט֥וּ_ אֶת־הָעָ֖ם בְּכָל־עֵ֑ת (Exod. 18:26)
+NIV	_They served as judges_ for the people at all times. The difficult cases they brought to Moses, but the simple ones they decided themselves.
+ESV	And _they judged_ the people at all times. Any hard case they brought to Moses, but any small matter they decided themselves.
+
+(x)	וְ_הֹֽושִׁיעָם֙_ מִיַּ֣ד אֹֽיְבֵיהֶ֔ם כֹּ֖ל יְמֵ֣י הַשֹּׁופֵ֑ט (Judg. 2:18)
+NIV	Whenever the LORD raised up a judge for them, he was with the judge and _saved_ them out of the hands of their enemies as long as the judge lived. for the LORD had compassion on them as they groaned under those who oppressed and afflicted them.
+ESV	Whenever the Lord raised up judges for them, the Lord was with the judge, and _he saved_ them from the hand of their enemies all the days of the judge. For the Lord was moved to pity by their groaning because of those who afflicted and oppressed them.
+
+(x)	כָל־הָרֹאֶ֗ה וְ_אָמַר֙_ (Judg. 19:30)
+NIV	Everyone who saw it _said_, “Such a thing has never been seen or done, not since the day the Israelites came up out of Egypt. Think about it! Consider it! Tell us what to do!”
+ESV	And all who saw it _said_, “Such a thing has never happened or been seen from the day that the people of Israel came up out of the land of Egypt until this day. consider it, take counsel, and speak.”
+
+(x)	וְ_אָמְר֗וּ_ (I Sam. 5:7)
+NIV	When the men of Ashdod saw what was happening, _they said_, “The ark of the god of Israel must not stay here with us, because his hand is heavy upon us and upon Dagon our god.”
+ESV	And when the men of Ashdod saw how things were, _they said_, “The ark of the God of Israel must not remain with us, for his hand is hard against us and against Dagon our god.”
+
+(x)	וְ_רָאָ֨ה_ שָׁא֜וּל כָּל־אִ֤ישׁ גִּבֹּור֙ וְכָל־בֶּן־חַ֔יִל (I Sam. 14:52)
+NIV	All the days of Saul there was bitter war with the Philistines, and whenever Saul _saw_ a mighty or brave man, he took him into his service.
+ESV	There was hard fighting against the Philistines all the days of Saul. And when Saul _saw_ any strong man, or any valiant man, he attached him to himself.
+
+(x)	וּ_בָ֥א_ (II Sam. 12:16)
+NIV	David pleaded with God for the child. He fasted and _went into_ his house and spent the nights lying on the ground.
+ESV	David therefore sought God on behalf of the child. And David fasted and _went in_ and lay all night on the ground.
+
+(x)	וְ_נָעַ֥ל_ הַדֶּ֖לֶת אַחֲרֶֽיהָ׃ (II Sam. 13:18)
+NIV	So his servant put her out and _bolted_ the door after her. She was wearing a richly ornamented robe, for this was the kind of garment the virgin daughters of the king wore.
+ESV	Now she was wearing a long robe with sleeves, for thus were the virgin daughters of the king dressed. So his servant put her out and _bolted_ the door after her.
+
+(x)	וְ_עָבְרָ֣ה_ הָעֲבָרָ֗ה לַֽעֲבִיר֙ אֶת־בֵּ֣ית הַמֶּ֔לֶךְ וְלַעֲשֹׂ֥ות הַטֹּ֖וב בְּעֵינָ֑יו (II Sam. 19:19)
+NIV	_They crossed_ at the ford to take the king’s household over and to do whatever he wished. When Shimei son of Gera crossed the Jordan, he fell prostrate before the king
+ESV	and _they crossed_ the ford to bring over the king’s household and to do his pleasure. And Shimei the son of Gera fell down before the king, as he was about to cross the Jordan,
+
+(x)	וְ_קָלַ֤ע_ כְּרוּבִים֙ וְתִ֣מֹרֹ֔ות וּפְטֻרֵ֖י צִצִּ֑ים (I Kgs. 6:35)
+NIV	_He carved_ cherubim, palm trees and open flowers on them and overlaid them with gold hammered evenly over the carvings.
+ESV	On them _he carved_ cherubim and palm trees and open flowers, and he overlaid them with gold evenly applied on t_he carved_ work.
+
+(x)	וְ_שִׁלַּ֖ם_ אֶת־הַבָּֽיִת׃ (I Kgs. 9:25)
+NIV	Three times a year Solomon sacrificed burnt offerings and fellowship offerings on the altar he had built for the LORD, burning incense before the LORD along with them, and so _fulfilled_ the temple obligations.
+ESV	Three times a year Solomon used to offer up burnt offerings and peace offerings on the altar that he built to the Lord, making offerings with it before the Lord. So _he finished_ the house.
+
+(x)	וְ_נִשְׁמַ֣ר_ שָׁ֑ם (II Kgs. 6:10)
+NIV	So the king of Israel checked on the place indicated by the man of God. Time and again Elisha warned the king, so that _he was on his guard_ in such places.
+ESV	And the king of Israel sent to the place about which the man of God told him. Thus he used to warn him, so that _he saved himself_ there more than once or twice.
+
+(x)	וְ_שִׁבַּר֙_ אֶת־הַמַּצֵּבֹ֔ת (II Kgs. 18:4)
+NIV	He removed the high places, _smashed_ the sacred stones and cut down the Asherah poles. He broke into pieces the bronze snake Moses had made, for up to that time the Israelites had been burning incense to it. ( It was called Nehushtan. )
+ESV	He removed the high places and _broke_ the pillars and cut down the Asherah. And he _broke_ in pieces the bronze serpent that Moses had made, for until those days the people of Israel had made offerings to it ( it was called Nehushtan ).
+
+(x)	וְ_הָיָ֤ה_ יְהוָה֙ עִמֹּ֔ו (II Kgs. 18:7)
+NIV	And the LORD _was_ with him. he _was_ successful in whatever he undertook. He rebelled against the king of Assyria and did not serve him.
+ESV	And the Lord _was_ with him. wherever he went out, he prospered. He rebelled against the king of Assyria and would not serve him.
+
+(x)	וְ_נָשָׂ֥א_ אֶת־עֲפָרָ֖ם בֵּֽית־אֵֽל׃ (II Kgs. 23:4)
+NIV	The king ordered Hilkiah the high priest, the priests next in rank and the doorkeepers to remove from the temple of the LORD all the articles made for Baal and Asherah and all the starry hosts. He burned them outside Jerusalem in the fields of the Kidron Valley and _took_ the ashes to Bethel.
+ESV	And the king commanded Hilkiah the high priest and the priests of the second order and the keepers of the threshold to bring out of the temple of the Lord all the vessels made for Baal, for Asherah, and for all the host of heaven. He burned them outside Jerusalem in the fields of the Kidron and _carried_ their ashes to Bethel.
+
+(x)	וְ_טִמֵּ֣א_ אֶת־הַתֹּ֔פֶת אֲשֶׁ֖ר בְּגֵ֣י בֶן־הִנֹּ֑ם לְבִלְתִּ֗י לְהַעֲבִ֨יר אִ֜ישׁ אֶת־בְּנֹ֧ו וְאֶת־בִּתֹּ֛ו בָּאֵ֖שׁ לַמֹּֽלֶךְ׃ (II Kgs. 23:10)
+NIV	_He desecrated_ Topheth, which was in the Valley of Ben Hinnom, so no-one could use it to sacrifice his son or daughter in the fire to Molech.
+ESV	And _he defiled_ Topheth, which is in the Valley of the Son of Hinnom, that no one might burn his son or his daughter as an offering to Molech.
+
+(x)	וְ_שָׂרַ֥ף_ אֲשֵׁרָֽה׃ (II Kgs. 23:15)
+NIV	Even the altar at Bethel, the high place made by Jeroboam son of Nebat, who had caused Israel to sin — even that altar and high place he demolished. He _burned_ the high place and ground it to powder, and _burned_ the Asherah pole also.
+ESV	Moreover, the altar at Bethel, the high place erected by Jeroboam the son of Nebat, who made Israel to sin, that altar with the high place he pulled down and burned, reducing it to dust. He also burned the Asherah.
+
+(x)	וְ_אָכַ֨ל_ לֶ֧חֶם תָּמִ֛יד לְפָנָ֖יו כָּל־יְמֵ֥י חַיָּֽיו׃ (II Kgs. 25:29)
+NIV	So Jehoiachin put aside his prison clothes and for the rest of his life _ate_ regularly at the king’s table.
+ESV	So Jehoiachin put off his prison garments. And every day of his life _he dined_ regularly at the king’s table,
+
+(x)	וְ_נָתַ֣ן_ לְרֵעֵ֑הוּ (Ruth 4:7)
+NIV	( Now in earlier times in Israel, for the redemption and transfer of property to become final, one party took off his sandal and _gave_ it to the other. This was the method of legalising transactions in Israel. )
+ESV	Now this was the custom in former times in Israel concerning redeeming and exchanging: to confirm a transaction, the one drew off his sandal and _gave_ it to the other, and this was the manner of attesting in Israel.
+
+(x)	וְ_קִבְּלוּ֙_ הַכֹּהֲנִ֣ים וְהַלְוִיִּ֔ם מִשְׁקַ֛ל הַכֶּ֥סֶף וְהַזָּהָ֖ב וְהַכֵּלִ֑ים לְהָבִ֥יא לִירוּשָׁלִַ֖ם לְבֵ֥ית אֱלֹהֵֽינוּ׃ פ (Ezra 8:30)
+NIV	Then the priests and Levites _received_ the silver and gold and sacred articles that had been weighed out to be taken to the house of our God in Jerusalem.
+ESV	So the priests and the Levites _took over_ the weight of the silver and the gold and the vessels, to bring them to Jerusalem, to the house of our God.
+
+(x)	בְּנָיָ֨ה בֶן־יְהֹויָדָ֧ע בֶּן־אִֽישׁ־חַ֛יִל רַב־פְּעָלִ֖ים מִֽן־קַבְצְאֵ֑ל ה֣וּא הִכָּ֗ה אֵ֣ת שְׁנֵ֤י אֲרִיאֵל֙ מֹואָ֔ב וְ֠הוּא יָרַ֞ד וְ_הִכָּ֧ה_ אֶֽת־הָאֲרִ֛י בְּתֹ֥וךְ הַבֹּ֖ור בְּיֹ֥ום הַשָּֽׁלֶג׃ וְהֽוּא־הִכָּה֩ אֶת־הָאִ֨ישׁ הַמִּצְרִ֜י אִ֥ישׁ מִדָּ֣ה׀ חָמֵ֣שׁ בָּאַמָּ֗ה (I Chr. 11:22)
+NIV	Benaiah son of Jehoiada was a valiant fighter from Kabzeel, who performed great exploits. He struck down two of Moab’s best men. He also went down into a pit on a snowy day and _killed_ a lion.
+ESV	And Benaiah the son of Jehoiada was a valiant man of Kabzeel, a doer of great deeds. He _struck down_ two heroes of Moab. He also went down and _struck down_ a lion in a pit on a day when snow had fallen.
+
+(x)	וֶ_הֱשִׁב֖וּם_ אֶל־תָּ֥א הָרָצִֽים׃ (II Chr. 12:11)
+NIV	Whenever the king went to the LORD’s temple, the guards went with him, bearing the shields, and afterwards _they returned_ them to the guardroom.
+ESV	And as often as the king went into the house of the Lord, the guard came and carried them and brought them back to the guardroom.
+
+(x)	וְ_הֵדַ֔ק_ (II Chr. 34:4)
+NIV	Under his direction the altars of the Baals were torn down. he cut to pieces the incense altars that were above them, and smashed the Asherah poles, the idols and the images. These _he broke to pieces_ and scattered over the graves of those who had sacrificed to them.
+ESV	And they chopped down the altars of the Baals in his presence, and he cut down the incense altars that stood above them. And he broke in pieces the Asherim and the carved and the metal images, and _he made dust_ of them and scattered it over the graves of those who had sacrificed to them.

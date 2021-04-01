@@ -1,27 +1,101 @@
 eng_TAMsimp.isin(["FUT", "FUT ~ MOD shall"]) and person == "p3" and clause_type.isin(["xYqX"])
-25 of 414
-shall leave, will leave (ESV, NIV | BHS עַל־כֵּן֙ יַֽעֲזָב־אִ֔ישׁ אֶת־אָבִ֖יו וְאֶת־אִמֹּ֑ו , Gen. 2:24)
-will lift up (ESV, NIV | BHS בְּעֹ֣וד׀ שְׁלֹ֣שֶׁת יָמִ֗ים יִשָּׂ֤א פַרְעֹה֙ אֶת־רֹאשֶׁ֔ךָ , Gen. 40:13)
-shall rest, will rest (ESV, NIV | BHS אָ֚ז תִּשְׁבַּ֣ת הָאָ֔רֶץ , Lev. 26:34)
-will do (ESV, NIV | BHS כֵּֽן־יַעֲשֶׂ֞ה יְהוָ֤ה אֱלֹהֶ֨יךָ֙ לְכָל־הָ֣עַמִּ֔ים , Deut. 7:19)
-will choose (ESV, NIV | BHS אֲשֶׁ֤ר יִבְחַר֙ יְהוָ֣ה אֱלֹהֶ֔יךָ , Deut. 16:11)
-shall distress, will inflict (ESV, NIV | BHS אֲשֶׁ֨ר יָצִ֥יק לְךָ֛ אֹיִבְךָ֖ בִּשְׁעָרֶֽיךָ׃ , Deut. 28:57)
-will bring (ESV, NIV | BHS כֵּן֩ יָבִ֨יא יְהוָ֜ה עֲלֵיכֶ֗ם אֵ֚ת כָּל־הַדָּבָ֣ר הָרָ֔ע , Josh. 23:15)
-will do (ESV, NIV | BHS מַה־יַּֽעֲשֶׂה־לִּ֖י אֱלֹהִֽים׃ , I Sam. 22:3)
-will go over, will cross over (ESV, NIV | BHS כִּמְעַ֞ט יַעֲבֹ֧ר עַבְדְּךָ֛ אֶת־הַיַּרְדֵּ֖ן אֶת־הַמֶּ֑לֶךְ , II Sam. 19:37)
-will heal (ESV, NIV | BHS כִּֽי־יִרְפָּ֥א יְהוָ֖ה לִ֑י , II Kgs. 20:8)
-will come forth, will spring up (ESV, NIV | BHS כִּֽי־מִשֹּׁ֤רֶשׁ נָחָשׁ֙ יֵ֣צֵא צֶ֔פַע , Isa. 14:29)
-will be trodden, will be trampled (ESV, NIV | BHS בְּרַגְלַ֖יִם תֵּֽרָמַ֑סְנָה עֲטֶ֥רֶת גֵּא֖וּת שִׁכֹּורֵ֥י אֶפְרָֽיִם׃ , Isa. 28:3)
-will surely deliver (ESV, NIV | BHS הַצֵּ֥ל יַצִּילֵ֖נוּ יְהוָ֑ה , Isa. 36:15)
-will surely separate, will surely exclude (ESV, NIV | BHS הַבְדֵּ֧ל יַבְדִּילַ֛נִי יְהוָ֖ה מֵעַ֣ל עַמֹּ֑ו , Isa. 56:3)
-will come (ESV, NIV | BHS כִּ֣י פִתְאֹ֔ם יָבֹ֥א הַשֹּׁדֵ֖ד עָלֵֽינוּ׃ , Jer. 6:26)
-shall be bought, will be bought (ESV, NIV | BHS עֹ֣וד יִקָּנ֥וּ בָתִּ֛ים וְשָׂדֹ֥ות וּכְרָמִ֖ים בָּאָ֥רֶץ הַזֹּֽאת׃ פ , Jer. 32:15)
-shall fall, will fall (ESV, NIV | BHS לָכֵ֛ן יִפְּל֥וּ בַחוּרֶ֖יהָ בִּרְחֹבֹתֶ֑יהָ , Jer. 49:26)
-shall be quenched, will be quenched (ESV, NIV | BHS לֹֽא־תִכְבֶּה֙ לַהֶ֣בֶת שַׁלְהֶ֔בֶת , Ezek. 21:3)
-shall dwell, will live (ESV, NIV | BHS כִּ֣י׀ יָמִ֣ים רַבִּ֗ים יֵֽשְׁבוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל , Hos. 3:4)
-shall come, will come (ESV, NIV | BHS עַד־עֲדֻלָּ֥ם יָבֹ֖וא כְּבֹ֥וד יִשְׂרָאֵֽל׃ , Mic. 1:15)
-shall come, will come (ESV, NIV | BHS אֲשֶׁ֣ר יָבֹ֣אוּ עַמִּ֔ים וְיֹשְׁבֵ֖י עָרִ֥ים רַבֹּֽות׃ , Zech. 8:20)
-shall fear, will fear (ESV, NIV | BHS לֹֽא־יִירָ֪א לִ֫בִּ֥י , Psa. 27:3)
-he will be, will be (ESV, NIV | BHS לְזֵ֥כֶר עֹ֝ולָ֗ם יִהְיֶ֥ה צַדִּֽיק׃ , Psa. 112:6)
-will be multiplied, will be many (ESV, NIV | BHS כִּי־בִ֭י יִרְבּ֣וּ יָמֶ֑יךָ , Prov. 9:11)
-shall be, will remain (ESV, NIV | BHS בִּירוּשָׁלִַ֥ם יִֽהְיֶה־שְּׁמִ֖י לְעֹולָֽם׃ , II Chr. 33:4)
+25 of 415
+(x)	עַל־כֵּן֙ _יַֽעֲזָב_־אִ֔ישׁ אֶת־אָבִ֖יו וְאֶת־אִמֹּ֑ו (Gen. 2:24)
+NIV	For this reason a man _will leave_ his father and mother and be united to his wife, and they will become one flesh.
+ESV	Therefore a man _shall leave_ his father and his mother and hold fast to his wife, and they shall become one flesh.
+
+(x)	בְּעֹ֣וד׀ שְׁלֹ֣שֶׁת יָמִ֗ים _יִשָּׂ֤א_ פַרְעֹה֙ אֶת־רֹאשֶׁ֔ךָ (Gen. 40:13)
+NIV	Within three days Pharaoh _will lift up_ your head and restore you to your position, and you will put Pharaoh’s cup in his hand, just as you used to do when you were his cupbearer.
+ESV	In three days Pharaoh _will lift up_ your head and restore you to your office, and you shall place Pharaoh’s cup in his hand as formerly, when you were his cupbearer.
+
+(x)	אָ֚ז _תִּשְׁבַּ֣ת_ הָאָ֔רֶץ (Lev. 26:34)
+NIV	Then the land will enjoy its sabbath years all the time that it lies desolate and you are in the country of your enemies. then the land _will rest_ and enjoy its sabbaths.
+ESV	“Then the land shall enjoy its Sabbaths as long as it lies desolate, while you are in your enemies’ land. then the land _shall rest_, and enjoy its Sabbaths.
+
+(x)	כֵּֽן־_יַעֲשֶׂ֞ה_ יְהוָ֤ה אֱלֹהֶ֨יךָ֙ לְכָל־הָ֣עַמִּ֔ים אֲשֶׁר־אַתָּ֥ה יָרֵ֖א מִפְּנֵיהֶֽם׃ (Deut. 7:19)
+NIV	You saw with your own eyes the great trials, the miraculous signs and wonders, the mighty hand and outstretched arm, with which the LORD your God brought you out. The LORD your God _will do_ the same to all the peoples you now fear.
+ESV	the great trials that your eyes saw, the signs, the wonders, the mighty hand, and the outstretched arm, by which the Lord your God brought you out. So will the Lord your God do to all the peoples of whom you are afraid.
+
+(x)	וְשָׂמַחְתָּ֞ לִפְנֵ֣י׀ יְהוָ֣ה אֱלֹהֶ֗יךָ אַתָּ֨ה וּבִנְךָ֣ וּבִתֶּךָ֮ וְעַבְדְּךָ֣ וַאֲמָתֶךָ֒ וְהַלֵּוִי֙ אֲשֶׁ֣ר בִּשְׁעָרֶ֔יךָ וְהַגֵּ֛ר וְהַיָּתֹ֥ום וְהָאַלְמָנָ֖ה אֲשֶׁ֣ר בְּקִרְבֶּ֑ךָ בַּמָּקֹ֗ום אֲשֶׁ֤ר _יִבְחַר֙_ יְהוָ֣ה אֱלֹהֶ֔יךָ לְשַׁכֵּ֥ן שְׁמֹ֖ו שָֽׁם׃ (Deut. 16:11)
+NIV	And rejoice before the LORD your God at the place he _will choose_ as a dwelling for his Name — you, your sons and daughters, your menservants and maidservants, the Levites in your towns, and the aliens, the fatherless and the widows living among you.
+ESV	And you shall rejoice before the Lord your God, you and your son and your daughter, your male servant and your female servant, the Levite who is within your towns, the sojourner, the fatherless, and the widow who are among you, at the place that the Lord your God _will choose_, to make his name dwell there.
+
+(x)	כִּֽי־תֹאכְלֵ֥ם בְּחֹֽסֶר־כֹּ֖ל בַּסָּ֑תֶר בְּמָצֹור֙ וּבְמָצֹ֔וק אֲשֶׁ֨ר _יָצִ֥יק_ לְךָ֛ אֹיִבְךָ֖ בִּשְׁעָרֶֽיךָ׃ (Deut. 28:57)
+NIV	the afterbirth from her womb and the children she bears. For she intends to eat them secretly during the siege and in the distress that your enemy _will inflict_ on you in your cities.
+ESV	her afterbirth that comes out from between her feet and her children whom she bears, because lacking everything she will eat them secretly, in the siege and in the distress with which your enemy _shall distress_ you in your towns.
+
+(x)	כַּאֲשֶׁר־בָּ֤א עֲלֵיכֶם֙ כָּל־הַדָּבָ֣ר הַטֹּ֔וב אֲשֶׁ֥ר דִּבֶּ֛ר יְהוָ֥ה אֱלֹהֵיכֶ֖ם אֲלֵיכֶ֑ם כֵּן֩ _יָבִ֨יא_ יְהוָ֜ה עֲלֵיכֶ֗ם אֵ֚ת כָּל־הַדָּבָ֣ר הָרָ֔ע עַד־הַשְׁמִידֹ֣ו אֹותְכֶ֗ם מֵ֠עַל הָאֲדָמָ֤ה הַטֹּובָה֙ הַזֹּ֔את אֲשֶׁר֙ נָתַ֣ן לָכֶ֔ם יְהוָ֖ה אֱלֹהֵיכֶֽם׃ (Josh. 23:15)
+NIV	But just as every good promise of the LORD your God has come true, so the LORD _will bring_ on you all the evil he has threatened, until he has destroyed you from this good land he has given you.
+ESV	But just as all the good things that the Lord your God promised concerning you have been fulfilled for you, so the Lord _will bring_ upon you all the evil things, until he has destroyed you from off this good land that the Lord your God has given you,
+
+(x)	יֵֽצֵא־נָ֞א אָבִ֤י וְאִמִּי֙ אִתְּכֶ֔ם עַ֚ד אֲשֶׁ֣ר אֵדַ֔ע מַה־_יַּֽעֲשֶׂה_־לִּ֖י אֱלֹהִֽים׃ (I Sam. 22:3)
+NIV	From there David went to Mizpah in Moab and said to the king of Moab, “Would you let my father and mother come and stay with you until I learn what God _will do_ for me?”
+ESV	And David went from there to Mizpeh of Moab. And he said to the king of Moab, “Please let my father and my mother stay with you, till I know what God _will do_ for me.”
+
+(x)	כִּמְעַ֞ט _יַעֲבֹ֧ר_ עַבְדְּךָ֛ אֶת־הַיַּרְדֵּ֖ן אֶת־הַמֶּ֑לֶךְ (II Sam. 19:37)
+NIV	Your servant _will cross over_ the Jordan with the king for a short distance, but why should the king reward me in this way?
+ESV	Your servant will go a little way over the Jordan with the king. Why should the king repay me with such a reward?
+
+(x)	כִּ֚י _יַעֲשֶׂ֣ה_ יְהוָ֔ה אֶת־הַדָּבָ֖ר אֲשֶׁ֣ר דִּבֵּ֑ר (II Kgs. 20:9)
+NIV	Isaiah answered, “This is the LORD’s sign to you that the LORD _will do_ what he has promised: Shall the shadow go forward ten steps, or shall it go back ten steps?”
+ESV	And Isaiah said, “This shall be the sign to you from the Lord, that the Lord _will do_ the thing that he has promised: shall the shadow go forward ten steps, or go back ten steps?”
+
+(x)	כִּֽי־מִשֹּׁ֤רֶשׁ נָחָשׁ֙ _יֵ֣צֵא_ צֶ֔פַע (Isa. 14:29)
+NIV	Do not rejoice, all you Philistines, that the rod that struck you is broken. from the root of that snake _will spring up_ a viper, its fruit will be a darting, venomous serpent.
+ESV	Rejoice not, O Philistia, all of you, that the rod that struck you is broken, for from the serpent’s root _will come forth_ an adder, and its fruit will be a flying fiery serpent.
+
+(x)	בְּרַגְלַ֖יִם _תֵּֽרָמַ֑סְנָה_ עֲטֶ֥רֶת גֵּא֖וּת שִׁכֹּורֵ֥י אֶפְרָֽיִם׃ (Isa. 28:3)
+NIV	That wreath, the pride of Ephraim’s drunkards, _will be trampled_ underfoot.
+ESV	The proud crown of the drunkards of Ephraim _will be trodden_ underfoot.
+
+(x)	הַצֵּ֥ל _יַצִּילֵ֖נוּ_ יְהוָ֑ה (Isa. 36:15)
+NIV	Do not let Hezekiah persuade you to trust in the LORD when he says, ‘The LORD _will surely deliver_ us. this city will not be given into the hand of the king of Assyria.’
+ESV	Do not let Hezekiah make you trust in the Lord by saying, “The Lord _will surely deliver_ us. This city will not be given into the hand of the king of Assyria.”
+
+(x)	אָ֣ז _יִבָּקַ֤ע_ כַּשַּׁ֨חַר֙ אֹורֶ֔ךָ (Isa. 58:8)
+NIV	Then your light _will break forth_ like the dawn, and your healing will quickly appear. then your righteousness will go before you, and the glory of the LORD will be your rear guard.
+ESV	Then shall your light break forth like the dawn, and your healing shall spring up speedily. your righteousness shall go before you. the glory of the Lord shall be your rear guard.
+
+(x)	כִּ֥י לְחָרְבָּ֖ה _תִּהְיֶ֥ה_ הָאָֽרֶץ׃ (Jer. 7:34)
+NIV	I will bring an end to the sounds of joy and gladness and to the voices of bride and bridegroom in the towns of Judah and the streets of Jerusalem, for the land _will become_ desolate.
+ESV	And I will silence in the cities of Judah and in the streets of Jerusalem the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride, for the land _shall become_ a waste.
+
+(x)	עֹ֣וד _יִקָּנ֥וּ_ בָתִּ֛ים וְשָׂדֹ֥ות וּכְרָמִ֖ים בָּאָ֥רֶץ הַזֹּֽאת׃ פ (Jer. 32:15)
+NIV	For this is what the LORD Almighty, the God of Israel, says: Houses, fields and vineyards will again be bought in this land.’
+ESV	For thus says the Lord of hosts, the God of Israel: Houses and fields and vineyards shall again be bought in this land.’
+
+(x)	לָכֵ֛ן _יִפְּל֥וּ_ בַחוּרֶ֖יהָ בִּרְחֹבֹתֶ֑יהָ (Jer. 49:26)
+NIV	Surely, her young men _will fall_ in the streets. all her soldiers will be silenced in that day,” declares the LORD Almighty.
+ESV	Therefore her young men _shall fall_ in her squares, and all her soldiers shall be destroyed in that day, declares the Lord of hosts.
+
+(x)	יַ֛עַן אֲשֶׁר־הִכְרַ֥תִּי מִמֵּ֖ךְ צַדִּ֣יק וְרָשָׁ֑ע לָ֠כֵן _תֵּצֵ֨א_ חַרְבִּ֧י מִתַּעְרָ֛הּ אֶל־כָּל־בָּשָׂ֖ר מִנֶּ֥גֶב צָפֹֽון׃ (Ezek. 21:9)
+NIV	Because I am going to cut off the righteous and the wicked, my sword _will be unsheathed_ against everyone from south to north.
+ESV	Because I will cut off from you both righteous and wicked, therefore my sword _shall be drawn_ from its sheath against all flesh from south to north.
+
+(x)	אַחַ֗ר _יָשֻׁ֨בוּ֙_ בְּנֵ֣י יִשְׂרָאֵ֔ל (Hos. 3:5)
+NIV	Afterwards the Israelites _will return_ and seek the LORD their God and David their king. They will come trembling to the LORD and to his blessings in the last days.
+ESV	Afterward the children of Israel _shall return_ and seek the Lord their God, and David their king, and they shall come in fear to the Lord and to his goodness in the latter days.
+
+(x)	לֹֽא־_יִֽהְיֶ֣ה_ לְךָ֔ מַשְׁלִ֥יךְ חֶ֖בֶל בְּגֹורָ֑ל בִּקְהַ֖ל יְהוָֽה׃ (Mic. 2:5)
+NIV	Therefore you _will have_ no-one in the assembly of the LORD to divide the land by lot.
+ESV	Therefore you _will have_ none to cast the line by lot in the assembly of the Lord.
+
+(x)	עֹ֚ד אֲשֶׁ֣ר _יָבֹ֣אוּ_ עַמִּ֔ים וְיֹשְׁבֵ֖י עָרִ֥ים רַבֹּֽות׃ (Zech. 8:20)
+NIV	This is what the LORD Almighty says: “Many peoples and the inhabitants of many cities will yet come,
+ESV	“Thus says the Lord of hosts: Peoples shall yet come, even the inhabitants of many cities.
+
+(x)	הֲ_יֹודְךָ֥_ עָפָ֑ר (Psa. 30:10)
+NIV	“What gain is there in my destruction, in my going down into the pit? Will the dust praise you? Will it proclaim your faithfulness?
+ESV	“What profit is there in my death, if I go down to the pit? Will the dust praise you? Will it tell of your faithfulness?
+
+(x)	אַל־_יָ֝נ֗וּם_ שֹֽׁמְרֶֽךָ׃ (Psa. 121:3)
+NIV	He will not let your foot slip — he who watches over you will not slumber.
+ESV	He will not let your foot be moved. he who keeps you will not slumber.
+
+(x)	כִּי־בִ֭י _יִרְבּ֣וּ_ יָמֶ֑יךָ (Prov. 9:11)
+NIV	For through me your days _will be many_, and years will be added to your life.
+ESV	For by me your days _will be multiplied_, and years will be added to your life.
+
+(x)	בִּירוּשָׁלִַ֥ם _יִֽהְיֶה_־שְּׁמִ֖י לְעֹולָֽם׃ (II Chr. 33:4)
+NIV	He built altars in the temple of the LORD, of which the LORD had said, “My Name _will remain_ in Jerusalem forever.”
+ESV	And he built altars in the house of the Lord, of which the Lord had said, “In Jerusalem shall my name be forever.”

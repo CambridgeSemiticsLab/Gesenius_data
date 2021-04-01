@@ -1,27 +1,101 @@
 eng_TAMsimp == "PAST" and mother_verbtype == "wayq"
 25 of 81
-were ashamed, felt shame (ESV, NIV | BHS וַיִּֽהְי֤וּ שְׁנֵיהֶם֙ עֲרוּמִּ֔ים הָֽאָדָ֖ם וְאִשְׁתֹּ֑ו וְלֹ֖א יִתְבֹּשָֽׁשׁוּ׃ , Gen. 2:25)
-was ruined (ESV, NIV | BHS וַיָּבֹא֙ עָרֹ֣ב כָּבֵ֔ד בֵּ֥יתָה פַרְעֹ֖ה וּבֵ֣ית עֲבָדָ֑יו וּבְכָל־אֶ֧רֶץ מִצְרַ֛יִם תִּשָּׁחֵ֥ת הָאָ֖רֶץ מִפְּנֵ֥י הֶעָרֹֽב׃ , Exod. 8:20)
-spoke, said (ESV, NIV | BHS וַיְהִ֞י אָ֣ז יְדַבֵּ֤ר יְהֹושֻׁעַ֙ לַֽיהוָ֔ה בְּיֹ֗ום , Josh. 10:12)
-was moved to pity, had compassion (ESV, NIV | BHS וַיָּ֥קֶם יְהוָ֖ה שֹֽׁפְטִ֑ים כִּֽי־יִנָּחֵ֤ם יְהוָה֙ מִנַּֽאֲקָתָ֔ם מִפְּנֵ֥י לֹחֲצֵיהֶ֖ם וְדֹחֲקֵיהֶֽם׃ , Judg. 2:18)
-turned (ESV, NIV | BHS וַיֵּצֵ֧א הַמַּשְׁחִ֛ית מִמַּחֲנֵ֥ה פְלִשְׁתִּ֖ים שְׁלֹשָׁ֣ה רָאשִׁ֑ים הָרֹ֨אשׁ אֶחָ֥ד יִפְנֶ֛ה אֶל־דֶּ֥רֶךְ עָפְרָ֖ה אֶל־אֶ֥רֶץ שׁוּעָֽל׃ , I Sam. 13:17)
-came (ESV, NIV | BHS וַיַּ֨עַשׂ אַבְשָׁלֹ֜ום כַּדָּבָ֤ר הַזֶּה֙ לְכָל־יִשְׂרָאֵ֔ל אֲשֶׁר־יָבֹ֥אוּ לַמִּשְׁפָּ֖ט אֶל־הַמֶּ֑לֶךְ , II Sam. 15:6)
-he sent, he reached down (ESV, NIV | BHS וַיִּשְׁמַ֤ע מֵהֵֽיכָלֹו֙ קֹולִ֔י יִשְׁלַ֥ח מִמָּרֹ֖ום , II Sam. 22:17)
-they were exported, they exported (ESV, NIV | BHS וַתֵּצֵ֨א מֶרְכָּבָ֤ה מִמִּצְרַ֨יִם֙ בְּשֵׁ֣שׁ מֵאֹ֣ות כֶּ֔סֶף וְ֠כֵן לְכָל־מַלְכֵ֧י הַחִתִּ֛ים וּלְמַלְכֵ֥י אֲרָ֖ם בְּיָדָ֥ם יֹצִֽאוּ׃ פ , I Kgs. 10:29)
-revolted (ESV, NIV | BHS וַיִּפְשַׁ֣ע אֱדֹ֗ום מִתַּ֨חַת֙ יַד־יְהוּדָ֔ה עַ֖ד הַיֹּ֣ום הַזֶּ֑ה אָ֛ז תִּפְשַׁ֥ע לִבְנָ֖ה בָּעֵ֥ת הַהִֽיא׃ , II Kgs. 8:22)
-showed (ESV, NIV | BHS וַיְלַמְּדֵ֣הוּ דַ֔עַת וְדֶ֥רֶךְ תְּבוּנֹ֖ות יֹודִיעֶֽנּוּ׃ , Isa. 40:14)
-fled (ESV, NIV | BHS וַתִּבָּקַ֣ע הָעִ֗יר וְכָל־אַנְשֵׁ֣י הַמִּלְחָמָ֡ה יִבְרְחוּ֩ , Jer. 52:7)
-your beauty became (ESV, NIV | BHS וַתִּשְׁפְּכִ֧י אֶת־תַּזְנוּתַ֛יִךְ עַל־כָּל־עֹובֵ֖ר לֹו־יֶֽהִי׃ , Ezek. 16:15)
-surrounded, swirled (ESV, NIV | BHS וַתַּשְׁלִיכֵ֤נִי מְצוּלָה֙ בִּלְבַ֣ב יַמִּ֔ים וְנָהָ֖ר יְסֹבְבֵ֑נִי , Jonah 2:4)
-he sent, he reached down (ESV, NIV | BHS וַיַּרְעֵ֬ם בַּשָּׁמַ֨יִם׀ יְֽהוָ֗ה יִשְׁלַ֣ח מִ֭מָּרֹום , Psa. 18:17)
-he split (ESV, NIV | BHS וַיַּנְחֵ֣ם בֶּעָנָ֣ן יֹומָ֑ם יְבַקַּ֣ע צֻ֭רִים בַּמִּדְבָּ֑ר , Psa. 78:15)
-he destroyed (ESV, NIV | BHS וַיִּתֵּ֣ן לֶחָסִ֣יל יְבוּלָ֑ם יַהֲרֹ֣ג בַּבָּרָ֣ד גַּפְנָ֑ם , Psa. 78:47)
-it sent out (ESV, NIV | BHS וַתְּמַלֵּא־אָֽרֶץ׃ תְּשַׁלַּ֣ח קְצִירֶ֣הָ עַד־יָ֑ם , Psa. 80:12)
-they took possession, they fell heir (ESV, NIV | BHS וַיִּתֵּ֣ן לָ֭הֶם אַרְצֹ֣ות גֹּויִ֑ם וַעֲמַ֖ל לְאֻמִּ֣ים יִירָֽשׁוּ׃ , Psa. 105:44)
-burned up, consumed (ESV, NIV | BHS וַתִּבְעַר־אֵ֥שׁ בַּעֲדָתָ֑ם לֶ֝הָבָ֗ה תְּלַהֵ֥ט רְשָׁעִֽים׃ , Psa. 106:18)
-he delivered, he saved (ESV, NIV | BHS וַיִּזְעֲק֣וּ אֶל־יְ֭הוָה בַּצַּ֣ר לָהֶ֑ם מִ֝מְּצֻֽקֹותֵיהֶ֗ם יֹושִׁיעֵֽם׃ , Psa. 107:13)
-he delivered, he brought out (ESV, NIV | BHS וַיִּצְעֲק֣וּ אֶל־יְ֭הוָה בַּצַּ֣ר לָהֶ֑ם וּֽ֝מִמְּצֽוּקֹתֵיהֶ֗ם יֹוצִיאֵֽם׃ , Psa. 107:28)
-made drop, snatched (ESV, NIV | BHS וָֽ֭אֲשַׁבְּרָה מְתַלְּעֹ֣ות עַוָּ֑ל וּ֝מִשִּׁנָּ֗יו אַשְׁלִ֥יךְ טָֽרֶף׃ , Job 29:17)
-repaired, restored (ESV, NIV | BHS וַיִּ֤בֶן הָעִיר֙ מִסָּבִ֔יב מִן־הַמִּלֹּ֖וא וְעַד־הַסָּבִ֑יב וְיֹואָ֕ב יְחַיֶּ֖ה אֶת־שְׁאָ֥ר הָעִֽיר׃ , I Chr. 11:8)
-assembled, summoned (ESV, NIV | BHS וַתִּשְׁלַם֙ כָּל־הַמְּלָאכָ֔ה אָז֩ יַקְהֵ֨יל שְׁלֹמֹ֜ה אֶת־זִקְנֵ֣י יִשְׂרָאֵ֗ל וְאֶת־כָּל־רָאשֵׁ֨י הַמַּטֹּ֜ות נְשִׂיאֵ֧י הָאָבֹ֛ות לִבְנֵ֥י יִשְׂרָאֵ֖ל אֶל־יְרוּשָׁלִָ֑ם , II Chr. 5:2)
-worshiped, bowed down (ESV, NIV | BHS וַיַּֽעֲמִידֵ֥ם לֹ֖ו לֵאלֹהִ֑ים וְלִפְנֵיהֶ֥ם יִֽשְׁתַּחֲוֶ֖ה , II Chr. 25:14)
+(x)	וַיִּֽהְי֤וּ שְׁנֵיהֶם֙ עֲרוּמִּ֔ים הָֽאָדָ֖ם וְאִשְׁתֹּ֑ו וְלֹ֖א _יִתְבֹּשָֽׁשׁוּ_׃ (Gen. 2:25)
+NIV	The man and his wife were both naked, and they felt no shame.
+ESV	And the man and his wife were both naked and were not ashamed.
+
+(x)	וַיָּבֹא֙ עָרֹ֣ב כָּבֵ֔ד בֵּ֥יתָה פַרְעֹ֖ה וּבֵ֣ית עֲבָדָ֑יו וּבְכָל־אֶ֧רֶץ מִצְרַ֛יִם _תִּשָּׁחֵ֥ת_ הָאָ֖רֶץ מִפְּנֵ֥י הֶעָרֹֽב׃ (Exod. 8:20)
+NIV	And the LORD did this. Dense swarms of flies poured into Pharaoh’s palace and into the houses of his officials, and throughout Egypt the land _was ruined_ by the flies.
+ESV	And the Lord did so. There came great swarms of flies into the house of Pharaoh and into his servants’ houses. Throughout all the land of Egypt the land _was ruined_ by the swarms of flies.
+
+(x)	וַיְהִ֞י אָ֣ז _יְדַבֵּ֤ר_ יְהֹושֻׁעַ֙ לַֽיהוָ֔ה בְּיֹ֗ום (Josh. 10:12)
+NIV	On the day the LORD gave the Amorites over to Israel, Joshua _said_ to the LORD in the presence of Israel: “O sun, stand still over Gibeon, O moon, over the Valley of Aijalon.”
+ESV	At that time Joshua _spoke_ to the Lord in the day when the Lord gave the Amorites over to the sons of Israel, and he said in the sight of Israel, “Sun, stand still at Gibeon, and moon, in the Valley of Aijalon.”
+
+(x)	וַיָּ֥קֶם יְהוָ֖ה שֹֽׁפְטִ֑ים כִּֽי־_יִנָּחֵ֤ם_ יְהוָה֙ מִנַּֽאֲקָתָ֔ם מִפְּנֵ֥י לֹחֲצֵיהֶ֖ם וְדֹחֲקֵיהֶֽם׃ (Judg. 2:18)
+NIV	Whenever the LORD raised up a judge for them, he was with the judge and saved them out of the hands of their enemies as long as the judge lived. for the LORD _had compassion_ on them as they groaned under those who oppressed and afflicted them.
+ESV	Whenever the Lord raised up judges for them, the Lord was with the judge, and he saved them from the hand of their enemies all the days of the judge. For the Lord _was moved to pity_ by their groaning because of those who afflicted and oppressed them.
+
+(x)	וַיֵּצֵ֧א הַמַּשְׁחִ֛ית מִמַּחֲנֵ֥ה פְלִשְׁתִּ֖ים שְׁלֹשָׁ֣ה רָאשִׁ֑ים הָרֹ֨אשׁ אֶחָ֥ד _יִפְנֶ֛ה_ אֶל־דֶּ֥רֶךְ עָפְרָ֖ה אֶל־אֶ֥רֶץ שׁוּעָֽל׃ (I Sam. 13:17)
+NIV	Raiding parties went out from the Philistine camp in three detachments. One _turned_ towards Ophrah in the vicinity of Shual,
+ESV	And raiders came out of the camp of the Philistines in three companies. One company _turned_ toward Ophrah, to the land of Shual.
+
+(x)	וַיַּ֨עַשׂ אַבְשָׁלֹ֜ום כַּדָּבָ֤ר הַזֶּה֙ לְכָל־יִשְׂרָאֵ֔ל אֲשֶׁר־_יָבֹ֥אוּ_ לַמִּשְׁפָּ֖ט אֶל־הַמֶּ֑לֶךְ (II Sam. 15:6)
+NIV	Absalom behaved in this way towards all the Israelites who _came_ to the king asking for justice, and so he stole the hearts of the men of Israel.
+ESV	Thus Absalom did to all of Israel who _came_ to the king for judgment. So Absalom stole the hearts of the men of Israel.
+
+(x)	וַיִּשְׁמַ֤ע מֵהֵֽיכָלֹו֙ קֹולִ֔י _יִשְׁלַ֥ח_ מִמָּרֹ֖ום (II Sam. 22:17)
+NIV	“_He reached down_ from on high and took hold of me. he drew me out of deep waters.
+ESV	“_He sent_ from on high, he took me. he drew me out of many waters.
+
+(x)	וַתֵּצֵ֨א מֶרְכָּבָ֤ה מִמִּצְרַ֨יִם֙ בְּשֵׁ֣שׁ מֵאֹ֣ות כֶּ֔סֶף וְ֠כֵן לְכָל־מַלְכֵ֧י הַחִתִּ֛ים וּלְמַלְכֵ֥י אֲרָ֖ם בְּיָדָ֥ם _יֹצִֽאוּ_׃ פ (I Kgs. 10:29)
+NIV	They imported a chariot from Egypt for six hundred shekels of silver, and a horse for a hundred and fifty. They also exported them to all the kings of the Hittites and of the Arameans.
+ESV	A chariot could be imported from Egypt for 600 shekels of silver and a horse for 150, and so through the king’s traders _they were exported_ to all the kings of the Hittites and the kings of Syria.
+
+(x)	וַיִּפְשַׁ֣ע אֱדֹ֗ום מִתַּ֨חַת֙ יַד־יְהוּדָ֔ה עַ֖ד הַיֹּ֣ום הַזֶּ֑ה אָ֛ז _תִּפְשַׁ֥ע_ לִבְנָ֖ה בָּעֵ֥ת הַהִֽיא׃ (II Kgs. 8:22)
+NIV	To this day Edom has been in rebellion against Judah. Libnah _revolted_ at the same time.
+ESV	So Edom _revolted_ from the rule of Judah to this day. Then Libnah _revolted_ at the same time.
+
+(x)	וַיְלַמְּדֵ֣הוּ דַ֔עַת וְדֶ֥רֶךְ תְּבוּנֹ֖ות _יֹודִיעֶֽנּוּ_׃ (Isa. 40:14)
+NIV	Whom did the LORD consult to enlighten him, and who taught him the right way? Who was it that taught him knowledge or _showed_ him the path of understanding?
+ESV	Whom did he consult, and who made him understand? Who taught him the path of justice, and taught him knowledge, and _showed_ him the way of understanding?
+
+(x)	וַתִּבָּקַ֣ע הָעִ֗יר וְכָל־אַנְשֵׁ֣י הַמִּלְחָמָ֡ה _יִבְרְחוּ֩_ (Jer. 52:7)
+NIV	Then the city wall was broken through, and the whole army _fled_. They left the city at night through the gate between the two walls near the king’s garden, though the Babylonians were surrounding the city. They _fled_ towards the Arabah,
+ESV	Then a breach was made in the city, and all the men of war _fled_ and went out from the city by night by the way of a gate between the two walls, by the king’s garden, while the Chaldeans were around the city. And they went in the direction of the Arabah.
+
+(x)	וַתִּשְׁפְּכִ֧י אֶת־תַּזְנוּתַ֛יִךְ עַל־כָּל־עֹובֵ֖ר לֹו־_יֶֽהִי_׃ (Ezek. 16:15)
+NIV	“‘But you trusted in your beauty and used your fame to become a prostitute. You lavished your favours on anyone who passed by and _your beauty became_ his.
+ESV	“But you trusted in your beauty and played the whore because of your renown and lavished your whorings on any passerby. _your beauty became_ his.
+
+(x)	וַתַּשְׁלִיכֵ֤נִי מְצוּלָה֙ בִּלְבַ֣ב יַמִּ֔ים וְנָהָ֖ר _יְסֹבְבֵ֑נִי_ (Jonah 2:4)
+NIV	You hurled me into the deep, into the very heart of the seas, and the currents _swirled_ about me. all your waves and breakers swept over me.
+ESV	For you cast me into the deep, into the heart of the seas, and the flood _surrounded_ me. all your waves and your billows passed over me.
+
+(x)	וַיַּרְעֵ֬ם בַּשָּׁמַ֨יִם׀ יְֽהוָ֗ה _יִשְׁלַ֣ח_ מִ֭מָּרֹום (Psa. 18:17)
+NIV	_He reached down_ from on high and took hold of me. he drew me out of deep waters.
+ESV	_He sent_ from on high, he took me. he drew me out of many waters.
+
+(x)	וַיַּנְחֵ֣ם בֶּעָנָ֣ן יֹומָ֑ם _יְבַקַּ֣ע_ צֻ֭רִים בַּמִּדְבָּ֑ר (Psa. 78:15)
+NIV	_He split_ the rocks in the desert and gave them water as abundant as the seas.
+ESV	_He split_ rocks in the wilderness and gave them drink abundantly as from the deep.
+
+(x)	וַיִּתֵּ֣ן לֶחָסִ֣יל יְבוּלָ֑ם _יַהֲרֹ֣ג_ בַּבָּרָ֣ד גַּפְנָ֑ם (Psa. 78:47)
+NIV	_He destroyed_ their vines with hail and their sycamore-figs with sleet.
+ESV	_He destroyed_ their vines with hail and their sycamores with frost.
+
+(x)	וַתְּמַלֵּא־אָֽרֶץ׃ _תְּשַׁלַּ֣ח_ קְצִירֶ֣הָ עַד־יָ֑ם (Psa. 80:12)
+NIV	_It sent out_ its boughs to the Sea, its shoots as far as the River.
+ESV	_It sent out_ its branches to the sea and its shoots to the River.
+
+(x)	וַיִּתֵּ֣ן לָ֭הֶם אַרְצֹ֣ות גֹּויִ֑ם וַעֲמַ֖ל לְאֻמִּ֣ים _יִירָֽשׁוּ_׃ (Psa. 105:44)
+NIV	he gave them the lands of the nations, and _they fell heir_ to what others had toiled for —
+ESV	And he gave them the lands of the nations, and _they took possession_ of the fruit of the peoples’ toil,
+
+(x)	וַתִּבְעַר־אֵ֥שׁ בַּעֲדָתָ֑ם לֶ֝הָבָ֗ה _תְּלַהֵ֥ט_ רְשָׁעִֽים׃ (Psa. 106:18)
+NIV	Fire blazed among their followers. a flame _consumed_ the wicked.
+ESV	Fire also broke out in their company. the flame _burned up_ the wicked.
+
+(x)	וַיִּזְעֲק֣וּ אֶל־יְ֭הוָה בַּצַּ֣ר לָהֶ֑ם מִ֝מְּצֻֽקֹותֵיהֶ֗ם _יֹושִׁיעֵֽם_׃ (Psa. 107:13)
+NIV	Then they cried to the LORD in their trouble, and _he saved_ them from their distress.
+ESV	Then they cried to the Lord in their trouble, and _he delivered_ them from their distress.
+
+(x)	וַיִּצְעֲק֣וּ אֶל־יְ֭הוָה בַּצַּ֣ר לָהֶ֑ם וּֽ֝מִמְּצֽוּקֹתֵיהֶ֗ם _יֹוצִיאֵֽם_׃ (Psa. 107:28)
+NIV	Then they cried out to the LORD in their trouble, and he brought them out of their distress.
+ESV	Then they cried to the Lord in their trouble, and _he delivered_ them from their distress.
+
+(x)	וָֽ֭אֲשַׁבְּרָה מְתַלְּעֹ֣ות עַוָּ֑ל וּ֝מִשִּׁנָּ֗יו _אַשְׁלִ֥יךְ_ טָֽרֶף׃ (Job 29:17)
+NIV	I broke the fangs of the wicked and _snatched_ the victims from their teeth.
+ESV	I broke the fangs of the unrighteous and made him drop his prey from his teeth.
+
+(x)	וַיִּ֤בֶן הָעִיר֙ מִסָּבִ֔יב מִן־הַמִּלֹּ֖וא וְעַד־הַסָּבִ֑יב וְיֹואָ֕ב _יְחַיֶּ֖ה_ אֶת־שְׁאָ֥ר הָעִֽיר׃ (I Chr. 11:8)
+NIV	He built up the city around it, from the supporting terraces to the surrounding wall, while Joab _restored_ the rest of the city.
+ESV	And he built the city all around from the Millo in complete circuit, and Joab _repaired_ the rest of the city.
+
+(x)	וַתִּשְׁלַם֙ כָּל־הַמְּלָאכָ֔ה אָז֩ _יַקְהֵ֨יל_ שְׁלֹמֹ֜ה אֶת־זִקְנֵ֣י יִשְׂרָאֵ֗ל וְאֶת־כָּל־רָאשֵׁ֨י הַמַּטֹּ֜ות נְשִׂיאֵ֧י הָאָבֹ֛ות לִבְנֵ֥י יִשְׂרָאֵ֖ל אֶל־יְרוּשָׁלִָ֑ם (II Chr. 5:2)
+NIV	Then Solomon _summoned_ to Jerusalem the elders of Israel, all the heads of the tribes and the chiefs of the Israelite families, to bring up the ark of the LORD’s covenant from Zion, the City of David.
+ESV	Then Solomon _assembled_ the elders of Israel and all the heads of the tribes, the leaders of the fathers’ houses of the people of Israel, in Jerusalem, to bring up the ark of the covenant of the Lord out of the city of David, which is Zion.
+
+(x)	וַיַּֽעֲמִידֵ֥ם לֹ֖ו לֵאלֹהִ֑ים וְלִפְנֵיהֶ֥ם _יִֽשְׁתַּחֲוֶ֖ה_ (II Chr. 25:14)
+NIV	When Amaziah returned from slaughtering the Edomites, he brought back the gods of the people of Seir. He set them up as his own gods, _bowed down_ to them and burned sacrifices to them.
+ESV	After Amaziah came from striking down the Edomites, he brought the gods of the men of Seir and set them up as his gods and _worshiped_ them, making offerings to them.

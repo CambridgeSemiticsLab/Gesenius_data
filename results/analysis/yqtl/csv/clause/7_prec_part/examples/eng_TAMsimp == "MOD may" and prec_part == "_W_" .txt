@@ -1,26 +1,101 @@
 eng_TAMsimp == "MOD may" and prec_part == "_W_" 
-24 of 24
-may eat (ESV, NIV | BHS וְיִתְרָ֕ם תֹּאכַ֖ל חַיַּ֣ת הַשָּׂדֶ֑ה , Exod. 23:11)
-may be refreshed (ESV, NIV | BHS וְיִנָּפֵ֥שׁ בֶּן־אֲמָתְךָ֖ וְהַגֵּֽר׃ , Exod. 23:12)
-may make void, nullify (ESV, NIV | BHS וְאִישָׁ֥הּ יְפֵרֶֽנּוּ׃ , Num. 30:14)
-may eat (ESV, NIV | BHS הַטָּמֵ֤א וְהַטָּהֹור֙ יֹאכְלֶ֔נּוּ כַּצְּבִ֖י וְכָאַיָּֽל׃ , Deut. 12:15)
-you may eat (ESV, NIV | BHS וְהַבָּשָׂ֖ר תֹּאכֵֽל׃ , Deut. 12:27)
-may be (ESV, NIV | BHS וְה֤וּא יִֽהְיֶה־לְּךָ֙ לֵֽאלֹהִ֔ים , Deut. 29:12)
-do, we may obey (ESV, NIV | BHS וְנַעֲשֶֽׂנָּה׃ , Deut. 30:13)
-may lead away, may take (ESV, NIV | BHS וְיִנְהֲג֖וּ , I Sam. 30:22)
-may be averted, may be stopped (ESV, NIV | BHS וְתֵעָצַ֥ר הַמַּגֵּפָ֖ה מֵעַ֥ל הָעָֽם׃ , II Sam. 24:21)
-you may establish, you may set up (ESV, NIV | BHS וְ֠חוּצֹות תָּשִׂ֨ים לְךָ֤ בְדַמֶּ֨שֶׂק֙ , I Kgs. 20:34)
-know (ESV, NIV | BHS וְיֵדְע֗וּ , Isa. 41:20)
-may consider (ESV, NIV | BHS וְיָשִׂ֤ימוּ , Isa. 41:20)
-understand (ESV, NIV | BHS וְיַשְׂכִּ֨ילוּ֙ יַחְדָּ֔ו , Isa. 41:20)
-believe (ESV, NIV | BHS וְתַאֲמִ֨ינוּ לִ֤י , Isa. 43:10)
-understand (ESV, NIV | BHS וְתָבִ֨ינוּ֙ , Isa. 43:10)
-we may be alike, we may be compared (ESV, NIV | BHS וְנִדְמֶֽה׃ , Isa. 46:5)
-you may know, you may observe (ESV, NIV | BHS וְתֵדַ֕ע , Jer. 6:27)
-we may live (ESV, NIV | BHS וְנִחְיֶ֥ה לְפָנָֽיו׃ , Hos. 6:2)
-regard with favor, accept (ESV, NIV | BHS וְעֹולָתְךָ֖ יְדַשְּׁנֶ֣ה , Psa. 20:4)
-may rejoice (ESV, NIV | BHS וְ֝עַמְּךָ֗ יִשְׂמְחוּ־בָֽךְ׃ , Psa. 85:7)
-may praise (ESV, NIV | BHS וְעַ֥ם נִ֝בְרָ֗א יְהַלֶּל־יָֽהּ׃ , Psa. 102:19)
-may trample (ESV, NIV | BHS וְחַיַּ֖ת הַשָּׂדֶ֣ה תְּדוּשֶֽׁהָ׃ , Job 39:15)
-may guard, may preserve (ESV, NIV | BHS וְ֝דַ֗עַת שְׂפָתֶ֥יךָ יִנְצֹֽרוּ׃ , Prov. 5:2)
-they may know, they may learn (ESV, NIV | BHS וְיֵדְעוּ֙ עֲבֹ֣ודָתִ֔י וַעֲבֹודַ֖ת מַמְלְכֹ֥ות הָאֲרָצֹֽות׃ ס , II Chr. 12:8)
+25 of 113
+(x)	וְ_אֶשְׁתֶּ֔ה_ (Gen. 24:14)
+NIV	May it be that when I say to a girl, ‘Please let down your jar that _I may have a drink_,’ and she says, ‘Drink, and I’ll water your camels too’ — let her be the one you have chosen for your servant Isaac. By this I will know that you have shown kindness to my master.”
+ESV	Let the young woman to whom I shall say, ‘Please let down your jar that _I may drink_,’ and who shall say, ‘Drink, and I will water your camels’ — let her be the one whom you have appointed for your servant Isaac. By this I shall know that you have shown steadfast love to my master.”
+
+(x)	וְ_יִֽתֶּן_־לְךָ֙ אֶת־בִּרְכַּ֣ת אַבְרָהָ֔ם לְךָ֖ וּלְזַרְעֲךָ֣ אִתָּ֑ךְ לְרִשְׁתְּךָ֙ אֶת־אֶ֣רֶץ מְגֻרֶ֔יךָ אֲשֶׁר־נָתַ֥ן אֱלֹהִ֖ים לְאַבְרָהָֽם׃ (Gen. 28:4)
+NIV	_May he give_ you and your descendants the blessing given to Abraham, so that you may take possession of the land where you now live as an alien, the land God gave to Abraham.”
+ESV	_May he give_ the blessing of Abraham to you and to your offspring with you, that you may take possession of the land of your sojournings that God gave to Abraham!”
+
+(x)	וְ_נִֽחְיֶה֙_ (Gen. 47:19)
+NIV	Why should we perish before your eyes — we and our land as well? Buy us and our land in exchange for food, and we with our land will be in bondage to Pharaoh. Give us seed so that _we may live_ and not die, and that the land may not become desolate.”
+ESV	Why should we die before your eyes, both we and our land? Buy us and our land for food, and we with our land will be servants to Pharaoh. And give us seed that _we may live_ and not die, and that the land may not be desolate.”
+
+(x)	וְ_יַֽעַבְדֻ֖נִי_ בַּמִּדְבָּ֑ר (Exod. 7:16)
+NIV	Then say to him, ‘The LORD, the God of the Hebrews, has sent me to say to you: Let my people go, so that _they may worship_ me in the desert. But until now you have not listened.
+ESV	And you shall say to him, ‘The Lord, the God of the Hebrews, sent me to you, saying, “Let my people go, that _they may serve_ me in the wilderness. But so far, you have not obeyed.”
+
+(x)	וְ_יַֽעַבְדֻֽנִי_׃ (Exod. 10:3)
+NIV	So Moses and Aaron went to Pharaoh and said to him, “This is what the LORD, the God of the Hebrews, says: ‘How long will you refuse to humble yourself before me? Let my people go, so that _they may worship_ me.
+ESV	So Moses and Aaron went in to Pharaoh and said to him, “Thus says the Lord, the God of the Hebrews, ‘How long will you refuse to humble yourself before me? Let my people go, that _they may serve_ me.
+
+(x)	וַ_אֲכַלֵּ֑ם_ (Exod. 32:10)
+NIV	Now leave me alone so that my anger may burn against them and that _I may destroy_ them. Then I will make you into a great nation.”
+ESV	Now therefore let me alone, that my wrath may burn hot against them and _I may consume_ them, in order that I may make a great nation of you.”
+
+(x)	וְ_אַשְׁמִידֵ֔ם_ (Deut. 9:14)
+NIV	Let me alone, so that _I may destroy_ them and blot out their name from under heaven. And I will make you into a nation stronger and more numerous than they.”
+ESV	Let me alone, that _I may destroy_ them and blot out their name from under heaven. And I will make of you a nation mightier and greater than they.’
+
+(x)	וְהַבָּשָׂ֖ר _תֹּאכֵֽל_׃ (Deut. 12:27)
+NIV	Present your burnt offerings on the altar of the LORD your God, both the meat and the blood. The blood of your sacrifices must be poured beside the altar of the LORD your God, but _you may eat_ the meat.
+ESV	and offer your burnt offerings, the flesh and the blood, on the altar of the Lord your God. The blood of your sacrifices shall be poured out on the altar of the Lord your God, but the flesh _you may eat_.
+
+(x)	וְ_אֶשָּׁעֵ֖ן_ עֲלֵיהֶֽם׃ (Judg. 16:26)
+NIV	Samson said to the servant who held his hand, “Put me where I can feel the pillars that support the temple, so that _I may lean_ against them.”
+ESV	And Samson said to the young man who held him by the hand, “Let me feel the pillars on which the house rests, that _I may lean_ against them.”
+
+(x)	וְ_יֹשִׁעֵ֖נוּ_ מִיַּ֥ד פְּלִשְׁתִּֽים׃ (I Sam. 7:8)
+NIV	They said to Samuel, “Do not stop crying out to the LORD our God for us, that _he may rescue_ us from the hand of the Philistines.”
+ESV	And the people of Israel said to Samuel, “Do not cease to cry out to the Lord our God for us, that _he may save_ us from the hand of the Philistines.”
+
+(x)	וְ_יִנְהֲג֖וּ_ (I Sam. 30:22)
+NIV	But all the evil men and troublemakers among David’s followers said, “Because they did not go out with us, we will not share with them the plunder we recovered. However, each man _may take_ his wife and children and go.”
+ESV	Then all the wicked and worthless fellows among the men who had gone with David said, “Because they did not go with us, we will not give them any of the spoil that we have recovered, except that each man _may lead away_ his wife and children, and depart.”
+
+(x)	וְ_אָמֻ֣ת_ בְּעִירִ֔י עִ֛ם קֶ֥בֶר אָבִ֖י וְאִמִּ֑י (II Sam. 19:38)
+NIV	Let your servant return, that _I may die_ in my own town near the tomb of my father and mother. But here is your servant Kimham. Let him cross over with my lord the king. Do for him whatever pleases you.”
+ESV	Please let your servant return, that _I may die_ in my own city near the grave of my father and my mother. But here is your servant Chimham. Let him go over with my lord the king, and do for him whatever seems good to you.”
+
+(x)	וְ_אֶשְׁתֶּֽה_׃ (I Kgs. 17:10)
+NIV	So he went to Zarephath. When he came to the town gate, a widow was there gathering sticks. He called to her and asked, “Would you bring me a little water in a jar so _I may have a drink_?”
+ESV	So he arose and went to Zarephath. And when he came to the gate of the city, behold, a widow was there gathering sticks. And he called to her and said, “Bring me a little water in a vessel, that _I may drink_.”
+
+(x)	וְ_יֵלְכ֖וּ_ אֶל־אֲדֹנֵיהֶֽם׃ (II Kgs. 6:22)
+NIV	“Do not kill them,” he answered. “Would you kill men you have captured with your own sword or bow? Set food and water before them so that they may eat and drink and then _go back_ to their master.”
+ESV	He answered, “You shall not strike them down. Would you strike down those whom you have taken captive with your sword and with your bow? Set bread and water before them, that they may eat and drink and _go_ to their master.”
+
+(x)	וְ_יֵֽדְעוּ֙_ כָּל־מַמְלְכֹ֣ות הָאָ֔רֶץ כִּֽי־אַתָּ֥ה יְהוָ֖ה לְבַדֶּֽךָ׃ (Isa. 37:20)
+NIV	Now, O LORD our God, deliver us from his hand, so that all kingdoms on earth _may know_ that you alone, O LORD, are God.”
+ESV	So now, O Lord our God, save us from his hand, that all the kingdoms of the earth _may know_ that you alone are the Lord.”
+
+(x)	וְ_תַאֲמִ֨ינוּ_ לִ֤י (Isa. 43:10)
+NIV	“You are my witnesses,” declares the LORD, “and my servant whom I have chosen, so that you may know and _believe_ me and understand that I am he. Before me no god was formed, nor will there be one after me.
+ESV	“You are my witnesses,” declares the Lord, “and my servant whom I have chosen, that you may know and _believe_ me and understand that I am he. Before me no god was formed, nor shall there be any after me.
+
+(x)	וְ_תֵלַ֖דְנָה_ בָּנִ֣ים וּבָנֹ֑ות (Jer. 29:6)
+NIV	Marry and have sons and daughters. find wives for your sons and give your daughters in marriage, so that they too may have sons and daughters. Increase in number there. do not decrease.
+ESV	Take wives and have sons and daughters. take wives for your sons, and give your daughters in marriage, that _they may bear_ sons and daughters. multiply there, and do not decrease.
+
+(x)	וְ_אֶרְצֶה_־בֹּ֥ו (Hag. 1:8)
+NIV	Go up into the mountains and bring down timber and build the house, so that _I may take pleasure_ in it and be honoured,” says the LORD.
+ESV	Go up to the hills and bring wood and build the house, that _I may take pleasure_ in it and that I may be glorified, says the Lord.
+
+(x)	וְֽכָל־עֲצָתְךָ֥ _יְמַלֵּֽא_׃ (Psa. 20:5)
+NIV	May he give you the desire of your heart and make all your plans succeed.
+ESV	May he grant you your heart’s desire and _fulfill_ all your plans!
+
+(x)	וִֽ_יבָרְכֵ֑נוּ_ (Psa. 67:2)
+NIV	May God be gracious to us and _bless_ us and make his face shine upon us, Selah
+ESV	May God be gracious to us and _bless_ us and make his face to shine upon us, Selah
+
+(x)	וְ_יִמָּלֵ֣א_ כְ֭בֹודֹו אֶת־כֹּ֥ל הָאָ֗רֶץ (Psa. 72:19)
+NIV	Praise be to his glorious name forever. may the whole earth be filled with his glory. Amen and Amen.
+ESV	Blessed be his glorious name forever. may the whole earth be filled with his glory! Amen and Amen!
+
+(x)	וְ֝_נָבִ֗א_ לְבַ֣ב חָכְמָֽה׃ (Psa. 90:12)
+NIV	Teach us to number our days aright, that _we may gain_ a heart of wisdom.
+ESV	So teach us to number our days that _we may get_ a heart of wisdom.
+
+(x)	כִּֽי־תַעֲזֹ֣ב לָאָ֣רֶץ בֵּצֶ֑יהָ וְֽעַל־עָפָ֥ר תְּחַמֵּֽם׃ וַ֭תִּשְׁכַּח כִּי־רֶ֣גֶל תְּזוּרֶ֑הָ וְחַיַּ֖ת הַשָּׂדֶ֣ה _תְּדוּשֶֽׁהָ_׃ (Job 39:15)
+NIV	unmindful that a foot may crush them, that some wild animal _may trample_ them.
+ESV	forgetting that a foot may crush them and that the wild beast _may trample_ them.
+
+(x)	וְ_יִֽהְיוּ_־נָ֤א שָׁדַ֨יִךְ֙ כְּאֶשְׁכְּלֹ֣ות הַגֶּ֔פֶן וְרֵ֥יחַ אַפֵּ֖ךְ כַּתַּפּוּחִֽים׃ וְחִכֵּ֕ךְ כְּיֵ֥ין הַטֹּ֛וב הֹולֵ֥ךְ לְדֹודִ֖י לְמֵישָׁרִ֑ים דֹּובֵ֖ב שִׂפְתֵ֥י יְשֵׁנִֽים׃ (Song 7:9)
+NIV	I said, “I will climb the palm tree. I will take hold of its fruit.” May your breasts be like the clusters of the vine, the fragrance of your breath like apples,
+ESV	I say I will climb the palm tree and lay hold of its fruit. Oh may your breasts be like clusters of the vine, and the scent of your breath like apples,
+
+(x)	וְ_יִדְרֹֽשׁ_׃ פ (II Chr. 24:22)
+NIV	King Joash did not remember the kindness Zechariah’s father Jehoiada had shown him but killed his son, who said as he lay dying, “May the LORD see this and call you to account.”
+ESV	Thus Joash the king did not remember the kindness that Jehoiada, Zechariah’s father, had shown him, but killed his son. And when he was dying, he said, “May the Lord see and _avenge_!”

@@ -1,37 +1,141 @@
 esv_TAMsimp == "MOD would"
 35 of 60
-you would have brought (ESV, NIV | BHS וְהֵבֵאתָ֥ עָלֵ֖ינוּ אָשָֽׁם׃ , Gen. 26:10)
-water (ESV, NIV | BHS וְהִשְׁק֖וּ אֶת־הַצֹּ֑אן , Gen. 29:3)
-would be, went (ESV, NIV | BHS וְהָיָ֤ה הָעֲטֻפִים֙ לְלָבָ֔ן , Gen. 30:42)
-you would bring down, you will bring down (ESV, NIV | BHS וְהֹורַדְתֶּ֧ם אֶת־שֵׂיבָתִ֛י בְּיָגֹ֖ון שְׁאֹֽולָה׃ , Gen. 42:38)
-his father would die, will die (ESV, NIV | BHS וָמֵֽת׃ , Gen. 44:22)
-I would consume, I might destroy (ESV, NIV | BHS וְכִלִּיתִ֑יךָ , Exod. 33:5)
-watch, watching (ESV, NIV | BHS וְהִבִּ֨יטוּ֙ אַחֲרֵ֣י מֹשֶׁ֔ה , Exod. 33:8)
-the lord would speak, the lord spoke (ESV, NIV | BHS וְדִבֶּ֖ר עִם־מֹשֶֽׁה׃ , Exod. 33:9)
-would rise up, they stood (ESV, NIV | BHS וְקָ֤ם כָּל־הָעָם֙ , Exod. 33:10)
-would see, saw (ESV, NIV | BHS וְרָא֤וּ בְנֵֽי־יִשְׂרָאֵל֙ אֶת־פְּנֵ֣י מֹשֶׁ֔ה , Exod. 34:35)
-would keep, wants to celebrate (ESV, NIV | BHS וְעָ֤שָֽׂה פֶ֨סַח֙ לַֽיהוָ֔ה , Num. 9:14)
-he would look, looked (ESV, NIV | BHS וְהִבִּ֛יט אֶל־נְחַ֥שׁ הַנְּחֹ֖שֶׁת , Num. 21:9)
-live, he lived (ESV, NIV | BHS וָחָֽי׃ , Num. 21:9)
-he would destroy, will destroy (ESV, NIV | BHS וְהִשְׁמִידְךָ֖ מַהֵֽר׃ , Deut. 7:4)
-he would give (ESV, NIV | BHS וְנָתַ֞ן לִפְנִנָּ֣ה אִשְׁתֹּ֗ו וּֽלְכָל־בָּנֶ֛יהָ וּבְנֹותֶ֖יהָ מָנֹֽות׃ , I Sam. 1:4)
-he would thrust, he would plunge (ESV, NIV | BHS וְהִכָּ֨ה בַכִּיֹּ֜ור אֹ֣ו בַדּ֗וּד אֹ֤ו בַקַּלַּ֨חַת֙ אֹ֣ו בַפָּר֔וּר , I Sam. 2:14)
-would come (ESV, NIV | BHS וּבָ֣א׀ נַ֣עַר הַכֹּהֵ֗ן , I Sam. 2:15)
-he would say, would answer (ESV, NIV | BHS וְאָמַ֥ר׀ , I Sam. 2:16)
-say, saying (ESV, NIV | BHS וְאָמַר֙ , I Sam. 2:20)
-they would return, they would go (ESV, NIV | BHS וְהָלְכ֖וּ לִמְקֹמֹֽו׃ , I Sam. 2:20)
-would take away, took (ESV, NIV | BHS וְלָקַח֩ צֹ֨אן וּבָקָ֜ר וַחֲמֹרִ֤ים וּגְמַלִּים֙ וּבְגָדִ֔ים , I Sam. 27:9)
-I would give justice, receives justice (ESV, NIV | BHS וְהִצְדַּקְתִּֽיו׃ , II Sam. 15:4)
-take hold (ESV, NIV | BHS וְהֶחֱזִ֥יק לֹ֖ו , II Sam. 15:5)
-kiss (ESV, NIV | BHS וְנָ֥שַׁק לֹֽו׃ , II Sam. 15:5)
-he would take an oath, he made swear (ESV, NIV | BHS וְהִשְׁבִּ֤יעַ אֶת־הַמַּמְלָכָה֙ וְאֶת־הַגֹּ֔וי , I Kgs. 18:10)
-call (ESV, NIV | BHS וְקָרָא֙ בְּשֵׁם־יְהוָ֣ה אֱלֹהָ֔יו , II Kgs. 5:11)
-cure (ESV, NIV | BHS וְאָסַ֥ף הַמְּצֹרָֽע׃ , II Kgs. 5:11)
-they would give, they gave (ESV, NIV | BHS וְנָתְנוּ֙ אֶת־הַכֶּ֣סֶף הַֽמְתֻכָּ֔ן עַל־יְדֵי֙ עֹשֵׂ֣י הַמְּלָאכָ֔ה , II Kgs. 12:12)
-burn, burn down (ESV, NIV | BHS וְשָֽׂרְפ֛וּ אֶת־הָעִ֥יר הַזֹּ֖את בָּאֵֽשׁ׃ , Jer. 37:10)
-would perish, perish (ESV, NIV | BHS וְאָבְדָ֖ה שְׁאֵרִ֥ית יְהוּדָֽה׃ , Jer. 40:15)
-would wander, staggered (ESV, NIV | BHS וְנָע֡וּ שְׁתַּיִם֩ שָׁלֹ֨שׁ עָרִ֜ים אֶל־עִ֥יר אַחַ֛ת , Amos 4:8)
-he would be (ESV, NIV | BHS וְהָיָ֥ה מַטִּ֖יף הָעָ֥ם הַזֶּֽה׃ , Mic. 2:11)
-offer, he would sacrifice (ESV, NIV | BHS וְהֶעֱלָ֣ה עֹלֹות֮ מִסְפַּ֣ר כֻּלָּם֒ , Job 1:5)
-you would keep, keep (ESV, NIV | BHS וְעָשִׂ֥יתָ מֵּרָעָ֖ה , I Chr. 4:10)
-would come (ESV, NIV | BHS וּבָ֨א סֹופֵ֤ר הַמֶּ֨לֶךְ֙ וּפְקִיד֙ כֹּהֵ֣ן הָרֹ֔אשׁ , II Chr. 24:11)
+(x)	וְ_הֵבֵאתָ֥_ עָלֵ֖ינוּ אָשָֽׁם׃ (Gen. 26:10)
+NIV	Then Abimelech said, “What is this you have done to us? One of the men might well have slept with your wife, and _you would have brought_ guilt upon us.”
+ESV	Abimelech said, “What is this you have done to us? One of the people might easily have lain with your wife, and _you would have brought_ guilt upon us.”
+
+(x)	וְ_הִשְׁק֖וּ_ אֶת־הַצֹּ֑אן (Gen. 29:3)
+NIV	When all the flocks were gathered there, the shepherds would roll the stone away from the well’s mouth and _water_ the sheep. Then they would return the stone to its place over the mouth of the well.
+ESV	and when all the flocks were gathered there, the shepherds would roll the stone from the mouth of the well and _water_ the sheep, and put the stone back in its place over the mouth of the well.
+
+(x)	וְ_הָיָ֤ה_ הָעֲטֻפִים֙ לְלָבָ֔ן וְהַקְּשֻׁרִ֖ים לְיַעֲקֹֽב׃ (Gen. 30:42)
+NIV	but if the animals were weak, he would not place them there. So the weak animals _went_ to Laban and the strong ones to Jacob.
+ESV	but for the feebler of the flock he would not lay them there. So the feebler _would be_ Laban’s, and the stronger Jacob’s.
+
+(x)	וְ_הֹורַדְתֶּ֧ם_ אֶת־שֵׂיבָתִ֛י בְּיָגֹ֖ון שְׁאֹֽולָה׃ (Gen. 42:38)
+NIV	But Jacob said, “My son will not go down there with you. his brother is dead and he is the only one left. If harm comes to him on the journey you are taking, you will bring my gray head down to the grave in sorrow.”
+ESV	But he said, “My son shall not go down with you, for his brother is dead, and he is the only one left. If harm should happen to him on the journey that you are to make, _you would bring down_ my gray hairs with sorrow to Sheol.”
+
+(x)	וָ_מֵֽת_׃ (Gen. 44:22)
+NIV	And we said to my lord, ‘The boy cannot leave his father. if he leaves him, his father _will die_.’
+ESV	We said to my lord, ‘The boy cannot leave his father, for if he should leave his father, _his father would die_.’
+
+(x)	וְ_כִלִּיתִ֑יךָ_ (Exod. 33:5)
+NIV	For the LORD had said to Moses, “Tell the Israelites, ‘You are a stiff-necked people. If I were to go with you even for a moment, _I might destroy_ you. Now take off your ornaments and I will decide what to do with you.’ “
+ESV	For the Lord had said to Moses, “Say to the people of Israel, ‘You are a stiff-necked people. if for a single moment I should go up among you, _I would consume_ you. So now take off your ornaments, that I may know what to do with you.’”
+
+(x)	וְ_הִבִּ֨יטוּ֙_ אַחֲרֵ֣י מֹשֶׁ֔ה עַד־בֹּאֹ֖ו הָאֹֽהֱלָה׃ (Exod. 33:8)
+NIV	And whenever Moses went out to the tent, all the people rose and stood at the entrances to their tents, _watching_ Moses until he entered the tent.
+ESV	Whenever Moses went out to the tent, all the people would rise up, and each would stand at his tent door, and _watch_ Moses until he had gone into the tent.
+
+(x)	וְ_דִבֶּ֖ר_ עִם־מֹשֶֽׁה׃ (Exod. 33:9)
+NIV	As Moses went into the tent, the pillar of cloud would come down and stay at the entrance, while _the LORD spoke_ with Moses.
+ESV	When Moses entered the tent, the pillar of cloud would descend and stand at the entrance of the tent, and _the Lord would speak_ with Moses.
+
+(x)	וְ_קָ֤ם_ כָּל־הָעָם֙ (Exod. 33:10)
+NIV	Whenever the people saw the pillar of cloud standing at the entrance to the tent, they all stood and worshiped, each at the entrance to his tent.
+ESV	And when all the people saw the pillar of cloud standing at the entrance of the tent, all the people _would rise up_ and worship, each at his tent door.
+
+(x)	וְ_רָא֤וּ_ בְנֵֽי־יִשְׂרָאֵל֙ אֶת־פְּנֵ֣י מֹשֶׁ֔ה כִּ֣י קָרַ֔ן עֹ֖ור פְּנֵ֣י מֹשֶׁ֑ה (Exod. 34:35)
+NIV	they _saw_ that his face was radiant. Then Moses would put the veil back over his face until he went in to speak with the LORD.
+ESV	the people of Israel _would see_ the face of Moses, that the skin of Moses’ face was shining. And Moses would put the veil over his face again, until he went in to speak with him.
+
+(x)	וְ_עָ֤שָֽׂה_ פֶ֨סַח֙ לַֽיהוָ֔ה (Num. 9:14)
+NIV	“‘An alien living among you who _wants to celebrate_ the LORD’s Passover must do so in accordance with its rules and regulations. You must have the same regulations for the alien and the native-born.’”
+ESV	And if a stranger sojourns among you and _would keep_ the Passover to the Lord, according to the statute of the Passover and according to its rule, so shall he do. You shall have one statute, both for the sojourner and for the native.”
+
+(x)	וְ_הִבִּ֛יט_ אֶל־נְחַ֥שׁ הַנְּחֹ֖שֶׁת (Num. 21:9)
+NIV	So Moses made a bronze snake and put it up on a pole. Then when anyone was bitten by a snake and _looked_ at the bronze snake, he lived.
+ESV	So Moses made a bronze serpent and set it on a pole. And if a serpent bit anyone, _he would look_ at the bronze serpent and live.
+
+(x)	וָ_חָֽי_׃ (Num. 21:9)
+NIV	So Moses made a bronze snake and put it up on a pole. Then when anyone was bitten by a snake and looked at the bronze snake, _he lived_.
+ESV	So Moses made a bronze serpent and set it on a pole. And if a serpent bit anyone, he would look at the bronze serpent and _live_.
+
+(x)	וְ_הִשְׁמִידְךָ֖_ מַהֵֽר׃ (Deut. 7:4)
+NIV	for they will turn your sons away from following me to serve other gods, and the LORD’s anger will burn against you and will quickly destroy you.
+ESV	for they would turn away your sons from following me, to serve other gods. Then the anger of the Lord would be kindled against you, and _he would destroy_ you quickly.
+
+(x)	וְ_נָתַ֞ן_ לִפְנִנָּ֣ה אִשְׁתֹּ֗ו וּֽלְכָל־בָּנֶ֛יהָ וּבְנֹותֶ֖יהָ מָנֹֽות׃ (I Sam. 1:4)
+NIV	Whenever the day came for Elkanah to sacrifice, _he would give_ portions of the meat to his wife Peninnah and to all her sons and daughters.
+ESV	On the day when Elkanah sacrificed, _he would give_ portions to Peninnah his wife and to all her sons and daughters.
+
+(x)	כָּל־אִ֞ישׁ זֹבֵ֣חַ זֶ֗בַח וּבָ֨א נַ֤עַר הַכֹּהֵן֙ כְּבַשֵּׁ֣ל הַבָּשָׂ֔ר וְהַמַּזְלֵ֛ג שְׁלֹ֥שׁ־הַשִּׁנַּ֖יִם בְּיָדֹֽו׃ וְ_הִכָּ֨ה_ בַכִּיֹּ֜ור אֹ֣ו בַדּ֗וּד אֹ֤ו בַקַּלַּ֨חַת֙ אֹ֣ו בַפָּר֔וּר (I Sam. 2:14)
+NIV	_He would plunge_ it into the pan or kettle or cauldron or pot, and the priest would take for himself whatever the fork brought up. This is how they treated all the Israelites who came to Shiloh.
+ESV	and _he would thrust_ it into the pan or kettle or cauldron or pot. All that the fork brought up the priest would take for himself. This is what they did at Shiloh to all the Israelites who came there.
+
+(x)	וּ_בָ֣א_׀ נַ֣עַר הַכֹּהֵ֗ן (I Sam. 2:15)
+NIV	But even before the fat was burned, the servant of the priest _would come_ and say to the man who was sacrificing, “Give the priest some meat to roast. he won’t accept boiled meat from you, but only raw.”
+ESV	Moreover, before the fat was burned, the priest’s servant _would come_ and say to the man who was sacrificing, “Give meat for the priest to roast, for he will not accept boiled meat from you but only raw.”
+
+(x)	וְ_אָמַ֥ר_׀ (I Sam. 2:16)
+NIV	If the man said to him, “Let the fat be burned up first, and then take whatever you want,” the servant would then answer, “No, hand it over now. if you don’t, I’ll take it by force.”
+ESV	And if the man said to him, “Let them burn the fat first, and then take as much as you wish,” _he would say_, “No, you must give it now, and if not, I will take it by force.”
+
+(x)	וְ_אָמַר֙_ (I Sam. 2:20)
+NIV	Eli would bless Elkanah and his wife, _saying_, “May the LORD give you children by this woman to take the place of the one she prayed for and gave to the LORD.” Then they would go home.
+ESV	Then Eli would bless Elkanah and his wife, and _say_, “May the Lord give you children by this woman for the petition she asked of the Lord.” So then they would return to their home.
+
+(x)	וְ_הָלְכ֖וּ_ לִמְקֹמֹֽו׃ (I Sam. 2:20)
+NIV	Eli would bless Elkanah and his wife, saying, “May the LORD give you children by this woman to take the place of the one she prayed for and gave to the LORD.” Then _they would go_ home.
+ESV	Then Eli would bless Elkanah and his wife, and say, “May the Lord give you children by this woman for the petition she asked of the Lord.” So then _they would return_ to their home.
+
+(x)	וְ_לָקַח֩_ צֹ֨אן וּבָקָ֜ר וַחֲמֹרִ֤ים וּגְמַלִּים֙ וּבְגָדִ֔ים (I Sam. 27:9)
+NIV	Whenever David attacked an area, he did not leave a man or woman alive, but _took_ sheep and cattle, donkeys and camels, and clothes. Then he returned to Achish.
+ESV	And David would strike the land and would leave neither man nor woman alive, but _would take away_ the sheep, the oxen, the donkeys, the camels, and the garments, and come back to Achish.
+
+(x)	וְ_הִצְדַּקְתִּֽיו_׃ (II Sam. 15:4)
+NIV	And Absalom would add, “If only I were appointed judge in the land! Then everyone who has a complaint or case could come to me and I would see that he _receives justice_.”
+ESV	Then Absalom would say, “Oh that I were judge in the land! Then every man with a dispute or cause might come to me, and I would give him justice.”
+
+(x)	וְ_הֶחֱזִ֥יק_ לֹ֖ו (II Sam. 15:5)
+NIV	Also, whenever anyone approached him to bow down before him, Absalom would reach out his hand, _take hold_ of him and kiss him.
+ESV	And whenever a man came near to pay homage to him, he would put out his hand and _take hold_ of him and kiss him.
+
+(x)	וְ_נָ֥שַׁק_ לֹֽו׃ (II Sam. 15:5)
+NIV	Also, whenever anyone approached him to bow down before him, Absalom would reach out his hand, take hold of him and _kiss_ him.
+ESV	And whenever a man came near to pay homage to him, he would put out his hand and take hold of him and _kiss_ him.
+
+(x)	אִם־יֶשׁ־גֹּ֤וי וּמַמְלָכָה֙ אֲ֠שֶׁר לֹֽא־שָׁלַ֨ח אֲדֹנִ֥י שָׁם֙ לְבַקֶּשְׁךָ֔ וְאָמְר֖וּ וְ_הִשְׁבִּ֤יעַ_ אֶת־הַמַּמְלָכָה֙ וְאֶת־הַגֹּ֔וי כִּ֖י לֹ֥א יִמְצָאֶֽכָּה׃ (I Kgs. 18:10)
+NIV	As surely as the LORD your God lives, there is not a nation or kingdom where my master has not sent someone to look for you. And whenever a nation or kingdom claimed you were not there, he made them swear they could not find you.
+ESV	As the Lord your God lives, there is no nation or kingdom where my lord has not sent to seek you. And when they would say, ‘He is not here,’ _he would take an oath_ of the kingdom or nation, that they had not found you.
+
+(x)	וְ_קָרָא֙_ בְּשֵׁם־יְהוָ֣ה אֱלֹהָ֔יו (II Kgs. 5:11)
+NIV	But Naaman went away angry and said, “I thought that he would surely come out to me and stand and _call_ on the name of the LORD his God, wave his hand over the spot and cure me of my leprosy.
+ESV	But Naaman was angry and went away, saying, “Behold, I thought that he would surely come out to me and stand and _call_ upon the name of the Lord his God, and wave his hand over the place and cure the leper.
+
+(x)	וְ_אָסַ֥ף_ הַמְּצֹרָֽע׃ (II Kgs. 5:11)
+NIV	But Naaman went away angry and said, “I thought that he would surely come out to me and stand and call on the name of the LORD his God, wave his hand over the spot and _cure_ me of my leprosy.
+ESV	But Naaman was angry and went away, saying, “Behold, I thought that he would surely come out to me and stand and call upon the name of the Lord his God, and wave his hand over the place and _cure_ the leper.
+
+(x)	וְ_נָתְנוּ֙_ אֶת־הַכֶּ֣סֶף הַֽמְתֻכָּ֔ן עַל־יְדֵי֙ עֹשֵׂ֣י הַמְּלָאכָ֔ה הַמֻּפְקָדִ֖ים בֵּ֣ית יְהוָ֑ה (II Kgs. 12:12)
+NIV	When the amount had been determined, _they gave_ the money to the men appointed to supervise the work on the temple. With it they paid those who worked on the temple of the LORD — the carpenters and builders,
+ESV	Then _they would give_ the money that was weighed out into the hands of the workmen who had the oversight of the house of the Lord. And they paid it out to the carpenters and the builders who worked on the house of the Lord,
+
+(x)	כִּ֣י אִם־הִכִּיתֶ֞ם כָּל־חֵ֤יל כַּשְׂדִּים֙ הַנִּלְחָמִ֣ים אִתְּכֶ֔ם וְנִ֨שְׁאֲרוּ בָ֔ם אֲנָשִׁ֖ים מְדֻקָּרִ֑ים אִ֤ישׁ בְּאָהֳלֹו֙ יָק֔וּמוּ וְ_שָֽׂרְפ֛וּ_ אֶת־הָעִ֥יר הַזֹּ֖את בָּאֵֽשׁ׃ (Jer. 37:10)
+NIV	Even if you were to defeat the entire Babylonian army that is attacking you and only wounded men were left in their tents, they would come out and burn this city down.”
+ESV	For even if you should defeat the whole army of Chaldeans who are fighting against you, and there remained of them only wounded men, every man in his tent, they would rise up and _burn_ this city with fire.’”
+
+(x)	וְ_אָבְדָ֖ה_ שְׁאֵרִ֥ית יְהוּדָֽה׃ (Jer. 40:15)
+NIV	Then Johanan son of Kareah said privately to Gedaliah in Mizpah, “Let me go and kill Ishmael son of Nethaniah, and no-one will know it. Why should he take your life and cause all the Jews who are gathered around you to be scattered and the remnant of Judah to _perish_?”
+ESV	Then Johanan the son of Kareah spoke secretly to Gedaliah at Mizpah, “Please let me go and strike down Ishmael the son of Nethaniah, and no one will know it. Why should he take your life, so that all the Judeans who are gathered about you would be scattered, and the remnant of Judah _would perish_?”
+
+(x)	וְ_נָע֡וּ_ שְׁתַּיִם֩ שָׁלֹ֨שׁ עָרִ֜ים אֶל־עִ֥יר אַחַ֛ת לִשְׁתֹּ֥ות מַ֖יִם (Amos 4:8)
+NIV	People _staggered_ from town to town for water but did not get enough to drink, yet you have not returned to me,” declares the LORD.
+ESV	so two or three cities _would wander_ to another city to drink water, and would not be satisfied. yet you did not return to me,” declares the Lord.
+
+(x)	וְ_הָיָ֥ה_ מַטִּ֖יף הָעָ֥ם הַזֶּֽה׃ (Mic. 2:11)
+NIV	If a liar and deceiver comes and says, ‘I will prophesy for you plenty of wine and beer,’ _he would be_ just the prophet for this people!
+ESV	If a man should go about and utter wind and lies, saying, “I will preach to you of wine and strong drink,” _he would be_ the preacher for this people!
+
+(x)	וְ_הֶעֱלָ֣ה_ עֹלֹות֮ מִסְפַּ֣ר כֻּלָּם֒ (Job 1:5)
+NIV	When a period of feasting had run its course, Job would send and have them purified. Early in the morning _he would sacrifice_ a burnt offering for each of them, thinking, “Perhaps my children have sinned and cursed God in their hearts.” This was Job’s regular custom.
+ESV	And when the days of the feast had run their course, Job would send and consecrate them, and he would rise early in the morning and _offer_ burnt _offer_ings according to the number of them all. For Job said, “It may be that my children have sinned, and cursed God in their hearts.” Thus Job did continually.
+
+(x)	וְ_עָשִׂ֥יתָ_ מֵּרָעָ֖ה לְבִלְתִּ֣י עָצְבִּ֑י (I Chr. 4:10)
+NIV	Jabez cried out to the God of Israel, “Oh, that you would bless me and enlarge my territory! Let your hand be with me, and _keep_ me from harm so that I will be free from pain.” And God granted his request.
+ESV	Jabez called upon the God of Israel, saying, “Oh that you would bless me and enlarge my border, and that your hand might be with me, and that _you would keep_ me from harm so that it might not bring me pain!” And God granted what he asked.
+
+(x)	וּ_בָ֨א_ סֹופֵ֤ר הַמֶּ֨לֶךְ֙ וּפְקִיד֙ כֹּהֵ֣ן הָרֹ֔אשׁ (II Chr. 24:11)
+NIV	Whenever the chest was brought in by the Levites to the king’s officials and they saw that there was a large amount of money, the royal secretary and the officer of the chief priest _would come_ and empty the chest and carry it back to its place. They did this regularly and collected a great amount of money.
+ESV	And whenever the chest was brought to the king’s officers by the Levites, when they saw that there was much money in it, the king’s secretary and the officer of the chief priest _would come_ and empty the chest and take it and return it to its place. Thus they did day after day, and collected money in abundance.

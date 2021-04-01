@@ -1,10 +1,10 @@
 genre,domain2,1,0
-prophetic,Q,-0.02,0.02
-poetry,Q,0.21,-0.21
+prophetic,Q,-0.01,0.01
 prose,Q,-0.02,0.02
+poetry,Q,0.19,-0.19
 instruction,Q,-0.26,0.26
-list,Q,-0.46,0.46
-prose,N,0.13,-0.13
-prophetic,N,-0.05,0.05
-list,N,-0.05,0.05
-instruction,N,0.45,-0.45
+list,Q,-0.47,0.47
+prose,N,0.11,-0.11
+prophetic,N,-0.07,0.07
+list,N,-0.07,0.07
+instruction,N,0.43,-0.43

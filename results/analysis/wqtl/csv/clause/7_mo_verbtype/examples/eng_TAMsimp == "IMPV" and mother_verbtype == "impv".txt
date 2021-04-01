@@ -1,27 +1,101 @@
 eng_TAMsimp == "IMPV" and mother_verbtype == "impv"
 25 of 153
-store up, store away (ESV, NIV | BHS וְאַתָּ֣ה קַח־לְךָ֗ מִכָּל־מַֽאֲכָל֙ וְאָסַפְתָּ֖ אֵלֶ֑יךָ , Gen. 6:21)
-say (ESV, NIV | BHS וְהִתְיַצֵּב֙ לִפְנֵ֣י פַרְעֹ֔ה וְאָמַרְתָּ֣ אֵלָ֗יו , Exod. 8:16)
-consecrate (ESV, NIV | BHS לֵ֣ךְ אֶל־הָעָ֔ם וְקִדַּשְׁתָּ֥ם הַיֹּ֖ום וּמָחָ֑ר , Exod. 19:10)
-say (ESV, NIV | BHS דַּבֵּ֨ר אֶֽל־אַהֲרֹ֜ן וְאֶל־בָּנָ֗יו וְאֶל֙ כָּל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵיהֶ֑ם , Lev. 17:2)
-say (ESV, NIV | BHS דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם , Lev. 25:2)
-bring, have come (ESV, NIV | BHS אֶסְפָה־לִּ֞י שִׁבְעִ֣ים אִישׁ֮ מִזִּקְנֵ֣י יִשְׂרָאֵל֒ וְלָקַחְתָּ֤ אֹתָם֙ אֶל־אֹ֣הֶל מֹועֵ֔ד , Num. 11:16)
-lay (ESV, NIV | BHS קַח־לְךָ֙ אֶת־יְהֹושֻׁ֣עַ בִּן־נ֔וּן אִ֖ישׁ וְסָמַכְתָּ֥ אֶת־יָדְךָ֖ עָלָֽיו׃ , Num. 27:18)
-know, be assured (ESV, NIV | BHS שְׁמַ֣ע וְיָדַעְתָּ֣ הַיֹּ֗ום , Deut. 9:3)
-save (ESV, NIV | BHS לֵ֚ךְ בְּכֹחֲךָ֣ זֶ֔ה וְהֹושַׁעְתָּ֥ אֶת־יִשְׂרָאֵ֖ל מִכַּ֣ף מִדְיָ֑ן , Judg. 6:14)
-be (ESV, NIV | BHS הִֽתְחַזְּק֞וּ וִהְיִיתֶ֥ם לַאֲנָשִׁ֖ים , I Sam. 4:9)
-stay, go (ESV, NIV | BHS הִשָּֽׁמֶר־נָ֣א בַבֹּ֔קֶר וְיָשַׁבְתָּ֥ בַסֵּ֖תֶר , I Sam. 19:2)
-return, come back (ESV, NIV | BHS שְׁב֣וּ בִֽירֵחֹ֔ו וְשַׁבְתֶּֽם׃ , II Sam. 10:5)
-turn (ESV, NIV | BHS לֵ֣ךְ מִזֶּ֔ה וּפָנִ֥יתָ לְּךָ֖ קֵ֑דְמָה , I Kgs. 17:3)
-lay (ESV, NIV | BHS חֲגֹ֣ר מָתְנֶ֗יךָ וְשַׂמְתָּ֥ מִשְׁעַנְתִּ֖י עַל־פְּנֵ֥י הַנָּֽעַר׃ , II Kgs. 4:29)
-proclaim (ESV, NIV | BHS עֲמֹ֗ד בְּשַׁ֨עַר֙ בֵּ֣ית יְהוָ֔ה וְקָרָ֣אתָ שָּׁ֔ם אֶת־הַדָּבָ֖ר הַזֶּ֑ה , Jer. 7:2)
-go down (ESV, NIV | BHS ק֥וּם וְיָרַדְתָּ֖ בֵּ֣ית הַיֹּוצֵ֑ר , Jer. 18:2)
-speak (ESV, NIV | BHS בֹּא֙ אֶל־בֵּ֣ית יִשְׂרָאֵ֔ל וְדִבַּרְתָּ֥ בִדְבָרַ֖י אֲלֵיהֶֽם׃ , Ezek. 3:4)
-say (ESV, NIV | BHS וְהִנָּבֵ֖א אֲלֵיהֶֽם׃ וְאָ֣מַרְתָּ֔ , Ezek. 6:3)
-say (ESV, NIV | BHS הֹודַ֥ע אֶת־יְרוּשָׁלִַ֖ם אֶת־תֹּועֲבֹתֶֽיהָ׃ וְאָמַרְתָּ֞ , Ezek. 16:3)
-say (ESV, NIV | BHS שִׂ֤ים פָּנֶ֨יךָ֙ אֶל־יְר֣וּשָׁלִַ֔ם וְאָמַרְתָּ֞ לְאַדְמַ֣ת יִשְׂרָאֵ֗ל , Ezek. 21:8)
-say (ESV, NIV | BHS דַּבֵּ֨ר וְאָמַרְתָּ֜ , Ezek. 29:3)
-say (ESV, NIV | BHS הִנָּבֵ֖א אֶל־הָרֵ֣י יִשְׂרָאֵ֑ל וְאָ֣מַרְתָּ֔ , Ezek. 36:1)
-say (ESV, NIV | BHS הִנָּבֵ֣א וְאָמַרְתָּ֣ לְגֹ֔וג , Ezek. 38:14)
-eat, have (ESV, NIV | BHS גֹּ֤שִֽׁי הֲלֹם֙ וְאָכַ֣לְתְּ מִן־הַלֶּ֔חֶם , Ruth 2:14)
-carry out, get out (ESV, NIV | BHS הֲפֹ֧ךְ יָדְךָ֛ וְהֹוצֵאתַ֥נִי מִן־הַֽמַּחֲנֶ֖ה , II Chr. 18:33)
+(x)	וְאַתָּ֣ה קַח־לְךָ֗ מִכָּל־מַֽאֲכָל֙ וְ_אָסַפְתָּ֖_ אֵלֶ֑יךָ (Gen. 6:21)
+NIV	You are to take every kind of food that is to be eaten and store it away as food for you and for them.”
+ESV	Also take with you every sort of food that is eaten, and store it up. It shall serve as food for you and for them.”
+
+(x)	וְהִתְיַצֵּב֙ לִפְנֵ֣י פַרְעֹ֔ה וְ_אָמַרְתָּ֣_ אֵלָ֗יו (Exod. 8:16)
+NIV	Then the LORD said to Moses, “Get up early in the morning and confront Pharaoh as he goes to the water and _say_ to him, ‘This is what the LORD _say_s: Let my people go, so that they may worship me.
+ESV	Then the Lord said to Moses, “Rise up early in the morning and present yourself to Pharaoh, as he goes out to the water, and _say_ to him, ‘Thus _say_s the Lord, “Let my people go, that they may serve me.
+
+(x)	לֵ֣ךְ אֶל־הָעָ֔ם וְ_קִדַּשְׁתָּ֥ם_ הַיֹּ֖ום וּמָחָ֑ר (Exod. 19:10)
+NIV	And the LORD said to Moses, “Go to the people and _consecrate_ them today and tomorrow. Have them wash their clothes
+ESV	the Lord said to Moses, “Go to the people and _consecrate_ them today and tomorrow, and let them wash their garments
+
+(x)	דַּבֵּ֨ר אֶֽל־אַהֲרֹ֜ן וְאֶל־בָּנָ֗יו וְאֶל֙ כָּל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְ_אָמַרְתָּ֖_ אֲלֵיהֶ֑ם (Lev. 17:2)
+NIV	“Speak to Aaron and his sons and to all the Israelites and _say_ to them: ‘This is what the LORD has commanded:
+ESV	“Speak to Aaron and his sons and to all the people of Israel and _say_ to them, This is the thing that the Lord has commanded.
+
+(x)	דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְ_אָמַרְתָּ֣_ אֲלֵהֶ֔ם (Lev. 25:2)
+NIV	“Speak to the Israelites and _say_ to them: ‘When you enter the land I am going to give you, the land itself must observe a sabbath to the LORD.
+ESV	“Speak to the people of Israel and _say_ to them, When you come into the land that I give you, the land shall keep a Sabbath to the Lord.
+
+(x)	אֶסְפָה־לִּ֞י שִׁבְעִ֣ים אִישׁ֮ מִזִּקְנֵ֣י יִשְׂרָאֵל֒ וְ_לָקַחְתָּ֤_ אֹתָם֙ אֶל־אֹ֣הֶל מֹועֵ֔ד (Num. 11:16)
+NIV	The LORD said to Moses: “Bring me seventy of Israel’s elders who are known to you as leaders and officials among the people. Have them come to the Tent of Meeting, that they may stand there with you.
+ESV	Then the Lord said to Moses, “Gather for me seventy men of the elders of Israel, whom you know to be the elders of the people and officers over them, and _bring_ them to the tent of meeting, and let them take their stand there with you.
+
+(x)	קַח־לְךָ֙ אֶת־יְהֹושֻׁ֣עַ בִּן־נ֔וּן אִ֖ישׁ וְ_סָמַכְתָּ֥_ אֶת־יָדְךָ֖ עָלָֽיו׃ (Num. 27:18)
+NIV	So the LORD said to Moses, “Take Joshua son of Nun, a man in whom is the spirit, and _lay_ your hand on him.
+ESV	So the Lord said to Moses, “Take Joshua the son of Nun, a man in whom is the Spirit, and _lay_ your hand on him.
+
+(x)	שְׁמַ֣ע וְ_יָדַעְתָּ֣_ הַיֹּ֗ום (Deut. 9:3)
+NIV	But _be assured_ today that the LORD your God is the one who goes across ahead of you like a devouring fire. He will destroy them. he will subdue them before you. And you will drive them out and annihilate them quickly, as the LORD has promised you.
+ESV	_Know_ therefore today that he who goes over before you as a consuming fire is the Lord your God. He will destroy them and subdue them before you. So you shall drive them out and make them perish quickly, as the Lord has promised you.
+
+(x)	לֵ֚ךְ בְּכֹחֲךָ֣ זֶ֔ה וְ_הֹושַׁעְתָּ֥_ אֶת־יִשְׂרָאֵ֖ל מִכַּ֣ף מִדְיָ֑ן (Judg. 6:14)
+NIV	The LORD turned to him and said, “Go in the strength you have and _save_ Israel out of Midian’s hand. Am I not sending you?”
+ESV	And the Lord turned to him and said, “Go in this might of yours and _save_ Israel from the hand of Midian. do not I send you?”
+
+(x)	הִֽתְחַזְּק֞וּ וִ_הְיִיתֶ֥ם_ לַאֲנָשִׁ֖ים (I Sam. 4:9)
+NIV	_Be_ strong, Philistines! _Be_ men, or you will be subject to the Hebrews, as they have been to you. _Be_ men, and fight!”
+ESV	Take courage, and _be_ men, O Philistines, lest you _be_come slaves to the Hebrews as they have _be_en to you. _be_ men and fight.”
+
+(x)	הִשָּֽׁמֶר־נָ֣א בַבֹּ֔קֶר וְ_יָשַׁבְתָּ֥_ בַסֵּ֖תֶר (I Sam. 19:2)
+NIV	and warned him, “My father Saul is looking for a chance to kill you. Be on your guard tomorrow morning. _go_ into hiding and stay there.
+ESV	And Jonathan told David, “Saul my father seeks to kill you. Therefore be on your guard in the morning. _Stay_ in a secret place and hide yourself.
+
+(x)	שְׁב֣וּ בִֽירֵחֹ֔ו וְ_שַׁבְתֶּֽם_׃ (II Sam. 10:5)
+NIV	When David was told about this, he sent messengers to meet the men, for they were greatly humiliated. The king said, “Stay at Jericho till your beards have grown, and then _come back_.”
+ESV	When it was told David, he sent to meet them, for the men were greatly ashamed. And the king said, “Remain at Jericho until your beards have grown and then _return_.”
+
+(x)	לֵ֣ךְ מִזֶּ֔ה וּ_פָנִ֥יתָ_ לְּךָ֖ קֵ֑דְמָה (I Kgs. 17:3)
+NIV	“Leave here, _turn_ eastward and hide in the Kerith Ravine, east of the Jordan.
+ESV	“Depart from here and _turn_ eastward and hide yourself by the brook Cherith, which is east of the Jordan.
+
+(x)	חֲגֹ֣ר מָתְנֶ֗יךָ וְ_שַׂמְתָּ֥_ מִשְׁעַנְתִּ֖י עַל־פְּנֵ֥י הַנָּֽעַר׃ (II Kgs. 4:29)
+NIV	Elisha said to Gehazi, “Tuck your cloak into your belt, take my staff in your hand and run. If you meet anyone, do not greet him, and if anyone greets you, do not answer. _Lay_ my staff on the boy’s face.”
+ESV	He said to Gehazi, “Tie up your garment and take my staff in your hand and go. If you meet anyone, do not greet him, and if anyone greets you, do not reply. And _lay_ my staff on the face of the child.”
+
+(x)	עֲמֹ֗ד בְּשַׁ֨עַר֙ בֵּ֣ית יְהוָ֔ה וְ_קָרָ֣אתָ_ שָּׁ֔ם אֶת־הַדָּבָ֖ר הַזֶּ֑ה (Jer. 7:2)
+NIV	“Stand at the gate of the LORD’s house and there _proclaim_ this message: “‘Hear the word of the LORD, all you people of Judah who come through these gates to worship the LORD.
+ESV	“Stand in the gate of the Lord’s house, and _proclaim_ there this word, and say, Hear the word of the Lord, all you men of Judah who enter these gates to worship the Lord.
+
+(x)	ק֥וּם וְ_יָרַדְתָּ֖_ בֵּ֣ית הַיֹּוצֵ֑ר (Jer. 18:2)
+NIV	“_Go down_ to the potter’s house, and there I will give you my message.”
+ESV	“Arise, and _go down_ to the potter’s house, and there I will let you hear my words.”
+
+(x)	בֹּא֙ אֶל־בֵּ֣ית יִשְׂרָאֵ֔ל וְ_דִבַּרְתָּ֥_ בִדְבָרַ֖י אֲלֵיהֶֽם׃ (Ezek. 3:4)
+NIV	He then said to me: “Son of man, go now to the house of Israel and _speak_ my words to them.
+ESV	And he said to me, “Son of man, go to the house of Israel and _speak_ with my words to them.
+
+(x)	וְהִנָּבֵ֖א אֲלֵיהֶֽם׃ וְ_אָ֣מַרְתָּ֔_ (Ezek. 6:3)
+NIV	and _say_: ‘O mountains of Israel, hear the word of the Sovereign LORD. This is what the Sovereign LORD _say_s to the mountains and hills, to the ravines and valleys: I am about to bring a sword against you, and I will destroy your high places.
+ESV	and _say_, You mountains of Israel, hear the word of the Lord God! Thus _say_s the Lord God to the mountains and the hills, to the ravines and the valleys: Behold, I, even I, will bring a sword upon you, and I will destroy your high places.
+
+(x)	הֹודַ֥ע אֶת־יְרוּשָׁלִַ֖ם אֶת־תֹּועֲבֹתֶֽיהָ׃ וְ_אָמַרְתָּ֞_ (Ezek. 16:3)
+NIV	and _say_, ‘This is what the Sovereign LORD _say_s to Jerusalem: Your ancestry and birth were in the land of the Canaanites. your father was an Amorite and your mother a Hittite.
+ESV	and _say_, Thus _say_s the Lord God to Jerusalem: Your origin and your birth are of the land of the Canaanites. your father was an Amorite and your mother a Hittite.
+
+(x)	שִׂ֤ים פָּנֶ֨יךָ֙ אֶל־יְר֣וּשָׁלִַ֔ם וְ_אָמַרְתָּ֞_ לְאַדְמַ֣ת יִשְׂרָאֵ֗ל (Ezek. 21:8)
+NIV	and _say_ to her: ‘This is what the LORD _say_s: I am against you. I will draw my sword from its scabbard and cut off from you both the righteous and the wicked.
+ESV	and _say_ to the land of Israel, Thus _say_s the Lord: Behold, I am against you and will draw my sword from its sheath and will cut off from you both righteous and wicked.
+
+(x)	דַּבֵּ֨ר וְ_אָמַרְתָּ֜_ (Ezek. 29:3)
+NIV	Speak to him and _say_: ‘This is what the Sovereign LORD _say_s: “‘I am against you, Pharaoh king of Egypt, you great monster lying among your streams. You _say_, “The Nile is mine. I made it for myself.”
+ESV	speak, and _say_, Thus _say_s the Lord God: “Behold, I am against you, Pharaoh king of Egypt, the great dragon that lies in the midst of his streams, that _say_s, ‘My Nile is my own. I made it for myself.’
+
+(x)	הִנָּבֵ֖א אֶל־הָרֵ֣י יִשְׂרָאֵ֑ל וְ_אָ֣מַרְתָּ֔_ (Ezek. 36:1)
+NIV	“Son of man, prophesy to the mountains of Israel and _say_, ‘O mountains of Israel, hear the word of the LORD.
+ESV	“And you, son of man, prophesy to the mountains of Israel, and _say_, O mountains of Israel, hear the word of the Lord.
+
+(x)	הִנָּבֵ֣א וְ_אָמַרְתָּ֣_ לְגֹ֔וג (Ezek. 38:14)
+NIV	“Therefore, son of man, prophesy and _say_ to Gog: ‘This is what the Sovereign LORD _say_s: In that day, when my people Israel are living in safety, will you not take notice of it?
+ESV	“Therefore, son of man, prophesy, and _say_ to Gog, Thus _say_s the Lord God: On that day when my people Israel are dwelling securely, will you not know it?
+
+(x)	גֹּ֤שִֽׁי הֲלֹם֙ וְ_אָכַ֣לְתְּ_ מִן־הַלֶּ֔חֶם (Ruth 2:14)
+NIV	At mealtime Boaz said to her, “Come over here. _Have_ some bread and dip it in the wine vinegar.” When she sat down with the harvesters, he offered her some roasted grain. She ate all she wanted and had some left over.
+ESV	And at mealtime Boaz said to her, “Come here and _eat_ some bread and dip your morsel in the wine.” So she sat beside the reapers, and he passed to her roasted grain. And she ate until she was satisfied, and she had some left over.
+
+(x)	הֲפֹ֧ךְ יָדְךָ֛ וְ_הֹוצֵאתַ֥נִי_ מִן־הַֽמַּחֲנֶ֖ה (II Chr. 18:33)
+NIV	But someone drew his bow at random and hit the king of Israel between the sections of his armour. The king told the chariot driver, “Wheel around and get me out of the fighting. I’ve been wounded.”
+ESV	But a certain man drew his bow at random and struck the king of Israel between the scale armor and the breastplate. Therefore he said to the driver of his chariot, “Turn around and carry me out of the battle, for I am wounded.”

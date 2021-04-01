@@ -146,7 +146,18 @@ class InspectionDoc:
             path.write_text(doc)
 
 def link_spans():
-    """Match spans with verbs and assign data."""
+    """Match spans with verbs and assign data.
+
+    The primary challenge is that there is no easy
+    way to link the Spacy-parsed doc data with the
+    word data we have for GBI. Remember that the full
+    verse texts are compiled from the word lists and 
+    then parsed as a full verse. The challenge is to
+    use the indexing from before the word lists were
+    compiled to match with the indexing of the Spacy
+    doc object. That then needs to be cross-referenced
+    with the Spacy Matcher object.
+    """
 
     ts.indent(0, reset=True)
     ts.info('matching spans...')

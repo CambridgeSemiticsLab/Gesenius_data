@@ -1,27 +1,101 @@
 eng_TAMsimp == "PRES" and mother_verbtype == "yqtl"
-25 of 194
-asks (ESV, NIV | BHS כִּ֣י יִֽפְגָּשְׁךָ֞ עֵשָׂ֣ו אָחִ֗י וִשְׁאֵֽלְךָ֙ , Gen. 32:18)
-the slave dies (ESV, NIV | BHS וְכִֽי־יַכֶּה֩ אִ֨ישׁ אֶת־עַבְדֹּ֜ו אֹ֤ו אֶת־אֲמָתֹו֙ בַּשֵּׁ֔בֶט וּמֵ֖ת תַּ֣חַת יָדֹ֑ו , Exod. 21:20)
-it is stolen, they are stolen (ESV, NIV | BHS כִּֽי־יִתֵּן֩ אִ֨ישׁ אֶל־רֵעֵ֜הוּ כֶּ֤סֶף אֹֽו־כֵלִים֙ וְגֻנַּ֖ב מִבֵּ֣ית הָאִ֑ישׁ , Exod. 22:6)
-they do, does (ESV, NIV | BHS וְאִ֨ם כָּל־עֲדַ֤ת יִשְׂרָאֵל֙ יִשְׁגּ֔וּ וְ֠עָשׂוּ אַחַ֨ת מִכָּל־מִצְוֹ֧ת יְהוָ֛ה , Lev. 4:13)
-eats (ESV, NIV | BHS כִּֽי־תִגַּ֣ע בְּכָל־טָמֵ֗א בְּטֻמְאַ֤ת אָדָם֙ אֹ֣ו׀ בִּבְהֵמָ֣ה טְמֵאָ֗ה אֹ֚ו בְּכָל־שֶׁ֣קֶץ טָמֵ֔א וְאָכַ֛ל מִבְּשַׂר־זֶ֥בַח הַשְּׁלָמִ֖ים , Lev. 7:21)
-sees, they have sexual relations (ESV, NIV | BHS אֲשֶׁר־יִקַּ֣ח אֶת־אֲחֹתֹ֡ו בַּת־אָבִ֣יו אֹ֣ו בַת־אִ֠מֹּו וְרָאָ֨ה אֶת־עֶרְוָתָ֜הּ , Lev. 20:17)
-you gather, you withdraw (ESV, NIV | BHS וְאִ֨ם־בְּאֵ֔לֶּה לֹ֥א תִוָּסְר֖וּ לִ֑י וְנֶאֱסַפְתֶּ֖ם אֶל־עָרֵיכֶ֑ם , Lev. 26:25)
-binds herself, obligates (ESV, NIV | BHS כִּֽי־תִדֹּ֥ר נֶ֖דֶר לַיהוָ֑ה וְאָסְרָ֥ה אִסָּ֛ר בְּבֵ֥ית אָבִ֖יהָ בִּנְעֻרֶֽיהָ׃ , Num. 30:4)
-clears away, drives out (ESV, NIV | BHS כִּ֤י יְבִֽיאֲךָ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ אֶל־הָאָ֕רֶץ וְנָשַׁ֣ל גֹּֽויִם־רַבִּ֣ים׀ מִפָּנֶ֡יךָ הַֽחִתִּי֩ וְהַגִּרְגָּשִׁ֨י וְהָאֱמֹרִ֜י וְהַכְּנַעֲנִ֣י וְהַפְּרִזִּ֗י וְהַֽחִוִּי֙ וְהַיְבוּסִ֔י שִׁבְעָ֣ה גֹויִ֔ם , Deut. 7:1)
-you possess, have taken possession of (ESV, NIV | BHS כִּֽי־תָבֹ֣א אֶל־הָאָ֗רֶץ וִֽירִשְׁתָּ֖הּ , Deut. 17:14)
-he is put to death, is put to death (ESV, NIV | BHS וְכִֽי־יִהְיֶ֣ה בְאִ֗ישׁ חֵ֛טְא מִשְׁפַּט־מָ֖וֶת וְהוּמָ֑ת , Deut. 21:22)
-draws near, comes (ESV, NIV | BHS כִּֽי־יִנָּצ֨וּ אֲנָשִׁ֤ים יַחְדָּו֙ אִ֣ישׁ וְאָחִ֔יו וְקָֽרְבָה֙ אֵ֣שֶׁת הָֽאֶחָ֔ד , Deut. 25:11)
-captures (ESV, NIV | BHS אֲשֶׁר־יַכֶּ֥ה אֶת־קִרְיַת־סֵ֖פֶר וּלְכָדָ֑הּ , Judg. 1:12)
-you lie down, you rest (ESV, NIV | BHS כִּ֣י׀ יִמְלְא֣וּ יָמֶ֗יךָ וְשָֽׁכַבְתָּ֙ אֶת־אֲבֹתֶ֔יךָ , II Sam. 7:12)
-is a light thing, is an easy thing (ESV, NIV | BHS לֹֽא־תִרְא֥וּ ר֨וּחַ֙ וְנָקַ֥ל זֹ֖את בְּעֵינֵ֣י יְהוָ֑ה , II Kgs. 3:18)
-he drives (ESV, NIV | BHS לֶ֣חֶם יוּדָ֔ק וְ֠הָמַם גִּלְגַּ֧ל עֶגְלָתֹ֛ו וּפָרָשָׁ֖יו , Isa. 28:28)
-they say, say (ESV, NIV | BHS כַּאֲשֶׁ֨ר יִמָּצֵ֤א הַתִּירֹושׁ֙ בָּֽאֶשְׁכֹּ֔ול וְאָמַר֙ , Isa. 65:8)
-is (ESV, NIV | BHS אֲשֶׁ֥ר יִבְטַ֖ח בַּֽיהוָ֑ה וְהָיָ֥ה יְהוָ֖ה מִבְטַחֹֽו׃ , Jer. 17:7)
-comes to nothing (ESV, NIV | BHS יַֽאַרְכוּ֙ הַיָּמִ֔ים וְאָבַ֖ד כָּל־חָזֹֽון׃ , Ezek. 12:22)
-take, choose (ESV, NIV | BHS כִּֽי־אָבִ֥יא עָלֶ֖יהָ חָ֑רֶב וְלָקְח֨וּ עַם־הָאָ֜רֶץ אִ֤ישׁ אֶחָד֙ מִקְצֵיהֶ֔ם , Ezek. 33:2)
-are swifter (ESV, NIV | BHS מִמֶּ֕נּוּ מִשְׁפָּטֹ֥ו וּשְׂאֵתֹ֖ו יֵצֵֽא׃ וְקַלּ֨וּ מִנְּמֵרִ֜ים סוּסָ֗יו , Hab. 1:8)
-dashes (ESV, NIV | BHS שֶׁיֹּאחֵ֓ז וְנִפֵּ֬ץ אֶֽת־עֹ֝לָלַ֗יִךְ אֶל־הַסָּֽלַע׃ , Psa. 137:9)
-you lie down (ESV, NIV | BHS אִם־תִּשְׁכַּ֥ב וְ֝שָׁכַבְתָּ֗ , Prov. 3:24)
-return (ESV, NIV | BHS עַ֠ד אֲשֶׁ֨ר לֹֽא־תֶחְשַׁ֤ךְ הַשֶּׁ֨מֶשׁ֙ וְהָאֹ֔ור וְהַיָּרֵ֖חַ וְהַכֹּוכָבִ֑ים וְשָׁ֥בוּ הֶעָבִ֖ים אַחַ֥ר הַגָּֽשֶׁם׃ , Eccl. 12:2)
-you fall, cause downfall (ESV, NIV | BHS לָ֤מָּה תִתְגָּרֶה֙ בְּרָעָ֔ה וְנָ֣פַלְתָּ֔ אַתָּ֖ה , II Chr. 25:19)
+25 of 197
+(x)	כִּ֣י יִֽפְגָּשְׁךָ֞ עֵשָׂ֣ו אָחִ֗י וִ_שְׁאֵֽלְךָ֙_ (Gen. 32:18)
+NIV	He instructed the one in the lead: “When my brother Esau meets you and _asks_, ‘To whom do you belong, and where are you going, and who owns all these animals in front of you?’
+ESV	He instructed the first, “When Esau my brother meets you and _asks_ you, ‘To whom do you belong? Where are you going? And whose are these ahead of you?’
+
+(x)	וְכִֽי־יַכֶּה֩ אִ֨ישׁ אֶת־עַבְדֹּ֜ו אֹ֤ו אֶת־אֲמָתֹו֙ בַּשֵּׁ֔בֶט וּ_מֵ֖ת_ תַּ֣חַת יָדֹ֑ו (Exod. 21:20)
+NIV	“If a man beats his male or female slave with a rod and _the slave dies_ as a direct result, he must be punished,
+ESV	“When a man strikes his slave, male or female, with a rod and _the slave dies_ under his hand, he shall be avenged.
+
+(x)	כִּֽי־יִתֵּן֩ אִ֨ישׁ אֶל־רֵעֵ֜הוּ כֶּ֤סֶף אֹֽו־כֵלִים֙ וְ_גֻנַּ֖ב_ מִבֵּ֣ית הָאִ֑ישׁ (Exod. 22:6)
+NIV	“If a man gives his neighbor silver or goods for safekeeping and _they are stolen_ from the neighbor’s house, the thief, if he is caught, must pay back double.
+ESV	“If a man gives to his neighbor money or goods to keep safe, and _it is stolen_ from the man’s house, then, if the thief is found, he shall pay double.
+
+(x)	וְאִ֨ם כָּל־עֲדַ֤ת יִשְׂרָאֵל֙ יִשְׁגּ֔וּ וְ֠_עָשׂוּ_ אַחַ֨ת מִכָּל־מִצְוֹ֧ת יְהוָ֛ה (Lev. 4:13)
+NIV	“‘If the whole Israelite community sins unintentionally and _does_ what is forbidden in any of the LORD’s commands, even though the community is unaware of the matter, they are guilty.
+ESV	“If the whole congregation of Israel sins unintentionally and the thing is hidden from the eyes of the assembly, and _they do_ any one of the things that by the Lord’s commandments ought not to be done, and they realize their guilt,
+
+(x)	כִּֽי־תִגַּ֣ע בְּכָל־טָמֵ֗א בְּטֻמְאַ֤ת אָדָם֙ אֹ֣ו׀ בִּבְהֵמָ֣ה טְמֵאָ֗ה אֹ֚ו בְּכָל־שֶׁ֣קֶץ טָמֵ֔א וְ_אָכַ֛ל_ מִבְּשַׂר־זֶ֥בַח הַשְּׁלָמִ֖ים (Lev. 7:21)
+NIV	If anyone touches something unclean — whether human uncleanness or an unclean animal or any unclean, detestable thing — and then _eats_ any of the meat of the fellowship offering belonging to the LORD, that person must be cut off from his people.’”
+ESV	And if anyone touches an unclean thing, whether human uncleanness or an unclean beast or any unclean detestable creature, and then _eats_ some flesh from the sacrifice of the Lord’s peace offerings, that person shall be cut off from his people.”
+
+(x)	אֲשֶׁר־יִקַּ֣ח אֶת־אֲחֹתֹ֡ו בַּת־אָבִ֣יו אֹ֣ו בַת־אִ֠מֹּו וְ_רָאָ֨ה_ אֶת־עֶרְוָתָ֜הּ (Lev. 20:17)
+NIV	“‘If a man marries his sister, the daughter of either his father or his mother, and _they have sexual relations_, it is a disgrace. They must be cut off before the eyes of their people. He has dishonored his sister and will be held responsible.
+ESV	“If a man takes his sister, a daughter of his father or a daughter of his mother, and _sees_ her nakedness, and she _sees_ his nakedness, it is a disgrace, and they shall be cut off in the sight of the children of their people. He has uncovered his sister’s nakedness, and he shall bear his iniquity.
+
+(x)	וְאִ֨ם־בְּאֵ֔לֶּה לֹ֥א תִוָּסְר֖וּ לִ֑י וְ_נֶאֱסַפְתֶּ֖ם_ אֶל־עָרֵיכֶ֑ם (Lev. 26:25)
+NIV	And I will bring the sword upon you to avenge the breaking of the covenant. When _you withdraw_ into your cities, I will send a plague among you, and you will be given into enemy hands.
+ESV	And I will bring a sword upon you, that shall execute vengeance for the covenant. And if _you gather_ within your cities, I will send pestilence among you, and you shall be delivered into the hand of the enemy.
+
+(x)	כִּֽי־תִדֹּ֥ר נֶ֖דֶר לַיהוָ֑ה וְ_שָׁמַ֨ע_ אָבִ֜יהָ אֶת־נִדְרָ֗הּ וֶֽאֱסָרָהּ֙ (Num. 30:5)
+NIV	and her father _hears about_ her vow or pledge but says nothing to her, then all her vows and every pledge by which she obligated herself will stand.
+ESV	and her father _hears_ of her vow and of her pledge by which she has bound herself and says nothing to her, then all her vows shall stand, and every pledge by which she has bound herself shall stand.
+
+(x)	עֵ֣קֶב תִּשְׁמְע֗וּן אֵ֤ת הַמִּשְׁפָּטִים֙ הָאֵ֔לֶּה וּ_שְׁמַרְתֶּ֥ם_ (Deut. 7:12)
+NIV	If you pay attention to these laws and _are careful_ to follow them, then the LORD your God will keep his covenant of love with you, as he swore to your forefathers.
+ESV	“And because you listen to these rules and _keep_ and do them, the Lord your God will _keep_ with you the covenant and the steadfast love that he swore to your fathers.
+
+(x)	וַאֲשֶׁר֩ יָבֹ֨א אֶת־רֵעֵ֥הוּ בַיַּעַר֮ וְ_נִדְּחָ֨ה_ יָדֹ֤ו בַגַּרְזֶן֙ (Deut. 19:5)
+NIV	For instance, a man may go into the forest with his neighbour to cut wood, and as _he swings_ his axe to fell a tree, the head may fly off and hit his neighbour and kill him. That man may flee to one of these cities and save his life.
+ESV	as when someone goes into the forest with his neighbor to cut wood, and his hand _swings_ the axe to cut down a tree, and the head slips from the handle and strikes his neighbor so that he dies — he may flee to one of these cities and live,
+
+(x)	אֲשֶׁר־תֹּאבַ֥ד מִמֶּ֖נּוּ וּ_מְצָאתָ֑הּ_ (Deut. 22:3)
+NIV	Do the same if _you find_ your brother’s donkey or his cloak or anything he loses. Do not ignore it.
+ESV	And you shall do the same with his donkey or with his garment, or with any lost thing of your brother’s, which he loses and _you find_. you may not ignore it.
+
+(x)	אֲשֶׁ֣ר יַעֲשֶׂה֩ פֶ֨סֶל וּמַסֵּכָ֜ה תֹּועֲבַ֣ת יְהוָ֗ה מַעֲשֵׂ֛ה יְדֵ֥י חָרָ֖שׁ וְ_שָׂ֣ם_ בַּסָּ֑תֶר (Deut. 27:15)
+NIV	“Cursed is the man who carves an image or casts an idol — a thing detestable to the LORD, the work of the craftsman’s hands — and sets it up in secret.” Then all the people shall say, “Amen!”
+ESV	“‘Cursed be the man who makes a carved or cast metal image, an abomination to the Lord, a thing made by the hands of a craftsman, and sets it up in secret.’ And all the people shall answer and say, ‘Amen.’
+
+(x)	אִם־אִ֨ישׁ יָבֹ֜וא וּ_שְׁאֵלֵ֗ךְ_ (Judg. 4:20)
+NIV	“Stand in the doorway of the tent,” he told her. “If someone comes by and _asks_ you, ‘Is anyone here?’ say ‘No.’”
+ESV	And he said to her, “Stand at the opening of the tent, and if any man comes and _asks_ you, ‘Is anyone here?’ say, ‘No.’”
+
+(x)	וְלֹֽא־יִשָּׂ֤א אֱלֹהִים֙ נֶ֔פֶשׁ וְ_חָשַׁב֙_ מַֽחֲשָׁבֹ֔ות (II Sam. 14:14)
+NIV	Like water spilled on the ground, which cannot be recovered, so we must die. But God does not take away life. instead, _he devises_ ways so that a banished person may not remain estranged from him.
+ESV	We must all die. we are like water spilled on the ground, which cannot be gathered up again. But God will not take away life, and _he devises_ means so that the banished one will not remain an outcast.
+
+(x)	וְאִם־תְּמָאֲנ֖וּ וּ_מְרִיתֶ֑ם_ (Isa. 1:20)
+NIV	but if you resist and _rebel_, you will be devoured by the sword.” For the mouth of the LORD has spoken.
+ESV	but if you refuse and _rebel_, you shall be eaten by the sword. for the mouth of the Lord has spoken.”
+
+(x)	לֶ֣חֶם יוּדָ֔ק וְ֠_הָמַם_ גִּלְגַּ֧ל עֶגְלָתֹ֛ו וּפָרָשָׁ֖יו (Isa. 28:28)
+NIV	Grain must be ground to make bread. so one does not go on threshing it forever. Though _he drives_ the wheels of his threshing-cart over it, his horses do not grind it.
+ESV	Does one crush grain for bread? No, he does not thresh it forever. when _he drives_ his cart wheel over it with his horses, he does not crush it.
+
+(x)	כַּאֲשֶׁ֨ר יִמָּצֵ֤א הַתִּירֹושׁ֙ בָּֽאֶשְׁכֹּ֔ול וְ_אָמַר֙_ (Isa. 65:8)
+NIV	This is what the LORD _say_s: “As when juice is still found in a cluster of grapes and men _say_, ‘Don’t destroy it, there is yet some good in it,’ so will I do on behalf of my servants. I will not destroy them all.
+ESV	Thus says the Lord: “As the new wine is found in the cluster, and _they say_, ‘Do not destroy it, for there is a blessing in it,’ so I will do for my servants’ sake, and not destroy them all.
+
+(x)	אֲשֶׁ֥ר יִבְטַ֖ח בַּֽיהוָ֑ה וְ_הָיָ֥ה_ יְהוָ֖ה מִבְטַחֹֽו׃ (Jer. 17:7)
+NIV	“But blessed _is_ the man who trusts in the LORD, whose confidence _is_ in him.
+ESV	“Blessed _is_ the man who trusts in the Lord, whose trust _is_ the Lord.
+
+(x)	יַֽאַרְכוּ֙ הַיָּמִ֔ים וְ_אָבַ֖ד_ כָּל־חָזֹֽון׃ (Ezek. 12:22)
+NIV	“Son of man, what is this proverb you have in the land of Israel: ‘The days go by and every vision _comes to nothing_’?
+ESV	“Son of man, what is this proverb that you have about the land of Israel, saying, ‘The days grow long, and every vision _comes to nothing_’?
+
+(x)	לֹ֤א יִתְּנוּ֙ מַ֣עַלְלֵיהֶ֔ם וְ_עָנָ֥ה_ גְאֹֽון־יִשְׂרָאֵ֖ל בְּפָנָ֑יו (Hos. 5:5)
+NIV	Israel’s arrogance _testifies_ against them. the Israelites, even Ephraim, stumble in their sin. Judah also stumbles with them.
+ESV	The pride of Israel _testifies_ to his face. Israel and Ephraim shall stumble in his guilt. Judah also shall stumble with them.
+
+(x)	הֵ֣ן׀ יִשָּׂא־אִ֨ישׁ בְּשַׂר־קֹ֜דֶשׁ בִּכְנַ֣ף בִּגְדֹ֗ו וְ_נָגַ֣ע_ בִּ֠כְנָפֹו אֶל־הַלֶּ֨חֶם וְאֶל־הַנָּזִ֜יד וְאֶל־הַיַּ֧יִן וְאֶל־שֶׁ֛מֶן וְאֶל־כָּל־מַאֲכָ֖ל (Hag. 2:12)
+NIV	If a person carries consecrated meat in the fold of his garment, and that fold _touches_ some bread or stew, some wine, oil or other food, does it become consecrated?’” The priests answered, “No.”
+ESV	‘If someone carries holy meat in the fold of his garment and _touches_ with his fold bread or stew or wine or oil or any kind of food, does it become holy?’” The priests answered and said, “No.”
+
+(x)	כִּֽי־תָשִׁ֣יב אֶל־אֵ֣ל רוּחֶ֑ךָ וְ_הֹצֵ֖אתָ_ מִפִּ֣יךָ מִלִּֽין׃ (Job 15:13)
+NIV	so that you vent your rage against God and _pour out_ such words from your mouth?
+ESV	that you turn your spirit against God and bring such words out of your mouth?
+
+(x)	כִּ֤י לֹ֣א יִֽ֭שְׁנוּ וְֽ_נִגְזְלָ֥ה_ שְׁ֝נָתָ֗ם (Prov. 4:16)
+NIV	For they cannot sleep till they do evil. they _are robbed_ of slumber till they make someone fall.
+ESV	For they cannot sleep unless they have done wrong. they _are robbed_ of sleep unless they have made someone stumble.
+
+(x)	שֶׁיָּזֻ֨עוּ֙ שֹׁמְרֵ֣י הַבַּ֔יִת וְ_הִֽתְעַוְּת֖וּ_ אַנְשֵׁ֣י הֶחָ֑יִל (Eccl. 12:3)
+NIV	when the keepers of the house tremble, and the strong men _stoop_, when the grinders cease because they are few, and those looking through the windows grow dim.
+ESV	in the day when the keepers of the house tremble, and the strong men _are bent_, and the grinders cease because they are few, and those who look through the windows are dimmed,
+
+(x)	לָ֤מָּה תִתְגָּרֶה֙ בְּרָעָ֔ה וְ_נָ֣פַלְתָּ֔_ אַתָּ֖ה (II Chr. 25:19)
+NIV	You say to yourself that you have defeated Edom, and now you are arrogant and proud. But stay at home! Why ask for trouble and cause your own downfall and that of Judah also?”
+ESV	You say, ‘See, I have struck down Edom,’ and your heart has lifted you up in boastfulness. But now stay at home. Why should you provoke trouble so that _you fall_, you and Judah with you?”

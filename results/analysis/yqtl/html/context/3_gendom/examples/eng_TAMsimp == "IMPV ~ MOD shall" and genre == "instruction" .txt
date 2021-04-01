@@ -1,12 +1,41 @@
 eng_TAMsimp == "IMPV ~ MOD shall" and genre == "instruction" 
-10 of 345
-you shall say, tell (ESV, NIV | BHS כֹּ֥ה תֹאמַ֖ר אֶל־בְּנֵ֣י יִשְׂרָאֵ֑ל , Exod. 20:22)
-do, follow (ESV, NIV | BHS וְלֹ֥א תַעֲשֶׂ֖ה כְּמַֽעֲשֵׂיהֶ֑ם , Exod. 23:24)
-you shall offer, do offer (ESV, NIV | BHS לֹא־תַעֲל֥וּ עָלָ֛יו קְטֹ֥רֶת זָרָ֖ה וְעֹלָ֣ה וּמִנְחָ֑ה , Exod. 30:9)
-you shall approach, do approach (ESV, NIV | BHS וְאֶל־אִשָּׁ֖ה בְּנִדַּ֣ת טֻמְאָתָ֑הּ לֹ֣א תִקְרַ֔ב , Lev. 18:19)
-reverence, have reverence (ESV, NIV | BHS וּמִקְדָּשִׁ֖י תִּירָ֑אוּ , Lev. 19:30)
-you shall wrong, do take advantage (ESV, NIV | BHS וְלֹ֤א תֹונוּ֙ , Lev. 25:17)
-you shall do, do (ESV, NIV | BHS כָּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֣א תַעֲשׂ֑וּ , Num. 29:12)
-you shall boil, do cook (ESV, NIV | BHS לֹֽא־תְבַשֵּׁ֥ל גְּדִ֖י בַּחֲלֵ֥ב אִמֹּֽו׃ פ , Deut. 14:21)
-you shall devote to complete destruction, completely destroy (ESV, NIV | BHS כִּֽי־הַחֲרֵ֣ם תַּחֲרִימֵ֗ם הַחִתִּ֤י וְהָאֱמֹרִי֙ הַכְּנַעֲנִ֣י וְהַפְּרִזִּ֔י הַחִוִּ֖י וְהַיְבוּסִ֑י , Deut. 20:17)
-you shall forget, do forget (ESV, NIV | BHS לֹ֖א תִּשְׁכָּֽח׃ פ , Deut. 25:19)
+10 of 347
+(x)	כֹּ֥ה _תֹאמַ֖ר_ אֶל־בְּנֵ֣י יִשְׂרָאֵ֑ל (Exod. 20:22)
+NIV	Then the LORD said to Moses, “_Tell_ the Israelites this: ‘You have seen for yourselves that I have spoken to you from heaven:
+ESV	And the Lord said to Moses, “Thus _you shall say_ to the people of Israel: ‘You have seen for yourselves that I have talked with you from heaven.
+
+(x)	וְלֹ֥א _תַעֲשֶׂ֖ה_ כְּמַֽעֲשֵׂיהֶ֑ם (Exod. 23:24)
+NIV	Do not bow down before their gods or worship them or _follow_ their practices. You must demolish them and break their sacred stones to pieces.
+ESV	you shall not bow _do_wn to their gods nor serve them, nor _do_ as they _do_, but you shall utterly overthrow them and break their pillars in pieces.
+
+(x)	לֹא־_תַעֲל֥וּ_ עָלָ֛יו קְטֹ֥רֶת זָרָ֖ה וְעֹלָ֣ה וּמִנְחָ֑ה (Exod. 30:9)
+NIV	Do not offer on this altar any other incense or any burnt offering or grain offering, and do not pour a drink offering on it.
+ESV	You shall not offer unauthorized incense on it, or a burnt offering, or a grain offering, and you shall not pour a drink offering on it.
+
+(x)	וְאֶל־אִשָּׁ֖ה בְּנִדַּ֣ת טֻמְאָתָ֑הּ לֹ֣א _תִקְרַ֔ב_ לְגַלֹּ֖ות עֶרְוָתָֽהּ׃ (Lev. 18:19)
+NIV	“‘Do not approach a woman to have sexual relations during the uncleanness of her monthly period.
+ESV	“You shall not approach a woman to uncover her nakedness while she is in her menstrual uncleanness.
+
+(x)	וּמִקְדָּשִׁ֖י _תִּירָ֑אוּ_ (Lev. 19:30)
+NIV	“‘Observe my Sabbaths and _have reverence_ for my sanctuary. I am the LORD.
+ESV	You shall keep my Sabbaths and _reverence_ my sanctuary: I am the Lord.
+
+(x)	אַל־_תֹּונ֖וּ_ אִ֥ישׁ אֶת־אָחִֽיו׃ (Lev. 25:14)
+NIV	“‘If you sell land to one of your countrymen or buy any from him, do not take advantage of each other.
+ESV	And if you make a sale to your neighbor or buy from your neighbor, you shall not wrong one another.
+
+(x)	וּבֶעָשֹׂור֩ לַחֹ֨דֶשׁ הַשְּׁבִיעִ֜י הַזֶּ֗ה מִֽקְרָא־קֹ֨דֶשׁ֙ _יִהְיֶ֣ה_ לָכֶ֔ם (Num. 29:7)
+NIV	“‘On the tenth day of this seventh month _hold_ a sacred assembly. You must deny yourselves and do no work.
+ESV	“On the tenth day of this seventh month you _shall have_ a holy convocation and afflict yourselves. You shall do no work,
+
+(x)	לֹֽא־_תְבַשֵּׁ֥ל_ גְּדִ֖י בַּחֲלֵ֥ב אִמֹּֽו׃ פ (Deut. 14:21)
+NIV	Do not eat anything you find already dead. You may give it to an alien living in any of your towns, and he may eat it, or you may sell it to a foreigner. But you are a people holy to the LORD your God. Do not cook a young goat in its mother’s milk.
+ESV	“You shall not eat anything that has died naturally. You may give it to the sojourner who is within your towns, that he may eat it, or you may sell it to a foreigner. For you are a people holy to the Lord your God. “You shall not boil a young goat in its mother’s milk.
+
+(x)	כִּֽי־הַחֲרֵ֣ם _תַּחֲרִימֵ֗ם_ הַחִתִּ֤י וְהָאֱמֹרִי֙ הַכְּנַעֲנִ֣י וְהַפְּרִזִּ֔י הַחִוִּ֖י וְהַיְבוּסִ֑י כַּאֲשֶׁ֥ר צִוְּךָ֖ יְהוָ֥ה אֱלֹהֶֽיךָ׃ (Deut. 20:17)
+NIV	_Completely destroy_ them — the Hittites, Amorites, Canaanites, Perizzites, Hivites and Jebusites — as the LORD your God has commanded you.
+ESV	but you shall devote them to complete destruction, the Hittites and the Amorites, the Canaanites and the Perizzites, the Hivites and the Jebusites, as the Lord your God has commanded,
+
+(x)	לֹ֖א _תִּשְׁכָּֽח_׃ פ (Deut. 25:19)
+NIV	When the LORD your God gives you rest from all the enemies around you in the land he is giving you to possess as an inheritance, you shall blot out the memory of Amalek from under heaven. Do not forget!
+ESV	Therefore when the Lord your God has given you rest from all your enemies around you, in the land that the Lord your God is giving you for an inheritance to possess, you shall blot out the memory of Amalek from under heaven. you shall not forget.

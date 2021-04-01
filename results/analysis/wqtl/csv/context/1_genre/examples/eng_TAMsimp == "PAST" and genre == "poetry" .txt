@@ -1,27 +1,101 @@
 eng_TAMsimp == "PAST" and genre == "poetry" 
 25 of 41
-shot, they shot (ESV, NIV | BHS וָרֹ֑בּוּ , Gen. 49:23)
-she shattered (ESV, NIV | BHS וּמָחֲצָ֥ה , Judg. 5:26)
-were rescued, were saved (ESV, NIV | BHS וְנִמְלָ֑טוּ , Psa. 22:6)
-he answered (ESV, NIV | BHS וְעָנָ֑נִי , Psa. 34:5)
-promised, spoke (ESV, NIV | BHS וְדִבֶּר־פִּ֝֗י בַּצַּר־לִֽי׃ , Psa. 66:14)
-they repented, they turned (ESV, NIV | BHS וְ֝שָׁ֗בוּ , Psa. 78:34)
-comforted (ESV, NIV | BHS וְנִחַמְתָּֽנִי׃ , Psa. 86:17)
-gave, he gave (ESV, NIV | BHS וְנָתַ֣ן אַרְצָ֣ם נַחֲלָ֑ה , Psa. 135:12)
-gave (ESV, NIV | BHS וְנָתַ֣ן אַרְצָ֣ם לְנַחֲלָ֑ה , Psa. 136:21)
-they were created (ESV, NIV | BHS וְנִבְרָֽאוּ׃ , Psa. 148:5)
-withdrew, stepped aside (ESV, NIV | BHS וְנֶחְבָּ֑אוּ , Job 29:8)
-I applied, I devoted (ESV, NIV | BHS וְנָתַ֣תִּי אֶת־לִבִּ֗י , Eccl. 1:13)
-I became great, I became greater (ESV, NIV | BHS וְגָדַ֣לְתִּי , Eccl. 2:9)
-turned (ESV, NIV | BHS וּפָנִ֤יתִֽי אֲנִי֙ , Eccl. 2:12)
-perceived, came to realise (ESV, NIV | BHS וְיָדַ֣עְתִּי גַם־אָ֔נִי , Eccl. 2:14)
-said, thought (ESV, NIV | BHS וְאָמַ֨רְתִּֽי אֲנִ֜י בְּלִבִּ֗י , Eccl. 2:15)
-I hated (ESV, NIV | BHS וְשָׂנֵ֨אתִי֙ אֶת־הַ֣חַיִּ֔ים , Eccl. 2:17)
-turned about, began (ESV, NIV | BHS וְסַבֹּ֥ותִֽי אֲנִ֖י , Eccl. 2:20)
-I saw (ESV, NIV | BHS וְרָאִ֗יתִי , Eccl. 3:22)
-I saw (ESV, NIV | BHS וְרָאִיתִי֮ אֶת־כָּל־מַעֲשֵׂ֣ה הָאֱלֹהִים֒ , Eccl. 8:17)
-besieged, surrounded (ESV, NIV | BHS וְסָבַ֣ב אֹתָ֔הּ , Eccl. 9:14)
-was found, lived (ESV, NIV | BHS וּמָ֣צָא בָ֗הּ אִ֤ישׁ מִסְכֵּן֙ חָכָ֔ם , Eccl. 9:15)
-raised, reared (ESV, NIV | BHS וְרִבִּ֖יתִי , Lam. 2:22)
-gave, named (ESV, NIV | BHS וְשַׂ֥מְתָּ שְּׁמֹ֖ו אַבְרָהָֽם׃ , Neh. 9:7)
-you found (ESV, NIV | BHS וּמָצָ֣אתָ אֶת־לְבָבֹו֮ , Neh. 9:8)
+(x)	וַֽיְמָרֲרֻ֖הוּ וָ_רֹ֑בּוּ_ (Gen. 49:23)
+NIV	With bitterness archers attacked him. _they shot_ at him with hostility.
+ESV	The archers bitterly attacked him, _shot_ at him, and harassed him severely,
+
+(x)	וּ_מָחֲצָ֥ה_ (Judg. 5:26)
+NIV	Her hand reached for the tent peg, her right hand for the workman’s hammer. She struck Sisera, she crushed his head, _she shattered_ and pierced his temple.
+ESV	She sent her hand to the tent peg and her right hand to the workmen’s mallet. she struck Sisera. she crushed his head. _she shattered_ and pierced his temple.
+
+(x)	וְ_נִמְלָ֑טוּ_ (Psa. 22:6)
+NIV	They cried to you and _were saved_. in you they trusted and were not disappointed.
+ESV	To you they cried and _were rescued_. in you they trusted and were not put to shame.
+
+(x)	וְ_עָנָ֑נִי_ (Psa. 34:5)
+NIV	I sought the LORD, and _he answered_ me. he delivered me from all my fears.
+ESV	I sought the Lord, and _he answered_ me and delivered me from all my fears.
+
+(x)	אֲשַׁלֵּ֖ם לְךָ֣ נְדָרָֽי׃ אֲשֶׁר־פָּצ֥וּ שְׂפָתָ֑י וְ_דִבֶּר_־פִּ֝֗י בַּצַּר־לִֽי׃ (Psa. 66:14)
+NIV	vows my lips promised and my mouth _spoke_ when I was in trouble.
+ESV	that which my lips uttered and my mouth _promised_ when I was in trouble.
+
+(x)	וְ֝_שָׁ֗בוּ_ (Psa. 78:34)
+NIV	Whenever God slew them, they would seek him. they eagerly turned to him again.
+ESV	When he killed them, they sought him. _they repented_ and sought God earnestly.
+
+(x)	כִּֽי־אַתָּ֥ה יְ֝הוָ֗ה עֲזַרְתַּ֥נִי וְ_נִחַמְתָּֽנִי_׃ (Psa. 86:17)
+NIV	Give me a sign of your goodness, that my enemies may see it and be put to shame, for you, O LORD, have helped me and _comforted_ me.
+ESV	Show me a sign of your favor, that those who hate me may see and be put to shame because you, Lord, have helped me and _comforted_ me.
+
+(x)	הַֽ֭לְלוּ־יָהּ שֶֽׁ֭הִכָּה בְּכֹורֵ֣י מִצְרָ֑יִם מֵ֝אָדָ֗ם עַד־בְּהֵמָֽה׃ שָׁלַ֤ח׀ אֹתֹ֣ות וּ֭מֹפְתִים בְּתֹוכֵ֣כִי מִצְרָ֑יִם בְּ֝פַרְעֹ֗ה וּבְכָל־עֲבָדָֽיו׃ שֶֽׁ֭הִכָּה גֹּויִ֣ם רַבִּ֑ים וְ֝הָרַ֗ג מְלָכִ֥ים עֲצוּמִֽים׃ לְסִיחֹ֤ון׀ מֶ֤לֶךְ הָאֱמֹרִ֗י וּ֭לְעֹוג מֶ֣לֶךְ הַבָּשָׁ֑ן וּ֝לְכֹ֗ל מַמְלְכֹ֥ות כְּנָֽעַן׃ וְ_נָתַ֣ן_ אַרְצָ֣ם נַחֲלָ֑ה נַ֝חֲלָ֗ה לְיִשְׂרָאֵ֥ל עַמֹּֽו׃ (Psa. 135:12)
+NIV	and _he gave_ their land as an inheritance, an inheritance to his people Israel.
+ESV	and _gave_ their land as a heritage, a heritage to his people Israel.
+
+(x)	הֹ֭ודוּ לַאֲדֹנֵ֣י הָאֲדֹנִ֑ים לְעֹ֘שֵׂ֤ה נִפְלָאֹ֣ות גְּדֹלֹ֣ות לְבַדֹּ֑ו לְעֹשֵׂ֣ה הַ֭שָּׁמַיִם בִּתְבוּנָ֑ה לְרֹקַ֣ע הָ֭אָרֶץ עַל־הַמָּ֑יִם לְ֭עֹשֵׂה אֹורִ֣ים גְּדֹלִ֑ים אֶת־הַ֭שֶּׁמֶשׁ לְמֶמְשֶׁ֣לֶת בַּיֹּ֑ום אֶת־הַיָּרֵ֣חַ וְ֭כֹוכָבִים לְמֶמְשְׁלֹ֣ות בַּלָּ֑יְלָה לְמַכֵּ֣ה מִ֭צְרַיִם בִּבְכֹורֵיהֶ֑ם וַיֹּוצֵ֣א יִ֭שְׂרָאֵל מִתֹּוכָ֑ם בְּיָ֣ד חֲ֭זָקָה וּבִזְרֹ֣ועַ נְטוּיָ֑ה לְגֹזֵ֣ר יַם־ס֭וּף לִגְזָרִ֑ים וְהֶעֱבִ֣יר יִשְׂרָאֵ֣ל בְּתֹוכֹ֑ו וְנִ֘עֵ֤ר פַּרְעֹ֣ה וְחֵילֹ֣ו בְיַם־ס֑וּף לְמֹולִ֣יךְ עַ֭מֹּו בַּמִּדְבָּ֑ר לְ֭מַכֵּה מְלָכִ֣ים גְּדֹלִ֑ים וַֽ֭יַּהֲרֹג מְלָכִ֣ים אַדִּירִ֑ים לְ֭סִיחֹון מֶ֣לֶךְ הָאֱמֹרִ֑י וּ֭לְעֹוג מֶ֣לֶךְ הַבָּשָׁ֑ן וְ_נָתַ֣ן_ אַרְצָ֣ם לְנַחֲלָ֑ה נַ֭חֲלָה לְיִשְׂרָאֵ֣ל עַבְדֹּ֑ו שֶׁ֭בְּשִׁפְלֵנוּ זָ֣כַר לָ֑נוּ וַיִּפְרְקֵ֥נוּ מִצָּרֵ֑ינוּ נֹתֵ֣ן לֶ֭חֶם לְכָל־בָּשָׂ֑ר (Psa. 136:21)
+NIV	and _gave_ their land as an inheritance, His love endures forever.
+ESV	and _gave_ their land as a heritage, for his steadfast love endures forever.
+
+(x)	כִּ֤י ה֭וּא צִוָּ֣ה וְ_נִבְרָֽאוּ_׃ וַיַּעֲמִידֵ֣ם לָעַ֣ד לְעֹולָ֑ם חָק־נָ֝תַ֗ן וְלֹ֣א יַעֲבֹֽור׃ (Psa. 148:5)
+NIV	Let them praise the name of the LORD, for he commanded and _they were created_.
+ESV	Let them praise the name of the Lord! For he commanded and _they were created_.
+
+(x)	וְ_נֶחְבָּ֑אוּ_ (Job 29:8)
+NIV	the young men saw me and _stepped aside_ and the old men rose to their feet.
+ESV	the young men saw me and _withdrew_, and the aged rose and stood.
+
+(x)	וְ_נָתַ֣תִּי_ אֶת־לִבִּ֗י לִדְרֹ֤ושׁ וְלָתוּר֙ בַּֽחָכְמָ֔ה עַ֛ל כָּל־אֲשֶׁ֥ר נַעֲשָׂ֖ה תַּ֣חַת הַשָּׁמָ֑יִם (Eccl. 1:13)
+NIV	_I devoted_ myself to study and to explore by wisdom all that is done under heaven. What a heavy burden God has laid on men!
+ESV	And _I applied_ my heart to seek and to search out by wisdom all that is done under heaven. It is an unhappy business that God has given to the children of man to be busy with.
+
+(x)	וְ_גָדַ֣לְתִּי_ (Eccl. 2:9)
+NIV	_I became greater_ by far than anyone in Jerusalem before me. In all this my wisdom stayed with me.
+ESV	So _I became great_ and surpassed all who were before me in Jerusalem. Also my wisdom remained with me.
+
+(x)	וּ_פָנִ֤יתִֽי_ אֲנִי֙ לִרְאֹ֣ות חָכְמָ֔ה וְהֹולֵלֹ֖ות וְסִכְל֑וּת (Eccl. 2:12)
+NIV	Then I _turned_ my thoughts to consider wisdom, and also madness and folly. What more can the king’s successor do than what has already been done?
+ESV	So I _turned_ to consider wisdom and madness and folly. For what can the man do who comes after the king? Only what has already been done.
+
+(x)	וְ_יָדַ֣עְתִּי_ גַם־אָ֔נִי שֶׁמִּקְרֶ֥ה אֶחָ֖ד יִקְרֶ֥ה אֶת־כֻּלָּֽם׃ (Eccl. 2:14)
+NIV	The wise man has eyes in his head, while the fool walks in the darkness. but I _came to realise_ that the same fate overtakes them both.
+ESV	The wise person has his eyes in his head, but the fool walks in darkness. And yet I _perceived_ that the same event happens to all of them.
+
+(x)	וְ_אָמַ֨רְתִּֽי_ אֲנִ֜י בְּלִבִּ֗י (Eccl. 2:15)
+NIV	Then I _thought_ in my heart, “The fate of the fool will overtake me also. What then do I gain by being wise?” I said in my heart, “This too is meaningless.”
+ESV	Then I _said_ in my heart, “What happens to the fool will happen to me also. Why then have I been so very wise?” And I _said_ in my heart that this also is vanity.
+
+(x)	וְ_שָׂנֵ֨אתִי֙_ אֶת־הַ֣חַיִּ֔ים (Eccl. 2:17)
+NIV	So _I hated_ life, because the work that is done under the sun was grievous to me. All of it is meaningless, a chasing after the wind.
+ESV	So _I hated_ life, because what is done under the sun was grievous to me, for all is vanity and a striving after wind.
+
+(x)	וְ_סַבֹּ֥ותִֽי_ אֲנִ֖י לְיַאֵ֣שׁ אֶת־לִבִּ֑י עַ֚ל כָּל־הֶ֣עָמָ֔ל שֶׁעָמַ֖לְתִּי תַּ֥חַת הַשָּֽׁמֶשׁ׃ (Eccl. 2:20)
+NIV	So my heart _began_ to despair over all my toilsome labour under the sun.
+ESV	So I _turned about_ and gave my heart up to despair over all the toil of my labors under the sun,
+
+(x)	וְ_רָאִ֗יתִי_ כִּ֣י אֵ֥ין טֹוב֙ מֵאֲשֶׁ֨ר יִשְׂמַ֤ח הָאָדָם֙ בְּֽמַעֲשָׂ֔יו (Eccl. 3:22)
+NIV	So _I saw_ that there is nothing better for a man than to enjoy his work, because that is his lot. For who can bring him to see what will happen after him?
+ESV	So _I saw_ that there is nothing better than that a man should rejoice in his work, for that is his lot. Who can bring him to see what will be after him?
+
+(x)	וְ_רָאִיתִי֮_ אֶת־כָּל־מַעֲשֵׂ֣ה הָאֱלֹהִים֒ כִּי֩ לֹ֨א יוּכַ֜ל הָאָדָ֗ם לִמְצֹוא֙ אֶת־הַֽמַּעֲשֶׂה֙ אֲשֶׁ֣ר נַעֲשָׂ֣ה תַֽחַת־הַשֶּׁ֔מֶשׁ בְּ֠שֶׁל אֲשֶׁ֨ר יַעֲמֹ֧ל הָאָדָ֛ם לְבַקֵּ֖שׁ (Eccl. 8:17)
+NIV	then _I saw_ all that God has done. No-one can comprehend what goes on under the sun. Despite all his efforts to search it out, man cannot discover its meaning. Even if a wise man claims he knows, he cannot really comprehend it.
+ESV	then _I saw_ all the work of God, that man cannot find out the work that is done under the sun. However much man may toil in seeking, he will not find it out. Even though a wise man claims to know, he cannot find it out.
+
+(x)	עִ֣יר קְטַנָּ֔ה וַאֲנָשִׁ֥ים בָּ֖הּ מְעָ֑ט וּבָֽא־אֵלֶ֜יהָ מֶ֤לֶךְ גָּדֹול֙ וְ_סָבַ֣ב_ אֹתָ֔הּ וּבָנָ֥ה עָלֶ֖יהָ מְצֹודִ֥ים גְּדֹלִֽים׃ וּמָ֣צָא בָ֗הּ אִ֤ישׁ מִסְכֵּן֙ חָכָ֔ם וּמִלַּט־ה֥וּא אֶת־הָעִ֖יר בְּחָכְמָתֹ֑ו (Eccl. 9:14)
+NIV	There was once a small city with only a few people in it. And a powerful king came against it, _surrounded_ it and built huge siegeworks against it.
+ESV	There was a little city with few men in it, and a great king came against it and _besieged_ it, building great siegeworks against it.
+
+(x)	עִ֣יר קְטַנָּ֔ה וַאֲנָשִׁ֥ים בָּ֖הּ מְעָ֑ט וּבָֽא־אֵלֶ֜יהָ מֶ֤לֶךְ גָּדֹול֙ וְסָבַ֣ב אֹתָ֔הּ וּבָנָ֥ה עָלֶ֖יהָ מְצֹודִ֥ים גְּדֹלִֽים׃ וּ_מָ֣צָא_ בָ֗הּ אִ֤ישׁ מִסְכֵּן֙ חָכָ֔ם וּמִלַּט־ה֥וּא אֶת־הָעִ֖יר בְּחָכְמָתֹ֑ו (Eccl. 9:15)
+NIV	Now there _lived_ in that city a man poor but wise, and he saved the city by his wisdom. But nobody remembered that poor man.
+ESV	But there _was found_ in it a poor, wise man, and he by his wisdom delivered the city. Yet no one remembered that poor man.
+
+(x)	אֲשֶׁר־טִפַּ֥חְתִּי וְ_רִבִּ֖יתִי_ אֹיְבִ֥י כִלָּֽם׃ פ (Lam. 2:22)
+NIV	“As you summon to a feast day, so you summoned against me terrors on every side. In the day of the LORD’s anger no-one escaped or survived. those I cared for and _reared_, my enemy has destroyed.”
+ESV	You summoned as if to a festival day my terrors on every side, and on the day of the anger of the Lord no one escaped or survived. those whom I held and _raised_ my enemy destroyed.
+
+(x)	אַתָּה־הוּא֙ יְהוָ֣ה הָאֱלֹהִ֔ים אֲשֶׁ֤ר בָּחַ֨רְתָּ֙ בְּאַבְרָ֔ם וְהֹוצֵאתֹ֖ו מֵא֣וּר כַּשְׂדִּ֑ים וְ_שַׂ֥מְתָּ_ שְּׁמֹ֖ו אַבְרָהָֽם׃ וּמָצָ֣אתָ אֶת־לְבָבֹו֮ נֶאֱמָ֣ן לְפָנֶיךָ֒ וְכָרֹ֨ות עִמֹּ֜ו הַבְּרִ֗ית לָתֵ֡ת אֶת־אֶרֶץ֩ הַכְּנַעֲנִ֨י הַחִתִּ֜י הָאֱמֹרִ֧י וְהַפְּרִזִּ֛י וְהַיְבוּסִ֥י וְהַגִּרְגָּשִׁ֖י לָתֵ֣ת לְזַרְעֹ֑ו (Neh. 9:7)
+NIV	“You are the LORD God, who chose Abram and brought him out of Ur of the Chaldeans and _named_ him Abraham.
+ESV	You are the Lord, the God who chose Abram and brought him out of Ur of the Chaldeans and _gave_ him the name Abraham.
+
+(x)	אַתָּה־הוּא֙ יְהוָ֣ה הָאֱלֹהִ֔ים אֲשֶׁ֤ר בָּחַ֨רְתָּ֙ בְּאַבְרָ֔ם וְהֹוצֵאתֹ֖ו מֵא֣וּר כַּשְׂדִּ֑ים וְשַׂ֥מְתָּ שְּׁמֹ֖ו אַבְרָהָֽם׃ וּ_מָצָ֣אתָ_ אֶת־לְבָבֹו֮ נֶאֱמָ֣ן לְפָנֶיךָ֒ וְכָרֹ֨ות עִמֹּ֜ו הַבְּרִ֗ית לָתֵ֡ת אֶת־אֶרֶץ֩ הַכְּנַעֲנִ֨י הַחִתִּ֜י הָאֱמֹרִ֧י וְהַפְּרִזִּ֛י וְהַיְבוּסִ֥י וְהַגִּרְגָּשִׁ֖י לָתֵ֣ת לְזַרְעֹ֑ו (Neh. 9:8)
+NIV	_You found_ his heart faithful to you, and you made a covenant with him to give to his descendants the land of the Canaanites, Hittites, Amorites, Perizzites, Jebusites and Girgashites. You have kept your promise because you are righteous.
+ESV	_You found_ his heart faithful before you, and made with him the covenant to give to his offspring the land of the Canaanite, the Hittite, the Amorite, the Perizzite, the Jebusite, and the Girgashite. And you have kept your promise, for you are righteous.

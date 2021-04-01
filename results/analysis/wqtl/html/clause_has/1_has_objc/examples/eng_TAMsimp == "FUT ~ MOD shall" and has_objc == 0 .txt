@@ -1,27 +1,101 @@
 eng_TAMsimp == "FUT ~ MOD shall" and has_objc == 0 
 25 of 768
-hold fast, be united (ESV, NIV | BHS וְדָבַ֣ק בְּאִשְׁתֹּ֔ו , Gen. 2:24)
-shall die, will die (ESV, NIV | BHS וּמֵ֣ת כָּל־בְּכֹור֮ בְּאֶ֣רֶץ מִצְרַיִם֒ , Exod. 11:5)
-shall be forgiven, will be forgiven (ESV, NIV | BHS וְנִסְלַ֥ח לֹֽו׃ פ , Lev. 4:35)
-be unclean, he will be unclean (ESV, NIV | BHS וְטָמֵ֥א עַד־הָעָֽרֶב׃ , Lev. 15:6)
-shall be spent, will be spent (ESV, NIV | BHS וְתַ֥ם לָרִ֖יק כֹּחֲכֶ֑ם , Lev. 26:20)
-shall be counted, will be reckoned (ESV, NIV | BHS וְנֶחְשַׁ֥ב לָכֶ֖ם תְּרוּמַתְכֶ֑ם כַּדָּגָן֙ מִן־הַגֹּ֔רֶן וְכַֽמְלֵאָ֖ה מִן־הַיָּֽקֶב׃ , Num. 18:27)
-you shall eat, you will eat (ESV, NIV | BHS וְאָכַלְתָּ֖ , Deut. 11:15)
-they shall be, they will become (ESV, NIV | BHS וְהָי֨וּ לָכֶ֜ם לְפַ֣ח וּלְמֹוקֵ֗שׁ וּלְשֹׁטֵ֤ט בְּצִדֵּיכֶם֙ וְלִצְנִנִ֣ים בְּעֵינֵיכֶ֔ם , Josh. 23:13)
-shall be, will be (ESV, NIV | BHS וְֽהָיְתָ֞ה נִבְלַ֣ת אִיזֶ֗בֶל כְּדֹ֛מֶן עַל־פְּנֵ֥י הַשָּׂדֶ֖ה בְּחֵ֣לֶק יִזְרְעֶ֑אל , II Kgs. 9:37)
-shall be, will be (ESV, NIV | BHS וְהָיְתָ֥ה מְנֻחָתֹ֖ו כָּבֹֽוד׃ פ , Isa. 11:10)
-shall be carried, will be carried off (ESV, NIV | BHS וְנִשָּׂ֣א׀ כָּל־, Isa. 39:6)
-they shall come, they will come (ESV, NIV | BHS וּבָ֖אוּ , Isa. 66:18)
-shall become, will become (ESV, NIV | BHS וְהָֽיְתָה֙ כָּל־הָאָ֣רֶץ הַזֹּ֔את לְחָרְבָּ֖ה לְשַׁמָּ֑ה , Jer. 25:11)
-this city shall be, will bring (ESV, NIV | BHS וְהָ֣יְתָה לִּ֗י לְשֵׁ֤ם שָׂשֹׂון֙ לִתְהִלָּ֣ה וּלְתִפְאֶ֔רֶת לְכֹ֖ל גֹּויֵ֣י הָאָ֑רֶץ , Jer. 33:9)
-shall become, will become (ESV, NIV | BHS וְהָיְתָ֥ה אֱדֹ֖ום לְשַׁמָּ֑ה , Jer. 49:17)
-they shall know, they will know (ESV, NIV | BHS וְיָדְע֖וּ , Ezek. 12:15)
-you shall know, you will know (ESV, NIV | BHS וִידַעְתֶּ֕ם , Ezek. 23:49)
-they shall know, they will know (ESV, NIV | BHS וְיָדְע֗וּ , Ezek. 34:30)
-it shall revert, it will revert (ESV, NIV | BHS וְשָׁבַ֖ת לַנָּשִׂ֑יא , Ezek. 46:17)
-shall perish, will be destroyed (ESV, NIV | BHS וְאָבְד֞וּ בָּתֵּ֣י הַשֵּׁ֗ן , Amos 3:15)
-you shall go, you will go (ESV, NIV | BHS וּבָ֤את עַד־בָּבֶל֙ , Mic. 4:10)
-shall take hold, will take firm hold of (ESV, NIV | BHS וְֽהֶחֱזִ֡יקוּ בִּכְנַף֩ אִ֨ישׁ יְהוּדִ֜י , Zech. 8:23)
-shall dwell, will be (ESV, NIV | BHS וְיָשְׁבָ֥ה יְרוּשָׁלִַ֖ם לָבֶֽטַח׃ , Zech. 14:11)
-perform, will make (ESV, NIV | BHS וְעָשָׂ֑ה , Dan. 11:17)
-you shall be gathered, will be buried (ESV, NIV | BHS וְנֶאֱסַפְתָּ֣ אֶל־קִבְרֹתֶיךָ֮ בְּשָׁלֹום֒ , II Chr. 34:28)
+(x)	וְ_דָבַ֣ק_ בְּאִשְׁתֹּ֔ו (Gen. 2:24)
+NIV	For this reason a man will leave his father and mother and _be united_ to his wife, and they will become one flesh.
+ESV	Therefore a man shall leave his father and his mother and _hold fast_ to his wife, and they shall become one flesh.
+
+(x)	וּ_מֵ֣ת_ כָּל־בְּכֹור֮ בְּאֶ֣רֶץ מִצְרַיִם֒ (Exod. 11:5)
+NIV	Every firstborn son in Egypt _will die_, from the firstborn son of Pharaoh, who sits on the throne, to the firstborn son of the slave girl, who is at her hand mill, and all the firstborn of the cattle as well.
+ESV	and every firstborn in the land of Egypt _shall die_, from the firstborn of Pharaoh who sits on his throne, even to the firstborn of the slave girl who is behind the handmill, and all the firstborn of the cattle.
+
+(x)	וְ_נִסְלַ֥ח_ לֹֽו׃ פ (Lev. 4:35)
+NIV	He shall remove all the fat, just as the fat is removed from the lamb of the fellowship offering, and the priest shall burn it on the altar on top of the offerings made to the LORD by fire. In this way the priest will make atonement for him for the sin he has committed, and he _will be forgiven_.
+ESV	And all its fat he shall remove as the fat of the lamb is removed from the sacrifice of peace offerings, and the priest shall burn it on the altar, on top of the Lord’s food offerings. And the priest shall make atonement for him for the sin which he has committed, and he _shall be forgiven_.
+
+(x)	וְ_טָמֵ֥א_ עַד־הָעָֽרֶב׃ (Lev. 15:6)
+NIV	Whoever sits on anything that the man with a discharge sat on must wash his clothes and bathe with water, and _he will be unclean_ till evening.
+ESV	And whoever sits on anything on which the one with the discharge has sat shall wash his clothes and bathe himself in water and _be unclean_ until the evening.
+
+(x)	וְ_תַ֥ם_ לָרִ֖יק כֹּחֲכֶ֑ם (Lev. 26:20)
+NIV	Your strength _will be spent_ in vain, because your soil will not yield its crops, nor will the trees of the land yield their fruit.
+ESV	And your strength _shall be spent_ in vain, for your land shall not yield its increase, and the trees of the land shall not yield their fruit.
+
+(x)	וְ_נֶחְשַׁ֥ב_ לָכֶ֖ם תְּרוּמַתְכֶ֑ם כַּדָּגָן֙ מִן־הַגֹּ֔רֶן וְכַֽמְלֵאָ֖ה מִן־הַיָּֽקֶב׃ (Num. 18:27)
+NIV	Your offering _will be reckoned_ to you as grain from the threshing floor or juice from the winepress.
+ESV	And your contribution _shall be counted_ to you as though it were the grain of the threshing floor, and as the fullness of the winepress.
+
+(x)	וְ_אָכַלְתָּ֖_ (Deut. 11:15)
+NIV	I will provide grass in the fields for your cattle, and _you will eat_ and be satisfied.
+ESV	And he will give grass in your fields for your livestock, and _you shall eat_ and be full.
+
+(x)	וְ_הָי֨וּ_ לָכֶ֜ם לְפַ֣ח וּלְמֹוקֵ֗שׁ וּלְשֹׁטֵ֤ט בְּצִדֵּיכֶם֙ וְלִצְנִנִ֣ים בְּעֵינֵיכֶ֔ם עַד־אֲבָדְכֶ֗ם מֵ֠עַל הָאֲדָמָ֤ה הַטֹּובָה֙ הַזֹּ֔את אֲשֶׁר֙ נָתַ֣ן לָכֶ֔ם יְהוָ֖ה אֱלֹהֵיכֶֽם׃ (Josh. 23:13)
+NIV	then you may be sure that the LORD your God will no longer drive out these nations before you. Instead, _they will become_ snares and traps for you, whips on your backs and thorns in your eyes, until you perish from this good land, which the LORD your God has given you.
+ESV	know for certain that the Lord your God will no longer drive out these nations before you, but _they shall be_ a snare and a trap for you, a whip on your sides and thorns in your eyes, until you perish from off this good ground that the Lord your God has given you.
+
+(x)	וְֽהָיְתָ֞ה נִבְלַ֣ת אִיזֶ֗בֶל כְּדֹ֛מֶן עַל־פְּנֵ֥י הַשָּׂדֶ֖ה בְּחֵ֣לֶק יִזְרְעֶ֑אל (II Kgs. 9:37)
+NIV	Jezebel’s body _will be_ like refuse on the ground in the plot at Jezreel, so that no-one _will be_ able to say, ‘This is Jezebel.’”
+ESV	and the corpse of Jezebel _shall be_ as dung on the face of the field in the territory of Jezreel, so that no one can say, This is Jezebel.’”
+
+(x)	וְ_הָיְתָ֥ה_ מְנֻחָתֹ֖ו כָּבֹֽוד׃ פ (Isa. 11:10)
+NIV	In that day the Root of Jesse will stand as a banner for the peoples. the nations will rally to him, and his place of rest _will be_ glorious.
+ESV	In that day the root of Jesse, who shall stand as a signal for the peoples — of him shall the nations inquire, and his resting place _shall be_ glorious.
+
+(x)	וְ_נִשָּׂ֣א_׀ כָּל־אֲשֶׁ֣ר בְּבֵיתֶ֗ךָ וַאֲשֶׁ֨ר אָצְר֧וּ אֲבֹתֶ֛יךָ עַד־הַיֹּ֥ום הַזֶּ֖ה בָּבֶ֑ל (Isa. 39:6)
+NIV	The time will surely come when everything in your palace, and all that your fathers have stored up until this day, _will be carried off_ to Babylon. Nothing will be left, says the LORD.
+ESV	Behold, the days are coming, when all that is in your house, and that which your fathers have stored up till this day, _shall be carried_ to Babylon. Nothing shall be left, says the Lord.
+
+(x)	וְאָנֹכִ֗י בָּאָ֕ה לְקַבֵּ֥ץ אֶת־כָּל־הַגֹּויִ֖ם וְהַלְּשֹׁנֹ֑ות וּ_בָ֖אוּ_ וְרָא֥וּ אֶת־כְּבֹודִֽי׃ (Isa. 66:18)
+NIV	“And I, because of their actions and their imaginations, am about to come and gather all nations and tongues, and _they will come_ and see my glory.
+ESV	“For I know their works and their thoughts, and the time is coming to gather all nations and tongues. And _they shall come_ and shall see my glory,
+
+(x)	וְ_הָֽיְתָה֙_ כָּל־הָאָ֣רֶץ הַזֹּ֔את לְחָרְבָּ֖ה לְשַׁמָּ֑ה (Jer. 25:11)
+NIV	This whole country _will become_ a desolate wasteland, and these nations will serve the king of Babylon for seventy years.
+ESV	This whole land _shall become_ a ruin and a waste, and these nations shall serve the king of Babylon seventy years.
+
+(x)	וְ_הָ֣יְתָה_ לִּ֗י לְשֵׁ֤ם שָׂשֹׂון֙ לִתְהִלָּ֣ה וּלְתִפְאֶ֔רֶת לְכֹ֖ל גֹּויֵ֣י הָאָ֑רֶץ אֲשֶׁ֨ר יִשְׁמְע֜וּ אֶת־כָּל־הַטֹּובָ֗ה אֲשֶׁ֤ר אָֽנֹכִי֙ עֹשֶׂ֣ה אֹתָ֔ם (Jer. 33:9)
+NIV	Then this city _will bring_ me renown, joy, praise and honour before all nations on earth that hear of all the good things I do for it. and they will be in awe and will tremble at the abundant prosperity and peace I provide for it.’
+ESV	And _this city shall be_ to me a name of joy, a praise and a glory before all the nations of the earth who shall hear of all the good that I do for them. They shall fear and tremble because of all the good and all the prosperity I provide for it.
+
+(x)	וְ_הָיְתָ֥ה_ אֱדֹ֖ום לְשַׁמָּ֑ה (Jer. 49:17)
+NIV	“Edom _will become_ an object of horror. all who pass by will be appalled and will scoff because of all its wounds.
+ESV	“Edom _shall become_ a horror. Everyone who passes by it will be horrified and will hiss because of all its disasters.
+
+(x)	וְ_יָדְע֖וּ_ כִּֽי־אֲנִ֣י יְהוָ֑ה בַּהֲפִיצִ֤י אֹותָם֙ בַּגֹּויִ֔ם וְזֵרִיתִ֥י אֹותָ֖ם בָּאֲרָצֹֽות׃ (Ezek. 12:15)
+NIV	“_They will know_ that I am the LORD, when I disperse them among the nations and scatter them through the countries.
+ESV	And _they shall know_ that I am the Lord, when I disperse them among the nations and scatter them among the countries.
+
+(x)	וִ_ידַעְתֶּ֕ם_ כִּ֥י אֲנִ֖י אֲדֹנָ֥י יְהוִֽה׃ פ (Ezek. 23:49)
+NIV	You will suffer the penalty for your lewdness and bear the consequences of your sins of idolatry. Then _you will know_ that I am the Sovereign LORD.”
+ESV	And they shall return your lewdness upon you, and you shall bear the penalty for your sinful idolatry, and _you shall know_ that I am the Lord God.”
+
+(x)	וְ_יָדְע֗וּ_ כִּ֣י אֲנִ֧י יְהוָ֛ה אֱלֹהֵיהֶ֖ם אִתָּ֑ם וְהֵ֗מָּה עַמִּי֙ בֵּ֣ית יִשְׂרָאֵ֔ל (Ezek. 34:30)
+NIV	Then _they will know_ that I, the LORD their God, am with them and that they, the house of Israel, are my people, declares the Sovereign LORD.
+ESV	And _they shall know_ that I am the Lord their God with them, and that they, the house of Israel, are my people, declares the Lord God.
+
+(x)	וְ_שָׁבַ֖ת_ לַנָּשִׂ֑יא (Ezek. 46:17)
+NIV	If, however, he makes a gift from his inheritance to one of his servants, the servant may keep it until the year of freedom. then _it will revert_ to the prince. His inheritance belongs to his sons only. it is theirs.
+ESV	But if he makes a gift out of his inheritance to one of his servants, it shall be his to the year of liberty. Then _it shall revert_ to the prince. surely it is his inheritance — it shall belong to his sons.
+
+(x)	וְ_אָבְד֞וּ_ בָּתֵּ֣י הַשֵּׁ֗ן (Amos 3:15)
+NIV	I will tear down the winter house along with the summer house. the houses adorned with ivory _will be destroyed_ and the mansions will be demolished,” declares the LORD.
+ESV	I will strike the winter house along with the summer house, and the houses of ivory _shall perish_, and the great houses shall come to an end,” declares the Lord.
+
+(x)	וּ_בָ֤את_ עַד־בָּבֶל֙ (Mic. 4:10)
+NIV	Writhe in agony, O Daughter of Zion, like a woman in labour, for now you must leave the city to camp in the open field. _You will go_ to Babylon. there you will be rescued. There the LORD will redeem you out of the hand of your enemies.
+ESV	Writhe and groan, O daughter of Zion, like a woman in labor, for now _you shall go_ out from the city and dwell in the open country. _you shall go_ to Babylon. There you shall be rescued. there the Lord will redeem you from the hand of your enemies.
+
+(x)	וְֽ_הֶחֱזִ֡יקוּ_ בִּכְנַף֩ אִ֨ישׁ יְהוּדִ֜י לֵאמֹ֗ר (Zech. 8:23)
+NIV	This is what the LORD Almighty says: “In those days ten men from all languages and nations _will take firm hold of_ one Jew by the hem of his robe and say, ‘Let us go with you, because we have heard that God is with you.’”
+ESV	Thus says the Lord of hosts: In those days ten men from the nations of every tongue _shall take hold_ of the robe of a Jew, saying, ‘Let us go with you, for we have heard that God is with you.’”
+
+(x)	וְ_יָשְׁבָ֥ה_ יְרוּשָׁלִַ֖ם לָבֶֽטַח׃ (Zech. 14:11)
+NIV	It _will be_ inhabited. never again will it be destroyed. Jerusalem _will be_ secure.
+ESV	And it shall be inhabited, for there shall never again be a decree of utter destruction. Jerusalem _shall dwell_ in security.
+
+(x)	וְ_עָשָׂ֑ה_ (Dan. 11:17)
+NIV	He will determine to come with the might of his entire kingdom and _will make_ an alliance with the king of the South. And he will give him a daughter in marriage in order to overthrow the kingdom, but his plans will not succeed or help him.
+ESV	He shall set his face to come with the strength of his whole kingdom, and he shall bring terms of an agreement and _perform_ them. He shall give him the daughter of women to destroy the kingdom, but it shall not stand or be to his advantage.
+
+(x)	וְ_נֶאֱסַפְתָּ֣_ אֶל־קִבְרֹתֶיךָ֮ בְּשָׁלֹום֒ (II Chr. 34:28)
+NIV	Now I will gather you to your fathers, and you _will be buried_ in peace. Your eyes will not see all the disaster I am going to bring on this place and on those who live here.’” So they took her answer back to the king.
+ESV	Behold, I will gather you to your fathers, and _you shall be gathered_ to your grave in peace, and your eyes shall not see all the disaster that I will bring upon this place and its inhabitants.’” And they brought back word to the king.

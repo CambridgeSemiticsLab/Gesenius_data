@@ -1,27 +1,101 @@
 eng_TAMsimp == "FUT" and person == "p1" 
 25 of 822
-I will establish (ESV, NIV | BHS וַהֲקִמֹתִ֥י אֶת־בְּרִיתִ֖י אִתָּ֑ךְ , Gen. 6:18)
-will give, I will give (ESV, NIV | BHS וְנָ֨תַתִּ֜י אֶת־הָאָ֧רֶץ הַזֹּ֛את לְזַרְעֲךָ֥ אַחֲרֶ֖יךָ אֲחֻזַּ֥ת עֹולָֽם׃ , Gen. 48:4)
-I will consecrate (ESV, NIV | BHS וְקִדַּשְׁתִּ֛י אֶת־אֹ֥הֶל מֹועֵ֖ד וְאֶת־הַמִּזְבֵּ֑חַ , Exod. 29:44)
-I will visit, I will bring (ESV, NIV | BHS וְהִפְקַדְתִּ֨י עֲלֵיכֶ֤ם בֶּֽהָלָה֙ אֶת־הַשַּׁחֶ֣פֶת וְאֶת־הַקַּדַּ֔חַת , Lev. 26:16)
-will give, I will send (ESV, NIV | BHS וְנָתַתִּ֧י מְטַֽר־אַרְצְכֶ֛ם בְּעִתֹּ֖ו יֹורֶ֣ה וּמַלְקֹ֑ושׁ , Deut. 11:14)
-stand (ESV, NIV | BHS וְעָמַדְתִּ֣י לְיַד־אָבִ֗י בַּשָּׂדֶה֙ , I Sam. 19:3)
-will cut off, I will cut off (ESV, NIV | BHS וְהִכְרַתִּ֤י לְיָֽרָבְעָם֙ , I Kgs. 14:10)
-I will call, I will summon (ESV, NIV | BHS וְקָרָ֣אתִי לְעַבְדִּ֔י לְאֶלְיָקִ֖ים בֶּן־חִלְקִיָּֽהוּ׃ , Isa. 22:20)
-I will rejoice (ESV, NIV | BHS וְגַלְתִּ֥י בִירוּשָׁלִַ֖ם , Isa. 65:19)
-I will relent (ESV, NIV | BHS וְנִֽחַמְתִּי֙ עַל־הָ֣רָעָ֔ה , Jer. 18:8)
-I will drive out, I will banish (ESV, NIV | BHS וְהִדַּחְתִּ֥י אֶתְכֶ֖ם , Jer. 27:10)
-I will cleanse (ESV, NIV | BHS וְטִ֣הַרְתִּ֔ים מִכָּל־עֲוֹנָ֖ם , Jer. 33:8)
-I will repay (ESV, NIV | BHS וְשִׁלַּמְתִּ֨י לְבָבֶ֜ל וּלְכֹ֣ל׀ יֹושְׁבֵ֣י כַשְׂדִּ֗ים אֵ֧ת כָּל־רָעָתָ֛ם , Jer. 51:24)
-I will bring (ESV, NIV | BHS וְהֵֽבֵאתִי֙ רָעֵ֣י גֹויִ֔ם , Ezek. 7:24)
-I will give, I will hand over (ESV, NIV | BHS וְנָתַתִּ֨י אֹותָ֜ךְ בְּיָדָ֗ם , Ezek. 16:39)
-I will gather (ESV, NIV | BHS וְכִנַּסְתִּ֣י אֶתְכֶ֔ם , Ezek. 22:21)
-I will make (ESV, NIV | BHS וְנָתַתִּ֣י אֶת־אֶרֶץ֩ מִצְרַ֨יִם שְׁמָמָ֜ה בְּתֹ֣וךְ׀ אֲרָצֹ֣ות נְשַׁמֹּ֗ות , Ezek. 29:12)
-I will drench (ESV, NIV | BHS וְהִשְׁקֵיתִ֨י אֶ֧רֶץ צָפָתְךָ֛ , Ezek. 32:6)
-I will multiply, I will increase the number (ESV, NIV | BHS וְהִרְבֵּיתִ֧י עֲלֵיכֶ֛ם אָדָ֥ם וּבְהֵמָ֖ה , Ezek. 36:11)
-I will be (ESV, NIV | BHS וְהָיִ֥יתִי לָהֶ֖ם לֵֽאלֹהִ֑ים , Ezek. 37:27)
-I will make (ESV, NIV | BHS וְכָרַתִּ֨י לָהֶ֤ם בְּרִית֙ בַּיֹּ֣ום הַה֔וּא עִם־חַיַּ֤ת הַשָּׂדֶה֙ וְעִם־עֹ֣וף הַשָּׁמַ֔יִם וְרֶ֖מֶשׂ הָֽאֲדָמָ֑ה , Hos. 2:20)
-I will send into exile (ESV, NIV | BHS וְהִגְלֵיתִ֥י אֶתְכֶ֖ם מֵהָ֣לְאָה לְדַמָּ֑שֶׂק , Amos 5:27)
-treat with contempt, I will treat with contempt (ESV, NIV | BHS וְנִבַּלְתִּ֑יךְ , Nah. 3:6)
-refine, I will refine (ESV, NIV | BHS וּצְרַפְתִּים֙ , Zech. 13:9)
-will be, be (ESV, NIV | BHS וְהָיִ֨יתִי֙ לְר֣וּחַ שֶׁ֔קֶר בְּפִ֖י כָּל־נְבִיאָ֑יו , II Chr. 18:21)
+(x)	וַ_הֲקִמֹתִ֥י_ אֶת־בְּרִיתִ֖י אִתָּ֑ךְ (Gen. 6:18)
+NIV	But _I will establish_ my covenant with you, and you will enter the ark — you and your sons and your wife and your sons’ wives with you.
+ESV	But _I will establish_ my covenant with you, and you shall come into the ark, you, your sons, your wife, and your sons’ wives with you.
+
+(x)	וְ_נָ֨תַתִּ֜י_ אֶת־הָאָ֧רֶץ הַזֹּ֛את לְזַרְעֲךָ֥ אַחֲרֶ֖יךָ אֲחֻזַּ֥ת עֹולָֽם׃ (Gen. 48:4)
+NIV	and said to me, ‘I am going to make you fruitful and will increase your numbers. I will make you a community of peoples, and _I will give_ this land as an everlasting possession to your descendants after you.’
+ESV	and said to me, ‘Behold, I will make you fruitful and multiply you, and I will make of you a company of peoples and _will give_ this land to your offspring after you for an everlasting possession.’
+
+(x)	וְ_קִדַּשְׁתִּ֛י_ אֶת־אֹ֥הֶל מֹועֵ֖ד וְאֶת־הַמִּזְבֵּ֑חַ (Exod. 29:44)
+NIV	“So _I will consecrate_ the Tent of Meeting and the altar and will consecrate Aaron and his sons to serve me as priests.
+ESV	_I will consecrate_ the tent of meeting and the altar. Aaron also and his sons _I will consecrate_ to serve me as priests.
+
+(x)	וְ_הִפְקַדְתִּ֨י_ עֲלֵיכֶ֤ם בֶּֽהָלָה֙ אֶת־הַשַּׁחֶ֣פֶת וְאֶת־הַקַּדַּ֔חַת מְכַלֹּ֥ות עֵינַ֖יִם וּמְדִיבֹ֣ת נָ֑פֶשׁ (Lev. 26:16)
+NIV	then I will do this to you: _I will bring_ upon you sudden terror, wasting diseases and fever that will destroy your sight and drain away your life. You will plant seed in vain, because your enemies will eat it.
+ESV	then I will do this to you: _I will visit_ you with panic, with wasting disease and fever that consume the eyes and make the heart ache. And you shall sow your seed in vain, for your enemies shall eat it.
+
+(x)	וְ_נָתַתִּ֧י_ מְטַֽר־אַרְצְכֶ֛ם בְּעִתֹּ֖ו יֹורֶ֣ה וּמַלְקֹ֑ושׁ (Deut. 11:14)
+NIV	then _I will send_ rain on your land in its season, both autumn and spring rains, so that you may gather in your grain, new wine and oil.
+ESV	he _will give_ the rain for your land in its season, the early rain and the later rain, that you may gather in your grain and your wine and your oil.
+
+(x)	וְ_עָמַדְתִּ֣י_ לְיַד־אָבִ֗י בַּשָּׂדֶה֙ אֲשֶׁ֣ר אַתָּ֣ה שָׁ֔ם (I Sam. 19:3)
+NIV	I will go out and _stand_ with my father in the field where you are. I’ll speak to him about you and will tell you what I find out.”
+ESV	And I will go out and _stand_ beside my father in the field where you are, and I will speak to my father about you. And if I learn anything I will tell you.”
+
+(x)	וְ_הִכְרַתִּ֤י_ לְיָֽרָבְעָם֙ מַשְׁתִּ֣ין בְּקִ֔יר עָצ֥וּר וְעָז֖וּב בְּיִשְׂרָאֵ֑ל (I Kgs. 14:10)
+NIV	“‘Because of this, I am going to bring disaster on the house of Jeroboam. _I will cut off_ from Jeroboam every last male in Israel — slave or free. I will burn up the house of Jeroboam as one burns dung, until it is all gone.
+ESV	therefore behold, I will bring harm upon the house of Jeroboam and _will cut off_ from Jeroboam every male, both bond and free in Israel, and will burn up the house of Jeroboam, as a man burns up dung until it is all gone.
+
+(x)	וְ_קָרָ֣אתִי_ לְעַבְדִּ֔י לְאֶלְיָקִ֖ים בֶּן־חִלְקִיָּֽהוּ׃ (Isa. 22:20)
+NIV	“In that day _I will summon_ my servant, Eliakim son of Hilkiah.
+ESV	In that day _I will call_ my servant Eliakim the son of Hilkiah,
+
+(x)	וְ_גַלְתִּ֥י_ בִירוּשָׁלִַ֖ם (Isa. 65:19)
+NIV	_I will rejoice_ over Jerusalem and take delight in my people. the sound of weeping and of crying will be heard in it no more.
+ESV	_I will rejoice_ in Jerusalem and be glad in my people. no more shall be heard in it the sound of weeping and the cry of distress.
+
+(x)	וְ_נִֽחַמְתִּי֙_ עַל־הָ֣רָעָ֔ה אֲשֶׁ֥ר חָשַׁ֖בְתִּי לַעֲשֹׂ֥ות לֹֽו׃ ס (Jer. 18:8)
+NIV	and if that nation I warned repents of its evil, then _I will relent_ and not inflict on it the disaster I had planned.
+ESV	and if that nation, concerning which I have spoken, turns from its evil, _I will relent_ of the disaster that I intended to do to it.
+
+(x)	כִּ֣י שֶׁ֔קֶר הֵ֖ם נִבְּאִ֣ים לָכֶ֑ם לְמַ֨עַן הַרְחִ֤יק אֶתְכֶם֙ מֵעַ֣ל אַדְמַתְכֶ֔ם וְ_הִדַּחְתִּ֥י_ אֶתְכֶ֖ם וַאֲבַדְתֶּֽם׃ (Jer. 27:10)
+NIV	They prophesy lies to you that will only serve to remove you far from your lands. _I will banish_ you and you will perish.
+ESV	For it is a lie that they are prophesying to you, with the result that you will be removed far from your land, and I will drive you out, and you will perish.
+
+(x)	וְ_טִ֣הַרְתִּ֔ים_ מִכָּל־עֲוֹנָ֖ם אֲשֶׁ֣ר חָֽטְאוּ־לִ֑י (Jer. 33:8)
+NIV	_I will cleanse_ them from all the sin they have committed against me and will forgive all their sins of rebellion against me.
+ESV	_I will cleanse_ them from all the guilt of their sin against me, and I will forgive all the guilt of their sin and rebellion against me.
+
+(x)	וְ_שִׁלַּמְתִּ֨י_ לְבָבֶ֜ל וּלְכֹ֣ל׀ יֹושְׁבֵ֣י כַשְׂדִּ֗ים אֵ֧ת כָּל־רָעָתָ֛ם אֲשֶׁר־עָשׂ֥וּ בְצִיֹּ֖ון לְעֵֽינֵיכֶ֑ם (Jer. 51:24)
+NIV	“Before your eyes _I will repay_ Babylon and all who live in Babylonia for all the wrong they have done in Zion,” declares the LORD.
+ESV	“_I will repay_ Babylon and all the inhabitants of Chaldea before your very eyes for all the evil that they have done in Zion, declares the Lord.
+
+(x)	וְ_הֵֽבֵאתִי֙_ רָעֵ֣י גֹויִ֔ם (Ezek. 7:24)
+NIV	_I will bring_ the most wicked of the nations to take possession of their houses. I will put an end to the pride of the mighty, and their sanctuaries will be desecrated.
+ESV	_I will bring_ the worst of the nations to take possession of their houses. I will put an end to the pride of the strong, and their holy places shall be profaned.
+
+(x)	וְ_נָתַתִּ֨י_ אֹותָ֜ךְ בְּיָדָ֗ם (Ezek. 16:39)
+NIV	Then I will hand you over to your lovers, and they will tear down your mounds and destroy your lofty shrines. They will strip you of your clothes and take your fine jewellery and leave you naked and bare.
+ESV	And _I will give_ you into their hands, and they shall throw down your vaulted chamber and break down your lofty places. They shall strip you of your clothes and take your beautiful jewels and leave you naked and bare.
+
+(x)	וְ_כִנַּסְתִּ֣י_ אֶתְכֶ֔ם (Ezek. 22:21)
+NIV	_I will gather_ you and I will blow on you with my fiery wrath, and you will be melted inside her.
+ESV	_I will gather_ you and blow on you with the fire of my wrath, and you shall be melted in the midst of it.
+
+(x)	וְ_נָתַתִּ֣י_ אֶת־אֶרֶץ֩ מִצְרַ֨יִם שְׁמָמָ֜ה בְּתֹ֣וךְ׀ אֲרָצֹ֣ות נְשַׁמֹּ֗ות (Ezek. 29:12)
+NIV	_I will make_ the land of Egypt desolate among devastated lands, and her cities will lie desolate for forty years among ruined cities. And I will disperse the Egyptians among the nations and scatter them through the countries.
+ESV	And _I will make_ the land of Egypt a desolation in the midst of desolated countries, and her cities shall be a desolation forty years among cities that are laid waste. I will scatter the Egyptians among the nations, and disperse them through the countries.
+
+(x)	וְ_הִשְׁקֵיתִ֨י_ אֶ֧רֶץ צָפָתְךָ֛ (Ezek. 32:6)
+NIV	_I will drench_ the land with your flowing blood all the way to the mountains, and the ravines will be filled with your flesh.
+ESV	_I will drench_ the land even to the mountains with your flowing blood, and the ravines will be full of you.
+
+(x)	וְ_הִרְבֵּיתִ֧י_ עֲלֵיכֶ֛ם אָדָ֥ם וּבְהֵמָ֖ה (Ezek. 36:11)
+NIV	_I will increase the number_ of men and animals upon you, and they will be fruitful and become numerous. I will settle people on you as in the past and will make you prosper more than before. Then you will know that I am the LORD.
+ESV	And _I will multiply_ on you man and beast, and they shall multiply and be fruitful. And I will cause you to be inhabited as in your former times, and will do more good to you than ever before. Then you will know that I am the Lord.
+
+(x)	וְ_הָיִ֥יתִי_ לָהֶ֖ם לֵֽאלֹהִ֑ים (Ezek. 37:27)
+NIV	My dwelling-place will be with them. _I will be_ their God, and they will be my people.
+ESV	My dwelling place shall be with them, and _I will be_ their God, and they shall be my people.
+
+(x)	וְ_כָרַתִּ֨י_ לָהֶ֤ם בְּרִית֙ בַּיֹּ֣ום הַה֔וּא עִם־חַיַּ֤ת הַשָּׂדֶה֙ וְעִם־עֹ֣וף הַשָּׁמַ֔יִם וְרֶ֖מֶשׂ הָֽאֲדָמָ֑ה (Hos. 2:20)
+NIV	In that day _I will make_ a covenant for them with the beasts of the field and the birds of the air and the creatures that move along the ground. Bow and sword and battle I will abolish from the land, so that all may lie down in safety.
+ESV	And _I will make_ for them a covenant on that day with the beasts of the field, the birds of the heavens, and the creeping things of the ground. And I will abolish the bow, the sword, and war from the land, and _I will make_ you lie down in safety.
+
+(x)	וְ_הִגְלֵיתִ֥י_ אֶתְכֶ֖ם מֵהָ֣לְאָה לְדַמָּ֑שֶׂק (Amos 5:27)
+NIV	Therefore I will send you into exile beyond Damascus,” says the LORD, whose name is God Almighty.
+ESV	and I will send you into exile beyond Damascus,” says the Lord, whose name is the God of hosts.
+
+(x)	וְ_נִבַּלְתִּ֑יךְ_ (Nah. 3:6)
+NIV	I will pelt you with filth, I will treat you with contempt and make you a spectacle.
+ESV	I will throw filth at you and treat you with contempt and make you a spectacle.
+
+(x)	וּ_צְרַפְתִּים֙_ כִּצְרֹ֣ף אֶת־הַכֶּ֔סֶף (Zech. 13:9)
+NIV	This third I will bring into the fire. _I will refine_ them like silver and test them like gold. They will call on my name and I will answer them. I will say, ‘They are my people,’ and they will say, ‘The LORD is our God.’”
+ESV	And I will put this third into the fire, and _refine_ them as one _refine_s silver, and test them as gold is tested. They will call upon my name, and I will answer them. I will say, ‘They are my people’. and they will say, ‘The Lord is my God.’”
+
+(x)	וְ_הָיִ֨יתִי֙_ לְר֣וּחַ שֶׁ֔קֶר בְּפִ֖י כָּל־נְבִיאָ֑יו (II Chr. 18:21)
+NIV	“‘I will go and _be_ a lying spirit in the mouths of all his prophets,’ he said. “‘You will succeed in enticing him,’ said the LORD. ‘Go and do it.’
+ESV	And he said, ‘I will go out, and _will be_ a lying spirit in the mouth of all his prophets.’ And he said, ‘You are to entice him, and you shall succeed. go out and do so.’

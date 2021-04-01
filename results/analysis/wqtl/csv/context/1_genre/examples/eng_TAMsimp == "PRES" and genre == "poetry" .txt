@@ -1,27 +1,101 @@
 eng_TAMsimp == "PRES" and genre == "poetry" 
 25 of 69
-comes swiftly, rushes (ESV, NIV | BHS וְחָ֖שׁ , Deut. 32:35)
-gives birth to (ESV, NIV | BHS וְיָ֣לַד שָֽׁקֶר׃ , Psa. 7:15)
-fall (ESV, NIV | BHS וְנָפָ֑לוּ , Psa. 20:9)
-I am helped (ESV, NIV | BHS וְֽנֶ֫עֱזָ֥רְתִּי , Psa. 28:7)
-bend (ESV, NIV | BHS וְדָרְכ֪וּ קַ֫שְׁתָּ֥ם , Psa. 37:14)
-see (ESV, NIV | BHS וְרָא֖וּ כָל־הָעַמִּ֣ים כְּבֹודֹֽו׃ , Psa. 97:6)
-I say, I think (ESV, NIV | BHS וְאָמַ֗רְתִּי , Job 7:4)
-I am in the right, I am innocent (ESV, NIV | BHS וְ֭צָדַקְתִּי , Job 10:15)
-I am a stench, I am loathsome (ESV, NIV | BHS וְ֝חַנֹּתִ֗י לִבְנֵ֥י בִטְנִֽי׃ , Job 19:17)
-you say (ESV, NIV | BHS וְֽ֭אָמַרְתָּ , Job 22:13)
-it is hidden (ESV, NIV | BHS וְֽ֭נֶעֶלְמָה מֵעֵינֵ֣י כָל־חָ֑י , Job 28:21)
-he overturns, he overthrows (ESV, NIV | BHS וְהָ֥פַךְ לַ֝֗יְלָה , Job 34:25)
-causes to shine, makes flash (ESV, NIV | BHS וְ֝הֹופִ֗יעַ אֹ֣ור עֲנָנֹֽו׃ , Job 37:15)
-you lie down (ESV, NIV | BHS וְ֝שָׁכַבְתָּ֗ , Prov. 3:24)
-you scoff, you are a mocker (ESV, NIV | BHS וְ֝לַ֗צְתָּ , Prov. 9:12)
-leads (ESV, NIV | BHS וְ֝הֹולִיכֹ֗ו בְּדֶ֣רֶךְ , Prov. 16:29)
-examines, questions (ESV, NIV | BHS וַחֲקָרֹֽו׃ , Prov. 18:17)
-suffer (ESV, NIV | BHS וְֽנֶעֱנָֽשׁוּ׃ , Prov. 22:3)
-says (ESV, NIV | BHS וְ֝אָמַ֗ר , Prov. 26:19)
-wipes (ESV, NIV | BHS וּמָ֣חֲתָה פִ֑יהָ , Prov. 30:20)
-goes down, sets (ESV, NIV | BHS וּבָ֣א הַשָּׁ֑מֶשׁ , Eccl. 1:5)
-he says, shows (ESV, NIV | BHS וְאָמַ֥ר לַכֹּ֖ל , Eccl. 10:3)
-are bent, stoop (ESV, NIV | BHS וְהִֽתְעַוְּת֖וּ אַנְשֵׁ֣י הֶחָ֑יִל , Eccl. 12:3)
-are shut, are closed (ESV, NIV | BHS וְסֻגְּר֤וּ דְלָתַ֨יִם֙ בַּשּׁ֔וּק , Eccl. 12:4)
-he does (ESV, NIV | BHS וְעָשָׂ֑ה , Dan. 8:24)
+(x)	וְ_חָ֖שׁ_ עֲתִדֹ֥ת לָֽמֹו׃ (Deut. 32:35)
+NIV	It is mine to avenge. I will repay. In due time their foot will slip. their day of disaster is near and their doom _rushes_ upon them.”
+ESV	Vengeance is mine, and recompense, for the time when their foot shall slip. for the day of their calamity is at hand, and their doom _comes swiftly_.’
+
+(x)	וְ_יָ֣לַד_ שָֽׁקֶר׃ (Psa. 7:15)
+NIV	He who is pregnant with evil and conceives trouble _gives birth to_ disillusionment.
+ESV	Behold, the wicked man conceives evil and is pregnant with mischief and _gives birth to_ lies.
+
+(x)	וְ_נָפָ֑לוּ_ (Psa. 20:9)
+NIV	They are brought to their knees and _fall_, but we rise up and stand firm.
+ESV	They collapse and _fall_, but we rise and stand upright.
+
+(x)	וְֽ_נֶ֫עֱזָ֥רְתִּי_ (Psa. 28:7)
+NIV	The LORD is my strength and my shield. my heart trusts in him, and _I am helped_. My heart leaps for joy and I will give thanks to him in song.
+ESV	The Lord is my strength and my shield. in him my heart trusts, and _I am helped_. my heart exults, and with my song I give thanks to him.
+
+(x)	וְ_דָרְכ֪וּ_ קַ֫שְׁתָּ֥ם לְ֭הַפִּיל עָנִ֣י וְאֶבְיֹ֑ון לִ֝טְבֹ֗וחַ יִשְׁרֵי־דָֽרֶךְ׃ (Psa. 37:14)
+NIV	The wicked draw the sword and _bend_ the bow to bring down the poor and needy, to slay those whose ways are upright.
+ESV	The wicked draw the sword and _bend_ their bows to bring down the poor and needy, to slay those whose way is upright.
+
+(x)	וְ_רָא֖וּ_ כָל־הָעַמִּ֣ים כְּבֹודֹֽו׃ (Psa. 97:6)
+NIV	The heavens proclaim his righteousness, and all the peoples _see_ his glory.
+ESV	The heavens proclaim his righteousness, and all the peoples _see_ his glory.
+
+(x)	וְ_אָמַ֗רְתִּי_ (Job 7:4)
+NIV	When I lie down _I think_, ‘How long before I get up?’ The night drags on, and I toss till dawn.
+ESV	When I lie down _I say_, ‘When shall I arise?’ But the night is long, and I am full of tossing till the dawn.
+
+(x)	וְ֭_צָדַקְתִּי_ (Job 10:15)
+NIV	If I am guilty — woe to me! Even if _I am innocent_, I cannot lift my head, for I am full of shame and drowned in my affliction.
+ESV	If I am guilty, woe to me! If _I am in the right_, I cannot lift up my head, for I am filled with disgrace and look on my affliction.
+
+(x)	וְ֝_חַנֹּתִ֗י_ לִבְנֵ֥י בִטְנִֽי׃ (Job 19:17)
+NIV	My breath is offensive to my wife. _I am loathsome_ to my own brothers.
+ESV	My breath is strange to my wife, and _I am a stench_ to the children of my own mother.
+
+(x)	וְֽ֭_אָמַרְתָּ_ (Job 22:13)
+NIV	Yet _you say_, ‘What does God know? Does he judge through such darkness?
+ESV	But _you say_, ‘What does God know? Can he judge through the deep darkness?
+
+(x)	וְֽ֭_נֶעֶלְמָה_ מֵעֵינֵ֣י כָל־חָ֑י (Job 28:21)
+NIV	_It is hidden_ from the eyes of every living thing, concealed even from the birds of the air.
+ESV	_It is hidden_ from the eyes of all living and concealed from the birds of the air.
+
+(x)	וְ_הָ֥פַךְ_ לַ֝֗יְלָה (Job 34:25)
+NIV	Because he takes note of their deeds, _he overthrows_ them in the night and they are crushed.
+ESV	Thus, knowing their works, _he overturns_ them in the night, and they are crushed.
+
+(x)	הֲ֭תֵדַע בְּשׂוּם־אֱלֹ֣והַּ עֲלֵיהֶ֑ם וְ֝_הֹופִ֗יעַ_ אֹ֣ור עֲנָנֹֽו׃ (Job 37:15)
+NIV	Do you know how God controls the clouds and makes his lightning flash?
+ESV	Do you know how God lays his command upon them and causes the lightning of his cloud to shine?
+
+(x)	וְ֝_שָׁכַבְתָּ֗_ (Prov. 3:24)
+NIV	when _you lie down_, you will not be afraid. when _you lie down_, your sleep will be sweet.
+ESV	If _you lie down_, you will not be afraid. when _you lie down_, your sleep will be sweet.
+
+(x)	וְ֝_לַ֗צְתָּ_ (Prov. 9:12)
+NIV	If you are wise, your wisdom will reward you. if _you are a mocker_, you alone will suffer.”
+ESV	If you are wise, you are wise for yourself. if _you scoff_, you alone will bear it.
+
+(x)	וְ֝_הֹולִיכֹ֗ו_ בְּדֶ֣רֶךְ לֹא־טֹֽוב׃ (Prov. 16:29)
+NIV	A violent man entices his neighbour and _leads_ him down a path that is not good.
+ESV	A man of violence entices his neighbor and _leads_ him in a way that is not good.
+
+(x)	וַ_חֲקָרֹֽו_׃ (Prov. 18:17)
+NIV	The first to present his case seems right, till another comes forward and _questions_ him.
+ESV	The one who states his case first seems right, until the other comes and _examines_ him.
+
+(x)	וְֽ_נֶעֱנָֽשׁוּ_׃ (Prov. 22:3)
+NIV	A prudent man sees danger and takes refuge, but the simple keep going and _suffer_ for it.
+ESV	The prudent sees danger and hides himself, but the simple go on and _suffer_ for it.
+
+(x)	כְּֽ֭מִתְלַהְלֵהַּ הַיֹּרֶ֥ה זִקִּ֗ים חִצִּ֥ים וָמָֽוֶת׃ כֵּֽן־אִ֭ישׁ רִמָּ֣ה אֶת־רֵעֵ֑הוּ וְ֝_אָמַ֗ר_ (Prov. 26:19)
+NIV	is a man who deceives his neighbour and _says_, “I was only joking!”
+ESV	is the man who deceives his neighbor and _says_, “I am only joking!”
+
+(x)	וּ_מָ֣חֲתָה_ פִ֑יהָ (Prov. 30:20)
+NIV	“This is the way of an adulteress: She eats and _wipes_ her mouth and says, ‘I’ve done nothing wrong.’
+ESV	This is the way of an adulteress: she eats and _wipes_ her mouth and says, “I have done no wrong.”
+
+(x)	וּ_בָ֣א_ הַשָּׁ֑מֶשׁ (Eccl. 1:5)
+NIV	The sun rises and the sun _sets_, and hurries back to where it rises.
+ESV	The sun rises, and the sun _goes down_, and hastens to the place where it rises.
+
+(x)	וְ_אָמַ֥ר_ לַכֹּ֖ל סָכָ֥ל הֽוּא׃ (Eccl. 10:3)
+NIV	Even as he walks along the road, the fool lacks sense and _shows_ everyone how stupid he is.
+ESV	Even when the fool walks on the road, he lacks sense, and _he says_ to everyone that he is a fool.
+
+(x)	בַּיֹּ֗ום שֶׁיָּזֻ֨עוּ֙ שֹׁמְרֵ֣י הַבַּ֔יִת וְ_הִֽתְעַוְּת֖וּ_ אַנְשֵׁ֣י הֶחָ֑יִל וּבָטְל֤וּ הַטֹּֽחֲנֹות֙ וְחָשְׁכ֥וּ הָרֹאֹ֖ות בָּאֲרֻבֹּֽות׃ וְסֻגְּר֤וּ דְלָתַ֨יִם֙ בַּשּׁ֔וּק בִּשְׁפַ֖ל קֹ֣ול הַֽטַּחֲנָ֑ה גַּ֣ם מִגָּבֹ֤הַּ יִרָ֨אוּ֙ וְחַתְחַתִּ֣ים בַּדֶּ֔רֶךְ וְיָנֵ֤אץ הַשָּׁקֵד֙ וְיִסְתַּבֵּ֣ל הֶֽחָגָ֔ב וְתָפֵ֖ר הָֽאֲבִיֹּונָ֑ה (Eccl. 12:3)
+NIV	when the keepers of the house tremble, and the strong men _stoop_, when the grinders cease because they are few, and those looking through the windows grow dim.
+ESV	in the day when the keepers of the house tremble, and the strong men _are bent_, and the grinders cease because they are few, and those who look through the windows are dimmed,
+
+(x)	בַּיֹּ֗ום שֶׁיָּזֻ֨עוּ֙ שֹׁמְרֵ֣י הַבַּ֔יִת וְהִֽתְעַוְּת֖וּ אַנְשֵׁ֣י הֶחָ֑יִל וּבָטְל֤וּ הַטֹּֽחֲנֹות֙ וְחָשְׁכ֥וּ הָרֹאֹ֖ות בָּאֲרֻבֹּֽות׃ וְ_סֻגְּר֤וּ_ דְלָתַ֨יִם֙ בַּשּׁ֔וּק בִּשְׁפַ֖ל קֹ֣ול הַֽטַּחֲנָ֑ה גַּ֣ם מִגָּבֹ֤הַּ יִרָ֨אוּ֙ וְחַתְחַתִּ֣ים בַּדֶּ֔רֶךְ וְיָנֵ֤אץ הַשָּׁקֵד֙ וְיִסְתַּבֵּ֣ל הֶֽחָגָ֔ב וְתָפֵ֖ר הָֽאֲבִיֹּונָ֑ה (Eccl. 12:4)
+NIV	when the doors to the street _are closed_ and the sound of grinding fades. when men rise up at the sound of birds, but all their songs grow faint.
+ESV	and the doors on the street _are shut_ — when the sound of the grinding is low, and one rises up at the sound of a bird, and all the daughters of song are brought low —
+
+(x)	וְ_עָשָׂ֑ה_ (Dan. 8:24)
+NIV	He will become very strong, but not by his own power. He will cause astounding devastation and will succeed in whatever _he does_. He will destroy the mighty men and the holy people.
+ESV	His power shall be great — but not by his own power. and he shall cause fearful destruction and shall succeed in what _he does_, and destroy mighty men and the people who are the saints.

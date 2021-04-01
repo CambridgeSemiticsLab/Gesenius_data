@@ -1,27 +1,101 @@
 eng_TAMsimp == "FUT" and person == "p1" 
-25 of 931
-I will make (ESV, NIV | BHS אֶֽעֱשֶׂהּ־לֹּ֥ו עֵ֖זֶר כְּנֶגְדֹּֽו׃ , Gen. 2:18)
-I will serve, I’ll work (ESV, NIV | BHS אֶֽעֱבָדְךָ֙ שֶׁ֣בַע שָׁנִ֔ים בְּרָחֵ֥ל בִּתְּךָ֖ הַקְּטַנָּֽה׃ , Gen. 29:18)
-I will execute, I will bring (ESV, NIV | BHS וּבְכָל־אֱלֹהֵ֥י מִצְרַ֛יִם אֶֽעֱשֶׂ֥ה שְׁפָטִ֖ים , Exod. 12:12)
-I will be sanctified, I will show myself holy (ESV, NIV | BHS בִּקְרֹבַ֣י אֶקָּדֵ֔שׁ , Lev. 10:3)
-I will give (ESV, NIV | BHS כִּ֣י לֹֽא־אֶ֠תֵּן מֵאֶ֨רֶץ בְּנֵי־עַמֹּ֤ון לְךָ֙ יְרֻשָּׁ֔ה , Deut. 2:19)
-I will break (ESV, NIV | BHS לֹֽא־אָפֵ֧ר בְּרִיתִ֛י אִתְּכֶ֖ם לְעֹולָֽם׃ , Judg. 2:1)
-will show (ESV, NIV | BHS וְאָֽנֹכִ֗י אֹודִֽיעֲךָ֙ , I Sam. 16:3)
-will I do, I will carry out (ESV, NIV | BHS כִּ֛י כֵּ֥ן אֶעֱשֶׂ֖ה הַיֹּ֥ום הַזֶּֽה׃ , I Kgs. 1:30)
-I will leave (ESV, NIV | BHS אִם־אֶעֶזְבֶ֑ךָּ , II Kgs. 2:6)
-I will arise, will I arise (ESV, NIV | BHS עַתָּ֥ה אָק֖וּם , Isa. 33:10)
-I will spare (ESV, NIV | BHS וְלֹ֥א אֶפְגַּ֖ע אָדָֽם׃ ס , Isa. 47:3)
-I will contend, I will bring charges (ESV, NIV | BHS וְאֶת־בְּנֵ֥י בְנֵיכֶ֖ם אָרִֽיב׃ , Jer. 2:9)
-I will build (ESV, NIV | BHS אֶבְנֶה־לִּי֙ בֵּ֣ית מִדֹּ֔ות וַעֲלִיֹּ֖ות מְרֻוָּחִ֑ים , Jer. 22:14)
-I will multiply, I will make countless (ESV, NIV | BHS כֵּ֣ן אַרְבֶּ֗ה אֶת־זֶ֨רַע֙ דָּוִ֣ד עַבְדִּ֔י וְאֶת־הַלְוִיִּ֖ם , Jer. 33:22)
-I will open (ESV, NIV | BHS אֶפְתַּ֣ח אֶת־פִּ֔יךָ , Ezek. 3:27)
-I will make (ESV, NIV | BHS עַוָּ֥ה עַוָּ֖ה עַוָּ֣ה אֲשִׂימֶ֑נָּה , Ezek. 21:32)
-I will let hear, will I make hear (ESV, NIV | BHS וְלֹא־אַשְׁמִ֨יעַ אֵלַ֤יִךְ עֹוד֙ כְּלִמַּ֣ת הַגֹּויִ֔ם , Ezek. 36:15)
-I will execute, I will carry out (ESV, NIV | BHS לֹ֤א אֶֽעֱשֶׂה֙ חֲרֹ֣ון אַפִּ֔י , Hos. 11:9)
-I will bring down (ESV, NIV | BHS מִשָּׁ֖ם אֹורִידֵֽם׃ , Amos 9:2)
-I will restore (ESV, NIV | BHS מִשְׁנֶ֖ה אָשִׁ֥יב לָֽךְ׃ , Zech. 9:12)
-will sing (ESV, NIV | BHS וַאֲנִ֤י׀ אָשִׁ֣יר עֻזֶּךָ֮ , Psa. 59:17)
-I will know, I will have nothing to do with (ESV, NIV | BHS רָ֝֗ע לֹ֣א אֵדָֽע׃ , Psa. 101:4)
-I will answer (ESV, NIV | BHS וּ֝בְאִמְרֵיכֶ֗ם לֹ֣א אֲשִׁיבֶֽנּוּ׃ , Job 32:14)
-I will return (ESV, NIV | BHS אָשׁ֔וּב , Dan. 10:20)
-will gather (ESV, NIV | BHS הִנְנִ֨י אֹֽסִפְךָ֜ אֶל־אֲבֹתֶ֗יךָ , II Chr. 34:28)
+25 of 1008
+(x)	_אֶֽעֱשֶׂהּ_־לֹּ֥ו עֵ֖זֶר כְּנֶגְדֹּֽו׃ (Gen. 2:18)
+NIV	The LORD God said, “It is not good for the man to be alone. _I will make_ a helper suitable for him.”
+ESV	Then the Lord God said, “It is not good that the man should be alone. _I will make_ him a helper fit for him.”
+
+(x)	וְכֹל֙ אֲשֶׁ֣ר תִּתֶּן־לִ֔י עַשֵּׂ֖ר _אֲעַשְּׂרֶ֥נּוּ_ לָֽךְ׃ (Gen. 28:22)
+NIV	and this stone that I have set up as a pillar will be God’s house, and of all that you give me I will give you a tenth.”
+ESV	and this stone, which I have set up for a pillar, shall be God’s house. And of all that you give me _I will give a full tenth_ to you.”
+
+(x)	וְאַחֲרֵי־כֵ֖ן _אֵצֵ֑א_ (Exod. 11:8)
+NIV	All these officials of yours will come to me, bowing down before me and saying, ‘Go, you and all the people who follow you!’ After that _I will leave_.” Then Moses, hot with anger, left Pharaoh.
+ESV	And all these your servants shall come down to me and bow down to me, saying, ‘Get out, you and all the people who follow you.’ And after that _I will go out_.” And he went out from Pharaoh in hot anger.
+
+(x)	וְעַל־פְּנֵ֥י כָל־הָעָ֖ם _אֶכָּבֵ֑ד_ (Lev. 10:3)
+NIV	Moses then said to Aaron, “This is what the LORD spoke of when he said: “‘Among those who approach me I will show myself holy. in the sight of all the people _I will be honored_.’ “Aaron remained silent.
+ESV	Then Moses said to Aaron, “This is what the Lord has said, ‘Among those who are near me I will be sanctified, and before all the people _I will be glorified_.’” And Aaron held his peace.
+
+(x)	לֹ֥א _אָס֖וּר_ יָמִ֥ין וּשְׂמֹֽאול׃ (Deut. 2:27)
+NIV	“Let us pass through your country. We will stay on the main road. we will not turn aside to the right or to the left.
+ESV	‘Let me pass through your land. I will go only by the road. _I will turn aside_ neither to the right nor to the left.
+
+(x)	וְ_אַרְאֶ֔ךָּ_ אֶת־הָאִ֖ישׁ אֲשֶׁר־אַתָּ֣ה מְבַקֵּ֑שׁ (Judg. 4:22)
+NIV	Barak came by in pursuit of Sisera, and Jael went out to meet him. “Come,” she said, “_I will show_ you the man you’re looking for.” So he went in with her, and there lay Sisera with the tent peg through his temple — dead.
+ESV	And behold, as Barak was pursuing Sisera, Jael went out to meet him and said to him, “Come, and _I will show_ you the man whom you are seeking.” So he went in to her tent, and there lay Sisera dead, with the tent peg in his temple.
+
+(x)	אֹתָהּ֙ _אֶתֶּן_־לְךָ֣ לְאִשָּׁ֔ה (I Sam. 18:17)
+NIV	Saul said to David, “Here is my older daughter Merab. _I will give_ her to you in marriage. only serve me bravely and fight the battles of the LORD.” For Saul said to himself, “I will not raise a hand against him. Let the Philistines do that!”
+ESV	Then Saul said to David, “Here is my elder daughter Merab. _I will give_ her to you for a wife. Only be valiant for me and fight the Lord’s battles.” For Saul thought, “Let not my hand be against him, but let the hand of the Philistines be against him.”
+
+(x)	וּבַיֹּ֨ום הַזֶּ֜ה לֹ֣א _אֲמִיתֶ֗ךָ_ (I Kgs. 2:26)
+NIV	To Abiathar the priest the king said, “Go back to your fields in Anathoth. You deserve to die, but I will not put you to death now, because you carried the ark of the Sovereign LORD before my father David and shared all my father’s hardships.”
+ESV	And to Abiathar the priest the king said, “Go to Anathoth, to your estate, for you deserve death. But I will not at this time put you to death, because you carried the ark of the Lord God before David my father, and because you shared in all my father’s affliction.”
+
+(x)	אֵ֛ת אֲשֶׁר־תִּתֵּ֥ן עָלַ֖י _אֶשָּׂ֑א_ (II Kgs. 18:14)
+NIV	So Hezekiah king of Judah sent this message to the king of Assyria at Lachish: “I have done wrong. Withdraw from me, and _I will pay_ whatever you demand of me.” The king of Assyria exacted from Hezekiah king of Judah three hundred talents of silver and thirty talents of gold.
+ESV	And Hezekiah king of Judah sent to the king of Assyria at Lachish, saying, “I have done wrong. withdraw from me. Whatever you impose on me _I will bear_.” And the king of Assyria required of Hezekiah king of Judah three hundred talents of silver and thirty talents of gold.
+
+(x)	_אֶעֱנֵ֔ם_ (Isa. 41:17)
+NIV	“The poor and needy search for water, but there is none. their tongues are parched with thirst. But I the LORD _will answer_ them. I, the God of Israel, will not forsake them.
+ESV	When the poor and needy seek water, and there is none, and their tongue is parched with thirst, I the Lord _will answer_ them. I the God of Israel will not forsake them.
+
+(x)	וְאֶת־יְרִיבֵךְ֙ אָנֹכִ֣י _אָרִ֔יב_ (Isa. 49:25)
+NIV	But this is what the LORD says: “Yes, captives will be taken from warriors, and plunder retrieved from the fierce. I _will contend_ with those who contend with you, and your children I will save.
+ESV	For thus says the Lord: “Even the captives of the mighty shall be taken, and the prey of the tyrant be rescued, for I _will contend_ with those who contend with you, and I will save your children.
+
+(x)	וְאֶת־עָרֵ֧י יְהוּדָ֛ה _אֶתֵּ֥ן_ שְׁמָמָ֖ה מִבְּלִ֖י יֹושֵֽׁב׃ ס (Jer. 9:10)
+NIV	“I will make Jerusalem a heap of ruins, a haunt of jackals. and _I will lay_ waste the towns of Judah so that no-one can live there.”
+ESV	_I will make_ Jerusalem a heap of ruins, a lair of jackals, and _I will make_ the cities of Judah a desolation, without inhabitant.”
+
+(x)	וּמֹוסְרֹותֶ֖יךָ _אֲנַתֵּ֑ק_ (Jer. 30:8)
+NIV	“‘In that day,’ declares the LORD Almighty, ‘I will break the yoke off their necks and _will tear off_ their bonds. no longer will foreigners enslave them.
+ESV	“And it shall come to pass in that day, declares the Lord of hosts, that I will break his yoke from off your neck, and _I will burst_ your bonds, and foreigners shall no more make a servant of him.
+
+(x)	כִּ֣י אֶ֤רֶץ מִצְרַ֨יִם֙ _נָבֹ֔וא_ אֲשֶׁ֤ר לֹֽא־נִרְאֶה֙ מִלְחָמָ֔ה וְקֹ֥ול שֹׁופָ֖ר לֹ֣א נִשְׁמָ֑ע וְלַלֶּ֥חֶם לֹֽא־נִרְעָ֖ב (Jer. 42:14)
+NIV	and if you say, ‘No, _we will go_ and live in Egypt, where we will not see war or hear the trumpet or be hungry for bread,’
+ESV	and saying, ‘No, _we will go_ to the land of Egypt, where we shall not see war or hear the sound of the trumpet or be hungry for bread, and we will dwell there,’
+
+(x)	וְלֹ֣א _אֶחְמֹ֑ל_ (Ezek. 8:18)
+NIV	Therefore I will deal with them in anger. I will not look on them with pity or _spare_ them. Although they shout in my ears, I will not listen to them.”
+ESV	Therefore I will act in wrath. My eye will not spare, nor _will I have pity_. And though they cry in my ears with a loud voice, I will not hear them.”
+
+(x)	וְדָמֹ֖ו מִיַּֽד־הַצֹּפֶ֥ה _אֶדְרֹֽשׁ_׃ ס (Ezek. 33:6)
+NIV	But if the watchman sees the sword coming and does not blow the trumpet to warn the people and the sword comes and takes the life of one of them, that man will be taken away because of his sin, but I will hold the watchman accountable for his blood.’
+ESV	But if the watchman sees the sword coming and does not blow the trumpet, so that the people are not warned, and the sword comes and takes any one of them, that person is taken away in his iniquity, but his blood _I will require_ at the watchman’s hand.
+
+(x)	_אֶעֱנֶ֖ה_ אֶת־הַשָּׁמָ֑יִם (Hos. 2:23)
+NIV	“In that day _I will respond_,” declares the LORD — “_I will respond_ to the skies, and they will respond to the earth.
+ESV	“And in that day _I will answer_, declares the Lord, _I will answer_ the heavens, and they shall answer the earth,
+
+(x)	עַל־שְׁלֹשָׁה֙ פִּשְׁעֵ֣י יְהוּדָ֔ה וְעַל־אַרְבָּעָ֖ה לֹ֣א _אֲשִׁיבֶ֑נּוּ_ עַֽל־מָאֳסָ֞ם אֶת־תֹּורַ֣ת יְהוָ֗ה (Amos 2:4)
+NIV	This is what the LORD says: “For three sins of Judah, even for four, I will not turn back [ my wrath ]. Because they have rejected the law of the LORD and have not kept his decrees, because they have been led astray by false gods, the gods their ancestors followed,
+ESV	Thus says the Lord: “For three transgressions of Judah, and for four, I will not revoke the punishment, because they have rejected the law of the Lord, and have not kept his statutes, but their lies have led them astray, those after which their fathers walked.
+
+(x)	וְהַנִּדָּחָה֙ _אֲקַבֵּ֔ץ_ (Zeph. 3:19)
+NIV	At that time I will deal with all who oppressed you. I will rescue the lame and _gather_ those who have been scattered. I will give them praise and honour in every land where they were put to shame.
+ESV	Behold, at that time I will deal with all your oppressors. And I will save the lame and _gather_ the outcast, and I will change their shame into praise and renown in all the earth.
+
+(x)	_אָשִׁ֥ית_ בְּ֝יֵ֗שַׁע יָפִ֥יחַֽ לֹֽו׃ (Psa. 12:6)
+NIV	“Because of the oppression of the weak and the groaning of the needy, I will now arise,” says the LORD. “_I will protect_ them from those who malign them.”
+ESV	“Because the poor are plundered, because the needy groan, I will now arise,” says the Lord. “_I will place_ him in the safety for which he longs.”
+
+(x)	וַ֭אֲנִי תָּמִ֣יד _אֲיַחֵ֑ל_ (Psa. 71:14)
+NIV	But as for me, I will always have hope. I will praise you more and more.
+ESV	But I _will hope_ continually and will praise you yet more and more.
+
+(x)	כִּֽי־הִטָּ֣ה אָזְנֹ֣ו לִ֑י וּבְיָמַ֥י _אֶקְרָֽא_׃ (Psa. 116:2)
+NIV	Because he turned his ear to me, _I will call on_ him as long as I live.
+ESV	Because he inclined his ear to me, therefore _I will call_ on him as long as I live.
+
+(x)	_אַעֲנֶ֣ה_ אַף־אֲנִ֣י חֶלְקִ֑י (Job 32:17)
+NIV	I too will have my say. I too will tell what I know.
+ESV	I also _will answer_ with my share. I also will declare my opinion.
+
+(x)	וּבְכֵ֞ן _אָבֹ֤וא_ אֶל־הַמֶּ֨לֶךְ֙ אֲשֶׁ֣ר לֹֽא־כַדָּ֔ת (Esth. 4:16)
+NIV	“Go, gather together all the Jews who are in Susa, and fast for me. Do not eat or drink for three days, night or day. I and my maids will fast as you do. When this is done, _I will go_ to the king, even though it is against the law. And if I perish, I perish.”
+ESV	“Go, gather all the Jews to be found in Susa, and hold a fast on my behalf, and do not eat or drink for three days, night or day. I and my young women will also fast as you do. Then _I will go_ to the king, though it is against the law, and if I perish, I perish.”
+
+(x)	הִנְנִ֨י _אֹֽסִפְךָ֜_ אֶל־אֲבֹתֶ֗יךָ (II Chr. 34:28)
+NIV	Now I _will gather_ you to your fathers, and you will be buried in peace. Your eyes will not see all the disaster I am going to bring on this place and on those who live here.’” So they took her answer back to the king.
+ESV	Behold, I _will gather_ you to your fathers, and you shall be gathered to your grave in peace, and your eyes shall not see all the disaster that I will bring upon this place and its inhabitants.’” And they brought back word to the king.

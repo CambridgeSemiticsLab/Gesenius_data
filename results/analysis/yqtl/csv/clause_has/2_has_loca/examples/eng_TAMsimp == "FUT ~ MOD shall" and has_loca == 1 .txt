@@ -1,12 +1,41 @@
 eng_TAMsimp == "FUT ~ MOD shall" and has_loca == 1 
 10 of 81
-it shall be provided, it will be provided (ESV, NIV | BHS בְּהַ֥ר יְהוָ֖ה יֵרָאֶֽה׃ , Gen. 22:14)
-shall be, will be (ESV, NIV | BHS וּ֠בְנֵיכֶם יִהְי֨וּ רֹעִ֤ים בַּמִּדְבָּר֙ אַרְבָּעִ֣ים שָׁנָ֔ה , Num. 14:33)
-you shall live long, you will live long (ESV, NIV | BHS לֹא־תַאֲרִיכֻ֤ן יָמִים֙ עַל־הָ֣אֲדָמָ֔ה , Deut. 30:18)
-shoot (ESV, NIV | BHS וְלֹֽא־יֹורֶ֥ה שָׁ֖ם חֵ֑ץ , II Kgs. 19:32)
-shall drink, will drink (ESV, NIV | BHS יִשְׁתֻּ֖הוּ בְּחַצְרֹ֥ות קָדְשִֽׁי׃ ס , Isa. 62:9)
-shall he die, he will die (ESV, NIV | BHS שָׁ֣ם יָמ֑וּת , Jer. 22:12)
-shall overtake, will overtake (ESV, NIV | BHS שָׁ֛ם תַּשִּׂ֥יג אֶתְכֶ֖ם בְּאֶ֣רֶץ מִצְרָ֑יִם , Jer. 42:16)
-shall serve, will serve (ESV, NIV | BHS שָׁ֣ם יַעַבְדֻ֜נִי כָּל־בֵּ֧ית יִשְׂרָאֵ֛ל כֻּלֹּ֖ה בָּאָ֑רֶץ , Ezek. 20:40)
-they shall eat, eat (ESV, NIV | BHS וּבְאַשּׁ֖וּר טָמֵ֥א יֹאכֵֽלוּ׃ , Hos. 9:3)
-he shall pitch, he will pitch (ESV, NIV | BHS וְיִטַּע֙ אָהֳלֶ֣י אַפַּדְנֹ֔ו בֵּ֥ין יַמִּ֖ים לְהַר־צְבִי־קֹ֑דֶשׁ , Dan. 11:45)
+(x)	בְּהַ֥ר יְהוָ֖ה _יֵרָאֶֽה_׃ (Gen. 22:14)
+NIV	So Abraham called that place The LORD Will Provide. And to this day it is said, “On the mountain of the LORD _it will be provided_.”
+ESV	So Abraham called the name of that place, “The Lord will provide”. as it is said to this day, “On the mount of the Lord _it shall be provided_.”
+
+(x)	וּ֠בְנֵיכֶם _יִהְי֨וּ_ רֹעִ֤ים בַּמִּדְבָּר֙ אַרְבָּעִ֣ים שָׁנָ֔ה (Num. 14:33)
+NIV	Your children _will be_ shepherds here for forty years, suffering for your unfaithfulness, until the last of your bodies lies in the desert.
+ESV	And your children _shall be_ shepherds in the wilderness forty years and shall suffer for your faithlessness, until the last of your dead bodies lies in the wilderness.
+
+(x)	לֹא־_תַאֲרִיכֻ֤ן_ יָמִים֙ עַל־הָ֣אֲדָמָ֔ה אֲשֶׁ֨ר אַתָּ֤ה עֹבֵר֙ אֶת־הַיַּרְדֵּ֔ן לָבֹ֥א שָׁ֖מָּה לְרִשְׁתָּֽהּ׃ (Deut. 30:18)
+NIV	I declare to you this day that you will certainly be destroyed. You will not live long in the land you are crossing the Jordan to enter and possess.
+ESV	I declare to you today, that you shall surely perish. You shall not live long in the land that you are going over the Jordan to enter and possess.
+
+(x)	וְלֹֽא־_יֹורֶ֥ה_ שָׁ֖ם חֵ֑ץ (II Kgs. 19:32)
+NIV	“Therefore this is what the LORD says concerning the king of Assyria: “He will not enter this city or _shoot_ an arrow here. He will not come before it with shield or build a siege ramp against it.
+ESV	“Therefore thus says the Lord concerning the king of Assyria: He shall not come into this city or _shoot_ an arrow there, or come before it with a shield or cast up a siege mound against it.
+
+(x)	כִּ֤י מְאַסְפָיו֙ יֹאכְלֻ֔הוּ וּֽמְקַבְּצָ֥יו _יִשְׁתֻּ֖הוּ_ בְּחַצְרֹ֥ות קָדְשִֽׁי׃ ס (Isa. 62:9)
+NIV	but those who harvest it will eat it and praise the LORD, and those who gather the grapes _will drink_ it in the courts of my sanctuary.”
+ESV	but those who garner it shall eat it and praise the Lord, and those who gather it _shall drink_ it in the courts of my sanctuary.”
+
+(x)	כִּ֗י בִּמְקֹ֛ום אֲשֶׁר־הִגְל֥וּ אֹתֹ֖ו שָׁ֣ם _יָמ֑וּת_ (Jer. 22:12)
+NIV	_He will die_ in the place where they have led him captive. he will not see this land again.”
+ESV	but in the place where they have carried him captive, there _shall he die_, and he shall never see this land again.”
+
+(x)	הַחֶ֗רֶב אֲשֶׁ֤ר אַתֶּם֙ יְרֵאִ֣ים מִמֶּ֔נָּה שָׁ֛ם _תַּשִּׂ֥יג_ אֶתְכֶ֖ם בְּאֶ֣רֶץ מִצְרָ֑יִם (Jer. 42:16)
+NIV	then the sword you fear _will overtake_ you there, and the famine you dread will follow you into Egypt, and there you will die.
+ESV	then the sword that you fear _shall overtake_ you there in the land of Egypt, and the famine of which you are afraid shall follow close after you to Egypt, and there you shall die.
+
+(x)	כִּ֣י בְהַר־קָדְשִׁ֞י בְּהַ֣ר׀ מְרֹ֣ום יִשְׂרָאֵ֗ל שָׁ֣ם _יַעַבְדֻ֜נִי_ כָּל־בֵּ֧ית יִשְׂרָאֵ֛ל כֻּלֹּ֖ה בָּאָ֑רֶץ שָׁ֣ם אֶרְצֵ֔ם וְשָׁ֞ם אֶדְרֹ֣ושׁ אֶת־תְּרוּמֹֽתֵיכֶ֗ם וְאֶת־רֵאשִׁ֛ית מַשְׂאֹותֵיכֶ֖ם בְּכָל־קָדְשֵׁיכֶֽם׃ (Ezek. 20:40)
+NIV	For on my holy mountain, the high mountain of Israel, declares the Sovereign LORD, there in the land the entire house of Israel _will serve_ me, and there I will accept them. There I will require your offerings and your choice gifts, along with all your holy sacrifices.
+ESV	“For on my holy mountain, the mountain height of Israel, declares the Lord God, there all the house of Israel, all of them, _shall serve_ me in the land. There I will accept them, and there I will require your contributions and the choicest of your gifts, with all your sacred offerings.
+
+(x)	וּבְאַשּׁ֖וּר טָמֵ֥א _יֹאכֵֽלוּ_׃ (Hos. 9:3)
+NIV	They will not remain in the LORD’s land. Ephraim will return to Egypt and _eat_ unclean food in Assyria.
+ESV	They shall not remain in the land of the Lord, but Ephraim shall return to Egypt, and _they shall eat_ unclean food in Assyria.
+
+(x)	וְ_יִטַּע֙_ אָהֳלֶ֣י אַפַּדְנֹ֔ו בֵּ֥ין יַמִּ֖ים לְהַר־צְבִי־קֹ֑דֶשׁ (Dan. 11:45)
+NIV	_He will pitch_ his royal tents between the seas at the beautiful holy mountain. Yet he will come to his end, and no-one will help him.
+ESV	And _he shall pitch_ his palatial tents between the sea and the glorious holy mountain. Yet he shall come to his end, with none to help him.

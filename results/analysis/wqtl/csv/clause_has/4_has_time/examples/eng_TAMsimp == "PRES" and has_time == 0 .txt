@@ -1,27 +1,101 @@
 eng_TAMsimp == "PRES" and has_time == 0 
 25 of 489
-I establish (ESV, NIV | BHS וַהֲקִמֹתִ֤י אֶת־בְּרִיתִי֙ אִתְּכֶ֔ם , Gen. 9:11)
-they are ready to stone (ESV, NIV | BHS וּסְקָלֻֽנִי׃ , Exod. 17:4)
-it feeds, they graze (ESV, NIV | BHS וּבִעֵ֖ר בִּשְׂדֵ֣ה אַחֵ֑ר , Exod. 22:4)
-it is hidden, he is unaware (ESV, NIV | BHS וְנֶעְלַ֣ם מִמֶּ֔נּוּ , Lev. 5:3)
-finds, acquires (ESV, NIV | BHS וּמָצָ֖א כְּדֵ֥י גְאֻלָּתֹֽו׃ , Lev. 25:26)
-opens (ESV, NIV | BHS וּפָצְתָ֨ה הָאֲדָמָ֤ה אֶת־פִּ֨יהָ֙ , Num. 16:30)
-are full, are satisfied (ESV, NIV | BHS וְשָׂבָ֑עְתָּ , Deut. 8:12)
-you take (ESV, NIV | BHS וְשָׁבִ֥יתָ שִׁבְיֹֽו׃ , Deut. 21:10)
-she departs, she leaves (ESV, NIV | BHS וְיָצְאָ֖ה מִבֵּיתֹ֑ו , Deut. 24:2)
-comes swiftly, rushes (ESV, NIV | BHS וְחָ֖שׁ , Deut. 32:35)
-I learn, I find out (ESV, NIV | BHS וְרָאִ֥יתִי מָ֖ה , I Sam. 19:3)
-prays (ESV, NIV | BHS וְהִתְפַּלֵּ֖ל אֶל־הַבַּ֥יִת הַזֶּֽה׃ , I Kgs. 8:42)
-you are made to dwell, live (ESV, NIV | BHS וְהֽוּשַׁבְתֶּ֥ם לְבַדְּכֶ֖ם בְּקֶ֥רֶב הָאָֽרֶץ׃ , Isa. 5:8)
-it becomes, it is (ESV, NIV | BHS וְהָיָ֤ה לְאָדָם֙ , Isa. 44:15)
-there is, is (ESV, NIV | BHS וְהָיָ֤ה בְלִבִּי֙ כְּאֵ֣שׁ בֹּעֶ֔רֶת , Jer. 20:9)
-I break in pieces, I shatter (ESV, NIV | BHS וְנִפַּצְתִּ֣י בְךָ֔ פַּחֹ֖ות וּסְגָנִֽים׃ , Jer. 51:23)
-you say, you ask (ESV, NIV | BHS וַאֲמַרְתֶּ֕ם , Ezek. 18:19)
-say (ESV, NIV | BHS וְאָמְרוּ֙ בְּנֵ֣י עַמְּךָ֔ , Ezek. 33:17)
-they covet (ESV, NIV | BHS וְחָמְד֤וּ שָׂדֹות֙ , Mic. 2:2)
-you snort at, you sniff contemptuously (ESV, NIV | BHS וְהִפַּחְתֶּ֣ם אֹותֹ֗ו , Mal. 1:13)
-they say (ESV, NIV | BHS וְֽאָמְר֗וּ , Psa. 73:11)
-do you know (ESV, NIV | BHS וְ֝יָדַ֗עְתָּ עֵ֣ת , Job 39:2)
-you are thirsty (ESV, NIV | BHS וְצָמִ֗ת , Ruth 2:9)
-is subdued, is subject (ESV, NIV | BHS וְנִכְבְּשָׁ֥ה הָאָ֛רֶץ לִפְנֵ֥י יְהוָ֖ה וְלִפְנֵ֥י עַמֹּֽו׃ , I Chr. 22:18)
-you fall, cause downfall (ESV, NIV | BHS וְנָ֣פַלְתָּ֔ אַתָּ֖ה , II Chr. 25:19)
+(x)	וַ_הֲקִמֹתִ֤י_ אֶת־בְּרִיתִי֙ אִתְּכֶ֔ם (Gen. 9:11)
+NIV	_I establish_ my covenant with you: Never again will all life be cut off by the waters of a flood. never again will there be a flood to destroy the earth.”
+ESV	_I establish_ my covenant with you, that never again shall all flesh be cut off by the waters of the flood, and never again shall there be a flood to destroy the earth.”
+
+(x)	וּ_סְקָלֻֽנִי_׃ (Exod. 17:4)
+NIV	Then Moses cried out to the LORD, “What am I to do with these people? They are almost ready to stone me.”
+ESV	So Moses cried to the Lord, “What shall I do with this people? They are almost ready to stone me.”
+
+(x)	וּ_בִעֵ֖ר_ בִּשְׂדֵ֣ה אַחֵ֑ר (Exod. 22:4)
+NIV	“If a man grazes his livestock in a field or vineyard and lets them stray and _they graze_ in another man’s field, he must make restitution from the best of his own field or vineyard.
+ESV	“If a man causes a field or vineyard to be grazed over, or lets his beast loose and _it feeds_ in another man’s field, he shall make restitution from the best in his own field and in his own vineyard.
+
+(x)	וְ_נֶעְלַ֣ם_ מִמֶּ֔נּוּ (Lev. 5:3)
+NIV	“‘Or if he touches human uncleanness — anything that would make him unclean — even though _he is unaware_ of it, when he learns of it he will be guilty.
+ESV	or if he touches human uncleanness, of whatever sort the uncleanness may be with which one becomes unclean, and _it is hidden_ from him, when he comes to know it, and realizes his guilt.
+
+(x)	וְאִ֕ישׁ כִּ֛י לֹ֥א יִֽהְיֶה־לֹּ֖ו גֹּאֵ֑ל וְהִשִּׂ֣יגָה יָדֹ֔ו וּ_מָצָ֖א_ כְּדֵ֥י גְאֻלָּתֹֽו׃ (Lev. 25:26)
+NIV	If, however, a man has no one to redeem it for him but he himself prospers and _acquires_ sufficient means to redeem it,
+ESV	If a man has no one to redeem it and then himself becomes prosperous and _finds_ sufficient means to redeem it,
+
+(x)	וּ_פָצְתָ֨ה_ הָאֲדָמָ֤ה אֶת־פִּ֨יהָ֙ (Num. 16:30)
+NIV	But if the LORD brings about something totally new, and the earth _opens_ its mouth and swallows them, with everything that belongs to them, and they go down alive into the grave, then you will know that these men have treated the LORD with contempt.”
+ESV	But if the Lord creates something new, and the ground _opens_ its mouth and swallows them up with all that belongs to them, and they go down alive into Sheol, then you shall know that these men have despised the Lord.”
+
+(x)	וְ_שָׂבָ֑עְתָּ_ (Deut. 8:12)
+NIV	Otherwise, when you eat and _are satisfied_, when you build fine houses and settle down,
+ESV	lest, when you have eaten and _are full_ and have built good houses and live in them,
+
+(x)	וְ_שָׁבִ֥יתָ_ שִׁבְיֹֽו׃ (Deut. 21:10)
+NIV	When you go to war against your enemies and the LORD your God delivers them into your hands and _you take_ captives,
+ESV	“When you go out to war against your enemies, and the Lord your God gives them into your hand and _you take_ them captive,
+
+(x)	וְ_יָצְאָ֖ה_ מִבֵּיתֹ֑ו (Deut. 24:2)
+NIV	and if after _she leaves_ his house she becomes the wife of another man,
+ESV	“When a man takes a wife and marries her, if then she finds no favor in his eyes because he has found some indecency in her, and he writes her a certificate of divorce and puts it in her hand and sends her out of his house, and _she departs_ out of his house,
+
+(x)	וְ_חָ֖שׁ_ עֲתִדֹ֥ת לָֽמֹו׃ (Deut. 32:35)
+NIV	It is mine to avenge. I will repay. In due time their foot will slip. their day of disaster is near and their doom _rushes_ upon them.”
+ESV	Vengeance is mine, and recompense, for the time when their foot shall slip. for the day of their calamity is at hand, and their doom _comes swiftly_.’
+
+(x)	וְ_רָאִ֥יתִי_ מָ֖ה (I Sam. 19:3)
+NIV	I will go out and stand with my father in the field where you are. I’ll speak to him about you and will tell you what _I find out_.”
+ESV	And I will go out and stand beside my father in the field where you are, and I will speak to my father about you. And if _I learn_ anything I will tell you.”
+
+(x)	וְגַם֙ אֶל־הַנָּכְרִ֔י אֲשֶׁ֛ר לֹא־מֵעַמְּךָ֥ יִשְׂרָאֵ֖ל ה֑וּא וּבָ֛א מֵאֶ֥רֶץ רְחֹוקָ֖ה לְמַ֥עַן שְׁמֶֽךָ׃ וּבָ֥א וְ_הִתְפַּלֵּ֖ל_ אֶל־הַבַּ֥יִת הַזֶּֽה׃ אַתָּ֞ה תִּשְׁמַ֤ע הַשָּׁמַ֨יִם֙ מְכֹ֣ון שִׁבְתֶּ֔ךָ (I Kgs. 8:42)
+NIV	for men will hear of your great name and your mighty hand and your outstretched arm — when he comes and _prays_ towards this temple,
+ESV	( for they shall hear of your great name and your mighty hand, and of your outstretched arm ), when he comes and _prays_ toward this house,
+
+(x)	וְ_הֽוּשַׁבְתֶּ֥ם_ לְבַדְּכֶ֖ם בְּקֶ֥רֶב הָאָֽרֶץ׃ (Isa. 5:8)
+NIV	Woe to you who add house to house and join field to field till no space is left and you _live_ alone in the land.
+ESV	Woe to those who join house to house, who add field to field, until there is no more room, and _you are made to dwell_ alone in the midst of the land.
+
+(x)	וְ_הָיָ֤ה_ לְאָדָם֙ לְבָעֵ֔ר (Isa. 44:15)
+NIV	_It is_ man’s fuel for burning. some of it he takes and warms himself, he kindles a fire and bakes bread. But he also fashions a god and worships it. he makes an idol and bows down to it.
+ESV	Then _it becomes_ fuel for a man. He takes a part of it and warms himself. he kindles a fire and bakes bread. Also he makes a god and worships it. he makes it an idol and falls down before it.
+
+(x)	וְ_הָיָ֤ה_ בְלִבִּי֙ כְּאֵ֣שׁ בֹּעֶ֔רֶת עָצֻ֖ר בְּעַצְמֹתָ֑י (Jer. 20:9)
+NIV	But if I say, “I will not mention him or speak any more in h_is_ name,” h_is_ word _is_ in my heart like a fire, a fire shut up in my bones. I am weary of holding it in. indeed, I cannot.
+ESV	If I say, “I will not mention him, or speak any more in his name,” _there is_ in my heart as it were a burning fire shut up in my bones, and I am weary with holding it in, and I cannot.
+
+(x)	וְ_נִפַּצְתִּ֣י_ בְךָ֔ פַּחֹ֖ות וּסְגָנִֽים׃ (Jer. 51:23)
+NIV	with you _I shatter_ shepherd and flock, with you _I shatter_ farmer and oxen, with you _I shatter_ governors and officials.
+ESV	with you _I break in pieces_ the shepherd and his flock. with you _I break in pieces_ the farmer and his team. with you _I break in pieces_ governors and commanders.
+
+(x)	וַ_אֲמַרְתֶּ֕ם_ (Ezek. 18:19)
+NIV	“Yet _you ask_, ‘Why does the son not share the guilt of his father?’ Since the son has done what is just and right and has been careful to keep all my decrees, he will surely live.
+ESV	“Yet _you say_, ‘Why should not the son suffer for the iniquity of the father?’ When the son has done what is just and right, and has been careful to observe all my statutes, he shall surely live.
+
+(x)	וְ_אָמְרוּ֙_ בְּנֵ֣י עַמְּךָ֔ (Ezek. 33:17)
+NIV	“Yet your countrymen _say_, ‘The way of the Lord is not just.’ But it is their way that is not just.
+ESV	“Yet your people _say_, ‘The way of the Lord is not just,’ when it is their own way that is not just.
+
+(x)	וְ_חָמְד֤וּ_ שָׂדֹות֙ וּבָתִּ֖ים (Mic. 2:2)
+NIV	_They covet_ fields and seize them, and houses, and take them. They defraud a man of his home, a fellow-man of his inheritance.
+ESV	_They covet_ fields and seize them, and houses, and take them away. they oppress a man and his house, a man and his inheritance.
+
+(x)	וְ_הִפַּחְתֶּ֣ם_ אֹותֹ֗ו (Mal. 1:13)
+NIV	And you say, ‘What a burden!’ and you sniff at it contemptuously,” says the LORD Almighty. “When you bring injured, crippled or diseased animals and offer them as sacrifices, should I accept them from your hands?” says the LORD.
+ESV	But you say, ‘What a weariness this is,’ and _you snort at_ it, says the Lord of hosts. You bring what has been taken by violence or is lame or sick, and this you bring as your offering! Shall I accept that from your hand? says the Lord.
+
+(x)	לָכֵ֤ן׀ יָשׁ֣וּב עַמֹּ֣ו הֲלֹ֑ם וּמֵ֥י מָ֝לֵ֗א יִמָּ֥צוּ לָֽמֹו׃ וְֽ_אָמְר֗וּ_ (Psa. 73:11)
+NIV	_They say_, “How can God know? Does the Most High have knowledge?”
+ESV	And _they say_, “How can God know? Is there knowledge in the Most High?”
+
+(x)	הֲ_יָדַ֗עְתָּ_ עֵ֭ת לֶ֣דֶת יַעֲלֵי־סָ֑לַע חֹלֵ֖ל אַיָּלֹ֣ות תִּשְׁמֹֽר׃ תִּסְפֹּ֣ר יְרָחִ֣ים תְּמַלֶּ֑אנָה וְ֝_יָדַ֗עְתָּ_ עֵ֣ת לִדְתָּֽנָה׃ (Job 39:2)
+NIV	Do you count the months till they bear? _Do you know_ the time they give birth?
+ESV	Can you number the months that they fulfill, and _do you know_ the time when they give birth,
+
+(x)	וְ_צָמִ֗ת_ (Ruth 2:9)
+NIV	Watch the field where the men are harvesting, and follow along after the girls. I have told the men not to touch you. And whenever _you are thirsty_, go and get a drink from the water jars the men have filled.”
+ESV	Let your eyes be on the field that they are reaping, and go after them. Have I not charged the young men not to touch you? And when _you are thirsty_, go to the vessels and drink what the young men have drawn.”
+
+(x)	וְ_נִכְבְּשָׁ֥ה_ הָאָ֛רֶץ לִפְנֵ֥י יְהוָ֖ה וְלִפְנֵ֥י עַמֹּֽו׃ (I Chr. 22:18)
+NIV	He said to them, “Is not the LORD your God with you? And has he not granted you rest on every side? For he has handed the inhabitants of the land over to me, and the land _is subject_ to the LORD and to his people.
+ESV	“Is not the Lord your God with you? And has he not given you peace on every side? For he has delivered the inhabitants of the land into my hand, and the land _is subdued_ before the Lord and his people.
+
+(x)	וְ_נָ֣פַלְתָּ֔_ אַתָּ֖ה וִיהוּדָ֥ה עִמָּֽךְ׃ (II Chr. 25:19)
+NIV	You say to yourself that you have defeated Edom, and now you are arrogant and proud. But stay at home! Why ask for trouble and cause your own downfall and that of Judah also?”
+ESV	You say, ‘See, I have struck down Edom,’ and your heart has lifted you up in boastfulness. But now stay at home. Why should you provoke trouble so that _you fall_, you and Judah with you?”

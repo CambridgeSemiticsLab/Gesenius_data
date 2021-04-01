@@ -1,13 +1,14 @@
 ,sum
-PRES,0.22
-FUT,0.19
-FUT ~ MOD shall,0.14
+PRES,0.2
+FUT,0.17
+FUT ~ MOD shall,0.13
+IMPV,0.04
 IMPV ~ MOD shall,0.04
-PAST,0.04
+PAST,0.03
 FUT ~ PRES,0.03
+MOD let,0.03
 MOD must ~ MOD shall,0.03
+MOD may,0.02
 MOD is to ~ MOD shall,0.02
 MOD can,0.02
 MOD shall,0.02
-MOD may,0.02
-IMPV,0.02

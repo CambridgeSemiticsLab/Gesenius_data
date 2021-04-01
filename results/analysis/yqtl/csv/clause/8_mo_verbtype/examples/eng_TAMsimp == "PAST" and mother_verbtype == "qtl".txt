@@ -1,27 +1,101 @@
 eng_TAMsimp == "PAST" and mother_verbtype == "qtl"
 25 of 84
-came in, went (ESV, NIV | BHS הַנְּפִלִ֞ים הָי֣וּ בָאָרֶץ֮ בַּיָּמִ֣ים הָהֵם֒ אֲשֶׁ֨ר יָבֹ֜אוּ בְּנֵ֤י הָֽאֱלֹהִים֙ אֶל־בְּנֹ֣ות הָֽאָדָ֔ם , Gen. 6:4)
-gathered around (ESV, NIV | BHS וְהִנֵּ֛ה קָ֥מָה אֲלֻמָּתִ֖י וְהִנֵּ֤ה תְסֻבֶּ֨ינָה֙ אֲלֻמֹּ֣תֵיכֶ֔ם , Gen. 37:7)
-we ate (ESV, NIV | BHS זָכַ֨רְנוּ֙ אֶת־הַדָּגָ֔ה אֲשֶׁר־נֹאכַ֥ל בְּמִצְרַ֖יִם חִנָּ֑ם , Num. 11:5)
-kept, took (ESV, NIV | BHS בִּימֵ֞י שַׁמְגַּ֤ר בֶּן־עֲנָת֙ בִּימֵ֣י יָעֵ֔ל חָדְל֖וּ אֳרָחֹ֑ות וְהֹלְכֵ֣י נְתִיבֹ֔ות יֵלְכ֕וּ אֳרָחֹ֖ות עֲקַלְקַלֹּֽות׃ , Judg. 5:6)
-returned, did return (ESV, NIV | BHS מִדַּ֣ם חֲלָלִ֗ים מֵחֵ֨לֶב֙ גִּבֹּורִ֔ים קֶ֚שֶׁת יְהֹ֣ונָתָ֔ן לֹ֥א נָשֹׂ֖וג אָחֹ֑ור וְחֶ֣רֶב שָׁא֔וּל לֹ֥א תָשׁ֖וּב רֵיקָֽם׃ , II Sam. 1:22)
-returned (ESV, NIV | BHS ה֣וּא קָם֩ וְהָעָ֛ם יָשֻׁ֥בוּ אַחֲרָ֖יו , II Sam. 23:10)
-were divided, were split (ESV, NIV | BHS בִּשְׁנַת֩ עֶשְׂרִ֨ים וָשֶׁ֜בַע שָׁנָ֗ה לְאָסָא֙ מֶ֣לֶךְ יְהוּדָ֔ה מָלַ֥ךְ זִמְרִ֛י שִׁבְעַ֥ת יָמִ֖ים בְּתִרְצָ֑ה אָ֧ז יֵחָלֵ֛ק הָעָ֥ם יִשְׂרָאֵ֖ל לַחֵ֑צִי , I Kgs. 16:21)
-I struck, I punished (ESV, NIV | BHS בַּעֲוֹ֥ן בִּצְעֹ֛ו קָצַ֥פְתִּי וְאַכֵּ֖הוּ , Isa. 57:17)
-they sent (ESV, NIV | BHS כִּ֣י נִאֵ֗פוּ וְאַ֗ף כִּ֤י תִשְׁלַ֨חְנָה֙ לַֽאֲנָשִׁ֔ים , Ezek. 23:40)
-he met, he found (ESV, NIV | BHS וּבְאֹונֹ֖ו שָׂרָ֥ה אֶת־אֱלֹהִֽים׃ בֵּֽית־אֵל֙ יִמְצָאֶ֔נּוּ , Hos. 12:5)
-surrounded (ESV, NIV | BHS אֲפָפ֤וּנִי מַ֨יִם֙ עַד־נֶ֔פֶשׁ תְּהֹ֖ום יְסֹבְבֵ֑נִי , Jonah 2:6)
-stripped the sheath, uncovered (ESV, NIV | BHS הֲבִנְהָרִים֙ חָרָ֣ה עֶרְיָ֤ה תֵעֹור֙ קַשְׁתֶּ֔ךָ , Hab. 3:9)
-they called (ESV, NIV | BHS כַאֲשֶׁר־קָרָ֖א כֵּ֤ן יִקְרְאוּ֙ , Zech. 7:13)
-established (ESV, NIV | BHS כִּי־ה֖וּא עַל־יַמִּ֣ים יְסָדָ֑הּ וְעַל־נְ֝הָרֹ֗ות יְכֹונְנֶֽהָ׃ , Psa. 24:2)
-you afflicted, you crushed (ESV, NIV | BHS אַתָּ֤ה׀ יָדְךָ֡ גֹּויִ֣ם הֹ֭ורַשְׁתָּ תָּרַ֥ע לְ֝אֻמִּ֗ים , Psa. 44:3)
-they broke down, they smashed (ESV, NIV | BHS שָׁאֲג֣וּ צֹ֭רְרֶיךָ בְּקֶ֣רֶב מֹועֲדֶ֑ךָ וְ֭עַתָּה פִּתּוּחֶ֣יהָ יָּ֑חַד בְּכַשִּׁ֥יל וְ֝כֵֽילַפֹּ֗ת יַהֲלֹמֽוּן׃ , Psa. 74:6)
-were freed, were set free (ESV, NIV | BHS הֲסִירֹ֣ותִי מִסֵּ֣בֶל שִׁכְמֹ֑ו כַּ֝פָּ֗יו מִדּ֥וּד תַּעֲבֹֽרְנָה׃ , Psa. 81:7)
-he saved (ESV, NIV | BHS דַּ֝לֹּותִ֗י וְלִ֣י יְהֹושִֽׁיעַ׃ , Psa. 116:6)
-were written (ESV, NIV | BHS גָּלְמִ֤י׀ רָ֘א֤וּ עֵינֶ֗יךָ וְעַֽל־סִפְרְךָ֮ כֻּלָּ֪ם יִכָּ֫תֵ֥בוּ , Psa. 139:16)
-he did build, did build (ESV, NIV | BHS בַּ֥יִת גָּ֝זַ֗ל וְלֹ֣א יִבֶנֵֽהוּ׃ , Job 20:19)
-they did speak again, they spoke more (ESV, NIV | BHS לִֽי־שָׁמְע֥וּ אַחֲרֵ֣י דְ֭בָרִי לֹ֣א יִשְׁנ֑וּ , Job 29:22)
-I listened (ESV, NIV | BHS הֵ֤ן הֹוחַ֨לְתִּי לְֽדִבְרֵיכֶ֗ם אָ֭זִין עַד־תְּב֥וּנֹֽתֵיכֶ֑ם , Job 32:11)
-they were fastened together, they were woven together (ESV, NIV | BHS נִשְׂקַד֩ עֹ֨ל פְּשָׁעַ֜י בְּיָדֹ֗ו יִשְׂתָּֽרְג֛וּ , Lam. 1:14)
-rebuilt (ESV, NIV | BHS וְאֵ֣ת׀ שַׁ֣עַר הָאַשְׁפֹּ֗ות הֶחֱזִיק֙ מַלְכִּיָּ֣ה בֶן־רֵכָ֔ב שַׂ֖ר פֶּ֣לֶךְ בֵּית־הַכָּ֑רֶם ה֣וּא יִבְנֶ֔נּוּ , Neh. 3:14)
-revolted (ESV, NIV | BHS בְּיָמָיו֙ פָּשַׁ֣ע אֱדֹ֔ום מִתַּ֖חַת יַד־יְהוּדָ֑ה אָ֣ז תִּפְשַׁ֥ע לִבְנָ֛ה בָּעֵ֥ת הַהִ֖יא מִתַּ֣חַת יָדֹ֑ו , II Chr. 21:10)
+(x)	הַנְּפִלִ֞ים הָי֣וּ בָאָרֶץ֮ בַּיָּמִ֣ים הָהֵם֒ אֲשֶׁ֨ר _יָבֹ֜אוּ_ בְּנֵ֤י הָֽאֱלֹהִים֙ אֶל־בְּנֹ֣ות הָֽאָדָ֔ם (Gen. 6:4)
+NIV	The Nephilim were on the earth in those days — and also afterward — when the sons of God _went_ to the daughters of men and had children by them. They were the heroes of old, men of renown.
+ESV	The Nephilim were on the earth in those days, and also afterward, when the sons of God _came in_ to the daughters of man and they bore children to them. These were the mighty men who were of old, the men of renown.
+
+(x)	וְהִנֵּ֛ה קָ֥מָה אֲלֻמָּתִ֖י וְהִנֵּ֤ה _תְסֻבֶּ֨ינָה֙_ אֲלֻמֹּ֣תֵיכֶ֔ם (Gen. 37:7)
+NIV	We were binding sheaves of grain out in the field when suddenly my sheaf rose and stood upright, while your sheaves _gathered around_ mine and bowed down to it.”
+ESV	Behold, we were binding sheaves in the field, and behold, my sheaf arose and stood upright. And behold, your sheaves _gathered around_ it and bowed down to my sheaf.”
+
+(x)	זָכַ֨רְנוּ֙ אֶת־הַדָּגָ֔ה אֲשֶׁר־_נֹאכַ֥ל_ בְּמִצְרַ֖יִם חִנָּ֑ם (Num. 11:5)
+NIV	We remember the fish _we ate_ in Egypt at no cost — also the cucumbers, melons, leeks, onions and garlic.
+ESV	We remember the fish _we ate_ in Egypt that cost nothing, the cucumbers, the melons, the leeks, the onions, and the garlic.
+
+(x)	בִּימֵ֞י שַׁמְגַּ֤ר בֶּן־עֲנָת֙ בִּימֵ֣י יָעֵ֔ל חָדְל֖וּ אֳרָחֹ֑ות וְהֹלְכֵ֣י נְתִיבֹ֔ות _יֵלְכ֕וּ_ אֳרָחֹ֖ות עֲקַלְקַלֹּֽות׃ (Judg. 5:6)
+NIV	“In the days of Shamgar son of Anath, in the days of Jael, the roads were abandoned. travellers _took_ to winding paths.
+ESV	“In the days of Shamgar, son of Anath, in the days of Jael, the highways were abandoned, and travelers _kept_ to the byways.
+
+(x)	מִדַּ֣ם חֲלָלִ֗ים מֵחֵ֨לֶב֙ גִּבֹּורִ֔ים קֶ֚שֶׁת יְהֹ֣ונָתָ֔ן לֹ֥א נָשֹׂ֖וג אָחֹ֑ור וְחֶ֣רֶב שָׁא֔וּל לֹ֥א _תָשׁ֖וּב_ רֵיקָֽם׃ (II Sam. 1:22)
+NIV	From the blood of the slain, from the flesh of the mighty, the bow of Jonathan did not turn back, the sword of Saul did not return unsatisfied.
+ESV	“From the blood of the slain, from the fat of the mighty, the bow of Jonathan turned not back, and the sword of Saul _returned_ not empty.
+
+(x)	ה֣וּא קָם֩ וְהָעָ֛ם _יָשֻׁ֥בוּ_ אַחֲרָ֖יו (II Sam. 23:10)
+NIV	but he stood his ground and struck down the Philistines till his hand grew tired and froze to the sword. The LORD brought about a great victory that day. The troops _returned_ to Eleazar, but only to strip the dead.
+ESV	He rose and struck down the Philistines until his hand was weary, and his hand clung to the sword. And the Lord brought about a great victory that day, and the men _returned_ after him only to strip the slain.
+
+(x)	בִּשְׁנַת֩ עֶשְׂרִ֨ים וָשֶׁ֜בַע שָׁנָ֗ה לְאָסָא֙ מֶ֣לֶךְ יְהוּדָ֔ה מָלַ֥ךְ זִמְרִ֛י שִׁבְעַ֥ת יָמִ֖ים בְּתִרְצָ֑ה אָ֧ז _יֵחָלֵ֛ק_ הָעָ֥ם יִשְׂרָאֵ֖ל לַחֵ֑צִי (I Kgs. 16:21)
+NIV	Then the people of Israel _were split_ into two factions. half supported Tibni son of Ginath for king, and the other half supported Omri.
+ESV	Then the people of Israel _were divided_ into two parts. Half of the people followed Tibni the son of Ginath, to make him king, and half followed Omri.
+
+(x)	בַּעֲוֹ֥ן בִּצְעֹ֛ו קָצַ֥פְתִּי וְ_אַכֵּ֖הוּ_ (Isa. 57:17)
+NIV	I was enraged by his sinful greed. _I punished_ him, and hid my face in anger, yet he kept on in his wilful ways.
+ESV	Because of the iniquity of his unjust gain I was angry, _I struck_ him. I hid my face and was angry, but he went on backsliding in the way of his own heart.
+
+(x)	כִּ֣י נִאֵ֗פוּ וְאַ֗ף כִּ֤י _תִשְׁלַ֨חְנָה֙_ לַֽאֲנָשִׁ֔ים (Ezek. 23:40)
+NIV	“They even sent messengers for men who came from far away, and when they arrived you bathed yourself for them, painted your eyes and put on your jewellery.
+ESV	They even sent for men to come from afar, to whom a messenger was sent. and behold, they came. For them you bathed yourself, painted your eyes, and adorned yourself with ornaments.
+
+(x)	וּבְאֹונֹ֖ו שָׂרָ֥ה אֶת־אֱלֹהִֽים׃ בֵּֽית־אֵל֙ _יִמְצָאֶ֔נּוּ_ (Hos. 12:5)
+NIV	He struggled with the angel and overcame him. he wept and begged for his favour. _He found_ him at Bethel and talked with him there —
+ESV	He strove with the angel and prevailed. he wept and sought his favor. _He met_ God at Bethel, and there God spoke with us —
+
+(x)	אֲפָפ֤וּנִי מַ֨יִם֙ עַד־נֶ֔פֶשׁ תְּהֹ֖ום _יְסֹבְבֵ֑נִי_ (Jonah 2:6)
+NIV	The engulfing waters threatened me, the deep _surrounded_ me. seaweed was wrapped around my head.
+ESV	The waters closed in over me to take my life. the deep _surrounded_ me. weeds were wrapped about my head
+
+(x)	הֲבִנְהָרִים֙ חָרָ֣ה עֶרְיָ֤ה _תֵעֹור֙_ קַשְׁתֶּ֔ךָ (Hab. 3:9)
+NIV	You _uncovered_ your bow, you called for many arrows. Selah You split the earth with rivers.
+ESV	You _stripped the sheath_ from your bow, calling for many arrows. Selah You split the earth with rivers.
+
+(x)	כַאֲשֶׁר־קָרָ֖א כֵּ֤ן _יִקְרְאוּ֙_ (Zech. 7:13)
+NIV	“‘When I called, they did not listen. so when _they called_, I would not listen,’ says the LORD Almighty.
+ESV	“As I called, and they would not hear, so _they called_, and I would not hear,” says the Lord of hosts,
+
+(x)	כִּי־ה֖וּא עַל־יַמִּ֣ים יְסָדָ֑הּ וְעַל־נְ֝הָרֹ֗ות _יְכֹונְנֶֽהָ_׃ (Psa. 24:2)
+NIV	for he founded it upon the seas and _established_ it upon the waters.
+ESV	for he has founded it upon the seas and _established_ it upon the rivers.
+
+(x)	אַתָּ֤ה׀ יָדְךָ֡ גֹּויִ֣ם הֹ֭ורַשְׁתָּ _תָּרַ֥ע_ לְ֝אֻמִּ֗ים (Psa. 44:3)
+NIV	With your hand you drove out the nations and planted our fathers. _you crushed_ the peoples and made our fathers flourish.
+ESV	you with your own hand drove out the nations, but them you planted. _you afflicted_ the peoples, but them you set free.
+
+(x)	שָׁאֲג֣וּ צֹ֭רְרֶיךָ בְּקֶ֣רֶב מֹועֲדֶ֑ךָ וְ֭עַתָּה פִּתּוּחֶ֣יהָ יָּ֑חַד בְּכַשִּׁ֥יל וְ֝כֵֽילַפֹּ֗ת _יַהֲלֹמֽוּן_׃ (Psa. 74:6)
+NIV	_They smashed_ all the carved paneling with their axes and hatchets.
+ESV	And all its carved wood _they broke down_ with hatchets and hammers.
+
+(x)	הֲסִירֹ֣ותִי מִסֵּ֣בֶל שִׁכְמֹ֑ו כַּ֝פָּ֗יו מִדּ֥וּד _תַּעֲבֹֽרְנָה_׃ (Psa. 81:7)
+NIV	He says, “I removed the burden from their shoulders. their hands _were set free_ from the basket.
+ESV	“I relieved your shoulder of the burden. your hands _were freed_ from the basket.
+
+(x)	דַּ֝לֹּותִ֗י וְלִ֣י _יְהֹושִֽׁיעַ_׃ (Psa. 116:6)
+NIV	The LORD protects the simplehearted. when I was in great need, _he saved_ me.
+ESV	The Lord preserves the simple. when I was brought low, _he saved_ me.
+
+(x)	גָּלְמִ֤י׀ רָ֘א֤וּ עֵינֶ֗יךָ וְעַֽל־סִפְרְךָ֮ כֻּלָּ֪ם _יִכָּ֫תֵ֥בוּ_ (Psa. 139:16)
+NIV	your eyes saw my unformed body. All the days ordained for me _were written_ in your book before one of them came to be.
+ESV	Your eyes saw my unformed substance. in your book _were written_, every one of them, the days that were formed for me, when as yet there was none of them.
+
+(x)	בַּ֥יִת גָּ֝זַ֗ל וְלֹ֣א _יִבֶנֵֽהוּ_׃ (Job 20:19)
+NIV	For he has oppressed the poor and left them destitute. he has seized houses he did not build.
+ESV	For he has crushed and abandoned the poor. he has seized a house that he did not build.
+
+(x)	לִֽי־שָׁמְע֥וּ אַחֲרֵ֣י דְ֭בָרִי לֹ֣א _יִשְׁנ֑וּ_ (Job 29:22)
+NIV	After I had spoken, they spoke no more. my words fell gently on their ears.
+ESV	After I spoke they did not speak again, and my word dropped upon them.
+
+(x)	הֵ֤ן הֹוחַ֨לְתִּי לְֽדִבְרֵיכֶ֗ם _אָ֭זִין_ עַד־תְּב֥וּנֹֽתֵיכֶ֑ם (Job 32:11)
+NIV	I waited while you spoke, _I listened_ to your reasoning. while you were searching for words,
+ESV	“Behold, I waited for your words, _I listened_ for your wise sayings, while you searched out what to say.
+
+(x)	נִשְׂקַד֩ עֹ֨ל פְּשָׁעַ֜י בְּיָדֹ֗ו _יִשְׂתָּֽרְג֛וּ_ (Lam. 1:14)
+NIV	“My sins have been bound into a yoke. by his hands _they were woven together_. They have come upon my neck and the Lord has sapped my strength. He has handed me over to those I cannot withstand.
+ESV	“My transgressions were bound into a yoke. by his hand _they were fastened together_. they were set upon my neck. he caused my strength to fail. the Lord gave me into the hands of those whom I cannot withstand.
+
+(x)	וְאֵ֣ת׀ שַׁ֣עַר הָאַשְׁפֹּ֗ות הֶחֱזִיק֙ מַלְכִּיָּ֣ה בֶן־רֵכָ֔ב שַׂ֖ר פֶּ֣לֶךְ בֵּית־הַכָּ֑רֶם ה֣וּא _יִבְנֶ֔נּוּ_ (Neh. 3:14)
+NIV	The Dung Gate was repaired by Malkijah son of Recab, ruler of the district of Beth Hakkerem. He _rebuilt_ it and put its doors and bolts and bars in place.
+ESV	Malchijah the son of Rechab, ruler of the district of Beth-haccherem, repaired the Dung Gate. He _rebuilt_ it and set its doors, its bolts, and its bars.
+
+(x)	בְּיָמָיו֙ פָּשַׁ֣ע אֱדֹ֔ום מִתַּ֖חַת יַד־יְהוּדָ֑ה אָ֣ז _תִּפְשַׁ֥ע_ לִבְנָ֛ה בָּעֵ֥ת הַהִ֖יא מִתַּ֣חַת יָדֹ֑ו (II Chr. 21:10)
+NIV	To this day Edom has been in rebellion against Judah. Libnah _revolted_ at the same time, because Jehoram had forsaken the LORD, the God of his fathers.
+ESV	So Edom _revolted_ from the rule of Judah to this day. At that time Libnah also _revolted_ from his rule, because he had forsaken the Lord, the God of his fathers.

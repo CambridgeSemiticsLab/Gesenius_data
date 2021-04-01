@@ -1,12 +1,41 @@
 eng_TAMsimp == "MOD is to ~ MOD shall" and has_time == 1
 10 of 28
-they shall eat, they are to eat (ESV, NIV | BHS וְאָכְל֥וּ אֶת־הַבָּשָׂ֖ר בַּלַּ֣יְלָה הַזֶּ֑ה צְלִי־אֵ֣שׁ , Exod. 12:8)
-shall shut up, is to put in isolation (ESV, NIV | BHS וְהִסְגִּ֧יר הַכֹּהֵ֛ן אֶת־הַנֶּ֖גַע שִׁבְעַ֥ת יָמִֽים׃ , Lev. 13:4)
-shall examine, is to examine (ESV, NIV | BHS וְרָאָה֩ הַכֹּהֵ֨ן אֹתֹ֜ו בַּיֹּ֣ום הַשְּׁבִיעִי֮ שֵׁנִית֒ , Lev. 13:6)
-shall examine, is to examine (ESV, NIV | BHS וְרָאָ֥הוּ הַכֹּהֵ֖ן בַּיֹּ֣ום הַשְּׁבִיעִ֑י , Lev. 13:27)
-shall shut up, is to keep in isolation (ESV, NIV | BHS וְהִסְגִּ֨יר הַכֹּהֵ֧ן אֶת־הַנֶּ֛תֶק שִׁבְעַ֥ת יָמִ֖ים שֵׁנִֽית׃ , Lev. 13:33)
-he shall shut up, he is to isolate (ESV, NIV | BHS וְהִסְגִּירֹ֥ו שִׁבְעַת־יָמִ֖ים שֵׁנִֽית׃ , Lev. 13:54)
-you shall take, you are to take (ESV, NIV | BHS וּלְקַחְתֶּ֨ם לָכֶ֜ם בַּיֹּ֣ום הָרִאשֹׁ֗ון פְּרִ֨י עֵ֤ץ הָדָר֙ כַּפֹּ֣ת תְּמָרִ֔ים וַעֲנַ֥ף עֵץ־עָבֹ֖ת וְעַרְבֵי־נָ֑חַל , Lev. 23:40)
-shall sprinkle, is to sprinkle (ESV, NIV | BHS וְהִזָּ֤ה הַטָּהֹר֙ עַל־הַטָּמֵ֔א בַּיֹּ֥ום הַשְּׁלִישִׁ֖י וּבַיֹּ֣ום הַשְּׁבִיעִ֑י , Num. 19:19)
-shall be, are to be (ESV, NIV | BHS וְ֠הָיוּ הָאֲבָנִ֨ים הָאֵ֧לֶּה לְזִכָּרֹ֛ון לִבְנֵ֥י יִשְׂרָאֵ֖ל עַד־עֹולָֽם׃ , Josh. 4:7)
-shall bow down, are to worship (ESV, NIV | BHS וְהִשְׁתַּחֲו֣וּ עַם־הָאָ֗רֶץ פֶּ֚תַח הַשַּׁ֣עַר הַה֔וּא בַּשַּׁבָּתֹ֖ות וּבֶחֳדָשִׁ֑ים לִפְנֵ֖י יְהוָֽה׃ , Ezek. 46:3)
+(x)	וְ_אָכְל֥וּ_ אֶת־הַבָּשָׂ֖ר בַּלַּ֣יְלָה הַזֶּ֑ה צְלִי־אֵ֣שׁ (Exod. 12:8)
+NIV	That same night _they are to eat_ the meat roasted over the fire, along with bitter herbs, and bread made without yeast.
+ESV	_They shall eat_ the flesh that night, roasted on the fire. with unleavened bread and bitter herbs they shall eat it.
+
+(x)	וְ_הִסְגִּ֧יר_ הַכֹּהֵ֛ן אֶת־הַנֶּ֖גַע שִׁבְעַ֥ת יָמִֽים׃ (Lev. 13:4)
+NIV	If the spot on his skin is white but does not appear to be more than skin deep and the hair in it has not turned white, the priest is to put the infected person in isolation for seven days.
+ESV	But if the spot is white in the skin of his body and appears no deeper than the skin, and the hair in it has not turned white, the priest _shall shut up_ the diseased person for seven days.
+
+(x)	וְ_רָאָה֩_ הַכֹּהֵ֨ן אֹתֹ֜ו בַּיֹּ֣ום הַשְּׁבִיעִי֮ שֵׁנִית֒ (Lev. 13:6)
+NIV	On the seventh day the priest _is to examine_ him again, and if the sore has faded and has not spread in the skin, the priest shall pronounce him clean. it is only a rash. The man must wash his clothes, and he will be clean.
+ESV	And the priest _shall examine_ him again on the seventh day, and if the diseased area has faded and the disease has not spread in the skin, then the priest shall pronounce him clean. it is only an eruption. And he shall wash his clothes and be clean.
+
+(x)	וְ_רָאָ֥הוּ_ הַכֹּהֵ֖ן בַּיֹּ֣ום הַשְּׁבִיעִ֑י (Lev. 13:27)
+NIV	On the seventh day the priest _is to examine_ him, and if it is spreading in the skin, the priest shall pronounce him unclean. it is an infectious skin disease.
+ESV	and the priest _shall examine_ him the seventh day. If it is spreading in the skin, then the priest shall pronounce him unclean. it is a case of leprous disease.
+
+(x)	וְ_הִסְגִּ֨יר_ הַכֹּהֵ֧ן אֶת־הַנֶּ֛תֶק שִׁבְעַ֥ת יָמִ֖ים שֵׁנִֽית׃ (Lev. 13:33)
+NIV	he must be shaved except for the diseased area, and the priest is to keep him in isolation another seven days.
+ESV	then he shall shave himself, but the itch he shall not shave. and the priest _shall shut up_ the person with the itching disease for another seven days.
+
+(x)	וְ_הִסְגִּירֹ֥ו_ שִׁבְעַת־יָמִ֖ים שֵׁנִֽית׃ (Lev. 13:54)
+NIV	he shall order that the contaminated article be washed. Then _he is to isolate_ it for another seven days.
+ESV	then the priest shall command that they wash the thing in which is the disease, and he shall shut it up for another seven days.
+
+(x)	וּ_לְקַחְתֶּ֨ם_ לָכֶ֜ם בַּיֹּ֣ום הָרִאשֹׁ֗ון פְּרִ֨י עֵ֤ץ הָדָר֙ כַּפֹּ֣ת תְּמָרִ֔ים וַעֲנַ֥ף עֵץ־עָבֹ֖ת וְעַרְבֵי־נָ֑חַל (Lev. 23:40)
+NIV	On the first day _you are to take_ choice fruit from the trees, and palm fronds, leafy branches and poplars, and rejoice before the LORD your God for seven days.
+ESV	And _you shall take_ on the first day the fruit of splendid trees, branches of palm trees and boughs of leafy trees and willows of the brook, and you shall rejoice before the Lord your God seven days.
+
+(x)	וְ_הִזָּ֤ה_ הַטָּהֹר֙ עַל־הַטָּמֵ֔א בַּיֹּ֥ום הַשְּׁלִישִׁ֖י וּבַיֹּ֣ום הַשְּׁבִיעִ֑י (Num. 19:19)
+NIV	The man who is clean _is to sprinkle_ the unclean person on the third and seventh days, and on the seventh day he is to purify him. The person being cleansed must wash his clothes and bathe with water, and that evening he will be clean.
+ESV	And the clean person _shall sprinkle_ it on the unclean on the third day and on the seventh day. Thus on the seventh day he shall cleanse him, and he shall wash his clothes and bathe himself in water, and at evening he shall be clean.
+
+(x)	וְ֠_הָיוּ_ הָאֲבָנִ֨ים הָאֵ֧לֶּה לְזִכָּרֹ֛ון לִבְנֵ֥י יִשְׂרָאֵ֖ל עַד־עֹולָֽם׃ (Josh. 4:7)
+NIV	tell them that the flow of the Jordan was cut off before the ark of the covenant of the LORD. When it crossed the Jordan, the waters of the Jordan were cut off. These stones _are to be_ a memorial to the people of Israel forever.”
+ESV	then you shall tell them that the waters of the Jordan were cut off before the ark of the covenant of the Lord. When it passed over the Jordan, the waters of the Jordan were cut off. So these stones _shall be_ to the people of Israel a memorial forever.”
+
+(x)	וְ_הִשְׁתַּחֲו֣וּ_ עַם־הָאָ֗רֶץ פֶּ֚תַח הַשַּׁ֣עַר הַה֔וּא בַּשַּׁבָּתֹ֖ות וּבֶחֳדָשִׁ֑ים לִפְנֵ֖י יְהוָֽה׃ (Ezek. 46:3)
+NIV	On the Sabbaths and New Moons the people of the land _are to worship_ in the presence of the LORD at the entrance to that gateway.
+ESV	The people of the land _shall bow down_ at the entrance of that gate before the Lord on the Sabbaths and on the new moons.

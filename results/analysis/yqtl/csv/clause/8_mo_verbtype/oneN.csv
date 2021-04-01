@@ -1,200 +1,212 @@
-eng_TAMsimp,yqtl,Ø,qtl,wqtl,impv,wayq,ptcp,infc,jussM,cohoT,jussF,cohoM,infa
-PRES,2.43,3.68,9.17,15.4,29.43,38.96,24.3,85.45,52.98,220.75,378.43,378.43,662.25
-FUT,2.67,4.95,9.88,9.84,16.61,21.36,20.96,43.98,48.76,80.11,203.91,280.38,560.75
-FUT ~ MOD shall,2.58,4.52,10.45,5.63,27.81,57.47,29.22,55.61,172.4,287.33,862.0,574.67,inf
-IMPV ~ MOD shall,1.7,5.2,83.17,10.62,24.95,49.9,249.5,38.38,83.17,inf,499.0,inf,99.8
-PAST,3.26,4.48,5.29,34.15,148.0,5.48,34.15,44.4,444.0,148.0,inf,inf,444.0
-FUT ~ PRES,2.4,4.44,7.51,18.77,24.29,27.53,22.94,59.0,103.25,103.25,137.67,206.5,413.0
-MOD must ~ MOD shall,2.26,2.97,42.0,10.84,56.0,42.0,48.0,30.55,336.0,inf,336.0,inf,336.0
-MOD is to ~ MOD shall,2.56,2.89,97.33,6.79,36.5,58.4,146.0,22.46,292.0,292.0,292.0,inf,inf
-MOD can,3.15,3.39,7.44,24.36,16.75,22.33,17.87,53.6,67.0,134.0,89.33,inf,inf
-MOD shall,2.92,4.38,14.6,12.17,43.8,9.95,36.5,9.52,inf,inf,inf,inf,43.8
-MOD may,2.61,4.82,47.0,5.37,18.8,47.0,47.0,37.6,31.33,188.0,188.0,37.6,94.0
-IMPV,4.92,5.84,20.78,12.47,3.9,17.0,62.33,17.0,13.36,187.0,37.4,inf,inf
-MOD shall ~ PRES,3.06,3.2,18.38,7.0,36.75,24.5,147.0,24.5,36.75,49.0,inf,inf,inf
-MOD would,2.45,8.21,4.6,38.33,115.0,14.38,19.17,19.17,115.0,38.33,inf,115.0,inf
-PAST ~ PRES,2.89,3.14,4.78,inf,110.0,27.5,55.0,55.0,36.67,110.0,110.0,inf,inf
-FUT ~ MOD may,2.78,14.71,25.75,4.68,7.36,103.0,12.88,51.5,25.75,103.0,103.0,51.5,inf
-PRES ~ PRES PART,2.4,4.8,12.0,9.6,19.2,32.0,19.2,48.0,32.0,inf,inf,inf,inf
-PRES ~ PRES PERF,3.35,4.58,5.8,7.25,43.5,12.43,43.5,29.0,inf,inf,inf,inf,87.0
-MOD should,7.18,3.04,15.8,79.0,6.58,13.17,19.75,13.17,19.75,79.0,39.5,79.0,inf
-MOD can ~ PRES,2.54,5.07,5.46,23.67,17.75,71.0,17.75,inf,inf,35.5,35.5,inf,inf
-FUT ~ MOD lest,3.23,35.5,71.0,14.2,3.55,inf,inf,inf,6.45,inf,7.89,71.0,inf
-FUT ~ MOD can,2.67,3.56,8.0,64.0,64.0,21.33,16.0,inf,21.33,64.0,64.0,inf,inf
-PRES PERF,3.11,9.83,3.93,11.8,11.8,14.75,inf,29.5,59.0,59.0,inf,inf,59.0
-MOD may ~ MOD shall,3.06,3.06,26.0,6.5,52.0,17.33,26.0,inf,26.0,inf,inf,inf,inf
-PRES PART,2.58,6.13,4.45,16.33,24.5,49.0,24.5,16.33,inf,inf,inf,inf,inf
-IMPV ~ PRES,1.88,7.83,9.4,11.75,9.4,47.0,inf,inf,inf,inf,47.0,inf,inf
-TO INF,4.7,5.88,4.7,7.83,9.4,15.67,47.0,23.5,inf,47.0,inf,inf,47.0
-MOD may ~ PRES,1.92,6.57,11.5,9.2,46.0,46.0,inf,23.0,46.0,inf,46.0,inf,inf
-MOD can ~ MOD shall,2.2,11.0,5.5,22.0,8.8,14.67,44.0,inf,44.0,inf,inf,inf,inf
-MOD should ~ PRES,3.38,3.67,14.67,44.0,7.33,22.0,22.0,inf,14.67,inf,22.0,inf,inf
-PRES ~ TO INF,2.73,5.12,13.67,8.2,13.67,41.0,13.67,20.5,inf,inf,41.0,inf,inf
-FUT ~ MOD would,2.11,5.0,6.67,inf,10.0,20.0,inf,40.0,inf,inf,inf,inf,inf
-MOD could,7.6,2.71,5.43,inf,38.0,6.33,7.6,inf,inf,inf,inf,inf,inf
-MOD shall ~ TO INF,3.36,7.4,9.25,4.62,12.33,inf,inf,7.4,37.0,inf,inf,inf,inf
-MOD must,2.12,4.0,9.0,18.0,inf,12.0,inf,36.0,inf,inf,inf,inf,inf
-MOD let,1.52,17.5,inf,17.5,11.67,35.0,inf,inf,17.5,35.0,35.0,inf,inf
-MOD can ~ MOD may,3.09,3.78,17.0,17.0,5.67,17.0,inf,inf,17.0,inf,inf,inf,inf
-PAST ~ PRES PERF,2.36,6.6,3.67,33.0,inf,11.0,inf,inf,inf,inf,inf,33.0,inf
-MOD shall ~ MOD should,6.2,3.88,6.2,31.0,4.43,10.33,31.0,31.0,inf,inf,inf,inf,inf
-MOD would ~ PAST,5.8,2.23,29.0,4.83,inf,9.67,inf,29.0,inf,inf,inf,inf,inf
-FUT ~ TO INF,2.25,13.5,6.75,9.0,13.5,13.5,inf,13.5,inf,inf,inf,inf,inf
-MOD would ~ PRES,1.92,7.67,3.29,inf,inf,inf,23.0,inf,inf,inf,inf,inf,inf
-FUT ~ IMPV,2.33,3.0,inf,inf,7.0,10.5,inf,inf,inf,inf,inf,inf,inf
-PAST ~ PRES PART,3.0,4.2,5.25,10.5,inf,7.0,inf,inf,inf,inf,inf,inf,inf
-MOD shall ~ PRES PART,2.5,4.0,20.0,5.0,20.0,inf,inf,inf,20.0,inf,inf,inf,inf
-MOD should ~ TO INF,4.5,2.25,18.0,inf,inf,9.0,18.0,9.0,inf,inf,inf,inf,inf
-MOD must ~ PRES,4.5,2.25,4.5,18.0,18.0,inf,inf,inf,inf,inf,inf,inf,inf
-PRES ~ PRES PROG,2.0,16.0,8.0,16.0,16.0,8.0,inf,inf,inf,16.0,inf,inf,inf
-MOD lest ~ MOD may,2.67,8.0,inf,inf,16.0,inf,16.0,inf,5.33,16.0,16.0,16.0,inf
-MOD let ~ PRES,5.0,5.0,5.0,inf,inf,7.5,7.5,15.0,inf,inf,inf,15.0,inf
-FUT ~ PRES PART,2.5,3.75,15.0,5.0,inf,inf,15.0,inf,inf,inf,inf,inf,inf
-FUT ~ PAST,5.0,7.5,5.0,3.0,inf,inf,15.0,15.0,inf,inf,inf,inf,inf
-MOD shall ~ PAST,2.33,4.67,7.0,7.0,inf,inf,inf,inf,inf,inf,14.0,inf,inf
-FUT ~ MOD let,2.8,14.0,4.67,14.0,14.0,14.0,inf,14.0,14.0,inf,inf,inf,inf
-MOD lest ~ PRES,4.67,14.0,inf,4.67,2.33,inf,inf,inf,14.0,inf,inf,inf,inf
-MOD should ~ MOD would,2.8,7.0,4.67,inf,14.0,4.67,inf,inf,inf,inf,inf,inf,inf
-IMPV ~ MOD may,3.25,6.5,inf,6.5,4.33,inf,inf,13.0,13.0,inf,inf,inf,inf
-MOD let ~ MOD shall,2.17,6.5,6.5,inf,13.0,13.0,13.0,inf,inf,inf,inf,inf,inf
-FUT ~ MOD should,4.0,1.71,inf,12.0,inf,inf,inf,inf,inf,inf,inf,inf,12.0
-HAB used to ~ PAST,3.0,4.0,inf,inf,inf,6.0,4.0,inf,inf,inf,inf,inf,inf
-MOD may ~ TO INF,2.0,6.0,inf,12.0,6.0,12.0,inf,inf,inf,inf,inf,inf,inf
-IMPV ~ MOD must,inf,2.4,inf,inf,4.0,6.0,inf,6.0,inf,inf,inf,inf,inf
-IMPV ~ MOD let,2.2,inf,11.0,inf,3.67,inf,11.0,11.0,inf,inf,inf,inf,inf
-IMPV ~ MOD can,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD might,5.5,11.0,3.67,11.0,inf,3.67,inf,11.0,inf,inf,inf,inf,inf
-PAST ~ TO INF,5.5,2.2,11.0,inf,inf,5.5,inf,11.0,inf,inf,inf,inf,inf
-MOD may ~ MOD must,2.5,2.5,10.0,inf,10.0,inf,inf,inf,inf,inf,inf,inf,inf
-PAST ~ PAST PERF,5.0,5.0,5.0,10.0,inf,3.33,inf,inf,inf,inf,inf,inf,inf
-MOD is to,2.5,3.33,inf,10.0,5.0,inf,inf,inf,inf,inf,inf,inf,inf
-MOD was to ~ PAST,4.5,2.25,9.0,inf,inf,4.5,inf,inf,inf,inf,inf,inf,inf
-MOD can ~ MOD should,inf,2.0,4.0,inf,4.0,inf,inf,inf,inf,inf,inf,inf,inf
-MOD can ~ MOD could,2.67,1.6,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD lest,2.33,3.5,inf,inf,3.5,inf,inf,inf,inf,inf,inf,inf,inf
-PAST PERF,7.0,inf,3.5,inf,inf,inf,7.0,2.33,inf,inf,inf,inf,inf
-FUT ~ MOD must,1.75,inf,3.5,inf,inf,inf,7.0,inf,inf,inf,inf,inf,inf
-MOD should ~ MOD was to,inf,2.33,3.5,inf,inf,7.0,inf,7.0,inf,inf,inf,inf,inf
-MOD might ~ MOD would,inf,2.0,6.0,inf,inf,6.0,inf,6.0,inf,inf,inf,inf,inf
-MOD could ~ PAST,6.0,6.0,3.0,inf,inf,3.0,inf,inf,inf,inf,inf,inf,inf
-FUT ~ PRES PERF,6.0,3.0,3.0,inf,inf,6.0,inf,inf,inf,inf,inf,inf,inf
-PAST ~ PAST PROG,2.0,inf,6.0,6.0,inf,6.0,inf,inf,inf,inf,inf,inf,inf
-FUT going-to ~ MOD shall,inf,6.0,6.0,inf,3.0,6.0,inf,inf,6.0,inf,inf,inf,inf
-MOD lest ~ MOD might,2.0,inf,3.0,inf,6.0,inf,inf,inf,inf,inf,inf,inf,inf
-MOD shall ~ MOD would,6.0,6.0,2.0,6.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD let ~ MOD must,2.0,2.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-PRES PART ~ TO INF,6.0,6.0,6.0,3.0,inf,inf,inf,6.0,inf,inf,inf,inf,inf
-MOD is to ~ MOD may,3.0,6.0,6.0,3.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD could ~ MOD would,6.0,1.5,inf,6.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
-FUT ~ FUT going-to,inf,inf,2.5,inf,inf,2.5,inf,5.0,inf,inf,inf,inf,inf
-MOD VB ~ MOD may,1.25,inf,5.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD can ~ PRES PART,1.25,5.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD is to ~ MOD must,5.0,2.5,inf,inf,inf,5.0,inf,inf,5.0,inf,inf,inf,inf
-MOD can ~ TO INF,2.5,5.0,2.5,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-IMPV ~ PRES PART,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD lest ~ TO INF,5.0,5.0,inf,inf,1.67,inf,inf,inf,inf,inf,inf,inf,inf
-MOD was to,inf,2.5,5.0,5.0,inf,inf,inf,5.0,inf,inf,inf,inf,inf
-MOD may ~ PRES PART,2.5,inf,inf,inf,inf,inf,inf,2.5,inf,5.0,inf,inf,inf
-MOD would ~ TO INF,inf,1.67,5.0,inf,inf,5.0,inf,inf,inf,inf,inf,inf,inf
-MOD might ~ PAST,5.0,5.0,1.67,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD might ~ MOD should,5.0,5.0,inf,inf,inf,5.0,inf,2.5,inf,inf,inf,inf,inf
-IMPV ~ MOD lest,1.33,inf,inf,inf,4.0,inf,inf,inf,inf,inf,inf,inf,inf
-HAB used to,inf,inf,inf,4.0,inf,2.0,inf,4.0,inf,inf,inf,inf,inf
-MOD should ~ PAST,2.0,inf,4.0,inf,inf,inf,inf,4.0,inf,inf,inf,inf,inf
-IMPV ~ PAST,1.33,inf,inf,inf,4.0,inf,inf,inf,inf,inf,inf,inf,inf
-IMPV ~ TO INF,4.0,inf,inf,inf,2.0,inf,inf,4.0,inf,inf,inf,inf,inf
-MOD VB ~ PRES,4.0,2.0,4.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-PAST PERF ~ PRES,inf,1.33,inf,inf,inf,inf,inf,4.0,inf,inf,inf,inf,inf
-MOD can ~ PAST,4.0,inf,2.0,inf,inf,4.0,inf,inf,inf,inf,inf,inf,inf
-MOD could ~ MOD might,4.0,inf,4.0,inf,inf,inf,inf,2.0,inf,inf,inf,inf,inf
-FUT ~ MOD is to,4.0,4.0,inf,4.0,inf,inf,inf,4.0,inf,inf,inf,inf,inf
-PRES PERF ~ TO INF,2.0,inf,4.0,4.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
-?VB ~ PAST,inf,4.0,2.0,inf,inf,inf,inf,inf,4.0,inf,inf,inf,inf
-MOD might ~ TO INF,inf,inf,2.0,inf,inf,inf,inf,2.0,inf,inf,inf,inf,inf
-MOD let ~ MOD may,inf,4.0,inf,inf,4.0,inf,inf,4.0,4.0,inf,inf,inf,inf
-MOD could ~ MOD should,inf,1.5,3.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-IMPV ~ MOD is to,inf,3.0,inf,inf,inf,3.0,inf,3.0,inf,inf,inf,inf,inf
-MOD shall ~ PRES PERF,3.0,inf,inf,inf,3.0,inf,3.0,inf,inf,inf,inf,inf,inf
-FUT ~ PRES PROG,inf,inf,inf,inf,1.5,inf,3.0,inf,inf,inf,inf,inf,inf
-MOD would ~ PRES PART,1.5,3.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD lest ~ MOD would,1.5,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,3.0,inf
-FUT ~ MOD that be,inf,3.0,inf,1.5,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD can ~ MOD let,3.0,1.5,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-PAST PROG,inf,inf,inf,3.0,inf,3.0,inf,3.0,inf,inf,inf,inf,inf
-MOD is to ~ PRES PART,inf,3.0,inf,inf,inf,1.5,inf,inf,inf,inf,inf,inf,inf
-PRES PART ~ PRES PERF,3.0,inf,3.0,inf,inf,inf,3.0,inf,inf,inf,inf,inf,inf
-MOD could ~ MOD must,inf,inf,1.5,inf,inf,inf,inf,inf,inf,3.0,inf,inf,inf
-MOD can ~ MOD might,inf,3.0,inf,inf,1.5,inf,inf,inf,inf,inf,inf,inf,inf
-FUT PROG ~ PRES,1.5,3.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD may ~ MOD might,inf,1.5,3.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-PRES ~ PRES do,2.0,inf,2.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD may ~ PAST,inf,inf,2.0,2.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD is to ~ TO INF,inf,2.0,inf,inf,inf,inf,inf,inf,2.0,inf,inf,inf,inf
-MOD let ~ TO INF,inf,2.0,inf,inf,2.0,inf,inf,inf,inf,inf,inf,inf,inf
-IMPV ~ MOD should,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD may ~ PRES PERF,inf,2.0,inf,inf,inf,inf,inf,inf,2.0,inf,inf,inf,inf
-PRES PROG,inf,2.0,2.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD lest ~ MOD should,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD need not ~ PRES,inf,inf,2.0,inf,inf,inf,2.0,inf,inf,inf,inf,inf,inf
-MOD need not ~ MOD shall,2.0,inf,inf,inf,inf,inf,inf,inf,2.0,inf,inf,inf,inf
-MOD could ~ TO INF,inf,inf,2.0,inf,inf,2.0,inf,inf,inf,inf,inf,inf,inf
-MOD should ~ PRES PERF,inf,2.0,2.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD can ~ MOD must,2.0,2.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-PAST PROG ~ PRES,inf,inf,2.0,inf,2.0,inf,inf,inf,inf,inf,inf,inf,inf
-MOD lest ~ MOD shall,inf,inf,inf,inf,2.0,inf,inf,inf,2.0,inf,inf,inf,inf
-MOD must ~ MOD should,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD let ~ PAST,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-PRES ~ PRES can,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD would ~ PAST PERF,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-PRES ~ PRES shall,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-HAB used to ~ MOD would,inf,inf,inf,inf,inf,inf,inf,inf,inf,1.0,inf,inf,inf
-FUT ~ FUT PROG,inf,inf,inf,inf,inf,inf,inf,inf,1.0,inf,inf,inf,inf
-MOD was to ~ PRES,inf,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf
-FUT PERF,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-PRES PERF ~ PRES PROG,inf,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf
-FUT ~ PRES shall,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD would ~ PAST PROG,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-FUT PERF ~ PRES,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-FUT going-to ~ MOD lest,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-FUT ~ MOD,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-FUT going-to ~ MOD is to,inf,inf,inf,inf,inf,inf,inf,inf,1.0,inf,inf,inf,inf
-PAST PROG ~ PRES PART,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-PRES PART ~ PRES PROG,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-HAB used to ~ PRES,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-FUT PROG ~ MOD shall,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD ~ PRES,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD let ~ MOD should,inf,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf
-HAB used to ~ PRES PERF,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD is to ~ PRES PROG,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD might ~ PRES PERF,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD could ~ PAST PERF,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD could ~ PRES PERF,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD is to ~ MOD lest,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf
-MOD is to ~ MOD should,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD is to ~ PRES,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf
-MOD may ~ MOD would,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD that be ~ TO INF,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf
-MOD lest ~ MOD let,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD may ~ MOD should,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD lest ~ MOD must,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD lest ~ MOD that be,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD let ~ PRES PERF,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD let ~ PRES PART,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf
-MOD could ~ MOD shall,inf,inf,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf
-MOD must ~ MOD quest must,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD must ~ PRES PART,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD must ~ PRES PROG,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD must ~ PRES shall,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD must ~ TO INF,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD can ~ MOD lest,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf
-MOD VB ~ TO INF,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD VB ~ MOD shall,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD let ~ MOD that be,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,1.0,inf
-MOD VB ~ MOD can,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-JJ ~ PRES,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-IMPV ~ PRES PERF,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD quest must ~ MOD shall,inf,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf
-IMPV ~ MOD need not,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD should ~ PRES PART,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
-MOD that be,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,1.0,inf
-MOD quest must,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+eng_TAMsimp,yqtl,Ø,qtl,wqtl,impv,wayq,ptcp,infc,cohoF,jussF,infa
+PRES,2.31,3.69,9.18,15.48,28.62,39.15,24.42,83.19,204.77,380.29,532.4
+FUT,2.55,5.06,10.13,10.22,13.3,21.68,21.68,45.9,57.1,195.08,585.25
+FUT ~ MOD shall,2.54,4.53,10.51,5.7,25.28,58.13,29.07,56.26,290.67,436.0,inf
+IMPV,3.51,5.74,14.56,29.85,3.73,11.26,35.12,42.64,199.0,39.8,inf
+IMPV ~ MOD shall,1.67,5.23,83.67,10.68,25.1,45.64,251.0,38.62,inf,502.0,100.4
+PAST,3.24,4.48,5.29,34.15,148.0,5.48,34.15,44.4,148.0,inf,444.0
+FUT ~ PRES,2.3,4.54,7.62,19.41,21.35,26.69,23.72,61.0,106.75,142.33,427.0
+MOD let,2.89,5.2,22.75,91.0,4.44,13.0,45.5,121.33,19.16,45.5,inf
+MOD must ~ MOD shall,2.24,2.97,42.0,10.84,56.0,42.0,48.0,30.55,inf,336.0,336.0
+MOD may,2.57,6.48,46.29,9.26,5.06,40.5,54.0,54.0,46.29,24.92,162.0
+MOD is to ~ MOD shall,2.54,2.89,97.33,6.79,36.5,58.4,146.0,22.46,292.0,292.0,inf
+MOD can,3.02,3.36,7.47,24.45,16.81,22.42,17.93,53.8,134.5,89.67,inf
+MOD shall,2.93,4.4,14.67,12.22,36.67,10.0,36.67,9.57,inf,inf,44.0
+MOD shall ~ PRES,2.87,3.24,14.9,7.1,37.25,24.83,149.0,24.83,49.67,inf,inf
+FUT ~ MOD may,2.68,19.14,33.5,6.09,4.62,67.0,16.75,67.0,22.33,33.5,inf
+MOD would,2.45,8.0,4.8,40.0,120.0,15.0,20.0,20.0,17.14,inf,inf
+IMPV ~ MOD let,3.73,7.47,9.33,112.0,3.73,10.18,28.0,37.33,112.0,28.0,112.0
+PAST ~ PRES,2.71,3.17,4.83,inf,111.0,27.75,55.5,55.5,55.5,111.0,inf
+MOD let ~ MOD may,2.26,8.67,14.86,inf,5.2,52.0,104.0,52.0,104.0,8.0,inf
+PRES ~ PRES PART,2.23,4.8,12.0,9.6,19.2,32.0,19.2,48.0,inf,inf,inf
+PRES ~ PRES PERF,3.35,4.58,5.8,7.25,43.5,12.43,43.5,29.0,inf,inf,87.0
+MOD should,5.19,2.77,16.6,83.0,6.92,13.83,20.75,13.83,83.0,41.5,inf
+FUT ~ MOD lest,2.12,36.0,72.0,14.4,3.43,inf,inf,inf,inf,8.0,inf
+MOD can ~ PRES,2.54,5.07,5.46,23.67,17.75,71.0,17.75,inf,35.5,35.5,inf
+TO INF,5.46,7.89,5.92,11.83,4.18,23.67,71.0,23.67,23.67,23.67,71.0
+FUT ~ MOD can,2.37,3.56,8.0,64.0,64.0,21.33,16.0,inf,64.0,64.0,inf
+MOD may ~ PRES,2.07,5.17,10.33,12.4,20.67,62.0,inf,31.0,inf,20.67,inf
+PRES PERF,2.95,9.83,3.93,11.8,11.8,14.75,inf,29.5,59.0,inf,59.0
+MOD may ~ MOD shall,2.59,3.35,28.5,5.7,57.0,19.0,28.5,inf,inf,inf,inf
+IMPV ~ PRES,1.96,9.17,9.17,13.75,7.86,27.5,inf,inf,inf,27.5,inf
+MOD can ~ MOD may,2.78,5.0,25.0,25.0,3.12,25.0,inf,inf,inf,inf,inf
+PRES PART,2.58,6.13,4.45,16.33,24.5,49.0,24.5,16.33,inf,inf,inf
+PRES ~ TO INF,2.81,5.62,15.0,9.0,7.5,45.0,15.0,22.5,inf,45.0,inf
+MOD should ~ PRES,2.65,3.75,15.0,45.0,7.5,22.5,22.5,inf,inf,22.5,inf
+MOD can ~ MOD shall,2.1,11.0,5.5,22.0,8.8,14.67,44.0,inf,inf,inf,inf
+FUT ~ MOD would,2.21,5.25,6.0,inf,10.5,21.0,inf,42.0,42.0,inf,inf
+MOD must,2.11,4.22,7.6,19.0,inf,12.67,inf,38.0,inf,inf,inf
+MOD could,7.6,2.71,5.43,inf,38.0,6.33,7.6,inf,inf,inf,inf
+MOD shall ~ TO INF,2.92,7.6,9.5,4.75,12.67,inf,inf,7.6,inf,inf,inf
+PAST ~ PRES PERF,2.2,6.6,3.67,33.0,inf,11.0,inf,inf,inf,inf,inf
+MOD may ~ TO INF,2.75,16.5,inf,33.0,2.75,33.0,inf,inf,6.6,inf,inf
+MOD shall ~ MOD should,6.2,3.88,6.2,31.0,4.43,10.33,31.0,31.0,inf,inf,inf
+IMPV ~ MOD may,4.29,6.0,30.0,10.0,4.29,15.0,inf,7.5,inf,30.0,inf
+FUT ~ TO INF,2.42,14.5,7.25,9.67,14.5,14.5,inf,14.5,14.5,inf,inf
+MOD would ~ PAST,5.8,2.23,29.0,4.83,inf,9.67,inf,29.0,inf,inf,inf
+MOD would ~ PRES,1.92,7.67,3.29,inf,inf,inf,23.0,inf,inf,inf,inf
+FUT ~ IMPV,2.56,3.29,inf,inf,4.6,11.5,inf,inf,inf,inf,inf
+MOD let ~ PRES,3.67,5.5,5.5,inf,22.0,11.0,7.33,22.0,22.0,inf,inf
+PAST ~ PRES PART,3.0,4.2,5.25,10.5,inf,7.0,inf,inf,inf,inf,inf
+FUT ~ MOD let,2.33,7.0,7.0,21.0,10.5,10.5,inf,21.0,inf,inf,inf
+MOD shall ~ PRES PART,2.22,4.0,20.0,5.0,20.0,inf,inf,inf,inf,inf,inf
+MOD should ~ TO INF,4.75,2.11,19.0,inf,inf,9.5,19.0,9.5,inf,inf,inf
+MOD must ~ PRES,4.5,2.25,4.5,18.0,18.0,inf,inf,inf,inf,inf,inf
+FUT ~ PRES PART,2.43,4.25,17.0,5.67,inf,inf,17.0,inf,17.0,inf,inf
+MOD let ~ TO INF,3.4,5.67,inf,inf,3.4,inf,inf,inf,4.25,inf,inf
+PRES ~ PRES PROG,2.0,16.0,8.0,16.0,16.0,8.0,inf,inf,16.0,inf,inf
+MOD lest ~ MOD may,1.6,8.0,inf,inf,16.0,inf,16.0,inf,16.0,16.0,inf
+MOD let ~ MOD shall,2.5,7.5,5.0,inf,15.0,15.0,15.0,15.0,inf,inf,inf
+FUT ~ PAST,5.0,7.5,5.0,3.0,inf,inf,15.0,15.0,inf,inf,inf
+MOD shall ~ PAST,2.33,4.67,7.0,7.0,inf,inf,inf,inf,inf,14.0,inf
+MOD lest ~ PRES,3.5,14.0,inf,4.67,2.33,inf,inf,inf,inf,inf,inf
+IMPV ~ MOD must,inf,2.8,14.0,inf,4.67,4.67,inf,7.0,inf,inf,inf
+MOD should ~ MOD would,2.8,7.0,4.67,inf,14.0,4.67,inf,inf,inf,inf,inf
+PAST ~ TO INF,4.33,2.6,13.0,inf,inf,6.5,inf,13.0,inf,13.0,inf
+FUT ~ MOD should,4.0,1.71,inf,12.0,inf,inf,inf,inf,inf,inf,12.0
+HAB used to ~ PAST,3.0,4.0,inf,inf,inf,6.0,4.0,inf,inf,inf,inf
+MOD might,5.5,11.0,3.67,11.0,inf,3.67,inf,11.0,inf,inf,inf
+IMPV ~ MOD can,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD may ~ MOD must,2.75,2.75,11.0,inf,11.0,inf,inf,inf,11.0,inf,inf
+MOD is to,2.5,3.33,inf,10.0,5.0,inf,inf,inf,inf,inf,inf
+PAST ~ PAST PERF,5.0,5.0,5.0,10.0,inf,3.33,inf,inf,inf,inf,inf
+MOD was to ~ PAST,4.5,2.25,9.0,inf,inf,4.5,inf,inf,inf,inf,inf
+MOD let ~ MOD must,3.0,3.0,9.0,inf,9.0,inf,inf,inf,inf,9.0,inf
+MOD is to ~ MOD let,4.5,4.5,inf,inf,4.5,4.5,inf,9.0,inf,inf,inf
+MOD can ~ MOD should,inf,2.0,4.0,inf,4.0,inf,inf,inf,inf,inf,inf
+MOD let ~ MOD should,inf,8.0,8.0,inf,inf,1.6,inf,inf,inf,8.0,inf
+MOD let ~ PAST,2.0,8.0,8.0,inf,inf,inf,inf,inf,8.0,8.0,inf
+MOD can ~ MOD could,2.67,1.6,inf,inf,inf,inf,inf,inf,inf,inf,inf
+IMPV ~ TO INF,7.0,inf,3.5,inf,2.33,inf,inf,7.0,inf,inf,inf
+IMPV ~ PAST,1.75,7.0,inf,inf,7.0,inf,inf,inf,7.0,inf,inf
+IMPV ~ PRES PART,1.4,inf,inf,inf,3.5,inf,inf,inf,inf,inf,inf
+FUT ~ MOD must,1.75,inf,3.5,inf,inf,inf,7.0,inf,inf,inf,inf
+MOD could ~ MOD would,7.0,1.75,inf,7.0,inf,inf,inf,inf,7.0,inf,inf
+MOD lest,2.33,3.5,inf,inf,3.5,inf,inf,inf,inf,inf,inf
+MOD might ~ MOD would,7.0,2.33,7.0,inf,inf,7.0,inf,7.0,inf,inf,inf
+IMPV ~ MOD should,2.33,7.0,inf,inf,7.0,inf,inf,inf,inf,3.5,inf
+PAST PERF,7.0,inf,3.5,inf,inf,inf,7.0,2.33,inf,inf,inf
+MOD should ~ MOD was to,inf,2.33,3.5,inf,inf,7.0,inf,7.0,inf,inf,inf
+FUT ~ FUT going-to,inf,inf,3.0,inf,6.0,3.0,inf,6.0,inf,inf,inf
+PAST ~ PAST PROG,2.0,inf,6.0,6.0,inf,6.0,inf,inf,inf,inf,inf
+MOD is to ~ MOD may,3.0,6.0,6.0,3.0,inf,inf,inf,inf,inf,inf,inf
+PRES PART ~ TO INF,6.0,6.0,6.0,3.0,inf,inf,inf,6.0,inf,inf,inf
+MOD can ~ TO INF,3.0,6.0,3.0,inf,inf,inf,inf,inf,inf,6.0,inf
+MOD could ~ PAST,6.0,6.0,3.0,inf,inf,3.0,inf,inf,inf,inf,inf
+MOD could ~ MOD might,6.0,6.0,3.0,inf,inf,inf,inf,3.0,inf,inf,inf
+FUT ~ PRES PERF,6.0,3.0,3.0,inf,inf,6.0,inf,inf,inf,inf,inf
+MOD lest ~ MOD might,2.0,inf,3.0,inf,6.0,inf,inf,inf,inf,inf,inf
+?VB ~ MOD let,6.0,6.0,6.0,inf,6.0,inf,inf,6.0,6.0,inf,inf
+MOD may ~ PRES PART,3.0,inf,inf,inf,inf,inf,inf,3.0,6.0,6.0,inf
+FUT going-to ~ MOD shall,6.0,6.0,6.0,inf,3.0,6.0,inf,inf,inf,inf,inf
+MOD shall ~ MOD would,6.0,6.0,2.0,6.0,inf,inf,inf,inf,inf,inf,inf
+MOD is to ~ MOD must,2.5,2.5,inf,inf,inf,5.0,inf,inf,inf,inf,inf
+MOD can ~ PRES PART,1.25,5.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD would ~ TO INF,inf,1.67,5.0,inf,inf,5.0,inf,inf,inf,inf,inf
+MOD was to,inf,2.5,5.0,5.0,inf,inf,inf,5.0,inf,inf,inf
+MOD lest ~ TO INF,5.0,5.0,inf,inf,1.67,inf,inf,inf,inf,inf,inf
+MOD can ~ MOD let,5.0,2.5,5.0,inf,5.0,inf,inf,inf,inf,inf,inf
+MOD let ~ PRES PART,2.5,inf,inf,inf,1.67,inf,inf,inf,inf,inf,inf
+MOD might ~ PAST,5.0,5.0,1.67,inf,inf,inf,inf,inf,inf,inf,inf
+MOD might ~ MOD should,5.0,5.0,inf,inf,inf,5.0,inf,2.5,inf,inf,inf
+MOD VB ~ MOD may,1.25,inf,5.0,inf,inf,inf,inf,inf,inf,inf,inf
+MOD can ~ PAST,4.0,inf,2.0,inf,inf,4.0,inf,inf,inf,inf,inf
+MOD VB ~ PRES,4.0,2.0,4.0,inf,inf,inf,inf,inf,inf,inf,inf
+MOD might ~ TO INF,inf,inf,2.0,inf,inf,inf,inf,2.0,inf,inf,inf
+MOD should ~ PAST,2.0,inf,4.0,inf,inf,inf,inf,4.0,inf,inf,inf
+FUT ~ MOD is to,4.0,4.0,inf,4.0,inf,inf,inf,4.0,inf,inf,inf
+HAB used to,inf,inf,inf,4.0,inf,2.0,inf,4.0,inf,inf,inf
+PAST PERF ~ PRES,inf,1.33,inf,inf,inf,inf,inf,4.0,inf,inf,inf
+?VB ~ PAST,4.0,4.0,2.0,inf,inf,inf,inf,inf,inf,inf,inf
+FUT ~ PRES PROG,inf,inf,inf,inf,1.33,inf,4.0,inf,inf,inf,inf
+IMPV ~ MOD lest,1.33,inf,inf,inf,4.0,inf,inf,inf,inf,inf,inf
+PRES PERF ~ TO INF,2.0,inf,4.0,4.0,inf,inf,inf,inf,inf,inf,inf
+MOD can ~ MOD might,inf,3.0,inf,inf,1.5,inf,inf,inf,inf,inf,inf
+MOD could ~ MOD must,inf,inf,1.5,inf,inf,inf,inf,inf,3.0,inf,inf
+PAST PROG,inf,inf,inf,3.0,inf,3.0,inf,3.0,inf,inf,inf
+?VB,inf,inf,3.0,inf,inf,3.0,inf,3.0,inf,inf,inf
+MOD shall ~ PRES PERF,3.0,inf,inf,inf,3.0,inf,3.0,inf,inf,inf,inf
+FUT PROG ~ PRES,1.5,3.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+FUT ~ MOD that be,inf,3.0,inf,1.5,inf,inf,inf,inf,inf,inf,inf
+MOD need not ~ MOD shall,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD may ~ PRES PERF,3.0,3.0,inf,inf,inf,3.0,inf,inf,inf,inf,inf
+MOD would ~ PRES PART,1.5,3.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD could ~ MOD should,inf,1.5,3.0,inf,inf,inf,inf,inf,inf,inf,inf
+MOD is to ~ PRES PART,inf,3.0,inf,inf,inf,1.5,inf,inf,inf,inf,inf
+MOD may ~ PAST,3.0,inf,3.0,3.0,inf,inf,inf,inf,inf,inf,inf
+MOD may ~ MOD might,inf,1.5,3.0,inf,inf,inf,inf,inf,inf,inf,inf
+PRES PART ~ PRES PERF,3.0,inf,3.0,inf,inf,inf,3.0,inf,inf,inf,inf
+MOD let ~ PRES PERF,3.0,3.0,inf,inf,inf,3.0,inf,inf,inf,inf,inf
+MOD let ~ MOD would,inf,inf,inf,3.0,inf,3.0,inf,inf,inf,3.0,inf
+IMPV ~ MOD is to,inf,3.0,inf,inf,inf,3.0,inf,3.0,inf,inf,inf
+MOD lest ~ MOD would,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+?VB ~ MOD must,inf,2.0,inf,inf,2.0,inf,inf,inf,inf,inf,inf
+?VB ~ MOD shall,2.0,inf,inf,inf,2.0,inf,inf,inf,inf,inf,inf
+??VB ~ MOD let,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD must ~ MOD should,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf
+MOD is to ~ PRES,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf
+MOD can ~ MOD must,2.0,2.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD should ~ PRES PERF,inf,2.0,2.0,inf,inf,inf,inf,inf,inf,inf,inf
+MOD that be,2.0,inf,inf,inf,2.0,inf,inf,inf,inf,inf,inf
+MOD let ~ MOD that be,2.0,inf,2.0,inf,inf,inf,inf,inf,inf,inf,inf
+PAST PROG ~ PRES,inf,inf,2.0,inf,2.0,inf,inf,inf,inf,inf,inf
+MOD lest ~ MOD should,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD lest ~ MOD shall,2.0,inf,inf,inf,2.0,inf,inf,inf,inf,inf,inf
+MOD is to ~ TO INF,2.0,2.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD need not ~ PRES,inf,inf,2.0,inf,inf,inf,2.0,inf,inf,inf,inf
+MOD could ~ TO INF,inf,inf,2.0,inf,inf,2.0,inf,inf,inf,inf,inf
+PRES PROG,inf,2.0,2.0,inf,inf,inf,inf,inf,inf,inf,inf
+PRES ~ PRES do,2.0,inf,2.0,inf,inf,inf,inf,inf,inf,inf,inf
+FUT PERF,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf
+FUT ~ MOD,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD quest must,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD quest must ~ MOD shall,inf,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf
+PRES ~ PRES shall,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD should ~ PRES PART,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+?VB ~ IMPV,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf
+?VB ~ MOD lest,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD that be ~ TO INF,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf
+MOD was to ~ PRES,inf,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf
+MOD would ~ PAST PERF,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD ~ PRES,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD would ~ PAST PROG,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+FUT PERF ~ PRES,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+FUT ~ FUT PROG,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+PRES ~ PRES can,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+PRES PERF ~ PRES PROG,inf,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf
+MOD must ~ TO INF,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf
+FUT going-to ~ MOD is to,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+PAST PROG ~ PRES PART,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+FUT PROG ~ MOD shall,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+PRES PART ~ PRES PROG,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+FUT going-to ~ MOD lest,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf
+MOD can ~ MOD lest,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf
+MOD must ~ PRES shall,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD lest ~ MOD let,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD could ~ MOD shall,inf,inf,inf,inf,inf,inf,1.0,inf,inf,inf,inf
+MOD VB ~ TO INF,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD could ~ PAST PERF,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf
+MOD VB ~ MOD shall,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD could ~ PRES PERF,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD VB ~ MOD can,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+JJ ~ PRES,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+IMPV ~ PRES PERF,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf
+MOD is to ~ MOD lest,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf
+MOD is to ~ MOD should,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD is to ~ PRES PROG,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf
+IMPV ~ MOD need not,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf
+MOD lest ~ MOD must,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD must ~ PRES PROG,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD let ~ MOD might,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+IMPV ~ MOD,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD let ~ VB,inf,inf,inf,inf,1.0,inf,inf,inf,inf,inf,inf
+HAB used to ~ PRES PERF,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+HAB used to ~ PRES,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf
+MOD may ~ MOD should,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+HAB used to ~ MOD would,inf,inf,inf,inf,inf,inf,inf,inf,1.0,inf,inf
+MOD may ~ MOD would,inf,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf
+MOD might ~ PRES PERF,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+FUT ~ PRES shall,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD must ~ MOD quest must,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD must ~ PRES PART,inf,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf
+MOD lest ~ MOD that be,1.0,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf

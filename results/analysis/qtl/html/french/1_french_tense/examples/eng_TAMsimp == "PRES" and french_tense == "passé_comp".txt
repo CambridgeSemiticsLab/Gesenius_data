@@ -1,0 +1,1007 @@
+eng_TAMsimp == "PRES" and french_tense == "passé_comp"
+201 of 201
+
+(x)	מַהֲרוּ֮ וַעֲל֣וּ אֶל־אָבִי֒ וַאֲמַרְתֶּ֣ם אֵלָ֗יו כֹּ֤ה _אָמַר֙_ בִּנְךָ֣ יֹוסֵ֔ף שָׂמַ֧נִי אֱלֹהִ֛ים לְאָדֹ֖ון לְכָל־מִצְרָ֑יִם רְדָ֥ה אֵלַ֖י אַֽל־תַּעֲמֹֽד׃ (Gen. 45:9)
+NIV	Now hurry back to my father and say to him, ‘This is what your son Joseph _says_: God has made me lord of all Egypt. Come down to me. don’t delay.
+ESV	Hurry and go up to my father and say to him, ‘Thus _says_ your son Joseph, God has made me lord of all Egypt. Come down to me. do not tarry.
+NBS	a parlé
+
+(x)	וַיֹּ֥אמֶר מֹשֶׁ֖ה כֵּ֣ן _דִּבַּ֑רְתָּ_ לֹא־אֹסִ֥ף עֹ֖וד רְאֹ֥ות פָּנֶֽיךָ׃ פ (Exod. 10:29)
+NIV	“Just as _you say_,” Moses replied, “I will never appear before you again.”
+ESV	Moses said, “As _you say_! I will not see your face again.”
+NBS	Tu as dit
+
+(x)	כִּֽי־יִתֵּן֩ אִ֨ישׁ אֶל־רֵעֵ֜הוּ חֲמֹ֨ור אֹו־שֹׁ֥ור אֹו־שֶׂ֛ה וְכָל־בְּהֵמָ֖ה לִשְׁמֹ֑ר וּמֵ֛ת אֹו־נִשְׁבַּ֥ר אֹו־_נִשְׁבָּ֖ה_ אֵ֥ין רֹאֶֽה׃ (Exod. 22:9)
+NIV	“If a man gives a donkey, an ox, a sheep or any other animal to his neighbor for safekeeping and it dies or is injured or _is taken away_ while no one is looking,
+ESV	“If a man gives to his neighbor a donkey or an ox or a sheep or any beast to keep safe, and it dies or is injured or _is driven away_, without anyone seeing it,
+NBS	est enlevé
+
+(x)	וַיֹּ֨אמֶר מֹשֶׁ֜ה אֶל־יְהוָ֗ה רְ֠אֵה אַתָּ֞ה אֹמֵ֤ר אֵלַי֙ הַ֚עַל אֶת־הָעָ֣ם הַזֶּ֔ה וְאַתָּה֙ לֹ֣א הֹֽודַעְתַּ֔נִי אֵ֥ת אֲשֶׁר־תִּשְׁלַ֖ח עִמִּ֑י וְאַתָּ֤ה אָמַ֨רְתָּ֙ _יְדַעְתִּ֣יךָֽ_ בְשֵׁ֔ם וְגַם־מָצָ֥אתָ חֵ֖ן בְּעֵינָֽי׃ (Exod. 33:12)
+NIV	Moses said to the LORD, “You have been telling me, ‘Lead these people,’ but you have not let me know whom you will send with me. You have said, ‘_I know_ you by name and you have found favor with me.’
+ESV	Moses said to the Lord, “See, you say to me, ‘Bring up this people,’ but you have not let me know whom you will send with me. Yet you have said, ‘_I know_ you by name, and you have also found favor in my sight.’
+NBS	Je t ai distingué
+
+(x)	וּכְלִי־חֶ֛רֶשׂ אֲשֶׁ֥ר תְּבֻשַּׁל־בֹּ֖ו יִשָּׁבֵ֑ר וְאִם־בִּכְלִ֤י נְחֹ֨שֶׁת֙ _בֻּשָּׁ֔לָה_ וּמֹרַ֥ק וְשֻׁטַּ֖ף בַּמָּֽיִם׃ (Lev. 6:21)
+NIV	The clay pot the meat is cooked in must be broken. but if _it is cooked_ in a bronze pot, the pot is to be scoured and rinsed with water.
+ESV	And the earthenware vessel in which _it is boiled_ shall be broken. But if _it is boiled_ in a bronze vessel, that shall be scoured and rinsed in water.
+NBS	elle a cuit
+
+(x)	וְהַבָּא֙ אֶל־הַבַּ֔יִת כָּל־יְמֵ֖י _הִסְגִּ֣יר_ אֹתֹ֑ו יִטְמָ֖א עַד־הָעָֽרֶב׃ (Lev. 14:46)
+NIV	“Anyone who goes into the house while it _is closed up_ will be unclean till evening.
+ESV	Moreover, whoever enters the house while it _is shut up_ shall be unclean until the evening,
+NBS	elle est fermée
+
+(x)	וְאִם־בֹּ֨א יָבֹ֜א הַכֹּהֵ֗ן וְרָאָה֙ וְ֠הִנֵּה לֹא־פָשָׂ֤ה הַנֶּ֨גַע֙ בַּבַּ֔יִת אַחֲרֵ֖י הִטֹּ֣חַ אֶת־הַבָּ֑יִת וְטִהַ֤ר הַכֹּהֵן֙ אֶת־הַבַּ֔יִת כִּ֥י _נִרְפָּ֖א_ הַנָּֽגַע׃ (Lev. 14:48)
+NIV	“But if the priest comes to examine it and the mildew has not spread after the house has been plastered, he shall pronounce the house clean, because the mildew _is gone_.
+ESV	“But if the priest comes and looks, and if the disease has not spread in the house after the house was plastered, then the priest shall pronounce the house clean, for the disease _is healed_.
+NBS	est guéri
+
+(x)	וְאִֽם־_טָהֲרָ֖ה_ מִזֹּובָ֑הּ וְסָ֥פְרָה לָּ֛הּ שִׁבְעַ֥ת יָמִ֖ים וְאַחַ֥ר תִּטְהָֽר׃ (Lev. 15:28)
+NIV	“‘When _she is cleansed_ from her discharge, she must count off seven days, and after that she will be ceremonially clean.
+ESV	But if _she is cleansed_ of her discharge, she shall count for herself seven days, and after that she shall be clean.
+NBS	elle est purifée
+
+(x)	וַיֹּֽאמְרוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל אֶל־מֹשֶׁ֖ה לֵאמֹ֑ר הֵ֥ן גָּוַ֛עְנוּ _אָבַ֖דְנוּ_ כֻּלָּ֥נוּ אָבַֽדְנוּ׃ (Num. 17:27)
+NIV	The Israelites said to Moses, “We will die! _We are lost_, we are all lost!
+ESV	And the people of Israel said to Moses, “Behold, we perish, _we are undone_, we are all undone.
+NBS	nous sommes perdus
+
+(x)	אֹוי־לְךָ֣ מֹואָ֔ב _אָבַ֖דְתָּ_ עַם־כְּמֹ֑ושׁ נָתַ֨ן בָּנָ֤יו פְּלֵיטִם֙ וּבְנֹתָ֣יו בַּשְּׁבִ֔ית לְמֶ֥לֶךְ אֱמֹרִ֖י סִיחֹֽון׃ (Num. 21:29)
+NIV	Woe to you, O Moab! _You are destroyed_, O people of Chemosh! He has given up his sons as fugitives and his daughters as captives to Sihon king of the Amorites.
+ESV	Woe to you, O Moab! _You are undone_, O people of Chemosh! He has made his sons fugitives, and his daughters captives, to an Amorite king, Sihon.
+NBS	es perdu Tu Tu
+
+(x)	עַל־כֵּ֞ן לֹֽא־_הָיָ֧ה_ לְלֵוִ֛י חֵ֥לֶק וְנַחֲלָ֖ה עִם־אֶחָ֑יו יְהוָה֙ ה֣וּא נַחֲלָתֹ֔ו כַּאֲשֶׁ֥ר דִּבֶּ֛ר יְהוָ֥ה אֱלֹהֶ֖יךָ לֹֽו׃ (Deut. 10:9)
+NIV	That is why the Levites _have_ no share or inheritance among their brothers. the LORD is their inheritance, as the LORD your God told them. )
+ESV	Therefore Levi _has_ no portion or inheritance with his brothers. The Lord is his inheritance, as the Lord your God said to him. )
+NBS	a
+
+(x)	וְרָאוּ֙ כָּל־עַמֵּ֣י הָאָ֔רֶץ כִּ֛י שֵׁ֥ם יְהוָ֖ה _נִקְרָ֣א_ עָלֶ֑יךָ וְיָֽרְא֖וּ מִמֶּֽךָּ׃ (Deut. 28:10)
+NIV	Then all the peoples on earth will see that you _are called_ by the name of the LORD, and they will fear you.
+ESV	And all the peoples of the earth shall see that you _are called_ by the name of the Lord, and they shall be afraid of you.
+NBS	est invoqué
+
+(x)	כִּֽי־יָדִ֤ין יְהוָה֙ עַמֹּ֔ו וְעַל־עֲבָדָ֖יו יִתְנֶחָ֑ם כִּ֤י יִרְאֶה֙ כִּי־_אָ֣זְלַת_ יָ֔ד וְאֶ֖פֶס עָצ֥וּר וְעָזֽוּב׃ (Deut. 32:36)
+NIV	The LORD will judge his people and have compassion on his servants when he sees their strength _is gone_ and no-one is left, slave or free.
+ESV	For the Lord will vindicate his people and have compassion on his servants, when he sees that their power _is gone_ and there is none remaining, bond or free.
+NBS	est épuisée
+
+(x)	וְגַ֣ם _אָמַ֔רְתִּי_ לֹֽא־אֲגָרֵ֥שׁ אֹותָ֖ם מִפְּנֵיכֶ֑ם וְהָי֤וּ לָכֶם֙ לְצִדִּ֔ים וֵאלֹ֣הֵיהֶ֔ם יִהְי֥וּ לָכֶ֖ם לְמֹוקֵֽשׁ׃ (Judg. 2:3)
+NIV	Now therefore _I tell_ you that I will not drive them out before you. they will be [ thorns ] in your sides and their gods will be a snare to you.”
+ESV	So now _I say_, I will not drive them out before you, but they shall become thorns in your sides, and their gods shall be a snare to you.”
+NBS	J ai dit
+
+(x)	אַל־תַּרְבּ֤וּ תְדַבְּרוּ֙ גְּבֹהָ֣ה גְבֹהָ֔ה יֵצֵ֥א עָתָ֖ק מִפִּיכֶ֑ם כִּ֣י אֵ֤ל דֵּעֹות֙ יְהוָ֔ה וְלֹ֥ו _נִתְכְּנ֖וּ_ עֲלִלֹֽות׃ (I Sam. 2:3)
+NIV	“Do not keep talking so proudly or let your mouth speak such arrogance, for the LORD is a God who knows, and by him deeds _are weighed_.
+ESV	Talk no more so very proudly, let not arrogance come from your mouth. for the Lord is a God of knowledge, and by him actions _are weighed_.
+NBS	sont pesés
+
+(x)	וַיֹּ֣אמֶר שְׁמוּאֵ֗ל הַגִּ֤ישׁוּ אֵלַי֙ אֶת־אֲגַג֙ מֶ֣לֶךְ עֲמָלֵ֔ק וַיֵּ֣לֶךְ אֵלָ֔יו אֲגַ֖ג מַעֲדַנֹּ֑ת וַיֹּ֣אמֶר אֲגָ֔ג אָכֵ֖ן _סָ֥ר_ מַר־הַמָּֽוֶת׃ ס (I Sam. 15:32)
+NIV	Then Samuel said, “Bring me Agag king of the Amalekites.” Agag came to him confidently, thinking, “Surely the bitterness of death _is past_.”
+ESV	Then Samuel said, “Bring here to me Agag the king of the Amalekites.” And Agag came to him cheerfully. Agag said, “Surely the bitterness of death _is past_.”
+NBS	est écartée
+
+(x)	וְעַתָּ֣ה _שָׁמַ֔עְתִּי_ כִּ֥י גֹזְזִ֖ים לָ֑ךְ עַתָּ֗ה הָרֹעִ֤ים אֲשֶׁר־לְךָ֙ הָי֣וּ עִמָּ֔נוּ לֹ֣א הֶכְלַמְנ֗וּם וְלֹֽא־נִפְקַ֤ד לָהֶם֙ מְא֔וּמָה כָּל־יְמֵ֖י הֱיֹותָ֥ם בַּכַּרְמֶֽל׃ (I Sam. 25:7)
+NIV	“‘Now _I hear_ that it is sheep-shearing time. When your shepherds were with us, we did not ill-treat them, and the whole time they were at Carmel nothing of theirs was missing.
+ESV	_I hear_ that you have shearers. Now your shepherds have been with us, and we did them no harm, and they missed nothing all the time they were in Carmel.
+NBS	j ai appris
+
+(x)	וַיֹּ֤אמֶר שְׁמוּאֵל֙ אֶל־שָׁא֔וּל לָ֥מָּה הִרְגַּזְתַּ֖נִי לְהַעֲלֹ֣ות אֹתִ֑י וַיֹּ֣אמֶר שָׁ֠אוּל צַר־לִ֨י מְאֹ֜ד וּפְלִשְׁתִּ֣ים׀ נִלְחָמִ֣ים בִּ֗י וֵֽאלֹהִ֞ים סָ֤ר מֵֽעָלַי֙ וְלֹֽא־_עָנָ֣נִי_ עֹ֗וד גַּ֤ם בְּיַֽד־הַנְּבִיאִם֙ גַּם־בַּ֣חֲלֹמֹ֔ות וָאֶקְרָאֶ֣ה לְךָ֔ לְהֹודִיעֵ֖נִי מָ֥ה אֶעֱשֶֽׂה׃ ס (I Sam. 28:15)
+NIV	Samuel said to Saul, “Why have you disturbed me by bringing me up?” “I am in great distress,” Saul said. “The Philistines are fighting against me, and God has turned away from me. He no longer answers me, either by prophets or by dreams. So I have called on you to tell me what to do.”
+ESV	Then Samuel said to Saul, “Why have you disturbed me by bringing me up?” Saul answered, “I am in great distress, for the Philistines are warring against me, and God has turned away from me and _answers_ me no more, either by prophets or by dreams. Therefore I have summoned you to tell me what I shall do.”
+NBS	il m a répondu
+
+(x)	וְעַתָּ֣ה׀ תֶּחֱזַ֣קְנָה יְדֵיכֶ֗ם וִֽהְיוּ֙ לִבְנֵי־חַ֔יִל כִּי־_מֵ֖ת_ אֲדֹנֵיכֶ֣ם שָׁא֑וּל וְגַם־אֹתִ֗י מָשְׁח֧וּ בֵית־יְהוּדָ֛ה לְמֶ֖לֶךְ עֲלֵיהֶֽם׃ פ (II Sam. 2:7)
+NIV	Now then, be strong and brave, for Saul your master _is dead_, and the house of Judah has anointed me king over them.”
+ESV	Now therefore let your hands be strong, and be valiant, for Saul your lord _is dead_, and the house of Judah has anointed me king over them.”
+NBS	mort
+
+(x)	וַיָּ֣קָם׀ וַיֵּ֣לֶךְ דָּוִ֗ד וְכָל־הָעָם֙ אֲשֶׁ֣ר אִתֹּ֔ו מִֽבַּעֲלֵ֖י יְהוּדָ֑ה לְהַעֲלֹ֣ות מִשָּׁ֗ם אֵ֚ת אֲרֹ֣ון הָאֱלֹהִ֔ים אֲשֶׁר־_נִקְרָ֣א_ שֵׁ֗ם שֵׁ֣ם יְהוָ֧ה צְבָאֹ֛ות יֹשֵׁ֥ב הַכְּרֻבִ֖ים עָלָֽיו׃ (II Sam. 6:2)
+NIV	He and all his men set out from Baalah of Judah to bring up from there the ark of God, which _is called_ by the Name, the name of the LORD Almighty, who is enthroned between the cherubim that are on the ark.
+ESV	And David arose and went with all the people who were with him from Baale-judah to bring up from there the ark of God, which _is called_ by the name of the Lord of hosts who sits enthroned on the cherubim.
+NBS	est invoqué
+
+(x)	וּמַה־יֹּוסִ֥יף דָּוִ֛ד עֹ֖וד לְדַבֵּ֣ר אֵלֶ֑יךָ וְאַתָּ֛ה _יָדַ֥עְתָּ_ אֶֽת־עַבְדְּךָ֖ אֲדֹנָ֥י יְהוִֽה׃ (II Sam. 7:20)
+NIV	“What more can David say to you? For you _know_ your servant, O Sovereign LORD.
+ESV	And what more can David say to you? For you _know_ your servant, O Lord God!
+NBS	Tu as distingué
+
+(x)	וַיַּ֣רְא דָּוִ֗ד כִּ֤י עֲבָדָיו֙ מִֽתְלַחֲשִׁ֔ים וַיָּ֥בֶן דָּוִ֖ד כִּ֣י מֵ֣ת הַיָּ֑לֶד וַיֹּ֨אמֶר דָּוִ֧ד אֶל־עֲבָדָ֛יו הֲמֵ֥ת הַיֶּ֖לֶד וַיֹּ֥אמְרוּ _מֵֽת_׃ (II Sam. 12:19)
+NIV	David noticed that his servants were whispering among themselves and he realised that the child was dead. “Is the child dead?” he asked. “Yes,” they replied, “_he is dead_.”
+ESV	But when David saw that his servants were whispering together, David understood that the child was dead. And David said to his servants, “Is the child dead?” They said, “_He is dead_.”
+NBS	Il est mort
+
+(x)	וְעַתָּ֣ה׀ _מֵ֗ת_ לָ֤מָּה זֶּה֙ אֲנִ֣י צָ֔ם הַאוּכַ֥ל לַהֲשִׁיבֹ֖ו עֹ֑וד אֲנִי֙ הֹלֵ֣ךְ אֵלָ֔יו וְה֖וּא לֹֽא־יָשׁ֥וּב אֵלָֽי׃ (II Sam. 12:23)
+NIV	But now that _he is dead_, why should I fast? Can I bring him back again? I will go to him, but he will not return to me.”
+ESV	But now _he is dead_. Why should I fast? Can I bring him back again? I shall go to him, but he will not return to me.”
+NBS	il est mort
+
+(x)	וַיַּ֡עַן יֹונָדָ֣ב׀ בֶּן־שִׁמְעָ֨ה אֲחִֽי־דָוִ֜ד וַיֹּ֗אמֶר אַל־יֹאמַ֤ר אֲדֹנִי֙ אֵ֣ת כָּל־הַנְּעָרִ֤ים בְּנֵֽי־הַמֶּ֨לֶךְ֙ הֵמִ֔יתוּ כִּֽי־אַמְנֹ֥ון לְבַדֹּ֖ו _מֵ֑ת_ כִּֽי־עַל־פִּ֤י אַבְשָׁלֹום֙ הָיְתָ֣ה שׂוּמָ֔ה מִיֹּום֙ עַנֹּתֹ֔ו אֵ֖ת תָּמָ֥ר אֲחֹתֹֽו׃ (II Sam. 13:32)
+NIV	But Jonadab son of Shimeah, David’s brother, said, “My lord should not think that they killed all the princes. only Amnon _is dead_. This has been Absalom’s expressed intention ever since the day that Amnon raped his sister Tamar.
+ESV	But Jonadab the son of Shimeah, David’s brother, said, “Let not my lord suppose that they have killed all the young men, the king’s sons, for Amnon alone _is dead_. For by the command of Absalom this has been determined from the day he violated his sister Tamar.
+NBS	est mort
+
+(x)	וַיֹּ֧אמֶר לֹ֣ו יֹואָ֗ב לֹא֩ אִ֨ישׁ בְּשֹׂרָ֤ה אַתָּה֙ הַיֹּ֣ום הַזֶּ֔ה וּבִשַּׂרְתָּ֖ בְּיֹ֣ום אַחֵ֑ר וְהַיֹּ֤ום הַזֶּה֙ לֹ֣א תְבַשֵּׂ֔ר כִּֽי־עַל־כֵּ֥ן בֶּן־הַמֶּ֖לֶךְ _מֵֽת_׃ (II Sam. 18:20)
+NIV	“You are not the one to take the news today,” Joab told him. “You may take the news another time, but you must not do so today, because the king’s son _is dead_.”
+ESV	And Joab said to him, “You are not to carry news today. You may carry news another day, but today you shall carry no news, because the king’s son _is dead_.”
+NBS	est mort
+
+(x)	וְאִישׁ֙ עָמַ֣ד עָלָ֔יו מִֽנַּעֲרֵ֖י יֹואָ֑ב וַיֹּ֗אמֶר מִי֩ אֲשֶׁ֨ר _חָפֵ֧ץ_ בְּיֹואָ֛ב וּמִ֥י אֲשֶׁר־לְדָוִ֖ד אַחֲרֵ֥י יֹואָֽב׃ (II Sam. 20:11)
+NIV	One of Joab’s men stood beside Amasa and said, “Whoever _favours_ Joab, and whoever is for David, let him follow Joab!”
+ESV	And one of Joab’s young men took his stand by Amasa and said, “Whoever _favors_ Joab, and whoever is for David, let him follow Joab.”
+NBS	partisan
+
+(x)	וַיִּשָּׁבַע֙ הַמֶּ֣לֶךְ שְׁלֹמֹ֔ה בַּֽיהוָ֖ה לֵאמֹ֑ר כֹּ֣ה יַֽעֲשֶׂה־לִּ֤י אֱלֹהִים֙ וְכֹ֣ה יֹוסִ֔יף כִּ֣י בְנַפְשֹׁ֔ו _דִּבֶּר֙_ אֲדֹ֣נִיָּ֔הוּ אֶת־הַדָּבָ֖ר הַזֶּֽה׃ (I Kgs. 2:23)
+NIV	Then King Solomon swore by the LORD: “May God deal with me, be it ever so severely, if Adonijah does not pay with his life for this request!
+ESV	Then King Solomon swore by the Lord, saying, “God do so to me and more also if this word does not cost Adonijah his life!
+NBS	a prononcé
+
+(x)	אַתָּ֨ה _יָדַ֜עְתָּ_ אֶת־דָּוִ֣ד אָבִ֗י כִּ֣י לֹ֤א יָכֹל֙ לִבְנֹ֣ות בַּ֗יִת לְשֵׁם֙ יְהוָ֣ה אֱלֹהָ֔יו מִפְּנֵ֥י הַמִּלְחָמָ֖ה אֲשֶׁ֣ר סְבָבֻ֑הוּ עַ֤ד תֵּת־יְהוָה֙ אֹתָ֔ם תַּ֖חַת כַּפֹּ֥ות רַגְלָֽי׃ (I Kgs. 5:17)
+NIV	“You _know_ that because of the wars waged against my father David from all sides, he could not build a temple for the Name of the LORD his God until the LORD put his enemies under his feet.
+ESV	“You _know_ that David my father could not build a house for the name of the Lord his God because of the warfare with which his enemies surrounded him, until the Lord put them under the soles of his feet.
+NBS	as connu
+
+(x)	וְאִשָּׁ֣ה אַחַ֣ת מִנְּשֵׁ֣י בְנֵֽי־הַ֠נְּבִיאִים צָעֲקָ֨ה אֶל־אֱלִישָׁ֜ע לֵאמֹ֗ר עַבְדְּךָ֤ אִישִׁי֙ _מֵ֔ת_ וְאַתָּ֣ה יָדַ֔עְתָּ כִּ֣י עַבְדְּךָ֔ הָיָ֥ה יָרֵ֖א אֶת־יְהוָ֑ה וְהַ֨נֹּשֶׁ֔ה בָּ֗א לָקַ֜חַת אֶת־שְׁנֵ֧י יְלָדַ֛י לֹ֖ו לַעֲבָדִֽים׃ (II Kgs. 4:1)
+NIV	The wife of a man from the company of the prophets cried out to Elisha, “Your servant my husband _is dead_, and you know that he revered the LORD. But now his creditor is coming to take my two boys as his slaves.”
+ESV	Now the wife of one of the sons of the prophets cried to Elisha, “Your servant my husband _is dead_, and you know that your servant feared the Lord, but the creditor has come to take my two children to be his slaves.”
+NBS	est mort
+
+(x)	_אָמַ֨רְתָּ֙_ אַךְ־דְּבַר־שְׂפָתַ֔יִם עֵצָ֥ה וּגְבוּרָ֖ה לַמִּלְחָמָ֑ה עַתָּה֙ עַל־מִ֣י בָטַ֔חְתָּ כִּ֥י מָרַ֖דְתָּ בִּֽי׃ (II Kgs. 18:20)
+NIV	_You say_ you have strategy and military strength — but you speak only empty words. On whom are you depending, that you rebel against me?
+ESV	_Do you think_ that mere words are strategy and power for war? In whom do you now trust, that you have rebelled against me?
+NBS	Tu as prononcé
+
+(x)	לְכוּ֩ דִרְשׁ֨וּ אֶת־יְהוָ֜ה בַּעֲדִ֣י וּבְעַד־הָעָ֗ם וּבְעַד֙ כָּל־יְהוּדָ֔ה עַל־דִּבְרֵ֛י הַסֵּ֥פֶר הַנִּמְצָ֖א הַזֶּ֑ה כִּֽי־גְדֹולָ֞ה חֲמַ֣ת יְהוָ֗ה אֲשֶׁר־הִיא֙ _נִצְּתָ֣ה_ בָ֔נוּ עַל֩ אֲשֶׁ֨ר לֹֽא־שָׁמְע֜וּ אֲבֹתֵ֗ינוּ עַל־דִּבְרֵי֙ הַסֵּ֣פֶר הַזֶּ֔ה לַעֲשֹׂ֖ות כְּכָל־הַכָּת֥וּב עָלֵֽינוּ׃ (II Kgs. 22:13)
+NIV	“Go and enquire of the LORD for me and for the people and for all Judah about what is written in this book that has been found. Great is the LORD’s anger that _burns_ against us because our fathers have not obeyed the words of this book. they have not acted in accordance with all that is written there concerning us.”
+ESV	“Go, inquire of the Lord for me, and for the people, and for all Judah, concerning the words of this book that has been found. For great is the wrath of the Lord that _is kindled_ against us, because our fathers have not obeyed the words of this book, to do according to all that is written concerning us.”
+NBS	Elle s est enflammée
+
+(x)	וּבְפָרִשְׂכֶ֣ם כַּפֵּיכֶ֗ם אַעְלִ֤ים עֵינַי֙ מִכֶּ֔ם גַּ֛ם כִּֽי־תַרְבּ֥וּ תְפִלָּ֖ה אֵינֶ֣נִּי שֹׁמֵ֑עַ יְדֵיכֶ֖ם דָּמִ֥ים _מָלֵֽאוּ_׃ (Isa. 1:15)
+NIV	When you spread out your hands in prayer, I will hide my eyes from you. even if you offer many prayers, I will not listen. Your hands _are full_ of blood.
+ESV	When you spread out your hands, I will hide my eyes from you. even though you make many prayers, I will not listen. your hands _are full_ of blood.
+NBS	sont pleines
+
+(x)	וָאֹמַ֞ר אֹֽוי־לִ֣י כִֽי־_נִדְמֵ֗יתִי_ כִּ֣י אִ֤ישׁ טְמֵֽא־שְׂפָתַ֨יִם֙ אָנֹ֔כִי וּבְתֹוךְ֙ עַם־טְמֵ֣א שְׂפָתַ֔יִם אָנֹכִ֖י יֹושֵׁ֑ב כִּ֗י אֶת־הַמֶּ֛לֶךְ יְהוָ֥ה צְבָאֹ֖ות רָא֥וּ עֵינָֽי׃ (Isa. 6:5)
+NIV	“Woe to me!” I cried. “_I am ruined_! For I am a man of unclean lips, and I live among a people of unclean lips, and my eyes have seen the King, the LORD Almighty.”
+ESV	And I said: “Woe is me! For _I am lost_. for I am a man of unclean lips, and I dwell in the midst of a people of unclean lips. for my eyes have seen the King, the Lord of hosts!”
+NBS	suis perdu Je Je
+
+(x)	כִּי־יֶ֣לֶד _יֻלַּד_־לָ֗נוּ בֵּ֚ן נִתַּן־לָ֔נוּ וַתְּהִ֥י הַמִּשְׂרָ֖ה עַל־שִׁכְמֹ֑ו וַיִּקְרָ֨א שְׁמֹ֜ו פֶּ֠לֶא יֹועֵץ֙ אֵ֣ל גִּבֹּ֔ור אֲבִיעַ֖ד שַׂר־שָׁלֹֽום׃ (Isa. 9:5)
+NIV	For to us a child _is born_, to us a son is given, and the government will be on his shoulders. And he will be called Wonderful Counsellor, Mighty God, Everlasting Father, Prince of Peace.
+ESV	For to us a child _is born_, to us a son is given. and the government shall be upon his shoulder, and his name shall be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.
+NBS	est né
+
+(x)	בְּחוּצֹתָ֖יו _חָ֣גְרוּ_ שָׂ֑ק עַ֣ל גַּגֹּותֶ֧יהָ וּבִרְחֹבֹתֶ֛יהָ כֻּלֹּ֥ה יְיֵלִ֖יל יֹרֵ֥ד בַּבֶּֽכִי׃ (Isa. 15:3)
+NIV	In the streets _they wear_ sackcloth. on the roofs and in the public squares they all wail, prostrate with weeping.
+ESV	in the streets _they wear_ sackcloth. on the housetops and in the squares everyone wails and melts in tears.
+NBS	on a mis pour pagne
+
+(x)	כִּֽי־מֵ֥י נִמְרִ֖ים מְשַׁמֹּ֣ות יִֽהְי֑וּ כִּֽי־_יָבֵ֤שׁ_ חָצִיר֙ כָּ֣לָה דֶ֔שֶׁא יֶ֖רֶק לֹ֥א הָיָֽה׃ (Isa. 15:6)
+NIV	The waters of Nimrim are dried up and the grass _is withered_. the vegetation is gone and nothing green is left.
+ESV	the waters of Nimrim are a desolation. the grass _is withered_, the vegetation fails, the greenery is no more.
+NBS	est desséchée
+
+(x)	כִּֽי־מֵ֥י נִמְרִ֖ים מְשַׁמֹּ֣ות יִֽהְי֑וּ כִּֽי־יָבֵ֤שׁ חָצִיר֙ _כָּ֣לָה_ דֶ֔שֶׁא יֶ֖רֶק לֹ֥א הָיָֽה׃ (Isa. 15:6)
+NIV	The waters of Nimrim are dried up and the grass is withered. the vegetation _is gone_ and nothing green is left.
+ESV	the waters of Nimrim are a desolation. the grass is withered, the vegetation _fails_, the greenery is no more.
+NBS	est détruit
+
+(x)	כִּ֣י מֵ֤י דִימֹון֙ _מָ֣לְאוּ_ דָ֔ם כִּֽי־אָשִׁ֥ית עַל־דִּימֹ֖ון נֹוסָפֹ֑ות לִפְלֵיטַ֤ת מֹואָב֙ אַרְיֵ֔ה וְלִשְׁאֵרִ֖ית אֲדָמָֽה׃ (Isa. 15:9)
+NIV	Dimon’s waters _are full of_ blood, but I will bring still more upon Dimon — a lion upon the fugitives of Moab and upon those who remain in the land.
+ESV	For the waters of Dibon _are full_ of blood. for I will bring upon Dibon even more, a lion for those of Moab who escape, for the remnant of the land.
+NBS	sont pleines
+
+(x)	עַל־כֵּ֗ן אָלָה֙ אָ֣כְלָה אֶ֔רֶץ וַֽיֶּאְשְׁמ֖וּ יֹ֣שְׁבֵי בָ֑הּ עַל־כֵּ֗ן _חָרוּ֙_ יֹ֣שְׁבֵי אֶ֔רֶץ וְנִשְׁאַ֥ר אֱנֹ֖ושׁ מִזְעָֽר׃ (Isa. 24:6)
+NIV	Therefore a curse consumes the earth. its people must bear their guilt. Therefore earth’s inhabitants _are burned up_, and very few are left.
+ESV	Therefore a curse devours the earth, and its inhabitants suffer for their guilt. therefore the inhabitants of the earth _are scorched_, and few men are left.
+NBS	sont consumés
+
+(x)	_שָׁבַת֙_ מְשֹׂ֣ושׂ תֻּפִּ֔ים חָדַ֖ל שְׁאֹ֣ון עַלִּיזִ֑ים שָׁבַ֖ת מְשֹׂ֥ושׂ כִּנֹּֽור׃ (Isa. 24:8)
+NIV	The gaiety of the tambourines _is stilled_, the noise of the revellers has stopped, the joyful harp is silent.
+ESV	The mirth of the tambourines _is stilled_, the noise of the jubilant has ceased, the mirth of the lyre _is stilled_.
+NBS	a cessé
+
+(x)	שָׁבַת֙ מְשֹׂ֣ושׂ תֻּפִּ֔ים חָדַ֖ל שְׁאֹ֣ון עַלִּיזִ֑ים _שָׁבַ֖ת_ מְשֹׂ֥ושׂ כִּנֹּֽור׃ (Isa. 24:8)
+NIV	The gaiety of the tambourines is stilled, the noise of the revellers has stopped, the joyful harp _is silent_.
+ESV	The mirth of the tambourines _is stilled_, the noise of the jubilant has ceased, the mirth of the lyre _is stilled_.
+NBS	a cessé
+
+(x)	נִשְׁבְּרָ֖ה קִרְיַת־תֹּ֑הוּ _סֻגַּ֥ר_ כָּל־בַּ֖יִת מִבֹּֽוא׃ (Isa. 24:10)
+NIV	The ruined city lies desolate. the entrance to every house _is barred_.
+ESV	The wasted city is broken down. every house _is shut up_ so that none can enter.
+NBS	sont fermées
+
+(x)	וְגַם־אֵ֨לֶּה֙ בַּיַּ֣יִן שָׁג֔וּ וּבַשֵּׁכָ֖ר תָּע֑וּ כֹּהֵ֣ן וְנָבִיא֩ שָׁג֨וּ בַשֵּׁכָ֜ר נִבְלְע֣וּ מִן־הַיַּ֗יִן תָּעוּ֙ מִן־הַשֵּׁכָ֔ר _שָׁגוּ֙_ בָּֽרֹאֶ֔ה פָּק֖וּ פְּלִילִיָּֽה׃ (Isa. 28:7)
+NIV	And these also stagger from wine and reel from beer: Priests and prophets stagger from beer and are befuddled with wine. they reel from beer, _they stagger_ when seeing visions, they stumble when rendering decisions.
+ESV	These also reel with wine and stagger with strong drink. the priest and the prophet reel with strong drink, they are swallowed by wine, they stagger with strong drink, _they reel_ in vision, they stumble in giving judgment.
+NBS	ils sont grisés
+
+(x)	כִּ֚י כָּל־שֻׁלְחָנֹ֔ות _מָלְא֖וּ_ קִ֣יא צֹאָ֑ה בְּלִ֖י מָקֹֽום׃ ס (Isa. 28:8)
+NIV	All the tables _are covered_ with vomit and there is not a spot without filth.
+ESV	For all tables _are full_ of filthy vomit, with no space left.
+NBS	sont pleines
+
+(x)	הִנֵּ֤ה שֵׁם־יְהוָה֙ בָּ֣א מִמֶּרְחָ֔ק בֹּעֵ֣ר אַפֹּ֔ו וְכֹ֖בֶד מַשָּׂאָ֑ה שְׂפָתָיו֙ _מָ֣לְאוּ_ זַ֔עַם וּלְשֹׁונֹ֖ו כְּאֵ֥שׁ אֹכָֽלֶת׃ (Isa. 30:27)
+NIV	See, the Name of the LORD comes from afar, with burning anger and dense clouds of smoke. his lips _are full of_ wrath, and his tongue is a consuming fire.
+ESV	Behold, the name of the Lord comes from afar, burning with his anger, and in thick rising smoke. his lips _are full_ of fury, and his tongue is like a devouring fire.
+NBS	sont pleines
+
+(x)	נָשַׁ֣מּוּ מְסִלֹּ֔ות שָׁבַ֖ת עֹבֵ֣ר אֹ֑רַח _הֵפֵ֤ר_ בְּרִית֙ מָאַ֣ס עָרִ֔ים לֹ֥א חָשַׁ֖ב אֱנֹֽושׁ׃ (Isa. 33:8)
+NIV	The highways are deserted, no travellers are on the roads. The treaty _is broken_, its witnesses are despised, no-one is respected.
+ESV	The highways lie waste. the traveler ceases. Covenants _are broken_. cities are despised. there is no regard for man.
+NBS	Il a rompu
+
+(x)	_פָּחֲד֤וּ_ בְצִיֹּון֙ חַטָּאִ֔ים אָחֲזָ֥ה רְעָדָ֖ה חֲנֵפִ֑ים מִ֣י׀ יָג֣וּר לָ֗נוּ אֵ֚שׁ אֹוכֵלָ֔ה מִי־יָג֥וּר לָ֖נוּ מֹוקְדֵ֥י עֹולָֽם׃ (Isa. 33:14)
+NIV	The sinners in Zion _are terrified_. trembling grips the godless: “Who of us can dwell with the consuming fire? Who of us can dwell with everlasting burning?”
+ESV	The sinners in Zion _are afraid_. trembling has seized the godless: “Who among us can dwell with the consuming fire? Who among us can dwell with everlasting burnings?”
+NBS	sont effrayés
+
+(x)	הָעֲנִיִּ֨ים וְהָאֶבְיֹונִ֜ים מְבַקְשִׁ֥ים מַ֨יִם֙ וָאַ֔יִן לְשֹׁונָ֖ם בַּצָּמָ֣א _נָשָׁ֑תָּה_ אֲנִ֤י יְהוָה֙ אֶעֱנֵ֔ם אֱלֹהֵ֥י יִשְׂרָאֵ֖ל לֹ֥א אֶעֶזְבֵֽם׃ (Isa. 41:17)
+NIV	“The poor and needy search for water, but there is none. their tongues _are parched_ with thirst. But I the LORD will answer them. I, the God of Israel, will not forsake them.
+ESV	When the poor and needy seek water, and there is none, and their tongue _is parched_ with thirst, I the Lord will answer them. I the God of Israel will not forsake them.
+NBS	est desséchée
+
+(x)	_קָרְס֤וּ_ כָֽרְעוּ֙ יַחְדָּ֔ו לֹ֥א יָכְל֖וּ מַלֵּ֣ט מַשָּׂ֑א וְנַפְשָׁ֖ם בַּשְּׁבִ֥י הָלָֽכָה׃ ס (Isa. 46:2)
+NIV	_They stoop_ and bow down together. unable to rescue the burden, they themselves go off into captivity.
+ESV	_They stoop_. they bow down together. they cannot save the burden, but themselves go into captivity.
+NBS	ils se sont courbés
+
+(x)	עַתָּ֤ה _נִבְרְאוּ֙_ וְלֹ֣א מֵאָ֔ז וְלִפְנֵי־יֹ֖ום וְלֹ֣א שְׁמַעְתָּ֑ם פֶּן־תֹּאמַ֖ר הִנֵּ֥ה יְדַעְתִּֽין׃ (Isa. 48:7)
+NIV	_They are created_ now, and not long ago. you have not heard of them before today. So you cannot say, ‘Yes, I knew of them.’
+ESV	_They are created_ now, not long ago. before today you have never heard of them, lest you should say, ‘Behold, I knew them.’
+NBS	elles sont créées
+
+(x)	הִתְעֹורְרִ֣י הִֽתְעֹורְרִ֗י ק֚וּמִי יְר֣וּשָׁלִַ֔ם אֲשֶׁ֥ר _שָׁתִ֛ית_ מִיַּ֥ד יְהוָ֖ה אֶת־כֹּ֣וס חֲמָתֹ֑ו אֶת־קֻבַּ֜עַת כֹּ֧וס הַתַּרְעֵלָ֛ה שָׁתִ֖ית מָצִֽית׃ (Isa. 51:17)
+NIV	Awake, awake! Rise up, O Jerusalem, you who have drunk from the hand of the LORD the cup of his wrath, you who have drained to its dregs the goblet that makes men stagger.
+ESV	Wake yourself, wake yourself, stand up, O Jerusalem, you who have drunk from the hand of the Lord the cup of his wrath, who have drunk to the dregs the bowl, the cup of staggering.
+NBS	toi qui as bu
+
+(x)	הַצַּדִּ֣יק אָבָ֔ד וְאֵ֥ין אִ֖ישׁ שָׂ֣ם עַל־לֵ֑ב וְאַנְשֵׁי־חֶ֤סֶד נֶֽאֱסָפִים֙ בְּאֵ֣ין מֵבִ֔ין כִּֽי־מִפְּנֵ֥י הָרָעָ֖ה _נֶאֱסַ֥ף_ הַצַּדִּֽיק׃ (Isa. 57:1)
+NIV	The righteous perish, and no-one ponders it in his heart. devout men _are taken away_, and no-one understands that the righteous _are taken away_ to be spared from evil.
+ESV	The righteous man perishes, and no one lays it to heart. devout men are taken away, while no one understands. For the righteous man _is taken away_ from calamity.
+NBS	est enseveli
+
+(x)	כִּ֤י כַפֵּיכֶם֙ _נְגֹאֲל֣וּ_ בַדָּ֔ם וְאֶצְבְּעֹותֵיכֶ֖ם בֶּֽעָוֹ֑ן שִׂפְתֹֽותֵיכֶם֙ דִּבְּרוּ־שֶׁ֔קֶר לְשֹׁונְכֶ֖ם עַוְלָ֥ה תֶהְגֶּֽה׃ (Isa. 59:3)
+NIV	For your hands _are stained_ with blood, your fingers with guilt. Your lips have spoken lies, and your tongue mutters wicked things.
+ESV	For your hands _are defiled_ with blood and your fingers with iniquity. your lips have spoken lies. your tongue mutters wickedness.
+NBS	sont souillées
+
+(x)	כִּֽי־אַתָּ֣ה אָבִ֔ינוּ כִּ֤י אַבְרָהָם֙ לֹ֣א _יְדָעָ֔נוּ_ וְיִשְׂרָאֵ֖ל לֹ֣א יַכִּירָ֑נוּ אַתָּ֤ה יְהוָה֙ אָבִ֔ינוּ גֹּאֲלֵ֥נוּ מֵֽעֹולָ֖ם שְׁמֶֽךָ׃ (Isa. 63:16)
+NIV	But you are our Father, though Abraham does not know us or Israel acknowledge us. you, O LORD, are our Father, our Redeemer from of old is your name.
+ESV	For you are our Father, though Abraham does not know us, and Israel does not acknowledge us. you, O Lord, are our Father, our Redeemer from of old is your name.
+NBS	qui nous a distingués
+
+(x)	שֶׁ֤בֶר עַל־שֶׁ֨בֶר֙ נִקְרָ֔א כִּ֥י שֻׁדְּדָ֖ה כָּל־הָאָ֑רֶץ פִּתְאֹם֙ _שֻׁדְּד֣וּ_ אֹהָלַ֔י רֶ֖גַע יְרִיעֹתָֽי׃ (Jer. 4:20)
+NIV	Disaster follows disaster. the whole land lies in ruins. In an instant my tents _are destroyed_, my shelter in a moment.
+ESV	Crash follows hard on crash. the whole land is laid waste. Suddenly my tents _are laid waste_, my curtains in a moment.
+NBS	sont ravagées
+
+(x)	שָׁמַ֥עְנוּ אֶת־שָׁמְעֹ֖ו _רָפ֣וּ_ יָדֵ֑ינוּ צָרָה֙ הֶחֱזִיקַ֔תְנוּ חִ֖יל כַּיֹּולֵדָֽה׃ (Jer. 6:24)
+NIV	We have heard reports about them, and our hands _hang limp_. Anguish has gripped us, pain like that of a woman in labour.
+ESV	We have heard the report of it. our hands _fall helpless_. anguish has taken hold of us, pain as of a woman in labor.
+NBS	nous avons perdu courage
+
+(x)	וּבָאתֶ֞ם וַעֲמַדְתֶּ֣ם לְפָנַ֗י בַּבַּ֤יִת הַזֶּה֙ אֲשֶׁ֣ר _נִקְרָא_־שְׁמִ֣י עָלָ֔יו וַאֲמַרְתֶּ֖ם נִצַּ֑לְנוּ לְמַ֣עַן עֲשֹׂ֔ות אֵ֥ת כָּל־הַתֹּועֵבֹ֖ות הָאֵֽלֶּה׃ (Jer. 7:10)
+NIV	and then come and stand before me in this house, which bears my Name, and say, “We are safe” — safe to do all these detestable things?
+ESV	and then come and stand before me in this house, which _is called_ by my name, and say, ‘We are delivered!’ — only to go on doing all these abominations?
+NBS	est invoqué
+
+(x)	וְעָשִׂ֜יתִי לַבַּ֣יִת׀ אֲשֶׁ֧ר _נִֽקְרָא_־שְׁמִ֣י עָלָ֗יו אֲשֶׁ֤ר אַתֶּם֙ בֹּטְחִ֣ים בֹּ֔ו וְלַ֨מָּקֹ֔ום אֲשֶׁר־נָתַ֥תִּי לָכֶ֖ם וְלַאֲבֹֽותֵיכֶ֑ם כַּאֲשֶׁ֥ר עָשִׂ֖יתִי לְשִׁלֹֽו׃ (Jer. 7:14)
+NIV	Therefore, what I did to Shiloh I will now do to the house that bears my Name, the temple you trust in, the place I gave to you and your fathers.
+ESV	therefore I will do to the house that _is called_ by my name, and in which you trust, and to the place that I gave to you and to your fathers, as I did to Shiloh.
+NBS	est invoqué
+
+(x)	כִּֽי־עָשׂ֨וּ בְנֵי־יְהוּדָ֥ה הָרַ֛ע בְּעֵינַ֖י נְאֻום־יְהוָ֑ה שָׂ֣מוּ שִׁקּֽוּצֵיהֶ֗ם בַּבַּ֛יִת אֲשֶׁר־_נִקְרָא_־שְׁמִ֥י עָלָ֖יו לְטַמְּאֹֽו׃ (Jer. 7:30)
+NIV	“‘The people of Judah have done evil in my eyes, declares the LORD. They have set up their detestable idols in the house that bears my Name and have defiled it.
+ESV	“For the sons of Judah have done evil in my sight, declares the Lord. They have set their detestable things in the house that _is called_ by my name, to defile it.
+NBS	est invoqué
+
+(x)	עַל־הֶ֨הָרִ֜ים אֶשָּׂ֧א בְכִ֣י וָנֶ֗הִי וְעַל־נְאֹ֤ות מִדְבָּר֙ קִינָ֔ה כִּ֤י _נִצְּתוּ֙_ מִבְּלִי־אִ֣ישׁ עֹבֵ֔ר וְלֹ֥א שָׁמְע֖וּ קֹ֣ול מִקְנֶ֑ה מֵעֹ֤וף הַשָּׁמַ֨יִם֙ וְעַד־בְּהֵמָ֔ה נָדְד֖וּ הָלָֽכוּ׃ (Jer. 9:9)
+NIV	I will weep and wail for the mountains and take up a lament concerning the desert pastures. _They are desolate_ and untravelled, and the lowing of cattle is not heard. The birds of the air have fled and the animals are gone.
+ESV	“I will take up weeping and wailing for the mountains, and a lamentation for the pastures of the wilderness, because _they are laid waste_ so that no one passes through, and the lowing of cattle is not heard. both the birds of the air and the beasts have fled and are gone.
+NBS	sont brûlés ils
+
+(x)	עַל־הֶ֨הָרִ֜ים אֶשָּׂ֧א בְכִ֣י וָנֶ֗הִי וְעַל־נְאֹ֤ות מִדְבָּר֙ קִינָ֔ה כִּ֤י נִצְּתוּ֙ מִבְּלִי־אִ֣ישׁ עֹבֵ֔ר וְלֹ֥א שָׁמְע֖וּ קֹ֣ול מִקְנֶ֑ה מֵעֹ֤וף הַשָּׁמַ֨יִם֙ וְעַד־בְּהֵמָ֔ה נָדְד֖וּ _הָלָֽכוּ_׃ (Jer. 9:9)
+NIV	I will weep and wail for the mountains and take up a lament concerning the desert pastures. They are desolate and untravelled, and the lowing of cattle is not heard. The birds of the air have fled and the animals _are gone_.
+ESV	“I will take up weeping and wailing for the mountains, and a lamentation for the pastures of the wilderness, because they are laid waste so that no one passes through, and the lowing of cattle is not heard. both the birds of the air and the beasts have fled and _are gone_.
+NBS	est allé
+
+(x)	מִ֣י לֹ֤א יִֽרָאֲךָ֙ מֶ֣לֶךְ הַגֹּויִ֔ם כִּ֥י לְךָ֖ _יָאָ֑תָה_ כִּ֣י בְכָל־חַכְמֵ֧י הַגֹּויִ֛ם וּבְכָל־מַלְכוּתָ֖ם מֵאֵ֥ין כָּמֹֽוךָ׃ (Jer. 10:7)
+NIV	Who should not revere you, O King of the nations? This is your due. Among all the wise men of the nations and in all their kingdoms, there is no-one like you.
+ESV	Who would not fear you, O King of the nations? For this is your due. for among all the wise ones of the nations and in all their kingdoms there is none like you.
+NBS	Cela est dû
+
+(x)	אָהֳלִ֣י _שֻׁדָּ֔ד_ וְכָל־מֵיתָרַ֖י נִתָּ֑קוּ בָּנַ֤י יְצָאֻ֨נִי֙ וְאֵינָ֔ם אֵין־נֹטֶ֥ה עֹוד֙ אָהֳלִ֔י וּמֵקִ֖ים יְרִיעֹותָֽי׃ (Jer. 10:20)
+NIV	My tent _is destroyed_. all its ropes are snapped. My sons are gone from me and are no more. no-one is left now to pitch my tent or to set up my shelter.
+ESV	My tent _is destroyed_, and all my cords are broken. my children have gone from me, and they are not. there is no one to spread my tent again and to set up my curtains.
+NBS	est ravagée
+
+(x)	אָהֳלִ֣י שֻׁדָּ֔ד וְכָל־מֵיתָרַ֖י _נִתָּ֑קוּ_ בָּנַ֤י יְצָאֻ֨נִי֙ וְאֵינָ֔ם אֵין־נֹטֶ֥ה עֹוד֙ אָהֳלִ֔י וּמֵקִ֖ים יְרִיעֹותָֽי׃ (Jer. 10:20)
+NIV	My tent is destroyed. all its ropes _are snapped_. My sons are gone from me and are no more. no-one is left now to pitch my tent or to set up my shelter.
+ESV	My tent is destroyed, and all my cords _are broken_. my children have gone from me, and they are not. there is no one to spread my tent again and to set up my curtains.
+NBS	sont rompus
+
+(x)	כִּ֤י נִבְעֲרוּ֙ הָֽרֹעִ֔ים וְאֶת־יְהוָ֖ה לֹ֣א דָרָ֑שׁוּ עַל־כֵּן֙ לֹ֣א הִשְׂכִּ֔ילוּ וְכָל־מַרְעִיתָ֖ם _נָפֹֽוצָה_׃ ס (Jer. 10:21)
+NIV	The shepherds are senseless and do not enquire of the LORD. so they do not prosper and all their flock _is scattered_.
+ESV	For the shepherds are stupid and do not inquire of the Lord. therefore they have not prospered, and all their flock _is scattered_.
+NBS	sont dispersés
+
+(x)	הָיְתָה־לִּ֥י נַחֲלָתִ֖י כְּאַרְיֵ֣ה בַיָּ֑עַר נָתְנָ֥ה עָלַ֛י בְּקֹולָ֖הּ עַל־כֵּ֥ן _שְׂנֵאתִֽיהָ_׃ (Jer. 12:8)
+NIV	My inheritance has become to me like a lion in the forest. She roars at me. therefore _I hate_ her.
+ESV	My heritage has become to me like a lion in the forest. she has lifted up her voice against me. therefore _I hate_ her.
+NBS	détester j en suis venu à le
+
+(x)	לָ֤מָּה תִֽהְיֶה֙ כְּאִ֣ישׁ נִדְהָ֔ם כְּגִבֹּ֖ור לֹא־יוּכַ֣ל לְהֹושִׁ֑יעַ וְאַתָּ֧ה בְקִרְבֵּ֣נוּ יְהוָ֗ה וְשִׁמְךָ֛ עָלֵ֥ינוּ _נִקְרָ֖א_ אַל־תַּנִּחֵֽנוּ׃ ס (Jer. 14:9)
+NIV	Why are you like a man taken by surprise, like a warrior powerless to save? You are among us, O LORD, and we bear your name. do not forsake us!
+ESV	Why should you be like a man confused, like a mighty warrior who cannot save? Yet you, O Lord, are in the midst of us, and we _are called_ by your name. do not leave us.”
+NBS	est invoqué
+
+(x)	הֲיֵ֨שׁ בְּהַבְלֵ֤י הַגֹּויִם֙ מַגְשִׁמִ֔ים וְאִם־הַשָּׁמַ֖יִם יִתְּנ֣וּ רְבִבִ֑ים הֲלֹ֨א אַתָּה־ה֜וּא יְהוָ֤ה אֱלֹהֵ֨ינוּ֙ וּ֨נְקַוֶּה־לָּ֔ךְ כִּֽי־אַתָּ֥ה _עָשִׂ֖יתָ_ אֶת־כָּל־אֵֽלֶּה׃ פ (Jer. 14:22)
+NIV	Do any of the worthless idols of the nations bring rain? Do the skies themselves send down showers? No, it is you, O LORD our God. Therefore our hope is in you, for you are the one who _does_ all this.
+ESV	Are there any among the false gods of the nations that can bring rain? Or can the heavens give showers? Are you not he, O Lord our God? We set our hope on you, for you _do_ all these things.
+NBS	qui as fait
+
+(x)	נִמְצְא֤וּ דְבָרֶ֨יךָ֙ וָאֹ֣כְלֵ֔ם וַיְהִ֤י דְבָֽרְךָ֙ לִ֔י לְשָׂשֹׂ֖ון וּלְשִׂמְחַ֣ת לְבָבִ֑י כִּֽי־_נִקְרָ֤א_ שִׁמְךָ֙ עָלַ֔י יְהוָ֖ה אֱלֹהֵ֥י צְבָאֹֽות׃ ס (Jer. 15:16)
+NIV	When your words came, I ate them. they were my joy and my heart’s delight, for I bear your name, O LORD God Almighty.
+ESV	Your words were found, and I ate them, and your words became to me a joy and the delight of my heart, for I _am called_ by your name, O Lord, God of hosts.
+NBS	est invoqué
+
+(x)	וַֽיְהִי֙ מִֽמָּחֳרָ֔ת וַיֹּצֵ֥א פַשְׁח֛וּר אֶֽת־יִרְמְיָ֖הוּ מִן־הַמַּהְפָּ֑כֶת וַיֹּ֨אמֶר אֵלָ֜יו יִרְמְיָ֗הוּ לֹ֤א פַשְׁחוּר֙ _קָרָ֤א_ יְהוָה֙ שְׁמֶ֔ךָ כִּ֖י אִם־מָגֹ֥ור מִסָּבִֽיב׃ פ (Jer. 20:3)
+NIV	The next day, when Pashhur released him from the stocks, Jeremiah said to him, “The LORD’s name for you _is_ not Pashhur, but Magor-m_is_sabib.
+ESV	The next day, when Pashhur released Jeremiah from the stocks, Jeremiah said to him, “The Lord does not call your name Pashhur, but Terror On Every Side.
+NBS	nom que t a appelé
+
+(x)	עֲלִ֤י הַלְּבָנֹון֙ וּֽצְעָ֔קִי וּבַבָּשָׁ֖ן תְּנִ֣י קֹולֵ֑ךְ וְצַֽעֲקִי֙ מֵֽעֲבָרִ֔ים כִּ֥י _נִשְׁבְּר֖וּ_ כָּל־מְאַהֲבָֽיִךְ׃ (Jer. 22:20)
+NIV	“Go up to Lebanon and cry out, let your voice be heard in Bashan, cry out from Abarim, for all your allies _are crushed_.
+ESV	“Go up to Lebanon, and cry out, and lift up your voice in Bashan. cry out from Abarim, for all your lovers _are destroyed_.
+NBS	sont brisés
+
+(x)	לַנְּבִאִ֞ים _נִשְׁבַּ֧ר_ לִבִּ֣י בְקִרְבִּ֗י רָֽחֲפוּ֙ כָּל־עַצְמֹותַ֔י הָיִ֨יתִי֙ כְּאִ֣ישׁ שִׁכֹּ֗ור וּכְגֶ֖בֶר עֲבָ֣רֹו יָ֑יִן מִפְּנֵ֣י יְהוָ֔ה וּמִפְּנֵ֖י דִּבְרֵ֥י קָדְשֹֽׁו׃ (Jer. 23:9)
+NIV	Concerning the prophets: My heart _is broken_ within me. all my bones tremble. I am like a drunken man, like a man overcome by wine, because of the LORD and his holy words.
+ESV	Concerning the prophets: My heart _is broken_ within me. all my bones shake. I am like a drunken man, like a man overcome by wine, because of the Lord and because of his holy words.
+NBS	est brisé
+
+(x)	כִּ֤י מְנָֽאֲפִים֙ מָלְאָ֣ה הָאָ֔רֶץ כִּֽי־מִפְּנֵ֤י אָלָה֙ אָבְלָ֣ה הָאָ֔רֶץ _יָבְשׁ֖וּ_ נְאֹ֣ות מִדְבָּ֑ר וַתְּהִ֤י מְרֽוּצָתָם֙ רָעָ֔ה וּגְבוּרָתָ֖ם לֹא־כֵֽן׃ (Jer. 23:10)
+NIV	The land is full of adulterers. because of the curse the land lies parched and the pastures in the desert _are withered_. The [ prophets ] follow an evil course and use their power unjustly.
+ESV	For the land is full of adulterers. because of the curse the land mourns, and the pastures of the wilderness _are dried up_. Their course is evil, and their might is not right.
+NBS	sont desséchés
+
+(x)	כִּי֩ הִנֵּ֨ה בָעִ֜יר אֲשֶׁ֧ר _נִֽקְרָא_־שְׁמִ֣י עָלֶ֗יהָ אָֽנֹכִי֙ מֵחֵ֣ל לְהָרַ֔ע וְאַתֶּ֖ם הִנָּקֵ֣ה תִנָּק֑וּ לֹ֣א תִנָּק֔וּ כִּ֣י חֶ֗רֶב אֲנִ֤י קֹרֵא֙ עַל־כָּל־יֹשְׁבֵ֣י הָאָ֔רֶץ נְאֻ֖ם יְהוָ֥ה צְבָאֹֽות׃ (Jer. 25:29)
+NIV	See, I am beginning to bring disaster on the city that bears my Name, and will you indeed go unpunished? You will not go unpunished, for I am calling down a sword upon all who live on the earth, declares the LORD Almighty.’
+ESV	For behold, I begin to work disaster at the city that _is called_ by my name, and shall you go unpunished? You shall not go unpunished, for I am summoning a sword against all the inhabitants of the earth, declares the Lord of hosts.’
+NBS	est invoqué
+
+(x)	וַיָּשִׂ֣ימוּ שִׁקּֽוּצֵיהֶ֗ם בַּבַּ֛יִת אֲשֶׁר־_נִקְרָֽא_־שְׁמִ֥י עָלָ֖יו לְטַמְּאֹֽו׃ (Jer. 32:34)
+NIV	They set up their abominable idols in the house that bears my Name and defiled it.
+ESV	They set up their abominations in the house that _is called_ by my name, to defile it.
+NBS	est invoqué
+
+(x)	וַתָּשֻׁ֨בוּ אַתֶּ֜ם הַיֹּ֗ום וַתַּעֲשׂ֤וּ אֶת־הַיָּשָׁר֙ בְּעֵינַ֔י לִקְרֹ֥א דְרֹ֖ור אִ֣ישׁ לְרֵעֵ֑הוּ וַתִּכְרְת֤וּ בְרִית֙ לְפָנַ֔י בַּבַּ֕יִת אֲשֶׁר־_נִקְרָ֥א_ שְׁמִ֖י עָלָֽיו׃ (Jer. 34:15)
+NIV	Recently you repented and did what is right in my sight: Each of you proclaimed freedom to his countrymen. You even made a covenant before me in the house that bears my Name.
+ESV	You recently repented and did what was right in my eyes by proclaiming liberty, each to his neighbor, and you made a covenant before me in the house that _is called_ by my name,
+NBS	est invoqué
+
+(x)	וְהִנֵּ֣ה כָל־הַנָּשִׁ֗ים אֲשֶׁ֤ר נִשְׁאֲרוּ֙ בְּבֵ֣ית מֶֽלֶךְ־יְהוּדָ֔ה מוּצָאֹ֕ות אֶל־שָׂרֵ֖י מֶ֣לֶךְ בָּבֶ֑ל וְהֵ֣נָּה אֹמְרֹ֗ות הִסִּית֜וּךָ וְיָכְל֤וּ לְךָ֙ אַנְשֵׁ֣י שְׁלֹמֶ֔ךָ _הָטְבְּע֥וּ_ בַבֹּ֛ץ רַגְלֶ֖ךָ נָסֹ֥גוּ אָחֹֽור׃ (Jer. 38:22)
+NIV	All the women left in the palace of the king of Judah will be brought out to the officials of the king of Babylon. Those women will say to you: “‘They misled you and overcame you — those trusted friends of yours. Your feet _are sunk_ in the mud. your friends have deserted you.’
+ESV	Behold, all the women left in the house of the king of Judah were being led out to the officials of the king of Babylon and were saying, “‘Your trusted friends have deceived you and prevailed against you. now that your feet _are sunk_ in the mud, they turn away from you.’
+NBS	se sont enfoncés
+
+(x)	_הֹבִ֥ישׁ_ מֹואָ֛ב כִּֽי־חַ֖תָּה הֵילִ֣ילוּ ׀ וּֽזְעָ֑קוּ הַגִּ֣ידוּ בְאַרְנֹ֔ון כִּ֥י שֻׁדַּ֖ד מֹואָֽב׃ (Jer. 48:20)
+NIV	Moab _is disgraced_, for she is shattered. Wail and cry out! Announce by the Arnon that Moab is destroyed.
+ESV	Moab _is put to shame_, for it is broken. wail and cry! Tell it beside the Arnon, that Moab is laid waste.
+NBS	est honteux
+
+(x)	_נִגְדְּעָה֙_ קֶ֣רֶן מֹואָ֔ב וּזְרֹעֹ֖ו נִשְׁבָּ֑רָה נְאֻ֖ם יְהוָֽה׃ (Jer. 48:25)
+NIV	Moab’s horn _is cut off_. her arm is broken,” declares the LORD.
+ESV	The horn of Moab _is cut off_, and his arm is broken, declares the Lord.
+NBS	est abattue
+
+(x)	נִגְדְּעָה֙ קֶ֣רֶן מֹואָ֔ב וּזְרֹעֹ֖ו _נִשְׁבָּ֑רָה_ נְאֻ֖ם יְהוָֽה׃ (Jer. 48:25)
+NIV	Moab’s horn is cut off. her arm _is broken_,” declares the LORD.
+ESV	The horn of Moab is cut off, and his arm _is broken_, declares the Lord.
+NBS	est brisé
+
+(x)	אֹוי־לְךָ֣ מֹואָ֔ב _אָבַ֖ד_ עַם־כְּמֹ֑ושׁ כִּֽי־לֻקְּח֤וּ בָנֶ֨יךָ֙ בַּשֶּׁ֔בִי וּבְנֹתֶ֖יךָ בַּשִּׁבְיָֽה׃ (Jer. 48:46)
+NIV	Woe to you, O Moab! The people of Chemosh _are destroyed_. your sons are taken into exile and your daughters into captivity.
+ESV	Woe to you, O Moab! The people of Chemosh _are undone_, for your sons have been taken captive, and your daughters into captivity.
+NBS	est perdu
+
+(x)	הָרִ֨יעוּ עָלֶ֤יהָ סָבִיב֙ נָתְנָ֣ה יָדָ֔הּ נָֽפְלוּ֙ אָשְׁיֹותֶ֔יהָ _נֶהֶרְס֖וּ_ חֹֽומֹותֶ֑יהָ כִּי֩ נִקְמַ֨ת יְהוָ֥ה הִיא֙ הִנָּ֣קְמוּ בָ֔הּ כַּאֲשֶׁ֥ר עָשְׂתָ֖ה עֲשׂוּ־לָֽהּ׃ (Jer. 50:15)
+NIV	Shout against her on every side! She surrenders, her towers fall, her walls _are torn down_. Since this is the vengeance of the LORD, take vengeance on her. do to her as she has done to others.
+ESV	Raise a shout against her all around. she has surrendered. her bulwarks have fallen. her walls _are thrown down_. For this is the vengeance of the Lord: take vengeance on her. do to her as she has done.
+NBS	sont rasées
+
+(x)	חָדְלוּ֩ גִבֹּורֵ֨י בָבֶ֜ל לְהִלָּחֵ֗ם _יָֽשְׁבוּ֙_ בַּמְּצָדֹ֔ות נָשְׁתָ֥ה גְבוּרָתָ֖ם הָי֣וּ לְנָשִׁ֑ים הִצִּ֥יתוּ מִשְׁכְּנֹתֶ֖יהָ נִשְׁבְּר֥וּ בְרִיחֶֽיהָ׃ (Jer. 51:30)
+NIV	Babylon’s warriors have stopped fighting. _they remain_ in their strongholds. Their strength is exhausted. they have become like women. Her dwellings are set on fire. the bars of her gates are broken.
+ESV	The warriors of Babylon have ceased fighting. _they remain_ in their strongholds. their strength has failed. they have become women. her dwellings are on fire. her bars are broken.
+NBS	ils sont restés
+
+(x)	חָדְלוּ֩ גִבֹּורֵ֨י בָבֶ֜ל לְהִלָּחֵ֗ם יָֽשְׁבוּ֙ בַּמְּצָדֹ֔ות נָשְׁתָ֥ה גְבוּרָתָ֖ם הָי֣וּ לְנָשִׁ֑ים _הִצִּ֥יתוּ_ מִשְׁכְּנֹתֶ֖יהָ נִשְׁבְּר֥וּ בְרִיחֶֽיהָ׃ (Jer. 51:30)
+NIV	Babylon’s warriors have stopped fighting. they remain in their strongholds. Their strength is exhausted. they have become like women. Her dwellings _are set on fire_. the bars of her gates are broken.
+ESV	The warriors of Babylon have ceased fighting. they remain in their strongholds. their strength has failed. they have become women. her dwellings _are on fire_. her bars are broken.
+NBS	On a mis le feu
+
+(x)	חָדְלוּ֩ גִבֹּורֵ֨י בָבֶ֜ל לְהִלָּחֵ֗ם יָֽשְׁבוּ֙ בַּמְּצָדֹ֔ות נָשְׁתָ֥ה גְבוּרָתָ֖ם הָי֣וּ לְנָשִׁ֑ים הִצִּ֥יתוּ מִשְׁכְּנֹתֶ֖יהָ _נִשְׁבְּר֥וּ_ בְרִיחֶֽיהָ׃ (Jer. 51:30)
+NIV	Babylon’s warriors have stopped fighting. they remain in their strongholds. Their strength is exhausted. they have become like women. Her dwellings are set on fire. the bars of her gates _are broken_.
+ESV	The warriors of Babylon have ceased fighting. they remain in their strongholds. their strength has failed. they have become women. her dwellings are on fire. her bars _are broken_.
+NBS	on a brisé
+
+(x)	רָ֤ץ לִקְרַאת־רָץ֙ יָר֔וּץ וּמַגִּ֖יד לִקְרַ֣את מַגִּ֑יד לְהַגִּיד֙ לְמֶ֣לֶךְ בָּבֶ֔ל כִּֽי־_נִלְכְּדָ֥ה_ עִירֹ֖ו מִקָּצֶֽה׃ (Jer. 51:31)
+NIV	One courier follows another and messenger follows messenger to announce to the king of Babylon that his entire city _is captured_,
+ESV	One runner runs to meet another, and one messenger to meet another, to tell the king of Babylon that his city _is taken_ on every side.
+NBS	est prise
+
+(x)	עֲשֵׂ֖ה הָֽרַתֹּ֑וק כִּ֣י הָאָ֗רֶץ _מָֽלְאָה֙_ מִשְׁפַּ֣ט דָּמִ֔ים וְהָעִ֖יר מָלְאָ֥ה חָמָֽס׃ (Ezek. 7:23)
+NIV	“Prepare chains, because the land _is full of_ bloodshed and the city _is full of_ violence.
+ESV	“Forge a chain! For the land _is full_ of bloody crimes and the city _is full_ of violence.
+NBS	est rempli
+
+(x)	וּבְשׁ֨וּב צַדִּ֤יק מִצִּדְקָתֹו֙ וְעָ֣שָׂה עָ֔וֶל כְּכֹ֨ל הַתֹּועֵבֹ֜ות אֲשֶׁר־עָשָׂ֧ה הָרָשָׁ֛ע יַעֲשֶׂ֖ה וָחָ֑י כָּל־צִדְקֹתָ֤יו אֲשֶׁר־עָשָׂה֙ לֹ֣א תִזָּכַ֔רְנָה בְּמַעֲלֹ֧ו אֲשֶׁר־_מָעַ֛ל_ וּבְחַטָּאתֹ֥ו אֲשֶׁר־חָטָ֖א בָּ֥ם יָמֽוּת׃ (Ezek. 18:24)
+NIV	“But if a righteous man turns from his righteousness and commits sin and does the same detestable things the wicked man does, will he live? None of the righteous things he has done will be remembered. Because of the unfaithfulness _he is guilty_ of and because of the sins he has committed, he will die.
+ESV	But when a righteous person turns away from his righteousness and does injustice and does the same abominations that the wicked person does, shall he live? None of the righteous deeds that he has done shall be remembered. for the treachery of which _he is guilty_ and the sin he has committed, for them he shall die.
+NBS	sacrilèges il a commis
+
+(x)	וַיִּתֵּ֥ן אֹתָ֛הּ לְמָרְטָ֖ה לִתְפֹּ֣שׂ בַּכָּ֑ף הִֽיא־_הוּחַ֤דָּה_ חֶ֨רֶב֙ וְהִ֣יא מֹרָ֔טָּה לָתֵ֥ת אֹותָ֖הּ בְּיַד־הֹורֵֽג׃ (Ezek. 21:16)
+NIV	“‘The sword is appointed to be polished, to be grasped with the hand. it _is sharpened_ and polished, made ready for the hand of the slayer.
+ESV	So the sword is given to be polished, that it may be grasped in the hand. _It is sharpened_ and polished to be given into the hand of the slayer.
+NBS	est aiguisée
+
+(x)	כִּ֤י דָמָהּ֙ בְּתֹוכָ֣הּ _הָיָ֔ה_ עַל־צְחִ֥יחַ סֶ֖לַע שָׂמָ֑תְהוּ לֹ֤א שְׁפָכַ֨תְהוּ֙ עַל־הָאָ֔רֶץ לְכַסֹּ֥ות עָלָ֖יו עָפָֽר׃ (Ezek. 24:7)
+NIV	“‘For the blood she shed _is_ in her midst: She poured it on the bare rock. she did not pour it on the ground, where the dust would cover it.
+ESV	For the blood she has shed _is_ in her midst. she put it on the bare rock. she did not pour it out on the ground to cover it with dust.
+NBS	est
+
+(x)	בֶּן־אָדָ֗ם יַ֠עַן אֲשֶׁר־אָ֨מְרָה צֹּ֤ר עַל־יְרוּשָׁלִַ֨ם֙ הֶאָ֔ח _נִשְׁבְּרָ֛ה_ דַּלְתֹ֥ות הָעַמִּ֖ים נָסֵ֣בָּה אֵלָ֑י אִמָּלְאָ֖ה הָחֳרָֽבָה׃ (Ezek. 26:2)
+NIV	“Son of man, because Tyre has said of Jerusalem, ‘Aha! The gate to the nations _is broken_, and its doors have swung open to me. now that she lies in ruins I will prosper,’
+ESV	“Son of man, because Tyre said concerning Jerusalem, ‘Aha, the gate of the peoples _is broken_. it has swung open to me. I shall be replenished, now that she is laid waste,’
+NBS	Elle est brisée
+
+(x)	כֹּ֚ל יֹשְׁבֵ֣י הָאִיִּ֔ים _שָׁמְמ֖וּ_ עָלָ֑יִךְ וּמַלְכֵיהֶם֙ שָׂ֣עֲרוּ שַׂ֔עַר רָעֲמ֖וּ פָּנִֽים׃ (Ezek. 27:35)
+NIV	All who live in the coastlands _are appalled_ at you. their kings shudder with horror and their faces are distorted with fear.
+ESV	All the inhabitants of the coastlands _are appalled_ at you, and the hair of their kings bristles with horror. their faces are convulsed.
+NBS	sont atterrés
+
+(x)	בֶּן־אָדָ֡ם אֱמֹר֩ לִנְגִ֨יד צֹ֜ר כֹּֽה־אָמַ֣ר׀ אֲדֹנָ֣י יְהֹוִ֗ה יַ֣עַן גָּבַ֤הּ לִבְּךָ֙ וַתֹּ֨אמֶר֙ אֵ֣ל אָ֔נִי מֹושַׁ֧ב אֱלֹהִ֛ים _יָשַׁ֖בְתִּי_ בְּלֵ֣ב יַמִּ֑ים וְאַתָּ֤ה אָדָם֙ וְֽלֹא־אֵ֔ל וַתִּתֵּ֥ן לִבְּךָ֖ כְּלֵ֥ב אֱלֹהִֽים׃ (Ezek. 28:2)
+NIV	“Son of man, say to the ruler of Tyre, ‘This is what the Sovereign LORD says: “‘In the pride of your heart you say, “I am a god. _I sit_ on the throne of a god in the heart of the seas.” But you are a man and not a god, though you think you are as wise as a god.
+ESV	“Son of man, say to the prince of Tyre, Thus says the Lord God: “Because your heart is proud, and you have said, ‘I am a god, _I sit_ in the seat of the gods, in the heart of the seas,’ yet you are but a man, and no god, though you make your heart like the heart of a god —
+NBS	je suis assis
+
+(x)	כָּל־יֹודְעֶ֨יךָ֙ בָּֽעַמִּ֔ים _שָׁמְמ֖וּ_ עָלֶ֑יךָ בַּלָּהֹ֣ות הָיִ֔יתָ וְאֵינְךָ֖ עַד־עֹולָֽם׃ פ (Ezek. 28:19)
+NIV	All the nations who knew you _are appalled_ at you. you have come to a horrible end and will be no more.’”
+ESV	All who know you among the peoples _are appalled_ at you. you have come to a dreadful end and shall be no more forever.”
+NBS	sont atterrés
+
+(x)	לְמַ֡עַן אֲשֶׁר֩ לֹא־יִגְבְּה֨וּ בְקֹומָתָ֜ם כָּל־עֲצֵי־מַ֗יִם וְלֹֽא־יִתְּנ֤וּ אֶת־צַמַּרְתָּם֙ אֶל־בֵּ֣ין עֲבֹתִ֔ים וְלֹֽא־יַעַמְד֧וּ אֵלֵיהֶ֛ם בְּגָבְהָ֖ם כָּל־שֹׁ֣תֵי מָ֑יִם כִּֽי־כֻלָּם֩ _נִתְּנ֨וּ_ לַמָּ֜וֶת אֶל־אֶ֣רֶץ תַּחְתִּ֗ית בְּתֹ֛וךְ בְּנֵ֥י אָדָ֖ם אֶל־יֹ֥ורְדֵי בֹֽור׃ ס (Ezek. 31:14)
+NIV	Therefore no other trees by the waters are ever to tower proudly on high, lifting their tops above the thick foliage. No other trees so well-watered are ever to reach such a height. they are all destined for death, for the earth below, among mortal men, with those who go down to the pit.
+ESV	All this is in order that no trees by the waters may grow to towering height or set their tops among the clouds, and that no trees that drink water may reach up to them in height. For they are all given over to death, to the world below, among the children of man, with those who go down to the pit.
+NBS	sont livrés
+
+(x)	יְדַבְּרוּ־לֹ֞ו אֵלֵ֧י גִבֹּורִ֛ים מִתֹּ֥וךְ שְׁאֹ֖ול אֶת־עֹֽזְרָ֑יו יָֽרְד֛וּ _שָׁכְב֥וּ_ הָעֲרֵלִ֖ים חַלְלֵי־חָֽרֶב׃ (Ezek. 32:21)
+NIV	From within the grave the mighty leaders will say of Egypt and her allies, ‘They have come down and _they lie_ with the uncircumcised, with those killed by the sword.’
+ESV	The mighty chiefs shall speak of them, with their helpers, out of the midst of Sheol: ‘They have come down, _they lie still_, the uncircumcised, slain by the sword.’
+NBS	ils sont couchés
+
+(x)	לָכֵ֗ן כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה אֲנִ֖י _נָשָׂ֣אתִי_ אֶת־יָדִ֑י אִם־לֹ֤א הַגֹּויִם֙ אֲשֶׁ֣ר לָכֶ֣ם מִסָּבִ֔יב הֵ֖מָּה כְּלִמָּתָ֖ם יִשָּֽׂאוּ׃ (Ezek. 36:7)
+NIV	Therefore this is what the Sovereign LORD says: I _swear with uplifted hand_ that the nations around you will also suffer scorn.
+ESV	Therefore thus says the Lord God: I _swear_ that the nations that are all around you shall themselves suffer reproach.
+NBS	j ai juré à main levée
+
+(x)	וַיֹּאמֶר֮ אֵלַי֒ בֶּן־אָדָ֕ם הָעֲצָמֹ֣ות הָאֵ֔לֶּה כָּל־בֵּ֥ית יִשְׂרָאֵ֖ל הֵ֑מָּה הִנֵּ֣ה אֹמְרִ֗ים _יָבְשׁ֧וּ_ עַצְמֹותֵ֛ינוּ וְאָבְדָ֥ה תִקְוָתֵ֖נוּ נִגְזַ֥רְנוּ לָֽנוּ׃ (Ezek. 37:11)
+NIV	Then he said to me: “Son of man, these bones are the whole house of Israel. They say, ‘Our bones _are dried up_ and our hope is gone. we are cut off.’
+ESV	Then he said to me, “Son of man, these bones are the whole house of Israel. Behold, they say, ‘Our bones _are dried up_, and our hope is lost. we are indeed cut off.’
+NBS	sont desséchés
+
+(x)	וְאִֽם־_נִכְלְמ֞וּ_ מִכֹּ֣ל אֲשֶׁר־עָשׂ֗וּ צוּרַ֣ת הַבַּ֡יִת וּתְכוּנָתֹ֡ו וּמֹוצָאָ֡יו וּמֹובָאָ֣יו וְֽכָל־צֽוּרֹתָ֡יו וְאֵ֣ת כָּל־חֻקֹּתָיו֩ וְכָל־צ֨וּרֹתָ֤יו וְכָל־תֹּורֹתָיו֙ הֹודַ֣ע אֹותָ֔ם וּכְתֹ֖ב לְעֵֽינֵיהֶ֑ם וְיִשְׁמְר֞וּ אֶת־כָּל־צוּרָתֹ֛ו וְאֶת־כָּל־חֻקֹּתָ֖יו וְעָשׂ֥וּ אֹותָֽם׃ (Ezek. 43:11)
+NIV	and if _they are ashamed_ of all they have done, make known to them the design of the temple — its arrangement, its exits and entrances — its whole design and all its regulations and laws. Write these down before them so that they may be faithful to its design and follow all its regulations.
+ESV	And if _they are ashamed_ of all that they have done, make known to them the design of the temple, its arrangement, its exits and its entrances, that is, its whole design. and make known to them as well all its statutes and its whole design and all its laws, and write it down in their sight, so that they may observe all its laws and all its statutes and carry them out.
+NBS	ils sont confus
+
+(x)	אֲנִי֙ יָדַ֣עְתִּי אֶפְרַ֔יִם וְיִשְׂרָאֵ֖ל לֹֽא־נִכְחַ֣ד מִמֶּ֑נִּי כִּ֤י עַתָּה֙ הִזְנֵ֣יתָ אֶפְרַ֔יִם _נִטְמָ֖א_ יִשְׂרָאֵֽל׃ (Hos. 5:3)
+NIV	I know all about Ephraim. Israel is not hidden from me. Ephraim, you have now turned to prostitution. Israel _is corrupt_.
+ESV	I know Ephraim, and Israel is not hidden from me. for now, O Ephraim, you have played the whore. Israel _is defiled_.
+NBS	s est rendu impur
+
+(x)	בְּבֵית֙ יִשְׂרָאֵ֔ל רָאִ֖יתִי שַׁעֲרֽוּרִיָּ֑ה שָׁ֚ם זְנ֣וּת לְאֶפְרַ֔יִם _נִטְמָ֖א_ יִשְׂרָאֵֽל׃ (Hos. 6:10)
+NIV	I have seen a horrible thing in the house of Israel. There Ephraim is given to prostitution and Israel _is defiled_.
+ESV	In the house of Israel I have seen a horrible thing. Ephraim’s whoredom is there. Israel _is defiled_.
+NBS	est rendu impur
+
+(x)	גַּם־יְהוּדָ֕ה _שָׁ֥ת_ קָצִ֖יר לָ֑ךְ בְּשׁוּבִ֖י שְׁב֥וּת עַמִּֽי׃ פ (Hos. 6:11)
+NIV	“Also for you, Judah, a harvest _is appointed_. “Whenever I would restore the fortunes of my people,
+ESV	For you also, O Judah, a harvest _is appointed_, when I restore the fortunes of my people.
+NBS	est préparée
+
+(x)	וַיֹּ֣אמֶר אֶפְרַ֔יִם אַ֣ךְ _עָשַׁ֔רְתִּי_ מָצָ֥אתִי אֹ֖ון לִ֑י כָּל־יְגִיעַ֕י לֹ֥א יִמְצְאוּ־לִ֖י עָוֹ֥ן אֲשֶׁר־חֵֽטְא׃ (Hos. 12:9)
+NIV	Ephraim boasts, “I am very rich. I have become wealthy. With all my wealth they will not find in me any iniquity or sin.”
+ESV	Ephraim has said, “Ah, but _I am rich_. I have found wealth for myself. in all my labors they cannot find in me iniquity or sin.”
+NBS	je suis devenu riche
+
+(x)	_הָכְרַ֥ת_ מִנְחָ֛ה וָנֶ֖סֶךְ מִבֵּ֣ית יְהוָ֑ה אָֽבְלוּ֙ הַכֹּ֣הֲנִ֔ים מְשָׁרְתֵ֖י יְהוָֽה׃ (Joel 1:9)
+NIV	Grain offerings and drink offerings _are cut off_ from the house of the LORD. The priests are in mourning, those who minister before the LORD.
+ESV	The grain offering and the drink offering _are cut off_ from the house of the Lord. The priests mourn, the ministers of the Lord.
+NBS	ont disparu
+
+(x)	_שֻׁדַּ֣ד_ שָׂדֶ֔ה אָבְלָ֖ה אֲדָמָ֑ה כִּ֚י _שֻׁדַּ֣ד_ דָּגָ֔ן הֹובִ֥ישׁ תִּירֹ֖ושׁ אֻמְלַ֥ל יִצְהָֽר׃ (Joel 1:10)
+NIV	The fields are ruined, the ground is dried up. the grain _is destroyed_, the new wine is dried up, the oil fails.
+ESV	The fields are destroyed, the ground mourns, because the grain _is destroyed_, the wine dries up, the oil languishes.
+NBS	sont ravagés
+
+(x)	שֻׁדַּ֣ד שָׂדֶ֔ה אָבְלָ֖ה אֲדָמָ֑ה כִּ֚י שֻׁדַּ֣ד דָּגָ֔ן _הֹובִ֥ישׁ_ תִּירֹ֖ושׁ אֻמְלַ֥ל יִצְהָֽר׃ (Joel 1:10)
+NIV	The fields are ruined, the ground _is dried up_. the grain is destroyed, the new wine _is dried up_, the oil fails.
+ESV	The fields are destroyed, the ground mourns, because the grain is destroyed, the wine _dries up_, the oil languishes.
+NBS	est épuisé
+
+(x)	הַגֶּ֣פֶן _הֹובִ֔ישָׁה_ וְהַתְּאֵנָ֖ה אֻמְלָ֑לָה רִמֹּ֞ון גַּם־תָּמָ֣ר וְתַפּ֗וּחַ כָּל־עֲצֵ֤י הַשָּׂדֶה֙ יָבֵ֔שׁוּ כִּֽי־הֹבִ֥ישׁ שָׂשֹׂ֖ון מִן־בְּנֵ֥י אָדָֽם׃ ס (Joel 1:12)
+NIV	The vine _is dried up_ and the fig-tree is withered. the pomegranate, the palm and the apple tree — all the trees of the field — are dried up. Surely the joy of mankind is withered away.
+ESV	The vine _dries up_. the fig tree languishes. Pomegranate, palm, and apple, all the trees of the field are dried up, and gladness _dries up_ from the children of man.
+NBS	est épuisée
+
+(x)	הַגֶּ֣פֶן הֹובִ֔ישָׁה וְהַתְּאֵנָ֖ה אֻמְלָ֑לָה רִמֹּ֞ון גַּם־תָּמָ֣ר וְתַפּ֗וּחַ כָּל־עֲצֵ֤י הַשָּׂדֶה֙ יָבֵ֔שׁוּ כִּֽי־_הֹבִ֥ישׁ_ שָׂשֹׂ֖ון מִן־בְּנֵ֥י אָדָֽם׃ ס (Joel 1:12)
+NIV	The vine is dried up and the fig-tree is withered. the pomegranate, the palm and the apple tree — all the trees of the field — are dried up. Surely the joy of mankind _is withered away_.
+ESV	The vine _dries up_. the fig tree languishes. Pomegranate, palm, and apple, all the trees of the field are dried up, and gladness _dries up_ from the children of man.
+NBS	est tarie
+
+(x)	עָבְשׁ֣וּ פְרֻדֹ֗ות תַּ֚חַת מֶגְרְפֹ֣תֵיהֶ֔ם _נָשַׁ֨מּוּ֙_ אֹֽצָרֹ֔ות נֶהֶרְס֖וּ מַמְּגֻרֹ֑ות כִּ֥י הֹבִ֖ישׁ דָּגָֽן׃ (Joel 1:17)
+NIV	The seeds are shrivelled beneath the clods. The storehouses _are in ruins_, the granaries have been broken down, for the grain has dried up.
+ESV	The seed shrivels under the clods. the storehouses _are desolate_. the granaries are torn down because the grain has dried up.
+NBS	sont dévastées
+
+(x)	שִׁלְח֣וּ מַגָּ֔ל כִּ֥י _בָשַׁ֖ל_ קָצִ֑יר בֹּ֤אֽוּ רְדוּ֙ כִּֽי־מָ֣לְאָה גַּ֔ת הֵשִׁ֨יקוּ֙ הַיְקָבִ֔ים כִּ֥י רַבָּ֖ה רָעָתָֽם׃ (Joel 4:13)
+NIV	Swing the sickle, for the harvest _is ripe_. Come, trample the grapes, for the winepress is full and the vats overflow — so great is their wickedness!”
+ESV	Put in the sickle, for the harvest _is ripe_. Go in, tread, for the winepress is full. The vats overflow, for their evil is great.
+NBS	est mûre
+
+(x)	וְהָיָ֤ה כָל־רֹאַ֨יִךְ֙ יִדֹּ֣וד מִמֵּ֔ךְ וְאָמַר֙ _שָׁדְּדָ֣ה_ נִֽינְוֵ֔ה מִ֖י יָנ֣וּד לָ֑הּ מֵאַ֛יִן אֲבַקֵּ֥שׁ מְנַחֲמִ֖ים לָֽךְ׃ (Nah. 3:7)
+NIV	All who see you will flee from you and say, ‘Nineveh _is in ruins_ — who will mourn for her?’ Where can I find anyone to comfort you?”
+ESV	And all who look at you will shrink from you and say, _Wasted is_ Nineveh. who will grieve for her? Where shall I seek comforters for you?
+NBS	est ravagée
+
+(x)	הִכְרַ֣תִּי גֹויִ֗ם _נָשַׁ֨מּוּ֙_ פִּנֹּותָ֔ם הֶחֱרַ֥בְתִּי חֽוּצֹותָ֖ם מִבְּלִ֣י עֹובֵ֑ר נִצְדּ֧וּ עָרֵיהֶ֛ם מִבְּלִי־אִ֖ישׁ מֵאֵ֥ין יֹושֵֽׁב׃ (Zeph. 3:6)
+NIV	“I have cut off nations. their strongholds _are demolished_. I have left their streets deserted, with no-one passing through. Their cities are destroyed. no-one will be left — no-one at all.
+ESV	“I have cut off nations. their battlements _are in ruins_. I have laid waste their streets so that no one walks in them. their cities have been made desolate, without a man, without an inhabitant.
+NBS	sont dévastées
+
+(x)	וַיֹּ֣אמֶר אֵלַ֗י הַמַּלְאָךְ֙ הַדֹּבֵ֣ר בִּ֔י קְרָ֣א לֵאמֹ֔ר כֹּ֥ה אָמַ֖ר יְהוָ֣ה צְבָאֹ֑ות _קִנֵּ֧אתִי_ לִירוּשָׁלִַ֛ם וּלְצִיֹּ֖ון קִנְאָ֥ה גְדֹולָֽה׃ (Zech. 1:14)
+NIV	Then the angel who was speaking to me said, “Proclaim this word: This is what the LORD Almighty says: ‘I am very jealous for Jerusalem and Zion,
+ESV	So the angel who talked with me said to me, ‘Cry out, Thus says the Lord of hosts: I am exceedingly jealous for Jerusalem and for Zion.
+NBS	Je suis pris d une grande passion d une passion jalouse
+
+(x)	וַיְהִ֥י כַאֲשֶׁר־קָרָ֖א וְלֹ֣א שָׁמֵ֑עוּ כֵּ֤ן יִקְרְאוּ֙ וְלֹ֣א אֶשְׁמָ֔ע _אָמַ֖ר_ יְהוָ֥ה צְבָאֹֽות׃ (Zech. 7:13)
+NIV	“‘When I called, they did not listen. so when they called, I would not listen,’ _says_ the LORD Almighty.
+ESV	“As I called, and they would not hear, so they called, and I would not hear,” _says_ the Lord of hosts,
+NBS	a dit
+
+(x)	קֹ֚ול יִֽלְלַ֣ת הָרֹעִ֔ים כִּ֥י _שֻׁדְּדָ֖ה_ אַדַּרְתָּ֑ם קֹ֚ול שַׁאֲגַ֣ת כְּפִירִ֔ים כִּ֥י שֻׁדַּ֖ד גְּאֹ֥ון הַיַּרְדֵּֽן׃ ס (Zech. 11:3)
+NIV	Listen to the wail of the shepherds: their rich pastures _are destroyed_! Listen to the roar of the lions. the lush thicket of the Jordan is ruined!
+ESV	The sound of the wail of the shepherds, for their glory _is ruined_! The sound of the roar of the lions, for the thicket of the Jordan _is ruined_!
+NBS	est ravagée
+
+(x)	קֹ֚ול יִֽלְלַ֣ת הָרֹעִ֔ים כִּ֥י שֻׁדְּדָ֖ה אַדַּרְתָּ֑ם קֹ֚ול שַׁאֲגַ֣ת כְּפִירִ֔ים כִּ֥י _שֻׁדַּ֖ד_ גְּאֹ֥ון הַיַּרְדֵּֽן׃ ס (Zech. 11:3)
+NIV	Listen to the wail of the shepherds: their rich pastures are destroyed! Listen to the roar of the lions. the lush thicket of the Jordan _is ruined_!
+ESV	The sound of the wail of the shepherds, for their glory _is ruined_! The sound of the roar of the lions, for the thicket of the Jordan _is ruined_!
+NBS	sont ravagés
+
+(x)	_עָֽשְׁשָׁ֣ה_ מִכַּ֣עַס עֵינִ֑י עָֽ֝תְקָ֗ה בְּכָל־צֹורְרָֽי׃ (Psa. 6:8)
+NIV	My eyes _grow weak_ with sorrow. they fail because of all my foes.
+ESV	My eye _wastes away_ because of grief. it grows weak because of all my foes.
+NBS	sont épuisés
+
+(x)	הֹושִׁ֣יעָה יְ֭הוָה כִּי־_גָמַ֣ר_ חָסִ֑יד כִּי־פַ֥סּוּ אֱ֝מוּנִ֗ים מִבְּנֵ֥י אָדָֽם׃ (Psa. 12:2)
+NIV	Help, LORD, for the godly _are no more_. the faithful have vanished from among men.
+ESV	Save, O Lord, for the godly one _is gone_. for the faithful have vanished from among the children of man.
+NBS	c en est fini
+
+(x)	לַמְנַצֵּ֗חַ לְדָ֫וִ֥ד אָ֘מַ֤ר נָבָ֣ל בְּ֭לִבֹּו אֵ֣ין אֱלֹהִ֑ים _הִֽשְׁחִ֗יתוּ_ הִֽתְעִ֥יבוּ עֲלִילָ֗ה אֵ֣ין עֹֽשֵׂה־טֹֽוב׃ (Psa. 14:1)
+NIV	The fool says in his heart, “There is no God.” _They are corrupt_, their deeds are vile. there is no one who does good.
+ESV	The fool says in his heart, “There is no God.” _They are corrupt_, they do abominable deeds, there is none who does good.
+NBS	Ils se sont pervertis
+
+(x)	לַמְנַצֵּ֗חַ לְדָ֫וִ֥ד אָ֘מַ֤ר נָבָ֣ל בְּ֭לִבֹּו אֵ֣ין אֱלֹהִ֑ים הִֽשְׁחִ֗יתוּ _הִֽתְעִ֥יבוּ_ עֲלִילָ֗ה אֵ֣ין עֹֽשֵׂה־טֹֽוב׃ (Psa. 14:1)
+NIV	The fool says in his heart, “There is no God.” They are corrupt, their deeds _are vile_. there is no one who does good.
+ESV	The fool says in his heart, “There is no God.” They are corrupt, _they do abominable deeds_, there is none who does good.
+NBS	ils se sont livrés à des abominables
+
+(x)	כִּי־_נָט֣וּ_ עָלֶ֣יךָ רָעָ֑ה חָֽשְׁב֥וּ מְ֝זִמָּ֗ה בַּל־יוּכָֽלוּ׃ (Psa. 21:12)
+NIV	Though _they plot_ evil against you and devise wicked schemes, they cannot succeed.
+ESV	Though _they plan_ evil against you, though they devise mischief, they will not succeed.
+NBS	Ils ont tramé
+
+(x)	גֹּ֣ל אֶל־יְהוָ֣ה יְפַלְּטֵ֑הוּ יַ֝צִּילֵ֗הוּ כִּ֘י _חָ֥פֵֽץ_ בֹּֽו׃ (Psa. 22:9)
+NIV	“He trusts in the LORD. let the Lord rescue him. Let him deliver him, since _he delights_ in him.”
+ESV	“He trusts in the Lord. let him deliver him. let him rescue him, for _he delights_ in him!”
+NBS	il a pris plaisir
+
+(x)	אֱֽלֹהַ֗י בְּךָ֣ _בָ֭טַחְתִּי_ אַל־אֵבֹ֑ושָׁה אַל־יַֽעַלְצ֖וּ אֹיְבַ֣י לִֽי׃ (Psa. 25:2)
+NIV	in you _I trust_, O my God. Do not let me be put to shame, nor let my enemies triumph over me.
+ESV	O my God, in you _I trust_. let me not be put to shame. let not my enemies exult over me.
+NBS	j ai mis confiance
+
+(x)	שָׂנֵ֗אתִי הַשֹּׁמְרִ֥ים הַבְלֵי־שָׁ֑וְא וַ֝אֲנִ֗י אֶל־יְהוָ֥ה _בָּטָֽחְתִּי_׃ (Psa. 31:7)
+NIV	I hate those who cling to worthless idols. I _trust_ in the LORD.
+ESV	I hate those who pay regard to worthless idols, but I _trust_ in the Lord.
+NBS	j ai mis confiance
+
+(x)	כִּ֤י כָל֪וּ בְיָגֹ֡ון חַיַּי֮ וּשְׁנֹותַ֪י בַּאֲנָ֫חָ֥ה כָּשַׁ֣ל בַּעֲוֹנִ֣י כֹחִ֑י וַעֲצָמַ֥י _עָשֵֽׁשׁוּ_׃ (Psa. 31:11)
+NIV	My life is consumed by anguish and my years by groaning. my strength fails because of my affliction, and my bones _grow weak_.
+ESV	For my life is spent with sorrow, and my years with sighing. my strength fails because of my iniquity, and my bones _waste away_.
+NBS	sont rongés
+
+(x)	וַאֲנִ֤י׀ עָלֶ֣יךָ _בָטַ֣חְתִּי_ יְהוָ֑ה אָ֝מַ֗רְתִּי אֱלֹהַ֥י אָֽתָּה׃ (Psa. 31:15)
+NIV	But I _trust_ in you, O LORD. I say, “You are my God.”
+ESV	But I _trust_ in you, O Lord. I say, “You are my God.”
+NBS	j ai mis confiance
+
+(x)	כִּי־בֹ֭ו יִשְׂמַ֣ח לִבֵּ֑נוּ כִּ֤י בְשֵׁ֖ם קָדְשֹׁ֣ו _בָטָֽחְנוּ_׃ (Psa. 33:21)
+NIV	In him our hearts rejoice, for _we trust_ in his holy name.
+ESV	For our heart is glad in him, because _we trust_ in his holy name.
+NBS	nous avons mis notre confiance
+
+(x)	וַֽיַּעְזְרֵ֥ם יְהוָ֗ה וַֽיְפַ֫לְּטֵ֥ם יְפַלְּטֵ֣ם מֵ֭רְשָׁעִים וְיֹושִׁיעֵ֑ם כִּי־_חָ֥סוּ_ בֹֽו׃ (Psa. 37:40)
+NIV	The LORD helps them and delivers them. he delivers them from the wicked and saves them, because _they take refuge_ in him.
+ESV	The Lord helps them and delivers them. he delivers them from the wicked and saves them, because _they take refuge_ in him.
+NBS	ils ont trouvé un abri
+
+(x)	_הִבְאִ֣ישׁוּ_ נָ֭מַקּוּ חַבּוּרֹתָ֑י מִ֝פְּנֵ֗י אִוַּלְתִּֽי׃ (Psa. 38:6)
+NIV	My wounds fester and _are loathsome_ because of my sinful folly.
+ESV	My wounds _stink_ and fester because of my foolishness,
+NBS	sont puantes
+
+(x)	בְּזֹ֣את יָ֭דַעְתִּי כִּֽי־_חָפַ֣צְתָּ_ בִּ֑י כִּ֤י לֹֽא־יָרִ֖יעַ אֹיְבִ֣י עָלָֽי׃ (Psa. 41:12)
+NIV	I know that _you are pleased_ with me, for my enemy does not triumph over me.
+ESV	By this I know that _you delight_ in me: my enemy will not shout in triumph over me.
+NBS	tu as pris plaisir
+
+(x)	כִּ֤י _שָׁ֣חָה_ לֶעָפָ֣ר נַפְשֵׁ֑נוּ דָּבְקָ֖ה לָאָ֣רֶץ בִּטְנֵֽנוּ׃ (Psa. 44:26)
+NIV	We _are brought down_ to the dust. our bodies cling to the ground.
+ESV	For our soul _is bowed down_ to the dust. our belly clings to the ground.
+NBS	sommes abattus
+
+(x)	_מָלַ֣ךְ_ אֱ֭לֹהִים עַל־גֹּויִ֑ם אֱ֝לֹהִ֗ים יָשַׁ֤ב׀ עַל־כִּסֵּ֬א קָדְשֹֽׁו׃ (Psa. 47:9)
+NIV	God _reigns_ over the nations. God is seated on his holy throne.
+ESV	God _reigns_ over the nations. God sits on his holy throne.
+NBS	est roi
+
+(x)	מָלַ֣ךְ אֱ֭לֹהִים עַל־גֹּויִ֑ם אֱ֝לֹהִ֗ים _יָשַׁ֤ב_׀ עַל־כִּסֵּ֬א קָדְשֹֽׁו׃ (Psa. 47:9)
+NIV	God reigns over the nations. God _is seated_ on his holy throne.
+ESV	God reigns over the nations. God _sits_ on his holy throne.
+NBS	est assis
+
+(x)	כַּצֹּ֤אן׀ לִֽשְׁאֹ֣ול _שַׁתּוּ֮_ מָ֤וֶת יִ֫רְעֵ֥ם וַיִּרְדּ֘וּ בָ֤ם יְשָׁרִ֨ים׀ לַבֹּ֗קֶר וְ֭צוּרָם לְבַלֹּ֥ות שְׁאֹ֗ול מִזְּבֻ֥ל לֹֽו׃ (Psa. 49:15)
+NIV	Like sheep _they are destined_ for the grave, and death will feed on them. The upright will rule over them in the morning. their forms will decay in the grave, far from their princely mansions.
+ESV	Like sheep _they are appointed_ for Sheol. death shall be their shepherd, and the upright shall rule over them in the morning. Their form shall be consumed in Sheol, with no place to dwell.
+NBS	ils sont mis
+
+(x)	וַאֲנִ֤י׀ כְּזַ֣יִת רַ֭עֲנָן בְּבֵ֣ית אֱלֹהִ֑ים _בָּטַ֥חְתִּי_ בְחֶֽסֶד־אֱ֝לֹהִ֗ים עֹולָ֥ם וָעֶֽד׃ (Psa. 52:10)
+NIV	But I am like an olive tree flourishing in the house of God. _I trust_ in God’s unfailing love forever and ever.
+ESV	But I am like a green olive tree in the house of God. _I trust_ in the steadfast love of God forever and ever.
+NBS	ai mis ma confiance
+
+(x)	אָ֘מַ֤ר נָבָ֣ל בְּ֭לִבֹּו אֵ֣ין אֱלֹהִ֑ים _הִֽ֝שְׁחִ֗יתוּ_ וְהִֽתְעִ֥יבוּ עָ֝֗וֶל אֵ֣ין עֹֽשֵׂה־טֹֽוב׃ (Psa. 53:2)
+NIV	The fool says in his heart, “There is no God.” _They are corrupt_, and their ways are vile. there is no one who does good.
+ESV	The Fool says in his heart, “There is no God.” _They are corrupt_, doing abominable iniquity. there is none who does good.
+NBS	Ils se sont pervertis
+
+(x)	_פָּ֘דָ֤ה_ בְשָׁלֹ֣ום נַ֭פְשִׁי מִקֲּרָב־לִ֑י כִּֽי־בְ֝רַבִּ֗ים הָי֥וּ עִמָּדִֽי׃ (Psa. 55:19)
+NIV	_He ransoms_ me unharmed from the battle waged against me, even though many oppose me.
+ESV	_He redeems_ my soul in safety from the battle that I wage, for many are arrayed against me.
+NBS	il a libéré
+
+(x)	בֵּאלֹהִים֮ אֲהַלֵּ֪ל דְּבָ֫רֹ֥ו בֵּאלֹהִ֣ים _בָּ֭טַחְתִּי_ לֹ֣א אִירָ֑א מַה־יַּעֲשֶׂ֖ה בָשָׂ֣ר לִֽי׃ (Psa. 56:5)
+NIV	In God, whose word I praise, in God _I trust_. I will not be afraid. What can mortal man do to me?
+ESV	In God, whose word I praise, in God _I trust_. I shall not be afraid. What can flesh do to me?
+NBS	ai mis ma confiance
+
+(x)	בֵּֽאלֹהִ֣ים _בָּ֭טַחְתִּי_ לֹ֣א אִירָ֑א מַה־יַּעֲשֶׂ֖ה אָדָ֣ם לִֽי׃ (Psa. 56:12)
+NIV	in God _I trust_. I will not be afraid. What can man do to me?
+ESV	in God _I trust_. I shall not be afraid. What can man do to me?
+NBS	j ai mis ma confiance
+
+(x)	כִּ֤י הִנֵּ֪ה _אָֽרְב֡וּ_ לְנַפְשִׁ֗י יָג֣וּרוּ עָלַ֣י עַזִ֑ים לֹא־פִשְׁעִ֖י וְלֹא־חַטָּאתִ֣י יְהוָֽה׃ (Psa. 59:4)
+NIV	See how _they lie in wait_ for me! Fierce men conspire against me for no offense or sin of mine, O LORD.
+ESV	For behold, _they lie in wait_ for my life. fierce men stir up strife against me. For no transgression or sin of mine, O Lord,
+NBS	ils ont tendu une embuscade
+
+(x)	וַאֲנִ֣י תָמִ֣יד עִמָּ֑ךְ _אָ֝חַ֗זְתָּ_ בְּיַד־יְמִינִֽי׃ (Psa. 73:23)
+NIV	Yet I am always with you. _you hold_ me by my right hand.
+ESV	Nevertheless, I am continually with you. _you hold_ my right hand.
+NBS	tu as saisi m
+
+(x)	זְכֹ֤ר עֲדָתְךָ֨׀ קָ֘נִ֤יתָ קֶּ֗דֶם גָּ֭אַלְתָּ שֵׁ֣בֶט נַחֲלָתֶ֑ךָ הַר־צִ֝יֹּ֗ון זֶ֤ה׀ _שָׁכַ֬נְתָּ_ בֹּֽו׃ (Psa. 74:2)
+NIV	Remember the people you purchased of old, the tribe of your inheritance, whom you redeemed — Mount Zion, where _you dwelt_.
+ESV	Remember your congregation, which you have purchased of old, which you have redeemed to be the tribe of your heritage! Remember Mount Zion, where _you have dwelt_.
+NBS	tu as fait ta demeure
+
+(x)	כִּֽי־_שָֽׂבְעָ֣ה_ בְרָעֹ֣ות נַפְשִׁ֑י וְחַיַּ֗י לִשְׁאֹ֥ול הִגִּֽיעוּ׃ (Psa. 88:4)
+NIV	For my soul _is full_ of trouble and my life draws near the grave.
+ESV	For my soul _is full_ of troubles, and my life draws near to Sheol.
+NBS	rassasié
+
+(x)	בַּמֵּתִ֗ים חָ֫פְשִׁ֥י כְּמֹ֤ו חֲלָלִ֨ים׀ שֹׁ֥כְבֵי קֶ֗בֶר אֲשֶׁ֤ר לֹ֣א זְכַרְתָּ֣ם עֹ֑וד וְ֝הֵ֗מָּה מִיָּדְךָ֥ _נִגְזָֽרוּ_׃ (Psa. 88:6)
+NIV	I am set apart with the dead, like the slain who lie in the grave, whom you remember no more, who _are cut off_ from your care.
+ESV	like one set loose among the dead, like the slain that lie in the grave, like those whom you remember no more, for they _are cut off_ from your hand.
+NBS	qui sont séparés
+
+(x)	כִּ֤י בִ֣י _חָ֭שַׁק_ וַאֲפַלְּטֵ֑הוּ אֲ֝שַׂגְּבֵ֗הוּ כִּֽי־יָדַ֥ע שְׁמִֽי׃ (Psa. 91:14)
+NIV	“Because _he loves_ me,” says the Lord, “I will rescue him. I will protect him, for he acknowledges my name.
+ESV	“Because he holds fast to me in love, I will deliver him. I will protect him, because he knows my name.
+NBS	il s est épris
+
+(x)	יְהוָ֣ה מָלָךְ֮ גֵּא֪וּת _לָ֫בֵ֥שׁ_ לָבֵ֣שׁ יְ֭הוָה עֹ֣ז הִתְאַזָּ֑ר אַף־תִּכֹּ֥ון תֵּ֝בֵ֗ל בַּל־תִּמֹּֽוט׃ (Psa. 93:1)
+NIV	The LORD reigns, _he is robed_ in majesty. the LORD is robed in majesty and is armed with strength. The world is firmly established. it cannot be moved.
+ESV	The Lord reigns. _he is robed_ in majesty. the lord is robed. he has put on strength as his belt. Yes the world is established. it shall never be moved.
+NBS	Il est revêtu
+
+(x)	גְּֽבוּל־_שַׂ֭מְתָּ_ בַּל־יַֽעֲבֹר֑וּן בַּל־יְ֝שׁוּב֗וּן לְכַסֹּ֥ות הָאָֽרֶץ׃ (Psa. 104:9)
+NIV	_You set_ a boundary they cannot cross. never again will they cover the earth.
+ESV	_You set_ a boundary that they may not pass, so that they might not again cover the earth.
+NBS	Tu as posé
+
+(x)	כִּי־_הִ֭שְׂבִּיעַ_ נֶ֣פֶשׁ שֹׁקֵקָ֑ה וְנֶ֥פֶשׁ רְ֝עֵבָה מִלֵּא־טֹֽוב׃ (Psa. 107:9)
+NIV	for _he satisfies_ the thirsty and fills the hungry with good things.
+ESV	For _he satisfies_ the longing soul, and the hungry soul he fills with good things.
+NBS	il a rassasié
+
+(x)	כִּי־הִ֭שְׂבִּיעַ נֶ֣פֶשׁ שֹׁקֵקָ֑ה וְנֶ֥פֶשׁ רְ֝עֵבָה _מִלֵּא_־טֹֽוב׃ (Psa. 107:9)
+NIV	for he satisfies the thirsty and fills the hungry with good things.
+ESV	For he satisfies the longing soul, and the hungry soul _he fills_ with good things.
+NBS	il a comblé
+
+(x)	כִּֽי־_שִׁ֭בַּר_ דַּלְתֹ֣ות נְחֹ֑שֶׁת וּבְרִיחֵ֖י בַרְזֶ֣ל גִּדֵּֽעַ׃ (Psa. 107:16)
+NIV	for _he breaks down_ gates of bronze and cuts through bars of iron.
+ESV	For _he shatters_ the doors of bronze and cuts in two the bars of iron.
+NBS	il a brisé
+
+(x)	כִּֽי־עָנִ֣י וְאֶבְיֹ֣ון אָנֹ֑כִי וְ֝לִבִּ֗י _חָלַ֥ל_ בְּקִרְבִּֽי׃ (Psa. 109:22)
+NIV	For I am poor and needy, and my heart _is wounded_ within me.
+ESV	For I am poor and needy, and my heart _is stricken_ within me.
+NBS	est blessé
+
+(x)	וַאֲנִ֤י׀ _הָיִ֣יתִי_ חֶרְפָּ֣ה לָהֶ֑ם יִ֝רְא֗וּנִי יְנִיע֥וּן רֹאשָֽׁם׃ (Psa. 109:25)
+NIV	I _am_ an object of scorn to my accusers. when they see me, they shake their heads.
+ESV	I _am_ an object of scorn to my accusers. when they see me, they wag their heads.
+NBS	exposé
+
+(x)	טֶ֭רֶף _נָתַ֣ן_ לִֽירֵאָ֑יו יִזְכֹּ֖ר לְעֹולָ֣ם בְּרִיתֹֽו׃ (Psa. 111:5)
+NIV	_He provides_ food for those who fear him. he remembers his covenant forever.
+ESV	_He provides_ food for those who fear him. he remembers his covenant forever.
+NBS	Il a donné
+
+(x)	_גָּרְסָ֣ה_ נַפְשִׁ֣י לְתַאֲבָ֑ה אֶֽל־מִשְׁפָּטֶ֥יךָ בְכָל־עֵֽת׃ (Psa. 119:20)
+NIV	My soul _is consumed_ with longing for your laws at all times.
+ESV	My soul _is consumed_ with longing for your rules at all times.
+NBS	suis rongé
+
+(x)	_דָּֽבְקָ֣ה_ לֶעָפָ֣ר נַפְשִׁ֑י חַ֝יֵּ֗נִי כִּדְבָרֶֽךָ׃ (Psa. 119:25)
+NIV	I _am laid low_ in the dust. preserve my life according to your word.
+ESV	[ Daleth ] My soul _clings_ to the dust. give me life according to your word!
+NBS	suis attaché
+
+(x)	ט֤וּב טַ֣עַם וָדַ֣עַת לַמְּדֵ֑נִי כִּ֖י בְמִצְוֹתֶ֣יךָ _הֶאֱמָֽנְתִּי_׃ (Psa. 119:66)
+NIV	Teach me knowledge and good judgment, for _I believe_ in your commands.
+ESV	Teach me good judgment and knowledge, for _I believe_ in your commandments.
+NBS	j ai mis ma foi
+
+(x)	_שִׂבַּ֣רְתִּי_ לִֽישׁוּעָתְךָ֣ יְהוָ֑ה וּֽמִצְוֹתֶ֥יךָ עָשִֽׂיתִי׃ (Psa. 119:166)
+NIV	_I wait_ for your salvation, O LORD, and I follow your commands.
+ESV	_I hope_ for your salvation, O Lord, and I do your commandments.
+NBS	J ai mis mon espoir
+
+(x)	לְ֭גֶבֶר אֲשֶׁר־דַּרְכֹּ֣ו _נִסְתָּ֑רָה_ וַיָּ֖סֶךְ אֱלֹ֣והַּ בַּעֲדֹֽו׃ (Job 3:23)
+NIV	Why is life given to a man whose way _is hidden_, whom God has hedged in?
+ESV	Why is light given to a man whose way _is hidden_, whom God has hedged in?
+NBS	est cachée
+
+(x)	הֲלֹא־_נִסַּ֣ע_ יִתְרָ֣ם בָּ֑ם יָ֝מ֗וּתוּ וְלֹ֣א בְחָכְמָֽה׃ (Job 4:21)
+NIV	Are not the cords of their tent pulled up, so that they die without wisdom?’
+ESV	Is not their tent-cord plucked up within them, do they not die, and that without wisdom?’
+NBS	est arrachée
+
+(x)	כִּֽי־אָ֭דָם לְעָמָ֣ל _יוּלָּ֑ד_ וּבְנֵי־רֶ֝֗שֶׁף יַגְבִּ֥יהוּ עֽוּף׃ (Job 5:7)
+NIV	Yet man _is born_ to trouble as surely as sparks fly upward.
+ESV	but man _is born_ to trouble as the sparks fly upward.
+NBS	est né
+
+(x)	אַ֭חַי _בָּגְד֣וּ_ כְמֹו־נָ֑חַל כַּאֲפִ֖יק נְחָלִ֣ים יַעֲבֹֽרוּ׃ (Job 6:15)
+NIV	But my brothers are as undependable as intermittent streams, as the streams that overflow
+ESV	My brothers _are treacherous_ as a torrent-bed, as torrential streams that pass away,
+NBS	ont trahi
+
+(x)	אֶ֤רֶץ׀ _נִתְּנָ֬ה_ בְֽיַד־רָשָׁ֗ע פְּנֵֽי־שֹׁפְטֶ֥יהָ יְכַסֶּ֑ה אִם־לֹ֖א אֵפֹ֣וא מִי־הֽוּא׃ (Job 9:24)
+NIV	When a land _falls_ into the hands of the wicked, he blindfolds its judges. If it is not he, then who is it?
+ESV	The earth _is given_ into the hand of the wicked. he covers the faces of its judges — if it is not he, who then is it?
+NBS	est livrée aux
+
+(x)	_נָֽקְטָ֥ה_ נַפְשִׁ֗י בְּחַ֫יָּ֥י אֶֽעֶזְבָ֣ה עָלַ֣י שִׂיחִ֑י אֲ֝דַבְּרָה֗ בְּמַ֣ר נַפְשִֽׁי׃ (Job 10:1)
+NIV	“I _loathe_ my very life. therefore I will give free rein to my complaint and speak out in the bitterness of my soul.
+ESV	“I _loathe_ my life. I will give free utterance to my complaint. I will speak in the bitterness of my soul.
+NBS	suis dégoûté
+
+(x)	כְּצִ֣יץ _יָ֭צָא_ וַיִּמָּ֑ל וַיִּבְרַ֥ח כַּ֝צֵּ֗ל וְלֹ֣א יַעֲמֹֽוד׃ (Job 14:2)
+NIV	_He springs up_ like a flower and withers away. like a fleeting shadow, he does not endure.
+ESV	_He comes out_ like a flower and withers. he flees like a shadow and continues not.
+NBS	Il a poussé
+
+(x)	פָּנַ֣י חֳ֭מַרְמְרוּ מִנִּי־בֶ֑כִי וְעַ֖ל עַפְעַפַּ֣י צַלְמָֽוֶת׃ (Job 16:16)
+NIV	My face _is red_ with weeping, deep shadows ring my eyes.
+ESV	My face _is red_ with weeping, and on my eyelids is deep darkness,
+NBS	est assombri
+
+(x)	יָמַ֣י עָ֭בְרוּ זִמֹּתַ֣י _נִתְּק֑וּ_ מֹ֖ורָשֵׁ֣י לְבָבִֽי׃ (Job 17:11)
+NIV	My days have passed, my plans _are shattered_, and so are the desires of my heart.
+ESV	My days are past. my plans _are broken off_, the desires of my heart.
+NBS	sont anéantis
+
+(x)	כִּ֤י מַה־חֶפְצֹ֣ו בְּבֵיתֹ֣ו אַחֲרָ֑יו וּמִסְפַּ֖ר חֳדָשָׁ֣יו _חֻצָּֽצוּ_׃ (Job 21:21)
+NIV	For what does he care about the family he leaves behind when his allotted months _come to an end_?
+ESV	For what do they care for their houses after them, when the number of their months _is cut off_?
+NBS	est mesuré
+
+(x)	_מָֽתְקוּ_־לֹ֗ו רִגְבֵ֫י נָ֥חַל וְ֭אַחֲרָיו כָּל־אָדָ֣ם יִמְשֹׁ֑וךְ וּ֝לְפָנָ֗יו אֵ֣ין מִסְפָּֽר׃ (Job 21:33)
+NIV	The soil in the valley _is sweet_ to him. all men follow after him, and a countless throng goes before him.
+ESV	The clods of the valley _are sweet_ to him. all mankind follows after him, and those who go before him are innumerable.
+NBS	sont douces
+
+(x)	הַאֹ֣רַח עֹולָ֣ם תִּשְׁמֹ֑ר אֲשֶׁ֖ר _דָּרְכ֣וּ_ מְתֵי־אָֽוֶן׃ (Job 22:15)
+NIV	Will you keep to the old path that evil men _have trod_?
+ESV	Will you keep to the old way that wicked men _have trod_?
+NBS	ont suivie celle
+
+(x)	כִּֽי־לֹ֣א נִ֭צְמַתִּי מִפְּנֵי־חֹ֑שֶׁךְ וּ֝מִפָּנַ֗י _כִּסָּה_־אֹֽפֶל׃ (Job 23:17)
+NIV	Yet I am not silenced by the darkness, by the thick darkness that _covers_ my face.
+ESV	yet I am not silenced because of the darkness, nor because thick darkness _covers_ my face.
+NBS	suis couvert
+
+(x)	_בָּנָ֣ה_ כָעָ֣שׁ בֵּיתֹ֑ו וּ֝כְסֻכָּ֗ה עָשָׂ֥ה נֹצֵֽר׃ (Job 27:18)
+NIV	The house _he builds_ is like a moth’s cocoon, like a hut made by a watchman.
+ESV	_He builds_ his house like a moth’s, like a booth that a watchman makes.
+NBS	Il a bâti
+
+(x)	פָּ֤רַץ נַ֨חַל׀ מֵֽעִם־גָּ֗ר הַֽנִּשְׁכָּחִ֥ים מִנִּי־רָ֑גֶל _דַּ֖לּוּ_ מֵאֱנֹ֣ושׁ נָֽעוּ׃ (Job 28:4)
+NIV	Far from where people dwell he cuts a shaft, in places forgotten by the foot of man. far from men _he dangles_ and sways.
+ESV	He opens shafts in a valley away from where anyone lives. they are forgotten by travelers. _they hang_ in the air, far away from mankind. they swing to and fro.
+NBS	ils sont suspendus
+
+(x)	_הָהְפַּ֥ךְ_ עָלַ֗י בַּלָּ֫הֹ֥ות תִּרְדֹּ֣ף כָּ֭רוּחַ נְדִבָתִ֑י וּ֝כְעָ֗ב עָבְרָ֥ה יְשֻׁעָתִֽי׃ (Job 30:15)
+NIV	Terrors _overwhelm_ me. my dignity is driven away as by the wind, my safety vanishes like a cloud.
+ESV	Terrors _are turned_ upon me. my honor is pursued as by the wind, and my prosperity has passed away like a cloud.
+NBS	est tournée
+
+(x)	_חַ֭תּוּ_ לֹא־עָ֣נוּ עֹ֑וד הֶעְתִּ֖יקוּ מֵהֶ֣ם מִלִּֽים׃ (Job 32:15)
+NIV	“_They are dismayed_ and have no more to say. words have failed them.
+ESV	“_They are dismayed_. they answer no more. they have not a word to say.
+NBS	Ils sont terrifiés
+
+(x)	אַשְׁרֵ֣י אָ֭דָם _מָצָ֣א_ חָכְמָ֑ה וְ֝אָדָ֗ם יָפִ֥יק תְּבוּנָֽה׃ (Prov. 3:13)
+NIV	Blessed is the man who _finds_ wisdom, the man who gains understanding,
+ESV	Blessed is the one who _finds_ wisdom, and the one who gets understanding,
+NBS	a trouvé
+
+(x)	כִּ֤י לֶ֣קַח טֹ֭וב _נָתַ֣תִּי_ לָכֶ֑ם תֹּֽ֝ורָתִ֗י אַֽל־תַּעֲזֹֽבוּ׃ (Prov. 4:2)
+NIV	_I give_ you sound learning, so do not forsake my teaching.
+ESV	for _I give_ you good precepts. do not forsake my teaching.
+NBS	je ai donné
+
+(x)	לֹא־יְאֻנֶּ֣ה לַצַּדִּ֣יק כָּל־אָ֑וֶן וּ֝רְשָׁעִ֗ים _מָ֣לְאוּ_ רָֽע׃ (Prov. 12:21)
+NIV	No harm befalls the righteous, but the wicked _have their fill_ of trouble.
+ESV	No ill befalls the righteous, but the wicked _are filled with_ trouble.
+NBS	sont comblés
+
+(x)	חַכְמֹ֣ות נָ֭שִׁים _בָּנְתָ֣ה_ בֵיתָ֑הּ וְ֝אִוֶּ֗לֶת בְּיָדֶ֥יהָ תֶהֶרְסֶֽנּוּ׃ (Prov. 14:1)
+NIV	The wise woman _builds_ her house, but with her own hands the foolish one tears hers down.
+ESV	The wisest of women _builds_ her house, but folly with her own hands tears it down.
+NBS	a bâti
+
+(x)	מָצָ֣א אִ֭שָּׁה _מָ֣צָא_ טֹ֑וב וַיָּ֥פֶק רָ֝צֹ֗ון מֵיְהוָֽה׃ (Prov. 18:22)
+NIV	He who _finds_ a wife _finds_ what is good and receives favour from the LORD.
+ESV	He who _finds_ a wife _finds_ a good thing and obtains favor from the Lord.
+NBS	a trouvé
+
+(x)	שְׁמַ֣ע לְ֭אָבִיךָ זֶ֣ה יְלָדֶ֑ךָ וְאַל־תָּ֝ב֗וּז כִּֽי־_זָקְנָ֥ה_ אִמֶּֽךָ׃ (Prov. 23:22)
+NIV	Listen to your father, who gave you life, and do not despise your mother when _she is old_.
+ESV	Listen to your father who gave you life, and do not despise your mother when _she is old_.
+NBS	elle est devenue vieille
+
+(x)	כִּֽי־הִנֵּ֥ה הַסְּתָ֖יו עָבָ֑ר הַגֶּ֕שֶׁם _חָלַ֖ף_ הָלַ֥ךְ לֹֽו׃ (Song 2:11)
+NIV	See! The winter is past. the rains _are over_ and gone.
+ESV	for behold, the winter is past. the rain _is over_ and gone.
+NBS	a cessé
+
+(x)	כִּֽי־בַהֶ֥בֶל _בָּ֖א_ וּבַחֹ֣שֶׁךְ יֵלֵ֑ךְ וּבַחֹ֖שֶׁךְ שְׁמֹ֥ו יְכֻסֶּֽה׃ (Eccl. 6:4)
+NIV	_It comes_ without meaning, it departs in darkness, and in darkness its name is shrouded.
+ESV	For _it comes_ in vanity and goes in darkness, and in darkness its name is covered.
+NBS	il est venu
+
+(x)	כִּ֧י הַֽחַיִּ֛ים יֹודְעִ֖ים שֶׁיָּמֻ֑תוּ וְהַמֵּתִ֞ים אֵינָ֧ם יֹודְעִ֣ים מְא֗וּמָה וְאֵֽין־עֹ֤וד לָהֶם֙ שָׂכָ֔ר כִּ֥י _נִשְׁכַּ֖ח_ זִכְרָֽם׃ (Eccl. 9:5)
+NIV	For the living know that they will die, but the dead know nothing. they have no further reward, and even the memory of them _is forgotten_.
+ESV	For the living know that they will die, but the dead know nothing, and they have no more reward, for the memory of them _is forgotten_.
+NBS	est oublié
+
+(x)	אִם־_קֵהָ֣ה_ הַבַּרְזֶ֗ל וְהוּא֙ לֹא־פָנִ֣ים קִלְקַ֔ל וַחֲיָלִ֖ים יְגַבֵּ֑ר וְיִתְרֹ֥ון הַכְשֵׁ֖ר חָכְמָֽה׃ (Eccl. 10:10)
+NIV	If the axe _is dull_ and its edge unsharpened, more strength is needed but skill will bring success.
+ESV	If the iron _is blunt_, and one does not sharpen the edge, he must use more strength, but wisdom helps one to succeed.
+NBS	est émoussé
+
+(x)	גָּֽלְתָ֨ה יְהוּדָ֤ה מֵעֹ֨נִי֙ וּמֵרֹ֣ב עֲבֹדָ֔ה הִ֚יא _יָשְׁבָ֣ה_ בַגֹּויִ֔ם לֹ֥א מָצְאָ֖ה מָנֹ֑וחַ כָּל־רֹדְפֶ֥יהָ הִשִּׂיג֖וּהָ בֵּ֥ין הַמְּצָרִֽים׃ ס (Lam. 1:3)
+NIV	After affliction and harsh labour, Judah has gone into exile. She _dwells_ among the nations. she finds no resting place. All who pursue her have overtaken her in the midst of her distress.
+ESV	Judah has gone into exile because of affliction and hard servitude. she _dwells_ now among the nations, but finds no resting place. her pursuers have all overtaken her in the midst of her distress.
+NBS	elle est assise
+
+(x)	כָּל־עַמָּ֤הּ נֶאֱנָחִים֙ מְבַקְּשִׁ֣ים לֶ֔חֶם _נָתְנ֧וּ_ מַחֲמַדֵּיהֶ֛ם בְּאֹ֖כֶל לְהָשִׁ֣יב נָ֑פֶשׁ רְאֵ֤ה יְהוָה֙ וְֽהַבִּ֔יטָה כִּ֥י הָיִ֖יתִי זֹולֵלָֽה׃ ס (Lam. 1:11)
+NIV	All her people groan as they search for bread. _they barter_ their treasures for food to keep themselves alive. “Look, O LORD, and consider, for I am despised.”
+ESV	All her people groan as they search for bread. _they trade_ their treasures for food to revive their strength. “Look, O Lord, and see, for I am despised.”
+NBS	ils ont donné
+
+(x)	_פֵּֽרְשָׂ֨ה_ צִיֹּ֜ון בְּיָדֶ֗יהָ אֵ֤ין מְנַחֵם֙ לָ֔הּ צִוָּ֧ה יְהוָ֛ה לְיַעֲקֹ֖ב סְבִיבָ֣יו צָרָ֑יו הָיְתָ֧ה יְרוּשָׁלִַ֛ם לְנִדָּ֖ה בֵּינֵיהֶֽם׃ ס (Lam. 1:17)
+NIV	Zion _stretches out_ her hands, but there is no-one to comfort her. The LORD has decreed for Jacob that his neighbours become his foes. Jerusalem has become an unclean thing among them.
+ESV	Zion _stretches out_ her hands, but there is none to comfort her. the Lord has commanded against Jacob that his neighbors should be his foes. Jerusalem has become a filthy thing among them.
+NBS	a tendu
+
+(x)	רְאֵ֨ה יְהוָ֤ה כִּֽי־צַר־לִי֙ מֵעַ֣י חֳמַרְמָ֔רוּ _נֶהְפַּ֤ךְ_ לִבִּי֙ בְּקִרְבִּ֔י כִּ֥י מָרֹ֖ו מָרִ֑יתִי מִח֥וּץ שִׁכְּלָה־חֶ֖רֶב בַּבַּ֥יִת כַּמָּֽוֶת׃ ס (Lam. 1:20)
+NIV	“See, O LORD, how distressed I am! I am in torment within, and in my heart I _am disturbed_, for I have been most rebellious. Outside, the sword bereaves. inside, there is only death.
+ESV	“Look, O Lord, for I am in distress. my stomach churns. my heart _is wrung_ within me, because I have been very rebellious. In the street the sword bereaves. in the house it is like death.
+NBS	est bouleversé
+
+(x)	שָׁמְע֞וּ כִּ֧י נֶאֱנָחָ֣ה אָ֗נִי אֵ֤ין מְנַחֵם֙ לִ֔י כָּל־אֹ֨יְבַ֜י שָׁמְע֤וּ רָֽעָתִי֙ _שָׂ֔שׂוּ_ כִּ֥י אַתָּ֖ה עָשִׂ֑יתָ הֵבֵ֥אתָ יֹום־קָרָ֖אתָ וְיִֽהְי֥וּ כָמֹֽונִי׃ ס (Lam. 1:21)
+NIV	“People have heard my groaning, but there is no-one to comfort me. All my enemies have heard of my distress. _they rejoice_ at what you have done. May you bring the day you have announced so that they may become like me.
+ESV	“They heard my groaning, yet there is no one to comfort me. All my enemies have heard of my trouble. _they are glad_ that you have done it. You have brought the day you announced. now let them be as I am.
+NBS	ils se sont égayés
+
+(x)	_חָשַׁ֤ךְ_ מִשְּׁחֹור֙ תָּֽאֳרָ֔ם לֹ֥א נִכְּר֖וּ בַּחוּצֹ֑ות צָפַ֤ד עֹורָם֙ עַל־עַצְמָ֔ם יָבֵ֖שׁ הָיָ֥ה כָעֵֽץ׃ ס (Lam. 4:8)
+NIV	But now _they are blacker_ than soot. they are not recognised in the streets. Their skin has shrivelled on their bones. it has become as dry as a stick.
+ESV	Now their face _is blacker_ than soot. they are not recognized in the streets. their skin has shriveled on their bones. it has become as dry as wood.
+NBS	est devenu sombre
+
+(x)	עַ֤ל צַוָּארֵ֨נוּ֙ נִרְדָּ֔פְנוּ _יָגַ֖עְנוּ_ וְלֹ֥א הֽוּנַֽח־לָֽנוּ׃ (Lam. 5:5)
+NIV	Those who pursue us are at our heels. _we are weary_ and find no rest.
+ESV	Our pursuers are at our necks. _we are weary_. we are given no rest.
+NBS	nous sommes fatigués
+
+(x)	עֹורֵ֨נוּ֙ כְּתַנּ֣וּר _נִכְמָ֔רוּ_ מִפְּנֵ֖י זַלְעֲפֹ֥ות רָעָֽב׃ (Lam. 5:10)
+NIV	Our skin _is hot_ as an oven, feverish from hunger.
+ESV	Our skin _is hot_ as an oven with the burning heat of famine.
+NBS	est calcinée
+
+(x)	בַּחוּרִים֙ טְחֹ֣ון _נָשָׂ֔אוּ_ וּנְעָרִ֖ים בָּעֵ֥ץ כָּשָֽׁלוּ׃ (Lam. 5:13)
+NIV	Young men _toil_ at the millstones. boys stagger under loads of wood.
+ESV	Young men _are compelled_ to grind at the mill, and boys stagger under loads of wood.
+NBS	ont porté
+
+(x)	וַיֹּ֣אמֶר אֵלַי֮ אַל־תִּירָ֣א דָנִיֵּאל֒ כִּ֣י׀ מִן־הַיֹּ֣ום הָרִאשֹׁ֗ון אֲשֶׁ֨ר _נָתַ֧תָּ_ אֶֽת־לִבְּךָ֛ לְהָבִ֧ין וּלְהִתְעַנֹּ֛ות לִפְנֵ֥י אֱלֹהֶ֖יךָ נִשְׁמְע֣וּ דְבָרֶ֑יךָ וַאֲנִי־בָ֖אתִי בִּדְבָרֶֽיךָ׃ (Dan. 10:12)
+NIV	Then he continued, “Do not be afraid, Daniel. Since the first day that _you set_ your mind to gain understanding and to humble yourself before your God, your words were heard, and I have come in response to them.
+ESV	Then he said to me, “Fear not, Daniel, for from the first day that _you set_ your heart to understand and humbled yourself before your God, your words have been heard, and I have come because of your words.
+NBS	tu as décidé
+
+(x)	וַיַּ֨עַל דָּוִ֤יד וְכָל־יִשְׂרָאֵל֙ בַּעֲלָ֔תָה אֶל־קִרְיַ֥ת יְעָרִ֖ים אֲשֶׁ֣ר לִיהוּדָ֑ה לְהַעֲלֹ֣ות מִשָּׁ֗ם אֵת֩ אֲרֹ֨ון הָאֱלֹהִ֧ים׀ יְהוָ֛ה יֹושֵׁ֥ב הַכְּרוּבִ֖ים אֲשֶׁר־_נִקְרָ֥א_ שֵֽׁם׃ (I Chr. 13:6)
+NIV	David and all the Israelites with him went to Baalah of Judah ( Kiriath Jearim ) to bring up from there the ark of God the LORD, who is enthroned between the cherubim — the ark that _is called_ by the Name.
+ESV	And David and all Israel went up to Baalah, that is, to Kiriath-jearim that belongs to Judah, to bring up from there the ark of God, which _is called_ by the name of the Lord who sits enthroned above the cherubim.
+NBS	est invoqué
+
+(x)	מַה־יֹּוסִ֨יף עֹ֥וד דָּוִ֛יד אֵלֶ֖יךָ לְכָבֹ֣וד אֶת־עַבְדֶּ֑ךָ וְאַתָּ֖ה אֶֽת־עַבְדְּךָ֥ _יָדָֽעְתָּ_׃ (I Chr. 17:18)
+NIV	“What more can David say to you for honouring your servant? For you _know_ your servant,
+ESV	And what more can David say to you for honoring your servant? For you _know_ your servant.
+NBS	as distingué qui
+
+(x)	וַיֹּאמְרוּ֩ שָׂרֵ֨י בְנֵי־עַמֹּ֜ון לְחָנ֗וּן הַֽמְכַבֵּ֨ד דָּוִ֤יד אֶת־אָבִ֨יךָ֙ בְּעֵינֶ֔יךָ כִּֽי־שָׁלַ֥ח לְךָ֖ מְנַחֲמִ֑ים הֲלֹ֡א בַּ֠עֲבוּר לַחְקֹ֨ר וְלַהֲפֹ֤ךְ וּלְרַגֵּל֙ הָאָ֔רֶץ _בָּ֥אוּ_ עֲבָדָ֖יו אֵלֶֽיךָ׃ פ (I Chr. 19:3)
+NIV	the Ammonite nobles said to Hanun, “Do you think David is honouring your father by sending men to you to express sympathy? Haven’t his men _come_ to you to explore and spy out the country and overthrow it?”
+ESV	But the princes of the Ammonites said to Hanun, “Do you think, because David has sent comforters to you, that he is honoring your father? Have not his servants come to you to search and to overthrow and to spy out the land?”
+NBS	sont venus
+
+(x)	וְיִכָּנְע֨וּ עַמִּ֜י אֲשֶׁ֧ר _נִֽקְרָא_־שְׁמִ֣י עֲלֵיהֶ֗ם וְיִֽתְפַּֽלְלוּ֙ וִֽיבַקְשׁ֣וּ פָנַ֔י וְיָשֻׁ֖בוּ מִדַּרְכֵיהֶ֣ם הָרָעִ֑ים וַאֲנִי֙ אֶשְׁמַ֣ע מִן־הַשָּׁמַ֔יִם וְאֶסְלַח֙ לְחַטָּאתָ֔ם וְאֶרְפָּ֖א אֶת־אַרְצָֽם׃ (II Chr. 7:14)
+NIV	if my people, who _are called_ by my name, will humble themselves and pray and seek my face and turn from their wicked ways, then will I hear from heaven and will forgive their sin and will heal their land.
+ESV	if my people who _are called_ by my name humble themselves, and pray and seek my face and turn from their wicked ways, then I will hear from heaven and will forgive their sin and heal their land.
+NBS	est invoqué
+
+(x)	אֲבָ֕ל דְּבָרִ֥ים טֹובִ֖ים _נִמְצְא֣וּ_ עִמָּ֑ךְ כִּֽי־בִעַ֤רְתָּ הָאֲשֵׁרֹות֙ מִן־הָאָ֔רֶץ וַהֲכִינֹ֥ותָ לְבָבְךָ֖ לִדְרֹ֥שׁ הָֽאֱלֹהִֽים׃ (II Chr. 19:3)
+NIV	_There is_, however, some good in you, for you have rid the land of the Asherah poles and have set your heart on seeking God.”
+ESV	Nevertheless, some good _is found_ in you, for you destroyed the Asherahs out of the land, and have set your heart to seek God.”
+NBS	il s est trouvé
+
+(x)	כָּל־לְבָבֹ֣ו _הֵכִ֔ין_ לִדְרֹ֛ושׁ הָאֱלֹהִ֥ים׀ יְהוָ֖ה אֱלֹהֵ֣י אֲבֹותָ֑יו וְלֹ֖א כְּטָהֳרַ֥ת הַקֹּֽדֶשׁ׃ ס (II Chr. 30:19)
+NIV	who _sets_ his heart on seeking God — the LORD, the God of his fathers — even if he is not clean according to the rules of the sanctuary.”
+ESV	who _sets_ his heart to seek God, the Lord, the God of his fathers, even though not according to the sanctuary’s rules of cleanness.”
+NBS	qui ont appliqué
+
+(x)	לְכוּ֩ דִרְשׁ֨וּ אֶת־יְהוָ֜ה בַּעֲדִ֗י וּבְעַד֙ הַנִּשְׁאָר֙ בְּיִשְׂרָאֵ֣ל וּבִֽיהוּדָ֔ה עַל־דִּבְרֵ֥י הַסֵּ֖פֶר אֲשֶׁ֣ר נִמְצָ֑א כִּֽי־גְדֹולָ֤ה חֲמַת־יְהוָה֙ אֲשֶׁ֣ר _נִתְּכָ֣ה_ בָ֔נוּ עַל֩ אֲשֶׁ֨ר לֹא־שָׁמְר֤וּ אֲבֹותֵ֨ינוּ֙ אֶת־דְּבַ֣ר יְהוָ֔ה לַעֲשֹׂ֕ות כְּכָל־הַכָּת֖וּב עַל־הַסֵּ֥פֶר הַזֶּֽה׃ פ (II Chr. 34:21)
+NIV	“Go and enquire of the LORD for me and for the remnant in Israel and Judah about what is written in this book that has been found. Great is the LORD’s anger that _is poured out_ on us because our fathers have not kept the word of the LORD. they have not acted in accordance with all that is written in this book.”
+ESV	“Go, inquire of the Lord for me and for those who are left in Israel and in Judah, concerning the words of the book that has been found. For great is the wrath of the Lord that _is poured out_ on us, because our fathers have not kept the word of the Lord, to do according to all that is written in this book.”
+NBS	est répandue s

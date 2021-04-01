@@ -1,0 +1,78 @@
+eng_TAMsimp,imparfait,passé_comp,passé_simp
+PAST,124,49,54
+PRES,26,103,23
+FUT,18,13,0
+FUT ~ MOD shall,11,14,4
+MOD would,27,0,0
+PAST ~ PRES,17,8,1
+MOD would ~ PAST,20,0,1
+PRES PERF,1,15,0
+MOD could,14,0,1
+PAST ~ PRES PART,9,3,3
+FUT ~ PRES,4,7,2
+PAST ~ PRES PERF,6,7,0
+MOD should,11,0,0
+HAB used to ~ PAST,9,0,1
+PRES ~ PRES PERF,1,7,1
+FUT ~ MOD would,7,0,1
+IMPV ~ MOD shall,7,0,0
+MOD may,7,0,0
+MOD should ~ MOD was to,6,0,0
+PRES ~ TO INF,0,0,6
+FUT ~ MOD may,3,2,1
+PAST ~ PAST PROG,3,2,1
+MOD was to ~ PAST,4,0,1
+IMPV ~ PRES,1,4,0
+MOD can,5,0,0
+MOD may ~ PRES,3,2,0
+PRES PART,3,0,1
+MOD shall,4,0,0
+IMPV,3,0,0
+MOD lest ~ PRES,3,0,0
+HAB used to,1,0,2
+PAST PROG,3,0,0
+MOD was to,3,0,0
+MOD let ~ PRES,2,1,0
+MOD can ~ PAST,0,2,0
+MOD is to ~ MOD shall,0,1,1
+FUT ~ PAST,0,1,1
+MOD can ~ MOD could,2,0,0
+MOD might ~ PAST,0,2,0
+?VB ~ PAST,2,0,0
+MOD should ~ PAST,2,0,0
+PAST ~ TO INF,2,0,0
+MOD should ~ MOD would,2,0,0
+MOD shall ~ PRES,1,1,0
+PAST PERF,1,1,0
+PAST ~ PAST PERF,1,1,0
+PAST PERF ~ PRES,0,2,0
+PRES ~ PRES PART,1,1,0
+MOD should ~ PRES,2,0,0
+PRES PART ~ TO INF,0,0,1
+PAST PROG ~ PRES PART,1,0,0
+FUT ~ PRES PERF,0,1,0
+MOD VB ~ MOD may,1,0,0
+HAB used to ~ MOD would,1,0,0
+MOD would ~ PRES PART,1,0,0
+FUT ~ MOD lest,1,0,0
+MOD would ~ PRES,1,0,0
+PRES ~ PRES PROG,0,1,0
+MOD should ~ TO INF,1,0,0
+JJ ~ PRES,0,1,0
+MOD might ~ MOD would,1,0,0
+MOD may ~ PAST,0,1,0
+MOD can ~ MOD shall,1,0,0
+MOD can ~ PRES,0,1,0
+MOD could ~ MOD might,1,0,0
+MOD could ~ MOD would,1,0,0
+MOD could ~ PAST,1,0,0
+MOD could ~ PRES PERF,1,0,0
+MOD could ~ TO INF,1,0,0
+MOD shall ~ PAST,1,0,0
+MOD lest,1,0,0
+MOD lest ~ MOD would,1,0,0
+MOD shall ~ MOD should,1,0,0
+MOD let ~ PAST,1,0,0
+MOD must,0,1,0
+MOD might ~ PRES PERF,0,1,0
+TO INF,0,1,0

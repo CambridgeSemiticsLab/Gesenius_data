@@ -1,10 +1,101 @@
 eng_TAMsimp == "MOD let" and prec_part == "Ø" 
-8 of 8
-will let go (ESV, NIV | BHS אָנֹכִ֞י אֲשַׁלַּ֤ח אֶתְכֶם֙ , Exod. 8:24)
-let come, let speak (ESV, NIV | BHS יֵצֵ֥א עָתָ֖ק מִפִּיכֶ֑ם , I Sam. 2:3)
-let him speed, let him hasten (ESV, NIV | BHS יָחִ֛ישָׁה מַעֲשֵׂ֖הוּ , Isa. 5:19)
-let them see (ESV, NIV | BHS יֶחֱז֤וּ , Isa. 26:11)
-let hear (ESV, NIV | BHS תַּ֭שְׁמִיעֵנִי שָׂשֹׂ֣ון וְשִׂמְחָ֑ה , Psa. 51:10)
-let rejoice (ESV, NIV | BHS תָּ֝גֵ֗לְנָה עֲצָמֹ֥ות , Psa. 51:10)
-will let look, will let gloat (ESV, NIV | BHS אֱ֝לֹהִ֗ים יַרְאֵ֥נִי בְשֹׁרְרָֽי׃ , Psa. 59:11)
-let them drink (ESV, NIV | BHS יִ֭שְׁתֶּה , Prov. 31:7)
+25 of 200
+(x)	_יִקָּו֨וּ_ הַמַּ֜יִם מִתַּ֤חַת הַשָּׁמַ֨יִם֙ אֶל־מָקֹ֣ום אֶחָ֔ד (Gen. 1:9)
+NIV	And God said, “Let the water under the sky be gathered to one place, and let dry ground appear.” And it was so.
+ESV	And God said, “Let the waters under the heavens be gathered together into one place, and let the dry land appear.” And it was so.
+
+(x)	_נִקְרָ֣א_ לַֽנַּעֲרָ֑ (Gen. 24:57)
+NIV	Then they said, “_Let’s call_ the girl and ask her about it.”
+ESV	They said, “_Let us call_ the young woman and ask her.”
+
+(x)	_יֵֽשְׁבוּ_־נָ֥א עֲבָדֶ֖יךָ בְּאֶ֥רֶץ גֹּֽשֶׁן׃ (Gen. 47:4)
+NIV	They also said to him, “We have come to live here awhile, because the famine is severe in Canaan and your servants’ flocks have no pasture. So now, please let your servants settle in Goshen.”
+ESV	They said to Pharaoh, “We have come to sojourn in the land, for there is no pasture for your servants’ flocks, for the famine is severe in the land of Canaan. And now, please let your servants dwell in the land of Goshen.”
+
+(x)	_יֻתַּ֞ן_ אֶת־הָאָ֧רֶץ הַזֹּ֛את לַעֲבָדֶ֖יךָ לַאֲחֻזָּ֑ה (Num. 32:5)
+NIV	If we have found favor in your eyes,” they said, “let this land be given to your servants as our possession. Do not make us cross the Jordan.”
+ESV	And they said, “If we have found favor in your sight, let this land be given to your servants for a possession. Do not take us across the Jordan.”
+
+(x)	_תֵּ֤צֵא_ אֵשׁ֙ מֵאֲבִימֶ֔לֶךְ (Judg. 9:20)
+NIV	But if you have not, let fire come out from Abimelech and consume you, citizens of Shechem and Beth Millo, and let fire come out from you, citizens of Shechem and Beth Millo, and consume Abimelech!”
+ESV	But if not, let fire come out from Abimelech and devour the leaders of Shechem and Beth-millo. and let fire come out from the leaders of Shechem and from Beth-millo and devour Abimelech.”
+
+(x)	_יֵֽצֵא_־נָ֞א אָבִ֤י וְאִמִּי֙ אִתְּכֶ֔ם עַ֚ד אֲשֶׁ֣ר אֵדַ֔ע מַה־יַּֽעֲשֶׂה־לִּ֖י אֱלֹהִֽים׃ (I Sam. 22:3)
+NIV	From there David went to Mizpah in Moab and said to the king of Moab, “Would you let my father and mother come and stay with you until I learn what God will do for me?”
+ESV	And David went from there to Mizpeh of Moab. And he said to the king of Moab, “Please let my father and my mother stay with you, till I know what God will do for me.”
+
+(x)	_יְדַבֶּר_־נָ֖א אֲדֹנִ֥י הַמֶּֽלֶךְ׃ (II Sam. 14:18)
+NIV	Then the king said to the woman, “Do not keep from me the answer to what I am going to ask you.” “Let my lord the king speak,” the woman said.
+ESV	Then the king answered the woman, “Do not hide from me anything I ask you.” And the woman said, “Let my lord the king speak.”
+
+(x)	_יֵלְכ֧וּ_ עֲבָדַ֛י עִם־עֲבָדֶ֖יךָ בָּאֳנִיֹּ֑ות (I Kgs. 22:50)
+NIV	At that time Ahaziah son of Ahab said to Jehoshaphat, “Let my men sail with your men,” but Jehoshaphat refused.
+ESV	Then Ahaziah the son of Ahab said to Jehoshaphat, “Let my servants go with your servants in the ships,” but Jehoshaphat was not willing.
+
+(x)	_יָג֤וּרוּ_ בָךְ֙ נִדָּחַ֔י מֹואָ֛ב (Isa. 16:4)
+NIV	Let the Moabite fugitives stay with you. be their shelter from the destroyer.” The oppressor will come to an end, and destruction will cease. the aggressor will vanish from the land.
+ESV	let the outcasts of Moab sojourn among you. be a shelter to them from the destroyer. When the oppressor is no more, and destruction has ceased, and he who tramples under foot has vanished from the land,
+
+(x)	_יָרֹ֨נּוּ֙_ יֹ֣שְׁבֵי סֶ֔לַע (Isa. 42:11)
+NIV	Let the desert and its towns raise their voices. let the settlements where Kedar lives rejoice. Let the people of Sela sing for joy. let them shout from the mountaintops.
+ESV	Let the desert and its cities lift up their voice, the villages that Kedar inhabits. let the habitants of Sela sing for joy, let them shout from the top of the mountains.
+
+(x)	_יִגַּ֥שׁ_ אֵלָֽי׃ (Isa. 50:8)
+NIV	He who vindicates me is near. Who then will bring charges against me? Let us face each other! Who is my accuser? _Let him confront_ me!
+ESV	He who vindicates me is near. Who will contend with me? Let us stand up together. Who is my adversary? _Let him come near_ to me.
+
+(x)	_יֵבֹ֤שׁוּ_ רֹדְפַי֙ (Jer. 17:18)
+NIV	Let my persecutors be put to shame, but keep me from shame. let them be terrified, but keep me from terror. Bring on them the day of disaster. destroy them with double destruction.
+ESV	_Let those be put to shame_ who persecute me, but let me not be put to shame. let them be dismayed, but let me not be dismayed. bring upon them the day of disaster. destroy them with double destruction!
+
+(x)	_יֵצֵ֤א_ חָתָן֙ מֵֽחֶדְרֹ֔ו וְכַלָּ֖ה מֵחֻפָּתָֽהּ׃ (Joel 2:16)
+NIV	Gather the people, consecrate the assembly. bring together the elders, gather the children, those nursing at the breast. Let the bridegroom leave his room and the bride her chamber.
+ESV	gather the people. Consecrate the congregation. assemble the elders. gather the children, even nursing infants. Let the bridegroom leave his room, and the bride her chamber.
+
+(x)	_תֶּחֱזַ֥קְנָה_ יְדֵיכֶֽם׃ ס (Zech. 8:13)
+NIV	As you have been an object of cursing among the nations, O Judah and Israel, so will I save you, and you will be a blessing. Do not be afraid, but let your hands be strong.”
+ESV	And as you have been a byword of cursing among the nations, O house of Judah and house of Israel, so will I save you, and you shall be a blessing. Fear not, but let your hands be strong.”
+
+(x)	_יִדְּמ֥וּ_ לִשְׁאֹֽול׃ (Psa. 31:18)
+NIV	Let me not be put to shame, O LORD, for I have cried out to you. but let the wicked be put to shame and _lie silent_ in the grave.
+ESV	O Lord, let me not be put to shame, for I call upon you. let the wicked be put to shame. _let them go silently_ to Sheol.
+
+(x)	יַשִּׁ֤י מָ֨וֶת ׀ עָלֵ֗ימֹו (Psa. 55:16)
+NIV	Let death take my enemies by surprise. let them go down alive to the grave, or evil finds lodging among them.
+ESV	Let death steal over them. let them go down to Sheol alive. for evil is in their dwelling place and in their heart.
+
+(x)	_יַעֲלֹ֣ז_ שָׂ֭דַי וְכָל־אֲשֶׁר־בֹּ֑ו (Psa. 96:12)
+NIV	let the fields be jubilant, and everything in them. Then all the trees of the forest will sing for joy.
+ESV	let the field exult, and everything in it! Then shall all the trees of the forest sing for joy
+
+(x)	_יֹ֭אמְרוּ_ גְּאוּלֵ֣י יְהוָ֑ה אֲשֶׁ֥ר גְּ֝אָלָ֗ם מִיַּד־צָֽר׃ וּֽמֵאֲרָצֹ֗ות קִ֫בְּצָ֥ם מִמִּזְרָ֥ח וּמִֽמַּעֲרָ֑ב מִצָּפֹ֥ון וּמִיָּֽם׃ (Psa. 107:2)
+NIV	Let the redeemed of the LORD say this — those he redeemed from the hand of the foe,
+ESV	Let the redeemed of the Lord say so, whom he has redeemed from trouble
+
+(x)	_יְבֹא֣וּנִי_ רַחֲמֶ֣יךָ (Psa. 119:77)
+NIV	Let your compassion come to me that I may live, for your law is my delight.
+ESV	Let your mercy come to me, that I may live. for your law is my delight.
+
+(x)	_יְהַלְל֤וּ_׀ אֶת־שֵׁ֬ם יְהוָ֗ה (Psa. 148:13)
+NIV	_Let them praise_ the name of the LORD, for his name alone is exalted. his splendor is above the earth and the heavens.
+ESV	_Let them praise_ the name of the Lord, for his name alone is exalted. his majesty is above earth and heaven.
+
+(x)	_יִשְׁקְלֵ֥נִי_ בְמֹאזְנֵי־צֶ֑דֶק וְיֵדַ֥ע אֱ֝לֹ֗והַּ תֻּמָּתִֽי׃ (Job 31:6)
+NIV	_let God weigh_ me in honest scales and he will know that I am blameless —
+ESV	( Let me be weighed in a just balance, and let God know my integrity! )
+
+(x)	_יִגְאָ֔ל_ (Ruth 3:13)
+NIV	Stay here for the night, and in the morning if he wants to redeem, good. _let him redeem_. But if he is not willing, as surely as the LORD lives I will do it. Lie here until morning.”
+ESV	Remain tonight, and in the morning, if he will redeem you, good. _let him do_ it. But if he is not willing to redeem you, then, as the Lord lives, I will redeem you. Lie down until the morning.”
+
+(x)	_נִשָּׂ֤א_ לְבָבֵ֨נוּ֙ אֶל־כַּפָּ֔יִם אֶל־אֵ֖ל בַּשָּׁמָֽיִם׃ (Lam. 3:41)
+NIV	_Let us lift up_ our hearts and our hands to God in heaven, and say:
+ESV	_Let us lift up_ our hearts and hands to God in heaven:
+
+(x)	_יַֽעֲמְדוּ_־נָ֣א שָׂ֠רֵינוּ לְֽכָל־הַקָּהָ֞ל (Ezra 10:14)
+NIV	Let our officials act for the whole assembly. Then let everyone in our towns who has married a foreign woman come at a set time, along with the elders and judges of each town, until the fierce anger of our God in this matter is turned away from us.”
+ESV	Let our officials stand for the whole assembly. Let all in our cities who have taken foreign wives come at appointed times, and with them the elders and judges of every city, until the fierce wrath of our God over this matter is turned away from us.”
+
+(x)	_נִבְנֶ֣ה_׀ אֶת־הֶעָרִ֣ים הָאֵ֗לֶּה (II Chr. 14:6)
+NIV	“_Let us build up_ these towns,” he said to Judah, “and put walls round them, with towers, gates and bars. The land is still ours, because we have sought the LORD our God. we sought him and he has given us rest on every side.” So they built and prospered.
+ESV	And he said to Judah, “_Let us build_ these cities and surround them with walls and towers, gates and bars. The land is still ours, because we have sought the Lord our God. We have sought him, and he has given us peace on every side.” So they built and prospered.
