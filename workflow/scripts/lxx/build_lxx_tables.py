@@ -12,6 +12,7 @@ sys.path.append('scripts')
 from build_tables import build_sample_tables
 
 bhsa2lxx = json.loads(Path(snakemake.input.lxx).read_text())
+verse_txt = json.loads(Path(snakemake.input.lxx_verses).read_text())
 
 def build_row(node):
     """Build a row for the LXX data"""

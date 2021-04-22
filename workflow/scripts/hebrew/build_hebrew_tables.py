@@ -79,10 +79,21 @@ def main_row(node):
     prec_lexes = join_on((F.lex.v(w) for w in preceding_words), default='Ø') 
     prec_pos = join_on((F.pdp.v(w) for w in preceding_words), default='Ø')
     domain2 = permissive_q(clause, bhsa)
+    verbform = get_verbform(node, bhsa, bhsa2gbi)
     cl_type_simp = simplify_cl_type(clause_atom, prec_lexes, bhsa)
-    cl_args = clause_args(node, bhsa)
-    has_q = ('Q' in cl_args) * 1 # look for question particles
-    cl_args = re.match('.*V', cl_args)[0] # NB ignore post-verbal arguments
+
+    # work around for participle contexts without
+    # clause data
+    if verbform == 'ptcp' and clause_type != 'Ptcp': 
+        cl_args = None
+        has_q = None
+        cl_args = None
+        do_clause = False
+    else:
+        do_clause = True
+        cl_args = clause_args(node, bhsa)
+        has_q = ('Q' in cl_args) * 1 # look for question particles
+        cl_args = re.match('.*V', cl_args)[0] # NB ignore post-verbal arguments
 
     # collect preceding particles only
     particle_types = {'nega', 'advb', 'prep', 'conj', 'prde', 'prin', 'intj', 'inrg'}
@@ -107,7 +118,7 @@ def main_row(node):
             'lex': F.lex_utf8.v(node),
             'lex_etcbc': F.lex.v(node),
             'gloss': F.gloss.v(node),
-            'verb_form': get_verbform(node, bhsa, bhsa2gbi),
+            'verb_form': verbform,
             'stem': F.vs.v(node),
             'person': F.ps.v(node),
             'gender': F.gn.v(node),
@@ -130,22 +141,23 @@ def main_row(node):
             'ref_abbr': ref_abbr,
     }
 
-    # provide clause argument data
-    # objects
-    row_data.update(
-        clause_objects(node, clause_atom, clause, bhsa)
-    )
-    # locatives
-    row_data.update(
-        clause_locas(node, loca_lexs, bhsa)
-    )
-    row_data.update(
-        clause_time(node, bhsa)
-    )
-    # convert to boolean 0 or 1 to avoid indexing
-    # pivot tables with booleans
-    row_data['has_objc'] = 1 * row_data['has_objc']
-    row_data['has_loca'] = 1 * row_data['has_loca']
+    if do_clause:
+        # provide clause argument data
+        # objects
+        row_data.update(
+            clause_objects(node, clause_atom, clause, bhsa)
+        )
+        # locatives
+        row_data.update(
+            clause_locas(node, loca_lexs, bhsa)
+        )
+        row_data.update(
+            clause_time(node, bhsa)
+        )
+        # convert to boolean 0 or 1 to avoid indexing
+        # pivot tables with booleans
+        row_data['has_objc'] = 1 * row_data['has_objc']
+        row_data['has_loca'] = 1 * row_data['has_loca']
 
     return row_data 
 

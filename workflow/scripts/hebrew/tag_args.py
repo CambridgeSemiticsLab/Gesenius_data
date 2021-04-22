@@ -149,6 +149,21 @@ def tag_ph_arg(ph, api):
     }
     function = F.function.v(ph)
     typ = F.typ.v(ph)
+    
+    # NB: participles require a special approach    
+    # normally Pred is ignored here, but in participial
+    # clauses the ptcp takes PreC function (most often)
+    # So we must remap the function so that it does not
+    # get matched here
+    clause = L.u(ph, 'clause')[0]
+    is_ptcp = (
+        F.typ.v(clause) == 'Ptcp'
+        and function  == 'PreC'
+        and typ == 'VP'
+    )
+    if is_ptcp:
+        function = ''    
+
     ph_lexs = [F.lex.v(w) for w in L.d(ph, 'word')]
     if typ in typ2tag:
         return typ2tag[typ]
