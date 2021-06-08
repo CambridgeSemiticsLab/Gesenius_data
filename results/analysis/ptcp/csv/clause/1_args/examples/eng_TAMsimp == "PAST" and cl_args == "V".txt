@@ -1,0 +1,102 @@
+eng_TAMsimp == "PAST" and cl_args == "V"
+25 of 95
+
+(x)	וְאֵ֨ת כָּל־נֶ֤פֶשׁ הַֽחַיָּה֙ אֲשֶׁ֣ר אִתְּכֶ֔ם בָּעֹ֧וף בַּבְּהֵמָ֛ה וּֽבְכָל־חַיַּ֥ת הָאָ֖רֶץ אִתְּכֶ֑ם מִכֹּל֙ _יֹצְאֵ֣י_ הַתֵּבָ֔ה לְכֹ֖ל חַיַּ֥ת הָאָֽרֶץ׃ (Gen. 9:10)
+NIV	and with every living creature that was with you — the birds, the livestock and all the wild animals, all _those that came out of_ the ark with you — every living creature on earth.
+ESV	and with every living creature that is with you, the birds, the livestock, and every beast of the earth with you, as many as _came out_ of the ark. it is for every beast of the earth.
+
+(x)	וַיִּרְדְּפ֨וּ מִצְרַ֜יִם אַחֲרֵיהֶ֗ם וַיַּשִּׂ֤יגוּ אֹותָם֙ _חֹנִ֣ים_ עַל־הַיָּ֔ם כָּל־סוּס֙ רֶ֣כֶב פַּרְעֹ֔ה וּפָרָשָׁ֖יו וְחֵילֹ֑ו עַל־פִּי֙ הַֽחִירֹ֔ת לִפְנֵ֖י בַּ֥עַל צְפֹֽן׃ (Exod. 14:9)
+NIV	The Egyptians — all Pharaoh’s horses and chariots, horsemen and troops — pursued the Israelites and overtook them as they camped by the sea near Pi Hahiroth, opposite Baal Zephon.
+ESV	The Egyptians pursued them, all Pharaoh’s horses and chariots and his horsemen and his army, and overtook them _encamped_ at the sea, by Pi-hahiroth, in front of Baal-zephon.
+
+(x)	וַיִּשְׁמַ֞ע הַכְּנַעֲנִ֤י מֶֽלֶךְ־עֲרָד֙ _יֹשֵׁ֣ב_ הַנֶּ֔גֶב כִּ֚י בָּ֣א יִשְׂרָאֵ֔ל דֶּ֖רֶךְ הָאֲתָרִ֑ים וַיִּלָּ֨חֶם֙ בְּיִשְׂרָאֵ֔ל וַיִּ֥שְׁבְּ׀ מִמֶּ֖נּוּ שֶֽׁבִי׃ (Num. 21:1)
+NIV	When the Canaanite king of Arad, _who lived_ in the Negev, heard that Israel was coming along the road to Atharim, he attacked the Israelites and captured some of them.
+ESV	When the Canaanite, the king of Arad, _who lived_ in the Negeb, heard that Israel was coming by the way of Atharim, he fought against Israel, and took some of them captive.
+
+(x)	וַיְגָ֨רֶשׁ יְהוָ֜ה אֶת־כָּל־הָעַמִּ֗ים וְאֶת־הָאֱמֹרִ֛י _יֹשֵׁ֥ב_ הָאָ֖רֶץ מִפָּנֵ֑ינוּ גַּם־אֲנַ֨חְנוּ֙ נַעֲבֹ֣ד אֶת־יְהוָ֔ה כִּי־ה֖וּא אֱלֹהֵֽינוּ׃ ס (Josh. 24:18)
+NIV	And the LORD drove out before us all the nations, including the Amorites, _who lived_ in the land. We too will serve the LORD, because he is our God.”
+ESV	And the Lord drove out before us all the peoples, the Amorites _who lived_ in the land. Therefore we also will serve the Lord, for he is our God.”
+
+(x)	וַ֠יִּתֵּן יְהוָ֨ה אֱלֹהֵֽי־יִשְׂרָאֵ֜ל אֶת־סִיחֹ֧ון וְאֶת־כָּל־עַמֹּ֛ו בְּיַ֥ד יִשְׂרָאֵ֖ל וַיַּכּ֑וּם וַיִּירַשׁ֙ יִשְׂרָאֵ֔ל אֵ֚ת כָּל־אֶ֣רֶץ הָאֱמֹרִ֔י _יֹושֵׁ֖ב_ הָאָ֥רֶץ הַהִֽיא׃ (Judg. 11:21)
+NIV	“Then the LORD, the God of Israel, gave Sihon and all his men into Israel’s hands, and they defeated them. Israel took over all the land of the Amorites _who lived_ in that country,
+ESV	And the Lord, the God of Israel, gave Sihon and all his people into the hand of Israel, and they defeated them. So Israel took possession of all the land of the Amorites, _who inhabited_ that country.
+
+(x)	יְהוּדָ֤ה וְיִשְׂרָאֵל֙ רַבִּ֔ים כַּחֹ֥ול אֲשֶׁר־עַל־הַיָּ֖ם לָרֹ֑ב _אֹכְלִ֥ים_ וְשֹׁתִ֖ים וּשְׂמֵחִֽים׃ (I Kgs. 4:20)
+NIV	The people of Judah and Israel were as numerous as the sand on the seashore. they _ate_, they drank and they were happy.
+ESV	Judah and Israel were as many as the sand by the sea. They _ate_ and drank and were happy.
+
+(x)	וְכֵ֣ן עָשָׂ֔ה לְכָל־נָשָׁ֖יו הַנָּכְרִיֹּ֑ות _מַקְטִירֹ֥ות_ וּֽמְזַבְּחֹ֖ות לֵאלֹהֵיהֶֽן׃ (I Kgs. 11:8)
+NIV	He did the same for all his foreign wives, _who burned incense_ and offered sacrifices to their gods.
+ESV	And so he did for all his foreign wives, _who made offerings_ and sacrificed to their gods.
+
+(x)	_מַצְדִּיקֵ֥י_ רָשָׁ֖ע עֵ֣קֶב שֹׁ֑חַד וְצִדְקַ֥ת צַדִּיקִ֖ים יָסִ֥ירוּ מִמֶּֽנּוּ׃ ס (Isa. 5:23)
+NIV	_who acquit_ the guilty for a bribe, but deny justice to the innocent.
+ESV	_who acquit_ the guilty for a bribe, and deprive the innocent of his right!
+
+(x)	רֹאֶ֨יךָ֙ אֵלֶ֣יךָ יַשְׁגִּ֔יחוּ אֵלֶ֖יךָ יִתְבֹּונָ֑נוּ הֲזֶ֤ה הָאִישׁ֙ _מַרְגִּ֣יז_ הָאָ֔רֶץ מַרְעִ֖ישׁ מַמְלָכֹֽות׃ (Isa. 14:16)
+NIV	Those who see you stare at you, they ponder your fate: “Is this the man _who shook_ the earth and made kingdoms tremble,
+ESV	Those who see you will stare at you and ponder over you: ‘Is this the man who made the earth tremble, who shook kingdoms,
+
+(x)	כֹּֽה־אָמַ֞ר הָאֵ֣ל׀ יְהוָ֗ה _בֹּורֵ֤א_ הַשָּׁמַ֨יִם֙ וְנֹ֣וטֵיהֶ֔ם רֹקַ֥ע הָאָ֖רֶץ וְצֶאֱצָאֶ֑יהָ נֹתֵ֤ן נְשָׁמָה֙ לָעָ֣ם עָלֶ֔יהָ וְר֖וּחַ לַהֹלְכִ֥ים בָּֽהּ׃ (Isa. 42:5)
+NIV	This is what God the LORD says — he _who created_ the heavens and stretched them out, who spread out the earth and all that comes out of it, who gives breath to its people, and life to those who walk on it:
+ESV	Thus says God, the Lord, _who created_ the heavens and stretched them out, who spread out the earth and what comes from it, who gives breath to the people on it and spirit to those who walk in it:
+
+(x)	וְעַתָּ֣ה׀ אָמַ֣ר יְהוָ֗ה _יֹצְרִ֤י_ מִבֶּ֨טֶן֙ לְעֶ֣בֶד לֹ֔ו לְשֹׁובֵ֤ב יַֽעֲקֹב֙ אֵלָ֔יו וְיִשְׂרָאֵ֖ל לֹ֣ו יֵאָסֵ֑ף וְאֶכָּבֵד֙ בְּעֵינֵ֣י יְהוָ֔ה וֵאלֹהַ֖י הָיָ֥ה עֻזִּֽי׃ (Isa. 49:5)
+NIV	And now the LORD says — he _who formed_ me in the womb to be his servant to bring Jacob back to him and gather Israel to himself, for I am honoured in the eyes of the LORD and my God has been my strength —
+ESV	And now the Lord says, _he who formed_ me from the womb to be his servant, to bring Jacob back to him. and that Israel might be gathered to him — for I am honored in the eyes of the Lord, and my God has become my strength —
+
+(x)	וְהוּא֙ מְחֹלָ֣ל מִפְּשָׁעֵ֔נוּ _מְדֻכָּ֖א_ מֵעֲוֹנֹתֵ֑ינוּ מוּסַ֤ר שְׁלֹומֵ֨נוּ֙ עָלָ֔יו וּבַחֲבֻרָתֹ֖ו נִרְפָּא־לָֽנוּ׃ (Isa. 53:5)
+NIV	But he was pierced for our transgressions, he _was crushed_ for our iniquities. the punishment that brought us peace was upon him, and by his wounds we are healed.
+ESV	But he was wounded for our transgressions. he _was crushed_ for our iniquities. upon him was the chastisement that brought us peace, and with his stripes we are healed.
+
+(x)	_מֹולִיכָ֖ם_ בַּתְּהֹמֹ֑ות כַּסּ֥וּס בַּמִּדְבָּ֖ר לֹ֥א יִכָּשֵֽׁלוּ׃ (Isa. 63:13)
+NIV	_who led_ them through the depths? Like a horse in open country, they did not stumble.
+ESV	_who led_ them through the depths? Like a horse in the desert, they did not stumble.
+
+(x)	וַיְהִ֧י דְבַר־יְהוָ֛ה אֶֽל־יִרְמְיָ֖הוּ שֵׁנִ֑ית וְהוּא֙ עֹודֶ֣נּוּ _עָצ֔וּר_ בַּחֲצַ֥ר הַמַּטָּרָ֖ה לֵאמֹֽר׃ (Jer. 33:1)
+NIV	While Jeremiah was still confined in the courtyard of the guard, the word of the LORD came to him a second time:
+ESV	The word of the Lord came to Jeremiah a second time, while he was still shut up in the court of the guard:
+
+(x)	_עֹשֵׂ֥ה_ אֶ֨רֶץ֙ בְּכֹחֹ֔ו מֵכִ֥ין תֵּבֵ֖ל בְּחָכְמָתֹ֑ו וּבִתְבוּנָתֹ֖ו נָטָ֥ה שָׁמָֽיִם׃ (Jer. 51:15)
+NIV	“He _made_ the earth by his power. he founded the world by his wisdom and stretched out the heavens by his understanding.
+ESV	“It is he _who made_ the earth by his power, who established the world by his wisdom, and by his understanding stretched out the heavens.
+
+(x)	וַתֹּ֖וסֶף אֶל־תַּזְנוּתֶ֑יהָ וַתֵּ֗רֶא אַנְשֵׁי֙ _מְחֻקֶּ֣ה_ עַל־הַקִּ֔יר צַלְמֵ֣י כַשְׂדִּ֔ים חֲקֻקִ֖ים בַּשָּׁשַֽׁר׃ (Ezek. 23:14)
+NIV	“But she carried her prostitution still further. She saw men _portrayed_ on a wall, figures of Chaldeans _portrayed_ in red,
+ESV	But she carried her whoring further. She saw men _portrayed_ on the wall, the images of the Chaldeans _portrayed_ in vermilion,
+
+(x)	וּפְנֵ֨י אָדָ֤ם אֶל־הַתִּֽמֹרָה֙ מִפֹּ֔ו וּפְנֵֽי־כְפִ֥יר אֶל־הַתִּֽמֹרָ֖ה מִפֹּ֑ו _עָשׂ֥וּי_ אֶל־כָּל־הַבַּ֖יִת סָבִ֥יב׀ סָבִֽיב׃ (Ezek. 41:19)
+NIV	the face of a man towards the palm tree on one side and the face of a lion towards the palm tree on the other. They _were carved_ all round the whole temple.
+ESV	a human face toward the palm tree on the one side, and the face of a young lion toward the palm tree on the other side. They _were carved_ on the whole temple all around.
+
+(x)	גַּם־אִ֤ישׁ שְׁלֹומִ֨י׀ אֲשֶׁר־בָּטַ֣חְתִּי בֹ֖ו _אֹוכֵ֣ל_ לַחְמִ֑י הִגְדִּ֖יל עָלַ֣י עָקֵֽב׃ (Psa. 41:10)
+NIV	Even my close friend, whom I trusted, he _who shared_ my bread, has lifted up his heel against me.
+ESV	Even my close friend in whom I trusted, _who ate_ my bread, has lifted his heel against me.
+
+(x)	מֹ֘שֶׁ֤ה וְאַהֲרֹ֨ן׀ בְּֽכֹהֲנָ֗יו וּ֭שְׁמוּאֵל בְּקֹרְאֵ֣י שְׁמֹ֑ו _קֹרִ֥אים_ אֶל־יְ֝הוָ֗ה וְה֣וּא יַעֲנֵֽם׃ (Psa. 99:6)
+NIV	Moses and Aaron were among his priests, Samuel was among those who _called_ on his name. they _called_ on the LORD and he answered them.
+ESV	Moses and Aaron were among his priests, Samuel also was among those who _called_ upon his name. They _called_ to the Lord, and he answered them.
+
+(x)	לְ_מַכֵּ֣ה_ מִ֭צְרַיִם בִּבְכֹורֵיהֶ֑ם כִּ֖י לְעֹולָ֣ם חַסְדֹּֽו׃ (Psa. 136:10)
+NIV	to him _who struck down_ the firstborn of Egypt His love endures forever.
+ESV	to him _who struck down_ the firstborn of Egypt, for his steadfast love endures forever.
+
+(x)	שְׂחֹ֤ק לְרֵעֵ֨הוּ׀ אֶֽהְיֶ֗ה _קֹרֵ֣א_ לֶ֭אֱלֹוהַּ וַֽיַּעֲנֵ֑הוּ שְׂ֝חֹ֗וק צַדִּ֥יק תָּמִֽים׃ (Job 12:4)
+NIV	“I have become a laughing-stock to my friends, though I called upon God and he answered — a mere laughing-stock, though righteous and blameless!
+ESV	I am a laughingstock to my friends. I, _who called_ to God and he answered me, a just and blameless man, am a laughingstock.
+
+(x)	וַאֲחֵיהֶ֗ם _עֹשֵׂ֤י_ הַמְּלָאכָה֙ לַבַּ֔יִת שְׁמֹנֶ֥ה מֵאֹ֖ות עֶשְׂרִ֣ים וּשְׁנָ֑יִם וַ֠עֲדָיָה בֶּן־יְרֹחָ֤ם בֶּן־פְּלַלְיָה֙ בֶּן־אַמְצִ֣י בֶן־זְכַרְיָ֔ה בֶּן־פַּשְׁח֖וּר בֶּן־מַלְכִּיָּֽה׃ (Neh. 11:12)
+NIV	and their associates, _who carried on_ work for the temple — 822 men. Adaiah son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashhur, the son of Malkijah,
+ESV	and their brothers _who did_ the work of the house, 822. and Adaiah the son of Jeroham, son of Pelaliah, son of Amzi, son of Zechariah, son of Pashhur, son of Malchijah,
+
+(x)	וַיָּ֤שֶׂם דָּוִיד֙ בַּאֲרַ֣ם דַּרְמֶ֔שֶׂק וַיְהִ֤י אֲרָם֙ לְדָוִ֔יד עֲבָדִ֖ים _נֹשְׂאֵ֣י_ מִנְחָ֑ה וַיֹּ֤ושַׁע יְהוָה֙ לְדָוִ֔יד בְּכֹ֖ל אֲשֶׁ֥ר הָלָֽךְ׃ (I Chr. 18:6)
+NIV	He put garrisons in the Aramean kingdom of Damascus, and the Arameans became subject to him and _brought_ tribute. The LORD gave David victory everywhere he went.
+ESV	Then David put garrisons in Syria of Damascus, and the Syrians became servants to David and _brought_ tribute. And the Lord gave victory to David wherever he went.
+
+(x)	וּכְנַ֨ף הַכְּר֤וּב הָאֶחָד֙ אַמֹּ֣ות חָמֵ֔שׁ _מַגִּ֖יעַ_ לְקִ֣יר הַבָּ֑יִת וְהַכָּנָ֤ף הָאַחֶ֨רֶת֙ אַמֹּ֣ות חָמֵ֔שׁ דְּבֵקָ֕ה לִכְנַ֖ף הַכְּר֥וּב הָאַחֵֽר׃ (II Chr. 3:12)
+NIV	Similarly one wing of the second cherub was five cubits long and _touched_ the other temple wall, and its other wing, also five cubits long, _touched_ the wing of the first cherub.
+ESV	and of this cherub, one wing, of five cubits, _touched_ the wall of the house, and the other wing, also of five cubits, was joined to the wing of the first cherub.
+
+(x)	וְהָאֲנָשִׁים֩ עֹשִׂ֨ים בֶּאֱמוּנָ֜ה בַּמְּלָאכָ֗ה וַעֲלֵיהֶ֣ם׀ מֻ֠פְקָדִים יַ֣חַת וְעֹבַדְיָ֤הוּ הַלְוִיִּם֙ מִן־בְּנֵ֣י מְרָרִ֔י וּזְכַרְיָ֧ה וּמְשֻׁלָּ֛ם מִן־בְּנֵ֥י הַקְּהָתִ֖ים לְנַצֵּ֑חַ וְהַ֨לְוִיִּ֔ם כָּל־_מֵבִ֖ין_ בִּכְלֵי־שִֽׁיר׃ (II Chr. 34:12)
+NIV	The men did the work faithfully. Over them to direct them were Jahath and Obadiah, Levites descended from Merari, and Zechariah and Meshullam, descended from Kohath. The Levites — all _who were skilled_ in playing musical instruments —
+ESV	And the men did the work faithfully. Over them were set Jahath and Obadiah the Levites, of the sons of Merari, and Zechariah and Meshullam, of the sons of the Kohathites, to have oversight. The Levites, all _who were skillful_ with instruments of music,

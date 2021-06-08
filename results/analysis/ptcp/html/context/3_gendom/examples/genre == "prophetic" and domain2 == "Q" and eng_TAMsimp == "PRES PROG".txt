@@ -1,0 +1,62 @@
+genre == "prophetic" and domain2 == "Q" and eng_TAMsimp == "PRES PROG"
+15 of 64
+
+(x)	וְחִכִּ֨יתִי֙ לַיהוָ֔ה הַ_מַּסְתִּ֥יר_ פָּנָ֖יו מִבֵּ֣ית יַעֲקֹ֑ב וְקִוֵּ֖יתִֽי־לֹֽו׃ (Isa. 8:17)
+NIV	I will wait for the LORD, _who is hiding_ his face from the house of Jacob. I will put my trust in him.
+ESV	I will wait for the Lord, _who is hiding_ his face from the house of Jacob, and I will hope in him.
+
+(x)	הִנְנִ֨י _עֹשֶׂ֤ה_ חֲדָשָׁה֙ עַתָּ֣ה תִצְמָ֔ח הֲלֹ֖וא תֵֽדָע֑וּהָ אַ֣ף אָשִׂ֤ים בַּמִּדְבָּר֙ דֶּ֔רֶךְ בִּֽישִׁמֹ֖ון נְהָרֹֽות׃ (Isa. 43:19)
+NIV	See, I _am doing_ a new thing! Now it springs up. do you not perceive it? I am making a way in the desert and streams in the wasteland.
+ESV	Behold, I _am doing_ a new thing. now it springs forth, do you not perceive it? I will make a way in the wilderness and rivers in the desert.
+
+(x)	הַֽאֵינְךָ֣ רֹאֶ֔ה מָ֛ה הֵ֥מָּה _עֹשִׂ֖ים_ בְּעָרֵ֣י יְהוּדָ֑ה וּבְחֻצֹ֖ות יְרוּשָׁלִָֽם׃ (Jer. 7:17)
+NIV	Do you not see what they _are doing_ in the towns of Judah and in the streets of Jerusalem?
+ESV	Do you not see what they _are doing_ in the cities of Judah and in the streets of Jerusalem?
+
+(x)	לָכֵ֛ן הִנֵּֽה־יָמִ֥ים _בָּאִ֖ים_ נְאֻם־יְהוָ֑ה וְלֹֽא־יֵאָמֵ֥ר עֹוד֙ חַי־יְהוָ֔ה אֲשֶׁ֧ר הֶעֱלָ֛ה אֶת־בְּנֵ֥י יִשְׂרָאֵ֖ל מֵאֶ֥רֶץ מִצְרָֽיִם׃ (Jer. 16:14)
+NIV	“However, the days _are coming_,” declares the LORD, “when men will no longer say, ‘As surely as the LORD lives, who brought the Israelites up out of Egypt,’
+ESV	“Therefore, behold, the days _are coming_, declares the Lord, when it shall no longer be said, ‘As the Lord lives who brought up the people of Israel out of the land of Egypt,’
+
+(x)	הַיֹּשֵׁב֙ בָּעִ֣יר הַזֹּ֔את יָמ֕וּת בַּחֶ֖רֶב וּבָרָעָ֣ב וּבַדָּ֑בֶר וְהַיֹּוצֵא֩ וְנָפַ֨ל עַל־הַכַּשְׂדִּ֜ים הַ_צָּרִ֤ים_ עֲלֵיכֶם֙ וְחָיָ֔ה וְהָֽיְתָה־לֹּ֥ו נַפְשֹׁ֖ו לְשָׁלָֽל׃ (Jer. 21:9)
+NIV	Whoever stays in this city will die by the sword, famine or plague. But whoever goes out and surrenders to the Babylonians _who are besieging_ you will live. he will escape with his life.
+ESV	He who stays in this city shall die by the sword, by famine, and by pestilence, but he who goes out and surrenders to the Chaldeans _who are besieging_ you shall live and shall have his life as a prize of war.
+
+(x)	וְאַֽל־תִּשְׁמְע֞וּ אֶל־דִּבְרֵ֣י הַנְּבִאִ֗ים הָאֹמְרִ֤ים אֲלֵיכֶם֙ לֵאמֹ֔ר לֹ֥א תַעַבְד֖וּ אֶת־מֶ֣לֶךְ בָּבֶ֑ל כִּ֣י שֶׁ֔קֶר הֵ֖ם _נִבְּאִ֥ים_ לָכֶֽם׃ (Jer. 27:14)
+NIV	Do not listen to the words of the prophets who say to you, ‘You will not serve the king of Babylon,’ for they _are prophesying_ lies to you.
+ESV	Do not listen to the words of the prophets who are saying to you, ‘You shall not serve the king of Babylon,’ for it is a lie that they _are prophesying_ to you.
+
+(x)	כֹּֽה־אָמַר֩ יְהוָ֨ה צְבָאֹ֜ות אֱלֹהֵ֣י יִשְׂרָאֵ֗ל אֶל־אַחְאָ֤ב בֶּן־קֹֽולָיָה֙ וְאֶל־צִדְקִיָּ֣הוּ בֶן־מַֽעֲשֵׂיָ֔ה הַֽ_נִּבְּאִ֥ים_ לָכֶ֛ם בִּשְׁמִ֖י שָׁ֑קֶר הִנְנִ֣י׀ נֹתֵ֣ן אֹתָ֗ם בְּיַד֙ נְבֽוּכַדְרֶאצַּ֣ר מֶֽלֶךְ־בָּבֶ֔ל וְהִכָּ֖ם לְעֵינֵיכֶֽם׃ (Jer. 29:21)
+NIV	This is what the LORD Almighty, the God of Israel, says about Ahab son of Kolaiah and Zedekiah son of Maaseiah, _who are prophesying_ lies to you in my name: “I will hand them over to Nebuchadnezzar king of Babylon, and he will put them to death before your very eyes.
+ESV	‘Thus says the Lord of hosts, the God of Israel, concerning Ahab the son of Kolaiah and Zedekiah the son of Maaseiah, _who are prophesying_ a lie to you in my name: Behold, I will deliver them into the hand of Nebuchadnezzar king of Babylon, and he shall strike them down before your eyes.
+
+(x)	הִנֵּ֣ה הַסֹּלְלֹ֗ות בָּ֣אוּ הָעִיר֮ לְלָכְדָהּ֒ וְהָעִ֣יר נִתְּנָ֗ה בְּיַ֤ד הַכַּשְׂדִּים֙ הַ_נִּלְחָמִ֣ים_ עָלֶ֔יהָ מִפְּנֵ֛י הַחֶ֥רֶב וְהָרָעָ֖ב וְהַדָּ֑בֶר וַאֲשֶׁ֥ר דִּבַּ֛רְתָּ הָיָ֖ה וְהִנְּךָ֥ רֹאֶֽה׃ (Jer. 32:24)
+NIV	“See how the siege ramps are built up to take the city. Because of the sword, famine and plague, the city will be handed over to the Babylonians _who are attacking_ it. What you said has happened, as you now see.
+ESV	Behold, the siege mounds have come up to the city to take it, and because of sword and famine and pestilence the city is given into the hands of the Chaldeans _who are fighting_ against it. What you spoke has come to pass, and behold, you see it.
+
+(x)	וַיְהִי־ה֞וּא בְּשַׁ֣עַר בִּנְיָמִ֗ן וְשָׁם֙ בַּ֣עַל פְּקִדֻ֔ת וּשְׁמֹו֙ יִרְאִיָּ֔יה בֶּן־שֶֽׁלֶמְיָ֖ה בֶּן־חֲנַנְיָ֑ה וַיִּתְפֹּ֞שׂ אֶֽת־יִרְמְיָ֤הוּ הַנָּבִיא֙ לֵאמֹ֔ר אֶל־הַכַּשְׂדִּ֖ים אַתָּ֥ה _נֹפֵֽל_׃ (Jer. 37:13)
+NIV	But when he reached the Benjamin Gate, the captain of the guard, whose name was Irijah son of Shelemiah, the son of Hananiah, arrested him and said, “You _are deserting_ to the Babylonians!”
+ESV	When he was at the Benjamin Gate, a sentry there named Irijah the son of Shelemiah, son of Hananiah, seized Jeremiah the prophet, saying, “You _are deserting_ to the Chaldeans.”
+
+(x)	לָכֵ֞ן הִנֵּ֖ה־יָמִ֤ים _בָּאִים֙_ נְאֻם־יְהוָ֔ה וְשִׁלַּחְתִּי־לֹ֥ו צֹעִ֖ים וְצֵעֻ֑הוּ וְכֵלָ֣יו יָרִ֔יקוּ וְנִבְלֵיהֶ֖ם יְנַפֵּֽצוּ׃ (Jer. 48:12)
+NIV	But days _are coming_,” declares the LORD, “when I will send men who pour from jars, and they will pour her out. they will empty her jars and smash her jugs.
+ESV	“Therefore, behold, the days _are coming_, declares the Lord, when I shall send to him pourers who will pour him, and empty his vessels and break his jars in pieces.
+
+(x)	וַיֹּ֣אמֶר אֵלַ֔י בֶּן־אָדָ֕ם הֲרֹאֶ֥ה אַתָּ֖ה מָ֣ה הֵ֣ם עֹשִׂ֑ים תֹּועֵבֹ֨ות גְּדֹלֹ֜ות אֲשֶׁ֥ר בֵּֽית־יִשְׂרָאֵ֣ל׀ _עֹשִׂ֣ים_ פֹּ֗ה לְרָֽחֳקָה֙ מֵעַ֣ל מִקְדָּשִׁ֔י וְעֹוד֙ תָּשׁ֣וּב תִּרְאֶ֔ה תֹּועֵבֹ֖ות גְּדֹלֹֽות׃ ס (Ezek. 8:6)
+NIV	And he said to me, “Son of man, do you see what they are doing — the utterly detestable things the house of Israel _is doing_ here, things that will drive me far from my sanctuary? But you will see things that are even more detestable.”
+ESV	And he said to me, “Son of man, do you see what they are doing, the great abominations that the house of Israel _are committing_ here, to drive me far from my sanctuary? But you will see still greater abominations.”
+
+(x)	וְהָיָה֙ כִּֽי־יֹאמְר֣וּ אֵלֶ֔יךָ עַל־מָ֖ה אַתָּ֣ה נֶאֱנָ֑ח וְאָמַרְתָּ֡ אֶל־שְׁמוּעָ֣ה כִֽי־בָאָ֡ה וְנָמֵ֣ס כָּל־לֵב֩ וְרָפ֨וּ כָל־יָדַ֜יִם וְכִהֲתָ֣ה כָל־ר֗וּחַ וְכָל־בִּרְכַּ֨יִם֙ תֵּלַ֣כְנָה מַּ֔יִם הִנֵּ֤ה _בָאָה֙_ וְנִֽהְיָ֔תָה נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃ פ (Ezek. 21:12)
+NIV	And when they ask you, ‘Why are you groaning?’ you shall say, ‘Because of the news that _is coming_. Every heart will melt and every hand go limp. every spirit will become faint and every knee become as weak as water.’ It _is coming_! It will surely take place, declares the Sovereign LORD.”
+ESV	And when they say to you, ‘Why do you groan?’ you shall say, ‘Because of the news that it _is coming_. Every heart will melt, and all hands will be feeble. every spirit will faint, and all knees will be weak as water. Behold, it _is coming_, and it will be fulfilled,’” declares the Lord God.
+
+(x)	וַיַּ֨עַן יְהוָ֜ה וַיֹּ֣אמֶר לְעַמֹּ֗ו הִנְנִ֨י _שֹׁלֵ֤חַ_ לָכֶם֙ אֶת־הַדָּגָן֙ וְהַתִּירֹ֣ושׁ וְהַיִּצְהָ֔ר וּשְׂבַעְתֶּ֖ם אֹתֹ֑ו וְלֹא־אֶתֵּ֨ן אֶתְכֶ֥ם עֹ֛וד חֶרְפָּ֖ה בַּגֹּויִֽם׃ (Joel 2:19)
+NIV	The LORD will reply to them: “I _am sending_ you grain, new wine and oil, enough to satisfy you fully. never again will I make you an object of scorn to the nations.
+ESV	The Lord answered and said to his people, “Behold, I _am sending_ to you grain, wine, and oil, and you will be satisfied. and I will no more make you a reproach among the nations.
+
+(x)	כִּֽי־הִנֵּ֥ה יְהוָ֖ה _יֹצֵ֣א_ מִמְּקֹומֹ֑ו וְיָרַ֥ד וְדָרַ֖ךְ עַל־בָּ֥מֳתֵי אָֽרֶץ׃ (Mic. 1:3)
+NIV	Look! The LORD _is coming_ from his dwelling-place. he comes down and treads the high places of the earth.
+ESV	For behold, the Lord _is coming out_ of his place, and will come down and tread upon the high places of the earth.
+
+(x)	כִּֽי־הִנֵּ֤ה הַיֹּום֙ _בָּ֔א_ בֹּעֵ֖ר כַּתַּנּ֑וּר וְהָי֨וּ כָל־זֵדִ֜ים וְכָל־עֹשֵׂ֤ה רִשְׁעָה֙ קַ֔שׁ וְלִהַ֨ט אֹתָ֜ם הַיֹּ֣ום הַבָּ֗א אָמַר֙ יְהוָ֣ה צְבָאֹ֔ות אֲשֶׁ֛ר לֹא־יַעֲזֹ֥ב לָהֶ֖ם שֹׁ֥רֶשׁ וְעָנָֽף׃ (Mal. 3:19)
+NIV	“Surely the day _is coming_. it will burn like a furnace. All the arrogant and every evildoer will be stubble, and that day that _is coming_ will set them on fire,” says the LORD Almighty. “Not a root or a branch will be left to them.
+ESV	“For behold, the day _is coming_, burning like an oven, when all the arrogant and all evildoers will be stubble. The day that _is coming_ shall set them ablaze, says the Lord of hosts, so that it will leave them neither root nor branch.

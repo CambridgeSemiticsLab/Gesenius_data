@@ -1,0 +1,62 @@
+eng_TAMsimp == "PRES PROG" and mother_verbtype == "impv"
+15 of 15
+
+(x)	הַקְרֵה־נָ֥א לְפָנַ֖י הַיֹּ֑ום הִנֵּ֛ה אָנֹכִ֥י _נִצָּ֖ב_ עַל־עֵ֣ין הַמָּ֑יִם (Gen. 24:13)
+NIV	See, I _am standing_ beside this spring, and the daughters of the townspeople are coming out to draw water.
+ESV	Behold, I _am standing_ by the spring of water, and the daughters of the men of the city are coming out to draw water.
+
+(x)	הַגִּֽידָה־נָּ֣א לִ֔י אֵיפֹ֖ה הֵ֥ם _רֹעִֽים_׃ (Gen. 37:16)
+NIV	He replied, “I’m looking for my brothers. Can you tell me where they are grazing their flocks?”
+ESV	“I am seeking my brothers,” he said. “Tell me, please, where they _are pasturing_ the flock.”
+
+(x)	רְאֵ֗ה אָנֹכִ֛י _נֹתֵ֥ן_ לִפְנֵיכֶ֖ם הַיֹּ֑ום בְּרָכָ֖ה וּקְלָלָֽה׃ (Deut. 11:26)
+NIV	See, I _am setting_ before you today a blessing and a curse —
+ESV	“See, I _am setting_ before you today a blessing and a curse:
+
+(x)	וּרְאֵה֙ אֶת־אֶ֣רֶץ כְּנַ֔עַן אֲשֶׁ֨ר אֲנִ֥י _נֹתֵ֛ן_ לִבְנֵ֥י יִשְׂרָאֵ֖ל לַאֲחֻזָּֽה׃ (Deut. 32:49)
+NIV	“Go up into the Abarim Range to Mount Nebo in Moab, across from Jericho, and view Canaan, the land I _am giving_ the Israelites as their own possession.
+ESV	“Go up this mountain of the Abarim, Mount Nebo, which is in the land of Moab, opposite Jericho, and view the land of Canaan, which I _am giving_ to the people of Israel for a possession.
+
+(x)	דְּעֽוּ־נָ֣א כִּ֥י רָעָ֖ה זֶ֣ה _מְבַקֵּ֑שׁ_ (I Kgs. 20:7)
+NIV	The king of Israel summoned all the elders of the land and said to them, “See how this man _is looking for_ trouble! When he sent for my wives and my children, my silver and my gold, I did not refuse him.”
+ESV	Then the king of Israel called all the elders of the land and said, “Mark, now, and see how this man _is seeking_ trouble, for he sent to me for my wives and my children, and for my silver and my gold, and I did not refuse him.”
+
+(x)	כִּ֤י אַךְ־דְּעֽוּ־נָא֙ כִּֽי־_מִתְאַנֶּ֥ה_ ה֖וּא לִֽי׃ (II Kgs. 5:7)
+NIV	As soon as the king of Israel read the letter, he tore his robes and said, “Am I God? Can I kill and bring back to life? Why does this fellow send someone to me to be cured of his leprosy? See how he _is trying to pick a quarrel_ with me!”
+ESV	And when the king of Israel read the letter, he tore his clothes and said, “Am I God, to kill and to make alive, that this man sends word to me to cure a man of his leprosy? Only consider, and see how he _is seeking a quarrel_ with me.”
+
+(x)	וְהֹושִׁעֵ֜נִי מִכַּ֣ף מֶֽלֶךְ־אֲרָ֗ם וּמִכַּף֙ מֶ֣לֶךְ יִשְׂרָאֵ֔ל הַ_קֹּומִ֖ים_ עָלָֽי׃ (II Kgs. 16:7)
+NIV	Ahaz sent messengers to say to Tiglath-pileser king of Assyria, “I am your servant and vassal. Come up and save me out of the hand of the king of Aram and of the king of Israel _who are attacking_ me.”
+ESV	So Ahaz sent messengers to Tiglath-pileser king of Assyria, saying, “I am your servant and your son. Come up and rescue me from the hand of the king of Syria and from the hand of the king of Israel, _who are attacking_ me.”
+
+(x)	לֵ֤ךְ כִּֽי־הִנֵּ֤ה יְהוָה֙ _יֹצֵ֣א_ מִמְּקֹומֹ֔ו (Isa. 26:21)
+NIV	See, the LORD _is coming out_ of his dwelling to punish the people of the earth for their sins. The earth will disclose the blood shed upon her. she will conceal her slain no longer.
+ESV	For behold, the Lord _is coming out_ from his place to punish the inhabitants of the earth for their iniquity, and the earth will disclose the blood shed on it, and will no more cover its slain.
+
+(x)	שִׁמְעִ֣י הִנֵּ֨ה אָנֹכִ֜י _מֵבִ֥יא_ רָעָ֛ה אֶל־הָעָ֥ם הַזֶּ֖ה פְּרִ֣י מַחְשְׁבֹותָ֑ם (Jer. 6:19)
+NIV	Hear, O earth: I _am bringing_ disaster on this people, the fruit of their schemes, because they have not listened to my words and have rejected my law.
+ESV	Hear, O earth. behold, I _am bringing_ disaster upon this people, the fruit of their devices, because they have not paid attention to my words. and as for my law, they have rejected it.
+
+(x)	דְּרָשׁ־נָ֤א בַעֲדֵ֨נוּ֙ אֶת־יְהוָ֔ה כִּ֛י נְבוּכַדְרֶאצַּ֥ר מֶֽלֶךְ־בָּבֶ֖ל _נִלְחָ֣ם_ עָלֵ֑ינוּ (Jer. 21:2)
+NIV	“Enquire now of the LORD for us because Nebuchadnezzar king of Babylon _is attacking_ us. Perhaps the LORD will perform wonders for us as in times past so that he will withdraw from us.”
+ESV	“Inquire of the Lord for us, for Nebuchadnezzar king of Babylon _is making war_ against us. Perhaps the Lord will deal with us according to all his wonderful deeds and will make him withdraw from us.”
+
+(x)	כְּתָב־לְךָ֗ אֵ֧ת כָּל־הַדְּבָרִ֛ים כִּ֠י הִנֵּ֨ה יָמִ֤ים _בָּאִים֙_ (Jer. 30:3)
+NIV	The days _are coming_,’ declares the LORD, ‘when I will bring my people Israel and Judah back from captivity and restore them to the land I gave to their forefathers to possess,’ says the LORD.”
+ESV	For behold, days _are coming_, declares the Lord, when I will restore the fortunes of my people, Israel and Judah, says the Lord, and I will bring them back to the land that I gave to their fathers, and they shall take possession of it.”
+
+(x)	וּרְאֵה֙ אֶת־הַתֹּועֵבֹ֣ות הָרָעֹ֔ות אֲשֶׁ֛ר הֵ֥ם _עֹשִׂ֖ים_ פֹּֽה׃ (Ezek. 8:9)
+NIV	And he said to me, “Go in and see the wicked and detestable things they _are doing_ here.”
+ESV	And he said to me, “Go in, and see the vile abominations that they _are committing_ here.”
+
+(x)	הֵאָסְפ֣וּ מִסָּבִ֔יב עַל־זִבְחִ֗י אֲשֶׁ֨ר אֲנִ֜י _זֹבֵ֤חַ_ לָכֶם֙ (Ezek. 39:17)
+NIV	“Son of man, this is what the Sovereign LORD says: Call out to every kind of bird and all the wild animals: ‘Assemble and come together from all around to the sacrifice I _am preparing_ for you, the great sacrifice on the mountains of Israel. There you will eat flesh and drink blood.
+ESV	“As for you, son of man, thus says the Lord God: Speak to the birds of every sort and to all beasts of the field, ‘Assemble and come, gather from all around to the sacrificial feast that I _am preparing_ for you, a great sacrificial feast on the mountains of Israel, and you shall eat flesh and drink blood.
+
+(x)	תִּקְע֨וּ שֹׁופָ֜ר בְּצִיֹּ֗ון כִּֽי־_בָ֥א_ יֹום־יְהוָ֖ה (Joel 2:1)
+NIV	Blow the trumpet in Zion. sound the alarm on my holy hill. Let all who live in the land tremble, for the day of the LORD _is coming_. It is close at hand —
+ESV	Blow a trumpet in Zion. sound an alarm on my holy mountain! Let all the inhabitants of the land tremble, for the day of the Lord _is coming_. it is near,
+
+(x)	שִׁמְעוּ֙ כִּֽי־הִנֵּ֥ה יְהוָ֖ה _יֹצֵ֣א_ מִמְּקֹומֹ֑ו (Mic. 1:3)
+NIV	Look! The LORD _is coming_ from his dwelling-place. he comes down and treads the high places of the earth.
+ESV	For behold, the Lord _is coming out_ of his place, and will come down and tread upon the high places of the earth.

@@ -1,0 +1,66 @@
+eng_TAMsimp == "PRES PROG" and mother_verbtype == "wqtl"
+16 of 16
+
+(x)	וִֽירִשְׁתֶּ֣ם אֶת־הָאָ֔רֶץ אֲשֶׁ֧ר יְהוָ֛ה אֱלֹהֵ֥י אֲבֹתֵיכֶ֖ם _נֹתֵ֥ן_ לָכֶֽם׃ (Deut. 4:1)
+NIV	Hear now, O Israel, the decrees and laws I am about to teach you. Follow them so that you may live and may go in and take possession of the land that the LORD, the God of your fathers, _is giving_ you.
+ESV	“And now, O Israel, listen to the statutes and the rules that I am teaching you, and do them, that you may live, and go in and take possession of the land that the Lord, the God of your fathers, _is giving_ you.
+
+(x)	וְעָשׂ֣וּ בָאָ֔רֶץ אֲשֶׁ֧ר אָנֹכִ֛י _נֹתֵ֥ן_ לָהֶ֖ם (Deut. 5:31)
+NIV	But you stay here with me so that I may give you all the commands, decrees and laws that you are to teach them to follow in the land I _am giving_ them to possess.”
+ESV	But you, stand here by me, and I will tell you the whole commandment and the statutes and the rules that you shall teach them, that they may do them in the land that I _am giving_ them to possess.’
+
+(x)	וְשָׁ֣מַרְתָּ֔ אֶת־מִצְוֹ֖ת יְהוָ֣ה אֱלֹהֶ֑יךָ כִּ֚י יְהוָ֣ה אֱלֹהֶ֔יךָ _מְבִֽיאֲךָ֖_ אֶל־אֶ֣רֶץ טֹובָ֑ה אֶ֚רֶץ נַ֣חֲלֵי מָ֔יִם עֲיָנֹת֙ וּתְהֹמֹ֔ת (Deut. 8:7)
+NIV	For the LORD your God _is bringing_ you into a good land — a land with streams and pools of water, with springs flowing in the valleys and hills.
+ESV	For the Lord your God _is bringing_ you into a good land, a land of brooks of water, of fountains and springs, flowing out in the valleys and hills,
+
+(x)	וַאֲבַדְתֶּ֣ם מְהֵרָ֗ה מֵעַל֙ הָאָ֣רֶץ הַטֹּבָ֔ה אֲשֶׁ֥ר יְהוָ֖ה _נֹתֵ֥ן_ לָכֶֽם׃ (Deut. 11:17)
+NIV	Then the LORD’s anger will burn against you, and he will shut the heavens so that it will not rain and the ground will yield no produce, and you will soon perish from the good land the LORD _is giving_ you.
+ESV	then the anger of the Lord will be kindled against you, and he will shut up the heavens, so that there will be no rain, and the land will yield no fruit, and you will perish quickly off the good land that the Lord _is giving_ you.
+
+(x)	וִֽישַׁבְתֶּ֣ם בָּאָ֔רֶץ אֲשֶׁר־יְהוָ֥ה אֱלֹהֵיכֶ֖ם _מַנְחִ֣יל_ אֶתְכֶ֑ם (Deut. 12:10)
+NIV	But you will cross the Jordan and settle in the land the LORD your God is giving you as an inheritance, and he will give you rest from all your enemies around you so that you will live in safety.
+ESV	But when you go over the Jordan and live in the land that the Lord your God is giving you to inherit, and when he gives you rest from all your enemies around, so that you live in safety,
+
+(x)	וְיָרַשְׁתָּ֣ אֶת־הָאָ֔רֶץ אֲשֶׁר־יְהוָ֥ה אֱלֹהֶ֖יךָ _נֹתֵ֥ן_ לָֽךְ׃ ס (Deut. 16:20)
+NIV	Follow justice and justice alone, so that you may live and possess the land the LORD your God _is giving_ you.
+ESV	Justice, and only justice, you shall follow, that you may live and inherit the land that the Lord your God _is giving_ you.
+
+(x)	וּבֵ֣רַכְךָ֔ בָּאָ֕רֶץ אֲשֶׁר־יְהוָ֥ה אֱלֹהֶ֖יךָ _נֹתֵ֥ן_ לָֽךְ׃ (Deut. 28:8)
+NIV	The LORD will send a blessing on your barns and on everything you put your hand to. The LORD your God will bless you in the land he _is giving_ you.
+ESV	The Lord will command the blessing on you in your barns and in all that you undertake. And he will bless you in the land that the Lord your God _is giving_ you.
+
+(x)	וְנִסַּחְתֶּם֙ מֵעַ֣ל הָֽאֲדָמָ֔ה אֲשֶׁר־אַתָּ֥ה _בָא_־שָׁ֖מָּה (Deut. 28:63)
+NIV	Just as it pleased the LORD to make you prosper and increase in number, so it will please him to ruin and destroy you. You will be uprooted from the land you _are entering_ to possess.
+ESV	And as the Lord took delight in doing you good and multiplying you, so the Lord will take delight in bringing ruin upon you and destroying you. And you shall be plucked off the land that you _are entering_ to take possession of it.
+
+(x)	וּבֵֽרַכְךָ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ בָּאָ֕רֶץ אֲשֶׁר־אַתָּ֥ה _בָא_־שָׁ֖מָּה (Deut. 30:16)
+NIV	For I command you today to love the LORD your God, to walk in his ways, and to keep his commands, decrees and laws. then you will live and increase, and the LORD your God will bless you in the land you _are entering_ to possess.
+ESV	If you obey the commandments of the Lord your God that I command you today, by loving the Lord your God, by walking in his ways, and by keeping his commandments and his statutes and his rules, then you shall live and multiply, and the Lord your God will bless you in the land that you _are entering_ to take possession of it.
+
+(x)	וְזָנָ֣ה׀ אַחֲרֵ֣י׀ אֱלֹהֵ֣י נֵֽכַר־הָאָ֗רֶץ אֲשֶׁ֨ר ה֤וּא _בָא_־שָׁ֨מָּה֙ בְּקִרְבֹּ֔ו (Deut. 31:16)
+NIV	And the LORD said to Moses: “You are going to rest with your fathers, and these people will soon prostitute themselves to the foreign gods of the land they _are entering_. They will forsake me and break the covenant I made with them.
+ESV	And the Lord said to Moses, “Behold, you are about to lie down with your fathers. Then this people will rise and whore after the foreign gods among them in the land that they _are entering_, and they will forsake me and break my covenant that I have made with them.
+
+(x)	וְיָרְשׁ֣וּ גַם־הֵ֔מָּה אֶת־הָאָ֕רֶץ אֲשֶׁר־יְהוָ֥ה אֱלֹֽהֵיכֶ֖ם _נֹתֵ֣ן_ לָהֶ֑ם (Josh. 1:15)
+NIV	until the LORD gives them rest, as he has done for you, and until they too have taken possession of the land that the LORD your God _is giving_ them. After that, you may go back and occupy your own land, which Moses the servant of the LORD gave you east of the Jordan towards the sunrise.”
+ESV	until the Lord gives rest to your brothers as he has to you, and they also take possession of the land that the Lord your God _is giving_ them. Then you shall return to the land of your possession and shall possess it, the land that Moses the servant of the Lord gave you beyond the Jordan toward the sunrise.”
+
+(x)	וְחִכִּ֨יתִי֙ לַיהוָ֔ה הַ_מַּסְתִּ֥יר_ פָּנָ֖יו מִבֵּ֣ית יַעֲקֹ֑ב (Isa. 8:17)
+NIV	I will wait for the LORD, _who is hiding_ his face from the house of Jacob. I will put my trust in him.
+ESV	I will wait for the Lord, _who is hiding_ his face from the house of Jacob, and I will hope in him.
+
+(x)	וְנָפַ֨ל עַל־הַכַּשְׂדִּ֜ים הַ_צָּרִ֤ים_ עֲלֵיכֶם֙ (Jer. 21:9)
+NIV	Whoever stays in this city will die by the sword, famine or plague. But whoever goes out and surrenders to the Babylonians _who are besieging_ you will live. he will escape with his life.
+ESV	He who stays in this city shall die by the sword, by famine, and by pestilence, but he who goes out and surrenders to the Chaldeans _who are besieging_ you shall live and shall have his life as a prize of war.
+
+(x)	וּבָ֣אוּ הַכַּשְׂדִּ֗ים הַ_נִּלְחָמִים֙_ עַל־הָעִ֣יר הַזֹּ֔את (Jer. 32:29)
+NIV	The Babylonians _who are attacking_ this city will come in and set it on fire. they will burn it down, along with the houses where the people provoked me to anger by burning incense on the roofs to Baal and by pouring out drink offerings to other gods.
+ESV	The Chaldeans _who are fighting_ against this city shall come and set this city on fire and burn it, with the houses on whose roofs offerings have been made to Baal and drink offerings have been poured out to other gods, to provoke me to anger.
+
+(x)	וְהָיָ֣ה׀ בַּיֹּ֣ום הַה֗וּא הִנֵּ֣ה׀ יָמִ֣ים _בָּאִ֗ים_ (Amos 8:11)
+NIV	“The days _are coming_,” declares the Sovereign LORD, “when I will send a famine through the land — not a famine of food or a thirst for water, but a famine of hearing the words of the LORD.
+ESV	“Behold, the days _are coming_,” declares the Lord God, “when I will send a famine on the land — not a famine of bread, nor a thirst for water, but of hearing the words of the Lord.
+
+(x)	וְשַׁבְתֶּם֙ כִּֽי־הִנֵּ֤ה הַיֹּום֙ _בָּ֔א_ (Mal. 3:19)
+NIV	“Surely the day _is coming_. it will burn like a furnace. All the arrogant and every evildoer will be stubble, and that day that _is coming_ will set them on fire,” says the LORD Almighty. “Not a root or a branch will be left to them.
+ESV	“For behold, the day _is coming_, burning like an oven, when all the arrogant and all evildoers will be stubble. The day that _is coming_ shall set them ablaze, says the Lord of hosts, so that it will leave them neither root nor branch.

@@ -98,7 +98,7 @@ rules = [
     (
         'PRES PROG', 
         [
-            {'TEXT': {'IN': ['are', 'am']}},
+            {'TEXT': {'IN': ['are', 'am', 'is']}},
             {'TAG':'VBG', 'LEMMA': {'NOT_IN':['go']}},
         ]
     ),

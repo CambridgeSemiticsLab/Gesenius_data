@@ -1,0 +1,62 @@
+genre == "poetry" and eng_TAMsimp == "PRES PART"
+15 of 40
+
+(x)	יִשָּׂשכָ֖ר חֲמֹ֣ר גָּ֑רֶם _רֹבֵ֖ץ_ בֵּ֥ין הַֽמִּשְׁפְּתָֽיִם׃ (Gen. 49:14)
+NIV	“Issachar is a rawboned donkey _lying down_ between two saddlebags.
+ESV	“Issachar is a strong donkey, _crouching_ between the sheepfolds.
+
+(x)	תֹּ֘ורַ֤ת יְהוָ֣ה תְּ֭מִימָה מְשִׁ֣יבַת נָ֑פֶשׁ עֵד֥וּת יְהוָ֥ה נֶ֝אֱמָנָ֗ה _מַחְכִּ֥ימַת_ פֶּֽתִי׃ (Psa. 19:8)
+NIV	The law of the LORD is perfect, reviving the soul. The statutes of the LORD are trustworthy, _making wise_ the simple.
+ESV	The law of the Lord is perfect, reviving the soul. the testimony of the Lord is sure, _making wise_ the simple.
+
+(x)	יִרְאַ֤ת יְהוָ֨ה׀ טְהֹורָה֮ _עֹומֶ֪דֶת_ לָ֫עַ֥ד מִֽשְׁפְּטֵי־יְהוָ֥ה אֱמֶ֑ת צָֽדְק֥וּ יַחְדָּֽו׃ (Psa. 19:10)
+NIV	The fear of the LORD is pure, _enduring_ forever. The ordinances of the LORD are sure and altogether righteous.
+ESV	the fear of the Lord is clean, _enduring_ forever. the rules of the Lord are true, and righteous altogether.
+
+(x)	יְֽהִי־דַרְכָּ֗ם חֹ֥שֶׁךְ וַחֲלַקְלַקֹּ֑ות וּמַלְאַ֥ךְ יְ֝הוָ֗ה _רֹדְפָֽם_׃ (Psa. 35:6)
+NIV	may their path be dark and slippery, with the angel of the LORD _pursuing_ them.
+ESV	Let their way be dark and slippery, with the angel of the Lord _pursuing_ them!
+
+(x)	בְּבֹ֣וא הַ֭זִּיפִים וַיֹּאמְר֣וּ לְשָׁא֑וּל הֲלֹ֥א דָ֝וִ֗ד _מִסְתַּתֵּ֥ר_ עִמָּֽנוּ׃ (Psa. 54:2)
+NIV	For the director of music. With stringed instruments. A maskil of David. When the Ziphites had gone to Saul and said, “Is not David hiding among us?”
+ESV	To the choirmaster: with stringed instruments. A Maskil of David, when the Ziphites went and told Saul, “Is not David hiding among us?”
+
+(x)	הָ֘לֹ֤וךְ יֵלֵ֨ךְ׀ וּבָכֹה֮ _נֹשֵׂ֪א_ מֶֽשֶׁךְ־הַ֫זָּ֥רַע בֹּֽא־יָבֹ֥וא בְרִנָּ֑ה נֹ֝שֵׂ֗א אֲלֻמֹּתָֽיו׃ (Psa. 126:6)
+NIV	He who goes out weeping, _carrying_ seed to sow, will return with songs of joy, _carrying_ sheaves with him.
+ESV	He who goes out weeping, _bearing_ the seed for sowing, shall come home with shouts of joy, bringing his sheaves with him.
+
+(x)	כַּשֶּׁ֤מֶן הַטֹּ֨וב׀ עַל־הָרֹ֗אשׁ יֹרֵ֗ד עַֽל־הַזָּקָ֥ן זְקַֽן־אַהֲרֹ֑ן שֶׁ֝_יֹּרֵ֗ד_ עַל־פִּ֥י מִדֹּותָֽיו׃ (Psa. 133:2)
+NIV	It is like precious oil poured on the head, _running down_ on the beard, _running down_ on Aaron’s beard, down upon the collar of his robes.
+ESV	It is like the precious oil on the head, _running down_ on the beard, on the beard of Aaron, _running down_ on the collar of his robes!
+
+(x)	אִם־אֶרְאֶ֣ה אֹ֖ור כִּ֣י יָהֵ֑ל וְ֝יָרֵ֗חַ יָקָ֥ר _הֹלֵֽךְ_׃ (Job 31:26)
+NIV	if I have regarded the sun in its radiance or the moon _moving_ in splendour,
+ESV	if I have looked at the sun when it shone, or the moon _moving_ in splendor,
+
+(x)	_מְ֭שַׂחֶקֶת_ בְּתֵבֵ֣ל אַרְצֹ֑ו וְ֝שַׁעֲשֻׁעַ֗י אֶת־בְּנֵ֥י אָדָֽם׃ פ (Prov. 8:31)
+NIV	_rejoicing_ in his whole world and delighting in mankind.
+ESV	_rejoicing_ in his inhabited world and delighting in the children of man.
+
+(x)	גֶּ֣בֶר רָ֭שׁ וְעֹשֵׁ֣ק דַּלִּ֑ים מָטָ֥ר _סֹ֝חֵ֗ף_ וְאֵ֣ין לָֽחֶם׃ (Prov. 28:3)
+NIV	A ruler who oppresses the poor is like a _driving_ rain that leaves no crops.
+ESV	A poor man who oppresses the poor is a _beating_ rain that leaves no food.
+
+(x)	קֹ֣ול דֹּודִ֔י הִנֵּה־זֶ֖ה בָּ֑א מְדַלֵּג֙ עַל־הֶ֣הָרִ֔ים _מְקַפֵּ֖ץ_ עַל־הַגְּבָעֹֽות׃ (Song 2:8)
+NIV	Listen! My lover! Look! Here he comes, leaping across the mountains, _bounding_ over the hills.
+ESV	The voice of my beloved! Behold, he comes, leaping over the mountains, _bounding_ over the hills.
+
+(x)	מִ֣י זֹ֗את _עֹלָה֙_ מִן־הַמִּדְבָּ֔ר כְּתִֽימֲרֹ֖ות עָשָׁ֑ן מְקֻטֶּ֤רֶת מֹור֙ וּלְבֹונָ֔ה מִכֹּ֖ל אַבְקַ֥ת רֹוכֵֽל׃ (Song 3:6)
+NIV	Who is this _coming up_ from the desert like a column of smoke, perfumed with myrrh and incense made from all the spices of the merchant?
+ESV	What is that _coming up_ from the wilderness like columns of smoke, perfumed with myrrh and frankincense, with all the fragrant powders of a merchant?
+
+(x)	מִ֣י זֹ֗את _עֹלָה֙_ מִן־הַמִּדְבָּ֔ר מִתְרַפֶּ֖קֶת עַל־דֹּודָ֑הּ תַּ֤חַת הַתַּפּ֨וּחַ֙ עֹֽורַרְתִּ֔יךָ שָׁ֚מָּה חִבְּלַ֣תְךָ אִמֶּ֔ךָ שָׁ֖מָּה חִבְּלָ֥ה יְלָדַֽתְךָ׃ (Song 8:5)
+NIV	Who is this _coming up_ from the desert leaning on her lover? Under the apple tree I roused you. there your mother conceived you, there she who was in labour gave you birth.
+ESV	Who is that _coming up_ from the wilderness, leaning on her beloved? Under the apple tree I awakened you. There your mother was in labor with you. there she who bore you was in labor.
+
+(x)	יֵ֣שׁ אֶחָד֩ וְאֵ֨ין שֵׁנִ֜י גַּ֣ם בֵּ֧ן וָאָ֣ח אֵֽין־לֹ֗ו וְאֵ֥ין קֵץ֙ לְכָל־עֲמָלֹ֔ו גַּם־עֵינֹ֖ו לֹא־תִשְׂבַּ֣ע עֹ֑שֶׁר וּלְמִ֣י׀ אֲנִ֣י עָמֵ֗ל וּ_מְחַסֵּ֤ר_ אֶת־נַפְשִׁי֙ מִטֹּובָ֔ה גַּם־זֶ֥ה הֶ֛בֶל וְעִנְיַ֥ן רָ֖ע הֽוּא׃ (Eccl. 4:8)
+NIV	There was a man all alone. he had neither son nor brother. There was no end to his toil, yet his eyes were not content with his wealth. “For whom am I toiling,” he asked, “and why am I depriving myself of enjoyment?” This too is meaningless — a miserable business!
+ESV	one person who has no other, either son or brother, yet there is no end to all his toil, and his eyes are never satisfied with riches, so that he never asks, “For whom am I toiling and _depriving_ myself of pleasure?” This also is vanity and an unhappy business.
+
+(x)	כֹּ֠ל אֲשֶׁ֨ר תִּמְצָ֧א יָֽדְךָ֛ לַעֲשֹׂ֥ות בְּכֹחֲךָ֖ עֲשֵׂ֑ה כִּי֩ אֵ֨ין מַעֲשֶׂ֤ה וְחֶשְׁבֹּון֙ וְדַ֣עַת וְחָכְמָ֔ה בִּשְׁאֹ֕ול אֲשֶׁ֥ר אַתָּ֖ה _הֹלֵ֥ךְ_ שָֽׁמָּה׃ ס (Eccl. 9:10)
+NIV	Whatever your hand finds to do, do it with all your might, for in the grave, where you _are going_, there is neither working nor planning nor knowledge nor wisdom.
+ESV	Whatever your hand finds to do, do it with your might, for there is no work or thought or knowledge or wisdom in Sheol, to which you _are going_.

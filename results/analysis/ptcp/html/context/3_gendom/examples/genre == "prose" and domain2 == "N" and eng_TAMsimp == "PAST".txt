@@ -1,0 +1,62 @@
+genre == "prose" and domain2 == "N" and eng_TAMsimp == "PAST"
+15 of 292
+
+(x)	וַיִּגְוַ֞ע כָּל־בָּשָׂ֣ר׀ הָ_רֹמֵ֣שׂ_ עַל־הָאָ֗רֶץ בָּעֹ֤וף וּבַבְּהֵמָה֙ וּבַ֣חַיָּ֔ה וּבְכָל־הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל־הָאָ֑רֶץ וְכֹ֖ל הָאָדָֽם׃ (Gen. 7:21)
+NIV	Every living thing _that moved_ on the earth perished — birds, livestock, wild animals, all the creatures that swarm over the earth, and all mankind.
+ESV	And all flesh died _that moved_ on the earth, birds, livestock, beasts, all swarming creatures that swarm on the earth, and all mankind.
+
+(x)	אֵ֣ין׀ שַׂ֣ר בֵּית־הַסֹּ֗הַר רֹאֶ֤ה אֶֽת־כָּל־מְא֨וּמָה֙ בְּיָדֹ֔ו בַּאֲשֶׁ֥ר יְהוָ֖ה אִתֹּ֑ו וַֽאֲשֶׁר־ה֥וּא _עֹשֶׂ֖ה_ יְהוָ֥ה מַצְלִֽיחַ׃ ס (Gen. 39:23)
+NIV	The warden paid no attention to anything under Joseph’s care, because the LORD was with Joseph and gave him success in whatever he _did_.
+ESV	The keeper of the prison paid no attention to anything that was in Joseph’s charge, because the Lord was with him. And whatever he _did_, the Lord made it succeed.
+
+(x)	וַיִּסְעוּ֙ מֵהַ֣ר יְהוָ֔ה דֶּ֖רֶךְ שְׁלֹ֣שֶׁת יָמִ֑ים וַאֲרֹ֨ון בְּרִית־יְהוָ֜ה _נֹסֵ֣עַ_ לִפְנֵיהֶ֗ם דֶּ֚רֶךְ שְׁלֹ֣שֶׁת יָמִ֔ים לָת֥וּר לָהֶ֖ם מְנוּחָֽה׃ (Num. 10:33)
+NIV	So they set out from the mountain of the LORD and traveled for three days. The ark of the covenant of the LORD _went_ before them during those three days to find them a place to rest.
+ESV	So they set out from the mount of the Lord three days’ journey. And the ark of the covenant of the Lord _went_ before them three days’ journey, to seek out a resting place for them.
+
+(x)	וַיִּמְכְּרֵ֣ם יְהוָ֗ה בְּיַד֙ יָבִ֣ין מֶֽלֶךְ־כְּנַ֔עַן אֲשֶׁ֥ר מָלַ֖ךְ בְּחָצֹ֑ור וְשַׂר־צְבָאֹו֙ סִֽיסְרָ֔א וְה֥וּא _יֹושֵׁ֖ב_ בַּחֲרֹ֥שֶׁת הַגֹּויִֽם׃ (Judg. 4:2)
+NIV	So the LORD sold them into the hands of Jabin, a king of Canaan, who reigned in Hazor. The commander of his army was Sisera, _who lived_ in Harosheth Haggoyim.
+ESV	And the Lord sold them into the hand of Jabin king of Canaan, who reigned in Hazor. The commander of his army was Sisera, _who lived_ in Harosheth-hagoyim.
+
+(x)	וּמִשְׁפַּ֥ט הַכֹּהֲנִ֖ים אֶת־הָעָ֑ם כָּל־אִ֞ישׁ _זֹבֵ֣חַ_ זֶ֗בַח וּבָ֨א נַ֤עַר הַכֹּהֵן֙ כְּבַשֵּׁ֣ל הַבָּשָׂ֔ר וְהַמַּזְלֵ֛ג שְׁלֹ֥שׁ־הַשִּׁנַּ֖יִם בְּיָדֹֽו׃ (I Sam. 2:13)
+NIV	Now it was the practice of the priests with the people that whenever anyone offered a sacrifice and while the meat was being boiled, the servant of the priest would come with a three-pronged fork in his hand.
+ESV	The custom of the priests with the people was that when any man offered sacrifice, the priest’s servant would come, while the meat was boiling, with a three-pronged fork in his hand,
+
+(x)	וַיָּ֣קָם דָּוִ֗ד וַיָּבֹא֮ אֶֽל־הַמָּקֹום֮ אֲשֶׁ֣ר חָנָה־שָׁ֣ם שָׁאוּל֒ וַיַּ֣רְא דָּוִ֗ד אֶת־הַמָּקֹום֙ אֲשֶׁ֣ר שָֽׁכַב־שָׁ֣ם שָׁא֔וּל וְאַבְנֵ֥ר בֶּן־נֵ֖ר שַׂר־צְבָאֹ֑ו וְשָׁאוּל֙ שֹׁכֵ֣ב בַּמַּעְגָּ֔ל וְהָעָ֖ם _חֹנִ֥ים_ סְבִיבֹתָֽיו׃ (I Sam. 26:5)
+NIV	Then David set out and went to the place where Saul had camped. He saw where Saul and Abner son of Ner, the commander of the army, had lain down. Saul was lying inside the camp, with the army _encamped_ around him.
+ESV	Then David rose and came to the place where Saul had encamped. And David saw the place where Saul lay, with Abner the son of Ner, the commander of his army. Saul was lying within the encampment, while the army _was encamped_ around him.
+
+(x)	וַיֶּאֱהַ֤ב שְׁלֹמֹה֙ אֶת־יְהוָ֔ה לָלֶ֕כֶת בְּחֻקֹּ֖ות דָּוִ֣ד אָבִ֑יו רַ֚ק בַּבָּמֹ֔ות ה֥וּא _מְזַבֵּ֖חַ_ וּמַקְטִֽיר׃ (I Kgs. 3:3)
+NIV	Solomon showed his love for the LORD by walking according to the statutes of his father David, except that he _offered sacrifices_ and burned incense on the high places.
+ESV	Solomon loved the Lord, walking in the statutes of David his father, only he _sacrificed_ and made offerings at the high places.
+
+(x)	בִּשְׁנַת֩ עֶשְׂרִ֨ים וָשֶׁ֜בַע שָׁנָ֗ה לְאָסָא֙ מֶ֣לֶךְ יְהוּדָ֔ה מָלַ֥ךְ זִמְרִ֛י שִׁבְעַ֥ת יָמִ֖ים בְּתִרְצָ֑ה וְהָעָ֣ם _חֹנִ֔ים_ עַֽל־גִּבְּתֹ֖ון אֲשֶׁ֥ר לַפְּלִשְׁתִּֽים׃ (I Kgs. 16:15)
+NIV	In the twenty-seventh year of Asa king of Judah, Zimri reigned in Tirzah for seven days. The army _was encamped_ near Gibbethon, a Philistine town.
+ESV	In the twenty-seventh year of Asa king of Judah, Zimri reigned seven days in Tirzah. Now the troops _were encamped_ against Gibbethon, which belonged to the Philistines,
+
+(x)	וַיִּהְי֣וּ עֹשִׂ֔ים גֹּ֥וי גֹּ֖וי אֱלֹהָ֑יו וַיַּנִּ֣יחוּ׀ בְּבֵ֣ית הַבָּמֹ֗ות אֲשֶׁ֤ר עָשׂוּ֙ הַשֹּׁ֣מְרֹנִ֔ים גֹּ֥וי גֹּוי֙ בְּעָ֣רֵיהֶ֔ם אֲשֶׁ֛ר הֵ֥ם _יֹשְׁבִ֖ים_ שָֽׁם׃ (II Kgs. 17:29)
+NIV	Nevertheless, each national group made its own gods in the several towns where they _settled_, and set them up in the shrines the people of Samaria had made at the high places.
+ESV	But every nation still made gods of its own and put them in the shrines of the high places that the Samaritans had made, every nation in the cities in which they _lived_.
+
+(x)	וְכָל־עַבְדֵ֨י הַמֶּ֜לֶךְ אֲשֶׁר־בְּשַׁ֣עַר הַמֶּ֗לֶךְ _כֹּרְעִ֤ים_ וּמִֽשְׁתַּחֲוִים֙ לְהָמָ֔ן כִּי־כֵ֖ן צִוָּה־לֹ֣ו הַמֶּ֑לֶךְ וּמָ֨רְדֳּכַ֔י לֹ֥א יִכְרַ֖ע וְלֹ֥א יִֽשְׁתַּחֲוֶֽה׃ (Esth. 3:2)
+NIV	All the royal officials at the king’s gate _knelt down_ and paid honour to Haman, for the king had commanded this concerning him. But Mordecai would not kneel down or pay him honour.
+ESV	And all the king’s servants who were at the king’s gate _bowed down_ and paid homage to Haman, for the king had so commanded concerning him. But Mordecai did not bow down or pay homage.
+
+(x)	וְ֠גַם בִּמְלֶ֜אכֶת הַחֹומָ֤ה הַזֹּאת֙ הֶחֱזַ֔קְתִּי וְשָׂדֶ֖ה לֹ֣א קָנִ֑ינוּ וְכָל־נְעָרַ֔י _קְבוּצִ֥ים_ שָׁ֖ם עַל־הַמְּלָאכָֽה׃ (Neh. 5:16)
+NIV	Instead, I devoted myself to the work on this wall. All my men _were assembled_ there for the work. we did not acquire any land.
+ESV	I also persevered in the work on this wall, and we acquired no land, and all my servants _were gathered_ there for the work.
+
+(x)	וַיִּשָּׂ֨א דָוִ֜יד אֶת־עֵינָ֗יו וַיַּ֞רְא אֶת־מַלְאַ֤ךְ יְהוָה֙ עֹמֵ֗ד בֵּ֤ין הָאָ֨רֶץ֙ וּבֵ֣ין הַשָּׁמַ֔יִם וְחַרְבֹּ֤ו שְׁלוּפָה֙ בְּיָדֹ֔ו _נְטוּיָ֖ה_ עַל־יְרוּשָׁלִָ֑ם וַיִּפֹּ֨ל דָּוִ֧יד וְהַזְּקֵנִ֛ים מְכֻסִּ֥ים בַּשַּׂקִּ֖ים עַל־פְּנֵיהֶֽם׃ (I Chr. 21:16)
+NIV	David looked up and saw the angel of the LORD standing between heaven and earth, with a drawn sword in his hand _extended_ over Jerusalem. Then David and the elders, clothed in sackcloth, fell face down.
+ESV	And David lifted his eyes and saw the angel of the Lord standing between earth and heaven, and in his hand a drawn sword _stretched out_ over Jerusalem. Then David and the elders, clothed in sackcloth, fell upon their faces.
+
+(x)	וּמִן־פְּלִשְׁתִּ֗ים מְבִיאִ֧ים לִֽיהֹושָׁפָ֛ט מִנְחָ֖ה וְכֶ֣סֶף מַשָּׂ֑א גַּ֣ם הָֽעַרְבִיאִ֗ים _מְבִיאִ֥ים_ לֹו֙ צֹ֕אן אֵילִ֔ים שִׁבְעַ֤ת אֲלָפִים֙ וּשְׁבַ֣ע מֵאֹ֔ות וּתְיָשִׁ֕ים שִׁבְעַ֥ת אֲלָפִ֖ים וּשְׁבַ֥ע מֵאֹֽות׃ פ (II Chr. 17:11)
+NIV	Some Philistines _brought_ Jehoshaphat gifts and silver as tribute, and the Arabs _brought_ him flocks: seven thousand seven hundred rams and seven thousand seven hundred goats.
+ESV	Some of the Philistines _brought_ Jehoshaphat presents and silver for tribute, and the Arabians also _brought_ him 7,700 rams and 7,700 goats.
+
+(x)	וַיַּעֲשׂ֣וּ בְנֵֽי־יִ֠שְׂרָאֵל הַ_נִּמְצְאִ֨ים_ בִּירוּשָׁלִַ֜ם אֶת־חַ֧ג הַמַּצֹּ֛ות שִׁבְעַ֥ת יָמִ֖ים בְּשִׂמְחָ֣ה גְדֹולָ֑ה וּֽמְהַלְלִ֣ים לַ֠יהוָה יֹ֣ום׀ בְּיֹ֞ום הַלְוִיִּ֧ם וְהַכֹּהֲנִ֛ים בִּכְלֵי־עֹ֖ז לַיהוָֽה׃ ס (II Chr. 30:21)
+NIV	The Israelites who were present in Jerusalem _celebrated_ the Feast of Unleavened Bread for seven days with great rejoicing, while the Levites and priests sang to the LORD every day, accompanied by the LORD’s instruments of praise.
+ESV	And the people of Israel _who were present_ at Jerusalem kept the Feast of Unleavened Bread seven days with great gladness, and the Levites and the priests praised the Lord day by day, singing with all their might to the Lord.
+
+(x)	וְיֶתֶר֩ דִּבְרֵ֨י יְהֹֽויָקִ֜ים וְתֹֽעֲבֹתָ֤יו אֲשֶׁר־עָשָׂה֙ וְהַ_נִּמְצָ֣א_ עָלָ֔יו הִנָּ֣ם כְּתוּבִ֗ים עַל־סֵ֛פֶר מַלְכֵ֥י יִשְׂרָאֵ֖ל וִֽיהוּדָ֑ה וַיִּמְלֹ֛ךְ יְהֹויָכִ֥ין בְּנֹ֖ו תַּחְתָּֽיו׃ פ (II Chr. 36:8)
+NIV	The other events of Jehoiakim’s reign, the detestable things he did and all _that was found_ against him, are written in the book of the kings of Israel and Judah. And Jehoiachin his son succeeded him as king.
+ESV	Now the rest of the acts of Jehoiakim, and the abominations that he did, and _what was found_ against him, behold, they are written in the Book of the Kings of Israel and Judah. And Jehoiachin his son reigned in his place.

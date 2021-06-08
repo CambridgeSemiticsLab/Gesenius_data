@@ -1,0 +1,74 @@
+eng_TAMsimp == "PRES PROG" and mother_verbtype == "infc"
+18 of 18
+
+(x)	לַעֲשֹׂ֣ות כֵּ֔ן בְּקֶ֣רֶב הָאָ֔רֶץ אֲשֶׁ֥ר אַתֶּ֛ם _בָּאִ֥ים_ שָׁ֖מָּה (Deut. 4:5)
+NIV	See, I have taught you decrees and laws as the LORD my God commanded me, so that you may follow them in the land you _are entering_ to take possession of it.
+ESV	See, I have taught you statutes and rules, as the Lord my God commanded me, that you should do them in the land that you _are entering_ to take possession of it.
+
+(x)	וּלְבִלְתִּי־בֹא֙ אֶל־הָאָ֣רֶץ הַטֹּובָ֔ה אֲשֶׁר֙ יְהוָ֣ה אֱלֹהֶ֔יךָ _נֹתֵ֥ן_ לְךָ֖ נַחֲלָֽה׃ (Deut. 4:21)
+NIV	The LORD was angry with me because of you, and he solemnly swore that I would not cross the Jordan and enter the good land the LORD your God _is giving_ you as your inheritance.
+ESV	Furthermore, the Lord was angry with me because of you, and he swore that I should not cross the Jordan, and that I should not enter the good land that the Lord your God _is giving_ you for an inheritance.
+
+(x)	לִשְׁמֹ֞ר אֶת־מִצְוֹ֤ת יְהוָה֙ וְאֶת־חֻקֹּתָ֔יו אֲשֶׁ֛ר אָנֹכִ֥י _מְצַוְּךָ֖_ הַיֹּ֑ום (Deut. 10:13)
+NIV	and to observe the LORD’s commands and decrees that I _am giving_ you today for your own good?
+ESV	and to keep the commandments and statutes of the Lord, which I _am commanding_ you today for your good?
+
+(x)	לָרֶ֣שֶׁת אֶת־הָאָ֔רֶץ אֲשֶׁר־יְהוָ֥ה אֱלֹהֵיכֶ֖ם _נֹתֵ֣ן_ לָכֶ֑ם (Deut. 11:31)
+NIV	You are about to cross the Jordan to enter and take possession of the land the LORD your God _is giving_ you. When you have taken it over and are living there,
+ESV	For you are to cross over the Jordan to go in to take possession of the land that the Lord your God _is giving_ you. And when you possess it and live in it,
+
+(x)	לַעֲשֹׂ֔ות אֵ֥ת כָּל־הַֽחֻקִּ֖ים וְאֶת־הַמִּשְׁפָּטִ֑ים אֲשֶׁ֧ר אָנֹכִ֛י _נֹתֵ֥ן_ לִפְנֵיכֶ֖ם הַיֹּֽום׃ (Deut. 11:32)
+NIV	be sure that you obey all the decrees and laws I _am setting_ before you today.
+ESV	you shall be careful to do all the statutes and the rules that I _am setting_ before you today.
+
+(x)	לִשְׁמֹר֙ אֶת־כָּל־מִצְוֹתָ֔יו אֲשֶׁ֛ר אָנֹכִ֥י _מְצַוְּךָ֖_ הַיֹּ֑ום (Deut. 13:19)
+NIV	because you obey the LORD your God, keeping all his commands that I _am giving_ you today and doing what is right in his eyes.
+ESV	if you obey the voice of the Lord your God, keeping all his commandments that I _am commanding_ you today, and doing what is right in the sight of the Lord your God.
+
+(x)	בְּהָנִ֣יחַ יְהוָ֣ה אֱלֹהֶ֣יךָ׀ לְ֠ךָ מִכָּל־אֹ֨יְבֶ֜יךָ מִסָּבִ֗יב בָּאָ֨רֶץ֙ אֲשֶׁ֣ר יְהוָֽה־אֱ֠לֹהֶיךָ _נֹתֵ֨ן_ לְךָ֤ נַחֲלָה֙ (Deut. 25:19)
+NIV	When the LORD your God gives you rest from all the enemies around you in the land he _is giving_ you to possess as an inheritance, you shall blot out the memory of Amalek from under heaven. Do not forget!
+ESV	Therefore when the Lord your God has given you rest from all your enemies around you, in the land that the Lord your God _is giving_ you for an inheritance to possess, you shall blot out the memory of Amalek from under heaven. you shall not forget.
+
+(x)	עַ֚ד כַּלֹּתֹ֣ו אֹֽתְךָ֔ מֵעַל֙ הָֽאֲדָמָ֔ה אֲשֶׁר־אַתָּ֥ה _בָא_־שָׁ֖מָּה (Deut. 28:21)
+NIV	The LORD will plague you with diseases until he has destroyed you from the land you _are entering_ to possess.
+ESV	The Lord will make the pestilence stick to you until he has consumed you off the land that you _are entering_ to take possession of it.
+
+(x)	לְעָבְרְךָ֗ בִּבְרִ֛ית יְהוָ֥ה אֱלֹהֶ֖יךָ וּבְאָלָתֹ֑ו אֲשֶׁר֙ יְהוָ֣ה אֱלֹהֶ֔יךָ _כֹּרֵ֥ת_ עִמְּךָ֖ הַיֹּֽום׃ (Deut. 29:11)
+NIV	You are standing here in order to enter into a covenant with the LORD your God, a covenant the LORD _is making_ with you this day and sealing with an oath,
+ESV	so that you may enter into the sworn covenant of the Lord your God, which the Lord your God _is making_ with you today,
+
+(x)	לָרֶ֣שֶׁת אֶת־הָאָ֔רֶץ אֲשֶׁר֙ יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם _נֹתֵ֥ן_ לָכֶ֖ם (Josh. 1:11)
+NIV	“Go through the camp and tell the people, ‘Get your supplies ready. Three days from now you will cross the Jordan here to go in and take possession of the land the LORD your God _is giving_ you for your own.’”
+ESV	“Pass through the midst of the camp and command the people, ‘Prepare your provisions, for within three days you are to pass over this Jordan to go in to take possession of the land that the Lord your God _is giving_ you to possess.’”
+
+(x)	לֵאמֹ֑ר יְהוָ֤ה אֱלֹהֵיכֶם֙ _מֵנִ֣יחַ_ לָכֶ֔ם (Josh. 1:13)
+NIV	“Remember the command that Moses the servant of the LORD gave you: ‘The LORD your God is giving you rest and has granted you this land.’
+ESV	“Remember the word that Moses the servant of the Lord commanded you, saying, ‘The Lord your God is providing you a place of rest and will give you this land.’
+
+(x)	לֵאמֹר֒ אִם־בְּכָל־לְבַבְכֶ֗ם אַתֶּ֤ם _שָׁבִים֙_ אֶל־יְהוָ֔ה (I Sam. 7:3)
+NIV	And Samuel said to the whole house of Israel, “If you _are returning_ to the LORD with all your hearts, then rid yourselves of the foreign gods and the Ashtoreths and commit yourselves to the LORD and serve him only, and he will deliver you out of the hand of the Philistines.”
+ESV	And Samuel said to all the house of Israel, “If you _are returning_ to the Lord with all your heart, then put away the foreign gods and the Ashtaroth from among you and direct your heart to the Lord and serve him only, and he will deliver you out of the hand of the Philistines.”
+
+(x)	לֵאמֹ֔ר הִנֵּ֥ה הָעָ֛ם _חֹטִ֥אים_ לַֽיהוָ֖ה (I Sam. 14:33)
+NIV	Then someone said to Saul, “Look, the men _are sinning_ against the LORD by eating meat that has blood in it.” “You have broken faith,” he said. “Roll a large stone over here at once.”
+ESV	Then they told Saul, “Behold, the people _are sinning_ against the Lord by eating with the blood.” And he said, “You have dealt treacherously. roll a great stone to me here.”
+
+(x)	לֵאמֹ֑ר הִנֵּ֤ה פְלִשְׁתִּים֙ _נִלְחָמִ֣ים_ בִּקְעִילָ֔ה (I Sam. 23:1)
+NIV	When David was told, “Look, the Philistines _are fighting_ against Keilah and are looting the threshing-floors,”
+ESV	Now they told David, “Behold, the Philistines _are fighting_ against Keilah and are robbing the threshing floors.”
+
+(x)	וְלָדַ֕עַת אֵ֛ת כָּל־אֲשֶׁ֥ר אַתָּ֖ה _עֹשֶֽׂה_׃ (II Sam. 3:25)
+NIV	You know Abner son of Ner. he came to deceive you and observe your movements and find out everything you _are doing_.”
+ESV	You know that Abner the son of Ner came to deceive you and to know your going out and your coming in, and to know all that you _are doing_.”
+
+(x)	לֵאמֹ֗ר הִנֵּ֤ה הַמֶּ֨לֶךְ֙ _יֹושֵׁ֣ב_ בַּשַּׁ֔עַר (II Sam. 19:9)
+NIV	So the king got up and took his seat in the gateway. When the men were told, “The king _is sitting_ in the gateway,” they all came before him. Meanwhile, the Israelites had fled to their homes.
+ESV	Then the king arose and took his seat in the gate. And the people were all told, “Behold, the king _is sitting_ in the gate.” And all the people came before the king. Now Israel had fled every man to his own home.
+
+(x)	לֵאמֹ֔ר אֶל־הַכַּשְׂדִּ֖ים אַתָּ֥ה _נֹפֵֽל_׃ (Jer. 37:13)
+NIV	But when he reached the Benjamin Gate, the captain of the guard, whose name was Irijah son of Shelemiah, the son of Hananiah, arrested him and said, “You _are deserting_ to the Babylonians!”
+ESV	When he was at the Benjamin Gate, a sentry there named Irijah the son of Shelemiah, son of Hananiah, seized Jeremiah the prophet, saying, “You _are deserting_ to the Chaldeans.”
+
+(x)	לֵאמֹ֔ר מְלָאכָ֤ה גְדֹולָה֙ אֲנִ֣י _עֹשֶׂ֔ה_ (Neh. 6:3)
+NIV	so I sent messengers to them with this reply: “I _am carrying on_ a great project and cannot go down. Why should the work stop while I leave it and go down to you?”
+ESV	And I sent messengers to them, saying, “I _am doing_ a great work and I cannot come down. Why should the work stop while I leave it and come down to you?”

@@ -1,0 +1,102 @@
+eng_TAMsimp == "PRES" and cl_args == "QSV"
+25 of 46
+
+(x)	וַיַּרְא֙ חֹתֵ֣ן מֹשֶׁ֔ה אֵ֛ת כָּל־אֲשֶׁר־ה֥וּא עֹשֶׂ֖ה לָעָ֑ם וַיֹּ֗אמֶר מָֽה־הַדָּבָ֤ר הַזֶּה֙ אֲשֶׁ֨ר אַתָּ֤ה עֹשֶׂה֙ לָעָ֔ם מַדּ֗וּעַ אַתָּ֤ה _יֹושֵׁב֙_ לְבַדֶּ֔ךָ וְכָל־הָעָ֛ם נִצָּ֥ב עָלֶ֖יךָ מִן־בֹּ֥קֶר עַד־עָֽרֶב׃ (Exod. 18:14)
+NIV	When his father-in-law saw all that Moses was doing for the people, he said, “What is this you are doing for the people? Why do you alone sit as judge, while all these people stand around you from morning till evening?”
+ESV	When Moses’ father-in-law saw all that he was doing for the people, he said, “What is this that you are doing for the people? Why do you sit alone, and all the people stand around you from morning till evening?”
+
+(x)	וַיֹּ֣אמֶר׀ לֹ֗א כִּ֛י אֲנִ֥י שַׂר־צְבָֽא־יְהוָ֖ה עַתָּ֣ה בָ֑אתִי וַיִּפֹּל֩ יְהֹושֻׁ֨עַ אֶל־פָּנָ֥יו אַ֨רְצָה֙ וַיִּשְׁתָּ֔חוּ וַיֹּ֣אמֶר לֹ֔ו מָ֥ה אֲדֹנִ֖י _מְדַבֵּ֥ר_ אֶל־עַבְדֹּֽו׃ (Josh. 5:14)
+NIV	“Neither,” he replied, “but as commander of the army of the LORD I have now come.” Then Joshua fell face down to the ground in reverence, and asked him, “What message does my Lord have for his servant?”
+ESV	And he said, “No. but I am the commander of the army of the Lord. Now I have come.” And Joshua fell on his face to the earth and worshiped and said to him, “What does my lord say to his servant?”
+
+(x)	וְאַבְשָׁלֹום֙ אֲשֶׁ֣ר מָשַׁ֣חְנוּ עָלֵ֔ינוּ מֵ֖ת בַּמִּלְחָמָ֑ה וְעַתָּ֗ה לָמָ֥ה אַתֶּ֛ם _מַחֲרִשִׁ֖ים_ לְהָשִׁ֥יב אֶת־הַמֶּֽלֶךְ׃ ס (II Sam. 19:11)
+NIV	and Absalom, whom we anointed to rule over us, has died in battle. So why do you say nothing about bringing the king back?”
+ESV	But Absalom, whom we anointed over us, is dead in battle. Now therefore why do you say nothing about bringing the king back?”
+
+(x)	וְיֶ֨תֶר דִּבְרֵ֤י אֲבִיָּם֙ וְכָל־אֲשֶׁ֣ר עָשָׂ֔ה הֲלֹֽוא־הֵ֣ם _כְּתוּבִ֗ים_ עַל־סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֣י יְהוּדָ֑ה וּמִלְחָמָ֥ה הָיְתָ֛ה בֵּ֥ין אֲבִיָּ֖ם וּבֵ֥ין יָרָבְעָֽם׃ (I Kgs. 15:7)
+NIV	As for the other events of Abijah’s reign, and all he did, are they not written in the book of the annals of the kings of Judah? There was war between Abijah and Jeroboam.
+ESV	The rest of the acts of Abijam and all that he did, are they not written in the Book of the Chronicles of the Kings of Judah? And there was war between Abijam and Jeroboam.
+
+(x)	וְיֶ֛תֶר דִּבְרֵ֥י נָדָ֖ב וְכָל־אֲשֶׁ֣ר עָשָׂ֑ה הֲלֹא־הֵ֣ם _כְּתוּבִ֗ים_ עַל־סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יִשְׂרָאֵֽל׃ (I Kgs. 15:31)
+NIV	As for the other events of Nadab’s reign, and all he did, are they not written in the book of the annals of the kings of Israel?
+ESV	Now the rest of the acts of Nadab and all that he did, are they not written in the Book of the Chronicles of the Kings of Israel?
+
+(x)	וְיֶ֛תֶר דִּבְרֵ֥י אֵלָ֖ה וְכָל־אֲשֶׁ֣ר עָשָׂ֑ה הֲלֹֽוא־הֵ֣ם _כְּתוּבִ֗ים_ עַל־סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יִשְׂרָאֵֽל׃ פ (I Kgs. 16:14)
+NIV	As for the other events of Elah’s reign, and all he did, are they not written in the book of the annals of the kings of Israel?
+ESV	Now the rest of the acts of Elah and all that he did, are they not written in the Book of the Chronicles of the Kings of Israel?
+
+(x)	וְיֶ֨תֶר דִּבְרֵ֤י עָמְרִי֙ אֲשֶׁ֣ר עָשָׂ֔ה וּגְבוּרָתֹ֖ו אֲשֶׁ֣ר עָשָׂ֑ה הֲלֹֽא־הֵ֣ם _כְּתוּבִ֗ים_ עַל־סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יִשְׂרָאֵֽל׃ (I Kgs. 16:27)
+NIV	As for the other events of Omri’s reign, what he did and the things he achieved, are they not written in the book of the annals of the kings of Israel?
+ESV	Now the rest of the acts of Omri that he did, and the might that he showed, are they not written in the Book of the Chronicles of the Kings of Israel?
+
+(x)	וְיֶ֨תֶר דִּבְרֵ֧י יְהֹושָׁפָ֛ט וּגְבוּרָתֹ֥ו אֲשֶׁר־עָשָׂ֖ה וַאֲשֶׁ֣ר נִלְחָ֑ם הֲלֹֽא־הֵ֣ם _כְּתוּבִ֗ים_ עַל־סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יְהוּדָֽה׃ (I Kgs. 22:46)
+NIV	As for the other events of Jehoshaphat’s reign, the things he achieved and his military exploits, are they not written in the book of the annals of the kings of Judah?
+ESV	Now the rest of the acts of Jehoshaphat, and his might that he showed, and how he warred, are they not written in the Book of the Chronicles of the Kings of Judah?
+
+(x)	וְיֶ֛תֶר דִּבְרֵ֥י אֲחַזְיָ֖הוּ אֲשֶׁ֣ר עָשָׂ֑ה הֲלֹֽוא־הֵ֣מָּה _כְתוּבִ֗ים_ עַל־סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יִשְׂרָאֵֽל׃ פ (II Kgs. 1:18)
+NIV	As for all the other events of Ahaziah’s reign, and what he did, are they not written in the book of the annals of the kings of Israel?
+ESV	Now the rest of the acts of Ahaziah that he did, are they not written in the Book of the Chronicles of the Kings of Israel?
+
+(x)	וְיֶ֛תֶר דִּבְרֵ֥י יֹואָ֖שׁ וְכָל־אֲשֶׁ֣ר עָשָׂ֑ה הֲלֹוא־הֵ֣ם _כְּתוּבִ֗ים_ עַל־סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יְהוּדָֽה׃ (II Kgs. 12:20)
+NIV	As for the other events of the reign of Joash, and all he did, are they not written in the book of the annals of the kings of Judah?
+ESV	Now the rest of the acts of Joash and all that he did, are they not written in the Book of the Chronicles of the Kings of Judah?
+
+(x)	וְיֶ֖תֶר דִּבְרֵ֣י אֲמַצְיָ֑הוּ הֲלֹא־הֵ֣ם _כְּתוּבִ֗ים_ עַל־סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יְהוּדָֽה׃ (II Kgs. 14:18)
+NIV	As for the other events of Amaziah’s reign, are they not written in the book of the annals of the kings of Judah?
+ESV	Now the rest of the deeds of Amaziah, are they not written in the Book of the Chronicles of the Kings of Judah?
+
+(x)	וְיֶ֛תֶר דִּבְרֵ֥י עֲזַרְיָ֖הוּ וְכָל־אֲשֶׁ֣ר עָשָׂ֑ה הֲלֹא־הֵ֣ם _כְּתוּבִ֗ים_ עַל־סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יְהוּדָֽה׃ (II Kgs. 15:6)
+NIV	As for the other events of Azariah’s reign, and all he did, are they not written in the book of the annals of the kings of Judah?
+ESV	Now the rest of the acts of Azariah, and all that he did, are they not written in the Book of the Chronicles of the Kings of Judah?
+
+(x)	וְיֶ֛תֶר דִּבְרֵ֥י יֹותָ֖ם אֲשֶׁ֣ר עָשָׂ֑ה הֲלֹא־הֵ֣ם _כְּתוּבִ֗ים_ עַל־סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יְהוּדָֽה׃ (II Kgs. 15:36)
+NIV	As for the other events of Jotham’s reign, and what he did, are they not written in the book of the annals of the kings of Judah?
+ESV	Now the rest of the acts of Jotham and all that he did, are they not written in the Book of the Chronicles of the Kings of Judah?
+
+(x)	וְיֶ֨תֶר דִּבְרֵ֤י חִזְקִיָּ֨הוּ֙ וְכָל־גְּב֣וּרָתֹ֔ו וַאֲשֶׁ֣ר עָשָׂ֗ה אֶת־הַבְּרֵכָה֙ וְאֶת־הַתְּעָלָ֔ה וַיָּבֵ֥א אֶת־הַמַּ֖יִם הָעִ֑ירָה הֲלֹא־הֵ֣ם _כְּתוּבִ֗ים_ עַל־סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יְהוּדָֽה׃ (II Kgs. 20:20)
+NIV	As for the other events of Hezekiah’s reign, all his achievements and how he made the pool and the tunnel by which he brought water into the city, are they not written in the book of the annals of the kings of Judah?
+ESV	The rest of the deeds of Hezekiah and all his might and how he made the pool and the conduit and brought water into the city, are they not written in the Book of the Chronicles of the Kings of Judah?
+
+(x)	וְיֶ֛תֶר דִּבְרֵ֥י אָמֹ֖ון אֲשֶׁ֣ר עָשָׂ֑ה הֲלֹא־הֵ֣ם _כְּתוּבִ֗ים_ עַל־סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יְהוּדָֽה׃ (II Kgs. 21:25)
+NIV	As for the other events of Amon’s reign, and what he did, are they not written in the book of the annals of the kings of Judah?
+ESV	Now the rest of the acts of Amon that he did, are they not written in the Book of the Chronicles of the Kings of Judah?
+
+(x)	וְיֶ֛תֶר דִּבְרֵ֥י יְהֹויָקִ֖ים וְכָל־אֲשֶׁ֣ר עָשָׂ֑ה הֲלֹא־הֵ֣ם _כְּתוּבִ֗ים_ עַל־סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יְהוּדָֽה׃ (II Kgs. 24:5)
+NIV	As for the other events of Jehoiakim’s reign, and all he did, are they not written in the book of the annals of the kings of Judah?
+ESV	Now the rest of the deeds of Jehoiakim and all that he did, are they not written in the Book of the Chronicles of the Kings of Judah?
+
+(x)	וַיְהִ֤י דְבַר־יְהוָה֙ אֵלַ֣י לֵאמֹ֔ר מָה־אַתָּ֥ה _רֹאֶ֖ה_ יִרְמְיָ֑הוּ וָאֹמַ֕ר מַקֵּ֥ל שָׁקֵ֖ד אֲנִ֥י רֹאֶֽה׃ (Jer. 1:11)
+NIV	The word of the LORD came to me: “What do you see, Jeremiah?” “I see the branch of an almond tree,” I replied.
+ESV	And the word of the Lord came to me, saying, “Jeremiah, what do you see?” And I said, “I see an almond branch.”
+
+(x)	וַיֹּ֨אמֶר יְהוָ֜ה אֵלַ֗י מָֽה־אַתָּ֤ה _רֹאֶה֙_ יִרְמְיָ֔הוּ וָאֹמַ֖ר תְּאֵנִ֑ים הַתְּאֵנִ֤ים הַטֹּבֹות֙ טֹבֹ֣ות מְאֹ֔ד וְהָֽרָעֹות֙ רָעֹ֣ות מְאֹ֔ד אֲשֶׁ֥ר לֹא־תֵאָכַ֖לְנָה מֵרֹֽעַ׃ פ (Jer. 24:3)
+NIV	Then the LORD asked me, “What do you see, Jeremiah?” “Figs,” I answered. “The good ones are very good, but the poor ones are so bad that they cannot be eaten.”
+ESV	And the Lord said to me, “What do you see, Jeremiah?” I said, “Figs, the good figs very good, and the bad figs very bad, so bad that they cannot be eaten.”
+
+(x)	וְעַתָּ֡ה כֹּֽה־אָמַ֣ר יְהוָה֩ אֱלֹהֵ֨י צְבָאֹ֜ות אֱלֹהֵ֣י יִשְׂרָאֵ֗ל לָמָה֩ אַתֶּ֨ם _עֹשִׂ֜ים_ רָעָ֤ה גְדֹולָה֙ אֶל־נַפְשֹׁ֣תֵכֶ֔ם לְהַכְרִ֨ית לָכֶ֧ם אִישׁ־וְאִשָּׁ֛ה עֹולֵ֥ל וְיֹונֵ֖ק מִתֹּ֣וךְ יְהוּדָ֑ה לְבִלְתִּ֛י הֹותִ֥יר לָכֶ֖ם שְׁאֵרִֽית׃ (Jer. 44:7)
+NIV	“Now this is what the LORD God Almighty, the God of Israel, says: Why _bring_ such great disaster on yourselves by cutting off from Judah the men and women, the children and infants, and so leave yourselves without a remnant?
+ESV	And now thus says the Lord God of hosts, the God of Israel: Why do you commit this great evil against yourselves, to cut off from you man and woman, infant and child, from the midst of Judah, leaving you no remnant?
+
+(x)	וַיֹּ֨אמֶר יְהוָ֜ה אֵלַ֗י מָֽה־אַתָּ֤ה _רֹאֶה֙_ עָמֹ֔וס וָאֹמַ֖ר אֲנָ֑ךְ וַיֹּ֣אמֶר אֲדֹנָ֗י הִנְנִ֨י שָׂ֤ם אֲנָךְ֙ בְּקֶ֨רֶב֙ עַמִּ֣י יִשְׂרָאֵ֔ל לֹֽא־אֹוסִ֥יף עֹ֖וד עֲבֹ֥ור לֹֽו׃ (Amos 7:8)
+NIV	And the LORD asked me, “What do you see, Amos?” “A plumb-line,” I replied. Then the Lord said, “Look, I am setting a plumb-line among my people Israel. I will spare them no longer.
+ESV	And the Lord said to me, “Amos, what do you see?” And I said, “A plumb line.” Then the Lord said, “Behold, I am setting a plumb line in the midst of my people Israel. I will never again pass by them.
+
+(x)	וַיֹּ֣אמֶר אֵלַ֔י מָ֥ה אַתָּ֖ה _רֹאֶ֑ה_ וָאֹמַ֡ר רָאִ֣יתִי׀ וְהִנֵּ֣ה מְנֹורַת֩ זָהָ֨ב כֻּלָּ֜הּ וְגֻלָּ֣הּ עַל־רֹאשָׁ֗הּ וְשִׁבְעָ֤ה נֵרֹתֶ֨יהָ֙ עָלֶ֔יהָ שִׁבְעָ֤ה וְשִׁבְעָה֙ מֽוּצָקֹ֔ות לַנֵּרֹ֖ות אֲשֶׁ֥ר עַל־רֹאשָֽׁהּ׃ (Zech. 4:2)
+NIV	He asked me, “What do you see?” I answered, “I see a solid gold lampstand with a bowl at the top and seven lights on it, with seven channels to the lights.
+ESV	And he said to me, “What do you see?” I said, “I see, and behold, a lampstand all of gold, with a bowl on the top of it, and seven lamps on it, with seven lips on each of the lamps that are on the top of it.
+
+(x)	וַיֹּ֨אמְר֜וּ עַבְדֵ֥י הַמֶּ֛לֶךְ אֲשֶׁר־בְּשַׁ֥עַר הַמֶּ֖לֶךְ לְמָרְדֳּכָ֑י מַדּ֨וּעַ֙ אַתָּ֣ה _עֹובֵ֔ר_ אֵ֖ת מִצְוַ֥ת הַמֶּֽלֶךְ׃ (Esth. 3:3)
+NIV	Then the royal officials at the king’s gate asked Mordecai, “Why do you disobey the king’s command?”
+ESV	Then the king’s servants who were at the king’s gate said to Mordecai, “Why do you transgress the king’s command?”
+
+(x)	וּשְׁאָר֙ דִּבְרֵ֣י שְׁלֹמֹ֔ה הָרִאשֹׁנִ֖ים וְהָאֲחֲרֹונִ֑ים הֲלֹא־הֵ֣ם _כְּתוּבִ֗ים_ עַל־דִּבְרֵי֙ נָתָ֣ן הַנָּבִ֔יא וְעַל־נְבוּאַ֞ת אֲחִיָּ֣ה הַשִּֽׁילֹונִ֗י וּבַחֲזֹות֙ יֶעְדֹּ֣ו הַחֹזֶ֔ה עַל־יָרָבְעָ֖ם בֶּן־נְבָֽט׃ (II Chr. 9:29)
+NIV	As for the other events of Solomon’s reign, from beginning to end, are they not written in the records of Nathan the prophet, in the prophecy of Ahijah the Shilonite and in the visions of Iddo the seer concerning Jeroboam son of Nebat?
+ESV	Now the rest of the acts of Solomon, from first to last, are they not written in the history of Nathan the prophet, and in the prophecy of Ahijah the Shilonite, and in the visions of Iddo the seer concerning Jeroboam the son of Nebat?
+
+(x)	וַיֹּ֣אמֶר אֶל־הַשֹּֽׁפְטִ֗ים רְאוּ֙ מָֽה־אַתֶּ֣ם _עֹשִׂ֔ים_ כִּ֣י לֹ֧א לְאָדָ֛ם תִּשְׁפְּט֖וּ כִּ֣י לַיהוָ֑ה וְעִמָּכֶ֖ם בִּדְבַ֥ר מִשְׁפָּֽט׃ (II Chr. 19:6)
+NIV	He told them, “Consider carefully what you _do_, because you are not judging for man but for the LORD, who is with you whenever you give a verdict.
+ESV	and said to the judges, “Consider what you _do_, for you judge not for man but for the Lord. He is with you in giving judgment.
+
+(x)	וְר֣וּחַ אֱלֹהִ֗ים לָֽבְשָׁה֙ אֶת־זְכַרְיָה֙ בֶּן־יְהֹויָדָ֣ע הַכֹּהֵ֔ן וַֽיַּעֲמֹ֖ד מֵעַ֣ל לָעָ֑ם וַיֹּ֨אמֶר לָהֶ֜ם כֹּ֣ה׀ אָמַ֣ר הָאֱלֹהִ֗ים לָמָה֩ אַתֶּ֨ם _עֹבְרִ֜ים_ אֶת־מִצְוֹ֤ת יְהוָה֙ וְלֹ֣א תַצְלִ֔יחוּ כִּֽי־עֲזַבְתֶּ֥ם אֶת־יְהוָ֖ה וַיַּֽעֲזֹ֥ב אֶתְכֶֽם׃ (II Chr. 24:20)
+NIV	Then the Spirit of God came upon Zechariah son of Jehoiada the priest. He stood before the people and said, “This is what God says: ‘Why do you disobey the LORD’s commands? You will not prosper. Because you have forsaken the LORD, he has forsaken you.’”
+ESV	Then the Spirit of God clothed Zechariah the son of Jehoiada the priest, and he stood above the people, and said to them, “Thus says God, ‘Why do you break the commandments of the Lord, so that you cannot prosper? Because you have forsaken the Lord, he has forsaken you.’”

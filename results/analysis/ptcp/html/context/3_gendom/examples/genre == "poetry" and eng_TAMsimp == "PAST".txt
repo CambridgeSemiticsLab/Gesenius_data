@@ -1,0 +1,62 @@
+genre == "poetry" and eng_TAMsimp == "PAST"
+15 of 37
+
+(x)	צ֥וּר יְלָדְךָ֖ תֶּ֑שִׁי וַתִּשְׁכַּ֖ח אֵ֥ל _מְחֹלְלֶֽךָ_׃ (Deut. 32:18)
+NIV	You deserted the Rock, who fathered you. you forgot the God who gave you birth.
+ESV	You were unmindful of the Rock that bore you, and you forgot the God who gave you birth.
+
+(x)	בְּנֹות֙ יִשְׂרָאֵ֔ל אֶל־שָׁא֖וּל בְּכֶ֑ינָה הַמַּלְבִּֽשְׁכֶ֤ם שָׁנִי֙ עִם־עֲדָנִ֔ים הַֽ_מַּעֲלֶה֙_ עֲדִ֣י זָהָ֔ב עַ֖ל לְבוּשְׁכֶֽן׃ (II Sam. 1:24)
+NIV	“O daughters of Israel, weep for Saul, who clothed you in scarlet and finery, _who adorned_ your garments with ornaments of gold.
+ESV	“You daughters of Israel, weep over Saul, who clothed you luxuriously in scarlet, _who put_ ornaments of gold on your apparel.
+
+(x)	כִּֽי־אַתָּ֣ה _גֹחִ֣י_ מִבָּ֑טֶן מַ֝בְטִיחִ֗י עַל־שְׁדֵ֥י אִמִּֽי׃ (Psa. 22:10)
+NIV	Yet you _brought_ me out of the womb. you made me trust in you even at my mother’s breast.
+ESV	Yet you are he _who took_ me from the womb. you made me trust you at my mother’s breasts.
+
+(x)	גַּם־אִ֤ישׁ שְׁלֹומִ֨י׀ אֲשֶׁר־בָּטַ֣חְתִּי בֹ֖ו _אֹוכֵ֣ל_ לַחְמִ֑י הִגְדִּ֖יל עָלַ֣י עָקֵֽב׃ (Psa. 41:10)
+NIV	Even my close friend, whom I trusted, he _who shared_ my bread, has lifted up his heel against me.
+ESV	Even my close friend in whom I trusted, _who ate_ my bread, has lifted his heel against me.
+
+(x)	גַּם־לְשֹׁונִ֗י כָּל־הַ֭יֹּום תֶּהְגֶּ֣ה צִדְקָתֶ֑ךָ כִּי־בֹ֥שׁוּ כִֽי־חָ֝פְר֗וּ _מְבַקְשֵׁ֥י_ רָעָתִֽי׃ (Psa. 71:24)
+NIV	My tongue will tell of your righteous acts all day long, for _those who wanted_ to harm me have been put to shame and confusion.
+ESV	And my tongue will talk of your righteous help all the day long, for they have been put to shame and disappointed _who sought_ to do me hurt.
+
+(x)	מֹ֘שֶׁ֤ה וְאַהֲרֹ֨ן׀ בְּֽכֹהֲנָ֗יו וּ֭שְׁמוּאֵל בְּקֹרְאֵ֣י שְׁמֹ֑ו _קֹרִ֥אים_ אֶל־יְ֝הוָ֗ה וְה֣וּא יַעֲנֵֽם׃ (Psa. 99:6)
+NIV	Moses and Aaron were among his priests, Samuel was among those who _called_ on his name. they _called_ on the LORD and he answered them.
+ESV	Moses and Aaron were among his priests, Samuel also was among those who _called_ upon his name. They _called_ to the Lord, and he answered them.
+
+(x)	טֶ֣רֶם אֶ֭עֱנֶה אֲנִ֣י _שֹׁגֵ֑ג_ וְ֝עַתָּ֗ה אִמְרָתְךָ֥ שָׁמָֽרְתִּי׃ (Psa. 119:67)
+NIV	Before I was afflicted I _went astray_, but now I obey your word.
+ESV	Before I was afflicted I _went astray_, but now I keep your word.
+
+(x)	לְ_עֹשֵׂ֣ה_ הַ֭שָּׁמַיִם בִּתְבוּנָ֑ה כִּ֖י לְעֹולָ֣ם חַסְדֹּֽו׃ (Psa. 136:5)
+NIV	who by his understanding _made_ the heavens, His love endures forever.
+ESV	to him who by understanding made the heavens, for his steadfast love endures forever.
+
+(x)	לְ_גֹזֵ֣ר_ יַם־ס֭וּף לִגְזָרִ֑ים כִּ֖י לְעֹולָ֣ם חַסְדֹּֽו׃ (Psa. 136:13)
+NIV	to him _who divided_ the Red Sea asunder His love endures forever.
+ESV	to him _who divided_ the Red Sea in two, for his steadfast love endures forever.
+
+(x)	זְכֹ֤ר יְהוָ֨ה׀ לִבְנֵ֬י אֱדֹ֗ום אֵת֮ יֹ֤ום יְֽרוּשָׁ֫לִָ֥ם הָ֭_אֹ֣מְרִים_ עָ֤רוּ׀ עָ֑רוּ עַ֝֗ד הַיְסֹ֥וד בָּֽהּ׃ (Psa. 137:7)
+NIV	Remember, O LORD, what the Edomites did on the day Jerusalem fell. “Tear it down,” they _cried_, “tear it down to its foundations!”
+ESV	Remember, O Lord, against the Edomites the day of Jerusalem, how they _said_, “Lay it bare, lay it bare, down to its foundations!”
+
+(x)	אֹ֣ו עִם־שָׂ֭רִים זָהָ֣ב לָהֶ֑ם הַֽ_מְמַלְאִ֖ים_ בָּתֵּיהֶ֣ם כָּֽסֶף׃ (Job 3:15)
+NIV	with rulers who had gold, _who filled_ their houses with silver.
+ESV	or with princes who had gold, _who filled_ their houses with silver.
+
+(x)	כִּֽי־אֲ֭מַלֵּט עָנִ֣י _מְשַׁוֵּ֑עַ_ וְ֝יָתֹ֗ום וְֽלֹא־עֹזֵ֥ר לֹֽו׃ (Job 29:12)
+NIV	because I rescued the poor _who cried for help_, and the fatherless who had none to assist him.
+ESV	because I delivered the poor _who cried for help_, and the fatherless who had none to help him.
+
+(x)	מְצָא֨וּנִי֙ הַשֹּׁ֣מְרִ֔ים הַ_סֹּבְבִ֖ים_ בָּעִ֑יר אֵ֛ת שֶׁאָהֲבָ֥ה נַפְשִׁ֖י רְאִיתֶֽם׃ (Song 3:3)
+NIV	The watchmen found me as they made their rounds in the city. “Have you seen the one my heart loves?”
+ESV	The watchmen found me as they _went about_ in the city. “Have you seen him whom my soul loves?”
+
+(x)	הָ_אֹֽכְלִים֙_ לְמַ֣עֲדַנִּ֔ים נָשַׁ֖מּוּ בַּחוּצֹ֑ות הָאֱמֻנִים֙ עֲלֵ֣י תֹולָ֔ע חִבְּק֖וּ אַשְׁפַּתֹּֽות׃ ס (Lam. 4:5)
+NIV	Those who once ate delicacies are destitute in the streets. Those nurtured in purple now lie on ash heaps.
+ESV	Those who once feasted on delicacies perish in the streets. those who were brought up in purple embrace ash heaps.
+
+(x)	מֵֽחַטֹּ֣את נְבִיאֶ֔יהָ עֲוֹנֹ֖ות כֹּהֲנֶ֑יהָ הַ_שֹּׁפְכִ֥ים_ בְּקִרְבָּ֖הּ דַּ֥ם צַדִּיקִֽים׃ ס (Lam. 4:13)
+NIV	But it happened because of the sins of her prophets and the iniquities of her priests, _who shed_ within her the blood of the righteous.
+ESV	This was for the sins of her prophets and the iniquities of her priests, _who shed_ in the midst of her the blood of the righteous.

@@ -1,0 +1,14 @@
+eng_TAMsimp == "PRES PERF PROG"
+3 of 3
+
+(x)	כִּ֣י לֹ֤א יָשַׁ֨בְתִּי֙ בְּבַ֔יִת לְ֠מִיֹּום הַעֲלֹתִ֞י אֶת־בְּנֵ֤י יִשְׂרָאֵל֙ מִמִּצְרַ֔יִם וְעַ֖ד הַיֹּ֣ום הַזֶּ֑ה וָאֶֽהְיֶה֙ _מִתְהַלֵּ֔ךְ_ בְּאֹ֖הֶל וּבְמִשְׁכָּֽן׃ (II Sam. 7:6)
+NIV	I have not dwelt in a house from the day I brought the Israelites up out of Egypt to this day. I have been _moving_ from place to place with a tent as my dwelling.
+ESV	I have not lived in a house since the day I brought up the people of Israel from Egypt to this day, but I have been _moving about_ in a tent for my dwelling.
+
+(x)	וּ֠בְצֵאתָם אֶל־הֶחָצֵ֨ר הַחִיצֹונָ֜ה אֶל־הֶחָצֵ֣ר הַחִיצֹונָה֮ אֶל־הָעָם֒ יִפְשְׁט֣וּ אֶת־בִּגְדֵיהֶ֗ם אֲשֶׁר־הֵ֨מָּה֙ _מְשָׁרְתִ֣ם_ בָּ֔ם וְהִנִּ֥יחוּ אֹותָ֖ם בְּלִֽשְׁכֹ֣ת הַקֹּ֑דֶשׁ וְלָֽבְשׁוּ֙ בְּגָדִ֣ים אֲחֵרִ֔ים וְלֹֽא־יְקַדְּשׁ֥וּ אֶת־הָעָ֖ם בְּבִגְדֵיהֶֽם׃ (Ezek. 44:19)
+NIV	When they go out into the outer court where the people are, they are to take off the clothes they _have been ministering_ in and leave them in the sacred rooms, and put on other clothes, so that they do not consecrate the people by means of their garments.
+ESV	And when they go out into the outer court to the people, they shall put off the garments in which they _have been ministering_ and lay them in the holy chambers. And they shall put on other garments, lest they transmit holiness to the people with their garments.
+
+(x)	וַיִּגְּשׁ֨וּ אֶל־זְרֻבָּבֶ֜ל וְאֶל־רָאשֵׁ֣י הָֽאָבֹ֗ות וַיֹּאמְר֤וּ לָהֶם֙ נִבְנֶ֣ה עִמָּכֶ֔ם כִּ֣י כָכֶ֔ם נִדְרֹ֖ושׁ לֵֽאלֹהֵיכֶ֑ם וְלֹ֣ו ׀ אֲנַ֣חְנוּ _זֹבְחִ֗ים_ מִימֵי֙ אֵסַ֤ר חַדֹּן֙ מֶ֣לֶךְ אַשּׁ֔וּר הַמַּעֲלֶ֥ה אֹתָ֖נוּ פֹּֽה׃ (Ezra 4:2)
+NIV	they came to Zerubbabel and to the heads of the families and said, “Let us help you build because, like you, we seek your God and _have been sacrificing_ to him since the time of Esarhaddon king of Assyria, who brought us here.”
+ESV	they approached Zerubbabel and the heads of fathers’ houses and said to them, “Let us build with you, for we worship your God as you do, and we _have been sacrificing_ to him ever since the days of Esarhaddon king of Assyria who brought us here.”

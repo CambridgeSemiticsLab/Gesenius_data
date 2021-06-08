@@ -1,0 +1,38 @@
+eng_TAMsimp == "FUT" and cl_args == "ASV"
+9 of 9
+
+(x)	וַיֹּ֣אמֶר מֹשֶׁ֔ה כֹּ֖ה אָמַ֣ר יְהוָ֑ה כַּחֲצֹ֣ת הַלַּ֔יְלָה אֲנִ֥י _יֹוצֵ֖א_ בְּתֹ֥וךְ מִצְרָֽיִם׃ (Exod. 11:4)
+NIV	So Moses said, “This is what the LORD says: ‘About midnight I _will go_ throughout Egypt.
+ESV	So Moses said, “Thus says the Lord: About midnight I _will go out_ in the midst of Egypt,
+
+(x)	וַיֹּ֨אמֶר מֹשֶׁ֤ה אֶל־יְהֹושֻׁ֨עַ֙ בְּחַר־לָ֣נוּ אֲנָשִׁ֔ים וְצֵ֖א הִלָּחֵ֣ם בַּעֲמָלֵ֑ק מָחָ֗ר אָנֹכִ֤י _נִצָּב֙_ עַל־רֹ֣אשׁ הַגִּבְעָ֔ה וּמַטֵּ֥ה הָאֱלֹהִ֖ים בְּיָדִֽי׃ (Exod. 17:9)
+NIV	Moses said to Joshua, “Choose some of our men and go out to fight the Amalekites. Tomorrow I _will stand_ on top of the hill with the staff of God in my hands.”
+ESV	So Moses said to Joshua, “Choose for us men, and go out and fight with Amalek. Tomorrow I _will stand_ on the top of the hill with the staff of God in my hand.”
+
+(x)	וַיֹּ֥אמֶר יְהֹושֻׁ֖עַ אֶל־בְּנֵ֣י יִשְׂרָאֵ֑ל עַד־אָ֨נָה֙ אַתֶּ֣ם _מִתְרַפִּ֔ים_ לָבֹוא֙ לָרֶ֣שֶׁת אֶת־הָאָ֔רֶץ אֲשֶׁר֙ נָתַ֣ן לָכֶ֔ם יְהוָ֖ה אֱלֹהֵ֥י אֲבֹֽותֵיכֶֽם׃ (Josh. 18:3)
+NIV	So Joshua said to the Israelites: “How long will you wait before you begin to take possession of the land that the LORD, the God of your fathers, has given you?
+ESV	So Joshua said to the people of Israel, “How long will you put off going in to take possession of the land, which the Lord, the God of your fathers, has given you?
+
+(x)	וַיֹּ֨אמֶר יְהוָ֜ה אֶל־שְׁמוּאֵ֗ל עַד־מָתַי֙ אַתָּה֙ _מִתְאַבֵּ֣ל_ אֶל־שָׁא֔וּל וַאֲנִ֣י מְאַסְתִּ֔יו מִמְּלֹ֖ךְ עַל־יִשְׂרָאֵ֑ל מַלֵּ֨א קַרְנְךָ֜ שֶׁ֗מֶן וְלֵ֤ךְ אֶֽשְׁלָחֲךָ֙ אֶל־יִשַׁ֣י בֵּֽית־הַלַּחְמִ֔י כִּֽי־רָאִ֧יתִי בְּבָנָ֛יו לִ֖י מֶֽלֶךְ׃ (I Sam. 16:1)
+NIV	The LORD said to Samuel, “How long will you mourn for Saul, since I have rejected him as king over Israel? Fill your horn with oil and be on your way. I am sending you to Jesse of Bethlehem. I have chosen one of his sons to be king.”
+ESV	The Lord said to Samuel, “How long will you grieve over Saul, since I have rejected him from being king over Israel? Fill your horn with oil, and go. I will send you to Jesse the Bethlehemite, for I have provided for myself a king among his sons.”
+
+(x)	וַיִּשְׁלַח֩ שָׁא֨וּל מַלְאָכִ֜ים אֶל־בֵּ֤ית דָּוִד֙ לְשָׁמְרֹ֔ו וְלַהֲמִיתֹ֖ו בַּבֹּ֑קֶר וַתַּגֵּ֣ד לְדָוִ֗ד מִיכַ֤ל אִשְׁתֹּו֙ לֵאמֹ֔ר אִם־אֵ֨ינְךָ֜ מְמַלֵּ֤ט אֶֽת־נַפְשְׁךָ֙ הַלַּ֔יְלָה מָחָ֖ר אַתָּ֥ה _מוּמָֽת_׃ (I Sam. 19:11)
+NIV	Saul sent men to David’s house to watch it and to kill him in the morning. But Michal, David’s wife, warned him, “If you don’t run for your life tonight, tomorrow you’ll _be killed_.”
+ESV	Saul sent messengers to David’s house to watch him, that he might kill him in the morning. But Michal, David’s wife, told him, “If you do not escape with your life tonight, tomorrow you _will be killed_.”
+
+(x)	וַיִּגַּ֨שׁ אֵלִיָּ֜הוּ אֶל־כָּל־הָעָ֗ם וַיֹּ֨אמֶר֙ עַד־מָתַ֞י אַתֶּ֣ם _פֹּסְחִים֮_ עַל־שְׁתֵּ֣י הַסְּעִפִּים֒ אִם־יְהוָ֤ה הָֽאֱלֹהִים֙ לְכ֣וּ אַחֲרָ֔יו וְאִם־הַבַּ֖עַל לְכ֣וּ אַחֲרָ֑יו וְלֹֽא־עָנ֥וּ הָעָ֛ם אֹתֹ֖ו דָּבָֽר׃ (I Kgs. 18:21)
+NIV	Elijah went before the people and said, “How long will you waver between two opinions? If the LORD is God, follow him. but if Baal is God, follow him.” But the people said nothing.
+ESV	And Elijah came near to all the people and said, “How long will you go limping between two different opinions? If the Lord is God, follow him. but if Baal, then follow him.” And the people did not answer him a word.
+
+(x)	בְּעֹ֣וד׀ שְׁנָתַ֣יִם יָמִ֗ים אֲנִ֤י _מֵשִׁיב֙_ אֶל־הַמָּקֹ֣ום הַזֶּ֔ה אֶֽת־כָּל־כְּלֵ֖י בֵּ֣ית יְהוָ֑ה אֲשֶׁ֨ר לָקַ֜ח נְבוּכַדנֶאצַּ֤ר מֶֽלֶךְ־בָּבֶל֙ מִן־הַמָּקֹ֣ום הַזֶּ֔ה וַיְבִיאֵ֖ם בָּבֶֽל׃ (Jer. 28:3)
+NIV	Within two years I _will bring back_ to this place all the articles of the LORD’s house that Nebuchadnezzar king of Babylon removed from here and took to Babylon.
+ESV	Within two years I _will bring back_ to this place all the vessels of the Lord’s house, which Nebuchadnezzar king of Babylon took away from this place and carried to Babylon.
+
+(x)	כִּֽי־כֹה֙ אָמַ֣ר יְהוָ֔ה כַּאֲשֶׁ֤ר הֵבֵ֨אתִי֙ אֶל־הָעָ֣ם הַזֶּ֔ה אֵ֛ת כָּל־הָרָעָ֥ה הַגְּדֹולָ֖ה הַזֹּ֑את כֵּ֣ן אָנֹכִ֞י _מֵבִ֤יא_ עֲלֵיהֶם֙ אֶת־כָּל־הַטֹּובָ֔ה אֲשֶׁ֥ר אָנֹכִ֖י דֹּבֵ֥ר עֲלֵיהֶֽם׃ (Jer. 32:42)
+NIV	“This is what the LORD says: As I have brought all this great calamity on this people, so I _will give_ them all the prosperity I have promised them.
+ESV	“For thus says the Lord: Just as I have brought all this great disaster upon this people, so I _will bring_ upon them all the good that I promise them.
+
+(x)	אִם־תַּחֲנֶ֬ה עָלַ֨י׀ מַחֲנֶה֮ לֹֽא־יִירָ֪א לִ֫בִּ֥י אִם־תָּק֣וּם עָ֭לַי מִלְחָמָ֑ה בְּ֝זֹ֗את אֲנִ֣י _בֹוטֵֽחַ_׃ (Psa. 27:3)
+NIV	Though an army besiege me, my heart will not fear. though war break out against me, even then will I be confident.
+ESV	Though an army encamp against me, my heart shall not fear. though war arise against me, yet I _will be confident_.

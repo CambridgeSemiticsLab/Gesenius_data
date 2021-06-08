@@ -1,0 +1,62 @@
+genre == "prose" and domain2 == "N" and eng_TAMsimp == "PRES PART"
+15 of 75
+
+(x)	וַתֹּוצֵ֨א הָאָ֜רֶץ דֶּ֠שֶׁא עֵ֣שֶׂב _מַזְרִ֤יעַ_ זֶ֨רַע֙ לְמִינֵ֔הוּ וְעֵ֧ץ עֹ֥שֶׂה פְּרִ֛י אֲשֶׁ֥ר זַרְעֹו־בֹ֖ו לְמִינֵ֑הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֹֽוב׃ (Gen. 1:12)
+NIV	The land produced vegetation: plants _bearing_ seed according to their kinds and trees _bearing_ fruit with seed in it according to their kinds. And God saw that it was good.
+ESV	The earth brought forth vegetation, plants _yielding_ seed according to their own kinds, and trees bearing fruit in which is their seed, each according to its kind. And God saw that it was good.
+
+(x)	וַֽיַּחֲלֹ֗ם וְהִנֵּ֤ה סֻלָּם֙ מֻצָּ֣ב אַ֔רְצָה וְרֹאשֹׁ֖ו מַגִּ֣יעַ הַשָּׁמָ֑יְמָה וְהִנֵּה֙ מַלְאֲכֵ֣י אֱלֹהִ֔ים עֹלִ֥ים וְ_יֹרְדִ֖ים_ בֹּֽו׃ (Gen. 28:12)
+NIV	He had a dream in which he saw a stairway resting on the earth, with its top reaching to heaven, and the angels of God were ascending and _descending_ on it.
+ESV	And he dreamed, and behold, there was a ladder set up on the earth, and the top of it reached to heaven. And behold, the angels of God were ascending and _descending_ on it!
+
+(x)	וַיְהִ֣י׀ בַּיָּמִ֣ים הָהֵ֗ם וַיִּגְדַּ֤ל מֹשֶׁה֙ וַיֵּצֵ֣א אֶל־אֶחָ֔יו וַיַּ֖רְא בְּסִבְלֹתָ֑ם וַיַּרְא֙ אִ֣ישׁ מִצְרִ֔י _מַכֶּ֥ה_ אִישׁ־עִבְרִ֖י מֵאֶחָֽיו׃ (Exod. 2:11)
+NIV	One day, after Moses had grown up, he went out to where his own people were and watched them at their hard labor. He saw an Egyptian _beating_ a Hebrew, one of his own people.
+ESV	One day, when Moses had grown up, he went out to his people and looked on their burdens, and he saw an Egyptian _beating_ a Hebrew, one of his people.
+
+(x)	וַיְהִ֗י כֶּאֱמֹ֣ר יְהֹושֻׁעַ֮ אֶל־הָעָם֒ וְשִׁבְעָ֣ה הַכֹּהֲנִ֡ים _נֹשְׂאִים֩_ שִׁבְעָ֨ה שֹׁופְרֹ֤ות הַיֹּֽובְלִים֙ לִפְנֵ֣י יְהוָ֔ה עָבְר֕וּ וְתָקְע֖וּ בַּשֹּֽׁופָרֹ֑ות וַֽאֲרֹון֙ בְּרִ֣ית יְהוָ֔ה הֹלֵ֖ךְ אַחֲרֵיהֶֽם׃ (Josh. 6:8)
+NIV	When Joshua had spoken to the people, the seven priests _carrying_ the seven trumpets before the LORD went forward, blowing their trumpets, and the ark of the LORD’s covenant followed them.
+ESV	And just as Joshua had commanded the people, the seven priests _bearing_ the seven trumpets of rams’ horns before the Lord went forward, blowing the trumpets, with the ark of the covenant of the Lord following them.
+
+(x)	הֵמָּה֮ מֵיטִיבִ֣ים אֶת־לִבָּם֒ וְהִנֵּה֩ אַנְשֵׁ֨י הָעִ֜יר אַנְשֵׁ֣י בְנֵֽי־בְלִיַּ֗עַל נָסַ֨בּוּ֙ אֶת־הַבַּ֔יִת _מִֽתְדַּפְּקִ֖ים_ עַל־הַדָּ֑לֶת וַיֹּאמְר֗וּ אֶל־הָ֠אִישׁ בַּ֣עַל הַבַּ֤יִת הַזָּקֵן֙ לֵאמֹ֔ר הֹוצֵ֗א אֶת־הָאִ֛ישׁ אֲשֶׁר־בָּ֥א אֶל־בֵּיתְךָ֖ וְנֵדָעֶֽנּוּ׃ (Judg. 19:22)
+NIV	While they were enjoying themselves, some of the wicked men of the city surrounded the house. _Pounding_ on the door, they shouted to the old man who owned the house, “Bring out the man who came to your house so we can have sex with him.”
+ESV	As they were making their hearts merry, behold, the men of the city, worthless fellows, surrounded the house, _beating_ on the door. And they said to the old man, the master of the house, “Bring out the man who came into your house, that we may know him.”
+
+(x)	וְשָׁא֤וּל וְהֵ֨מָּה֙ וְכָל־אִ֣ישׁ יִשְׂרָאֵ֔ל בְּעֵ֖מֶק הָֽאֵלָ֑ה _נִלְחָמִ֖ים_ עִם־פְּלִשְׁתִּֽים׃ (I Sam. 17:19)
+NIV	They are with Saul and all the men of Israel in the Valley of Elah, _fighting_ against the Philistines.”
+ESV	Now Saul and they and all the men of Israel were in the Valley of Elah, _fighting_ with the Philistines.
+
+(x)	וְדָוִ֥ד יֹושֵׁ֖ב בֵּין־שְׁנֵ֣י הַשְּׁעָרִ֑ים וַיֵּ֨לֶךְ הַצֹּפֶ֜ה אֶל־גַּ֤ג הַשַּׁ֨עַר֙ אֶל־הַ֣חֹומָ֔ה וַיִּשָּׂ֤א אֶת־עֵינָיו֙ וַיַּ֔רְא וְהִנֵּה־אִ֖ישׁ _רָ֥ץ_ לְבַדֹּֽו׃ (II Sam. 18:24)
+NIV	While David was sitting between the inner and outer gates, the watchman went up to the roof of the gateway by the wall. As he looked out, he saw a man _running_ alone.
+ESV	Now David was sitting between the two gates, and the watchman went up to the roof of the gate by the wall, and when he lifted up his eyes and looked, he saw a man _running_ alone.
+
+(x)	עֹמֵ֞ד עַל־שְׁנֵ֧י עָשָׂ֣ר בָּקָ֗ר שְׁלֹשָׁ֣ה פֹנִ֣ים׀ צָפֹ֡ונָה וּשְׁלֹשָׁה֩ _פֹנִ֨ים_׀ יָ֜מָּה וּשְׁלֹשָׁ֣ה׀ פֹּנִ֣ים נֶ֗גְבָּה וּשְׁלֹשָׁה֙ פֹּנִ֣ים מִזְרָ֔חָה וְהַיָּ֥ם עֲלֵיהֶ֖ם מִלְמָ֑עְלָה וְכָל־אֲחֹֽרֵיהֶ֖ם בָּֽיְתָה׃ (I Kgs. 7:25)
+NIV	The Sea stood on twelve bulls, three _facing_ north, three _facing_ west, three _facing_ south and three _facing_ east. The Sea rested on top of them, and their hindquarters were towards the centre.
+ESV	It stood on twelve oxen, three _facing_ north, three _facing_ west, three _facing_ south, and three _facing_ east. The sea was set on them, and all their rear parts were inward.
+
+(x)	וְהִנֵּ֧ה אֲנָשִׁ֣ים עֹבְרִ֗ים וַיִּרְא֤וּ אֶת־הַנְּבֵלָה֙ מֻשְׁלֶ֣כֶת בַּדֶּ֔רֶךְ וְאֶת־הָ֣אַרְיֵ֔ה _עֹמֵ֖ד_ אֵ֣צֶל הַנְּבֵלָ֑ה וַיָּבֹ֨אוּ֙ וַיְדַבְּר֣וּ בָעִ֔יר אֲשֶׁ֛ר הַנָּבִ֥יא הַזָּקֵ֖ן יֹשֵׁ֥ב בָּֽהּ׃ (I Kgs. 13:25)
+NIV	Some people who passed by saw the body thrown down there, with the lion _standing_ beside the body, and they went and reported it in the city where the old prophet lived.
+ESV	And behold, men passed by and saw the body thrown in the road and the lion _standing_ by the body. And they came and told it in the city where the old prophet lived.
+
+(x)	וַיִּרְדֹּ֥ף גֵּיחֲזִ֖י אַחֲרֵ֣י נַֽעֲמָ֑ן וַיִּרְאֶ֤ה נַֽעֲמָן֙ _רָ֣ץ_ אַחֲרָ֔יו וַיִּפֹּ֞ל מֵעַ֧ל הַמֶּרְכָּבָ֛ה לִקְרָאתֹ֖ו וַיֹּ֥אמֶר הֲשָׁלֹֽום׃ (II Kgs. 5:21)
+NIV	So Gehazi hurried after Naaman. When Naaman saw him _running_ towards him, he got down from the chariot to meet him. “Is everything all right?” he asked.
+ESV	So Gehazi followed Naaman. And when Naaman saw someone _running_ after him, he got down from the chariot to meet him and said, “Is all well?”
+
+(x)	וַיְהִ֖י הַיֹּ֑ום וּבָנָ֨יו וּבְנֹתָ֤יו אֹֽכְלִים֙ וְ_שֹׁתִ֣ים_ יַ֔יִן בְּבֵ֖ית אֲחִיהֶ֥ם הַבְּכֹֽור׃ (Job 1:13)
+NIV	One day when Job’s sons and daughters were feasting and _drinking_ wine at the oldest brother’s house,
+ESV	Now there was a day when his sons and daughters were eating and _drinking_ wine in their oldest brother’s house,
+
+(x)	וַיֹּאמֶר֩ לִ֨י הַמֶּ֜לֶךְ וְהַשֵּׁגַ֣ל׀ _יֹושֶׁ֣בֶת_ אֶצְלֹ֗ו עַד־מָתַ֛י יִהְיֶ֥ה מַֽהֲלָכֲךָ֖ וּמָתַ֣י תָּשׁ֑וּב וַיִּיטַ֤ב לִפְנֵֽי־הַמֶּ֨לֶךְ֙ וַיִּשְׁלָחֵ֔נִי וָֽאֶתְּנָ֥ה לֹ֖ו זְמָֽן׃ (Neh. 2:6)
+NIV	Then the king, with the queen _sitting_ beside him, asked me, “How long will your journey take, and when will you get back?” It pleased the king to send me. so I set a time.
+ESV	And the king said to me ( the queen _sitting_ beside him ), “How long will you be gone, and when will you return?” So it pleased the king to send me when I had given him a time.
+
+(x)	עֹומֵ֞ד עַל־שְׁנֵ֧ים עָשָׂ֣ר בָּקָ֗ר שְׁלֹשָׁ֣ה פֹנִ֣ים׀ צָפֹ֡ונָה וּשְׁלֹושָׁה֩ _פֹנִ֨ים_׀ יָ֜מָּה וּשְׁלֹשָׁ֣ה׀ פֹּנִ֣ים נֶ֗גְבָּה וּשְׁלֹשָׁה֙ פֹּנִ֣ים מִזְרָ֔חָה וְהַיָּ֥ם עֲלֵיהֶ֖ם מִלְמָ֑עְלָה וְכָל־אֲחֹרֵיהֶ֖ם בָּֽיְתָה׃ (II Chr. 4:4)
+NIV	The Sea stood on twelve bulls, three _facing_ north, three _facing_ west, three _facing_ south and three _facing_ east. The Sea rested on top of them, and their hindquarters were towards the centre.
+ESV	It stood on twelve oxen, three _facing_ north, three _facing_ west, three _facing_ south, and three _facing_ east. The sea was set on them, and all their rear parts were inward.
+
+(x)	וְשֵׁ֣שׁ מַעֲלֹ֣ות לַ֠כִּסֵּא וְכֶ֨בֶשׁ בַּזָּהָ֤ב לַכִּסֵּא֙ מָאֳחָזִ֔ים וְיָדֹ֛ות מִזֶּ֥ה וּמִזֶּ֖ה עַל־מְקֹ֣ום הַשָּׁ֑בֶת וּשְׁנַ֣יִם אֲרָיֹ֔ות _עֹמְדִ֖ים_ אֵ֥צֶל הַיָּדֹֽות׃ (II Chr. 9:18)
+NIV	The throne had six steps, and a footstool of gold was attached to it. On both sides of the seat were armrests, with a lion _standing_ beside each of them.
+ESV	The throne had six steps and a footstool of gold, which were attached to the throne, and on each side of the seat were arm rests and two lions _standing_ beside the arm rests,
+
+(x)	וַתֵּ֡רֶא וְהִנֵּ֣ה הַמֶּלֶךְ֩ עֹומֵ֨ד עַֽל־עַמּוּדֹ֜ו בַּמָּבֹ֗וא וְהַשָּׂרִ֣ים וְהַחֲצֹצְרֹות֮ עַל־הַמֶּלֶךְ֒ וְכָל־עַ֨ם הָאָ֜רֶץ שָׂמֵ֗חַ וְ_תֹוקֵ֨עַ֙_ בַּחֲצֹ֣צְרֹ֔ות וְהַמְשֹֽׁורֲרִים֙ בִּכְלֵ֣י הַשִּׁ֔יר וּמֹודִיעִ֖ים לְהַלֵּ֑ל וַתִּקְרַ֤ע עֲתַלְיָ֨הוּ֙ אֶת־בְּגָדֶ֔יהָ וַתֹּ֖אמֶר קֶ֥שֶׁר קָֽשֶׁר׃ ס (II Chr. 23:13)
+NIV	She looked, and there was the king, standing by his pillar at the entrance. The officers and the trumpeters were beside the king, and all the people of the land were rejoicing and _blowing_ trumpets, and singers with musical instruments were leading the praises. Then Athaliah tore her robes and shouted, “Treason! Treason!”
+ESV	And when she looked, there was the king standing by his pillar at the entrance, and the captains and the trumpeters beside the king, and all the people of the land rejoicing and _blowing_ trumpets, and the singers with their musical instruments leading in the celebration. And Athaliah tore her clothes and cried, “Treason! Treason!”

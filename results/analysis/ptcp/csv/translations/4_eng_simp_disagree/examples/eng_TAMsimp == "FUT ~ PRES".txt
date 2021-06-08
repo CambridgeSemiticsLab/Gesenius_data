@@ -1,0 +1,102 @@
+eng_TAMsimp == "FUT ~ PRES"
+25 of 54
+
+(x)	וַיֹּ֤אמֶר יְהוָה֙ אֶל־מֹשֶׁ֔ה הִנְנִ֨י _מַמְטִ֥יר_ לָכֶ֛ם לֶ֖חֶם מִן־הַשָּׁמָ֑יִם וְיָצָ֨א הָעָ֤ם וְלָֽקְטוּ֙ דְּבַר־יֹ֣ום בְּיֹומֹ֔ו לְמַ֧עַן אֲנַסֶּ֛נּוּ הֲיֵלֵ֥ךְ בְּתֹורָתִ֖י אִם־לֹֽא׃ (Exod. 16:4)
+NIV	Then the LORD said to Moses, “I _will rain down_ bread from heaven for you. The people are to go out each day and gather enough for that day. In this way I will test them and see whether they will follow my instructions.
+ESV	Then the Lord said to Moses, “Behold, I _am about to rain_ bread from heaven for you, and the people shall go out and gather a day’s portion every day, that I may test them, whether they will walk in my law or not.
+
+(x)	אַף־אֲנִ֞י אֶֽעֱשֶׂה־זֹּ֣את לָכֶ֗ם וְהִפְקַדְתִּ֨י עֲלֵיכֶ֤ם בֶּֽהָלָה֙ אֶת־הַשַּׁחֶ֣פֶת וְאֶת־הַקַּדַּ֔חַת _מְכַלֹּ֥ות_ עֵינַ֖יִם וּמְדִיבֹ֣ת נָ֑פֶשׁ וּזְרַעְתֶּ֤ם לָרִיק֙ זַרְעֲכֶ֔ם וַאֲכָלֻ֖הוּ אֹיְבֵיכֶֽם׃ (Lev. 26:16)
+NIV	then I will do this to you: I will bring upon you sudden terror, wasting diseases and fever _that will destroy_ your sight and drain away your life. You will plant seed in vain, because your enemies will eat it.
+ESV	then I will do this to you: I will visit you with panic, with wasting disease and fever _that consume_ the eyes and make the heart ache. And you shall sow your seed in vain, for your enemies shall eat it.
+
+(x)	עַד־מָתַ֗י לָעֵדָ֤ה הָֽרָעָה֙ הַזֹּ֔את אֲשֶׁ֛ר הֵ֥מָּה מַלִּינִ֖ים עָלָ֑י אֶת־תְּלֻנֹּ֞ות בְּנֵ֣י יִשְׂרָאֵ֗ל אֲשֶׁ֨ר הֵ֧מָּה _מַלִּינִ֛ים_ עָלַ֖י שָׁמָֽעְתִּי׃ (Num. 14:27)
+NIV	“How long will this wicked community grumble against me? I have heard the complaints of these grumbling Israelites.
+ESV	“How long shall this wicked congregation _grumble_ against me? I have heard the grumblings of the people of Israel, which they _grumble_ against me.
+
+(x)	לֹ֖א תִּֽירָא֑וּם כִּ֚י יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם ה֖וּא הַ_נִּלְחָ֥ם_ לָכֶֽם׃ ס (Deut. 3:22)
+NIV	Do not be afraid of them. the LORD your God himself _will fight_ for you.”
+ESV	You shall not fear them, for it is the Lord your God _who fights_ for you.’
+
+(x)	וְאָכַלְתָּ֣ אֶת־כָּל־הָֽעַמִּ֗ים אֲשֶׁ֨ר יְהוָ֤ה אֱלֹהֶ֨יךָ֙ _נֹתֵ֣ן_ לָ֔ךְ לֹא־תָחֹ֥ס עֵֽינְךָ֖ עֲלֵיהֶ֑ם וְלֹ֤א תַעֲבֹד֙ אֶת־אֱלֹ֣הֵיהֶ֔ם כִּֽי־מֹוקֵ֥שׁ ה֖וּא לָֽךְ׃ ס (Deut. 7:16)
+NIV	You must destroy all the peoples the LORD your God _gives over_ to you. Do not look on them with pity and do not serve their gods, for that will be a snare to you.
+ESV	And you shall consume all the peoples that the Lord your God _will give over_ to you. Your eye shall not pity them, neither shall you serve their gods, for that would be a snare to you.
+
+(x)	וַיֹּ֤אמֶר לָהֶם֙ שִׁמְשֹׁ֔ון נִקֵּ֥יתִי הַפַּ֖עַם מִפְּלִשְׁתִּ֑ים כִּֽי־_עֹשֶׂ֥ה_ אֲנִ֛י עִמָּ֖ם רָעָֽה׃ (Judg. 15:3)
+NIV	Samson said to them, “This time I have a right to get even with the Philistines. I will really harm them.”
+ESV	And Samson said to them, “This time I shall be innocent in regard to the Philistines, when I _do_ them harm.”
+
+(x)	וַתֹּ֤אמֶר לִנְעָרֶ֨יהָ֙ עִבְר֣וּ לְפָנַ֔י הִנְנִ֖י אַחֲרֵיכֶ֣ם _בָּאָ֑ה_ וּלְאִישָׁ֥הּ נָבָ֖ל לֹ֥א הִגִּֽידָה׃ (I Sam. 25:19)
+NIV	Then she told her servants, “Go on ahead. I’ll _follow_ you.” But she did not tell her husband Nabal.
+ESV	And she said to her young men, “Go on before me. behold, I _come_ after you.” But she did not tell her husband Nabal.
+
+(x)	הִנְנִ֥י _מַבְעִ֛יר_ אַחֲרֵ֥י בַעְשָׁ֖א וְאַחֲרֵ֣י בֵיתֹ֑ו וְנָֽתַתִּי֙ אֶת־בֵּ֣יתְךָ֔ כְּבֵ֖ית יָרָבְעָ֥ם בֶּן־נְבָֽט׃ (I Kgs. 16:3)
+NIV	So I _am about to consume_ Baasha and his house, and I will make your house like that of Jeroboam son of Nebat.
+ESV	behold, I _will utterly sweep away_ Baasha and his house, and I will make your house like the house of Jeroboam the son of Nebat.
+
+(x)	וַיֹּ֗אמֶר מַ֠דּוּעַ אַ֣תְּ הֹלֶ֤כֶת אֵלָיו֙ הַיֹּ֔ום לֹֽא־חֹ֖דֶשׁ וְלֹ֣א שַׁבָּ֑ת וַתֹּ֖אמֶר שָׁלֹֽום׃ (II Kgs. 4:23)
+NIV	“Why _go_ to him today?” he asked. “It’s not the New Moon or the Sabbath.” “It’s all right,” she said.
+ESV	And he said, “Why will you go to him today? It is neither new moon nor Sabbath.” She said, “All is well.”
+
+(x)	_עֲזֻבֹ֖ות_ עָרֵ֣י עֲרֹעֵ֑ר לַעֲדָרִ֣ים תִּֽהְיֶ֔ינָה וְרָבְצ֖וּ וְאֵ֥ין מַחֲרִֽיד׃ (Isa. 17:2)
+NIV	The cities of Aroer _will be deserted_ and left to flocks, which will lie down, with no-one to make them afraid.
+ESV	The cities of Aroer _are deserted_. they will be for flocks, which will lie down, and none will make them afraid.
+
+(x)	הִנֵּ֤ה יְהוָה֙ מְטַלְטֶלְךָ֔ טַלְטֵלָ֖ה גָּ֑בֶר וְ_עֹטְךָ֖_ עָטֹֽה׃ (Isa. 22:17)
+NIV	“Beware, the LORD is about to take firm hold of you and hurl you away, O you mighty man.
+ESV	Behold, the Lord will hurl you away violently, O you strong man. He will seize firm hold on you
+
+(x)	כִּֽי־הִנְנִ֥י _בֹורֵ֛א_ שָׁמַ֥יִם חֲדָשִׁ֖ים וָאָ֣רֶץ חֲדָשָׁ֑ה וְלֹ֤א תִזָּכַ֨רְנָה֙ הָרִ֣אשֹׁנֹ֔ות וְלֹ֥א תַעֲלֶ֖ינָה עַל־לֵֽב׃ (Isa. 65:17)
+NIV	“Behold, I _will create_ new heavens and a new earth. The former things will not be remembered, nor will they come to mind.
+ESV	“For behold, I _create_ new heavens and a new earth, and the former things shall not be remembered or come into mind.
+
+(x)	כִּֽי־אִם־שִׂ֤ישׂוּ וְגִ֨ילוּ֙ עֲדֵי־עַ֔ד אֲשֶׁ֖ר אֲנִ֣י בֹורֵ֑א כִּי֩ הִנְנִ֨י _בֹורֵ֧א_ אֶת־יְרוּשָׁלִַ֛ם גִּילָ֖ה וְעַמָּ֥הּ מָשֹֽׂושׂ׃ (Isa. 65:18)
+NIV	But be glad and rejoice forever in what I _will create_, for I _will create_ Jerusalem to be a delight and its people a joy.
+ESV	But be glad and rejoice forever in that which I _create_. for behold, I _create_ Jerusalem to be a joy, and her people to be a gladness.
+
+(x)	כִּ֣י כֹ֣ה אָמַ֣ר יְהוָ֡ה הִנְנִי֩ נֹתֶנְךָ֙ לְמָגֹ֜ור לְךָ֣ וּלְכָל־אֹהֲבֶ֗יךָ וְנָֽפְל֛וּ בְּחֶ֥רֶב אֹיְבֵיהֶ֖ם וְעֵינֶ֣יךָ _רֹאֹ֑ות_ וְאֶת־כָּל־יְהוּדָ֗ה אֶתֵּן֙ בְּיַ֣ד מֶֽלֶךְ־בָּבֶ֔ל וְהִגְלָ֥ם בָּבֶ֖לָה וְהִכָּ֥ם בֶּחָֽרֶב׃ (Jer. 20:4)
+NIV	For this is what the LORD says: ‘I will make you a terror to yourself and to all your friends. with your own eyes you _will see_ them fall by the sword of their enemies. I will hand all Judah over to the king of Babylon, who will carry them away to Babylon or put them to the sword.
+ESV	For thus says the Lord: Behold, I will make you a terror to yourself and to all your friends. They shall fall by the sword of their enemies while you look on. And I will give all Judah into the hand of the king of Babylon. He shall carry them captive to Babylon, and shall strike them down with the sword.
+
+(x)	לָכֵ֗ן כֹּ֚ה אָמַ֣ר יְהוָ֔ה הִנְנִי֙ _מְשַֽׁלֵּֽחֲךָ֔_ מֵעַ֖ל פְּנֵ֣י הָאֲדָמָ֑ה הַשָּׁנָה֙ אַתָּ֣ה מֵ֔ת כִּֽי־סָרָ֥ה דִבַּ֖רְתָּ אֶל־יְהוָֽה׃ (Jer. 28:16)
+NIV	Therefore, this is what the LORD says: ‘I _am about to remove_ you from the face of the earth. This very year you are going to die, because you have preached rebellion against the LORD.’”
+ESV	Therefore thus says the Lord: ‘Behold, I _will remove_ you from the face of the earth. This year you shall die, because you have uttered rebellion against the Lord.’”
+
+(x)	וְאָ֣מַרְתָּ֔ הָרֵי֙ יִשְׂרָאֵ֔ל שִׁמְע֖וּ דְּבַר־אֲדֹנָ֣י יְהוִ֑ה כֹּה־אָמַ֣ר אֲדֹנָ֣י יְ֠הוִה לֶהָרִ֨ים וְלַגְּבָעֹ֜ות לָאֲפִיקִ֣ים וְלַגֵּאָיֹ֗ות הִנְנִ֨י אֲנִ֜י _מֵבִ֤יא_ עֲלֵיכֶם֙ חֶ֔רֶב וְאִבַּדְתִּ֖י בָּמֹֽותֵיכֶֽם׃ (Ezek. 6:3)
+NIV	and say: ‘O mountains of Israel, hear the word of the Sovereign LORD. This is what the Sovereign LORD says to the mountains and hills, to the ravines and valleys: I _am about to bring_ a sword against you, and I will destroy your high places.
+ESV	and say, You mountains of Israel, hear the word of the Lord God! Thus says the Lord God to the mountains and the hills, to the ravines and the valleys: Behold, I, even I, _will bring_ a sword upon you, and I will destroy your high places.
+
+(x)	וְהִנֵּ֨ה נֹֽותְרָה־בָּ֜הּ פְּלֵטָ֗ה הַֽמּוּצָאִים֮ בָּנִ֣ים וּבָנֹות֒ הִנָּם֙ _יֹוצְאִ֣ים_ אֲלֵיכֶ֔ם וּרְאִיתֶ֥ם אֶת־דַּרְכָּ֖ם וְאֶת־עֲלִֽילֹותָ֑ם וְנִחַמְתֶּ֗ם עַל־הָֽרָעָה֙ אֲשֶׁ֤ר הֵבֵ֨אתִי֙ עַל־יְר֣וּשָׁלִַ֔ם אֵ֛ת כָּל־אֲשֶׁ֥ר הֵבֵ֖אתִי עָלֶֽיהָ׃ (Ezek. 14:22)
+NIV	Yet there will be some survivors — sons and daughters who will be brought out of it. They _will come_ to you, and when you see their conduct and their actions, you will be consoled regarding the disaster I have brought upon Jerusalem — every disaster I have brought upon it.
+ESV	But behold, some survivors will be left in it, sons and daughters who will be brought out. behold, when they _come out_ to you, and you see their ways and their deeds, you will be consoled for the disaster that I have brought upon Jerusalem, for all that I have brought upon it.
+
+(x)	וְהָיָ֨ה לָהֶ֤ם כִּקְסָם־שָׁוְא֙ בְּעֵ֣ינֵיהֶ֔ם שְׁבֻעֵ֥י שְׁבֻעֹ֖ות לָהֶ֑ם וְהֽוּא־_מַזְכִּ֥יר_ עָוֹ֖ן לְהִתָּפֵֽשׂ׃ פ (Ezek. 21:28)
+NIV	It will seem like a false omen to those who have sworn allegiance to him, but he _will remind_ them of their guilt and take them captive.
+ESV	But to them it will seem like a false divination. They have sworn solemn oaths, but he brings their guilt to remembrance, that they may be taken.
+
+(x)	אֱמֹ֣ר׀ לְבֵ֣ית יִשְׂרָאֵ֗ל כֹּֽה־אָמַר֮ אֲדֹנָ֣י יְהוִה֒ הִנְנִ֨י _מְחַלֵּ֤ל_ אֶת־מִקְדָּשִׁי֙ גְּאֹ֣ון עֻזְּכֶ֔ם מַחְמַ֥ד עֵֽינֵיכֶ֖ם וּמַחְמַ֣ל נַפְשְׁכֶ֑ם וּבְנֵיכֶ֧ם וּבְנֹֽותֵיכֶ֛ם אֲשֶׁ֥ר עֲזַבְתֶּ֖ם בַּחֶ֥רֶב יִפֹּֽלוּ׃ (Ezek. 24:21)
+NIV	Say to the house of Israel, ‘This is what the Sovereign LORD says: I _am about to desecrate_ my sanctuary — the stronghold in which you take pride, the delight of your eyes, the object of your affection. The sons and daughters you left behind will fall by the sword.
+ESV	‘Say to the house of Israel, Thus says the Lord God: Behold, I _will profane_ my sanctuary, the pride of your power, the delight of your eyes, and the yearning of your soul, and your sons and your daughters whom you left behind shall fall by the sword.
+
+(x)	וְהִנְּךָ֤ לָהֶם֙ כְּשִׁ֣יר עֲגָבִ֔ים יְפֵ֥ה קֹ֖ול וּמֵטִ֣ב נַגֵּ֑ן וְשָֽׁמְעוּ֙ אֶת־דְּבָרֶ֔יךָ וְ_עֹשִׂ֥ים_ אֵינָ֖ם אֹותָֽם׃ (Ezek. 33:32)
+NIV	Indeed, to them you are nothing more than one who sings love songs with a beautiful voice and plays an instrument well, for they hear your words but do not put them into practice.
+ESV	And behold, you are to them like one who sings lustful songs with a beautiful voice and plays well on an instrument, for they hear what you say, but they will not do it.
+
+(x)	אֱמֹ֕ר אֶל־זְרֻבָּבֶ֥ל פַּֽחַת־יְהוּדָ֖ה לֵאמֹ֑ר אֲנִ֣י _מַרְעִ֔ישׁ_ אֶת־הַשָּׁמַ֖יִם וְאֶת־הָאָֽרֶץ׃ (Hag. 2:21)
+NIV	“Tell Zerubbabel governor of Judah that I _will shake_ the heavens and the earth.
+ESV	“Speak to Zerubbabel, governor of Judah, saying, I _am about to shake_ the heavens and the earth,
+
+(x)	שָׁרְשִׁ֣י _פָת֣וּחַ_ אֱלֵי־מָ֑יִם וְ֝טַ֗ל יָלִ֥ין בִּקְצִירִֽי׃ (Job 29:19)
+NIV	My roots _will reach_ to the water, and the dew will lie all night on my branches.
+ESV	my roots _spread out_ to the waters, with the dew all night on my branches,
+
+(x)	עֵץ־חַיִּ֣ים הִ֭יא לַמַּחֲזִיקִ֣ים בָּ֑הּ וְֽתֹמְכֶ֥יהָ _מְאֻשָּֽׁר_׃ פ (Prov. 3:18)
+NIV	She is a tree of life to those who embrace her. those who lay hold of her _will be blessed_.
+ESV	She is a tree of life to those who lay hold of her. those who hold her fast _are called blessed_.
+
+(x)	לַזָּהָ֤ב לַזָּהָב֙ וְלַכֶּ֣סֶף לַכֶּ֔סֶף וּלְכָל־מְלָאכָ֖ה בְּיַ֣ד חָרָשִׁ֑ים וּמִ֣י _מִתְנַדֵּ֔ב_ לְמַלֹּ֥אות יָדֹ֛ו הַיֹּ֖ום לַיהוָֽה׃ (I Chr. 29:5)
+NIV	for the gold work and the silver work, and for all the work to be done by the craftsmen. Now, who _is willing_ to consecrate himself today to the LORD?”
+ESV	and for all the work to be done by craftsmen, gold for the things of gold and silver for the things of silver. Who then _will offer willingly_, consecrating himself today to the Lord?”
+
+(x)	הִנֵּ֣ה יְהוָ֗ה _נֹגֵ֛ף_ מַגֵּפָ֥ה גְדֹולָ֖ה בְּעַמֶּ֑ךָ וּבְבָנֶ֥יךָ וּבְנָשֶׁ֖יךָ וּבְכָל־רְכוּשֶֽׁךָ׃ (II Chr. 21:14)
+NIV	So now the LORD _is about to strike_ your people, your sons, your wives and everything that is yours, with a heavy blow.
+ESV	behold, the Lord _will bring_ a great plague on your people, your children, your wives, and all your possessions,

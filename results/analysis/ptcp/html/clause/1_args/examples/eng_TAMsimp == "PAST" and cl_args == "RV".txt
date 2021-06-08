@@ -1,0 +1,102 @@
+eng_TAMsimp == "PAST" and cl_args == "RV"
+25 of 203
+
+(x)	וַיִּגְוַ֞ע כָּל־בָּשָׂ֣ר׀ הָ_רֹמֵ֣שׂ_ עַל־הָאָ֗רֶץ בָּעֹ֤וף וּבַבְּהֵמָה֙ וּבַ֣חַיָּ֔ה וּבְכָל־הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל־הָאָ֑רֶץ וְכֹ֖ל הָאָדָֽם׃ (Gen. 7:21)
+NIV	Every living thing _that moved_ on the earth perished — birds, livestock, wild animals, all the creatures that swarm over the earth, and all mankind.
+ESV	And all flesh died _that moved_ on the earth, birds, livestock, beasts, all swarming creatures that swarm on the earth, and all mankind.
+
+(x)	וְשֶׁ֣בַע הַ֠פָּרֹות הָֽרַקֹּ֨ות וְהָרָעֹ֜ת הָ_עֹלֹ֣ת_ אַחֲרֵיהֶ֗ן שֶׁ֤בַע שָׁנִים֙ הֵ֔נָּה וְשֶׁ֤בַע הַֽשִׁבֳּלִים֙ הָרֵקֹ֔ות שְׁדֻפֹ֖ות הַקָּדִ֑ים יִהְי֕וּ שֶׁ֖בַע שְׁנֵ֥י רָעָֽב׃ (Gen. 41:27)
+NIV	The seven lean, ugly cows _that came up_ afterward are seven years, and so are the seven worthless heads of grain scorched by the east wind: They are seven years of famine.
+ESV	The seven lean and ugly cows _that came up_ after them are seven years, and the seven empty ears blighted by the east wind are also seven years of famine.
+
+(x)	וְאֵ֗לֶּה שְׁמֹות֙ בְּנֵ֣י יִשְׂרָאֵ֔ל הַ_בָּאִ֖ים_ מִצְרָ֑יְמָה אֵ֣ת יַעֲקֹ֔ב אִ֥ישׁ וּבֵיתֹ֖ו בָּֽאוּ׃ (Exod. 1:1)
+NIV	These are the names of the sons of Israel _who went_ to Egypt with Jacob, each with his family:
+ESV	These are the names of the sons of Israel _who came_ to Egypt with Jacob, each with his household:
+
+(x)	הַ_מֹּוצִ֤יא_ אֶתְכֶם֙ מֵאֶ֣רֶץ מִצְרַ֔יִם לִהְיֹ֥ות לָכֶ֖ם לֵאלֹהִ֑ים אֲנִ֖י יְהוָֽה׃ פ (Lev. 22:33)
+NIV	and who brought you out of Egypt to be your God. I am the LORD.”
+ESV	who brought you out of the land of Egypt to be your God: I am the Lord.”
+
+(x)	וַיִּהְי֗וּ הַ_מֵּתִים֙_ בַּמַּגֵּפָ֔ה אַרְבָּעָ֥ה עָשָׂ֛ר אֶ֖לֶף וּשְׁבַ֣ע מֵאֹ֑ות מִלְּבַ֥ד הַמֵּתִ֖ים עַל־דְּבַר־קֹֽרַח׃ (Num. 17:14)
+NIV	But 14,700 people _died_ from the plague, in addition to those who had _died_ because of Korah.
+ESV	Now those _who died_ in the plague were 14,700, besides those _who died_ in the affair of Korah.
+
+(x)	אִם־יִרְא֨וּ הָאֲנָשִׁ֜ים הָ_עֹלִ֣ים_ מִמִּצְרַ֗יִם מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה אֵ֚ת הָאֲדָמָ֔ה אֲשֶׁ֥ר נִשְׁבַּ֛עְתִּי לְאַבְרָהָ֥ם לְיִצְחָ֖ק וּֽלְיַעֲקֹ֑ב כִּ֥י לֹא־מִלְא֖וּ אַחֲרָֽי׃ (Num. 32:11)
+NIV	‘Because they have not followed me wholeheartedly, not one of the men twenty years old or more _who came up_ out of Egypt will see the land I promised on oath to Abraham, Isaac and Jacob —
+ESV	‘Surely none of the men _who came up_ out of Egypt, from twenty years old and upward, shall see the land that I swore to give to Abraham, to Isaac, and to Jacob, because they have not wholly followed me,
+
+(x)	וְרָ֖ם לְבָבֶ֑ךָ וְשָֽׁכַחְתָּ֙ אֶת־יְהוָ֣ה אֱלֹהֶ֔יךָ הַ_מֹּוצִיאֲךָ֛_ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֥ית עֲבָדִֽים׃ (Deut. 8:14)
+NIV	then your heart will become proud and you will forget the LORD your God, who brought you out of Egypt, out of the land of slavery.
+ESV	then your heart be lifted up, and you forget the Lord your God, who brought you out of the land of Egypt, out of the house of slavery,
+
+(x)	הָ_אֹמֵ֞ר_ לְאָבִ֤יו וּלְאִמֹּו֙ לֹ֣א רְאִיתִ֔יו וְאֶת־אֶחָיו֙ לֹ֣א הִכִּ֔יר וְאֶת־בָּנָ֖יו לֹ֣א יָדָ֑ע כִּ֤י שָֽׁמְרוּ֙ אִמְרָתֶ֔ךָ וּבְרִֽיתְךָ֖ יִנְצֹֽרוּ׃ (Deut. 33:9)
+NIV	He _said_ of his father and mother, ‘I have no regard for them.’ He did not recognise his brothers or acknowledge his own children, but he watched over your word and guarded your covenant.
+ESV	_who said_ of his father and mother, ‘I regard them not’. he disowned his brothers and ignored his children. For they observed your word and kept your covenant.
+
+(x)	כִּ֚י יְהוָ֣ה אֱלֹהֵ֔ינוּ הוּא֩ הַ_מַּעֲלֶ֨ה_ אֹתָ֧נוּ וְאֶת־אֲבֹותֵ֛ינוּ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֣ית עֲבָדִ֑ים וַאֲשֶׁ֧ר עָשָׂ֣ה לְעֵינֵ֗ינוּ אֶת־הָאֹתֹ֤ות הַגְּדֹלֹות֙ הָאֵ֔לֶּה וַֽיִּשְׁמְרֵ֗נוּ בְּכָל־הַדֶּ֨רֶךְ֙ אֲשֶׁ֣ר הָלַ֣כְנוּ בָ֔הּ וּבְכֹל֙ הָֽעַמִּ֔ים אֲשֶׁ֥ר עָבַ֖רְנוּ בְּקִרְבָּֽם׃ (Josh. 24:17)
+NIV	It was the LORD our God himself who brought us and our fathers up out of Egypt, from that land of slavery, and performed those great signs before our eyes. He protected us on our entire journey and among all the nations through which we travelled.
+ESV	for it is the Lord our God who brought us and our fathers up from the land of Egypt, out of the house of slavery, and who did those great signs in our sight and preserved us in all the way that we went, and among all the peoples through whom we passed.
+
+(x)	וְהִכָּ֨ה בַכִּיֹּ֜ור אֹ֣ו בַדּ֗וּד אֹ֤ו בַקַּלַּ֨חַת֙ אֹ֣ו בַפָּר֔וּר כֹּ֚ל אֲשֶׁ֣ר יַעֲלֶ֣ה הַמַּזְלֵ֔ג יִקַּ֥ח הַכֹּהֵ֖ן בֹּ֑ו כָּ֚כָה יַעֲשׂ֣וּ לְכָל־יִשְׂרָאֵ֔ל הַ_בָּאִ֥ים_ שָׁ֖ם בְּשִׁלֹֽה׃ (I Sam. 2:14)
+NIV	He would plunge it into the pan or kettle or cauldron or pot, and the priest would take for himself whatever the fork brought up. This is how they treated all the Israelites _who came_ to Shiloh.
+ESV	and he would thrust it into the pan or kettle or cauldron or pot. All that the fork brought up the priest would take for himself. This is what they did at Shiloh to all the Israelites _who came_ there.
+
+(x)	בְּנֹות֙ יִשְׂרָאֵ֔ל אֶל־שָׁא֖וּל בְּכֶ֑ינָה הַמַּלְבִּֽשְׁכֶ֤ם שָׁנִי֙ עִם־עֲדָנִ֔ים הַֽ_מַּעֲלֶה֙_ עֲדִ֣י זָהָ֔ב עַ֖ל לְבוּשְׁכֶֽן׃ (II Sam. 1:24)
+NIV	“O daughters of Israel, weep for Saul, who clothed you in scarlet and finery, _who adorned_ your garments with ornaments of gold.
+ESV	“You daughters of Israel, weep over Saul, who clothed you luxuriously in scarlet, _who put_ ornaments of gold on your apparel.
+
+(x)	כָּל־הָ֠עָם הַ_נֹּותָ֨ר_ מִן־הָאֱמֹרִ֜י הַחִתִּ֤י הַפְּרִזִּי֙ הַחִוִּ֣י וְהַיְבוּסִ֔י אֲשֶׁ֛ר לֹֽא־מִבְּנֵ֥י יִשְׂרָאֵ֖ל הֵֽמָּה׃ (I Kgs. 9:20)
+NIV	All the people _left_ from the Amorites, Hittites, Perizzites, Hivites and Jebusites ( these peoples were not Israelites ),
+ESV	All the people _who were left_ of the Amorites, the Hittites, the Perizzites, the Hivites, and the Jebusites, who were not of the people of Israel —
+
+(x)	וְנָתְנוּ֙ אֶת־הַכֶּ֣סֶף הַֽמְתֻכָּ֔ן עַל־יְדֵי֙ עֹשֵׂ֣י הַמְּלָאכָ֔ה הַמֻּפְקָדִ֖ים בֵּ֣ית יְהוָ֑ה וַיֹּוצִיאֻ֜הוּ לְחָרָשֵׁ֤י הָעֵץ֙ וְלַבֹּנִ֔ים הָ_עֹשִׂ֖ים_ בֵּ֥ית יְהוָֽה׃ (II Kgs. 12:12)
+NIV	When the amount had been determined, they gave the money to the men appointed to supervise the work on the temple. With it they paid those _who worked_ on the temple of the LORD — the carpenters and builders,
+ESV	Then they would give the money that was weighed out into the hands of the workmen who had the oversight of the house of the Lord. And they paid it out to the carpenters and the builders _who worked_ on the house of the Lord,
+
+(x)	וְלֹ֣א אָמְר֔וּ אַיֵּ֣ה יְהוָ֔ה הַ_מַּעֲלֶ֥ה_ אֹתָ֖נוּ מֵאֶ֣רֶץ מִצְרָ֑יִם הַמֹּולִ֨יךְ אֹתָ֜נוּ בַּמִּדְבָּ֗ר בְּאֶ֨רֶץ עֲרָבָ֤ה וְשׁוּחָה֙ בְּאֶ֨רֶץ֙ צִיָּ֣ה וְצַלְמָ֔וֶת בְּאֶ֗רֶץ לֹֽא־עָ֤בַר בָּהּ֙ אִ֔ישׁ וְלֹֽא־יָשַׁ֥ב אָדָ֖ם שָֽׁם׃ (Jer. 2:6)
+NIV	They did not ask, ‘Where is the LORD, who brought us up out of Egypt and led us through the barren wilderness, through a land of deserts and rifts, a land of drought and darkness, a land where no-one travels and no-one lives?’
+ESV	They did not say, ‘Where is the Lord who brought us up from the land of Egypt, who led us in the wilderness, in a land of deserts and pits, in a land of drought and deep darkness, in a land that none passes through, where no man dwells?’
+
+(x)	כֹּֽה־אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל כֹּ֚ה תֹֽאמְרוּ֙ אֶל־מֶ֣לֶךְ יְהוּדָ֔ה הַ_שֹּׁלֵ֧חַ_ אֶתְכֶ֛ם אֵלַ֖י לְדָרְשֵׁ֑נִי הִנֵּ֣ה׀ חֵ֣יל פַּרְעֹ֗ה הַיֹּצֵ֤א לָכֶם֙ לְעֶזְרָ֔ה שָׁ֥ב לְאַרְצֹ֖ו מִצְרָֽיִם׃ (Jer. 37:7)
+NIV	“This is what the LORD, the God of Israel, says: Tell the king of Judah, _who sent_ you to enquire of me, ‘Pharaoh’s army, which has marched out to support you, will go back to its own land, to Egypt.
+ESV	“Thus says the Lord, God of Israel: Thus shall you say to the king of Judah _who sent_ you to me to inquire of me, ‘Behold, Pharaoh’s army that came to help you is about to return to Egypt, to its own land.
+
+(x)	וְכִלֵּיתִ֤י אֶת־חֲמָתִי֙ בַּקִּ֔יר וּבַ_טָּחִ֥ים_ אֹתֹ֖ו תָּפֵ֑ל וְאֹמַ֤ר לָכֶם֙ אֵ֣ין הַקִּ֔יר וְאֵ֖ין הַ_טָּחִ֥ים_ אֹתֹֽו׃ (Ezek. 13:15)
+NIV	So I will spend my wrath against the wall and against those who covered it with whitewash. I will say to you, “The wall is gone and so are _those who whitewashed_ it,
+ESV	Thus will I spend my wrath upon the wall and upon those who have smeared it with whitewash, and I will say to you, The wall is no more, nor _those who smeared_ it,
+
+(x)	וְאָמְר֗וּ הָאָ֤רֶץ הַלֵּ֨זוּ֙ הַ_נְּשַׁמָּ֔ה_ הָיְתָ֖ה כְּגַן־עֵ֑דֶן וְהֶעָרִ֧ים הֶחֳרֵבֹ֛ות וְהַֽנְשַׁמֹּ֥ות וְהַנֶּהֱרָסֹ֖ות בְּצוּרֹ֥ות יָשָֽׁבוּ׃ (Ezek. 36:35)
+NIV	They will say, “This land _that was laid waste_ has become like the garden of Eden. the cities that were lying in ruins, desolate and destroyed, are now fortified and inhabited.”
+ESV	And they will say, ‘This land _that was desolate_ has become like the garden of Eden, and the waste and desolate and ruined cities are now fortified and inhabited.’
+
+(x)	וָאַ֨עַן֙ וָֽאֹמַ֔ר אֶל־הַמַּלְאָ֛ךְ הַ_דֹּבֵ֥ר_ בִּ֖י לֵאמֹ֑ר מָה־אֵ֖לֶּה אֲדֹנִֽי׃ (Zech. 4:4)
+NIV	I asked the angel _who talked_ with me, “What are these, my lord?”
+ESV	And I said to the angel _who talked_ with me, “What are these, my lord?”
+
+(x)	הָ_אֹֽכְלִים֙_ לְמַ֣עֲדַנִּ֔ים נָשַׁ֖מּוּ בַּחוּצֹ֑ות הָאֱמֻנִים֙ עֲלֵ֣י תֹולָ֔ע חִבְּק֖וּ אַשְׁפַּתֹּֽות׃ ס (Lam. 4:5)
+NIV	Those who once ate delicacies are destitute in the streets. Those nurtured in purple now lie on ash heaps.
+ESV	Those who once feasted on delicacies perish in the streets. those who were brought up in purple embrace ash heaps.
+
+(x)	וַיִּגְּשׁ֨וּ אֶל־זְרֻבָּבֶ֜ל וְאֶל־רָאשֵׁ֣י הָֽאָבֹ֗ות וַיֹּאמְר֤וּ לָהֶם֙ נִבְנֶ֣ה עִמָּכֶ֔ם כִּ֣י כָכֶ֔ם נִדְרֹ֖ושׁ לֵֽאלֹהֵיכֶ֑ם וְלֹ֣ו ׀ אֲנַ֣חְנוּ זֹבְחִ֗ים מִימֵי֙ אֵסַ֤ר חַדֹּן֙ מֶ֣לֶךְ אַשּׁ֔וּר הַ_מַּעֲלֶ֥ה_ אֹתָ֖נוּ פֹּֽה׃ (Ezra 4:2)
+NIV	they came to Zerubbabel and to the heads of the families and said, “Let us help you build because, like you, we seek your God and have been sacrificing to him since the time of Esarhaddon king of Assyria, _who brought_ us here.”
+ESV	they approached Zerubbabel and the heads of fathers’ houses and said to them, “Let us build with you, for we worship your God as you do, and we have been sacrificing to him ever since the days of Esarhaddon king of Assyria _who brought_ us here.”
+
+(x)	וַיָּ֖מָת חוּשָׁ֑ם וַיִּמְלֹ֨ךְ תַּחְתָּ֜יו הֲדַ֣ד בֶּן־בְּדַ֗ד הַ_מַּכֶּ֤ה_ אֶת־מִדְיָן֙ בִּשְׂדֵ֣ה מֹואָ֔ב וְשֵׁ֥ם עִירֹ֖ו עֲוִֽית׃ (I Chr. 1:46)
+NIV	When Husham died, Hadad son of Bedad, _who defeated_ Midian in the country of Moab, succeeded him as king. His city was named Avith.
+ESV	Husham died, and Hadad the son of Bedad, _who defeated_ Midian in the country of Moab, reigned in his place, the name of his city being Avith.
+
+(x)	וַיְהִ֥י דָוִ֛יד וְזִקְנֵ֥י יִשְׂרָאֵ֖ל וְשָׂרֵ֣י הָאֲלָפִ֑ים הַ_הֹֽלְכִ֗ים_ לְֽהַעֲלֹ֞ות אֶת־אֲרֹ֧ון בְּרִית־יְהוָ֛ה מִן־בֵּ֥ית עֹבֵֽד־אֱדֹ֖ם בְּשִׂמְחָֽה׃ ס (I Chr. 15:25)
+NIV	So David and the elders of Israel and the commanders of units of a thousand _went_ to bring up the ark of the covenant of the LORD from the house of Obed-edom, with rejoicing.
+ESV	So David and the elders of Israel and the commanders of thousands _went_ to bring up the ark of the covenant of the Lord from the house of Obed-edom with rejoicing.
+
+(x)	וַתִּקַּח֩ יְהֹושַׁבְעַ֨ת בַּת־הַמֶּ֜לֶךְ אֶת־יֹואָ֣שׁ בֶּן־אֲחַזְיָ֗הוּ וַתִּגְנֹ֤ב אֹתֹו֙ מִתֹּ֤וךְ בְּנֵֽי־הַמֶּ֨לֶךְ֙ הַ_מּ֣וּמָתִ֔ים_ וַתִּתֵּ֥ן אֹתֹ֛ו וְאֶת־מֵֽינִקְתֹּ֖ו בַּחֲדַ֣ר הַמִּטֹּ֑ות וַתַּסְתִּירֵ֡הוּ יְהֹושַׁבְעַ֣ת בַּת־הַמֶּ֣לֶךְ יְהֹורָ֡ם אֵשֶׁת֩ יְהֹויָדָ֨ע הַכֹּהֵ֜ן כִּ֣י הִיא֩ הָיְתָ֨ה אֲחֹ֧ות אֲחַזְיָ֛הוּ מִפְּנֵ֥י עֲתַלְיָ֖הוּ וְלֹ֥א הֱמִיתָֽתְהוּ׃ (II Chr. 22:11)
+NIV	But Jehosheba, the daughter of King Jehoram, took Joash son of Ahaziah and stole him away from among the royal princes _who were about to be murdered_ and put him and his nurse in a bedroom. Because Jehosheba, the daughter of King Jehoram and wife of the priest Jehoiada, was Ahaziah’s sister, she hid the child from Athaliah so that she could not kill him.
+ESV	But Jehoshabeath, the daughter of the king, took Joash the son of Ahaziah and stole him away from among the king’s sons _who were about to be put to death_, and she put him and his nurse in a bedroom. Thus Jehoshabeath, the daughter of King Jehoram and wife of Jehoiada the priest, because she was a sister of Ahaziah, hid him from Athaliah, so that she did not put him to death.
+
+(x)	וַיִּקָּבְצ֣וּ עַם־רָ֔ב וַֽיִּסְתְּמוּ֙ אֶת־כָּל־הַמַּעְיָנֹ֔ות וְאֶת־הַנַּ֛חַל הַ_שֹּׁוטֵ֥ף_ בְּתֹוךְ־הָאָ֖רֶץ לֵאמֹ֑ר לָ֤מָּה יָבֹ֨ואוּ֙ מַלְכֵ֣י אַשּׁ֔וּר וּמָצְא֖וּ מַ֥יִם רַבִּֽים׃ (II Chr. 32:4)
+NIV	A large force of men assembled, and they blocked all the springs and the stream _that flowed_ through the land. “Why should the kings of Assyria come and find plenty of water?” they said.
+ESV	A great many people were gathered, and they stopped all the springs and the brook _that flowed_ through the land, saying, “Why should the kings of Assyria come and find much water?”
+
+(x)	וְלֹֽא־נַעֲשָׂ֨ה פֶ֤סַח כָּמֹ֨הוּ֙ בְּיִשְׂרָאֵ֔ל מִימֵ֖י שְׁמוּאֵ֣ל הַנָּבִ֑יא וְכָל־מַלְכֵ֣י יִשְׂרָאֵ֣ל׀ לֹֽא־עָשׂ֡וּ כַּפֶּ֣סַח אֲשֶׁר־עָשָׂ֣ה יֹֽ֠אשִׁיָּהוּ וְהַכֹּהֲנִ֨ים וְהַלְוִיִּ֤ם וְכָל־יְהוּדָה֙ וְיִשְׂרָאֵ֣ל הַ_נִּמְצָ֔א_ וְיֹושְׁבֵ֖י יְרוּשָׁלִָֽם׃ ס (II Chr. 35:18)
+NIV	The Passover had not been observed like this in Israel since the days of the prophet Samuel. and none of the kings of Israel had ever celebrated such a Passover as did Josiah, with the priests, the Levites and all Judah and Israel _who were_ there with the people of Jerusalem.
+ESV	No Passover like it had been kept in Israel since the days of Samuel the prophet. None of the kings of Israel had kept such a Passover as was kept by Josiah, and the priests and the Levites, and all Judah and Israel _who were present_, and the inhabitants of Jerusalem.

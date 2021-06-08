@@ -1,0 +1,102 @@
+eng_TAMsimp == "PRES"and mother_verbtype == "yqtl"
+25 of 311
+
+(x)	וְיִרְדּוּ֩ בִדְגַ֨ת הַיָּ֜ם וּבְעֹ֣וף הַשָּׁמַ֗יִם וּבַבְּהֵמָה֙ וּבְכָל־הָאָ֔רֶץ וּבְכָל־הָרֶ֖מֶשׂ הָֽ_רֹמֵ֥שׂ_ עַל־הָאָֽרֶץ׃ (Gen. 1:26)
+NIV	Then God said, “Let us make man in our image, in our likeness, and let them rule over the fish of the sea and the birds of the air, over the livestock, over all the earth, and over all the _creatures that move_ along the ground.”
+ESV	Then God said, “Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing _that creeps_ on the earth.”
+
+(x)	וְאֵ֥ת כָּל־חֶלְבֹּ֖ו יַקְרִ֣יב מִמֶּ֑נּוּ אֵ֚ת הָֽאַלְיָ֔ה וְאֶת־הַחֵ֖לֶב הַֽ_מְכַסֶּ֥ה_ אֶת־הַקֶּֽרֶב׃ (Lev. 7:3)
+NIV	All its fat shall be offered: the fat tail and the fat _that covers_ the inner parts,
+ESV	And all its fat shall be offered, the fat tail, the fat _that covers_ the entrails,
+
+(x)	יְכַבֵּ֧ס בְּגָדָ֛יו הַ_נֹּגֵ֖עַ_ בִּבְשַׂ֣ר הַזָּ֑ב (Lev. 15:7)
+NIV	“‘_Whoever touches_ the man who has a discharge must wash his clothes and bathe with water, and he will be unclean till evening.
+ESV	And _whoever touches_ the body of the one with the discharge shall wash his clothes and bathe himself in water and be unclean until the evening.
+
+(x)	יִמַּ֨קּוּ֙ בַּֽעֲוֹנָ֔ם בְּאַרְצֹ֖ת אֹיְבֵיכֶ֑ם הַ_נִּשְׁאָרִ֣ים_ בָּכֶ֗ם (Lev. 26:39)
+NIV	Those of you _who are left_ will waste away in the lands of their enemies because of their sins. also because of their fathers’ sins they will waste away.
+ESV	And those of you _who are left_ shall rot away in your enemies’ lands because of their iniquity, and also because of the iniquities of their fathers they shall rot away like them.
+
+(x)	הַעֲנֵ֤יק תַּעֲנִיק֙ לֹ֔ו מִצֹּ֣אנְךָ֔ וּמִֽגָּרְנְךָ֖ וּמִיִּקְבֶ֑ךָ עַל־כֵּ֞ן אָנֹכִ֧י _מְצַוְּךָ֛_ אֶת־הַדָּבָ֥ר הַזֶּ֖ה הַיֹּֽום׃ (Deut. 15:15)
+NIV	Remember that you were slaves in Egypt and the LORD your God redeemed you. That is why I _give_ you this command today.
+ESV	You shall remember that you were a slave in the land of Egypt, and the Lord your God redeemed you. therefore I _command_ you this today.
+
+(x)	יִשָּׂרֵ֣ף בָּאֵ֔שׁ הַ_נִּלְכָּ֣ד_ בַּחֵ֔רֶם (Josh. 7:15)
+NIV	He _who is caught_ with the devoted things shall be destroyed by fire, along with all that belongs to him. He has violated the covenant of the LORD and has done a disgraceful thing in Israel!’”
+ESV	And he _who is taken_ with the devoted things shall be burned with fire, he and all that he has, because he has transgressed the covenant of the Lord, and because he has done an outrageous thing in Israel.’”
+
+(x)	יֹאכְל֖וּ עֹ֣וף הַשָּׁמָ֑יִם הַ_מֵּת֙_ בַּשָּׂדֶ֔ה (I Kgs. 14:11)
+NIV	Dogs will eat those belonging to Jeroboam _who die_ in the city, and the birds of the air will feed on those _who die_ in the country. The LORD has spoken!’
+ESV	Anyone belonging to Jeroboam _who dies_ in the city the dogs shall eat, and anyone _who dies_ in the open country the birds of the heavens shall eat, for the Lord has spoken it.”’
+
+(x)	יִֽהְיֶ֣ה סַחְרָ֔הּ לַ_יֹּשְׁבִ֞ים_ לִפְנֵ֤י יְהוָה֙ (Isa. 23:18)
+NIV	Yet her profit and her earnings will be set apart for the LORD. they will not be stored up or hoarded. Her profits will go to those _who live_ before the LORD, for abundant food and fine clothes.
+ESV	Her merchandise and her wages will be holy to the Lord. It will not be stored or hoarded, but her merchandise will supply abundant food and fine clothing for those _who dwell_ before the Lord.
+
+(x)	יִשְׂכְּר֤וּ צֹורֵף֙ הַ_זָּלִ֤ים_ זָהָב֙ מִכִּ֔יס (Isa. 46:6)
+NIV	Some _pour out_ gold from their bags and weigh out silver on the scales. they hire a goldsmith to make it into a god, and they bow down and worship it.
+ESV	Those _who lavish_ gold from the purse, and weigh out silver in the scales, hire a goldsmith, and he makes it into a god. then they fall down and worship!
+
+(x)	יַחְדָּ֥ו יָסֻ֖פוּ הַ_מִּתְקַדְּשִׁ֨ים_ (Isa. 66:17)
+NIV	“Those _who consecrate_ and purify themselves to go into the gardens, following the one in the midst of those who eat the flesh of pigs and rats and other abominable things — they will meet their end together,” declares the LORD.
+ESV	“Those _who sanctify_ and purify themselves to go into the gardens, following one in the midst, eating pig’s flesh and the abomination and mice, shall come to an end together, declares the Lord.
+
+(x)	אוּלַ֤י יִשְׁמְעוּ֙ בֵּ֣ית יְהוּדָ֔ה אֵ֚ת כָּל־הָ֣רָעָ֔ה אֲשֶׁ֛ר אָנֹכִ֥י _חֹשֵׁ֖ב_ (Jer. 36:3)
+NIV	Perhaps when the people of Judah hear about every disaster I _plan_ to inflict on them, each of them will turn from his wicked way. then I will forgive their wickedness and their sin.”
+ESV	It may be that the house of Judah will hear all the disaster that I _intend_ to do to them, so that every one may turn from his evil way, and that I may forgive their iniquity and their sin.”
+
+(x)	יֵצֵ֖א דֶּרֶךְ־שַׁ֣עַר צָפֹ֑ונָה הַ_בָּא֙_ דֶּרֶךְ־שַׁ֣עַר נֶ֔גֶב (Ezek. 46:9)
+NIV	“‘When the people of the land come before the LORD at the appointed feasts, _whoever enters_ by the north gate to worship is to go out by the south gate. and _whoever enters_ by the south gate is to go out by the north gate. No-one is to return through the gate by which he entered, but each is to go out by the opposite gate.
+ESV	“When the people of the land come before the Lord at the appointed feasts, he _who enters_ by the north gate to worship shall go out by the south gate, and he _who enters_ by the south gate shall go out by the north gate: no one shall return by way of the gate by which he entered, but each shall go out straight ahead.
+
+(x)	תֹּאכַ֕לְנָה הַ֨_נִּשְׁאָרֹ֔ות_ (Zech. 11:9)
+NIV	and said, “I will not be your shepherd. Let the dying die, and the perishing perish. Let those _who are left_ eat one another’s flesh.”
+ESV	So I said, “I will not be your shepherd. What is to die, let it die. What is to be destroyed, let it be destroyed. And let those _who are left_ devour the flesh of one another.”
+
+(x)	יֵבֹ֣שׁוּ _מְבַקְשֵׁ֪י_ נַ֫פְשִׁ֥י (Psa. 35:4)
+NIV	May _those who seek_ my life be disgraced and put to shame. may those who plot my ruin be turned back in dismay.
+ESV	Let them be put to shame and dishonor _who seek after_ my life! Let them be turned back and disappointed who devise evil against me!
+
+(x)	יְֽכַ֫בְּדָ֥נְנִי _זֹבֵ֥חַ_ תֹּודָ֗ה (Psa. 50:23)
+NIV	He _who sacrifices_ thank offerings honors me, and he prepares the way so that I may show him the salvation of God.”
+ESV	_The one who offers_ thanksgiving as his sacrifice glorifies me. to one who orders his way rightly I will show the salvation of God!”
+
+(x)	יַֽעֲט֣וּ חֶ֭רְפָּה וּכְלִמָּ֑ה _מְ֝בַקְשֵׁ֗י_ רָעָתִֽי׃ (Psa. 71:13)
+NIV	May my accusers perish in shame. may _those who want_ to harm me be covered with scorn and disgrace.
+ESV	May my accusers be put to shame and consumed. with scorn and disgrace may they be covered _who seek_ my hurt.
+
+(x)	לְזֵ֥כֶר עֹ֝ולָ֗ם יִהְיֶ֥ה צַדִּֽיק׃ _נָכֹ֥ון_ לִ֝בֹּ֗ו (Psa. 112:7)
+NIV	He will have no fear of bad news. his heart _is steadfast_, trusting in the LORD.
+ESV	He is not afraid of bad news. his heart _is firm_, trusting in the Lord.
+
+(x)	בִּ֭קְדֹשָׁיו לֹ֣א יַאֲמִ֑ין אַ֭ף כִּֽי־_נִתְעָ֥ב_ (Job 15:16)
+NIV	how much less man, _who is vile_ and corrupt, who drinks up evil like water!
+ESV	how much less _one who is abominable_ and corrupt, a man who drinks injustice like water!
+
+(x)	כָּ֭בֹוד חֲכָמִ֣ים יִנְחָ֑לוּ וּ֝כְסִילִ֗ים _מֵרִ֥ים_ קָלֹֽון׃ פ (Prov. 3:35)
+NIV	The wise inherit honour, but fools he _holds up_ to shame.
+ESV	The wise will inherit honor, but fools _get_ disgrace.
+
+(x)	יְבַקֵּ֣שׁ רָצֹ֑ון וְ_דֹרֵ֖שׁ_ רָעָ֣ה (Prov. 11:27)
+NIV	He who seeks good finds goodwill, but evil comes to him _who searches for_ it.
+ESV	Whoever diligently seeks good seeks favor, but evil comes to him _who searches for_ it.
+
+(x)	בְּֽ֭רָעָתֹו יִדָּחֶ֣ה רָשָׁ֑ע וְ_חֹסֶ֖ה_ בְמֹותֹ֣ו צַדִּֽיק׃ (Prov. 14:32)
+NIV	When calamity comes, the wicked are brought down, but even in death the righteous _have a refuge_.
+ESV	The wicked is overthrown through his evildoing, but the righteous _finds refuge_ in his death.
+
+(x)	שֹׁד־רְשָׁעִ֥ים יְגֹורֵ֑ם _מַשְׂכִּ֣יל_ צַ֭דִּיק לְבֵ֣ית רָשָׁ֑ע (Prov. 21:12)
+NIV	The Righteous One _takes note_ of the house of the wicked and brings the wicked to ruin.
+ESV	The Righteous One _observes_ the house of the wicked. he throws the wicked down to ruin.
+
+(x)	שֵׁ֣בֶט וְ֭תֹוכַחַת יִתֵּ֣ן חָכְמָ֑ה וְנַ֥עַר מְ֝שֻׁלָּ֗ח _מֵבִ֥ישׁ_ אִמֹּֽו׃ (Prov. 29:15)
+NIV	The rod of correction imparts wisdom, but a child left to himself _disgraces_ his mother.
+ESV	The rod and reproof give wisdom, but a child left to himself _brings shame_ to his mother.
+
+(x)	לֹ֥א יִקְצֹֽור׃ _רֹאֶ֥ה_ בֶעָבִ֖ים (Eccl. 11:4)
+NIV	Whoever watches the wind will not plant. _whoever looks_ at the clouds will not reap.
+ESV	He who observes the wind will not sow, and he _who regards_ the clouds will not reap.
+
+(x)	לֹא־תָבִ֤יאוּ אֶת־הַשִּׁבְיָה֙ הֵ֔נָּה כִּי֩ לְאַשְׁמַ֨ת יְהוָ֤ה עָלֵ֨ינוּ֙ אַתֶּ֣ם _אֹמְרִ֔ים_ (II Chr. 28:13)
+NIV	“You must not bring those prisoners here,” they said, “or we will be guilty before the LORD. Do you intend to add to our sin and guilt? For our guilt is already great, and his fierce anger rests on Israel.”
+ESV	and said to them, “You shall not bring the captives in here, for you _propose_ to bring upon us guilt against the Lord in addition to our present sins and guilt. For our guilt is already great, and there is fierce wrath against Israel.”

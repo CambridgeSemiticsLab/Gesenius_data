@@ -1,0 +1,102 @@
+eng_TAMsimp == "PAST" and mother_verbtype == "wayq"
+25 of 171
+
+(x)	וַיִּגְוַ֞ע כָּל־בָּשָׂ֣ר׀ הָ_רֹמֵ֣שׂ_ עַל־הָאָ֗רֶץ (Gen. 7:21)
+NIV	Every living thing _that moved_ on the earth perished — birds, livestock, wild animals, all the creatures that swarm over the earth, and all mankind.
+ESV	And all flesh died _that moved_ on the earth, birds, livestock, beasts, all swarming creatures that swarm on the earth, and all mankind.
+
+(x)	וַיִּקַּ֞ח מִן־הַ_בָּ֧א_ בְיָדֹ֛ו (Gen. 32:14)
+NIV	He spent the night there, and from what he had with him he selected a gift for his brother Esau:
+ESV	So he stayed there that night, and from what he had with him he took a present for his brother Esau,
+
+(x)	וַיִּתֵּ֨ן אֹתָ֜ם בְּמִשְׁמַ֗ר בֵּ֛ית שַׂ֥ר הַטַבָּחִ֖ים אֶל־בֵּ֣ית הַסֹּ֑הַר מְקֹ֕ום אֲשֶׁ֥ר יֹוסֵ֖ף _אָס֥וּר_ שָֽׁם׃ (Gen. 40:3)
+NIV	and put them in custody in the house of the captain of the guard, in the same prison where Joseph _was confined_.
+ESV	and he put them in custody in the house of the captain of the guard, in the prison where Joseph _was confined_.
+
+(x)	וַיְמַלְאוּ־בֹ֔ו אַרְבָּעָ֖ה ט֣וּרֵי אָ֑בֶן _מֽוּסַבֹּ֛ת_ מִשְׁבְּצֹ֥ות זָהָ֖ב בְּמִלֻּאֹתָֽם׃ (Exod. 39:13)
+NIV	in the fourth row a chrysolite, an onyx and a jasper. They _were mounted_ in gold filigree settings.
+ESV	and the fourth row, a beryl, an onyx, and a jasper. They _were enclosed_ in settings of gold filigree.
+
+(x)	וַיִּשְׁמַ֞ע הַכְּנַעֲנִ֤י מֶֽלֶךְ־עֲרָד֙ _יֹשֵׁ֣ב_ הַנֶּ֔גֶב (Num. 21:1)
+NIV	When the Canaanite king of Arad, _who lived_ in the Negev, heard that Israel was coming along the road to Atharim, he attacked the Israelites and captured some of them.
+ESV	When the Canaanite, the king of Arad, _who lived_ in the Negeb, heard that Israel was coming by the way of Atharim, he fought against Israel, and took some of them captive.
+
+(x)	וָֽאַשְׁלִךְ֙ אֶת־עֲפָרֹ֔ו אֶל־הַנַּ֖חַל הַ_יֹּרֵ֥ד_ מִן־הָהָֽר׃ (Deut. 9:21)
+NIV	Also I took that sinful thing of yours, the calf you had made, and burned it in the fire. Then I crushed it and ground it to powder as fine as dust and threw the dust into a stream _that flowed down_ the mountain.
+ESV	Then I took the sinful thing, the calf that you had made, and burned it with fire and crushed it, grinding it very small, until it was as fine as dust. And I threw the dust of it into the brook _that ran down_ from the mountain.
+
+(x)	וַיָּקָם֩ אַחֲרֵ֨י אֲבִימֶ֜לֶךְ וְהֽוּא־_יֹשֵׁ֥ב_ בְּשָׁמִ֖יר בְּהַ֥ר אֶפְרָֽיִם׃ (Judg. 10:1)
+NIV	After the time of Abimelech a man of Issachar, Tola son of Puah, the son of Dodo, rose to save Israel. He _lived_ in Shamir, in the hill country of Ephraim.
+ESV	After Abimelech there arose to save Israel Tola the son of Puah, son of Dodo, a man of Issachar, and he _lived_ at Shamir in the hill country of Ephraim.
+
+(x)	וַיֵּ֨שֶׁב֙ בִּרְחֹ֣וב הָעִ֔יר וְאֵ֥ין אִ֛ישׁ _מְאַסֵּֽף_־אֹותָ֥ם הַבַּ֖יְתָה (Judg. 19:15)
+NIV	There they stopped to spend the night. They went and sat in the city square, but no-one _took_ them into his home for the night.
+ESV	and they turned aside there, to go in and spend the night at Gibeah. And he went in and sat down in the open square of the city, for no one _took_ them into his house to spend the night.
+
+(x)	וַיְהִ֤י הַ_נִּשְׁאָרִים֙_ (I Sam. 11:11)
+NIV	The next day Saul separated his men into three divisions. during the last watch of the night they broke into the camp of the Ammonites and slaughtered them until the heat of the day. _Those who survived_ were scattered, so that no two of them were left together.
+ESV	And the next day Saul put the people in three companies. And they came into the midst of the camp in the morning watch and struck down the Ammonites until the heat of the day. And those _who survived_ were scattered, so that no two of them were left together.
+
+(x)	וַיָּ֣מֶת׀ בַּיֹּ֣ום הַה֗וּא שְׁמֹנִ֤ים וַחֲמִשָּׁה֙ אִ֔ישׁ _נֹשֵׂ֖א_ אֵפֹ֥וד בָּֽד׃ (I Sam. 22:18)
+NIV	The king then ordered Doeg, “You turn and strike down the priests.” So Doeg the Edomite turned and struck them down. That day he killed eighty-five men _who wore_ the linen ephod.
+ESV	Then the king said to Doeg, “You turn and strike the priests.” And Doeg the Edomite turned and struck down the priests, and he killed on that day eighty-five persons _who wore_ the linen ephod.
+
+(x)	וַיֹּאמֶר֩ דָּוִ֨ד אֶל־יֹואָ֜ב וְאֶל־כָּל־הָעָ֣ם וְהַמֶּ֣לֶךְ דָּוִ֔ד _הֹלֵ֖ךְ_ אַחֲרֵ֥י הַמִּטָּֽה׃ (II Sam. 3:31)
+NIV	Then David said to Joab and all the people with him, “Tear your clothes and put on sackcloth and walk in mourning in front of Abner.” King David himself _walked_ behind the bier.
+ESV	Then David said to Joab and to all the people who were with him, “Tear your clothes and put on sackcloth and mourn before Abner.” And King David _followed_ the bier.
+
+(x)	וַיְהִ֥י לֶֽחֶם־שְׁלֹמֹ֖ה לְיֹ֣ום אֶחָ֑ד שְׁלֹשִׁ֥ים כֹּר֙ סֹ֔לֶת וְשִׁשִּׁ֥ים כֹּ֖ר קָֽמַח׃ כִּי־ה֞וּא _רֹדֶ֣ה_׀ בְּכָל־עֵ֣בֶר הַנָּהָ֗ר מִתִּפְסַח֙ וְעַד־עַזָּ֔ה בְּכָל־מַלְכֵ֖י עֵ֣בֶר הַנָּהָ֑ר (I Kgs. 5:4)
+NIV	For he _ruled_ over all the kingdoms west of the River, from Tiphsah to Gaza, and had peace on all sides.
+ESV	For he _had dominion_ over all the region west of the Euphrates from Tiphsah to Gaza, over all the kings west of the Euphrates. And he had peace on all sides around him.
+
+(x)	וַיִּקַּ֣ח אָ֠סָא אֶת־כָּל־הַכֶּ֨סֶף וְהַזָּהָ֜ב הַֽ_נֹּותָרִ֣ים_׀ בְּאֹוצְרֹ֣ות בֵּית־יְהוָ֗ה (I Kgs. 15:18)
+NIV	Asa then took all the silver and gold that _was left_ in the treasuries of the LORD’s temple and of his own palace. He entrusted it to his officials and sent them to Ben-hadad son of Tabrimmon, the son of Hezion, the king of Aram, who was ruling in Damascus.
+ESV	Then Asa took all the silver and the gold _that were left_ in the treasures of the house of the Lord and the treasures of the king’s house and gave them into the hands of his servants. And King Asa sent them to Ben-hadad the son of Tabrimmon, the son of Hezion, king of Syria, who lived in Damascus, saying,
+
+(x)	וַיְהִ֤י אִתָּהּ֙ בֵּ֣ית יְהוָ֔ה מִתְחַבֵּ֖א שֵׁ֣שׁ שָׁנִ֑ים וַעֲתַלְיָ֖ה _מֹלֶ֥כֶת_ עַל־הָאָֽרֶץ׃ פ (II Kgs. 11:3)
+NIV	He remained hidden with his nurse at the temple of the LORD for six years while Athaliah _ruled_ the land.
+ESV	And he remained with her six years, hidden in the house of the Lord, while Athaliah _reigned_ over the land.
+
+(x)	וַיֵּ֣לֶךְ חִלְקִיָּ֣הוּ הַ֠כֹּהֵן וַאֲחִיקָ֨ם וְעַכְבֹּ֜ור וְשָׁפָ֣ן וַעֲשָׂיָ֗ה אֶל־חֻלְדָּ֨ה הַנְּבִיאָ֜ה אֵ֣שֶׁת׀ שַׁלֻּ֣ם בֶּן־תִּקְוָ֗ה בֶּן־חַרְחַס֙ וְהִ֛יא _יֹשֶׁ֥בֶת_ בִּירוּשָׁלִַ֖ם בַּמִּשְׁנֶ֑ה (II Kgs. 22:14)
+NIV	Hilkiah the priest, Ahikam, Acbor, Shaphan and Asaiah went to speak to the prophetess Huldah, who was the wife of Shallum son of Tikvah, the son of Harhas, keeper of the wardrobe. She _lived_ in Jerusalem, in the Second District.
+ESV	So Hilkiah the priest, and Ahikam, and Achbor, and Shaphan, and Asaiah went to Huldah the prophetess, the wife of Shallum the son of Tikvah, son of Harhas, keeper of the wardrobe ( now she _lived_ in Jerusalem in the Second Quarter ), and they talked with her.
+
+(x)	וַיִּפְרֹ֤שׂ אֹותָהּ֙ לְפָנַ֔י וְהִ֥יא _כְתוּבָ֖ה_ פָּנִ֣ים וְאָחֹ֑ור (Ezek. 2:10)
+NIV	which he unrolled before me. On both sides of it _were written_ words of lament and mourning and woe.
+ESV	And he spread it before me. And it _had writing_ on the front and on the back, and there were written on it words of lamentation and mourning and woe.
+
+(x)	וָֽאֹמַ֔ר אֶל־הַמַּלְאָ֛ךְ הַ_דֹּבֵ֥ר_ בִּ֖י (Zech. 4:4)
+NIV	I asked the angel _who talked_ with me, “What are these, my lord?”
+ESV	And I said to the angel _who talked_ with me, “What are these, my lord?”
+
+(x)	וַיְהִ֣י הַמֶּלְצַ֗ר _נֹשֵׂא֙_ אֶת־פַּתְבָּגָ֔ם וְיֵ֖ין מִשְׁתֵּיהֶ֑ם (Dan. 1:16)
+NIV	So the guard _took away_ their choice food and the wine they were to drink and gave them vegetables instead.
+ESV	So the steward _took away_ their food and the wine they were to drink, and gave them vegetables.
+
+(x)	וַיֹּ֣אמֶר נְחֶמְיָ֣ה וְהַלְוִיִּ֞ם _מַחְשִׁ֤ים_ לְכָל־הָעָם֙ (Neh. 8:11)
+NIV	The Levites _calmed_ all the people, saying, “Be still, for this is a sacred day. Do not grieve.”
+ESV	So the Levites _calmed_ all the people, saying, “Be quiet, for this day is holy. do not be grieved.”
+
+(x)	וַיְהִ֥י וְכָל־יִשְׂרָאֵ֗ל _מַעֲלִים֙_ אֶת־אֲרֹ֣ון בְּרִית־יְהוָ֔ה בִּתְרוּעָה֙ וּבְקֹ֣ול שֹׁופָ֔ר וּבַחֲצֹצְרֹ֖ות וּבִמְצִלְתָּ֑יִם (I Chr. 15:28)
+NIV	So all Israel _brought up_ the ark of the covenant of the LORD with shouts, with the sounding of rams’ horns and trumpets, and of cymbals, and the playing of lyres and harps.
+ESV	So all Israel _brought up_ the ark of the covenant of the Lord with shouting, to the sound of the horn, trumpets, and cymbals, and made loud music on harps and lyres.
+
+(x)	וַיִּתֵּ֨ן הַמֶּ֧לֶךְ אֶת־הַכֶּ֛סֶף בִּירוּשָׁלִַ֖ם כָּאֲבָנִ֑ים וּ_מֹוצִיאִ֨ים_ סוּסִ֧ים מִמִּצְרַ֛יִם לִשְׁלֹמֹ֖ה (II Chr. 9:28)
+NIV	Solomon’s horses _were imported_ from Egypt and from all other countries.
+ESV	And horses _were imported_ for Solomon from Egypt and from all lands.
+
+(x)	וַתִּגְנֹ֤ב אֹתֹו֙ מִתֹּ֤וךְ בְּנֵֽי־הַמֶּ֨לֶךְ֙ הַ_מּ֣וּמָתִ֔ים_ (II Chr. 22:11)
+NIV	But Jehosheba, the daughter of King Jehoram, took Joash son of Ahaziah and stole him away from among the royal princes _who were about to be murdered_ and put him and his nurse in a bedroom. Because Jehosheba, the daughter of King Jehoram and wife of the priest Jehoiada, was Ahaziah’s sister, she hid the child from Athaliah so that she could not kill him.
+ESV	But Jehoshabeath, the daughter of the king, took Joash the son of Ahaziah and stole him away from among the king’s sons _who were about to be put to death_, and she put him and his nurse in a bedroom. Thus Jehoshabeath, the daughter of King Jehoram and wife of Jehoiada the priest, because she was a sister of Ahaziah, hid him from Athaliah, so that she did not put him to death.
+
+(x)	וַיִּֽהְיוּ֙ מַשְׂחִיקִ֣ים עֲלֵיהֶ֔ם וּ_מַלְעִגִ֖ים_ בָּֽם׃ (II Chr. 30:10)
+NIV	The couriers went from town to town in Ephraim and Manasseh, as far as Zebulun, but the people scorned and _ridiculed_ them.
+ESV	So the couriers went from city to city through the country of Ephraim and Manasseh, and as far as Zebulun, but they laughed them to scorn and _mocked_ them.
+
+(x)	וַֽיִּתְּנוּ֮ אֶת־הַכֶּסֶף֮ וְהָאֲנָשִׁים֩ _עֹשִׂ֨ים_ בֶּאֱמוּנָ֜ה בַּמְּלָאכָ֗ה (II Chr. 34:12)
+NIV	The men _did_ the work faithfully. Over them to direct them were Jahath and Obadiah, Levites descended from Merari, and Zechariah and Meshullam, descended from Kohath. The Levites — all who were skilled in playing musical instruments —
+ESV	And the men _did_ the work faithfully. Over them were set Jahath and Obadiah the Levites, of the sons of Merari, and Zechariah and Meshullam, of the sons of the Kohathites, to have oversight. The Levites, all who were skillful with instruments of music,
+
+(x)	וַיִּקָּבֵ֖ר בְּקִבְרֹ֣ות אֲבֹתָ֑יו וְכָל־יְהוּדָה֙ וִיר֣וּשָׁלִַ֔ם _מִֽתְאַבְּלִ֖ים_ עַל־יֹאשִׁיָּֽהוּ׃ פ (II Chr. 35:24)
+NIV	So they took him out of his chariot, put him in the other chariot he had and brought him to Jerusalem, where he died. He was buried in the tombs of his fathers, and all Judah and Jerusalem _mourned_ for him.
+ESV	So his servants took him out of the chariot and carried him in his second chariot and brought him to Jerusalem. And he died and was buried in the tombs of his fathers. All Judah and Jerusalem _mourned_ for Josiah.

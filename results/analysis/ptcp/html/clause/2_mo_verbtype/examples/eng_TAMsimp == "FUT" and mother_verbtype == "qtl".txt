@@ -1,0 +1,102 @@
+eng_TAMsimp == "FUT" and mother_verbtype == "qtl"
+25 of 41
+
+(x)	הָעֵ֣ד הֵעִד֩ בָּ֨נוּ הָאִ֤ישׁ אִם־יֶשְׁךָ֛ _מְשַׁלֵּ֥חַ_ אֶת־אָחִ֖ינוּ אִתָּ֑נוּ (Gen. 43:4)
+NIV	If you _will send_ our brother along with us, we will go down and buy food for you.
+ESV	If you _will send_ our brother with us, we will go down and buy you food.
+
+(x)	כֹּ֖ה אָמַ֣ר יְהוָ֑ה כַּחֲצֹ֣ת הַלַּ֔יְלָה אֲנִ֥י _יֹוצֵ֖א_ בְּתֹ֥וךְ מִצְרָֽיִם׃ (Exod. 11:4)
+NIV	So Moses said, “This is what the LORD says: ‘About midnight I _will go_ throughout Egypt.
+ESV	So Moses said, “Thus says the Lord: About midnight I _will go out_ in the midst of Egypt,
+
+(x)	הְֽרָאִ֔יתָ אֵ֛ת כָּל־הֶהָמֹ֥ון הַגָּדֹ֖ול הַזֶּ֑ה הִנְנִ֨י _נֹתְנֹ֤ו_ בְיָֽדְךָ֙ הַיֹּ֔ום (I Kgs. 20:13)
+NIV	Meanwhile a prophet came to Ahab king of Israel and announced, “This is what the LORD says: ‘Do you see this vast army? I _will give_ it into your hand today, and then you will know that I am the LORD.’”
+ESV	And behold, a prophet came near to Ahab king of Israel and said, “Thus says the Lord, Have you seen all this great multitude? Behold, I _will give_ it into your hand this day, and you shall know that I am the Lord.”
+
+(x)	רָאִ֖יתִי אֶת־דִּמְעָתֶ֑ךָ הִנְנִי֙ _רֹ֣פֶא_ לָ֔ךְ (II Kgs. 20:5)
+NIV	“Go back and tell Hezekiah, the leader of my people, ‘This is what the LORD, the God of your father David, says: I have heard your prayer and seen your tears. I _will heal_ you. On the third day from now you will go up to the temple of the LORD.
+ESV	“Turn back, and say to Hezekiah the leader of my people, Thus says the Lord, the God of David your father: I have heard your prayer. I have seen your tears. Behold, I _will heal_ you. On the third day you shall go up to the house of the Lord,
+
+(x)	כִּֽי־כֹ֣ה׀ אָמַ֣ר יְהוָ֗ה הִנְנִ֣י _נֹטֶֽה_־אֵ֠לֶיהָ כְּנָהָ֨ר שָׁלֹ֜ום (Isa. 66:12)
+NIV	For this is what the LORD says: “I _will extend_ peace to her like a river, and the wealth of nations like a flooding stream. you will nurse and be carried on her arm and dandled on her knees.
+ESV	For thus says the Lord: “Behold, I _will extend_ peace to her like a river, and the glory of the nations like an overflowing stream. and you shall nurse, you shall be carried upon her hip, and bounced upon her knees.
+
+(x)	כֹּ֚ה אָמַ֣ר יְהוָ֔ה הִנְנִ֥י _נֹתֵ֛ן_ אֶל־הָעָ֥ם הַזֶּ֖ה מִכְשֹׁלִ֑ים (Jer. 6:21)
+NIV	Therefore this is what the LORD says: “I _will put_ obstacles before this people. Fathers and sons alike will stumble over them. neighbours and friends will perish.”
+ESV	Therefore thus says the Lord: ‘Behold, I _will lay_ before this people stumbling blocks against which they shall stumble. fathers and sons together, neighbor and friend shall perish.’”
+
+(x)	כֹּה־אָמַ֣ר׀ אֲדֹנָ֣י יְהֹוִ֗ה הִנֵּ֨ה אַפִּ֤י וַֽחֲמָתִי֙ _נִתֶּ֨כֶת֙_ אֶל־הַמָּקֹ֣ום הַזֶּ֔ה עַל־הָֽאָדָם֙ וְעַל־הַבְּהֵמָ֔ה וְעַל־עֵ֥ץ הַשָּׂדֶ֖ה וְעַל־פְּרִ֣י הָֽאֲדָמָ֑ה (Jer. 7:20)
+NIV	“‘Therefore this is what the Sovereign LORD says: My anger and my wrath _will be poured out_ on this place, on man and beast, on the trees of the field and on the fruit of the ground, and it will burn and not be quenched.
+ESV	Therefore thus says the Lord God: behold, my anger and my wrath _will be poured out_ on this place, upon man and beast, upon the trees of the field and the fruit of the ground. it will burn and not be quenched.”
+
+(x)	כֹּֽה־אָמַ֞ר יְהוָ֤ה צְבָאֹות֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל הִנְנִ֧י _מַאֲכִילָ֛ם_ אֶת־הָעָ֥ם הַזֶּ֖ה לַֽעֲנָ֑ה (Jer. 9:14)
+NIV	Therefore, this is what the LORD Almighty, the God of Israel, says: “See, I will make this people eat bitter food and drink poisoned water.
+ESV	Therefore thus says the Lord of hosts, the God of Israel: Behold, I _will feed_ this people with bitter food, and give them poisonous water to drink.
+
+(x)	כִּי֩ כֹ֨ה אָמַ֜ר יְהוָ֤ה צְבָאֹות֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל הִנְנִ֨י _מַשְׁבִּ֜ית_ מִן־הַמָּקֹ֥ום הַזֶּ֛ה לְעֵינֵיכֶ֖ם וּבִֽימֵיכֶ֑ם קֹ֤ול שָׂשֹׂון֙ וְקֹ֣ול שִׂמְחָ֔ה קֹ֥ול חָתָ֖ן וְקֹ֥ול כַּלָּֽה׃ (Jer. 16:9)
+NIV	For this is what the LORD Almighty, the God of Israel, says: Before your eyes and in your days I _will bring an end_ to the sounds of joy and gladness and to the voices of bride and bridegroom in this place.
+ESV	For thus says the Lord of hosts, the God of Israel: Behold, I _will silence_ in this place, before your eyes and in your days, the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride.
+
+(x)	כִּ֣י כֹ֣ה אָמַ֣ר יְהוָ֡ה הִנְנִי֩ _נֹתֶנְךָ֙_ לְמָגֹ֜ור לְךָ֣ וּלְכָל־אֹהֲבֶ֗יךָ (Jer. 20:4)
+NIV	For this is what the LORD says: ‘I _will make_ you a terror to yourself and to all your friends. with your own eyes you will see them fall by the sword of their enemies. I will hand all Judah over to the king of Babylon, who will carry them away to Babylon or put them to the sword.
+ESV	For thus says the Lord: Behold, I _will make_ you a terror to yourself and to all your friends. They shall fall by the sword of their enemies while you look on. And I will give all Judah into the hand of the king of Babylon. He shall carry them captive to Babylon, and shall strike them down with the sword.
+
+(x)	כֹּֽה־אָמַ֨ר יְהוָ֤ה צְבָאֹות֙ עַל־הַנְּבִאִ֔ים הִנְנִ֨י _מַאֲכִ֤יל_ אֹותָם֙ לַֽעֲנָ֔ה (Jer. 23:15)
+NIV	Therefore, this is what the LORD Almighty says concerning the prophets: “I will make them eat bitter food and drink poisoned water, because from the prophets of Jerusalem ungodliness has spread throughout the land.”
+ESV	Therefore thus says the Lord of hosts concerning the prophets: “Behold, I _will feed_ them with bitter food and give them poisoned water to drink, for from the prophets of Jerusalem ungodliness has gone out into all the land.”
+
+(x)	שָׁבַ֞רְתִּי אֶת־עֹ֖ל מֶ֥לֶךְ בָּבֶֽל׃ בְּעֹ֣וד׀ שְׁנָתַ֣יִם יָמִ֗ים אֲנִ֤י _מֵשִׁיב֙_ אֶל־הַמָּקֹ֣ום הַזֶּ֔ה אֶֽת־כָּל־כְּלֵ֖י בֵּ֣ית יְהוָ֑ה (Jer. 28:3)
+NIV	Within two years I _will bring back_ to this place all the articles of the LORD’s house that Nebuchadnezzar king of Babylon removed from here and took to Babylon.
+ESV	Within two years I _will bring back_ to this place all the vessels of the Lord’s house, which Nebuchadnezzar king of Babylon took away from this place and carried to Babylon.
+
+(x)	כֹּֽה־אָמַר֩ יְהוָ֨ה צְבָאֹ֜ות אֱלֹהֵ֣י יִשְׂרָאֵ֗ל אֶל־אַחְאָ֤ב בֶּן־קֹֽולָיָה֙ וְאֶל־צִדְקִיָּ֣הוּ בֶן־מַֽעֲשֵׂיָ֔ה הִנְנִ֣י׀ _נֹתֵ֣ן_ אֹתָ֗ם בְּיַד֙ נְבֽוּכַדְרֶאצַּ֣ר מֶֽלֶךְ־בָּבֶ֔ל (Jer. 29:21)
+NIV	This is what the LORD Almighty, the God of Israel, says about Ahab son of Kolaiah and Zedekiah son of Maaseiah, who are prophesying lies to you in my name: “I will hand them over to Nebuchadnezzar king of Babylon, and he will put them to death before your very eyes.
+ESV	‘Thus says the Lord of hosts, the God of Israel, concerning Ahab the son of Kolaiah and Zedekiah the son of Maaseiah, who are prophesying a lie to you in my name: Behold, I _will deliver_ them into the hand of Nebuchadnezzar king of Babylon, and he shall strike them down before your eyes.
+
+(x)	כֹּ֣ה׀ אָמַ֣ר יְהוָ֗ה הִנְנִי־_שָׁב֙_ שְׁבוּת֙ אָהֳלֵ֣י יַֽעֲקֹ֔וב (Jer. 30:18)
+NIV	“This is what the LORD says: “‘I _will restore_ the fortunes of Jacob’s tents and have compassion on his dwellings. the city will be rebuilt on her ruins, and the palace will stand in its proper place.
+ESV	“Thus says the Lord: Behold, I _will restore_ the fortunes of the tents of Jacob and have compassion on his dwellings. the city shall be rebuilt on its mound, and the palace shall stand where it used to be.
+
+(x)	כַּאֲשֶׁ֤ר הֵבֵ֨אתִי֙ אֶל־הָעָ֣ם הַזֶּ֔ה אֵ֛ת כָּל־הָרָעָ֥ה הַגְּדֹולָ֖ה הַזֹּ֑את כֵּ֣ן אָנֹכִ֞י _מֵבִ֤יא_ עֲלֵיהֶם֙ אֶת־כָּל־הַטֹּובָ֔ה (Jer. 32:42)
+NIV	“This is what the LORD says: As I have brought all this great calamity on this people, so I _will give_ them all the prosperity I have promised them.
+ESV	“For thus says the Lord: Just as I have brought all this great disaster upon this people, so I _will bring_ upon them all the good that I promise them.
+
+(x)	כִּי֩ כֹ֨ה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל עַל־בָּתֵּי֙ הָעִ֣יר הַזֹּ֔את וְעַל־בָּתֵּ֖י מַלְכֵ֣י יְהוּדָ֑ה הִנְנִ֧י _מַעֲלֶה_־לָּ֛הּ אֲרֻכָ֥ה וּמַרְפֵּ֖א (Jer. 33:6)
+NIV	“‘Nevertheless, I _will bring_ health and healing to it. I will heal my people and will let them enjoy abundant peace and security.
+ESV	Behold, I _will bring_ to it health and healing, and I will heal them and reveal to them abundance of prosperity and security.
+
+(x)	כֹּֽה־אָמַר֩ יְהוָ֨ה צְבָאֹ֜ות אֱלֹהֵ֣י יִשְׂרָאֵ֗ל הִנְנִ֤י _שֹׁלֵ֨חַ֙_ (Jer. 43:10)
+NIV	Then say to them, ‘This is what the LORD Almighty, the God of Israel, says: I _will send for_ my servant Nebuchadnezzar king of Babylon, and I will set his throne over these stones I have buried here. he will spread his royal canopy above them.
+ESV	and say to them, ‘Thus says the Lord of hosts, the God of Israel: Behold, I _will send_ and take Nebuchadnezzar the king of Babylon, my servant, and I will set his throne above these stones that I have hidden, and he will spread his royal canopy over them.
+
+(x)	כֹּ֚ה אָמַ֣ר יְהוָ֔ה הִנְנִי֙ _מֵעִ֣יר_ עַל־בָּבֶ֔ל וְאֶל־יֹשְׁבֵ֖י לֵ֣ב קָמָ֑י ר֖וּחַ מַשְׁחִֽית׃ (Jer. 51:1)
+NIV	This is what the LORD says: “See, I _will stir up_ the spirit of a destroyer against Babylon and the people of Leb Kamai.
+ESV	Thus says the Lord: “Behold, I _will stir up_ the spirit of a destroyer against Babylon, against the inhabitants of Leb-kamai,
+
+(x)	כֹּ֚ה אָמַ֣ר יְהוָ֔ה הִנְנִי־_רָב֙_ אֶת־רִיבֵ֔ךְ (Jer. 51:36)
+NIV	Therefore, this is what the LORD says: “See, I _will defend_ your cause and avenge you. I will dry up her sea and make her springs dry.
+ESV	Therefore thus says the Lord: “Behold, I _will plead_ your cause and take vengeance for you. I will dry up her sea and make her fountain dry,
+
+(x)	כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה הַבְּדֶ֥רֶךְ אֲבֹֽותֵיכֶ֖ם אַתֶּ֣ם _נִטְמְאִ֑ים_ (Ezek. 20:30)
+NIV	“Therefore say to the house of Israel: ‘This is what the Sovereign LORD says: Will you defile yourselves the way your fathers did and lust after their vile images?
+ESV	“Therefore say to the house of Israel, Thus says the Lord God: Will you defile yourselves after the manner of your fathers and go whoring after their detestable things?
+
+(x)	כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה הִנְנִ֛י _מֵבִ֥יא_ עָלַ֖יִךְ חָ֑רֶב (Ezek. 29:8)
+NIV	“‘Therefore this is what the Sovereign LORD says: I _will bring_ a sword against you and kill your men and their animals.
+ESV	Therefore thus says the Lord God: Behold, I _will bring_ a sword upon you, and will cut off from you man and beast,
+
+(x)	כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה לָעֲצָמֹ֖ות הָאֵ֑לֶּה הִנֵּ֨ה אֲנִ֜י _מֵבִ֥יא_ בָכֶ֛ם ר֖וּחַ (Ezek. 37:5)
+NIV	This is what the Sovereign LORD says to these bones: I will make breath enter you, and you will come to life.
+ESV	Thus says the Lord God to these bones: Behold, I will cause breath to enter you, and you shall live.
+
+(x)	וְאָנֹכִ֛י הֶעֱלֵ֥יתִי אֶתְכֶ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם הִנֵּ֛ה אָנֹכִ֥י _מֵעִ֖יק_ תַּחְתֵּיכֶ֑ם (Amos 2:13)
+NIV	“Now then, I _will crush_ you as a cart crushes when loaded with grain.
+ESV	“Behold, I will press you down in your place, as a cart full of sheaves presses down.
+
+(x)	כִּ֣י כֹ֣ה אָמַר֮ יְהוָ֣ה צְבָאֹות֒ כִּ֠י הִנְנִ֨י _מֵנִ֤יף_ אֶת־יָדִי֙ עֲלֵיהֶ֔ם (Zech. 2:13)
+NIV	I will surely raise my hand against them so that their slaves will plunder them. Then you will know that the LORD Almighty has sent me.
+ESV	“Behold, I _will shake_ my hand over them, and they shall become plunder for those who served them. Then you will know that the Lord of hosts has sent me.
+
+(x)	כֹּ֤ה אָמַר֙ יְהוָ֣ה צְבָאֹ֔ות הִנְנִ֥י _מֹושִׁ֛יעַ_ אֶת־עַמִּ֖י מֵאֶ֣רֶץ מִזְרָ֑ח וּמֵאֶ֖רֶץ מְבֹ֥וא הַשָּֽׁמֶשׁ׃ (Zech. 8:7)
+NIV	This is what the LORD Almighty says: “I _will save_ my people from the countries of the east and the west.
+ESV	Thus says the Lord of hosts: behold, I _will save_ my people from the east country and from the west country,

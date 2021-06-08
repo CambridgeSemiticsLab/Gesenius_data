@@ -1,0 +1,102 @@
+eng_TAMsimp == "PAST" and cl_args == "_W_SV"
+25 of 127
+
+(x)	וַיִּקַּ֨ח חֶמְאָ֜ה וְחָלָ֗ב וּבֶן־הַבָּקָר֙ אֲשֶׁ֣ר עָשָׂ֔ה וַיִּתֵּ֖ן לִפְנֵיהֶ֑ם וְהֽוּא־_עֹמֵ֧ד_ עֲלֵיהֶ֛ם תַּ֥חַת הָעֵ֖ץ וַיֹּאכֵֽלוּ׃ (Gen. 18:8)
+NIV	He then brought some curds and milk and the calf that had been prepared, and set these before them. While they ate, he _stood_ near them under a tree.
+ESV	Then he took curds and milk and the calf that he had prepared, and set it before them. And he _stood_ by them under the tree while they ate.
+
+(x)	וַיְהִ֕י מִקֵּ֖ץ שְׁנָתַ֣יִם יָמִ֑ים וּפַרְעֹ֣ה _חֹלֵ֔ם_ וְהִנֵּ֖ה עֹמֵ֥ד עַל־הַיְאֹֽר׃ (Gen. 41:1)
+NIV	When two full years had passed, Pharaoh _had a dream_: He was standing by the Nile,
+ESV	After two whole years, Pharaoh _dreamed_ that he was standing by the Nile,
+
+(x)	וַתִּקְרְב֥וּן וַתַּֽעַמְד֖וּן תַּ֣חַת הָהָ֑ר וְהָהָ֞ר _בֹּעֵ֤ר_ בָּאֵשׁ֙ עַד־לֵ֣ב הַשָּׁמַ֔יִם חֹ֖שֶׁךְ עָנָ֥ן וַעֲרָפֶֽל׃ (Deut. 4:11)
+NIV	You came near and stood at the foot of the mountain while it blazed with fire to the very heavens, with black clouds and deep darkness.
+ESV	And you came near and stood at the foot of the mountain, while the mountain _burned_ with fire to the heart of heaven, wrapped in darkness, cloud, and gloom.
+
+(x)	וְשֵׁשׁ־מֵאֹ֣ות אִ֗ישׁ חֲגוּרִים֙ כְּלֵ֣י מִלְחַמְתָּ֔ם _נִצָּבִ֖ים_ פֶּ֣תַח הַשָּׁ֑עַר אֲשֶׁ֖ר מִבְּנֵי־דָֽן׃ (Judg. 18:16)
+NIV	The six hundred Danites, armed for battle, _stood_ at the entrance to the gate.
+ESV	Now the 600 men of the Danites, armed with their weapons of war, _stood_ by the entrance of the gate.
+
+(x)	וְהָיָה֙ כִּ֣י הִרְבְּתָ֔ה לְהִתְפַּלֵּ֖ל לִפְנֵ֣י יְהוָ֑ה וְעֵלִ֖י _שֹׁמֵ֥ר_ אֶת־פִּֽיהָ׃ (I Sam. 1:12)
+NIV	As she kept on praying to the LORD, Eli _observed_ her mouth.
+ESV	As she continued praying before the Lord, Eli _observed_ her mouth.
+
+(x)	וְעֵ֣ץ חֲנִיתֹ֗ו כִּמְנֹור֙ אֹֽרְגִ֔ים וְלַהֶ֣בֶת חֲנִיתֹ֔ו שֵׁשׁ־מֵאֹ֥ות שְׁקָלִ֖ים בַּרְזֶ֑ל וְנֹשֵׂ֥א הַצִּנָּ֖ה _הֹלֵ֥ךְ_ לְפָנָֽיו׃ (I Sam. 17:7)
+NIV	His spear shaft was like a weaver’s rod, and its iron point weighed six hundred shekels. His shield-bearer _went_ ahead of him.
+ESV	The shaft of his spear was like a weaver’s beam, and his spear’s head weighed six hundred shekels of iron. And his shield-bearer _went_ before him.
+
+(x)	וַיִּקְבְּצ֧וּ פְלִשְׁתִּ֛ים אֶת־כָּל־מַחֲנֵיהֶ֖ם אֲפֵ֑קָה וְיִשְׂרָאֵ֣ל _חֹנִ֔ים_ בַּעַ֖יִן אֲשֶׁ֥ר בְּיִזְרְעֶֽאל׃ (I Sam. 29:1)
+NIV	The Philistines gathered all their forces at Aphek, and Israel _camped_ by the spring in Jezreel.
+ESV	Now the Philistines had gathered all their forces at Aphek. And the Israelites _were encamped_ by the spring that is in Jezreel.
+
+(x)	וְדָוִד֙ וְכָל־בֵּ֣ית יִשְׂרָאֵ֔ל _מַעֲלִ֖ים_ אֶת־אֲרֹ֣ון יְהוָ֑ה בִּתְרוּעָ֖ה וּבְקֹ֥ול שֹׁופָֽר׃ (II Sam. 6:15)
+NIV	while he and the entire house of Israel _brought up_ the ark of the LORD with shouts and the sound of trumpets.
+ESV	So David and all the house of Israel _brought up_ the ark of the Lord with shouting and with the sound of the horn.
+
+(x)	וְכָל־הָאָ֗רֶץ _בֹּוכִים֙_ קֹ֣ול גָּדֹ֔ול וְכָל־הָעָ֖ם עֹֽבְרִ֑ים וְהַמֶּ֗לֶךְ עֹבֵר֙ בְּנַ֣חַל קִדְרֹ֔ון וְכָל־הָעָם֙ עֹבְרִ֔ים עַל־פְּנֵי־דֶ֖רֶךְ אֶת־הַמִּדְבָּֽר׃ (II Sam. 15:23)
+NIV	The whole countryside _wept_ aloud as all the people passed by. The king also crossed the Kidron Valley, and all the people moved on towards the desert.
+ESV	And all the land _wept_ aloud as all the people passed by, and the king crossed the brook Kidron, and all the people passed on toward the wilderness.
+
+(x)	וַיֵּרְד֨וּ שְׁלֹשָׁ֜ה מֵהַשְּׁלֹשִׁ֣ים רֹ֗אשׁ וַיָּבֹ֤אוּ אֶל־קָצִיר֙ אֶל־דָּוִ֔ד אֶל־מְעָרַ֖ת עֲדֻלָּ֑ם וְחַיַּ֣ת פְּלִשְׁתִּ֔ים _חֹנָ֖ה_ בְּעֵ֥מֶק רְפָאִֽים׃ (II Sam. 23:13)
+NIV	During harvest time, three of the thirty chief men came down to David at the cave of Adullam, while a band of Philistines _was encamped_ in the Valley of Rephaim.
+ESV	And three of the thirty chief men went down and came about harvest time to David at the cave of Adullam, when a band of Philistines _was encamped_ in the Valley of Rephaim.
+
+(x)	וְֽהַמֶּ֔לֶךְ וְכָל־יִשְׂרָאֵ֖ל עִמֹּ֑ו _זֹבְחִ֥ים_ זֶ֖בַח לִפְנֵ֥י יְהוָֽה׃ (I Kgs. 8:62)
+NIV	Then the king and all Israel with him _offered_ sacrifices before the LORD.
+ESV	Then the king, and all Israel with him, _offered_ sacrifice before the Lord.
+
+(x)	בִּשְׁנַת֩ עֶשְׂרִ֨ים וָשֶׁ֜בַע שָׁנָ֗ה לְאָסָא֙ מֶ֣לֶךְ יְהוּדָ֔ה מָלַ֥ךְ זִמְרִ֛י שִׁבְעַ֥ת יָמִ֖ים בְּתִרְצָ֑ה וְהָעָ֣ם _חֹנִ֔ים_ עַֽל־גִּבְּתֹ֖ון אֲשֶׁ֥ר לַפְּלִשְׁתִּֽים׃ (I Kgs. 16:15)
+NIV	In the twenty-seventh year of Asa king of Judah, Zimri reigned in Tirzah for seven days. The army _was encamped_ near Gibbethon, a Philistine town.
+ESV	In the twenty-seventh year of Asa king of Judah, Zimri reigned seven days in Tirzah. Now the troops _were encamped_ against Gibbethon, which belonged to the Philistines,
+
+(x)	וַיְהִ֤י אִתָּהּ֙ בֵּ֣ית יְהוָ֔ה מִתְחַבֵּ֖א שֵׁ֣שׁ שָׁנִ֑ים וַעֲתַלְיָ֖ה _מֹלֶ֥כֶת_ עַל־הָאָֽרֶץ׃ פ (II Kgs. 11:3)
+NIV	He remained hidden with his nurse at the temple of the LORD for six years while Athaliah _ruled_ the land.
+ESV	And he remained with her six years, hidden in the house of the Lord, while Athaliah _reigned_ over the land.
+
+(x)	וּפְנֵיהֶ֕ם וְכַנְפֵיהֶ֥ם _פְּרֻדֹ֖ות_ מִלְמָ֑עְלָה לְאִ֗ישׁ שְׁ֚תַּיִם חֹבְרֹ֣ות אִ֔ישׁ וּשְׁתַּ֣יִם מְכַסֹּ֔ות אֵ֖ת גְּוִיֹתֵיהֶֽנָה׃ (Ezek. 1:11)
+NIV	Such were their faces. Their wings _were spread out_ upwards. each had two wings, one touching the wing of another creature on either side, and two wings covering its body.
+ESV	Such were their faces. And their wings _were spread out_ above. Each creature had two wings, each of which touched the wing of another, while two covered their bodies.
+
+(x)	וְהִנֵּ֗ה הַמַּלְאָ֛ךְ הַדֹּבֵ֥ר בִּ֖י יֹצֵ֑א וּמַלְאָ֣ךְ אַחֵ֔ר _יֹצֵ֖א_ לִקְרָאתֹֽו׃ (Zech. 2:7)
+NIV	Then the angel who was speaking to me left, and another angel _came_ to meet him
+ESV	And behold, the angel who talked with me _came forward_, and another angel _came forward_ to meet him
+
+(x)	עַ֚ד זֶ֣ה מְדַבֵּ֔ר וְזֶ֖ה _בָּ֣א_ וַיֹּאמַ֑ר בָּנֶ֨יךָ וּבְנֹותֶ֤יךָ אֹֽכְלִים֙ וְשֹׁתִ֣ים יַ֔יִן בְּבֵ֖ית אֲחִיהֶ֥ם הַבְּכֹֽור׃ (Job 1:18)
+NIV	While he was still speaking, yet another messenger _came_ and said, “Your sons and daughters were feasting and drinking wine at the oldest brother’s house,
+ESV	While he was yet speaking, there _came_ another and said, “Your sons and daughters were eating and drinking wine in their oldest brother’s house,
+
+(x)	וָאֶשָּׂ֤א עֵינַי֙ וָאֶרְאֶ֔ה וְהִנֵּ֣ה׀ אַ֣יִל אֶחָ֗ד עֹמֵ֛ד לִפְנֵ֥י הָאֻבָ֖ל וְלֹ֣ו קְרָנָ֑יִם וְהַקְּרָנַ֣יִם גְּבֹהֹ֗ות וְהָאַחַת֙ גְּבֹהָ֣ה מִן־הַשֵּׁנִ֔ית וְהַ֨גְּבֹהָ֔ה _עֹלָ֖ה_ בָּאַחֲרֹנָֽה׃ (Dan. 8:3)
+NIV	I looked up, and there before me was a ram with two horns, standing beside the canal, and the horns were long. One of the horns was longer than the other but _grew up_ later.
+ESV	I raised my eyes and saw, and behold, a ram standing on the bank of the canal. It had two horns, and both horns were high, but one was higher than the other, and the higher one _came up_ last.
+
+(x)	וַיֹּ֣אמֶר׀ לִפְנֵ֣י אֶחָ֗יו וְחֵיל֙ שֹֽׁמְרֹ֔ון וַיֹּ֕אמֶר מָ֛ה הַיְּהוּדִ֥ים הָאֲמֵלָלִ֖ים עֹשִׂ֑ים הֲיַעַזְב֨וּ לָהֶ֤ם הֲיִזְבָּ֨חוּ֙ הַיְכַלּ֣וּ בַיֹּ֔ום הַיְחַיּ֧וּ אֶת־הָאֲבָנִ֛ים מֵעֲרֵמֹ֥ות הֶעָפָ֖ר וְהֵ֥מָּה _שְׂרוּפֹֽות_׃ (Neh. 3:34)
+NIV	and in the presence of his associates and the army of Samaria, he said, “What are those feeble Jews doing? Will they restore their wall? Will they offer sacrifices? Will they finish in a day? Can they bring the stones back to life from those heaps of rubble — burned as they are?”
+ESV	And he said in the presence of his brothers and of the army of Samaria, “What are these feeble Jews doing? Will they restore it for themselves? Will they sacrifice? Will they finish up in a day? Will they revive the stones out of the heaps of rubbish, and _burned ones_ at that?”
+
+(x)	וַאֲנִי־בָ֗אתִי בֵּ֣ית שְֽׁמַֽעְיָ֧ה בֶן־דְּלָיָ֛ה בֶּן־מְהֵֽיטַבְאֵ֖ל וְה֣וּא _עָצ֑וּר_ וַיֹּ֡אמֶר נִוָּעֵד֩ אֶל־בֵּ֨ית הָאֱלֹהִ֜ים אֶל־תֹּ֣וךְ הַֽהֵיכָ֗ל וְנִסְגְּרָה֙ דַּלְתֹ֣ות הַהֵיכָ֔ל כִּ֚י בָּאִ֣ים לְהָרְגֶ֔ךָ וְלַ֖יְלָה בָּאִ֥ים לְהָרְגֶֽךָ׃ (Neh. 6:10)
+NIV	One day I went to the house of Shemaiah son of Delaiah, the son of Mehetabel, who _was shut in_ at his home. He said, “Let us meet in the house of God, inside the temple, and let us close the temple doors, because men are coming to kill you — by night they are coming to kill you.”
+ESV	Now when I went into the house of Shemaiah the son of Delaiah, son of Mehetabel, who _was confined_ to his home, he said, “Let us meet together in the house of God, within the temple. Let us close the doors of the temple, for they are coming to kill you. They are coming to kill you by night.”
+
+(x)	וְֽאַהֲרֹ֨ן וּבָנָ֜יו _מַקְטִירִ֨ים_ עַל־מִזְבַּ֤ח הָֽעֹולָה֙ וְעַל־מִזְבַּ֣ח הַקְּטֹ֔רֶת לְכֹ֕ל מְלֶ֖אכֶת קֹ֣דֶשׁ הַקֳּדָשִׁ֑ים וּלְכַפֵּר֙ עַל־יִשְׂרָאֵ֔ל כְּכֹל֙ אֲשֶׁ֣ר צִוָּ֔ה מֹשֶׁ֖ה עֶ֥בֶד הָאֱלֹהִֽים׃ פ (I Chr. 6:34)
+NIV	But Aaron and his descendants were _the ones who presented offerings_ on the altar of burnt offering and on the altar of incense in connection with all that was done in the Most Holy Place, making atonement for Israel, in accordance with all that Moses the servant of God had commanded.
+ESV	But Aaron and his sons _made offerings_ on the altar of burnt offering and on the altar of incense for all the work of the Most Holy Place, and to make atonement for Israel, according to all that Moses the servant of God had commanded.
+
+(x)	וַיְהִ֡י לְעֵת֩ תְּשׁוּבַ֨ת הַשָּׁנָ֜ה לְעֵ֣ת׀ צֵ֣את הַמְּלָכִ֗ים וַיִּנְהַ֣ג יֹואָב֩ אֶת־חֵ֨יל הַצָּבָ֜א וַיַּשְׁחֵ֣ת׀ אֶת־אֶ֣רֶץ בְּנֵֽי־עַמֹּ֗ון וַיָּבֹא֙ וַיָּ֣צַר אֶת־רַבָּ֔ה וְדָוִ֖יד _יֹשֵׁ֣ב_ בִּירֽוּשָׁלִָ֑ם וַיַּ֥ךְ יֹואָ֛ב אֶת־רַבָּ֖ה וַיֶּֽהֶרְסֶֽהָ׃ (I Chr. 20:1)
+NIV	In the spring, at the time when kings go off to war, Joab led out the armed forces. He laid waste the land of the Ammonites and went to Rabbah and besieged it, but David _remained_ in Jerusalem. Joab attacked Rabbah and left it in ruins.
+ESV	In the spring of the year, the time when kings go out to battle, Joab led out the army and ravaged the country of the Ammonites and came and besieged Rabbah. But David _remained_ at Jerusalem. And Joab struck down Rabbah and overthrew it.
+
+(x)	לְבַ֞ד מֵאַנְשֵׁ֧י הַתָּרִ֛ים וְהַסֹּחֲרִ֖ים מְבִיאִ֑ים וְכָל־מַלְכֵ֤י עֲרַב֙ וּפַחֹ֣ות הָאָ֔רֶץ _מְבִיאִ֛ים_ זָהָ֥ב וָכֶ֖סֶף לִשְׁלֹמֹֽה׃ (II Chr. 9:14)
+NIV	not including the revenues _brought_ in by merchants and traders. Also all the kings of Arabia and the governors of the land _brought_ gold and silver to Solomon.
+ESV	besides that which the explorers and merchants _brought_. And all the kings of Arabia and the governors of the land _brought_ gold and silver to Solomon.
+
+(x)	וּמִן־פְּלִשְׁתִּ֗ים _מְבִיאִ֧ים_ לִֽיהֹושָׁפָ֛ט מִנְחָ֖ה וְכֶ֣סֶף מַשָּׂ֑א גַּ֣ם הָֽעַרְבִיאִ֗ים מְבִיאִ֥ים לֹו֙ צֹ֕אן אֵילִ֔ים שִׁבְעַ֤ת אֲלָפִים֙ וּשְׁבַ֣ע מֵאֹ֔ות וּתְיָשִׁ֕ים שִׁבְעַ֥ת אֲלָפִ֖ים וּשְׁבַ֥ע מֵאֹֽות׃ פ (II Chr. 17:11)
+NIV	Some Philistines _brought_ Jehoshaphat gifts and silver as tribute, and the Arabs _brought_ him flocks: seven thousand seven hundred rams and seven thousand seven hundred goats.
+ESV	Some of the Philistines _brought_ Jehoshaphat presents and silver for tribute, and the Arabians also _brought_ him 7,700 rams and 7,700 goats.
+
+(x)	וְכָל־הַקָּהָל֙ מִֽשְׁתַּחֲוִ֔ים וְהַשִּׁ֣יר מְשֹׁורֵ֔ר וְהַחֲצֹצְרֹ֖ות מַחְצְרִ֑ים הַכֹּ֕ל עַ֖ד לִכְלֹ֥ות הָעֹלָֽה׃ (II Chr. 29:28)
+NIV	The whole assembly bowed in worship, while the singers sang and the trumpeters _played_. All this continued until the sacrifice of the burnt offering was completed.
+ESV	The whole assembly worshiped, and the singers sang, and the trumpeters _sounded_. All this continued until the burnt offering was finished.
+
+(x)	וַיַּֽעֲבִירֻ֨הוּ עֲבָדָ֜יו מִן־הַמֶּרְכָּבָ֗ה וַֽיַּרְכִּיבֻהוּ֮ עַ֣ל רֶ֣כֶב הַמִּשְׁנֶה֮ אֲשֶׁר־לֹו֒ וַיֹּולִיכֻ֨הוּ֙ יְר֣וּשָׁלִַ֔ם וַיָּ֕מָת וַיִּקָּבֵ֖ר בְּקִבְרֹ֣ות אֲבֹתָ֑יו וְכָל־יְהוּדָה֙ וִיר֣וּשָׁלִַ֔ם _מִֽתְאַבְּלִ֖ים_ עַל־יֹאשִׁיָּֽהוּ׃ פ (II Chr. 35:24)
+NIV	So they took him out of his chariot, put him in the other chariot he had and brought him to Jerusalem, where he died. He was buried in the tombs of his fathers, and all Judah and Jerusalem _mourned_ for him.
+ESV	So his servants took him out of the chariot and carried him in his second chariot and brought him to Jerusalem. And he died and was buried in the tombs of his fathers. All Judah and Jerusalem _mourned_ for Josiah.

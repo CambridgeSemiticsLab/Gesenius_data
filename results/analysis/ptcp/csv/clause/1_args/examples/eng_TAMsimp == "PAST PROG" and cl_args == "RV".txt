@@ -1,0 +1,62 @@
+eng_TAMsimp == "PAST PROG" and cl_args == "RV"
+15 of 15
+
+(x)	וַ֠יָּשֻׁבוּ וַיָּבֹ֜אוּ אֶל־עֵ֤ין מִשְׁפָּט֙ הִ֣וא קָדֵ֔שׁ וַיַּכּ֕וּ אֶֽת־כָּל־שְׂדֵ֖ה הָעֲמָלֵקִ֑י וְגַם֙ אֶת־הָ֣אֱמֹרִ֔י הַ_יֹּשֵׁ֖ב_ בְּחַֽצְצֹ֥ן תָּמָֽר׃ (Gen. 14:7)
+NIV	Then they turned back and went to En Mishpat ( that is, Kadesh ), and they conquered the whole territory of the Amalekites, as well as the Amorites _who were living_ in Hazazon Tamar.
+ESV	Then they turned back and came to En-mishpat ( that is, Kadesh ) and defeated all the country of the Amalekites, and also the Amorites _who were dwelling_ in Hazazon-tamar.
+
+(x)	וַיָּבֹ֨אוּ֙ כָּל־הַ֣חֲכָמִ֔ים הָ_עֹשִׂ֕ים_ אֵ֖ת כָּל־מְלֶ֣אכֶת הַקֹּ֑דֶשׁ אִֽישׁ־אִ֥ישׁ מִמְּלַאכְתֹּ֖ו אֲשֶׁר־הֵ֥מָּה עֹשִֽׂים׃ (Exod. 36:4)
+NIV	So all the skilled craftsmen _who were doing_ all the work on the sanctuary left their work
+ESV	so that all the craftsmen _who were doing_ every sort of task on the sanctuary came, each from the task that he was doing,
+
+(x)	אֲשֶׁ֨ר קָֽרְךָ֜ בַּדֶּ֗רֶךְ וַיְזַנֵּ֤ב בְּךָ֙ כָּל־הַ_נֶּחֱשָׁלִ֣ים_ אַֽחַרֶ֔יךָ וְאַתָּ֖ה עָיֵ֣ף וְיָגֵ֑עַ וְלֹ֥א יָרֵ֖א אֱלֹהִֽים׃ (Deut. 25:18)
+NIV	When you were weary and worn out, they met you on your journey and cut off all _who were lagging_ behind. they had no fear of God.
+ESV	how he attacked you on the way when you were faint and weary, and cut off your tail, those _who were lagging_ behind you, and he did not fear God.
+
+(x)	וַיֹּ֣אמֶר שְׁמוּאֵ֔ל אֵ֖ת כָּל־דִּבְרֵ֣י יְהוָ֑ה אֶל־הָעָ֕ם הַ_שֹּׁאֲלִ֥ים_ מֵאִתֹּ֖ו מֶֽלֶךְ׃ ס (I Sam. 8:10)
+NIV	Samuel told all the words of the LORD to the people who were asking him for a king.
+ESV	So Samuel told all the words of the Lord to the people _who were asking for_ a king from him.
+
+(x)	וַיַּשְׁכֵּ֨ם דָּוִ֜ד בַּבֹּ֗קֶר וַיִּטֹּ֤שׁ אֶת־הַצֹּאן֙ עַל־שֹׁמֵ֔ר וַיִּשָּׂ֣א וַיֵּ֔לֶךְ כַּאֲשֶׁ֥ר צִוָּ֖הוּ יִשָׁ֑י וַיָּבֹא֙ הַמַּעְגָּ֔לָה וְהַחַ֗יִל הַ_יֹּצֵא֙_ אֶל־הַמַּ֣עֲרָכָ֔ה וְהֵרֵ֖עוּ בַּמִּלְחָמָֽה׃ (I Sam. 17:20)
+NIV	Early in the morning David left the flock with a shepherd, loaded up and set out, as Jesse had directed. He reached the camp as the army _was going out_ to its battle positions, shouting the war cry.
+ESV	And David rose early in the morning and left the sheep with a keeper and took the provisions and went, as Jesse had commanded him. And he came to the encampment as the host _was going out_ to the battle line, shouting the war cry.
+
+(x)	וַיֹּאמֶר֩ דָּוִ֨ד אֶל־יְהוָ֜ה בִּרְאֹתֹ֣ו׀ אֶֽת־הַמַּלְאָ֣ךְ׀ הַ_מַּכֶּ֣ה_ בָעָ֗ם וַיֹּ֨אמֶר֙ הִנֵּ֨ה אָנֹכִ֤י חָטָ֨אתִי֙ וְאָנֹכִ֣י הֶעֱוֵ֔יתִי וְאֵ֥לֶּה הַצֹּ֖אן מֶ֣ה עָשׂ֑וּ תְּהִ֨י נָ֥א יָדְךָ֛ בִּ֖י וּבְבֵ֥ית אָבִֽי׃ פ (II Sam. 24:17)
+NIV	When David saw the angel _who was striking down_ the people, he said to the LORD, “I am the one who has sinned and done wrong. These are but sheep. What have they done? Let your hand fall upon me and my family.”
+ESV	Then David spoke to the Lord when he saw the angel _who was striking_ the people, and said, “Behold, I have sinned, and I have done wickedly. But these sheep, what have they done? Please let your hand be against me and against my father’s house.”
+
+(x)	וַיֹּ֨אמֶר֙ יִרְמְיָ֣ה הַנָּבִ֔יא אֶל־חֲנַנְיָ֖ה הַנָּבִ֑יא לְעֵינֵ֤י הַכֹּֽהֲנִים֙ וּלְעֵינֵ֣י כָל־הָעָ֔ם הָ_עֹמְדִ֖ים_ בְּבֵ֥ית יְהוָֽה׃ (Jer. 28:5)
+NIV	Then the prophet Jeremiah replied to the prophet Hananiah before the priests and all the people _who were standing_ in the house of the LORD.
+ESV	Then the prophet Jeremiah spoke to Hananiah the prophet in the presence of the priests and all the people _who were standing_ in the house of the Lord,
+
+(x)	וְחֵ֥יל פַּרְעֹ֖ה יָצָ֣א מִמִּצְרָ֑יִם וַיִּשְׁמְע֨וּ הַכַּשְׂדִּ֜ים הַ_צָּרִ֤ים_ עַל־יְרוּשָׁלִַ֨ם֙ אֶת־שִׁמְעָ֔ם וַיֵּ֣עָל֔וּ מֵעַ֖ל יְרוּשָׁלִָֽם׃ פ (Jer. 37:5)
+NIV	Pharaoh’s army had marched out of Egypt, and when the Babylonians _who were besieging_ Jerusalem heard the report about them, they withdrew from Jerusalem.
+ESV	The army of Pharaoh had come out of Egypt. And when the Chaldeans _who were besieging_ Jerusalem heard news about them, they withdrew from Jerusalem.
+
+(x)	הַדָּבָ֞ר אֲשֶׁר־הָיָ֤ה אֶֽל־יִרְמְיָ֨הוּ֙ מֵאֵ֣ת יְהוָ֔ה אַחַ֣ר׀ שַׁלַּ֣ח אֹתֹ֗ו נְבוּזַרְאֲדָ֛ן רַב־טַבָּחִ֖ים מִן־הָֽרָמָ֑ה בְּקַחְתֹּ֣ו אֹתֹ֗ו וְהֽוּא־אָס֤וּר בָּֽאזִקִּים֙ בְּתֹ֨וךְ כָּל־גָּל֤וּת יְרוּשָׁלִַ֨ם֙ וִֽיהוּדָ֔ה הַ_מֻּגְלִ֖ים_ בָּבֶֽלָה׃ (Jer. 40:1)
+NIV	The word came to Jeremiah from the LORD after Nebuzaradan commander of the imperial guard had released him at Ramah. He had found Jeremiah bound in chains among all the captives from Jerusalem and Judah _who were being carried into exile_ to Babylon.
+ESV	The word that came to Jeremiah from the Lord after Nebuzaradan the captain of the guard had let him go from Ramah, when he took him bound in chains along with all the captives of Jerusalem and Judah _who were being exiled_ to Babylon.
+
+(x)	וַֽיַּעֲנ֞וּ אֶת־מַלְאַ֣ךְ יְהוָ֗ה הָֽ_עֹמֵד֙_ בֵּ֣ין הַהֲדַסִּ֔ים וַיֹּאמְר֖וּ הִתְהַלַּ֣כְנוּ בָאָ֑רֶץ וְהִנֵּ֥ה כָל־הָאָ֖רֶץ יֹשֶׁ֥בֶת וְשֹׁקָֽטֶת׃ (Zech. 1:11)
+NIV	And they reported to the angel of the LORD, _who was standing_ among the myrtle trees, “We have gone throughout the earth and found the whole world at rest and in peace.”
+ESV	And they answered the angel of the Lord _who was standing_ among the myrtle trees, and said, ‘We have patrolled the earth, and behold, all the earth remains at rest.’
+
+(x)	וַיַּ֣עַן וַיֹּ֗אמֶר אֶל־הָ_עֹמְדִ֤ים_ לְפָנָיו֙ לֵאמֹ֔ר הָסִ֛ירוּ הַבְּגָדִ֥ים הַצֹּאִ֖ים מֵעָלָ֑יו וַיֹּ֣אמֶר אֵלָ֗יו רְאֵ֨ה הֶעֱבַ֤רְתִּי מֵעָלֶ֨יךָ֙ עֲוֹנֶ֔ךָ וְהַלְבֵּ֥שׁ אֹתְךָ֖ מַחֲלָצֹֽות׃ (Zech. 3:4)
+NIV	The angel said to those _who were standing_ before him, “Take off his filthy clothes.” Then he said to Joshua, “See, I have taken away your sin, and I will put rich garments on you.”
+ESV	And the angel said to those _who were standing_ before him, “Remove the filthy garments from him.” And to him he said, “Behold, I have taken your iniquity away from you, and I will clothe you with pure vestments.”
+
+(x)	וַתֻּפַ֖ר בַּיֹּ֣ום הַה֑וּא וַיֵּדְע֨וּ כֵ֜ן עֲנִיֵּ֤י הַצֹּאן֙ הַ_שֹּׁמְרִ֣ים_ אֹתִ֔י כִּ֥י דְבַר־יְהוָ֖ה הֽוּא׃ (Zech. 11:11)
+NIV	It was revoked on that day, and so the afflicted of the flock _who were watching_ me knew it was the word of the LORD.
+ESV	So it was annulled on that day, and the sheep traders, _who were watching_ me, knew that it was the word of the Lord.
+
+(x)	הַ_בֹּונִ֧ים_ בַּחֹומָ֛ה וְהַנֹּשְׂאִ֥ים בַּסֶּ֖בֶל עֹמְשִׂ֑ים בְּאַחַ֤ת יָדֹו֙ עֹשֶׂ֣ה בַמְּלָאכָ֔ה וְאַחַ֖ת מַחֲזֶ֥קֶת הַשָּֽׁלַח׃ (Neh. 4:11)
+NIV	_who were building_ the wall. Those who carried materials did their work with one hand and held a weapon in the other,
+ESV	_who were building_ on the wall. Those who carried burdens were loaded in such a way that each labored on the work with one hand and held his weapon with the other.
+
+(x)	וְדָוִ֞יד מְכֻרְבָּ֣ל׀ בִּמְעִ֣יל בּ֗וּץ וְכָל־הַלְוִיִּם֙ הַ_נֹּשְׂאִ֣ים_ אֶת־הָאָרֹ֔ון וְהַמְשֹׁ֣רְרִ֔ים וּכְנַנְיָ֛ה הַשַּׂ֥ר הַמַּשָּׂ֖א הַמְשֹֽׁרְרִ֑ים וְעַל־דָּוִ֖יד אֵפֹ֥וד בָּֽד׃ (I Chr. 15:27)
+NIV	Now David was clothed in a robe of fine linen, as were all the Levites _who were carrying_ the ark, and as were the singers, and Kenaniah, who was in charge of the singing of the choirs. David also wore a linen ephod.
+ESV	David was clothed with a robe of fine linen, as also were all the Levites _who were carrying_ the ark, and the singers and Chenaniah the leader of the music of the singers. And David wore a linen ephod.
+
+(x)	וַיָּקֻ֨מוּ אֲנָשִׁ֜ים מֵרָאשֵׁ֣י בְנֵֽי־אֶפְרַ֗יִם עֲזַרְיָ֤הוּ בֶן־יְהֹֽוחָנָן֙ בֶּרֶכְיָ֣הוּ בֶן־מְשִׁלֵּמֹ֔ות וִֽיחִזְקִיָּ֨הוּ֙ בֶּן־שַׁלֻּ֔ם וַעֲמָשָׂ֖א בֶּן־חַדְלָ֑י עַל־הַ_בָּאִ֖ים_ מִן־הַצָּבָֽא׃ (II Chr. 28:12)
+NIV	Then some of the leaders in Ephraim — Azariah son of Jehohanan, Berekiah son of Meshillemoth, Jehizkiah son of Shallum, and Amasa son of Hadlai — confronted those _who were arriving_ from the war.
+ESV	Certain chiefs also of the men of Ephraim, Azariah the son of Johanan, Berechiah the son of Meshillemoth, Jehizkiah the son of Shallum, and Amasa the son of Hadlai, stood up against those _who were coming_ from the war

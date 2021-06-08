@@ -1,0 +1,102 @@
+eng_TAMsimp == "PRES ~ PRES PART"
+25 of 145
+
+(x)	וַיֹּ֣אמֶר אֱלֹהִ֗ים תַּֽדְשֵׁ֤א הָאָ֨רֶץ֙ דֶּ֔שֶׁא עֵ֚שֶׂב מַזְרִ֣יעַ זֶ֔רַע עֵ֣ץ פְּרִ֞י _עֹ֤שֶׂה_ פְּרִי֙ לְמִינֹ֔ו אֲשֶׁ֥ר זַרְעֹו־בֹ֖ו עַל־הָאָ֑רֶץ וַֽיְהִי־כֵֽן׃ (Gen. 1:11)
+NIV	Then God said, “Let the land produce vegetation: seed-bearing plants and trees on the land _that bear_ fruit with seed in it, according to their various kinds.” And it was so.
+ESV	And God said, “Let the earth sprout vegetation, plants yielding seed, and fruit trees _bearing_ fruit in which is their seed, each according to its kind, on the earth.” And it was so.
+
+(x)	תֹּורָ֣ה אַחַ֔ת יִהְיֶ֖ה לָֽאֶזְרָ֑ח וְלַגֵּ֖ר הַ_גָּ֥ר_ בְּתֹוכְכֶֽם׃ (Exod. 12:49)
+NIV	The same law applies to the native-born and to the alien _living_ among you.”
+ESV	There shall be one law for the native and for the stranger _who sojourns_ among you.”
+
+(x)	לְמַעַן֩ אֲשֶׁ֨ר יָבִ֜יאוּ בְּנֵ֣י יִשְׂרָאֵ֗ל אֶֽת־זִבְחֵיהֶם֮ אֲשֶׁ֣ר הֵ֣ם _זֹבְחִים֮_ עַל־פְּנֵ֣י הַשָּׂדֶה֒ וֶֽהֱבִיאֻ֣ם לַֽיהוָ֗ה אֶל־פֶּ֛תַח אֹ֥הֶל מֹועֵ֖ד אֶל־הַכֹּהֵ֑ן וְזָ֨בְח֜וּ זִבְחֵ֧י שְׁלָמִ֛ים לַֽיהוָ֖ה אֹותָֽם׃ (Lev. 17:5)
+NIV	This is so the Israelites will bring to the LORD the sacrifices they are now making in the open fields. They must bring them to the priest, that is, to the LORD, at the entrance to the Tent of Meeting and sacrifice them as fellowship offerings.
+ESV	This is to the end that the people of Israel may bring their _sacrifice_s that they _sacrifice_ in the open field, that they may bring them to the Lord, to the priest at the entrance of the tent of meeting, and _sacrifice_ them as _sacrifice_s of peace offerings to the Lord.
+
+(x)	וְאֶל־בְּנֵ֣י יִשְׂרָאֵל֮ תֹּאמַר֒ אִ֣ישׁ אִישׁ֩ מִבְּנֵ֨י יִשְׂרָאֵ֜ל וּמִן־הַגֵּ֣ר׀ הַ_גָּ֣ר_ בְּיִשְׂרָאֵ֗ל אֲשֶׁ֨ר יִתֵּ֧ן מִזַּרְעֹ֛ו לַמֹּ֖לֶךְ מֹ֣ות יוּמָ֑ת עַ֥ם הָאָ֖רֶץ יִרְגְּמֻ֥הוּ בָאָֽבֶן׃ (Lev. 20:2)
+NIV	“Say to the Israelites: ‘Any Israelite or any alien _living_ in Israel who gives any of his children to Molech must be put to death. The people of the community are to stone him.
+ESV	“Say to the people of Israel, Any one of the people of Israel or of the strangers _who sojourn_ in Israel who gives any of his children to Molech shall surely be put to death. The people of the land shall stone him with stones.
+
+(x)	מִשָּׁם֮ נָסָעוּ֒ וַֽיַּחֲנ֗וּ מֵעֵ֤בֶר אַרְנֹון֙ אֲשֶׁ֣ר בַּמִּדְבָּ֔ר הַ_יֹּצֵ֖א_ מִגְּב֣וּל הָֽאֱמֹרִ֑י כִּ֤י אַרְנֹון֙ גְּב֣וּל מֹואָ֔ב בֵּ֥ין מֹואָ֖ב וּבֵ֥ין הָאֱמֹרִֽי׃ (Num. 21:13)
+NIV	They set out from there and camped alongside the Arnon, which is in the desert _extending_ into Amorite territory. The Arnon is the border of Moab, between Moab and the Amorites.
+ESV	From there they set out and camped on the other side of the Arnon, which is in the wilderness _that extends_ from the border of the Amorites, for the Arnon is the border of Moab, between Moab and the Amorites.
+
+(x)	רֹכְבֵי֩ אֲתֹנֹ֨ות צְחֹרֹ֜ות _יֹשְׁבֵ֧י_ עַל־מִדִּ֛ין וְהֹלְכֵ֥י עַל־דֶּ֖רֶךְ שִֽׂיחוּ׃ (Judg. 5:10)
+NIV	“You who ride on white donkeys, _sitting_ on your saddle blankets, and you who walk along the road, consider
+ESV	“Tell of it, you who ride on white donkeys, you _who sit_ on rich carpets and you who walk by the way.
+
+(x)	אַחֲרֵ֨י מִ֤י יָצָא֙ מֶ֣לֶךְ יִשְׂרָאֵ֔ל אַחֲרֵ֥י מִ֖י אַתָּ֣ה _רֹדֵ֑ף_ אַֽחֲרֵי֙ כֶּ֣לֶב מֵ֔ת אַחֲרֵ֖י פַּרְעֹ֥שׁ אֶחָֽד׃ (I Sam. 24:15)
+NIV	“Against whom has the king of Israel come out? Whom are you pursuing? A dead dog? A flea?
+ESV	After whom has the king of Israel come out? After whom do you pursue? After a dead dog! After a flea!
+
+(x)	וַיֹּאמַ֗ר יְהוָ֞ה אֱלֹהֵ֤י יִשְׂרָאֵל֙ אֵין־כָּמֹ֣וךָ אֱלֹהִ֔ים בַּשָּׁמַ֣יִם מִמַּ֔עַל וְעַל־הָאָ֖רֶץ מִתָּ֑חַת _שֹׁמֵ֤ר_ הַבְּרִית֙ וְֽהַחֶ֔סֶד לַעֲבָדֶ֕יךָ הַהֹלְכִ֥ים לְפָנֶ֖יךָ בְּכָל־לִבָּֽם׃ (I Kgs. 8:23)
+NIV	and said: “O LORD, God of Israel, there is no God like you in heaven above or on earth below — you _who keep_ your covenant of love with your servants who continue wholeheartedly in your way.
+ESV	and said, “O Lord, God of Israel, there is no God like you, in heaven above or on earth beneath, _keeping_ covenant and showing steadfast love to your servants who walk before you with all their heart,
+
+(x)	וַיְצַוֵּ֣ם לֵאמֹ֔ר זֶ֥ה הַדָּבָ֖ר אֲשֶׁ֣ר תַּעֲשׂ֑וּן הַשְּׁלִשִׁ֤ית מִכֶּם֙ _בָּאֵ֣י_ הַשַּׁבָּ֔ת וְשֹׁ֣מְרֵ֔י מִשְׁמֶ֖רֶת בֵּ֥ית הַמֶּֽלֶךְ׃ (II Kgs. 11:5)
+NIV	He commanded them, saying, “This is what you are to do: You who are in the three companies _that are going on duty_ on the Sabbath — a third of you guarding the royal palace,
+ESV	And he commanded them, “This is the thing that you shall do: one third of you, _those who come off duty_ on the Sabbath and guard the king’s house
+
+(x)	מַה־לְּךָ֥ פֹה֙ וּמִ֣י לְךָ֣ פֹ֔ה כִּֽי־חָצַ֧בְתָּ לְּךָ֛ פֹּ֖ה קָ֑בֶר חֹצְבִ֤י מָרֹום֙ קִבְרֹ֔ו _חֹקְקִ֥י_ בַסֶּ֖לַע מִשְׁכָּ֥ן לֹֽו׃ (Isa. 22:16)
+NIV	What are you doing here and who gave you permission to cut out a grave for yourself here, hewing your grave on the height and _chiselling_ your resting place in the rock?
+ESV	What have you to do here, and whom have you here, that you have cut out here a tomb for yourself, you who cut out a tomb on the height and _carve_ a dwelling for yourself in the rock?
+
+(x)	מַגִּ֤יד מֵֽרֵאשִׁית֙ אַחֲרִ֔ית וּמִקֶּ֖דֶם אֲשֶׁ֣ר לֹא־נַעֲשׂ֑וּ _אֹמֵר֙_ עֲצָתִ֣י תָק֔וּם וְכָל־חֶפְצִ֖י אֶעֱשֶֽׂה׃ (Isa. 46:10)
+NIV	I make known the end from the beginning, from ancient times, what is still to come. I _say_: My purpose will stand, and I will do all that I please.
+ESV	declaring the end from the beginning and from ancient times things not yet done, _saying_, ‘My counsel shall stand, and I will accomplish all my purpose,’
+
+(x)	צֹפָ֞יו עִוְרִ֤ים כֻּלָּם֙ לֹ֣א יָדָ֔עוּ כֻּלָּם֙ כְּלָבִ֣ים אִלְּמִ֔ים לֹ֥א יוּכְל֖וּ לִנְבֹּ֑חַ הֹזִים֙ שֹֽׁכְבִ֔ים _אֹהֲבֵ֖י_ לָנֽוּם׃ (Isa. 56:10)
+NIV	Israel’s watchmen are blind, they all lack knowledge. they are all mute dogs, they cannot bark. they lie around and dream, they _love_ to sleep.
+ESV	His watchmen are blind. they are all without knowledge. they are all silent dogs. they cannot bark, dreaming, lying down, _loving_ to slumber.
+
+(x)	הָאֹמֵ֗ר אֶבְנֶה־לִּי֙ בֵּ֣ית מִדֹּ֔ות וַעֲלִיֹּ֖ות מְרֻוָּחִ֑ים וְקָ֤רַֽע לֹו֙ חַלֹּונָ֔י וְ_סָפ֣וּן_ בָּאָ֔רֶז וּמָשֹׁ֖וחַ בַּשָּׁשַֽׁר׃ (Jer. 22:14)
+NIV	He says, ‘I will build myself a great palace with spacious upper rooms.’ So he makes large windows in it, _panels_ it with cedar and decorates it in red.
+ESV	who says, ‘I will build myself a great house with spacious upper rooms,’ who cuts out windows for it, _paneling_ it with cedar and painting it with vermilion.
+
+(x)	אָר֗וּר _עֹשֶׂ֛ה_ מְלֶ֥אכֶת יְהוָ֖ה רְמִיָּ֑ה וְאָר֕וּר מֹנֵ֥עַ חַרְבֹּ֖ו מִדָּֽם׃ (Jer. 48:10)
+NIV	“A curse on him who is lax in _doing_ the LORD’s work! A curse on him who keeps his sword from bloodshed!
+ESV	“Cursed is he _who does_ the work of the Lord with slackness, and cursed is he who keeps back his sword from bloodshed.
+
+(x)	וְהָיָה֙ כִּֽי־יֹאמְר֣וּ אֵלֶ֔יךָ עַל־מָ֖ה אַתָּ֣ה _נֶאֱנָ֑ח_ וְאָמַרְתָּ֡ אֶל־שְׁמוּעָ֣ה כִֽי־בָאָ֡ה וְנָמֵ֣ס כָּל־לֵב֩ וְרָפ֨וּ כָל־יָדַ֜יִם וְכִהֲתָ֣ה כָל־ר֗וּחַ וְכָל־בִּרְכַּ֨יִם֙ תֵּלַ֣כְנָה מַּ֔יִם הִנֵּ֤ה בָאָה֙ וְנִֽהְיָ֔תָה נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃ פ (Ezek. 21:12)
+NIV	And when they ask you, ‘Why are you groaning?’ you shall say, ‘Because of the news that is coming. Every heart will melt and every hand go limp. every spirit will become faint and every knee become as weak as water.’ It is coming! It will surely take place, declares the Sovereign LORD.”
+ESV	And when they say to you, ‘Why do you groan?’ you shall say, ‘Because of the news that it is coming. Every heart will melt, and all hands will be feeble. every spirit will faint, and all knees will be weak as water. Behold, it is coming, and it will be fulfilled,’” declares the Lord God.
+
+(x)	וַיֹּוצִאֵנִי֮ דֶּֽרֶךְ־שַׁ֣עַר צָפֹונָה֒ וַיְסִבֵּ֨נִי֙ דֶּ֣רֶךְ ח֔וּץ אֶל־שַׁ֣עַר הַח֔וּץ דֶּ֖רֶךְ הַ_פֹּונֶ֣ה_ קָדִ֑ים וְהִנֵּה־מַ֣יִם מְפַכִּ֔ים מִן־הַכָּתֵ֖ף הַיְמָנִֽית׃ (Ezek. 47:2)
+NIV	He then brought me out through the north gate and led me round the outside to the outer gate _facing_ east, and the water was flowing from the south side.
+ESV	Then he brought me out by way of the north gate and led me around on the outside to the outer gate _that faces_ toward the east. and behold, the water was trickling out on the south side.
+
+(x)	וְהֻצַּ֖ב גֻּלְּתָ֣ה הֹֽעֲלָ֑תָה וְאַמְהֹתֶ֗יהָ _מְנַֽהֲגֹות֙_ כְּקֹ֣ול יֹונִ֔ים מְתֹפְפֹ֖ת עַל־לִבְבֵהֶֽן׃ (Nah. 2:8)
+NIV	It is decreed that [ the city ] be exiled and carried away. Its slave girls _moan_ like doves and beat upon their breasts.
+ESV	its mistress is stripped. she is carried off, her slave girls lamenting, _moaning_ like doves and beating their breasts.
+
+(x)	וְכִ֥י תֹאכְל֖וּ וְכִ֣י תִשְׁתּ֑וּ הֲלֹ֤וא אַתֶּם֙ הָ_אֹ֣כְלִ֔ים_ וְאַתֶּ֖ם הַשֹּׁתִֽים׃ (Zech. 7:6)
+NIV	And when you were eating and drinking, were you not just feasting for yourselves?
+ESV	And when you eat and when you drink, do you not eat for yourselves and drink for yourselves?
+
+(x)	יִ֭וָּדַע כְּ_מֵבִ֣יא_ לְמָ֑עְלָה בִּֽסֲבָךְ־עֵ֝֗ץ קַרְדֻּמֹּֽות׃ (Psa. 74:5)
+NIV	They behaved like _men wielding_ axes to cut through a thicket of trees.
+ESV	They were like those _who swing_ axes in a forest of trees.
+
+(x)	אֵ֣שׁ וּ֭בָרָד שֶׁ֣לֶג וְקִיטֹ֑ור ר֥וּחַ סְ֝עָרָ֗ה _עֹשָׂ֥ה_ דְבָרֹֽו׃ (Psa. 148:8)
+NIV	lightning and hail, snow and clouds, stormy winds _that do_ his bidding,
+ESV	fire and hail, snow and mist, stormy wind _fulfilling_ his word!
+
+(x)	מַצְדִּ֣יק רָ֭שָׁע וּ_מַרְשִׁ֣יעַ_ צַדִּ֑יק תֹּועֲבַ֥ת יְ֝הוָ֗ה גַּם־שְׁנֵיהֶֽם׃ (Prov. 17:15)
+NIV	Acquitting the guilty and _condemning_ the innocent — the LORD detests them both.
+ESV	He who justifies the wicked and he _who condemns_ the righteous are both alike an abomination to the Lord.
+
+(x)	כִּ֛י מַה־יֹּותֵ֥ר לֶחָכָ֖ם מִֽן־הַכְּסִ֑יל מַה־לֶּעָנִ֣י _יֹודֵ֔עַ_ לַהֲלֹ֖ךְ נֶ֥גֶד הַחַיִּֽים׃ (Eccl. 6:8)
+NIV	What advantage has a wise man over a fool? What does a poor man gain by _knowing_ how to conduct himself before others?
+ESV	For what advantage has the wise man over the fool? And what does the poor man have _who knows_ how to conduct himself before the living?
+
+(x)	בַּיֹּ֗ום שֶׁיָּזֻ֨עוּ֙ שֹׁמְרֵ֣י הַבַּ֔יִת וְהִֽתְעַוְּת֖וּ אַנְשֵׁ֣י הֶחָ֑יִל וּבָטְל֤וּ הַטֹּֽחֲנֹות֙ כִּ֣י מִעֵ֔טוּ וְחָשְׁכ֥וּ הָ_רֹאֹ֖ות_ בָּאֲרֻבֹּֽות׃ (Eccl. 12:3)
+NIV	when the keepers of the house tremble, and the strong men stoop, when the grinders cease because they are few, and those _looking_ through the windows grow dim.
+ESV	in the day when the keepers of the house tremble, and the strong men are bent, and the grinders cease because they are few, and those _who look_ through the windows are dimmed,
+
+(x)	וָאֹמַ֣ר לָהֶ֗ם לֹ֣א יִפָּֽתְח֞וּ שַׁעֲרֵ֤י יְרוּשָׁלִַ֨ם֙ עַד־חֹ֣ם הַשֶּׁ֔מֶשׁ וְעַ֨ד הֵ֥ם _עֹמְדִ֛ים_ יָגִ֥יפוּ הַדְּלָתֹ֖ות וֶאֱחֹ֑זוּ וְהַעֲמֵ֗יד מִשְׁמְרֹות֙ יֹשְׁבֵ֣י יְרוּשָׁלִַ֔ם אִ֚ישׁ בְּמִשְׁמָרֹ֔ו וְאִ֖ישׁ נֶ֥גֶד בֵּיתֹֽו׃ (Neh. 7:3)
+NIV	I said to them, “The gates of Jerusalem are not to be opened until the sun is hot. While the gatekeepers are still on duty, make them shut the doors and bar them. Also appoint residents of Jerusalem as guards, some at their posts and some near their own houses.”
+ESV	And I said to them, “Let not the gates of Jerusalem be opened until the sun is hot. And while they are still standing guard, let them shut and bar the doors. Appoint guards from among the inhabitants of Jerusalem, some at their guard posts and some in front of their own homes.”
+
+(x)	וַאֲנַ֛חְנוּ יְהוָ֥ה אֱלֹהֵ֖ינוּ וְלֹ֣א עֲזַבְנֻ֑הוּ וְכֹ֨הֲנִ֜ים _מְשָׁרְתִ֤ים_ לַֽיהוָה֙ בְּנֵ֣י אַהֲרֹ֔ן וְהַלְוִיִּ֖ם בַּמְלָֽאכֶת׃ (II Chr. 13:10)
+NIV	“As for us, the LORD is our God, and we have not forsaken him. The priests _who serve_ the LORD are sons of Aaron, and the Levites assist them.
+ESV	But as for us, the Lord is our God, and we have not forsaken him. We have priests _ministering_ to the Lord who are sons of Aaron, and Levites for their service.

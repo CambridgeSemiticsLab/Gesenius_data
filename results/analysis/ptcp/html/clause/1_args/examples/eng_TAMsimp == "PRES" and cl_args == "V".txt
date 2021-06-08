@@ -1,0 +1,102 @@
+eng_TAMsimp == "PRES" and cl_args == "V"
+25 of 519
+
+(x)	וְעַתָּ֖ה _אָר֣וּר_ אָ֑תָּה מִן־הָֽאֲדָמָה֙ אֲשֶׁ֣ר פָּצְתָ֣ה אֶת־פִּ֔יהָ לָקַ֛חַת אֶת־דְּמֵ֥י אָחִ֖יךָ מִיָּדֶֽךָ׃ (Gen. 4:11)
+NIV	Now you _are under a curse_ and driven from the ground, which opened its mouth to receive your brother’s blood from your hand.
+ESV	And now you _are cursed_ from the ground, which has opened its mouth to receive your brother’s blood from your hand.
+
+(x)	וְ_אֹֽכְלָיו֙_ עֲוֹנֹ֣ו יִשָּׂ֔א כִּֽי־אֶת־קֹ֥דֶשׁ יְהוָ֖ה חִלֵּ֑ל וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מֵעַמֶּֽיהָ׃ (Lev. 19:8)
+NIV	_Whoever eats_ it will be held responsible because he has desecrated what is holy to the LORD. that person must be cut off from his people.
+ESV	and _everyone who eats_ it shall bear his iniquity, because he has profaned what is holy to the Lord, and that person shall be cut off from his people.
+
+(x)	כִּֽי־תֹועֲבַ֥ת יְהוָ֖ה כָּל־_עֹ֣שֵׂה_ אֵ֑לֶּה וּבִגְלַל֙ הַתֹּועֵבֹ֣ת הָאֵ֔לֶּה יְהוָ֣ה אֱלֹהֶ֔יךָ מֹורִ֥ישׁ אֹותָ֖ם מִפָּנֶֽיךָ׃ (Deut. 18:12)
+NIV	Anyone _who does_ these things is detestable to the LORD, and because of these detestable practices the LORD your God will drive out those nations before you.
+ESV	for whoever _does_ these things is an abomination to the Lord. And because of these abominations the Lord your God is driving them out before you.
+
+(x)	וַיַּעַן֩ אֶחָ֨ד מֵהַנְּעָרִ֜ים וַיֹּ֗אמֶר הִנֵּ֨ה רָאִ֜יתִי בֵּ֣ן לְיִשַׁי֮ בֵּ֣ית הַלַּחְמִי֒ _יֹדֵ֣עַ_ נַ֠גֵּן וְגִבֹּ֨ור חַ֜יִל וְאִ֧ישׁ מִלְחָמָ֛ה וּנְבֹ֥ון דָּבָ֖ר וְאִ֣ישׁ תֹּ֑אַר וַיהוָ֖ה עִמֹּֽו׃ (I Sam. 16:18)
+NIV	One of the servants answered, “I have seen a son of Jesse of Bethlehem _who knows_ how to play the harp. He is a brave man and a warrior. He speaks well and is a fine-looking man. And the LORD is with him.”
+ESV	One of the young men answered, “Behold, I have seen a son of Jesse the Bethlehemite, _who is skillful_ in playing, a man of valor, a man of war, prudent in speech, and a man of good presence, and the Lord is with him.”
+
+(x)	_בָּאִ֛ים_ מֵאֶ֥רֶץ מֶרְחָ֖ק מִקְצֵ֣ה הַשָּׁמָ֑יִם יְהוָה֙ וּכְלֵ֣י זַעְמֹ֔ו לְחַבֵּ֖ל כָּל־הָאָֽרֶץ׃ (Isa. 13:5)
+NIV	They _come_ from faraway lands, from the ends of the heavens — the LORD and the weapons of his wrath — to destroy the whole country.
+ESV	They _come_ from a distant land, from the end of the heavens, the Lord and the weapons of his indignation, to destroy the whole land.
+
+(x)	_מֵקִים֙_ דְּבַ֣ר עַבְדֹּ֔ו וַעֲצַ֥ת מַלְאָכָ֖יו יַשְׁלִ֑ים הָאֹמֵ֨ר לִירוּשָׁלִַ֜ם תּוּשָׁ֗ב וּלְעָרֵ֤י יְהוּדָה֙ תִּבָּנֶ֔ינָה וְחָרְבֹותֶ֖יהָ אֲקֹומֵֽם׃ (Isa. 44:26)
+NIV	_who carries out_ the words of his servants and fulfils the predictions of his messengers, who says of Jerusalem, ‘It shall be inhabited,’ of the towns of Judah, ‘They shall be built,’ and of their ruins, ‘I will restore them,’
+ESV	_who confirms_ the word of his servant and fulfills the counsel of his messengers, who says of Jerusalem, ‘She shall be inhabited,’ and of the cities of Judah, ‘They shall be built, and I will raise up their ruins’.
+
+(x)	מַה־נָּאו֨וּ עַל־הֶהָרִ֜ים רַגְלֵ֣י מְבַשֵּׂ֗ר מַשְׁמִ֧יעַ שָׁלֹ֛ום מְבַשֵּׂ֥ר טֹ֖וב מַשְׁמִ֣יעַ יְשׁוּעָ֑ה _אֹמֵ֥ר_ לְצִיֹּ֖ון מָלַ֥ךְ אֱלֹהָֽיִךְ׃ (Isa. 52:7)
+NIV	How beautiful on the mountains are the feet of those who bring good news, who proclaim peace, who bring good tidings, who proclaim salvation, _who say_ to Zion, “Your God reigns!”
+ESV	How beautiful upon the mountains are the feet of him who brings good news, who publishes peace, who brings good news of happiness, who publishes salvation, _who says_ to Zion, “Your God reigns.”
+
+(x)	שֹׁוחֵ֨ט הַשֹּׁ֜ור מַכֵּה־אִ֗ישׁ זֹובֵ֤חַ הַשֶּׂה֙ עֹ֣רֵֽף כֶּ֔לֶב מַעֲלֵ֤ה מִנְחָה֙ דַּם־חֲזִ֔יר _מַזְכִּ֥יר_ לְבֹנָ֖ה מְבָ֣רֵֽךְ אָ֑וֶן גַּם־הֵ֗מָּה בָּֽחֲרוּ֙ בְּדַרְכֵיהֶ֔ם וּבְשִׁקּוּצֵיהֶ֖ם נַפְשָׁ֥ם חָפֵֽצָה׃ (Isa. 66:3)
+NIV	But whoever sacrifices a bull is like one who kills a man, and whoever offers a lamb, like one who breaks a dog’s neck. whoever makes a grain offering is like one who presents pig’s blood, and _whoever burns memorial_ incense, like one who worships an idol. They have chosen their own ways, and their souls delight in their abominations.
+ESV	“He who slaughters an ox is like one who kills a man. he who sacrifices a lamb, like one who breaks a dog’s neck. he who presents a grain offering, like one who offers pig’s blood. he _who makes a memorial offering of_ frankincense, like one who blesses an idol. These have chosen their own ways, and their soul delights in their abominations.
+
+(x)	קֹ֣ול שָׂשֹׂ֞ון וְקֹ֣ול שִׂמְחָ֗ה קֹ֣ול חָתָן֮ וְקֹ֣ול כַּלָּה֒ קֹ֣ול אֹמְרִ֡ים הֹודוּ֩ אֶת־יְהוָ֨ה צְבָאֹ֜ות כִּֽי־טֹ֤וב יְהוָה֙ כִּֽי־לְעֹולָ֣ם חַסְדֹּ֔ו _מְבִאִ֥ים_ תֹּודָ֖ה בֵּ֣ית יְהוָ֑ה כִּֽי־אָשִׁ֧יב אֶת־שְׁבוּת־הָאָ֛רֶץ כְּבָרִאשֹׁנָ֖ה אָמַ֥ר יְהוָֽה׃ ס (Jer. 33:11)
+NIV	the sounds of joy and gladness, the voices of bride and bridegroom, and the voices of _those who bring_ thank-offerings to the house of the LORD, saying, “Give thanks to the LORD Almighty, for the LORD is good. his love endures forever.” For I will restore the fortunes of the land as they were before,’ says the LORD.
+ESV	the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride, the voices of those who sing, as they _bring_ thank offerings to the house of the Lord: “‘Give thanks to the Lord of hosts, for the Lord is good, for his steadfast love endures forever!’ For I will restore the fortunes of the land as at first, says the Lord.
+
+(x)	לָכֵ֗ן יִֽהְיוּ֙ כַּעֲנַן־בֹּ֔קֶר וְכַטַּ֖ל מַשְׁכִּ֣ים _הֹלֵ֑ךְ_ כְּמֹץ֙ יְסֹעֵ֣ר מִגֹּ֔רֶן וּכְעָשָׁ֖ן מֵאֲרֻבָּֽה׃ (Hos. 13:3)
+NIV	Therefore they will be like the morning mist, like the early dew _that disappears_, like chaff swirling from a threshing-floor, like smoke escaping through a window.
+ESV	Therefore they shall be like the morning mist or like the dew that goes early away, like the chaff that swirls from the threshing floor or like smoke from a window.
+
+(x)	הִנֵּ֨ה עַל־הֶהָרִ֜ים רַגְלֵ֤י מְבַשֵּׂר֙ _מַשְׁמִ֣יעַ_ שָׁלֹ֔ום חָגִּ֧י יְהוּדָ֛ה חַגַּ֖יִךְ שַׁלְּמִ֣י נְדָרָ֑יִךְ כִּי֩ לֹ֨א יֹוסִ֥יף עֹ֛וד לַֽעֲבָר־בָּ֥ךְ בְּלִיַּ֖עַל כֻּלֹּ֥ה נִכְרָֽת׃ (Nah. 2:1)
+NIV	Look, there on the mountains, the feet of one who brings good news, _who proclaims_ peace! Celebrate your festivals, O Judah, and fulfil your vows. No more will the wicked invade you. they will be completely destroyed.
+ESV	Behold, upon the mountains, the feet of him who brings good news, _who publishes_ peace! Keep your feasts, O Judah. fulfill your vows, for never again shall the worthless pass through you. he is utterly cut off.
+
+(x)	אָכְל֬וּ וַיִּֽשְׁתַּחֲוּ֨וּ׀ כָּֽל־דִּשְׁנֵי־אֶ֗רֶץ לְפָנָ֣יו יִ֭כְרְעוּ כָּל־_יֹורְדֵ֣י_ עָפָ֑ר וְ֝נַפְשֹׁ֗ו לֹ֣א חִיָּֽה׃ (Psa. 22:30)
+NIV	All the rich of the earth will feast and worship. all _who go down_ to the dust will kneel before him — those who cannot keep themselves alive.
+ESV	All the prosperous of the earth eat and worship. before him shall bow all _who go down_ to the dust, even the one who could not keep himself alive.
+
+(x)	וְֽ֭אֹיְבַי חַיִּ֣ים עָצֵ֑מוּ וְרַבּ֖וּ _שֹׂנְאַ֣י_ שָֽׁקֶר׃ (Psa. 38:20)
+NIV	Many are those who are my vigorous enemies. _those who hate_ me without reason are numerous.
+ESV	But my foes are vigorous, they are mighty, and many are _those who hate_ me wrongfully.
+
+(x)	יָ֘שִׂ֤ישׂוּ וְיִשְׂמְח֨וּ׀ בְּךָ֗ כָּֽל־מְבַ֫קְשֶׁ֥יךָ וְיֹאמְר֣וּ תָ֭מִיד יִגְדַּ֣ל אֱלֹהִ֑ים _אֹ֝הֲבֵ֗י_ יְשׁוּעָתֶֽךָ׃ (Psa. 70:5)
+NIV	But may all who seek you rejoice and be glad in you. may _those who love_ your salvation always say, “Let God be exalted!”
+ESV	May all who seek you rejoice and be glad in you! May _those who love_ your salvation say evermore, “God is great!”
+
+(x)	_מַצְמִ֤יחַ_ חָצִ֨יר׀ לַבְּהֵמָ֗ה וְ֭עֵשֶׂב לַעֲבֹדַ֣ת הָאָדָ֑ם לְהֹ֥וצִיא לֶ֝֗חֶם מִן־הָאָֽרֶץ׃ (Psa. 104:14)
+NIV	He makes grass grow for the cattle, and plants for man to cultivate — bringing forth food from the earth:
+ESV	You cause the grass to grow for the livestock and plants for man to cultivate, that he may bring forth food from the earth
+
+(x)	לְ_עֹ֘שֵׂ֤ה_ נִפְלָאֹ֣ות גְּדֹלֹ֣ות לְבַדֹּ֑ו כִּ֖י לְעֹולָ֣ם חַסְדֹּֽו׃ (Psa. 136:4)
+NIV	to him who alone does great wonders, His love endures forever.
+ESV	to him who alone does great wonders, for his steadfast love endures forever.
+
+(x)	גַּם־לִ֤י לֵבָ֨ב׀ כְּֽמֹוכֶ֗ם לֹא־_נֹפֵ֣ל_ אָנֹכִ֣י מִכֶּ֑ם וְאֶת־מִי־אֵ֥ין כְּמֹו־אֵֽלֶּה׃ (Job 12:3)
+NIV	But I have a mind as well as you. I am not inferior to you. Who does not know all these things?
+ESV	But I have understanding as well as you. I am not inferior to you. Who does not know such things as these?
+
+(x)	אַנְשֵׁ֣י לֵ֭בָב יֹ֣אמְרוּ לִ֑י וְגֶ֥בֶר חָ֝כָ֗ם _שֹׁמֵ֥עַֽ_ לִֽי׃ (Job 34:34)
+NIV	“Men of understanding declare, wise men _who hear_ me say to me,
+ESV	Men of understanding will say to me, and the wise man _who hears_ me will say:
+
+(x)	_קֹ֣רֵ֖ץ_ עַ֭יִן יִתֵּ֣ן עַצָּ֑בֶת וֶאֱוִ֥יל שְׂ֝פָתַ֗יִם יִלָּבֵֽט׃ (Prov. 10:10)
+NIV	He _who winks_ maliciously causes grief, and a chattering fool comes to ruin.
+ESV	_Whoever winks_ the eye causes trouble, but a babbling fool will come to ruin.
+
+(x)	חֹושֵׂ֣ךְ שִׁ֭בְטֹו שֹׂונֵ֣א בְנֹ֑ו וְ֝_אֹהֲבֹ֗ו_ שִֽׁחֲרֹ֥ו מוּסָֽר׃ (Prov. 13:24)
+NIV	He who spares the rod hates his son, but he _who loves_ him is careful to discipline him.
+ESV	Whoever spares the rod hates his son, but he _who loves_ him is diligent to discipline him.
+
+(x)	_מְֽכַסֶּה_־פֶּ֭שַׁע מְבַקֵּ֣שׁ אַהֲבָ֑ה וְשֹׁנֶ֥ה בְ֝דָבָ֗ר מַפְרִ֥יד אַלּֽוּף׃ (Prov. 17:9)
+NIV	He _who covers_ over an offence promotes love, but whoever repeats the matter separates close friends.
+ESV	_Whoever covers_ an offense seeks love, but he who repeats a matter separates close friends.
+
+(x)	נְשִׂיאִ֣ים וְ֭רוּחַ וְגֶ֣שֶׁם אָ֑יִן אִ֥ישׁ _מִ֝תְהַלֵּ֗ל_ בְּמַתַּת־שָֽׁקֶר׃ (Prov. 25:14)
+NIV	Like clouds and wind without rain is a man _who boasts_ of gifts he does not give.
+ESV	Like clouds and wind without rain is a man _who boasts_ of a gift he does not give.
+
+(x)	מֹ֭שֵׁל _מַקְשִׁ֣יב_ עַל־דְּבַר־שָׁ֑קֶר כָּֽל־מְשָׁרְתָ֥יו רְשָׁעִֽים׃ (Prov. 29:12)
+NIV	If a ruler listens to lies, all his officials become wicked.
+ESV	If a ruler _listens_ to falsehood, all his officials will be wicked.
+
+(x)	שִׂ֤ישִׂי וְשִׂמְחִי֙ בַּת־אֱדֹ֔ום יֹושֶׁ֖בֶת בְּאֶ֣רֶץ ע֑וּץ גַּם־עָלַ֨יִךְ֙ תַּעֲבָר־כֹּ֔וס תִּשְׁכְּרִ֖י וְתִתְעָרִֽי׃ ס (Lam. 4:21)
+NIV	Rejoice and be glad, O Daughter of Edom, you _who live_ in the land of Uz. But to you also the cup will be passed. you will be drunk and stripped naked.
+ESV	Rejoice and be glad, O daughter of Edom, you _who dwell_ in the land of Uz. but to you also the cup shall pass. you shall become drunk and strip yourself bare.
+
+(x)	וְיֶתֶר֩ דִּבְרֵ֨י יְהֹֽויָקִ֜ים וְתֹֽעֲבֹתָ֤יו אֲשֶׁר־עָשָׂה֙ וְהַנִּמְצָ֣א עָלָ֔יו הִנָּ֣ם _כְּתוּבִ֗ים_ עַל־סֵ֛פֶר מַלְכֵ֥י יִשְׂרָאֵ֖ל וִֽיהוּדָ֑ה וַיִּמְלֹ֛ךְ יְהֹויָכִ֥ין בְּנֹ֖ו תַּחְתָּֽיו׃ פ (II Chr. 36:8)
+NIV	The other events of Jehoiakim’s reign, the detestable things he did and all that was found against him, _are written_ in the book of the kings of Israel and Judah. And Jehoiachin his son succeeded him as king.
+ESV	Now the rest of the acts of Jehoiakim, and the abominations that he did, and what was found against him, behold, they _are written_ in the Book of the Kings of Israel and Judah. And Jehoiachin his son reigned in his place.

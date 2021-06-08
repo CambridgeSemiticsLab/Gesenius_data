@@ -1,0 +1,50 @@
+eng_TAMsimp == "FUT" and cl_args == "CV"
+12 of 12
+
+(x)	אִם־יֶשְׁךָ֛ _מְשַׁלֵּ֥חַ_ אֶת־אָחִ֖ינוּ אִתָּ֑נוּ נֵרְדָ֕ה וְנִשְׁבְּרָ֥ה לְךָ֖ אֹֽכֶל׃ (Gen. 43:4)
+NIV	If you _will send_ our brother along with us, we will go down and buy food for you.
+ESV	If you _will send_ our brother with us, we will go down and buy you food.
+
+(x)	אַתֶּ֗ם לְכ֨וּ קְח֤וּ לָכֶם֙ תֶּ֔בֶן מֵאֲשֶׁ֖ר תִּמְצָ֑אוּ כִּ֣י אֵ֥ין _נִגְרָ֛ע_ מֵעֲבֹדַתְכֶ֖ם דָּבָֽר׃ (Exod. 5:11)
+NIV	Go and get your own straw wherever you can find it, but your work will not be reduced at all.’”
+ESV	Go and get your straw yourselves wherever you can find it, but your work will not be reduced in the least.’”
+
+(x)	וַיֹּ֥אמֶר גִּדְעֹ֖ון אֶל־הָאֱלֹהִ֑ים אִם־יֶשְׁךָ֞ _מֹושִׁ֧יעַ_ בְּיָדִ֛י אֶת־יִשְׂרָאֵ֖ל כַּאֲשֶׁ֥ר דִּבַּֽרְתָּ׃ (Judg. 6:36)
+NIV	Gideon said to God, “If you _will save_ Israel by my hand as you have promised —
+ESV	Then Gideon said to God, “If you _will save_ Israel by my hand, as you have said,
+
+(x)	כִּ֣י לֹ֤א בְחִפָּזֹון֙ תֵּצֵ֔אוּ וּבִמְנוּסָ֖ה לֹ֣א תֵלֵכ֑וּן כִּֽי־_הֹלֵ֤ךְ_ לִפְנֵיכֶם֙ יְהוָ֔ה וּמְאַסִּפְכֶ֖ם אֱלֹהֵ֥י יִשְׂרָאֵֽל׃ ס (Isa. 52:12)
+NIV	But you will not leave in haste or go in flight. for the LORD _will go_ before you, the God of Israel will be your rear guard.
+ESV	For you shall not go out in haste, and you shall not go in flight, for the Lord _will go_ before you, and the God of Israel will be your rear guard.
+
+(x)	וְאַתָּ֞ה אַל־תִּתְפַּלֵּ֣ל׀ בְּעַד־הָעָ֣ם הַזֶּ֗ה וְאַל־תִּשָּׂ֧א בַעֲדָ֛ם רִנָּ֥ה וּתְפִלָּ֖ה וְאַל־תִּפְגַּע־בִּ֑י כִּי־אֵינֶ֥נִּי _שֹׁמֵ֖עַ_ אֹתָֽךְ׃ (Jer. 7:16)
+NIV	“So do not pray for this people nor offer any plea or petition for them. do not plead with me, for I will not listen to you.
+ESV	“As for you, do not pray for this people, or lift up a cry or prayer for them, and do not intercede with me, for I will not hear you.
+
+(x)	וְאַתָּ֗ה אַל־תִּתְפַּלֵּל֙ בְּעַד־הָעָ֣ם הַזֶּ֔ה וְאַל־תִּשָּׂ֥א בַעֲדָ֖ם רִנָּ֣ה וּתְפִלָּ֑ה כִּ֣י אֵינֶ֣נִּי _שֹׁמֵ֗עַ_ בְּעֵ֛ת קָרְאָ֥ם אֵלַ֖י בְּעַ֥ד רָעָתָֽם׃ ס (Jer. 11:14)
+NIV	“Do not pray for this people nor offer any plea or petition for them, because I will not listen when they call to me in the time of their distress.
+ESV	“Therefore do not pray for this people, or lift up a cry or prayer on their behalf, for I will not listen when they call to me in the time of their trouble.
+
+(x)	וְאַתָּ֡ה אַל־תִּירָא֩ עַבְדִּ֨י יַעֲקֹ֤ב נְאֻם־יְהֹוָה֙ וְאַל־תֵּחַ֣ת יִשְׂרָאֵ֔ל כִּ֠י הִנְנִ֤י _מֹושִֽׁיעֲךָ֙_ מֵֽרָחֹ֔וק וְאֶֽת־זַרְעֲךָ֖ מֵאֶ֣רֶץ שִׁבְיָ֑ם וְשָׁ֧ב יַעֲקֹ֛ב וְשָׁקַ֥ט וְשַׁאֲנַ֖ן וְאֵ֥ין מַחֲרִֽיד׃ (Jer. 30:10)
+NIV	“‘So do not fear, O Jacob my servant. do not be dismayed, O Israel,’ declares the LORD. ‘I will surely save you out of a distant place, your descendants from the land of their exile. Jacob will again have peace and security, and no-one will make him afraid.
+ESV	“Then fear not, O Jacob my servant, declares the Lord, nor be dismayed, O Israel. for behold, I _will save_ you from far away, and your offspring from the land of their captivity. Jacob shall return and have quiet and ease, and none shall make him afraid.
+
+(x)	וְזֹאת־לָכֶ֤ם הָאֹות֙ נְאֻם־יְהוָ֔ה כִּֽי־_פֹקֵ֥ד_ אֲנִ֛י עֲלֵיכֶ֖ם בַּמָּקֹ֣ום הַזֶּ֑ה לְמַ֨עַן֙ תֵּֽדְע֔וּ כִּי֩ קֹ֨ום יָק֧וּמוּ דְבָרַ֛י עֲלֵיכֶ֖ם לְרָעָֽה׃ ס (Jer. 44:29)
+NIV	“‘This will be the sign to you that I _will punish_ you in this place,’ declares the LORD, ‘so that you will know that my threats of harm against you will surely stand.’
+ESV	This shall be the sign to you, declares the Lord, that I _will punish_ you in this place, in order that you may know that my words will surely stand against you for harm:
+
+(x)	וְ֠אַתָּה אַל־תִּירָ֞א עַבְדִּ֤י יַֽעֲקֹב֙ וְאַל־תֵּחַ֣ת יִשְׂרָאֵ֔ל כִּ֠י הִנְנִ֤י _מֹושִֽׁעֲךָ֙_ מֵֽרָחֹ֔וק וְאֶֽת־זַרְעֲךָ֖ מֵאֶ֣רֶץ שִׁבְיָ֑ם וְשָׁ֧ב יַעֲקֹ֛וב וְשָׁקַ֥ט וְשַׁאֲנַ֖ן וְאֵ֥ין מַחֲרִֽיד׃ ס (Jer. 46:27)
+NIV	“Do not fear, O Jacob my servant. do not be dismayed, O Israel. I will surely save you out of a distant place, and your descendants from the land of their exile. Jacob will again have peace and security, and no-one will make him afraid.
+ESV	“But fear not, O Jacob my servant, nor be dismayed, O Israel, for behold, I _will save_ you from far away, and your offspring from the land of their captivity. Jacob shall return and have quiet and ease, and none shall make him afraid.
+
+(x)	וְאַתֶּ֨ם בֵּֽית־יִשְׂרָאֵ֜ל כֹּֽה־אָמַ֣ר׀ אֲדֹנָ֣י יְהֹוִ֗ה אִ֤ישׁ גִּלּוּלָיו֙ לְכ֣וּ עֲבֹ֔דוּ וְאַחַ֕ר אִם־אֵינְכֶ֖ם _שֹׁמְעִ֣ים_ אֵלָ֑י וְאֶת־שֵׁ֤ם קָדְשִׁי֙ לֹ֣א תְחַלְּלוּ־עֹ֔וד בְּמַתְּנֹֽותֵיכֶ֖ם וּבְגִלּוּלֵיכֶֽם׃ (Ezek. 20:39)
+NIV	“‘As for you, O house of Israel, this is what the Sovereign LORD says: Go and serve your idols, every one of you! But afterwards you will surely listen to me and no longer profane my holy name with your gifts and idols.
+ESV	“As for you, O house of Israel, thus says the Lord God: Go serve every one of you his idols, now and hereafter, if you will not listen to me. but my holy name you shall no more profane with your gifts and your idols.
+
+(x)	כִּ֡י הִנְנִי֩ _מֵקִ֨ים_ עֲלֵיכֶ֜ם בֵּ֣ית יִשְׂרָאֵ֗ל נְאֻם־יְהוָ֛ה אֱלֹהֵ֥י הַצְּבָאֹ֖ות גֹּ֑וי וְלָחֲצ֥וּ אֶתְכֶ֛ם מִלְּבֹ֥וא חֲמָ֖ת עַד־נַ֥חַל הָעֲרָבָֽה׃ ס (Amos 6:14)
+NIV	For the LORD God Almighty declares, “I _will stir up_ a nation against you, O house of Israel, that will oppress you all the way from Lebo Hamath to the valley of the Arabah.”
+ESV	“For behold, I _will raise up_ against you a nation, O house of Israel,” declares the Lord, the God of hosts. “and they shall oppress you from Lebo-hamath to the Brook of the Arabah.”
+
+(x)	כִּ֠י הִנְנִ֨י _מֵנִ֤יף_ אֶת־יָדִי֙ עֲלֵיהֶ֔ם וְהָי֥וּ שָׁלָ֖ל לְעַבְדֵיהֶ֑ם וִֽידַעְתֶּ֕ם כִּֽי־יְהוָ֥ה צְבָאֹ֖ות שְׁלָחָֽנִי׃ ס (Zech. 2:13)
+NIV	I will surely raise my hand against them so that their slaves will plunder them. Then you will know that the LORD Almighty has sent me.
+ESV	“Behold, I _will shake_ my hand over them, and they shall become plunder for those who served them. Then you will know that the Lord of hosts has sent me.

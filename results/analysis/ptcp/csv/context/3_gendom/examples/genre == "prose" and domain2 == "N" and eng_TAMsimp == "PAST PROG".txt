@@ -1,0 +1,62 @@
+genre == "prose" and domain2 == "N" and eng_TAMsimp == "PAST PROG"
+15 of 85
+
+(x)	וַ֠יָּשֻׁבוּ וַיָּבֹ֜אוּ אֶל־עֵ֤ין מִשְׁפָּט֙ הִ֣וא קָדֵ֔שׁ וַיַּכּ֕וּ אֶֽת־כָּל־שְׂדֵ֖ה הָעֲמָלֵקִ֑י וְגַם֙ אֶת־הָ֣אֱמֹרִ֔י הַ_יֹּשֵׁ֖ב_ בְּחַֽצְצֹ֥ן תָּמָֽר׃ (Gen. 14:7)
+NIV	Then they turned back and went to En Mishpat ( that is, Kadesh ), and they conquered the whole territory of the Amalekites, as well as the Amorites _who were living_ in Hazazon Tamar.
+ESV	Then they turned back and came to En-mishpat ( that is, Kadesh ) and defeated all the country of the Amalekites, and also the Amorites _who were dwelling_ in Hazazon-tamar.
+
+(x)	וְיִצְחָק֙ בָּ֣א מִבֹּ֔וא בְּאֵ֥ר לַחַ֖י רֹאִ֑י וְה֥וּא _יֹושֵׁ֖ב_ בְּאֶ֥רֶץ הַנֶּֽגֶב׃ (Gen. 24:62)
+NIV	Now Isaac had come from Beer Lahai Roi, for he _was living_ in the Negev.
+ESV	Now Isaac had returned from Beer-lahai-roi and _was dwelling_ in the Negeb.
+
+(x)	וַיִּישָׁ֕ן וַֽיַּחֲלֹ֖ם שֵׁנִ֑ית וְהִנֵּ֣ה׀ שֶׁ֣בַע שִׁבֳּלִ֗ים _עֹלֹ֛ות_ בְּקָנֶ֥ה אֶחָ֖ד בְּרִיאֹ֥ות וְטֹבֹֽות׃ (Gen. 41:5)
+NIV	He fell asleep again and had a second dream: Seven heads of grain, healthy and good, _were growing_ on a single stalk.
+ESV	And he fell asleep and dreamed a second time. And behold, seven ears of grain, plump and good, _were growing_ on one stalk.
+
+(x)	וּדְבֹורָה֙ אִשָּׁ֣ה נְבִיאָ֔ה אֵ֖שֶׁת לַפִּידֹ֑ות הִ֛יא _שֹׁפְטָ֥ה_ אֶת־יִשְׂרָאֵ֖ל בָּעֵ֥ת הַהִֽיא׃ (Judg. 4:4)
+NIV	Deborah, a prophetess, the wife of Lappidoth, _was leading_ Israel at that time.
+ESV	Now Deborah, a prophetess, the wife of Lappidoth, _was judging_ Israel at that time.
+
+(x)	וַתָּ֣קָם חַנָּ֔ה אַחֲרֵ֛י אָכְלָ֥ה בְשִׁלֹ֖ה וְאַחֲרֵ֣י שָׁתֹ֑ה וְעֵלִ֣י הַכֹּהֵ֗ן _יֹשֵׁב֙_ עַל־הַכִּסֵּ֔א עַל־מְזוּזַ֖ת הֵיכַ֥ל יְהוָֽה׃ (I Sam. 1:9)
+NIV	Once when they had finished eating and drinking in Shiloh, Hannah stood up. Now Eli the priest _was sitting_ on a chair by the doorpost of the LORD’s temple.
+ESV	After they had eaten and drunk in Shiloh, Hannah rose. Now Eli the priest _was sitting_ on the seat beside the doorpost of the temple of the Lord.
+
+(x)	וּבֵ֣ית שֶׁ֔מֶשׁ _קֹצְרִ֥ים_ קְצִיר־חִטִּ֖ים בָּעֵ֑מֶק וַיִּשְׂא֣וּ אֶת־עֵינֵיהֶ֗ם וַיִּרְאוּ֙ אֶת־הָ֣אָרֹ֔ון וַֽיִּשְׂמְח֖וּ לִרְאֹֽות׃ (I Sam. 6:13)
+NIV	Now the people of Beth Shemesh _were harvesting_ their wheat in the valley, and when they looked up and saw the ark, they rejoiced at the sight.
+ESV	Now the people of Beth-shemesh _were reaping_ their wheat harvest in the valley. And when they lifted up their eyes and saw the ark, they rejoiced to see it.
+
+(x)	וְשָׁא֗וּל _יֹושֵׁב֙_ בִּקְצֵ֣ה הַגִּבְעָ֔ה תַּ֥חַת הָרִמֹּ֖ון אֲשֶׁ֣ר בְּמִגְרֹ֑ון וְהָעָם֙ אֲשֶׁ֣ר עִמֹּ֔ו כְּשֵׁ֥שׁ מֵאֹ֖ות אִֽישׁ׃ (I Sam. 14:2)
+NIV	Saul _was staying_ on the outskirts of Gibeah under a pomegranate tree in Migron. With him were about six hundred men,
+ESV	Saul _was staying_ in the outskirts of Gibeah in the pomegranate cave at Migron. The people who were with him were about six hundred men,
+
+(x)	וַיִּשְׁמַ֥ע דָּוִ֖ד בַּמִּדְבָּ֑ר כִּֽי־_גֹזֵ֥ז_ נָבָ֖ל אֶת־צֹאנֹֽו׃ (I Sam. 25:4)
+NIV	While David was in the desert, he heard that Nabal _was shearing_ sheep.
+ESV	David heard in the wilderness that Nabal _was shearing_ his sheep.
+
+(x)	וִיהֹונָתָ֨ן וַאֲחִימַ֜עַץ _עֹמְדִ֣ים_ בְּעֵין־רֹגֵ֗ל וְהָלְכָ֤ה הַשִּׁפְחָה֙ וְהִגִּ֣ידָה לָהֶ֔ם וְהֵם֙ יֵֽלְכ֔וּ וְהִגִּ֖ידוּ לַמֶּ֣לֶךְ דָּוִ֑ד כִּ֣י לֹ֥א יוּכְל֛וּ לְהֵרָאֹ֖ות לָבֹ֥וא הָעִֽירָה׃ (II Sam. 17:17)
+NIV	Jonathan and Ahimaaz _were staying_ at En Rogel. A servant girl was to go and inform them, and they were to go and tell King David, for they could not risk being seen entering the city.
+ESV	Now Jonathan and Ahimaaz _were waiting_ at En-rogel. A female servant was to go and tell them, and they were to go and tell King David, for they were not to be seen entering the city.
+
+(x)	וַתָּבֹ֨א בַת־שֶׁ֤בֶע אֶל־הַמֶּ֨לֶךְ֙ הַחַ֔דְרָה וְהַמֶּ֖לֶךְ זָקֵ֣ן מְאֹ֑ד וַֽאֲבִישַׁג֙ הַשּׁ֣וּנַמִּ֔ית _מְשָׁרַ֖ת_ אֶת־הַמֶּֽלֶךְ׃ (I Kgs. 1:15)
+NIV	So Bathsheba went to see the aged king in his room, where Abishag the Shunammite was attending him.
+ESV	So Bathsheba went to the king in his chamber ( now the king was very old, and Abishag the Shunammite _was attending to_ the king ).
+
+(x)	וַיָּשֻׁ֣בוּ אֵלָ֔יו וְה֖וּא _יֹשֵׁ֣ב_ בִּירִיחֹ֑ו וַיֹּ֣אמֶר אֲלֵהֶ֔ם הֲלֹֽוא־אָמַ֥רְתִּי אֲלֵיכֶ֖ם אַל־תֵּלֵֽכוּ׃ (II Kgs. 2:18)
+NIV	When they returned to Elisha, who _was staying_ in Jericho, he said to them, “Didn’t I tell you not to go?”
+ESV	And they came back to him while he _was staying_ at Jericho, and he said to them, “Did I not say to you, ‘Do not go’?”
+
+(x)	וַ֠יְהִי ה֥וּא _מְסַפֵּ֣ר_ לַמֶּלֶךְ֮ אֵ֣ת אֲשֶׁר־הֶחֱיָ֣ה אֶת־הַמֵּת֒ וְהִנֵּ֨ה הָאִשָּׁ֜ה אֲשֶׁר־הֶחֱיָ֤ה אֶת־בְּנָהּ֙ צֹעֶ֣קֶת אֶל־הַמֶּ֔לֶךְ עַל־בֵּיתָ֖הּ וְעַל־שָׂדָ֑הּ וַיֹּ֤אמֶר גֵּֽחֲזִי֙ אֲדֹנִ֣י הַמֶּ֔לֶךְ זֹ֚את הָֽאִשָּׁ֔ה וְזֶה־בְּנָ֖הּ אֲשֶׁר־הֶחֱיָ֥ה אֱלִישָֽׁע׃ (II Kgs. 8:5)
+NIV	Just as Gehazi was _telling_ the king how Elisha had restored the dead to life, the woman whose son Elisha had brought back to life came to beg the king for her house and land. Gehazi said, “This is the woman, my lord the king, and this is her son whom Elisha restored to life.”
+ESV	And while he was _telling_ the king how Elisha had restored the dead to life, behold, the woman whose son he had restored to life appealed to the king for her house and her land. And Gehazi said, “My lord, O king, here is the woman, and here is her son whom Elisha restored to life.”
+
+(x)	וּבְהִקָּבֵ֥ץ בְּתוּלֹ֖ות שֵׁנִ֑ית וּמָרְדֳּכַ֖י _יֹשֵׁ֥ב_ בְּשַֽׁעַר־הַמֶּֽלֶךְ׃ (Esth. 2:19)
+NIV	When the virgins were assembled a second time, Mordecai _was sitting_ at the king’s gate.
+ESV	Now when the virgins were gathered together the second time, Mordecai _was sitting_ at the king’s gate.
+
+(x)	וַיְהִ֞י כַּאֲשֶׁ֧ר שָׁמַ֣ע סַנְבַלַּ֗ט כִּֽי־אֲנַ֤חְנוּ _בֹונִים֙_ אֶת־הַ֣חֹומָ֔ה וַיִּ֣חַר לֹ֔ו וַיִּכְעַ֖ס הַרְבֵּ֑ה וַיַּלְעֵ֖ג עַל־הַיְּהוּדִֽים׃ (Neh. 3:33)
+NIV	When Sanballat heard that we _were rebuilding_ the wall, he became angry and was greatly incensed. He ridiculed the Jews,
+ESV	Now when Sanballat heard that we _were building_ the wall, he was angry and greatly enraged, and he jeered at the Jews.
+
+(x)	וַיָּקֻ֨מוּ אֲנָשִׁ֜ים מֵרָאשֵׁ֣י בְנֵֽי־אֶפְרַ֗יִם עֲזַרְיָ֤הוּ בֶן־יְהֹֽוחָנָן֙ בֶּרֶכְיָ֣הוּ בֶן־מְשִׁלֵּמֹ֔ות וִֽיחִזְקִיָּ֨הוּ֙ בֶּן־שַׁלֻּ֔ם וַעֲמָשָׂ֖א בֶּן־חַדְלָ֑י עַל־הַ_בָּאִ֖ים_ מִן־הַצָּבָֽא׃ (II Chr. 28:12)
+NIV	Then some of the leaders in Ephraim — Azariah son of Jehohanan, Berekiah son of Meshillemoth, Jehizkiah son of Shallum, and Amasa son of Hadlai — confronted those _who were arriving_ from the war.
+ESV	Certain chiefs also of the men of Ephraim, Azariah the son of Johanan, Berechiah the son of Meshillemoth, Jehizkiah the son of Shallum, and Amasa the son of Hadlai, stood up against those _who were coming_ from the war

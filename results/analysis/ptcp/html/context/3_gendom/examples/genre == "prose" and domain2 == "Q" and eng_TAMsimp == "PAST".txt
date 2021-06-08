@@ -1,0 +1,62 @@
+genre == "prose" and domain2 == "Q" and eng_TAMsimp == "PAST"
+15 of 65
+
+(x)	וְאֵ֨ת כָּל־נֶ֤פֶשׁ הַֽחַיָּה֙ אֲשֶׁ֣ר אִתְּכֶ֔ם בָּעֹ֧וף בַּבְּהֵמָ֛ה וּֽבְכָל־חַיַּ֥ת הָאָ֖רֶץ אִתְּכֶ֑ם מִכֹּל֙ _יֹצְאֵ֣י_ הַתֵּבָ֔ה לְכֹ֖ל חַיַּ֥ת הָאָֽרֶץ׃ (Gen. 9:10)
+NIV	and with every living creature that was with you — the birds, the livestock and all the wild animals, all _those that came out of_ the ark with you — every living creature on earth.
+ESV	and with every living creature that is with you, the birds, the livestock, and every beast of the earth with you, as many as _came out_ of the ark. it is for every beast of the earth.
+
+(x)	וְהִנֵּ֞ה שֶֽׁבַע־פָּרֹ֤ות אֲחֵרֹות֙ _עֹלֹ֣ות_ אַחֲרֵיהֶ֔ן דַּלֹּ֨ות וְרָעֹ֥ות תֹּ֛אַר מְאֹ֖ד וְרַקֹּ֣ות בָּשָׂ֑ר לֹֽא־רָאִ֧יתִי כָהֵ֛נָּה בְּכָל־אֶ֥רֶץ מִצְרַ֖יִם לָרֹֽעַ׃ (Gen. 41:19)
+NIV	After them, seven other cows _came up_ — scrawny and very ugly and lean. I had never seen such ugly cows in all the land of Egypt.
+ESV	Seven other cows _came up_ after them, poor and very ugly and thin, such as I had never seen in all the land of Egypt.
+
+(x)	כִּ֣י צֹרְרִ֥ים הֵם֙ לָכֶ֔ם בְּנִכְלֵיהֶ֛ם אֲשֶׁר־נִכְּל֥וּ לָכֶ֖ם עַל־דְּבַר־פְּעֹ֑ור וְעַל־דְּבַ֞ר כָּזְבִּ֨י בַת־נְשִׂ֤יא מִדְיָן֙ אֲחֹתָ֔ם הַ_מֻּכָּ֥ה_ בְיֹום־הַמַּגֵּפָ֖ה עַל־דְּבַר־פְּעֹֽור׃ (Num. 25:18)
+NIV	because they treated you as enemies when they deceived you in the affair of Peor and their sister Cozbi, the daughter of a Midianite leader, the _woman who was killed_ when the plague came as a result of Peor.”
+ESV	for they have harassed you with their wiles, with which they beguiled you in the matter of Peor, and in the matter of Cozbi, the daughter of the chief of Midian, their sister, _who was killed_ on the day of the plague on account of Peor.”
+
+(x)	אִם־יִרְא֨וּ הָאֲנָשִׁ֜ים הָ_עֹלִ֣ים_ מִמִּצְרַ֗יִם מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה אֵ֚ת הָאֲדָמָ֔ה אֲשֶׁ֥ר נִשְׁבַּ֛עְתִּי לְאַבְרָהָ֥ם לְיִצְחָ֖ק וּֽלְיַעֲקֹ֑ב כִּ֥י לֹא־מִלְא֖וּ אַחֲרָֽי׃ (Num. 32:11)
+NIV	‘Because they have not followed me wholeheartedly, not one of the men twenty years old or more _who came up_ out of Egypt will see the land I promised on oath to Abraham, Isaac and Jacob —
+ESV	‘Surely none of the men _who came up_ out of Egypt, from twenty years old and upward, shall see the land that I swore to give to Abraham, to Isaac, and to Jacob, because they have not wholly followed me,
+
+(x)	וַתִּקְרְב֥וּן וַתַּֽעַמְד֖וּן תַּ֣חַת הָהָ֑ר וְהָהָ֞ר _בֹּעֵ֤ר_ בָּאֵשׁ֙ עַד־לֵ֣ב הַשָּׁמַ֔יִם חֹ֖שֶׁךְ עָנָ֥ן וַעֲרָפֶֽל׃ (Deut. 4:11)
+NIV	You came near and stood at the foot of the mountain while it blazed with fire to the very heavens, with black clouds and deep darkness.
+ESV	And you came near and stood at the foot of the mountain, while the mountain _burned_ with fire to the heart of heaven, wrapped in darkness, cloud, and gloom.
+
+(x)	אָ֠נֹכִי _עֹמֵ֨ד_ בֵּין־יְהוָ֤ה וּבֵֽינֵיכֶם֙ בָּעֵ֣ת הַהִ֔וא לְהַגִּ֥יד לָכֶ֖ם אֶת־דְּבַ֣ר יְהוָ֑ה כִּ֤י יְרֵאתֶם֙ מִפְּנֵ֣י הָאֵ֔שׁ וְלֹֽא־עֲלִיתֶ֥ם בָּהָ֖ר לֵאמֹֽר׃ ס (Deut. 5:5)
+NIV	( At that time I _stood_ between the LORD and you to declare to you the word of the LORD, because you were afraid of the fire and did not go up the mountain. ) And he said:
+ESV	while I stood between the Lord and you at that time, to declare to you the word of the Lord. For you were afraid because of the fire, and you did not go up into the mountain. He said:
+
+(x)	וּבְתַבְעֵרָה֙ וּבְמַסָּ֔ה וּבְקִבְרֹ֖ת הַֽתַּאֲוָ֑ה _מַקְצִפִ֥ים_ הֱיִיתֶ֖ם אֶת־יְהוָֽה׃ (Deut. 9:22)
+NIV	You also made the LORD angry at Taberah, at Massah and at Kibroth Hattaavah.
+ESV	“At Taberah also, and at Massah and at Kibroth-hattaavah you provoked the Lord to wrath.
+
+(x)	כִּ֚י יְהוָ֣ה אֱלֹהֵ֔ינוּ הוּא֩ הַ_מַּעֲלֶ֨ה_ אֹתָ֧נוּ וְאֶת־אֲבֹותֵ֛ינוּ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֣ית עֲבָדִ֑ים וַאֲשֶׁ֧ר עָשָׂ֣ה לְעֵינֵ֗ינוּ אֶת־הָאֹתֹ֤ות הַגְּדֹלֹות֙ הָאֵ֔לֶּה וַֽיִּשְׁמְרֵ֗נוּ בְּכָל־הַדֶּ֨רֶךְ֙ אֲשֶׁ֣ר הָלַ֣כְנוּ בָ֔הּ וּבְכֹל֙ הָֽעַמִּ֔ים אֲשֶׁ֥ר עָבַ֖רְנוּ בְּקִרְבָּֽם׃ (Josh. 24:17)
+NIV	It was the LORD our God himself who brought us and our fathers up out of Egypt, from that land of slavery, and performed those great signs before our eyes. He protected us on our entire journey and among all the nations through which we travelled.
+ESV	for it is the Lord our God who brought us and our fathers up from the land of Egypt, out of the house of slavery, and who did those great signs in our sight and preserved us in all the way that we went, and among all the peoples through whom we passed.
+
+(x)	וְלָאֲתֹנֹ֞ות הָ_אֹבְדֹ֣ות_ לְךָ֗ הַיֹּום֙ שְׁלֹ֣שֶׁת הַיָּמִ֔ים אַל־תָּ֧שֶׂם אֶֽת־לִבְּךָ֛ לָהֶ֖ם כִּ֣י נִמְצָ֑אוּ וּלְמִי֙ כָּל־חֶמְדַּ֣ת יִשְׂרָאֵ֔ל הֲלֹ֣וא לְךָ֔ וּלְכֹ֖ל בֵּ֥ית אָבִֽיךָ׃ ס (I Sam. 9:20)
+NIV	As for the donkeys you _lost_ three days ago, do not worry about them. they have been found. And to whom is all the desire of Israel turned, if not to you and all your father’s family?”
+ESV	As for your donkeys _that were lost_ three days ago, do not set your mind on them, for they have been found. And for whom is all that is desirable in Israel? Is it not for you and for all your father’s house?”
+
+(x)	גַּם־אֶתְמֹ֣ול גַּם־שִׁלְשֹׁ֗ום בִּהְיֹ֨ות שָׁא֥וּל מֶ֨לֶךְ֙ עָלֵ֔ינוּ אַתָּ֗ה הָיִ֛יתָ הַמֹּוצִ֥יא וְהַמֵּבִ֖יא אֶת־יִשְׂרָאֵ֑ל וַיֹּ֨אמֶר יְהוָ֜ה לְךָ֗ אַתָּ֨ה תִרְעֶ֤ה אֶת־עַמִּי֙ אֶת־יִשְׂרָאֵ֔ל וְאַתָּ֛ה תִּהְיֶ֥ה לְנָגִ֖יד עַל־יִשְׂרָאֵֽל׃ (II Sam. 5:2)
+NIV	In the past, while Saul was king over us, you were the one _who led_ Israel on their military campaigns. And the LORD said to you, ‘You shall shepherd my people Israel, and you shall become their ruler.’”
+ESV	In times past, when Saul was king over us, it was you _who led out_ and brought in Israel. And the Lord said to you, ‘You shall be shepherd of my people Israel, and you shall be prince over Israel.’”
+
+(x)	וַיְהִ֤י הָֽאֶחָד֙ מַפִּ֣יל הַקֹּורָ֔ה וְאֶת־הַבַּרְזֶ֖ל נָפַ֣ל אֶל־הַמָּ֑יִם וַיִּצְעַ֥ק וַיֹּ֛אמֶר אֲהָ֥הּ אֲדֹנִ֖י וְה֥וּא _שָׁאֽוּל_׃ (II Kgs. 6:5)
+NIV	As one of them was cutting down a tree, the iron axe-head fell into the water. “Oh, my lord,” he cried out, “it _was borrowed_!”
+ESV	But as one was felling a log, his axe head fell into the water, and he cried out, “Alas, my master! It _was borrowed_.”
+
+(x)	וַאֲנִ֣י דָנִיֵּ֗אל נִהְיֵ֤יתִי וְנֶֽחֱלֵ֨יתִי֙ יָמִ֔ים וָאָק֕וּם וָאֶֽעֱשֶׂ֖ה אֶת־מְלֶ֣אכֶת הַמֶּ֑לֶךְ וָאֶשְׁתֹּומֵ֥ם עַל־הַמַּרְאֶ֖ה וְאֵ֥ין _מֵבִֽין_׃ פ (Dan. 8:27)
+NIV	I, Daniel, was exhausted and lay ill for several days. Then I got up and went about the king’s business. I was appalled by the vision. it was beyond understanding.
+ESV	And I, Daniel, was overcome and lay sick for some days. Then I rose and went about the king’s business, but I was appalled by the vision and did not understand it.
+
+(x)	וְהִנֵּ֗ה כִּדְמוּת֙ בְּנֵ֣י אָדָ֔ם _נֹגֵ֖עַ_ עַל־שְׂפָתָ֑י וָאֶפְתַּח־פִּ֗י וָאֲדַבְּרָה֙ וָאֹֽמְרָה֙ אֶל־הָעֹמֵ֣ד לְנֶגְדִּ֔י אֲדֹנִ֗י בַּמַּרְאָה֙ נֶהֶפְכ֤וּ צִירַי֙ עָלַ֔י וְלֹ֥א עָצַ֖רְתִּי כֹּֽחַ׃ (Dan. 10:16)
+NIV	Then one who looked like a man _touched_ my lips, and I opened my mouth and began to speak. I said to the one standing before me, “I am overcome with anguish because of the vision, my lord, and I am helpless.
+ESV	And behold, one in the likeness of the children of man _touched_ my lips. Then I opened my mouth and spoke. I said to him who stood before me, “O my lord, by reason of the vision pains have come upon me, and I retain no strength.
+
+(x)	וּבְנֵיהֶ֗ם חֲצִי֙ _מְדַבֵּ֣ר_ אַשְׁדֹּודִ֔ית וְאֵינָ֥ם מַכִּירִ֖ים לְדַבֵּ֣ר יְהוּדִ֑ית וְכִלְשֹׁ֖ון עַ֥ם וָעָֽם׃ (Neh. 13:24)
+NIV	Half of their children _spoke_ the language of Ashdod or the language of one of the other peoples, and did not know how to speak the language of Judah.
+ESV	And half of their children _spoke_ the language of Ashdod, and they could not speak the language of Judah, but only the language of each people.
+
+(x)	וְאֶל־מֶ֣לֶךְ יְהוּדָ֗ה הַ_שֹּׁלֵ֤חַ_ אֶתְכֶם֙ לִדְרֹ֣ושׁ בַּֽיהוָ֔ה כֹּ֥ה תֹאמְר֖וּ אֵלָ֑יו ס כֹּֽה־אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל הַדְּבָרִ֖ים אֲשֶׁ֥ר שָׁמָֽעְתָּ׃ (II Chr. 34:26)
+NIV	Tell the king of Judah, _who sent_ you to enquire of the LORD, ‘This is what the LORD, the God of Israel, says concerning the words you heard:
+ESV	But to the king of Judah, _who sent_ you to inquire of the Lord, thus shall you say to him, Thus says the Lord, the God of Israel: Regarding the words that you have heard,

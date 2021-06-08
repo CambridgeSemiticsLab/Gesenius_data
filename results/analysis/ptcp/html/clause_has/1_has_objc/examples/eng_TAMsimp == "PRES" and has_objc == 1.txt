@@ -1,0 +1,102 @@
+eng_TAMsimp == "PRES" and has_objc == 1
+25 of 654
+
+(x)	הֵן֩ גֵּרַ֨שְׁתָּ אֹתִ֜י הַיֹּ֗ום מֵעַל֙ פְּנֵ֣י הָֽאֲדָמָ֔ה וּמִפָּנֶ֖יךָ אֶסָּתֵ֑ר וְהָיִ֜יתִי נָ֤ע וָנָד֙ בָּאָ֔רֶץ וְהָיָ֥ה כָל־_מֹצְאִ֖י_ יַֽהַרְגֵֽנִי׃ (Gen. 4:14)
+NIV	Today you are driving me from the land, and I will be hidden from your presence. I will be a restless wanderer on the earth, and whoever _finds_ me will kill me.”
+ESV	Behold, you have driven me today away from the ground, and from your face I shall be hidden. I shall be a fugitive and a wanderer on the earth, and whoever _finds_ me will kill me.”
+
+(x)	וְהִקְרִ֨יב מִזֶּ֣בַח הַשְּׁלָמִים֮ אִשֶּׁ֣ה לַיהוָה֒ חֶלְבֹּו֙ הָאַלְיָ֣ה תְמִימָ֔ה לְעֻמַּ֥ת הֶעָצֶ֖ה יְסִירֶ֑נָּה וְאֶת־הַחֵ֨לֶב֙ הַֽ_מְכַסֶּ֣ה_ אֶת־הַקֶּ֔רֶב וְאֵת֙ כָּל־הַחֵ֔לֶב אֲשֶׁ֖ר עַל־הַקֶּֽרֶב׃ (Lev. 3:9)
+NIV	From the fellowship offering he is to bring a sacrifice made to the LORD by fire: its fat, the entire fat tail cut off close to the backbone, all the fat _that covers_ the inner parts or is connected to them,
+ESV	Then from the sacrifice of the peace offering he shall offer as a food offering to the Lord its fat. he shall remove the whole fat tail, cut off close to the backbone, and the fat _that covers_ the entrails and all the fat that is on the entrails
+
+(x)	וְ_נֹקֵ֤ב_ שֵׁם־יְהוָה֙ מֹ֣ות יוּמָ֔ת רָגֹ֥ום יִרְגְּמוּ־בֹ֖ו כָּל־הָעֵדָ֑ה כַּגֵּר֙ כָּֽאֶזְרָ֔ח בְּנָקְבֹו־שֵׁ֖ם יוּמָֽת׃ (Lev. 24:16)
+NIV	anyone _who blasphemes_ the name of the LORD must be put to death. The entire assembly must stone him. Whether an alien or native-born, when he blasphemes the Name, he must be put to death.
+ESV	_Whoever blasphemes_ the name of the Lord shall surely be put to death. All the congregation shall stone him. The sojourner as well as the native, when he blasphemes the Name, shall be put to death.
+
+(x)	וְעַתָּה֙ יִשְׂרָאֵ֔ל מָ֚ה יְהוָ֣ה אֱלֹהֶ֔יךָ _שֹׁאֵ֖ל_ מֵעִמָּ֑ךְ כִּ֣י אִם־לְ֠יִרְאָה אֶת־יְהוָ֨ה אֱלֹהֶ֜יךָ לָלֶ֤כֶת בְּכָל־דְּרָכָיו֙ וּלְאַהֲבָ֣ה אֹתֹ֔ו וְלַֽעֲבֹד֙ אֶת־יְהוָ֣ה אֱלֹהֶ֔יךָ בְּכָל־לְבָבְךָ֖ וּבְכָל־נַפְשֶֽׁךָ׃ (Deut. 10:12)
+NIV	And now, O Israel, what does the LORD your God _ask_ of you but to fear the LORD your God, to walk in all his ways, to love him, to serve the LORD your God with all your heart and with all your soul,
+ESV	“And now, Israel, what does the Lord your God require of you, but to fear the Lord your God, to walk in all his ways, to love him, to serve the Lord your God with all your heart and with all your soul,
+
+(x)	וְלֹ֣א תָס֗וּר מִכָּל־הַדְּבָרִים֙ אֲשֶׁ֨ר אָנֹכִ֜י _מְצַוֶּ֥ה_ אֶתְכֶ֛ם הַיֹּ֖ום יָמִ֣ין וּשְׂמֹ֑אול לָלֶ֗כֶת אַחֲרֵ֛י אֱלֹהִ֥ים אֲחֵרִ֖ים לְעָבְדָֽם׃ ס (Deut. 28:14)
+NIV	Do not turn aside from any of the commands I _give_ you today, to the right or to the left, following other gods and serving them.
+ESV	and if you do not turn aside from any of the words that I _command_ you today, to the right hand or to the left, to go after other gods to serve them.
+
+(x)	וַתֹּ֗אמֶר שְׁאֵלָ֨ה אַחַ֤ת קְטַנָּה֙ אָֽנֹכִי֙ _שֹׁאֶ֣לֶת_ מֵֽאִתָּ֔ךְ אַל־תָּ֖שֶׁב אֶת־פָּנָ֑י וַיֹּֽאמֶר־לָ֤הּ הַמֶּ֨לֶךְ֙ שַׁאֲלִ֣י אִמִּ֔י כִּ֥י לֹֽא־אָשִׁ֖יב אֶת־פָּנָֽיִךְ׃ (I Kgs. 2:20)
+NIV	“I have one small request to make of you,” she said. “Do not refuse me.” The king replied, “Make it, my mother. I will not refuse you.”
+ESV	Then she said, “I have one small request to make of you. do not refuse me.” And the king said to her, “Make your request, my mother, for I will not refuse you.”
+
+(x)	בִּיבֹ֤שׁ קְצִירָהּ֙ תִּשָּׁבַ֔רְנָה נָשִׁ֕ים בָּאֹ֖ות _מְאִירֹ֣ות_ אֹותָ֑הּ כִּ֣י לֹ֤א עַם־בִּינֹות֙ ה֔וּא עַל־כֵּן֙ לֹֽא־יְרַחֲמֶ֣נּוּ עֹשֵׂ֔הוּ וְיֹצְרֹ֖ו לֹ֥א יְחֻנֶּֽנּוּ׃ ס (Isa. 27:11)
+NIV	When its twigs are dry, they are broken off and women come and _make fires_ with them. For this is a people without understanding. so their Maker has no compassion on them, and their Creator shows them no favour.
+ESV	When its boughs are dry, they are broken. women come and _make a fire_ of them. For this is a people without discernment. therefore he who made them will not have compassion on them. he who formed them will show them no favor.
+
+(x)	_יֹוצֵ֥ר_ אֹור֙ וּבֹורֵ֣א חֹ֔שֶׁךְ עֹשֶׂ֥ה שָׁלֹ֖ום וּבֹ֣ורֵא רָ֑ע אֲנִ֥י יְהוָ֖ה עֹשֶׂ֥ה כָל־אֵֽלֶּה׃ ס (Isa. 45:7)
+NIV	I _form_ the light and create darkness, I bring prosperity and create disaster. I, the LORD, do all these things.
+ESV	_I form_ light and create darkness, I make well-being and create calamity, I am the Lord, who does all these things.
+
+(x)	כִּי֩ כֹ֨ה אָמַ֜ר רָ֣ם וְנִשָּׂ֗א _שֹׁכֵ֥ן_ עַד֙ וְקָדֹ֣ושׁ שְׁמֹ֔ו מָרֹ֥ום וְקָדֹ֖ושׁ אֶשְׁכֹּ֑ון וְאֶת־דַּכָּא֙ וּשְׁפַל־ר֔וּחַ לְהַחֲיֹות֙ ר֣וּחַ שְׁפָלִ֔ים וּֽלְהַחֲיֹ֖ות לֵ֥ב נִדְכָּאִֽים׃ (Isa. 57:15)
+NIV	For this is what the high and lofty One says — he _who lives_ forever, whose name is holy: “I live in a high and holy place, but also with him who is contrite and lowly in spirit, to revive the spirit of the lowly and to revive the heart of the contrite.
+ESV	For thus says the One who is high and lifted up, _who inhabits_ eternity, whose name is Holy: “I dwell in the high and holy place, and also with him who is of a contrite and lowly spirit, to revive the spirit of the lowly, and to revive the heart of the contrite.
+
+(x)	הַבָּנִ֞ים _מְלַקְּטִ֣ים_ עֵצִ֗ים וְהָֽאָבֹות֙ מְבַעֲרִ֣ים אֶת־הָאֵ֔שׁ וְהַנָּשִׁ֖ים לָשֹׁ֣ות בָּצֵ֑ק לַעֲשֹׂ֨ות כַּוָּנִ֜ים לִמְלֶ֣כֶת הַשָּׁמַ֗יִם וְהַסֵּ֤ךְ נְסָכִים֙ לֵאלֹהִ֣ים אֲחֵרִ֔ים לְמַ֖עַן הַכְעִסֵֽנִי׃ (Jer. 7:18)
+NIV	The children _gather_ wood, the fathers light the fire, and the women knead the dough and make cakes of bread for the Queen of Heaven. They pour out drink offerings to other gods to provoke me to anger.
+ESV	The children _gather_ wood, the fathers kindle fire, and the women knead dough, to make cakes for the queen of heaven. And they pour out drink offerings to other gods, to provoke me to anger.
+
+(x)	כֹּ֣ה׀ אָמַ֣ר יְהוָ֗ה עֹוד֮ יִשָּׁמַ֣ע בַּמָּקֹום־הַזֶּה֒ אֲשֶׁר֙ אַתֶּ֣ם _אֹֽמְרִ֔ים_ חָרֵ֣ב ה֔וּא מֵאֵ֥ין אָדָ֖ם וּמֵאֵ֣ין בְּהֵמָ֑ה בְּעָרֵ֤י יְהוּדָה֙ וּבְחֻצֹ֣ות יְרוּשָׁלִַ֔ם הַֽנְשַׁמֹּ֗ות מֵאֵ֥ין אָדָ֛ם וּמֵאֵ֥ין יֹושֵׁ֖ב וּמֵאֵ֥ין בְּהֵמָֽה׃ (Jer. 33:10)
+NIV	“This is what the LORD _say_s: ‘You _say_ about this place, “It is a desolate waste, without men or animals.” Yet in the towns of Judah and the streets of Jerusalem that are deserted, inhabited by neither men nor animals, there will be heard once more
+ESV	“Thus _say_s the Lord: In this place of which you _say_, ‘It is a waste without man or beast,’ in the cities of Judah and the streets of Jerusalem that are desolate, without man or inhabitant or beast, there shall be heard again
+
+(x)	וְיָבֹ֣ואוּ אֵ֠לֶיךָ כִּמְבֹוא־עָ֞ם וְיֵשְׁב֤וּ לְפָנֶ֨יךָ֙ עַמִּ֔י וְשָֽׁמְעוּ֙ אֶת־דְּבָרֶ֔יךָ וְאֹותָ֖ם לֹ֣א יַֽעֲשׂ֑וּ כִּֽי־עֲגָבִ֤ים בְּפִיהֶם֙ הֵ֣מָּה _עֹשִׂ֔ים_ אַחֲרֵ֥י בִצְעָ֖ם לִבָּ֥ם הֹלֵֽךְ׃ (Ezek. 33:31)
+NIV	My people come to you, as they usually do, and sit before you to listen to your words, but they do not put them into practice. With their mouths they _express_ devotion, but their hearts are greedy for unjust gain.
+ESV	And they come to you as people come, and they sit before you as my people, and they hear what you say but they will not do it. for with lustful talk in their mouths they _act_. their heart is set on their gain.
+
+(x)	שֹׂ֥נְאֵי טֹ֖וב וְאֹ֣הֲבֵי רָ֑ע _גֹּזְלֵ֤י_ עֹורָם֙ מֵֽעֲלֵיהֶ֔ם וּשְׁאֵרָ֖ם מֵעַ֥ל עַצְמֹותָֽם׃ (Mic. 3:2)
+NIV	you who hate good and love evil. _who tear_ the skin from my people and the flesh from their bones.
+ESV	you who hate the good and love the evil, who tear the skin from off my people and their flesh from off their bones,
+
+(x)	כִּֽי־_יֹודֵ֣עַ_ יְ֭הוָה דֶּ֣רֶךְ צַדִּיקִ֑ים וְדֶ֖רֶךְ רְשָׁעִ֣ים תֹּאבֵֽד׃ (Psa. 1:6)
+NIV	For the LORD _watches over_ the way of the righteous, but the way of the wicked will perish.
+ESV	for the Lord _knows_ the way of the righteous, but the way of the wicked will perish.
+
+(x)	_כֹּנֵ֣ס_ כַּ֭נֵּד מֵ֣י הַיָּ֑ם נֹתֵ֖ן בְּאֹצָרֹ֣ות תְּהֹומֹֽות׃ (Psa. 33:7)
+NIV	_He gathers_ the waters of the sea into jars. he puts the deep into storehouses.
+ESV	He _gathers_ the waters of the sea as a heap. he puts the deeps in storehouses.
+
+(x)	אֱֽלֹהִ֗ים מִשָּׁמַיִם֮ הִשְׁקִ֪יף עַֽל־בְּנֵ֫י אָדָ֥ם לִ֭רְאֹות הֲיֵ֣שׁ מַשְׂכִּ֑יל _דֹּ֝רֵ֗שׁ_ אֶת־אֱלֹהִֽים׃ (Psa. 53:3)
+NIV	God looks down from heaven on the sons of men to see if there are any who understand, any _who seek_ God.
+ESV	God looks down from heaven on the children of man to see if there are any who understand, _who seek after_ God.
+
+(x)	בָּרֲכ֥וּ יְהוָ֗ה מַלְאָ֫כָ֥יו גִּבֹּ֣רֵי כֹ֭חַ _עֹשֵׂ֣י_ דְבָרֹ֑ו לִ֝שְׁמֹ֗עַ בְּקֹ֣ול דְּבָרֹֽו׃ (Psa. 103:20)
+NIV	Praise the LORD, you his angels, you mighty ones _who do_ his bidding, who obey his word.
+ESV	Bless the Lord, O you his angels, you mighty ones _who do_ his word, obeying the voice of his word!
+
+(x)	הַ_נֹּותֵ֥ן_ תְּשׁוּעָ֗ה לַמְּלָ֫כִ֥ים הַ֭פֹּוצֶה אֶת־דָּוִ֥ד עַבְדֹּ֗ו מֵחֶ֥רֶב רָעָֽה׃ (Psa. 144:10)
+NIV	to the One _who gives_ victory to kings, who delivers his servant David from the deadly sword.
+ESV	_who gives_ victory to kings, who rescues David his servant from the cruel sword.
+
+(x)	_עֹשֶׂ֣ה_ גְ֭דֹלֹות וְאֵ֣ין חֵ֑קֶר נִ֝פְלָאֹ֗ות עַד־אֵ֥ין מִסְפָּֽר׃ (Job 5:9)
+NIV	He _performs_ wonders that cannot be fathomed, miracles that cannot be counted.
+ESV	_who does_ great things and unsearchable, marvelous things without number:
+
+(x)	יַרְעֵ֤ם אֵ֣ל בְּ֭קֹולֹו נִפְלָאֹ֑ות _עֹשֶׂ֥ה_ גְ֝דֹלֹ֗ות וְלֹ֣א נֵדָֽע׃ (Job 37:5)
+NIV	God’s voice thunders in marvellous ways. he _does_ great things beyond our understanding.
+ESV	God thunders wondrously with his voice. he _does_ great things that we cannot comprehend.
+
+(x)	אֹהֵ֣ב מ֖וּסָר _אֹ֣הֵֽב_ דָּ֑עַת וְשֹׂנֵ֖א תֹוכַ֣חַת בָּֽעַר׃ (Prov. 12:1)
+NIV	Whoever _loves_ discipline _loves_ knowledge, but he who hates correction is stupid.
+ESV	Whoever _loves_ discipline _loves_ knowledge, but he who hates reproof is stupid.
+
+(x)	פֹּורֵ֣עַ מ֖וּסָר מֹואֵ֣ס נַפְשֹׁ֑ו וְ_שֹׁומֵ֥עַ_ תֹּ֝וכַ֗חַת קֹ֣ונֶה לֵּֽב׃ (Prov. 15:32)
+NIV	He who ignores discipline despises himself, but _whoever heeds_ correction gains understanding.
+ESV	Whoever ignores instruction despises himself, but _he who listens to_ reproof gains intelligence.
+
+(x)	שֹׁמֵ֣ר פִּ֭יו וּלְשֹׁונֹ֑ו _שֹׁמֵ֖ר_ מִצָּרֹ֣ות נַפְשֹֽׁו׃ (Prov. 21:23)
+NIV	He who guards his mouth and his tongue _keeps_ himself from calamity.
+ESV	Whoever _keeps_ his mouth and his tongue _keeps_ himself out of trouble.
+
+(x)	אֲשֶׁ֣ר חֹטֶ֗א _עֹשֶׂ֥ה_ רָ֛ע מְאַ֖ת וּמַאֲרִ֣יךְ לֹ֑ו כִּ֚י גַּם־יֹודֵ֣עַ אָ֔נִי אֲשֶׁ֤ר יִהְיֶה־טֹּוב֙ לְיִרְאֵ֣י הָאֱלֹהִ֔ים אֲשֶׁ֥ר יִֽירְא֖וּ מִלְּפָנָֽיו׃ (Eccl. 8:12)
+NIV	Although a wicked man _commits_ a hundred crimes and still lives a long time, I know that it will go better with God-fearing men, who are reverent before God.
+ESV	Though a sinner _does_ evil a hundred times and prolongs his life, yet I know that it will be well with those who fear God, because they fear before him.
+
+(x)	וְר֣וּחַ אֱלֹהִ֗ים לָֽבְשָׁה֙ אֶת־זְכַרְיָה֙ בֶּן־יְהֹויָדָ֣ע הַכֹּהֵ֔ן וַֽיַּעֲמֹ֖ד מֵעַ֣ל לָעָ֑ם וַיֹּ֨אמֶר לָהֶ֜ם כֹּ֣ה׀ אָמַ֣ר הָאֱלֹהִ֗ים לָמָה֩ אַתֶּ֨ם _עֹבְרִ֜ים_ אֶת־מִצְוֹ֤ת יְהוָה֙ וְלֹ֣א תַצְלִ֔יחוּ כִּֽי־עֲזַבְתֶּ֥ם אֶת־יְהוָ֖ה וַיַּֽעֲזֹ֥ב אֶתְכֶֽם׃ (II Chr. 24:20)
+NIV	Then the Spirit of God came upon Zechariah son of Jehoiada the priest. He stood before the people and said, “This is what God says: ‘Why do you disobey the LORD’s commands? You will not prosper. Because you have forsaken the LORD, he has forsaken you.’”
+ESV	Then the Spirit of God clothed Zechariah the son of Jehoiada the priest, and he stood above the people, and said to them, “Thus says God, ‘Why do you break the commandments of the Lord, so that you cannot prosper? Because you have forsaken the Lord, he has forsaken you.’”

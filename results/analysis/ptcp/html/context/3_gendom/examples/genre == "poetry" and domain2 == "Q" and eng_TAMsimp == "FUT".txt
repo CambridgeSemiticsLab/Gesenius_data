@@ -1,0 +1,34 @@
+genre == "poetry" and domain2 == "Q" and eng_TAMsimp == "FUT"
+8 of 8
+
+(x)	אִם־תַּחֲנֶ֬ה עָלַ֨י׀ מַחֲנֶה֮ לֹֽא־יִירָ֪א לִ֫בִּ֥י אִם־תָּק֣וּם עָ֭לַי מִלְחָמָ֑ה בְּ֝זֹ֗את אֲנִ֣י _בֹוטֵֽחַ_׃ (Psa. 27:3)
+NIV	Though an army besiege me, my heart will not fear. though war break out against me, even then will I be confident.
+ESV	Though an army encamp against me, my heart shall not fear. though war arise against me, yet I _will be confident_.
+
+(x)	אַךְ־בְּצֶ֤לֶם׀ יִֽתְהַלֶּךְ־אִ֗ישׁ אַךְ־הֶ֥בֶל יֶהֱמָי֑וּן יִ֝צְבֹּ֗ר וְֽלֹא־יֵדַ֥ע מִי־_אֹסְפָֽם_׃ (Psa. 39:7)
+NIV	Man is a mere phantom as he goes to and fro: He bustles about, but only in vain. he heaps up wealth, not knowing who _will get_ it.
+ESV	Surely a man goes about as a shadow! Surely for nothing they are in turmoil. man heaps up wealth and does not know who _will gather_!
+
+(x)	לֹ֤א נְכַחֵ֨ד׀ מִבְּנֵיהֶ֗ם לְדֹ֥ור אַחֲרֹ֗ון _מְֽ֭סַפְּרִים_ תְּהִלֹּ֣ות יְהוָ֑ה וֶעֱזוּזֹ֥ו וְ֝נִפְלְאֹותָ֗יו אֲשֶׁ֣ר עָשָֽׂה׃ (Psa. 78:4)
+NIV	We will not hide them from their children. we _will tell_ the next generation the praiseworthy deeds of the LORD, his power, and the wonders he has done.
+ESV	We will not hide them from their children, but _tell_ to the coming generation the glorious deeds of the Lord, and his might, and the wonders that he has done.
+
+(x)	לְ֭עֹולָ֗ם אֶשְׁמָר־לֹ֣ו חַסְדִּ֑י וּ֝בְרִיתִ֗י _נֶאֱמֶ֥נֶת_ לֹֽו׃ (Psa. 89:29)
+NIV	I will maintain my love to him forever, and my covenant with him _will never fail_.
+ESV	My steadfast love I will keep for him forever, and my covenant _will stand firm_ for him.
+
+(x)	קְֽרָא־נָ֭א הֲיֵ֣שׁ _עֹונֶ֑ךָּ_ וְאֶל־מִ֖י מִקְּדֹשִׁ֣ים תִּפְנֶֽה׃ (Job 5:1)
+NIV	“Call if you will, but _who will answer_ you? To which of the holy ones will you turn?
+ESV	“Call now. is there _anyone who will answer_ you? To which of the holy ones will you turn?
+
+(x)	יְגַלּ֣וּ שָׁמַ֣יִם עֲוֹנֹ֑ו וְ֝אֶ֗רֶץ _מִתְקֹומָ֘מָ֥ה_ לֹֽו׃ (Job 20:27)
+NIV	The heavens will expose his guilt. the earth _will rise up_ against him.
+ESV	The heavens will reveal his iniquity, and the earth _will rise up_ against him.
+
+(x)	כִּ֤י גֶֽחָלִ֗ים אַ֭תָּה _חֹתֶ֣ה_ עַל־רֹאשֹׁ֑ו וַֽ֝יהוָ֗ה יְשַׁלֶּם־לָֽךְ׃ (Prov. 25:22)
+NIV	In doing this, you _will heap_ burning coals on his head, and the LORD will reward you.
+ESV	for you _will heap_ burning coals on his head, and the Lord will reward you.
+
+(x)	בִּ֭דְבָרִים לֹא־יִוָּ֣סֶר עָ֑בֶד כִּֽי־יָ֝בִ֗ין וְאֵ֣ין _מַעֲנֶֽה_׃ (Prov. 29:19)
+NIV	A servant cannot be corrected by mere words. though he understands, he will not respond.
+ESV	By mere words a servant is not disciplined, for though he understands, he will not respond.

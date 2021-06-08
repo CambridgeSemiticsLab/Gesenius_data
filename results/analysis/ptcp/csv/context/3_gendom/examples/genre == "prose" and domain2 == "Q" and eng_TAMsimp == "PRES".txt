@@ -1,0 +1,62 @@
+genre == "prose" and domain2 == "Q" and eng_TAMsimp == "PRES"
+15 of 289
+
+(x)	וַיֹּ֣אמֶר אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה אָדָ֛ם בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ וְיִרְדּוּ֩ בִדְגַ֨ת הַיָּ֜ם וּבְעֹ֣וף הַשָּׁמַ֗יִם וּבַבְּהֵמָה֙ וּבְכָל־הָאָ֔רֶץ וּבְכָל־הָרֶ֖מֶשׂ הָֽ_רֹמֵ֥שׂ_ עַל־הָאָֽרֶץ׃ (Gen. 1:26)
+NIV	Then God said, “Let us make man in our image, in our likeness, and let them rule over the fish of the sea and the birds of the air, over the livestock, over all the earth, and over all the _creatures that move_ along the ground.”
+ESV	Then God said, “Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing _that creeps_ on the earth.”
+
+(x)	וַיֹּ֣אמֶר עֵשָׂ֔ו הִנֵּ֛ה אָנֹכִ֥י _הֹולֵ֖ךְ_ לָמ֑וּת וְלָמָּה־זֶּ֥ה לִ֖י בְּכֹרָֽה׃ (Gen. 25:32)
+NIV	“Look, I _am about to_ die,” Esau said. “What good is the birthright to me?”
+ESV	Esau said, “I _am about to_ die. of what use is a birthright to me?”
+
+(x)	וְאֶת־מַתְכֹּ֨נֶת הַלְּבֵנִ֜ים אֲשֶׁ֣ר הֵם֩ עֹשִׂ֨ים תְּמֹ֤ול שִׁלְשֹׁם֙ תָּשִׂ֣ימוּ עֲלֵיהֶ֔ם לֹ֥א תִגְרְע֖וּ מִמֶּ֑נּוּ כִּֽי־_נִרְפִּ֣ים_ הֵ֔ם עַל־כֵּ֗ן הֵ֤ם צֹֽעֲקִים֙ לֵאמֹ֔ר נֵלְכָ֖ה נִזְבְּחָ֥ה לֵאלֹהֵֽינוּ׃ (Exod. 5:8)
+NIV	But require them to make the same number of bricks as before. don’t reduce the quota. They _are lazy_. that is why they are crying out, ‘Let us go and sacrifice to our God.’
+ESV	But the number of bricks that they made in the past you shall impose on them, you shall by no means reduce it, for they _are idle_. Therefore they cry, ‘Let us go and offer sacrifice to our God.’
+
+(x)	שְׁמָ֨ר־לְךָ֔ אֵ֛ת אֲשֶׁ֥ר אָנֹכִ֖י _מְצַוְּךָ֣_ הַיֹּ֑ום הִנְנִ֧י גֹרֵ֣שׁ מִפָּנֶ֗יךָ אֶת־הָאֱמֹרִי֙ וְהַֽכְּנַעֲנִ֔י וְהַחִתִּי֙ וְהַפְּרִזִּ֔י וְהַחִוִּ֖י וְהַיְבוּסִֽי׃ (Exod. 34:11)
+NIV	Obey what I _command_ you today. I will drive out before you the Amorites, Canaanites, Hittites, Perizzites, Hivites and Jebusites.
+ESV	“Observe what I _command_ you this day. Behold, I will drive out before you the Amorites, the Canaanites, the Hittites, the Perizzites, the Hivites, and the Jebusites.
+
+(x)	לֹ֣א תֹסִ֗פוּ עַל־הַדָּבָר֙ אֲשֶׁ֤ר אָנֹכִי֙ _מְצַוֶּ֣ה_ אֶתְכֶ֔ם וְלֹ֥א תִגְרְע֖וּ מִמֶּ֑נּוּ לִשְׁמֹ֗ר אֶת־מִצְוֹת֙ יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם אֲשֶׁ֥ר אָנֹכִ֖י מְצַוֶּ֥ה אֶתְכֶֽם׃ (Deut. 4:2)
+NIV	Do not add to what I _command_ you and do not subtract from it, but keep the _command_s of the LORD your God that I give you.
+ESV	You shall not add to the word that I _command_ you, nor take from it, that you may keep the _command_ments of the Lord your God that I _command_ you.
+
+(x)	אָר֕וּר _מַשְׁגֶּ֥ה_ עִוֵּ֖ר בַּדָּ֑רֶךְ וְאָמַ֥ר כָּל־הָעָ֖ם אָמֵֽן׃ ס (Deut. 27:18)
+NIV	“Cursed is the man who leads the blind astray on the road.” Then all the people shall say, “Amen!”
+ESV	“‘Cursed be _anyone who misleads_ a blind man on the road.’ And all the people shall say, ‘Amen.’
+
+(x)	וְהָיָה֙ הַ_נִּלְכָּ֣ד_ בַּחֵ֔רֶם יִשָּׂרֵ֣ף בָּאֵ֔שׁ אֹתֹ֖ו וְאֶת־כָּל־אֲשֶׁר־לֹ֑ו כִּ֤י עָבַר֙ אֶת־בְּרִ֣ית יְהוָ֔ה וְכִֽי־עָשָׂ֥ה נְבָלָ֖ה בְּיִשְׂרָאֵֽל׃ (Josh. 7:15)
+NIV	He _who is caught_ with the devoted things shall be destroyed by fire, along with all that belongs to him. He has violated the covenant of the LORD and has done a disgraceful thing in Israel!’”
+ESV	And he _who is taken_ with the devoted things shall be burned with fire, he and all that he has, because he has transgressed the covenant of the Lord, and because he has done an outrageous thing in Israel.’”
+
+(x)	וַיֹּאמְר֗וּ אִֽם־_מְשַׁלְּחִ֞ים_ אֶת־אֲרֹ֨ון אֱלֹהֵ֤י יִשְׂרָאֵל֙ אַל־תְּשַׁלְּח֤וּ אֹתֹו֙ רֵיקָ֔ם כִּֽי־הָשֵׁ֥ב תָּשִׁ֛יבוּ לֹ֖ו אָשָׁ֑ם אָ֤ז תֵּרָֽפְאוּ֙ וְנֹודַ֣ע לָכֶ֔ם לָ֛מָּה לֹא־תָס֥וּר יָדֹ֖ו מִכֶּֽם׃ (I Sam. 6:3)
+NIV	They answered, “If you _return_ the ark of the god of Israel, do not send it away empty, but by all means send a guilt offering to him. Then you will be healed, and you will know why his hand has not been lifted from you.”
+ESV	They said, “If _you send away_ the ark of the God of Israel, do not send it empty, but by all means return him a guilt offering. Then you will be healed, and it will be known to you why his hand does not turn away from you.”
+
+(x)	וְעַתָּה֙ הַבְּרָכָ֣ה הַזֹּ֔את אֲשֶׁר־הֵבִ֥יא שִׁפְחָתְךָ֖ לַֽאדֹנִ֑י וְנִתְּנָה֙ לַנְּעָרִ֔ים הַ_מִּֽתְהַלְּכִ֖ים_ בְּרַגְלֵ֥י אֲדֹנִֽי׃ (I Sam. 25:27)
+NIV	And let this gift, which your servant has brought to my master, be given to the men _who follow_ you.
+ESV	And now let this present that your servant has brought to my lord be given to the young men _who follow_ my lord.
+
+(x)	וַיֹּאמַ֗ר יְהוָ֞ה אֱלֹהֵ֤י יִשְׂרָאֵל֙ אֵין־כָּמֹ֣וךָ אֱלֹהִ֔ים בַּשָּׁמַ֣יִם מִמַּ֔עַל וְעַל־הָאָ֖רֶץ מִתָּ֑חַת שֹׁמֵ֤ר הַבְּרִית֙ וְֽהַחֶ֔סֶד לַעֲבָדֶ֕יךָ הַ_הֹלְכִ֥ים_ לְפָנֶ֖יךָ בְּכָל־לִבָּֽם׃ (I Kgs. 8:23)
+NIV	and said: “O LORD, God of Israel, there is no God like you in heaven above or on earth below — you who keep your covenant of love with your servants who continue wholeheartedly in your way.
+ESV	and said, “O Lord, God of Israel, there is no God like you, in heaven above or on earth beneath, keeping covenant and showing steadfast love to your servants _who walk_ before you with all their heart,
+
+(x)	וַיְהִ֡י כִּקְרֹא֩ מֶֽלֶךְ־יִשְׂרָאֵ֨ל אֶת־הַסֵּ֜פֶר וַיִּקְרַ֣ע בְּגָדָ֗יו וַיֹּ֨אמֶר֙ הַאֱלֹהִ֥ים אָ֨נִי֙ לְהָמִ֣ית וּֽלְהַחֲיֹ֔ות כִּֽי־זֶה֙ _שֹׁלֵ֣חַ_ אֵלַ֔י לֶאֱסֹ֥ף אִ֖ישׁ מִצָּֽרַעְתֹּ֑ו כִּ֤י אַךְ־דְּעֽוּ־נָא֙ וּרְא֔וּ כִּֽי־מִתְאַנֶּ֥ה ה֖וּא לִֽי׃ (II Kgs. 5:7)
+NIV	As soon as the king of Israel read the letter, he tore his robes and said, “Am I God? Can I kill and bring back to life? Why does this fellow send someone to me to be cured of his leprosy? See how he is trying to pick a quarrel with me!”
+ESV	And when the king of Israel read the letter, he tore his clothes and said, “Am I God, to kill and to make alive, that this man _sends_ word to me to cure a man of his leprosy? Only consider, and see how he is seeking a quarrel with me.”
+
+(x)	וַיֹּ֨אמֶר יְהוָ֜ה אֶל־הַשָּׂטָ֗ן הֲשַׂ֣מְתָּ לִבְּךָ֮ אֶל־עַבְדִּ֣י אִיֹּוב֒ כִּי֩ אֵ֨ין כָּמֹ֜הוּ בָּאָ֗רֶץ אִ֣ישׁ תָּ֧ם וְיָשָׁ֛ר יְרֵ֥א אֱלֹהִ֖ים וְ_סָ֣ר_ מֵרָ֑ע וְעֹדֶ֨נּוּ֙ מַחֲזִ֣יק בְּתֻמָּתֹ֔ו וַתְּסִיתֵ֥נִי בֹ֖ו לְבַלְּעֹ֥ו חִנָּֽם׃ (Job 2:3)
+NIV	Then the LORD said to Satan, “Have you considered my servant Job? There is no-one on earth like him. he is blameless and upright, a man who fears God and _shuns_ evil. And he still maintains his integrity, though you incited me against him to ruin him without any reason.”
+ESV	And the Lord said to Satan, “Have you considered my servant Job, that there is none like him on the earth, a blameless and upright man, who fears God and _turns away_ from evil? He still holds fast his integrity, although you incited me against him to destroy him without reason.”
+
+(x)	וַיֹּ֖אמֶר לֵ֣ךְ דָּנִיֵּ֑אל כִּֽי־_סְתֻמִ֧ים_ וַחֲתֻמִ֛ים הַדְּבָרִ֖ים עַד־עֵ֥ת קֵֽץ׃ (Dan. 12:9)
+NIV	He replied, “Go your way, Daniel, because the words _are closed up_ and sealed until the time of the end.
+ESV	He said, “Go your way, Daniel, for the words _are shut up_ and sealed until the time of the end.
+
+(x)	וּֽשְׁלַֽח־לִי֩ עֲצֵ֨י אֲרָזִ֜ים בְּרֹושִׁ֣ים וְאַלְגּוּמִּים֮ מֵֽהַלְּבָנֹון֒ כִּ֚י אֲנִ֣י יָדַ֔עְתִּי אֲשֶׁ֤ר עֲבָדֶ֨יךָ֙ _יֹֽודְעִ֔ים_ לִכְרֹ֖ות עֲצֵ֣י לְבָנֹ֑ון וְהִנֵּ֥ה עֲבָדַ֖י עִם־עֲבָדֶֽיךָ׃ (II Chr. 2:7)
+NIV	“Send me also cedar, pine and algum logs from Lebanon, for I know that your men _are skilled_ in cutting timber there. My men shall work with yours
+ESV	Send me also cedar, cypress, and algum timber from Lebanon, for I _know_ that your servants _know_ how to cut timber in Lebanon. And my servants will be with your servants,
+
+(x)	לְכוּ֩ דִרְשׁ֨וּ אֶת־יְהוָ֜ה בַּעֲדִ֗י וּבְעַד֙ הַנִּשְׁאָר֙ בְּיִשְׂרָאֵ֣ל וּבִֽיהוּדָ֔ה עַל־דִּבְרֵ֥י הַסֵּ֖פֶר אֲשֶׁ֣ר נִמְצָ֑א כִּֽי־גְדֹולָ֤ה חֲמַת־יְהוָה֙ אֲשֶׁ֣ר נִתְּכָ֣ה בָ֔נוּ עַל֩ אֲשֶׁ֨ר לֹא־שָׁמְר֤וּ אֲבֹותֵ֨ינוּ֙ אֶת־דְּבַ֣ר יְהוָ֔ה לַעֲשֹׂ֕ות כְּכָל־הַ_כָּת֖וּב_ עַל־הַסֵּ֥פֶר הַזֶּֽה׃ פ (II Chr. 34:21)
+NIV	“Go and enquire of the LORD for me and for the remnant in Israel and Judah about what is written in this book that has been found. Great is the LORD’s anger that is poured out on us because our fathers have not kept the word of the LORD. they have not acted in accordance with all _that is written_ in this book.”
+ESV	“Go, inquire of the Lord for me and for those who are left in Israel and in Judah, concerning the words of the book that has been found. For great is the wrath of the Lord that is poured out on us, because our fathers have not kept the word of the Lord, to do according to all _that is written_ in this book.”

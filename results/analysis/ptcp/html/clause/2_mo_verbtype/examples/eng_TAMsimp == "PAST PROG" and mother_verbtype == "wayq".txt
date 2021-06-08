@@ -1,0 +1,102 @@
+eng_TAMsimp == "PAST PROG" and mother_verbtype == "wayq"
+25 of 66
+
+(x)	וַיַּכּ֕וּ אֶֽת־כָּל־שְׂדֵ֖ה הָעֲמָלֵקִ֑י וְגַם֙ אֶת־הָ֣אֱמֹרִ֔י הַ_יֹּשֵׁ֖ב_ בְּחַֽצְצֹ֥ן תָּמָֽר׃ (Gen. 14:7)
+NIV	Then they turned back and went to En Mishpat ( that is, Kadesh ), and they conquered the whole territory of the Amalekites, as well as the Amorites _who were living_ in Hazazon Tamar.
+ESV	Then they turned back and came to En-mishpat ( that is, Kadesh ) and defeated all the country of the Amalekites, and also the Amorites _who were dwelling_ in Hazazon-tamar.
+
+(x)	וַיֹּ֗אמֶר וְשָׂרָ֥ה _שֹׁמַ֛עַת_ פֶּ֥תַח הָאֹ֖הֶל (Gen. 18:10)
+NIV	Then the LORD said, “I will surely return to you about this time next year, and Sarah your wife will have a son.” Now Sarah _was listening_ at the entrance to the tent, which was behind him.
+ESV	The Lord said, “I will surely return to you about this time next year, and Sarah your wife shall have a son.” And Sarah _was listening_ at the tent door behind him.
+
+(x)	וַיֹּ֕אמֶר וְרִבְקָ֣ה _שֹׁמַ֔עַת_ (Gen. 27:5)
+NIV	Now Rebekah _was listening_ as Isaac spoke to his son Esau. When Esau left for the open country to hunt game and bring it back,
+ESV	Now Rebekah _was listening_ when Isaac spoke to his son Esau. So when Esau went to the field to hunt for game and bring it,
+
+(x)	וַיְחַזֵּ֣ק יְהֹוָ֗ה אֶת־לֵ֤ב פַּרְעֹה֙ מֶ֣לֶךְ מִצְרַ֔יִם וּבְנֵ֣י יִשְׂרָאֵ֔ל _יֹצְאִ֖ים_ בְּיָ֥ד רָמָֽה׃ (Exod. 14:8)
+NIV	The LORD hardened the heart of Pharaoh king of Egypt, so that he pursued the Israelites, _who were marching out_ boldly.
+ESV	And the Lord hardened the heart of Pharaoh king of Egypt, and he pursued the people of Israel while the people of Israel _were going out_ defiantly.
+
+(x)	וַיָּבֹ֨אוּ֙ כָּל־הַ֣חֲכָמִ֔ים הָ_עֹשִׂ֕ים_ אֵ֖ת כָּל־מְלֶ֣אכֶת הַקֹּ֑דֶשׁ (Exod. 36:4)
+NIV	So all the skilled craftsmen _who were doing_ all the work on the sanctuary left their work
+ESV	so that all the craftsmen _who were doing_ every sort of task on the sanctuary came, each from the task that he was doing,
+
+(x)	וַיְזַנֵּ֤ב בְּךָ֙ כָּל־הַ_נֶּחֱשָׁלִ֣ים_ אַֽחַרֶ֔יךָ (Deut. 25:18)
+NIV	When you were weary and worn out, they met you on your journey and cut off all _who were lagging_ behind. they had no fear of God.
+ESV	how he attacked you on the way when you were faint and weary, and cut off your tail, those _who were lagging_ behind you, and he did not fear God.
+
+(x)	וַתָּ֣קָם חַנָּ֔ה וְעֵלִ֣י הַכֹּהֵ֗ן _יֹשֵׁב֙_ עַל־הַכִּסֵּ֔א עַל־מְזוּזַ֖ת הֵיכַ֥ל יְהוָֽה׃ (I Sam. 1:9)
+NIV	Once when they had finished eating and drinking in Shiloh, Hannah stood up. Now Eli the priest _was sitting_ on a chair by the doorpost of the LORD’s temple.
+ESV	After they had eaten and drunk in Shiloh, Hannah rose. Now Eli the priest _was sitting_ on the seat beside the doorpost of the temple of the Lord.
+
+(x)	וַיָּ֣בֶן עֵלִ֔י כִּ֥י יְהוָ֖ה _קֹרֵ֥א_ לַנָּֽעַר׃ (I Sam. 3:8)
+NIV	The LORD called Samuel a third time, and Samuel got up and went to Eli and said, “Here I am. you called me.” Then Eli realised that the LORD _was calling_ the boy.
+ESV	And the Lord called Samuel again the third time. And he arose and went to Eli and said, “Here I am, for you called me.” Then Eli perceived that the Lord _was calling_ the young man.
+
+(x)	וַיְהִ֞י הֵ֗מָּה _יֹֽורְדִים֙_ בִּקְצֵ֣ה הָעִ֔יר (I Sam. 9:27)
+NIV	As they were going down to the edge of the town, Samuel said to Saul, “Tell the servant to go on ahead of us” — and the servant did so — “but you stay here a while, so that I may give you a message from God.”
+ESV	As they _were going down_ to the outskirts of the city, Samuel said to Saul, “Tell the servant to pass on before us, and when he has passed on, stop here yourself for a while, that I may make known to you the word of God.”
+
+(x)	וַיְהִ֨י דָוִ֜ד נֶחְפָּ֤ז וְשָׁא֣וּל וַאֲנָשָׁ֗יו _עֹֽטְרִ֛ים_ אֶל־דָּוִ֥ד וְאֶל־אֲנָשָׁ֖יו (I Sam. 23:26)
+NIV	Saul was going along one side of the mountain, and David and his men were on the other side, hurrying to get away from Saul. As Saul and his forces _were closing in_ on David and his men to capture them,
+ESV	Saul went on one side of the mountain, and David and his men on the other side of the mountain. And David was hurrying to get away from Saul. As Saul and his men _were closing in_ on David and his men to capture them,
+
+(x)	וַיָּבֹ֨אוּ֙ וְה֣וּא _שֹׁכֵ֔ב_ אֵ֖ת מִשְׁכַּ֥ב הַֽצָּהֳרָֽיִם׃ (II Sam. 4:5)
+NIV	Now Recab and Baanah, the sons of Rimmon the Beerothite, set out for the house of Ish-bosheth, and they arrived there in the heat of the day while he _was taking_ his noonday rest.
+ESV	Now the sons of Rimmon the Beerothite, Rechab and Baanah, set out, and about the heat of the day they came to the house of Ish-bosheth as he _was taking_ his noonday rest.
+
+(x)	וַיֹּ֣אמֶר חוּשַׁ֗י אֶל־צָדֹ֤וק וְאֶל־אֶבְיָתָר֙ הַכֹּ֣הֲנִ֔ים וִיהֹונָתָ֨ן וַאֲחִימַ֜עַץ _עֹמְדִ֣ים_ בְּעֵין־רֹגֵ֗ל (II Sam. 17:17)
+NIV	Jonathan and Ahimaaz _were staying_ at En Rogel. A servant girl was to go and inform them, and they were to go and tell King David, for they could not risk being seen entering the city.
+ESV	Now Jonathan and Ahimaaz _were waiting_ at En-rogel. A female servant was to go and tell them, and they were to go and tell King David, for they were not to be seen entering the city.
+
+(x)	וַיִּמְצָ֞א אֶת־אֱלִישָׁ֤ע בֶּן־שָׁפָט֙ וְה֣וּא _חֹרֵ֔שׁ_ (I Kgs. 19:19)
+NIV	So Elijah went from there and found Elisha son of Shaphat. He _was ploughing_ with twelve yoke of oxen, and he himself was driving the twelfth pair. Elijah went up to him and threw his cloak around him.
+ESV	So he departed from there and found Elisha the son of Shaphat, _who was plowing_ with twelve yoke of oxen in front of him, and he was with the twelfth. Elijah passed by him and cast his cloak upon him.
+
+(x)	וַיָּשֻׁ֣בוּ אֵלָ֔יו וְה֖וּא _יֹשֵׁ֣ב_ בִּירִיחֹ֑ו (II Kgs. 2:18)
+NIV	When they returned to Elisha, who _was staying_ in Jericho, he said to them, “Didn’t I tell you not to go?”
+ESV	And they came back to him while he _was staying_ at Jericho, and he said to them, “Did I not say to you, ‘Do not go’?”
+
+(x)	וַיְהִ֤י הָֽאֶחָד֙ _מַפִּ֣יל_ הַקֹּורָ֔ה (II Kgs. 6:5)
+NIV	As one of them was cutting down a tree, the iron axe-head fell into the water. “Oh, my lord,” he cried out, “it was borrowed!”
+ESV	But as one was _felling_ a log, his axe head fell into the water, and he cried out, “Alas, my master! It was borrowed.”
+
+(x)	וַתֵּצֵא֙ וְהַמֶּ֗לֶךְ _מְדַבֵּר֙_ אֶל־גֵּ֣חֲזִ֔י נַ֥עַר אִישׁ־הָאֱלֹהִ֖ים (II Kgs. 8:4)
+NIV	The king _was talking_ to Gehazi, the servant of the man of God, and had said, “Tell me about all the great things Elisha has done.”
+ESV	Now the king _was talking_ with Gehazi the servant of the man of God, saying, “Tell me all the great things that Elisha has done.”
+
+(x)	וַיָּבֹ֛א נְבוּכַדְנֶאצַּ֥ר מֶֽלֶךְ־בָּבֶ֖ל עַל־הָעִ֑יר וַעֲבָדָ֖יו _צָרִ֥ים_ עָלֶֽיהָ׃ (II Kgs. 24:11)
+NIV	and Nebuchadnezzar himself came up to the city while his officers were besieging it.
+ESV	And Nebuchadnezzar king of Babylon came to the city while his servants _were besieging_ it,
+
+(x)	וַיְדַבֵּר֙ יִרְמְיָ֣הוּ הַנָּבִ֔יא אֶל־צִדְקִיָּ֖הוּ מֶ֣לֶךְ יְהוּדָ֑ה אֵ֛ת כָּל־הַדְּבָרִ֥ים הָאֵ֖לֶּה בִּירוּשָׁלִָֽם׃ וְחֵ֣יל מֶֽלֶךְ־בָּבֶ֗ל _נִלְחָמִים֙_ עַל־יְר֣וּשָׁלִַ֔ם וְעַ֛ל כָּל־עָרֵ֥י יְהוּדָ֖ה הַנֹּֽותָרֹ֑ות אֶל־לָכִישׁ֙ וְאֶל־עֲזֵקָ֔ה (Jer. 34:7)
+NIV	while the army of the king of Babylon _was fighting_ against Jerusalem and the other cities of Judah that were still holding out — Lachish and Azekah. These were the only fortified cities left in Judah.
+ESV	when the army of the king of Babylon _was fighting_ against Jerusalem and against all the cities of Judah that were left, Lachish and Azekah, for these were the only fortified cities of Judah that remained.
+
+(x)	וַיִּקְרָאֶ֤הָ יְהוּדִי֙ בְּאָזְנֵ֣י הַמֶּ֔לֶךְ וּבְאָזְנֵי֙ כָּל־הַשָּׂרִ֔ים וְהַמֶּ֗לֶךְ _יֹושֵׁב֙_ בֵּ֣ית הַחֹ֔רֶף בַּחֹ֖דֶשׁ הַתְּשִׁיעִ֑י (Jer. 36:22)
+NIV	It was the ninth month and the king _was sitting_ in the winter apartment, with a fire burning in the brazier in front of him.
+ESV	It was the ninth month, and the king _was sitting_ in the winter house, and there was a fire burning in the fire pot before him.
+
+(x)	וָֽאֵשֵׁ֔ב הֵ֖מָּה _יֹושְׁבִ֣ים_ שָׁ֑ם (Ezek. 3:15)
+NIV	I came to the exiles who lived at Tel Abib near the Kebar River. And there, where they were living, I sat among them for seven days — overwhelmed.
+ESV	And I came to the exiles at Tel-abib, who were dwelling by the Chebar canal, and I sat where they were dwelling. And I sat there overwhelmed among them seven days.
+
+(x)	וַֽיַּעֲנ֞וּ אֶת־מַלְאַ֣ךְ יְהוָ֗ה הָֽ_עֹמֵד֙_ בֵּ֣ין הַהֲדַסִּ֔ים (Zech. 1:11)
+NIV	And they reported to the angel of the LORD, _who was standing_ among the myrtle trees, “We have gone throughout the earth and found the whole world at rest and in peace.”
+ESV	And they answered the angel of the Lord _who was standing_ among the myrtle trees, and said, ‘We have patrolled the earth, and behold, all the earth remains at rest.’
+
+(x)	וַיֵּדְע֨וּ כֵ֜ן עֲנִיֵּ֤י הַצֹּאן֙ הַ_שֹּׁמְרִ֣ים_ אֹתִ֔י (Zech. 11:11)
+NIV	It was revoked on that day, and so the afflicted of the flock _who were watching_ me knew it was the word of the LORD.
+ESV	So it was annulled on that day, and the sheep traders, _who were watching_ me, knew that it was the word of the Lord.
+
+(x)	וַיֹּאמַ֑ר בָּנֶ֨יךָ וּבְנֹותֶ֤יךָ _אֹֽכְלִים֙_ (Job 1:18)
+NIV	While he was still speaking, yet another messenger came and said, “Your sons and daughters _were feasting_ and drinking wine at the oldest brother’s house,
+ESV	While he was yet speaking, there came another and said, “Your sons and daughters _were eating_ and drinking wine in their oldest brother’s house,
+
+(x)	וַֽיִּשְׁמְע֔וּ צָרֵ֥י יְהוּדָ֖ה וּבִנְיָמִ֑ן כִּֽי־בְנֵ֤י הַגֹּולָה֙ _בֹּונִ֣ים_ הֵיכָ֔ל לַיהוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃ (Ezra 4:1)
+NIV	When the enemies of Judah and Benjamin heard that the exiles _were building_ a temple for the LORD, the God of Israel,
+ESV	Now when the adversaries of Judah and Benjamin heard that the returned exiles _were building_ a temple to the Lord, the God of Israel,
+
+(x)	וַיָּקֻ֨מוּ אֲנָשִׁ֜ים מֵרָאשֵׁ֣י בְנֵֽי־אֶפְרַ֗יִם עֲזַרְיָ֤הוּ בֶן־יְהֹֽוחָנָן֙ בֶּרֶכְיָ֣הוּ בֶן־מְשִׁלֵּמֹ֔ות וִֽיחִזְקִיָּ֨הוּ֙ בֶּן־שַׁלֻּ֔ם וַעֲמָשָׂ֖א בֶּן־חַדְלָ֑י עַל־הַ_בָּאִ֖ים_ מִן־הַצָּבָֽא׃ (II Chr. 28:12)
+NIV	Then some of the leaders in Ephraim — Azariah son of Jehohanan, Berekiah son of Meshillemoth, Jehizkiah son of Shallum, and Amasa son of Hadlai — confronted those _who were arriving_ from the war.
+ESV	Certain chiefs also of the men of Ephraim, Azariah the son of Johanan, Berechiah the son of Meshillemoth, Jehizkiah the son of Shallum, and Amasa the son of Hadlai, stood up against those _who were coming_ from the war

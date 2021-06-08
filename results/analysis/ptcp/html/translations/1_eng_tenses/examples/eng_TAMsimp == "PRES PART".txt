@@ -1,0 +1,102 @@
+eng_TAMsimp == "PRES PART"
+25 of 246
+
+(x)	וַיֹּ֣אמֶר אֱלֹהִ֗ים תַּֽדְשֵׁ֤א הָאָ֨רֶץ֙ דֶּ֔שֶׁא עֵ֚שֶׂב _מַזְרִ֣יעַ_ זֶ֔רַע עֵ֣ץ פְּרִ֞י עֹ֤שֶׂה פְּרִי֙ לְמִינֹ֔ו אֲשֶׁ֥ר זַרְעֹו־בֹ֖ו עַל־הָאָ֑רֶץ וַֽיְהִי־כֵֽן׃ (Gen. 1:11)
+NIV	Then God said, “Let the land produce vegetation: _seed-bearing_ plants and trees on the land that bear fruit with seed in it, according to their various kinds.” And it was so.
+ESV	And God said, “Let the earth sprout vegetation, plants _yielding_ seed, and fruit trees bearing fruit in which is their seed, each according to its kind, on the earth.” And it was so.
+
+(x)	עֹודֶ֖נּוּ _מְדַבֵּ֣ר_ עִמָּ֑ם וְרָחֵ֣ל׀ בָּ֗אָה עִם־הַצֹּאן֙ אֲשֶׁ֣ר לְאָבִ֔יהָ כִּ֥י רֹעָ֖ה הִֽוא׃ (Gen. 29:9)
+NIV	While he was still talking with them, Rachel came with her father’s sheep, for she was a shepherdess.
+ESV	While he _was still speaking_ with them, Rachel came with her father’s sheep, for she was a shepherdess.
+
+(x)	שְׁלֹשָׁ֣ה גְ֠בִעִים מְֽשֻׁקָּדִ֞ים בַּקָּנֶ֣ה הָאֶחָד֮ כַּפְתֹּ֣ר וָפֶרַח֒ וּשְׁלֹשָׁ֣ה גְבִעִ֗ים מְשֻׁקָּדִ֛ים בַּקָּנֶ֥ה הָאֶחָ֖ד כַּפְתֹּ֣ר וָפָ֑רַח כֵּ֚ן לְשֵׁ֣שֶׁת הַקָּנִ֔ים הַ_יֹּצְאִ֖ים_ מִן־הַמְּנֹרָֽה׃ (Exod. 25:33)
+NIV	Three cups shaped like almond flowers with buds and blossoms are to be on one branch, three on the next branch, and the same for all six branches _extending_ from the lampstand.
+ESV	three cups made like almond blossoms, each with calyx and flower, on one branch, and three cups made like almond blossoms, each with calyx and flower, on the other branch — so for the six branches _going out_ of the lampstand.
+
+(x)	וַיִּהְי֥וּ בְנֵֽי־יִשְׂרָאֵ֖ל בַּמִּדְבָּ֑ר וַֽיִּמְצְא֗וּ אִ֛ישׁ _מְקֹשֵׁ֥שׁ_ עֵצִ֖ים בְּיֹ֥ום הַשַּׁבָּֽת׃ (Num. 15:32)
+NIV	While the Israelites were in the desert, a man was found _gathering_ wood on the Sabbath day.
+ESV	While the people of Israel were in the wilderness, they found a man _gathering_ sticks on the Sabbath day.
+
+(x)	לֹ֣א בְצִדְקָתְךָ֗ וּבְיֹ֨שֶׁר֙ לְבָ֣בְךָ֔ אַתָּ֥ה _בָ֖א_ לָרֶ֣שֶׁת אֶת־אַרְצָ֑ם כִּ֞י בְּרִשְׁעַ֣ת׀ הַגֹּויִ֣ם הָאֵ֗לֶּה יְהוָ֤ה אֱלֹהֶ֨יךָ֙ מֹורִישָׁ֣ם מִפָּנֶ֔יךָ וּלְמַ֜עַן הָקִ֣ים אֶת־הַדָּבָ֗ר אֲשֶׁ֨ר נִשְׁבַּ֤ע יְהוָה֙ לַאֲבֹתֶ֔יךָ לְאַבְרָהָ֥ם לְיִצְחָ֖ק וּֽלְיַעֲקֹֽב׃ (Deut. 9:5)
+NIV	It is not because of your righteousness or your integrity that you _are going in_ to take possession of their land. but on account of the wickedness of these nations, the LORD your God will drive them out before you, to accomplish what he swore to your fathers, to Abraham, Isaac and Jacob.
+ESV	Not because of your righteousness or the uprightness of your heart are you going in to possess their land, but because of the wickedness of these nations the Lord your God is driving them out from before you, and that he may confirm the word that the Lord swore to your fathers, to Abraham, to Isaac, and to Jacob.
+
+(x)	וַתֹּ֜אמֶר הָלֹ֧ךְ אֵלֵ֣ךְ עִמָּ֗ךְ אֶ֚פֶס כִּי֩ לֹ֨א תִֽהְיֶ֜ה תִּֽפְאַרְתְּךָ֗ עַל־הַדֶּ֨רֶךְ֙ אֲשֶׁ֣ר אַתָּ֣ה _הֹולֵ֔ךְ_ כִּ֣י בְֽיַד־אִשָּׁ֔ה יִמְכֹּ֥ר יְהוָ֖ה אֶת־סִֽיסְרָ֑א וַתָּ֧קָם דְּבֹורָ֛ה וַתֵּ֥לֶךְ עִם־בָּרָ֖ק קֶֽדְשָׁה׃ (Judg. 4:9)
+NIV	“Very well,” Deborah said, “I will go with you. But because of the way you _are going_ about this, the honour will not be yours, for the LORD will hand Sisera over to a woman.” So Deborah went with Barak to Kedesh,
+ESV	And she said, “I will surely go with you. Nevertheless, the road on which you _are going_ will not lead to your glory, for the Lord will sell Sisera into the hand of a woman.” Then Deborah arose and went with Barak to Kedesh.
+
+(x)	הֵ֗מָּה עֹלִים֙ בְּמַעֲלֵ֣ה הָעִ֔יר וְהֵ֨מָּה֙ מָצְא֣וּ נְעָרֹ֔ות _יֹצְאֹ֖ות_ לִשְׁאֹ֣ב מָ֑יִם וַיֹּאמְר֣וּ לָהֶ֔ן הֲיֵ֥שׁ בָּזֶ֖ה הָרֹאֶֽה׃ (I Sam. 9:11)
+NIV	As they were going up the hill to the town, they met some girls _coming out_ to draw water, and they asked them, “Is the seer here?”
+ESV	As they went up the hill to the city, they met young women _coming out_ to draw water and said to them, “Is the seer here?”
+
+(x)	וַיֹּ֨אמֶר לָ֥הּ הַמֶּ֛לֶךְ אַל־תִּֽירְאִ֖י כִּ֣י מָ֣ה רָאִ֑ית וַתֹּ֤אמֶר הָֽאִשָּׁה֙ אֶל־שָׁא֔וּל אֱלֹהִ֥ים רָאִ֖יתִי _עֹלִ֥ים_ מִן־הָאָֽרֶץ׃ (I Sam. 28:13)
+NIV	The king said to her, “Don’t be afraid. What do you see?” The woman said, “I see a spirit _coming up_ out of the ground.”
+ESV	The king said to her, “Do not be afraid. What do you see?” And the woman said to Saul, “I see a god _coming up_ out of the earth.”
+
+(x)	עֹמֵ֞ד עַל־שְׁנֵ֧י עָשָׂ֣ר בָּקָ֗ר שְׁלֹשָׁ֣ה פֹנִ֣ים׀ צָפֹ֡ונָה וּשְׁלֹשָׁה֩ _פֹנִ֨ים_׀ יָ֜מָּה וּשְׁלֹשָׁ֣ה׀ פֹּנִ֣ים נֶ֗גְבָּה וּשְׁלֹשָׁה֙ פֹּנִ֣ים מִזְרָ֔חָה וְהַיָּ֥ם עֲלֵיהֶ֖ם מִלְמָ֑עְלָה וְכָל־אֲחֹֽרֵיהֶ֖ם בָּֽיְתָה׃ (I Kgs. 7:25)
+NIV	The Sea stood on twelve bulls, three _facing_ north, three _facing_ west, three _facing_ south and three _facing_ east. The Sea rested on top of them, and their hindquarters were towards the centre.
+ESV	It stood on twelve oxen, three _facing_ north, three _facing_ west, three _facing_ south, and three _facing_ east. The sea was set on them, and all their rear parts were inward.
+
+(x)	וַיִּקְשֹׁ֤ר עָלָיו֙ עַבְדֹּ֣ו זִמְרִ֔י שַׂ֖ר מַחֲצִ֣ית הָרָ֑כֶב וְה֤וּא בְתִרְצָה֙ _שֹׁתֶ֣ה_ שִׁכֹּ֔ור בֵּ֣ית אַרְצָ֔א אֲשֶׁ֥ר עַל־הַבַּ֖יִת בְּתִרְצָֽה׃ (I Kgs. 16:9)
+NIV	Zimri, one of his officials, who had command of half his chariots, plotted against him. Elah was in Tirzah at the time, _getting drunk_ in the home of Arza, the man in charge of the palace at Tirzah.
+ESV	But his servant Zimri, commander of half his chariots, conspired against him. When he was at Tirzah, _drinking_ himself drunk in the house of Arza, who was over the household in Tirzah,
+
+(x)	וַיֹּ֨אמֶר אֲלֵיהֶ֜ם רַב־שָׁקֵ֗ה הַעַ֨ל אֲדֹנֶ֤יךָ וְאֵלֶ֨יךָ֙ שְׁלָחַ֣נִי אֲדֹנִ֔י לְדַבֵּ֖ר אֶת־הַדְּבָרִ֣ים הָאֵ֑לֶּה הֲלֹ֣א עַל־הָאֲנָשִׁ֗ים הַ_יֹּֽשְׁבִים֙_ עַל־הַ֣חֹמָ֔ה לֶאֱכֹ֣ל אֶת צֹואָתָ֗ם וְלִשְׁתֹּ֛ות אֶת־מֵֽימֵי רַגְלֵיהֶ֖ם עִמָּכֶֽם׃ (II Kgs. 18:27)
+NIV	But the commander replied, “Was it only to your master and you that my master sent me to say these things, and not to the men _sitting_ on the wall — who, like you, will have to eat their own filth and drink their own urine?”
+ESV	But the Rabshakeh said to them, “Has my master sent me to speak these words to your master and to you, and not to the men _sitting_ on the wall, who are doomed with you to eat their own dung and to drink their own urine?”
+
+(x)	וְהָרְשָׁעִ֖ים כַּיָּ֣ם _נִגְרָ֑שׁ_ כִּ֤י הַשְׁקֵט֙ לֹ֣א יוּכָ֔ל וַיִּגְרְשׁ֥וּ מֵימָ֖יו רֶ֥פֶשׁ וָטִֽיט׃ (Isa. 57:20)
+NIV	But the wicked are like the _tossing_ sea, which cannot rest, whose waves cast up mire and mud.
+ESV	But the wicked are like the _tossing_ sea. for it cannot be quiet, and its waters toss up mire and dirt.
+
+(x)	וּבָ֣אוּ מֵעָרֵֽי־יְ֠הוּדָה וּמִסְּבִיבֹ֨ות יְרוּשָׁלִַ֜ם וּמֵאֶ֣רֶץ בִּנְיָמִ֗ן וּמִן־הַשְּׁפֵלָ֤ה וּמִן־הָהָר֙ וּמִן־הַנֶּ֔גֶב _מְבִאִ֛ים_ עֹולָ֥ה וְזֶ֖בַח וּמִנְחָ֣ה וּלְבֹונָ֑ה וּמְבִאֵ֥י תֹודָ֖ה בֵּ֥ית יְהוָֽה׃ (Jer. 17:26)
+NIV	People will come from the towns of Judah and the villages around Jerusalem, from the territory of Benjamin and the western foothills, from the hill country and the Negev, _bringing_ burnt offerings and sacrifices, grain offerings, incense and thank-offerings to the house of the LORD.
+ESV	And people shall come from the cities of Judah and the places around Jerusalem, from the land of Benjamin, from the Shephelah, from the hill country, and from the Negeb, _bringing_ burnt offerings and sacrifices, grain offerings and frankincense, and _bringing_ thank offerings to the house of the Lord.
+
+(x)	כְּמַרְאֵ֣ה הַקֶּ֡שֶׁת אֲשֶׁר֩ יִֽהְיֶ֨ה בֶעָנָ֜ן בְּיֹ֣ום הַגֶּ֗שֶׁם כֵּ֣ן מַרְאֵ֤ה הַנֹּ֨גַהּ֙ סָבִ֔יב ה֕וּא מַרְאֵ֖ה דְּמ֣וּת כְּבֹוד־יְהוָ֑ה וָֽאֶרְאֶה֙ וָאֶפֹּ֣ל עַל־פָּנַ֔י וָאֶשְׁמַ֖ע קֹ֥ול _מְדַבֵּֽר_׃ ס (Ezek. 1:28)
+NIV	Like the appearance of a rainbow in the clouds on a rainy day, so was the radiance around him. This was the appearance of the likeness of the glory of the LORD. When I saw it, I fell face down, and I heard the voice of one _speaking_.
+ESV	Like the appearance of the bow that is in the cloud on the day of rain, so was the appearance of the brightness all around. Such was the appearance of the likeness of the glory of the Lord. And when I saw it, I fell on my face, and I heard the voice of one _speaking_.
+
+(x)	וְ֠הַצֹּפֶה כִּֽי־יִרְאֶ֨ה אֶת־הַחֶ֜רֶב _בָּאָ֗ה_ וְלֹֽא־תָקַ֤ע בַּשֹּׁופָר֙ וְהָעָ֣ם לֹֽא־נִזְהָ֔ר וַתָּבֹ֣וא חֶ֔רֶב וַתִּקַּ֥ח מֵהֶ֖ם נָ֑פֶשׁ ה֚וּא בַּעֲוֹנֹ֣ו נִלְקָ֔ח וְדָמֹ֖ו מִיַּֽד־הַצֹּפֶ֥ה אֶדְרֹֽשׁ׃ ס (Ezek. 33:6)
+NIV	But if the watchman sees the sword _coming_ and does not blow the trumpet to warn the people and the sword comes and takes the life of one of them, that man will be taken away because of his sin, but I will hold the watchman accountable for his blood.’
+ESV	But if the watchman sees the sword _coming_ and does not blow the trumpet, so that the people are not warned, and the sword comes and takes any one of them, that person is taken away in his iniquity, but his blood I will require at the watchman’s hand.
+
+(x)	וַיַּרְאֵ֗נִי אֶת־יְהֹושֻׁ֨עַ֙ הַכֹּהֵ֣ן הַגָּדֹ֔ול _עֹמֵ֕ד_ לִפְנֵ֖י מַלְאַ֣ךְ יְהוָ֑ה וְהַשָּׂטָ֛ן עֹמֵ֥ד עַל־יְמִינֹ֖ו לְשִׂטְנֹֽו׃ (Zech. 3:1)
+NIV	Then he showed me Joshua the high priest _standing_ before the angel of the LORD, and Satan _standing_ at his right side to accuse him.
+ESV	Then he showed me Joshua the high priest _standing_ before the angel of the Lord, and Satan _standing_ at his right hand to accuse him.
+
+(x)	פִּקּ֘וּדֵ֤י יְהוָ֣ה יְ֭שָׁרִים _מְשַׂמְּחֵי_־לֵ֑ב מִצְוַ֥ת יְהוָ֥ה בָּ֝רָ֗ה מְאִירַ֥ת עֵינָֽיִם׃ (Psa. 19:9)
+NIV	The precepts of the LORD are right, _giving joy_ to the heart. The commands of the LORD are radiant, giving light to the eyes.
+ESV	the precepts of the Lord are right, _rejoicing_ the heart. the commandment of the Lord is pure, enlightening the eyes.
+
+(x)	הָ֘לֹ֤וךְ יֵלֵ֨ךְ׀ וּבָכֹה֮ _נֹשֵׂ֪א_ מֶֽשֶׁךְ־הַ֫זָּ֥רַע בֹּֽא־יָבֹ֥וא בְרִנָּ֑ה נֹ֝שֵׂ֗א אֲלֻמֹּתָֽיו׃ (Psa. 126:6)
+NIV	He who goes out weeping, _carrying_ seed to sow, will return with songs of joy, _carrying_ sheaves with him.
+ESV	He who goes out weeping, _bearing_ the seed for sowing, shall come home with shouts of joy, bringing his sheaves with him.
+
+(x)	הֵ֤ן פְּרָאִ֨ים׀ בַּֽמִּדְבָּ֗ר יָצְא֣וּ בְּ֭פָעֳלָם _מְשַׁחֲרֵ֣י_ לַטָּ֑רֶף עֲרָבָ֥ה לֹ֥ו לֶ֝֗חֶם לַנְּעָרִֽים׃ (Job 24:5)
+NIV	Like wild donkeys in the desert, the poor go about their labour of _foraging_ food. the wasteland provides food for their children.
+ESV	Behold, like wild donkeys in the desert the poor go out to their toil, _seeking_ game. the wasteland yields food for their children.
+
+(x)	דֹּומֶ֤ה דֹודִי֙ לִצְבִ֔י אֹ֖ו לְעֹ֣פֶר הָֽאַיָּלִ֑ים הִנֵּה־זֶ֤ה עֹומֵד֙ אַחַ֣ר כָּתְלֵ֔נוּ _מַשְׁגִּ֨יחַ֙_ מִן־הַֽחֲלֹּנֹ֔ות מֵצִ֖יץ מִן־הַֽחֲרַכִּֽים׃ (Song 2:9)
+NIV	My lover is like a gazelle or a young stag. Look! There he stands behind our wall, _gazing_ through the windows, peering through the lattice.
+ESV	My beloved is like a gazelle or a young stag. Behold, there he stands behind our wall, _gazing_ through the windows, looking through the lattice.
+
+(x)	וַיְהִי֩ כִרְאֹ֨ות הַמֶּ֜לֶךְ אֶת־אֶסְתֵּ֣ר הַמַּלְכָּ֗ה _עֹמֶ֨דֶת֙_ בֶּֽחָצֵ֔ר נָשְׂאָ֥ה חֵ֖ן בְּעֵינָ֑יו וַיֹּ֨ושֶׁט הַמֶּ֜לֶךְ לְאֶסְתֵּ֗ר אֶת־שַׁרְבִ֤יט הַזָּהָב֙ אֲשֶׁ֣ר בְּיָדֹ֔ו וַתִּקְרַ֣ב אֶסְתֵּ֔ר וַתִּגַּ֖ע בְּרֹ֥אשׁ הַשַּׁרְבִֽיט׃ ס (Esth. 5:2)
+NIV	When he saw Queen Esther _standing_ in the court, he was pleased with her and held out to her the gold sceptre that was in his hand. So Esther approached and touched the tip of the sceptre.
+ESV	And when the king saw Queen Esther _standing_ in the court, she won favor in his sight, and he held out to Esther the golden scepter that was in his hand. Then Esther approached and touched the tip of the scepter.
+
+(x)	וּכְהִתְפַּלֵּ֤ל עֶזְרָא֙ וּכְ֨הִתְוַדֹּתֹ֔ו בֹּכֶה֙ וּ_מִתְנַפֵּ֔ל_ לִפְנֵ֖י בֵּ֣ית הָאֱלֹהִ֑ים נִקְבְּצוּ֩ אֵלָ֨יו מִיִּשְׂרָאֵ֜ל קָהָ֣ל רַב־מְאֹ֗ד אֲנָשִׁ֤ים וְנָשִׁים֙ וִֽילָדִ֔ים כִּֽי־בָכ֥וּ הָעָ֖ם הַרְבֵּה־בֶֽכֶה׃ ס (Ezra 10:1)
+NIV	While Ezra was praying and confessing, weeping and throwing himself down before the house of God, a large crowd of Israelites — men, women and children — gathered round him. They too wept bitterly.
+ESV	While Ezra prayed and made confession, weeping and casting himself down before the house of God, a very great assembly of men, women, and children, gathered to him out of Israel, for the people wept bitterly.
+
+(x)	וְגַ֣ם הַקְּרֹֽובִים־אֲ֠לֵיהֶם עַד־יִשָׂשכָ֨ר וּזְבֻל֜וּן וְנַפְתָּלִ֗י _מְבִיאִ֣ים_ לֶ֡חֶם בַּחֲמֹורִ֣ים וּבַגְּמַלִּ֣ים וּבַפְּרָדִ֣ים׀ וּֽבַבָּקָ֡ר מַאֲכָ֡ל קֶ֠מַח דְּבֵלִ֨ים וְצִמּוּקִ֧ים וְיַֽיִן־וְשֶׁ֛מֶן וּבָקָ֥ר וְצֹ֖אן לָרֹ֑ב כִּ֥י שִׂמְחָ֖ה בְּיִשְׂרָאֵֽל׃ פ (I Chr. 12:41)
+NIV	Also, their neighbours from as far away as Issachar, Zebulun and Naphtali came _bringing_ food on donkeys, camels, mules and oxen. There were plentiful supplies of flour, fig cakes, raisin cakes, wine, oil, cattle and sheep, for there was joy in Israel.
+ESV	And also their relatives, from as far as Issachar and Zebulun and Naphtali, came _bringing_ food on donkeys and on camels and on mules and on oxen, abundant provisions of flour, cakes of figs, clusters of raisins, and wine and oil, oxen and sheep, for there was joy in Israel.
+
+(x)	וּמַֽלְכַּת־שְׁבָ֗א שָֽׁמְעָה֮ אֶת־שֵׁ֣מַע שְׁלֹמֹה֒ וַתָּבֹ֣וא לְנַסֹּות֩ אֶת־שְׁלֹמֹ֨ה בְחִידֹ֜ות בִּירֽוּשָׁלִַ֗ם בְּחַ֣יִל כָּבֵ֣ד מְאֹ֡ד וּ֠גְמַלִּים _נֹשְׂאִ֨ים_ בְּשָׂמִ֧ים וְזָהָ֛ב לָרֹ֖ב וְאֶ֣בֶן יְקָרָ֑ה וַתָּבֹוא֙ אֶל־שְׁלֹמֹ֔ה וַתְּדַבֵּ֣ר עִמֹּ֔ו אֵ֛ת כָּל־אֲשֶׁ֥ר הָיָ֖ה עִם־לְבָבָֽהּ׃ (II Chr. 9:1)
+NIV	When the queen of Sheba heard of Solomon’s fame, she came to Jerusalem to test him with hard questions. Arriving with a very great caravan — with camels _carrying_ spices, large quantities of gold, and precious stones — she came to Solomon and talked with him about all she had on her mind.
+ESV	Now when the queen of Sheba heard of the fame of Solomon, she came to Jerusalem to test him with hard questions, having a very great retinue and camels _bearing_ spices and very much gold and precious stones. And when she came to Solomon, she told him all that was on her mind.
+
+(x)	כֹּ֣ה אָמַ֔ר סַנְחֵרִ֖יב מֶ֣לֶךְ אַשּׁ֑וּר עַל־מָה֙ אַתֶּ֣ם _בֹּטְחִ֔ים_ וְיֹשְׁבִ֥ים בְּמָצֹ֖ור בִּירוּשָׁלִָֽם׃ (II Chr. 32:10)
+NIV	“This is what Sennacherib king of Assyria says: On what are you basing your confidence, that you remain in Jerusalem under siege?
+ESV	“Thus says Sennacherib king of Assyria, ‘On what are you trusting, that you endure the siege in Jerusalem?

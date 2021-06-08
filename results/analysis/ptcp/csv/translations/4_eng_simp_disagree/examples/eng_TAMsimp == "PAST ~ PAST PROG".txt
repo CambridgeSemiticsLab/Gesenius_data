@@ -1,0 +1,102 @@
+eng_TAMsimp == "PAST ~ PAST PROG"
+25 of 103
+
+(x)	וְגַם־לְלֹ֔וט הַ_הֹלֵ֖ךְ_ אֶת־אַבְרָ֑ם הָיָ֥ה צֹאן־וּבָקָ֖ר וְאֹהָלִֽים׃ (Gen. 13:5)
+NIV	Now Lot, _who was moving about_ with Abram, also had flocks and herds and tents.
+ESV	And Lot, _who went_ with Abram, also had flocks and herds and tents,
+
+(x)	וַתֵּ֤רֶד בַּת־פַּרְעֹה֙ לִרְחֹ֣ץ עַל־הַיְאֹ֔ר וְנַעֲרֹתֶ֥יהָ _הֹלְכֹ֖ת_ עַל־יַ֣ד הַיְאֹ֑ר וַתֵּ֤רֶא אֶת־הַתֵּבָה֙ בְּתֹ֣וךְ הַסּ֔וּף וַתִּשְׁלַ֥ח אֶת־אֲמָתָ֖הּ וַתִּקָּחֶֽהָ׃ (Exod. 2:5)
+NIV	Then Pharaoh’s daughter went down to the Nile to bathe, and her attendants _were walking_ along the river bank. She saw the basket among the reeds and sent her slave girl to get it.
+ESV	Now the daughter of Pharaoh came down to bathe at the river, while her young women _walked_ beside the river. She saw the basket among the reeds and sent her servant woman, and she took it.
+
+(x)	וַיֵּעָל֗וּ מֵעַ֧ל מִשְׁכַּן־קֹ֛רֶח דָּתָ֥ן וַאֲבִירָ֖ם מִסָּבִ֑יב וְדָתָ֨ן וַאֲבִירָ֜ם יָצְא֣וּ _נִצָּבִ֗ים_ פֶּ֚תַח אָֽהֳלֵיהֶ֔ם וּנְשֵׁיהֶ֥ם וּבְנֵיהֶ֖ם וְטַפָּֽם׃ (Num. 16:27)
+NIV	So they moved away from the tents of Korah, Dathan and Abiram. Dathan and Abiram had come out and _were standing_ with their wives, children and little ones at the entrances to their tents.
+ESV	So they got away from the dwelling of Korah, Dathan, and Abiram. And Dathan and Abiram came out and _stood_ at the door of their tents, together with their wives, their sons, and their little ones.
+
+(x)	וַיַּעַמְד֣וּ הַכֹּהֲנִ֡ים נֹ֠שְׂאֵי הָאָרֹ֨ון בְּרִית־יְהוָ֜ה בֶּחָֽרָבָ֛ה בְּתֹ֥וךְ הַיַּרְדֵּ֖ן הָכֵ֑ן וְכָל־יִשְׂרָאֵ֗ל _עֹֽבְרִים֙_ בֶּחָ֣רָבָ֔ה עַ֤ד אֲשֶׁר־תַּ֨מּוּ֙ כָּל־הַגֹּ֔וי לַעֲבֹ֖ר אֶת־הַיַּרְדֵּֽן׃ (Josh. 3:17)
+NIV	The priests who carried the ark of the covenant of the LORD stood firm on dry ground in the middle of the Jordan, while all Israel _passed by_ until the whole nation had completed the crossing on dry ground.
+ESV	Now the priests bearing the ark of the covenant of the Lord stood firmly on dry ground in the midst of the Jordan, and all Israel _was passing over_ on dry ground until all the nation finished passing over the Jordan.
+
+(x)	וְשִׁבְעָ֣ה הַכֹּהֲנִ֡ים נֹשְׂאִים֩ שִׁבְעָ֨ה שֹׁופְרֹ֜ות הַיֹּבְלִ֗ים לִפְנֵי֙ אֲרֹ֣ון יְהוָ֔ה הֹלְכִ֣ים הָלֹ֔וךְ וְתָקְע֖וּ בַּשֹּׁופָרֹ֑ות וְהֶחָלוּץ֙ הֹלֵ֣ךְ לִפְנֵיהֶ֔ם וְהַֽמְאַסֵּ֗ף _הֹלֵךְ֙_ אַֽחֲרֵי֙ אֲרֹ֣ון יְהוָ֔ה הָלֹ֖וךְ וְתָקֹ֥ועַ בַּשֹּׁופָרֹֽות׃ (Josh. 6:13)
+NIV	The seven priests carrying the seven trumpets went forward, marching before the ark of the LORD and blowing the trumpets. The armed men went ahead of them and the rear guard _followed_ the ark of the LORD, while the trumpets kept sounding.
+ESV	And the seven priests bearing the seven trumpets of rams’ horns before the ark of the Lord walked on, and they blew the trumpets continually. And the armed men were walking before them, and the rear guard _was walking_ after the ark of the Lord, while the trumpets blew continually.
+
+(x)	וְאָבִ֨יו וְאִמֹּ֜ו לֹ֣א יָדְע֗וּ כִּ֤י מֵיְהוָה֙ הִ֔יא כִּי־תֹאֲנָ֥ה הֽוּא־מְבַקֵּ֖שׁ מִפְּלִשְׁתִּ֑ים וּבָעֵ֣ת הַהִ֔יא פְּלִשְׁתִּ֖ים _מֹשְׁלִ֥ים_ בְּיִשְׂרָאֵֽל׃ פ (Judg. 14:4)
+NIV	( His parents did not know that this was from the LORD, who was seeking an occasion to confront the Philistines. for at that time they _were ruling_ over Israel. )
+ESV	His father and mother did not know that it was from the Lord, for he was seeking an opportunity against the Philistines. At that time the Philistines _ruled_ over Israel.
+
+(x)	וַתֹּ֨אמֶר֙ בִּ֣י אֲדֹנִ֔י חֵ֥י נַפְשְׁךָ֖ אֲדֹנִ֑י אֲנִ֣י הָאִשָּׁ֗ה הַ_נִּצֶּ֤בֶת_ עִמְּכָה֙ בָּזֶ֔ה לְהִתְפַּלֵּ֖ל אֶל־יְהוָֽה׃ (I Sam. 1:26)
+NIV	and she said to him, “As surely as you live, my lord, I am the woman _who stood_ here beside you praying to the LORD.
+ESV	And she said, “Oh, my lord! As you live, my lord, I am the woman _who was standing_ here in your presence, praying to the Lord.
+
+(x)	הֵ֗מָּה _עֹלִים֙_ בְּמַעֲלֵ֣ה הָעִ֔יר וְהֵ֨מָּה֙ מָצְא֣וּ נְעָרֹ֔ות יֹצְאֹ֖ות לִשְׁאֹ֣ב מָ֑יִם וַיֹּאמְר֣וּ לָהֶ֔ן הֲיֵ֥שׁ בָּזֶ֖ה הָרֹאֶֽה׃ (I Sam. 9:11)
+NIV	As they were going up the hill to the town, they met some girls coming out to draw water, and they asked them, “Is the seer here?”
+ESV	As they _went up_ the hill to the city, they met young women coming out to draw water and said to them, “Is the seer here?”
+
+(x)	וַיֵּ֨לֶךְ֙ הַפְּלִשְׁתִּ֔י _הֹלֵ֥ךְ_ וְקָרֵ֖ב אֶל־דָּוִ֑ד וְהָאִ֛ישׁ נֹשֵׂ֥א הַצִּנָּ֖ה לְפָנָֽיו׃ (I Sam. 17:41)
+NIV	Meanwhile, the Philistine, with his shield-bearer in front of him, kept _coming_ closer to David.
+ESV	And the Philistine moved forward and _came near_ to David, with his shield-bearer in front of him.
+
+(x)	וַ֠יָּבֹא אֶל־גִּדְרֹ֨ות הַצֹּ֤אן עַל־הַדֶּ֨רֶךְ֙ וְשָׁ֣ם מְעָרָ֔ה וַיָּבֹ֥א שָׁא֖וּל לְהָסֵ֣ךְ אֶת־רַגְלָ֑יו וְדָוִד֙ וַאֲנָשָׁ֔יו בְּיַרְכְּתֵ֥י הַמְּעָרָ֖ה _יֹשְׁבִֽים_׃ (I Sam. 24:4)
+NIV	He came to the sheep pens along the way. a cave was there, and Saul went in to relieve himself. David and his men _were_ far back in the cave.
+ESV	And he came to the sheepfolds by the way, where there was a cave, and Saul went in to relieve himself. Now David and his men _were sitting_ in the innermost parts of the cave.
+
+(x)	וַיִּשָּׂאֻ֗הוּ מִבֵּ֤ית אֲבִֽינָדָב֙ אֲשֶׁ֣ר בַּגִּבְעָ֔ה עִ֖ם אֲרֹ֣ון הָאֱלֹהִ֑ים וְאַחְיֹ֕ו _הֹלֵ֖ךְ_ לִפְנֵ֥י הָאָרֹֽון׃ (II Sam. 6:4)
+NIV	with the ark of God on it, and Ahio _was walking_ in front of it.
+ESV	with the ark of God, and Ahio _went_ before the ark.
+
+(x)	וַיֵּ֧לֶךְ דָּוִ֛ד וַאֲנָשָׁ֖יו בַּדָּ֑רֶךְ ס וְשִׁמְעִ֡י _הֹלֵךְ֩_ בְּצֵ֨לַע הָהָ֜ר לְעֻמָּתֹ֗ו הָלֹוךְ֙ וַיְקַלֵּ֔ל וַיְסַקֵּ֤ל בָּֽאֲבָנִים֙ לְעֻמָּתֹ֔ו וְעִפַּ֖ר בֶּעָפָֽר׃ פ (II Sam. 16:13)
+NIV	So David and his men continued along the road while Shimei _was going_ along the hillside opposite him, cursing as he went and throwing stones at him and showering him with dirt.
+ESV	So David and his men went on the road, while Shimei _went along_ on the hillside opposite him and cursed as he went and threw stones at him and flung dust.
+
+(x)	וַיְהִ֕י הֵ֥ם _יֹשְׁבִ֖ים_ אֶל־הַשֻּׁלְחָ֑ן פ וַֽיְהִי֙ דְּבַר־יְהוָ֔ה אֶל־הַנָּבִ֖יא אֲשֶׁ֥ר הֱשִׁיבֹֽו׃ (I Kgs. 13:20)
+NIV	While they were sitting at the table, the word of the LORD came to the old prophet who had brought him back.
+ESV	And as they _sat_ at the table, the word of the Lord came to the prophet who had brought him back.
+
+(x)	וַתֵּ֨לֶךְ֙ מֵֽאִתֹּ֔ו וַתִּסְגֹּ֣ר הַדֶּ֔לֶת בַּעֲדָ֖הּ וּבְעַ֣ד בָּנֶ֑יהָ הֵ֛ם מַגִּשִׁ֥ים אֵלֶ֖יהָ וְהִ֥יא מֹוצָֽקֶת׃ (II Kgs. 4:5)
+NIV	She left him and afterwards shut the door behind her and her sons. They brought the jars to her and she _kept pouring_.
+ESV	So she went from him and shut the door behind herself and her sons. And as she _poured_ they brought the vessels to her.
+
+(x)	וַתִּקַּ֣ח יְהֹושֶׁ֣בַע בַּת־הַמֶּֽלֶךְ־יֹ֠ורָם אֲחֹ֨ות אֲחַזְיָ֜הוּ אֶת־יֹואָ֣שׁ בֶּן־אֲחַזְיָ֗ה וַתִּגְנֹ֤ב אֹתֹו֙ מִתֹּ֤וךְ בְּנֵֽי־הַמֶּ֨לֶךְ֙ הַמּ֣וּמָתִ֔ים אֹתֹ֥ו וְאֶת־מֵינִקְתֹּ֖ו בַּחֲדַ֣ר הַמִּטֹּ֑ות וַיַּסְתִּ֧רוּ אֹתֹ֛ו מִפְּנֵ֥י עֲתַלְיָ֖הוּ וְלֹ֥א הוּמָֽת׃ (II Kgs. 11:2)
+NIV	But Jehosheba, the daughter of King Jehoram and sister of Ahaziah, took Joash son of Ahaziah and stole him away from among the royal princes, _who were about to be murdered_. She put him and his nurse in a bedroom to hide him from Athaliah. so he was not killed.
+ESV	But Jehosheba, the daughter of King Joram, sister of Ahaziah, took Joash the son of Ahaziah and stole him away from among the king’s sons _who were being put to death_, and she put him and his nurse in a bedroom. Thus they hid him from Athaliah, so that he was not put to death.
+
+(x)	וָאָבֹ֨וא אֶל־הַגֹּולָ֜ה תֵּ֣ל ֠אָבִיב הַ_יֹּשְׁבִ֤ים_ אֶֽל־נְהַר־כְּבָר֙ וָֽאֵשֵׁ֔ב הֵ֖מָּה יֹושְׁבִ֣ים שָׁ֑ם וָאֵשֵׁ֥ב שָׁ֛ם שִׁבְעַ֥ת יָמִ֖ים מַשְׁמִ֥ים בְּתֹוכָֽם׃ (Ezek. 3:15)
+NIV	I came to the exiles _who lived_ at Tel Abib near the Kebar River. And there, where they were living, I sat among them for seven days — overwhelmed.
+ESV	And I came to the exiles at Tel-abib, _who were dwelling_ by the Chebar canal, and I sat where they were dwelling. And I sat there overwhelmed among them seven days.
+
+(x)	וְשִׁבְעִ֣ים אִ֣ישׁ מִזִּקְנֵ֣י בֵֽית־יִ֠שְׂרָאֵל וְיַאֲזַנְיָ֨הוּ בֶן־שָׁפָ֜ן עֹמֵ֤ד בְּתֹוכָם֙ עֹמְדִ֣ים לִפְנֵיהֶ֔ם וְאִ֥ישׁ מִקְטַרְתֹּ֖ו בְּיָדֹ֑ו וַעֲתַ֥ר עֲנַֽן־הַקְּטֹ֖רֶת _עֹלֶֽה_׃ (Ezek. 8:11)
+NIV	In front of them stood seventy elders of the house of Israel, and Jaazaniah son of Shaphan was standing among them. Each had a censer in his hand, and a fragrant cloud of incense _was rising_.
+ESV	And before them stood seventy men of the elders of the house of Israel, with Jaazaniah the son of Shaphan standing among them. Each had his censer in his hand, and the smoke of the cloud of incense _went up_.
+
+(x)	וָאֹמַ֗ר אֶל־הַמַּלְאָ֛ךְ הַ_דֹּבֵ֥ר_ בִּ֖י מָה־אֵ֑לֶּה וַיֹּ֣אמֶר אֵלַ֔י אֵ֤לֶּה הַקְּרָנֹות֙ אֲשֶׁ֣ר זֵר֣וּ אֶת־יְהוּדָ֔ה אֶת־יִשְׂרָאֵ֖ל וִירוּשָׁלָֽם׃ ס (Zech. 2:2)
+NIV	I asked the angel _who was speaking_ to me, “What are these?” He answered me, “These are the horns that scattered Judah, Israel and Jerusalem.”
+ESV	And I said to the angel _who talked_ with me, “What are these?” And he said to me, “These are the horns that have scattered Judah, Israel, and Jerusalem.”
+
+(x)	וַיֵּצֵ֕א הַמַּלְאָ֖ךְ הַ_דֹּבֵ֣ר_ בִּ֑י וַיֹּ֣אמֶר אֵלַ֔י שָׂ֣א נָ֤א עֵינֶ֨יךָ֙ וּרְאֵ֔ה מָ֖ה הַיֹּוצֵ֥את הַזֹּֽאת׃ (Zech. 5:5)
+NIV	Then the angel _who was speaking_ to me came forward and said to me, “Look up and see what this is that is appearing.”
+ESV	Then the angel _who talked_ with me came forward and said to me, “Lift your eyes and see what this is that is going out.”
+
+(x)	וּבְהַגִּ֣יעַ תֹּר־אֶסְתֵּ֣ר בַּת־אֲבִיחַ֣יִל דֹּ֣ד מָרְדֳּכַ֡י אֲשֶׁר֩ לָקַֽח־לֹ֨ו לְבַ֜ת לָבֹ֣וא אֶל־הַמֶּ֗לֶךְ לֹ֤א בִקְשָׁה֙ דָּבָ֔ר כִּ֠י אִ֣ם אֶת־אֲשֶׁ֥ר יֹאמַ֛ר הֵגַ֥י סְרִיס־הַמֶּ֖לֶךְ שֹׁמֵ֣ר הַנָּשִׁ֑ים וַתְּהִ֤י אֶסְתֵּר֙ _נֹשֵׂ֣את_ חֵ֔ן בְּעֵינֵ֖י כָּל־רֹאֶֽיהָ׃ (Esth. 2:15)
+NIV	When the turn came for Esther ( the girl Mordecai had adopted, the daughter of his uncle Abihail ) to go to the king, she asked for nothing other than what Hegai, the king’s eunuch who was in charge of the harem, suggested. And Esther _won_ the favour of everyone who saw her.
+ESV	When the turn came for Esther the daughter of Abihail the uncle of Mordecai, who had taken her as his own daughter, to go in to the king, she asked for nothing except what Hegai the king’s eunuch, who had charge of the women, advised. Now Esther _was winning favor_ in the eyes of all who saw her.
+
+(x)	וְיֵשׁ֙ אֲשֶׁ֣ר _אֹמְרִ֔ים_ בָּנֵ֥ינוּ וּבְנֹתֵ֖ינוּ אֲנַ֣חְנוּ רַבִּ֑ים וְנִקְחָ֥ה דָגָ֖ן וְנֹאכְלָ֥ה וְנִחְיֶֽה׃ (Neh. 5:2)
+NIV	Some _were saying_, “We and our sons and daughters are numerous. in order for us to eat and stay alive, we must get grain.”
+ESV	For there were those who _said_, “With our sons and our daughters, we are many. So let us get grain, that we may eat and keep alive.”
+
+(x)	גַּ֣ם טֹובֹתָ֗יו הָי֤וּ _אֹמְרִים֙_ לְפָנַ֔י וּדְבָרַ֕י הָי֥וּ מֹוצִיאִ֖ים לֹ֑ו אִגְּרֹ֛ות שָׁלַ֥ח טֹובִיָּ֖ה לְיָֽרְאֵֽנִי׃ (Neh. 6:19)
+NIV	Moreover, they _kept reporting_ to me his good deeds and then telling him what I said. And Tobiah sent letters to intimidate me.
+ESV	Also they _spoke_ of his good deeds in my presence and reported my words to him. And Tobiah sent letters to make me afraid.
+
+(x)	וַיַּסֵּ֤ב הַמֶּ֨לֶךְ֙ אֶת־פָּנָ֔יו וַיְבָ֕רֶךְ אֵ֖ת כָּל־קְהַ֣ל יִשְׂרָאֵ֑ל וְכָל־קְהַ֥ל יִשְׂרָאֵ֖ל _עֹומֵֽד_׃ (II Chr. 6:3)
+NIV	While the whole assembly of Israel _was standing_ there, the king turned round and blessed them.
+ESV	Then the king turned around and blessed all the assembly of Israel, while all the assembly of Israel _stood_.
+
+(x)	וַיֹּצֵ֨א אָסָ֜א כֶּ֣סֶף וְזָהָ֗ב מֵאֹֽצְרֹ֛ות בֵּ֥ית יְהוָ֖ה וּבֵ֣ית הַמֶּ֑לֶךְ וַיִּשְׁלַ֗ח אֶל־בֶּן־הֲדַד֙ מֶ֣לֶךְ אֲרָ֔ם הַ_יֹּושֵׁ֥ב_ בְּדַרְמֶ֖שֶׂק לֵאמֹֽר׃ (II Chr. 16:2)
+NIV	Asa then took the silver and gold out of the treasuries of the LORD’s temple and of his own palace and sent it to Ben-hadad king of Aram, _who was ruling_ in Damascus.
+ESV	Then Asa took silver and gold from the treasures of the house of the Lord and the king’s house and sent them to Ben-hadad king of Syria, _who lived_ in Damascus, saying,
+
+(x)	וַיִּֽהְי֤וּ _מַלְעִבִים֙_ בְּמַלְאֲכֵ֣י הָאֱלֹהִ֔ים וּבֹוזִ֣ים דְּבָרָ֔יו וּמִֽתַּעְתְּעִ֖ים בִּנְבִאָ֑יו עַ֠ד עֲלֹ֧ות חֲמַת־יְהוָ֛ה בְּעַמֹּ֖ו עַד־לְאֵ֥ין מַרְפֵּֽא׃ (II Chr. 36:16)
+NIV	But they _mocked_ God’s messengers, despised his words and scoffed at his prophets until the wrath of the LORD was aroused against his people and there was no remedy.
+ESV	But they _kept mocking_ the messengers of God, despising his words and scoffing at his prophets, until the wrath of the Lord rose against his people, until there was no remedy.

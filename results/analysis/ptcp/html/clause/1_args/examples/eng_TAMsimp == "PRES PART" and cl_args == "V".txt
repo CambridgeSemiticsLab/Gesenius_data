@@ -1,0 +1,102 @@
+eng_TAMsimp == "PRES PART" and cl_args == "V"
+25 of 123
+
+(x)	וַיֹּ֣אמֶר אֱלֹהִ֗ים תַּֽדְשֵׁ֤א הָאָ֨רֶץ֙ דֶּ֔שֶׁא עֵ֚שֶׂב _מַזְרִ֣יעַ_ זֶ֔רַע עֵ֣ץ פְּרִ֞י עֹ֤שֶׂה פְּרִי֙ לְמִינֹ֔ו אֲשֶׁ֥ר זַרְעֹו־בֹ֖ו עַל־הָאָ֑רֶץ וַֽיְהִי־כֵֽן׃ (Gen. 1:11)
+NIV	Then God said, “Let the land produce vegetation: _seed-bearing_ plants and trees on the land that bear fruit with seed in it, according to their various kinds.” And it was so.
+ESV	And God said, “Let the earth sprout vegetation, plants _yielding_ seed, and fruit trees bearing fruit in which is their seed, each according to its kind, on the earth.” And it was so.
+
+(x)	יִשָּׂשכָ֖ר חֲמֹ֣ר גָּ֑רֶם _רֹבֵ֖ץ_ בֵּ֥ין הַֽמִּשְׁפְּתָֽיִם׃ (Gen. 49:14)
+NIV	“Issachar is a rawboned donkey _lying down_ between two saddlebags.
+ESV	“Issachar is a strong donkey, _crouching_ between the sheepfolds.
+
+(x)	וְרָאָ֤ה כָל־הָעָם֙ אֶת־עַמּ֣וּד הֶֽעָנָ֔ן _עֹמֵ֖ד_ פֶּ֣תַח הָאֹ֑הֶל וְקָ֤ם כָּל־הָעָם֙ וְהִֽשְׁתַּחֲוּ֔וּ אִ֖ישׁ פֶּ֥תַח אָהֳלֹֽו׃ (Exod. 33:10)
+NIV	Whenever the people saw the pillar of cloud _standing_ at the entrance to the tent, they all stood and worshiped, each at the entrance to his tent.
+ESV	And when all the people saw the pillar of cloud _standing_ at the entrance of the tent, all the people would rise up and worship, each at his tent door.
+
+(x)	וַיַּקְרִ֣יבוּ אֹתֹ֔ו הַמֹּצְאִ֥ים אֹתֹ֖ו _מְקֹשֵׁ֣שׁ_ עֵצִ֑ים אֶל־מֹשֶׁה֙ וְאֶֽל־אַהֲרֹ֔ן וְאֶ֖ל כָּל־הָעֵדָֽה׃ (Num. 15:33)
+NIV	Those who found him _gathering_ wood brought him to Moses and Aaron and the whole assembly,
+ESV	And those who found him _gathering_ sticks brought him to Moses and Aaron and to all the congregation.
+
+(x)	לֹא־תִשְׁתַּחֲוֶ֥֣ה לָהֶ֖ם֮ וְלֹ֣א תָעָבְדֵ֑ם֒ כִּ֣י אָנֹכִ֞י יְהוָ֤ה אֱלֹהֶ֨יךָ֙ אֵ֣ל קַנָּ֔א _פֹּ֠קֵד_ עֲוֹ֨ן אָבֹ֧ות עַל־בָּנִ֛ים וְעַל־שִׁלֵּשִׁ֥ים וְעַל־רִבֵּעִ֖ים לְשֹׂנְאָֽ֑י׃ (Deut. 5:9)
+NIV	You shall not bow down to them or worship them. for I, the LORD your God, am a jealous God, _punishing_ the children for the sin of the fathers to the third and fourth generation of those who hate me,
+ESV	You shall not bow down to them or serve them. for I the Lord your God am a jealous God, _visiting_ the iniquity of the fathers on the children to the third and fourth generation of those who hate me,
+
+(x)	כִּי־יִמָּצֵ֣א אִ֗ישׁ _גֹּנֵ֨ב_ נֶ֤פֶשׁ מֵאֶחָיו֙ מִבְּנֵ֣י יִשְׂרָאֵ֔ל וְהִתְעַמֶּר־בֹּ֖ו וּמְכָרֹ֑ו וּמֵת֙ הַגַּנָּ֣ב הַה֔וּא וּבִֽעַרְתָּ֥ הָרָ֖ע מִקִּרְבֶּֽךָ׃ (Deut. 24:7)
+NIV	If a man is caught _kidnapping_ one of his brother Israelites and treats him as a slave or sells him, the kidnapper must die. You must purge the evil from among you.
+ESV	“If a man is found _stealing_ one of his brothers of the people of Israel, and if he treats him as a slave or sells him, then that thief shall die. So you shall purge the evil from your midst.
+
+(x)	וַיָּבֹ֗וא וְהִנֵּ֣ה עֵ֠לִי יֹשֵׁ֨ב עַֽל־הַכִּסֵּ֜א יַ֥ד דֶּ֨רֶךְ֙ _מְצַפֶּ֔ה_ כִּֽי־הָיָ֤ה לִבֹּו֙ חָרֵ֔ד עַ֖ל אֲרֹ֣ון הָאֱלֹהִ֑ים וְהָאִ֗ישׁ בָּ֚א לְהַגִּ֣יד בָּעִ֔יר וַתִּזְעַ֖ק כָּל־הָעִֽיר׃ (I Sam. 4:13)
+NIV	When he arrived, there was Eli sitting on his chair by the side of the road, _watching_, because his heart feared for the ark of God. When the man entered the town and told what had happened, the whole town sent up a cry.
+ESV	When he arrived, Eli was sitting on his seat by the road _watching_, for his heart trembled for the ark of God. And when the man came into the city and told the news, all the city cried out.
+
+(x)	וַיִּשְׁלַ֨ח שָׁא֣וּל מַלְאָכִים֮ לָקַ֣חַת אֶת־דָּוִד֒ וַיַּ֗רְא אֶֽת־לַהֲקַ֤ת הַנְּבִיאִים֙ _נִבְּאִ֔ים_ וּשְׁמוּאֵ֕ל עֹמֵ֥ד נִצָּ֖ב עֲלֵיהֶ֑ם וַתְּהִ֞י עַֽל־מַלְאֲכֵ֤י שָׁאוּל֙ ר֣וּחַ אֱלֹהִ֔ים וַיִּֽתְנַבְּא֖וּ גַּם־הֵֽמָּה׃ (I Sam. 19:20)
+NIV	so he sent men to capture him. But when they saw a group of prophets _prophesying_, with Samuel standing there as their leader, the Spirit of God came upon Saul’s men and they also prophesied.
+ESV	Then Saul sent messengers to take David, and when they saw the company of the prophets _prophesying_, and Samuel standing as head over them, the Spirit of God came upon the messengers of Saul, and they also prophesied.
+
+(x)	וְהַמֶּ֣לֶךְ שְׁלֹמֹ֗ה וְכָל־עֲדַ֤ת יִשְׂרָאֵל֙ הַנֹּועָדִ֣ים עָלָ֔יו אִתֹּ֖ו לִפְנֵ֣י הָֽאָרֹ֑ון _מְזַבְּחִים֙_ צֹ֣אן וּבָקָ֔ר אֲשֶׁ֧ר לֹֽא־יִסָּפְר֛וּ וְלֹ֥א יִמָּנ֖וּ מֵרֹֽב׃ (I Kgs. 8:5)
+NIV	and King Solomon and the entire assembly of Israel that had gathered about him were before the ark, _sacrificing_ so many sheep and cattle that they could not be recorded or counted.
+ESV	And King Solomon and all the congregation of Israel, who had assembled before him, were with him before the ark, _sacrificing_ so many sheep and oxen that they could not be counted or numbered.
+
+(x)	וַיָּ֣קָם׀ וַיֵּ֣לֶךְ צָרְפַ֗תָה וַיָּבֹא֙ אֶל־פֶּ֣תַח הָעִ֔יר וְהִנֵּֽה־שָׁ֛ם אִשָּׁ֥ה אַלְמָנָ֖ה _מְקֹשֶׁ֣שֶׁת_ עֵצִ֑ים וַיִּקְרָ֤א אֵלֶ֨יהָ֙ וַיֹּאמַ֔ר קְחִי־נָ֨א לִ֧י מְעַט־מַ֛יִם בַּכְּלִ֖י וְאֶשְׁתֶּֽה׃ (I Kgs. 17:10)
+NIV	So he went to Zarephath. When he came to the town gate, a widow was there _gathering_ sticks. He called to her and asked, “Would you bring me a little water in a jar so I may have a drink?”
+ESV	So he arose and went to Zarephath. And when he came to the gate of the city, behold, a widow was there _gathering_ sticks. And he called to her and said, “Bring me a little water in a vessel, that I may drink.”
+
+(x)	וַיָּ֨שָׁב֙ רַב־שָׁקֵ֔ה וַיִּמְצָא֙ אֶת־מֶ֣לֶךְ אַשּׁ֔וּר _נִלְחָ֖ם_ עַל־לִבְנָ֑ה כִּ֣י שָׁמַ֔ע כִּ֥י נָסַ֖ע מִלָּכִֽישׁ׃ (II Kgs. 19:8)
+NIV	When the field commander heard that the king of Assyria had left Lachish, he withdrew and found the king _fighting_ against Libnah.
+ESV	The Rabshakeh returned, and found the king of Assyria _fighting_ against Libnah, for he heard that the king had left Lachish.
+
+(x)	וַיָּ֨שָׁב֙ רַב־שָׁקֵ֔ה וַיִּמְצָא֙ אֶת־מֶ֣לֶךְ אַשּׁ֔וּר _נִלְחָ֖ם_ עַל־לִבְנָ֑ה כִּ֣י שָׁמַ֔ע כִּ֥י נָסַ֖ע מִלָּכִֽישׁ׃ (Isa. 37:8)
+NIV	When the field commander heard that the king of Assyria had left Lachish, he withdrew and found the king _fighting_ against Libnah.
+ESV	The Rabshakeh returned, and found the king of Assyria _fighting_ against Libnah, for he had heard that the king had left Lachish.
+
+(x)	מִי־זֶ֣ה׀ בָּ֣א מֵאֱדֹ֗ום חֲמ֤וּץ בְּגָדִים֙ מִבָּצְרָ֔ה זֶ֚ה הָד֣וּר בִּלְבוּשֹׁ֔ו צֹעֶ֖ה בְּרֹ֣ב כֹּחֹ֑ו אֲנִ֛י _מְדַבֵּ֥ר_ בִּצְדָקָ֖ה רַ֥ב לְהֹושִֽׁיעַ׃ (Isa. 63:1)
+NIV	Who is this coming from Edom, from Bozrah, with his garments stained crimson? Who is this, robed in splendour, striding forward in the greatness of his strength? “It is I, _speaking_ in righteousness, mighty to save.”
+ESV	Who is this who comes from Edom, in crimsoned garments from Bozrah, he who is splendid in his apparel, marching in the greatness of his strength? “It is I, _speaking_ in righteousness, mighty to save.”
+
+(x)	וּבָ֣אוּ מֵעָרֵֽי־יְ֠הוּדָה וּמִסְּבִיבֹ֨ות יְרוּשָׁלִַ֜ם וּמֵאֶ֣רֶץ בִּנְיָמִ֗ן וּמִן־הַשְּׁפֵלָ֤ה וּמִן־הָהָר֙ וּמִן־הַנֶּ֔גֶב _מְבִאִ֛ים_ עֹולָ֥ה וְזֶ֖בַח וּמִנְחָ֣ה וּלְבֹונָ֑ה וּמְבִאֵ֥י תֹודָ֖ה בֵּ֥ית יְהוָֽה׃ (Jer. 17:26)
+NIV	People will come from the towns of Judah and the villages around Jerusalem, from the territory of Benjamin and the western foothills, from the hill country and the Negev, _bringing_ burnt offerings and sacrifices, grain offerings, incense and thank-offerings to the house of the LORD.
+ESV	And people shall come from the cities of Judah and the places around Jerusalem, from the land of Benjamin, from the Shephelah, from the hill country, and from the Negeb, _bringing_ burnt offerings and sacrifices, grain offerings and frankincense, and _bringing_ thank offerings to the house of the Lord.
+
+(x)	כְּמַרְאֵ֣ה הַקֶּ֡שֶׁת אֲשֶׁר֩ יִֽהְיֶ֨ה בֶעָנָ֜ן בְּיֹ֣ום הַגֶּ֗שֶׁם כֵּ֣ן מַרְאֵ֤ה הַנֹּ֨גַהּ֙ סָבִ֔יב ה֕וּא מַרְאֵ֖ה דְּמ֣וּת כְּבֹוד־יְהוָ֑ה וָֽאֶרְאֶה֙ וָאֶפֹּ֣ל עַל־פָּנַ֔י וָאֶשְׁמַ֖ע קֹ֥ול _מְדַבֵּֽר_׃ ס (Ezek. 1:28)
+NIV	Like the appearance of a rainbow in the clouds on a rainy day, so was the radiance around him. This was the appearance of the likeness of the glory of the LORD. When I saw it, I fell face down, and I heard the voice of one _speaking_.
+ESV	Like the appearance of the bow that is in the cloud on the day of rain, so was the appearance of the brightness all around. Such was the appearance of the likeness of the glory of the Lord. And when I saw it, I fell on my face, and I heard the voice of one _speaking_.
+
+(x)	וְ֠הַצֹּפֶה כִּֽי־יִרְאֶ֨ה אֶת־הַחֶ֜רֶב _בָּאָ֗ה_ וְלֹֽא־תָקַ֤ע בַּשֹּׁופָר֙ וְהָעָ֣ם לֹֽא־נִזְהָ֔ר וַתָּבֹ֣וא חֶ֔רֶב וַתִּקַּ֥ח מֵהֶ֖ם נָ֑פֶשׁ ה֚וּא בַּעֲוֹנֹ֣ו נִלְקָ֔ח וְדָמֹ֖ו מִיַּֽד־הַצֹּפֶ֥ה אֶדְרֹֽשׁ׃ ס (Ezek. 33:6)
+NIV	But if the watchman sees the sword _coming_ and does not blow the trumpet to warn the people and the sword comes and takes the life of one of them, that man will be taken away because of his sin, but I will hold the watchman accountable for his blood.’
+ESV	But if the watchman sees the sword _coming_ and does not blow the trumpet, so that the people are not warned, and the sword comes and takes any one of them, that person is taken away in his iniquity, but his blood I will require at the watchman’s hand.
+
+(x)	וַיַּרְאֵ֗נִי אֶת־יְהֹושֻׁ֨עַ֙ הַכֹּהֵ֣ן הַגָּדֹ֔ול _עֹמֵ֕ד_ לִפְנֵ֖י מַלְאַ֣ךְ יְהוָ֑ה וְהַשָּׂטָ֛ן עֹמֵ֥ד עַל־יְמִינֹ֖ו לְשִׂטְנֹֽו׃ (Zech. 3:1)
+NIV	Then he showed me Joshua the high priest _standing_ before the angel of the LORD, and Satan _standing_ at his right side to accuse him.
+ESV	Then he showed me Joshua the high priest _standing_ before the angel of the Lord, and Satan _standing_ at his right hand to accuse him.
+
+(x)	תֹּ֘ורַ֤ת יְהוָ֣ה תְּ֭מִימָה מְשִׁ֣יבַת נָ֑פֶשׁ עֵד֥וּת יְהוָ֥ה נֶ֝אֱמָנָ֗ה _מַחְכִּ֥ימַת_ פֶּֽתִי׃ (Psa. 19:8)
+NIV	The law of the LORD is perfect, reviving the soul. The statutes of the LORD are trustworthy, _making wise_ the simple.
+ESV	The law of the Lord is perfect, reviving the soul. the testimony of the Lord is sure, _making wise_ the simple.
+
+(x)	הָ֘לֹ֤וךְ יֵלֵ֨ךְ׀ וּבָכֹה֮ _נֹשֵׂ֪א_ מֶֽשֶׁךְ־הַ֫זָּ֥רַע בֹּֽא־יָבֹ֥וא בְרִנָּ֑ה נֹ֝שֵׂ֗א אֲלֻמֹּתָֽיו׃ (Psa. 126:6)
+NIV	He who goes out weeping, _carrying_ seed to sow, will return with songs of joy, _carrying_ sheaves with him.
+ESV	He who goes out weeping, _bearing_ the seed for sowing, shall come home with shouts of joy, bringing his sheaves with him.
+
+(x)	דַּרְכֵ֣י שְׁאֹ֣ול בֵּיתָ֑הּ _יֹ֝רְדֹ֗ות_ אֶל־חַדְרֵי־מָֽוֶת׃ פ (Prov. 7:27)
+NIV	Her house is a highway to the grave, _leading down_ to the chambers of death.
+ESV	Her house is the way to Sheol, _going down_ to the chambers of death.
+
+(x)	קֹ֣ול דֹּודִ֔י הִנֵּה־זֶ֖ה בָּ֑א _מְדַלֵּג֙_ עַל־הֶ֣הָרִ֔ים מְקַפֵּ֖ץ עַל־הַגְּבָעֹֽות׃ (Song 2:8)
+NIV	Listen! My lover! Look! Here he comes, _leaping_ across the mountains, bounding over the hills.
+ESV	The voice of my beloved! Behold, he comes, _leaping_ over the mountains, bounding over the hills.
+
+(x)	וְחִכֵּ֕ךְ כְּיֵ֥ין הַטֹּ֛וב הֹולֵ֥ךְ לְדֹודִ֖י לְמֵישָׁרִ֑ים _דֹּובֵ֖ב_ שִׂפְתֵ֥י יְשֵׁנִֽים׃ (Song 7:10)
+NIV	and your mouth like the best wine. May the wine go straight to my lover, _flowing gently_ over lips and teeth.
+ESV	and your mouth like the best wine. SHE — It goes down smoothly for my beloved, _gliding over_ lips and teeth.
+
+(x)	עֹודָם֙ _מְדַבְּרִ֣ים_ עִמֹּ֔ו וְסָרִיסֵ֥י הַמֶּ֖לֶךְ הִגִּ֑יעוּ וַיַּבְהִ֨לוּ֙ לְהָבִ֣יא אֶת־הָמָ֔ן אֶל־הַמִּשְׁתֶּ֖ה אֲשֶׁר־עָשְׂתָ֥ה אֶסְתֵּֽר׃ (Esth. 6:14)
+NIV	While they were still talking with him, the king’s eunuchs arrived and hurried Haman away to the banquet Esther had prepared.
+ESV	While they were yet talking with him, the king’s eunuchs arrived and hurried to bring Haman to the feast that Esther had prepared.
+
+(x)	וַיְהִ֗י אֲרֹון֙ בְּרִ֣ית יְהוָ֔ה בָּ֖א עַד־עִ֣יר דָּוִ֑יד וּמִיכַ֨ל בַּת־שָׁא֜וּל נִשְׁקְפָ֣ה׀ בְּעַ֣ד הַחַלֹּ֗ון וַתֵּ֨רֶא אֶת־הַמֶּ֤לֶךְ דָּוִיד֙ _מְרַקֵּ֣ד_ וּמְשַׂחֵ֔ק וַתִּ֥בֶז לֹ֖ו בְּלִבָּֽהּ׃ פ (I Chr. 15:29)
+NIV	As the ark of the covenant of the LORD was entering the City of David, Michal daughter of Saul watched from a window. And when she saw King David _dancing_ and celebrating, she despised him in her heart.
+ESV	And as the ark of the covenant of the Lord came to the city of David, Michal the daughter of Saul looked out of the window and saw King David _dancing_ and rejoicing, and she despised him in her heart.
+
+(x)	וִֽיהוּדָ֛ה בָּ֥א עַל־הַמִּצְפֶּ֖ה לַמִּדְבָּ֑ר וַיִּפְנוּ֙ אֶל־הֶ֣הָמֹ֔ון וְהִנָּ֧ם פְּגָרִ֛ים _נֹפְלִ֥ים_ אַ֖רְצָה וְאֵ֥ין פְּלֵיטָֽה׃ (II Chr. 20:24)
+NIV	When the men of Judah came to the place that overlooks the desert and looked towards the vast army, they saw only dead bodies _lying_ on the ground. no-one had escaped.
+ESV	When Judah came to the watchtower of the wilderness, they looked toward the horde, and behold, there were dead bodies _lying_ on the ground. none had escaped.

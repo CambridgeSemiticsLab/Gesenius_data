@@ -1,0 +1,102 @@
+eng_TAMsimp == "PRES PART" and mother_verbtype == "wayq"
+25 of 51
+
+(x)	וַתֹּוצֵ֨א הָאָ֜רֶץ דֶּ֠שֶׁא עֵ֣שֶׂב _מַזְרִ֤יעַ_ זֶ֨רַע֙ לְמִינֵ֔הוּ (Gen. 1:12)
+NIV	The land produced vegetation: plants _bearing_ seed according to their kinds and trees _bearing_ fruit with seed in it according to their kinds. And God saw that it was good.
+ESV	The earth brought forth vegetation, plants _yielding_ seed according to their own kinds, and trees bearing fruit in which is their seed, each according to its kind. And God saw that it was good.
+
+(x)	וַיֹּ֗אמֶר עֹודֶ֖נּוּ _מְדַבֵּ֣ר_ עִמָּ֑ם (Gen. 29:9)
+NIV	While he was still talking with them, Rachel came with her father’s sheep, for she was a shepherdess.
+ESV	While he _was still speaking_ with them, Rachel came with her father’s sheep, for she was a shepherdess.
+
+(x)	וַיִּרְא֔וּ וְהִנֵּה֙ אֹרְחַ֣ת יִשְׁמְעֵאלִ֔ים _בָּאָ֖ה_ מִגִּלְעָ֑ד (Gen. 37:25)
+NIV	As they sat down to eat their meal, they looked up and saw a caravan of Ishmaelites _coming_ from Gilead. Their camels were loaded with spices, balm and myrrh, and they were on their way to take them down to Egypt.
+ESV	Then they sat down to eat. And looking up they saw a caravan of Ishmaelites _coming_ from Gilead, with their camels bearing gum, balm, and myrrh, on their way to carry it down to Egypt.
+
+(x)	וַיַּרְא֙ אִ֣ישׁ מִצְרִ֔י _מַכֶּ֥ה_ אִישׁ־עִבְרִ֖י מֵאֶחָֽיו׃ (Exod. 2:11)
+NIV	One day, after Moses had grown up, he went out to where his own people were and watched them at their hard labor. He saw an Egyptian _beating_ a Hebrew, one of his own people.
+ESV	One day, when Moses had grown up, he went out to his people and looked on their burdens, and he saw an Egyptian _beating_ a Hebrew, one of his people.
+
+(x)	וַיִּשְׁמַ֨ע אֶת־הַקֹּ֜ול _מִדַּבֵּ֣ר_ אֵלָ֗יו מֵעַ֤ל הַכַּפֹּ֨רֶת֙ (Num. 7:89)
+NIV	When Moses entered the Tent of Meeting to speak with the LORD, he heard the voice _speaking_ to him from between the two cherubim above the atonement cover on the ark of the Testimony. And he spoke with him.
+ESV	And when Moses went into the tent of meeting to speak with the Lord, he heard the voice _speaking_ to him from above the mercy seat that was on the ark of the testimony, from between the two cherubim. and it spoke to him.
+
+(x)	וַֽיִּמְצְא֗וּ אִ֛ישׁ _מְקֹשֵׁ֥שׁ_ עֵצִ֖ים בְּיֹ֥ום הַשַּׁבָּֽת׃ (Num. 15:32)
+NIV	While the Israelites were in the desert, a man was found _gathering_ wood on the Sabbath day.
+ESV	While the people of Israel were in the wilderness, they found a man _gathering_ sticks on the Sabbath day.
+
+(x)	וַיַּ֞רְא אֶת־מַלְאַ֤ךְ יְהוָה֙ _נִצָּ֣ב_ בַּדֶּ֔רֶךְ (Num. 22:31)
+NIV	Then the LORD opened Balaam’s eyes, and he saw the angel of the LORD _standing_ in the road with his sword drawn. So he bowed low and fell facedown.
+ESV	Then the Lord opened the eyes of Balaam, and he saw the angel of the Lord _standing_ in the way, with his drawn sword in his hand. And he bowed down and fell on his face.
+
+(x)	וַיִּרְאוּ֙ הַשֹּׁ֣מְרִ֔ים אִ֖ישׁ _יֹוצֵ֣א_ מִן־הָעִ֑יר (Judg. 1:24)
+NIV	the spies saw a man _coming out_ of the city and they said to him, “Show us how to get into the city and we will see that you are treated well.”
+ESV	And the spies saw a man _coming out_ of the city, and they said to him, “Please show us the way into the city, and we will deal kindly with you.”
+
+(x)	וַיֹּ֤אמֶר אֲלֵיהֶם֙ הַכֹּהֵ֔ן מָ֥ה אַתֶּ֖ם _עֹשִֽׂים_׃ (Judg. 18:18)
+NIV	When these men went into Micah’s house and took the carved image, the ephod, the other household gods and the cast idol, the priest said to them, “What are you doing?”
+ESV	And when these went into Micah’s house and took the carved image, the ephod, the household gods, and the metal image, the priest said to them, “What are you doing?”
+
+(x)	וַיַּ֗רְא אֶֽת־לַהֲקַ֤ת הַנְּבִיאִים֙ _נִבְּאִ֔ים_ (I Sam. 19:20)
+NIV	so he sent men to capture him. But when they saw a group of prophets _prophesying_, with Samuel standing there as their leader, the Spirit of God came upon Saul’s men and they also prophesied.
+ESV	Then Saul sent messengers to take David, and when they saw the company of the prophets _prophesying_, and Samuel standing as head over them, the Spirit of God came upon the messengers of Saul, and they also prophesied.
+
+(x)	וַיַּ֔רְא וְהִנֵּה־אִ֖ישׁ _רָ֥ץ_ לְבַדֹּֽו׃ (II Sam. 18:24)
+NIV	While David was sitting between the inner and outer gates, the watchman went up to the roof of the gateway by the wall. As he looked out, he saw a man _running_ alone.
+ESV	Now David was sitting between the two gates, and the watchman went up to the roof of the gate by the wall, and when he lifted up his eyes and looked, he saw a man _running_ alone.
+
+(x)	וַיַּ֤רְא אֶת־הַמֶּ֨לֶךְ֙ וְאֶת־עֲבָדָ֔יו _עֹבְרִ֖ים_ עָלָ֑יו (II Sam. 24:20)
+NIV	When Araunah looked and saw the king and his men _coming_ towards him, he went out and bowed down before the king with his face to the ground.
+ESV	And when Araunah looked down, he saw the king and his servants _coming on_ toward him. And Araunah went out and paid homage to the king with his face to the ground.
+
+(x)	וַתָּבֹ֣א יְרוּשָׁלְַ֗מָה בְּחַיִל֮ כָּבֵ֣ד מְאֹד֒ גְּ֠מַלִּים _נֹשְׂאִ֨ים_ בְּשָׂמִ֧ים וְזָהָ֛ב רַב־מְאֹ֖ד וְאֶ֣בֶן יְקָרָ֑ה (I Kgs. 10:2)
+NIV	Arriving at Jerusalem with a very great caravan — with camels _carrying_ spices, large quantities of gold, and precious stones — she came to Solomon and talked with him about all that she had on her mind.
+ESV	She came to Jerusalem with a very great retinue, with camels _bearing_ spices and very much gold and precious stones. And when she came to Solomon, she told him all that was on her mind.
+
+(x)	וַיִּרְאֶ֤ה נַֽעֲמָן֙ _רָ֣ץ_ אַחֲרָ֔יו (II Kgs. 5:21)
+NIV	So Gehazi hurried after Naaman. When Naaman saw him _running_ towards him, he got down from the chariot to meet him. “Is everything all right?” he asked.
+ESV	So Gehazi followed Naaman. And when Naaman saw someone _running_ after him, he got down from the chariot to meet him and said, “Is all well?”
+
+(x)	וַתֵּ֡רֶא וְהִנֵּ֣ה הַמֶּלֶךְ֩ _עֹמֵ֨ד_ עַֽל־הָעַמּ֜וּד כַּמִּשְׁפָּ֗ט (II Kgs. 11:14)
+NIV	She looked and there was the king, _standing_ by the pillar, as the custom was. The officers and the trumpeters were beside the king, and all the people of the land were rejoicing and blowing trumpets. Then Athaliah tore her robes and called out, “Treason! Treason!”
+ESV	And when she looked, there was the king _standing_ by the pillar, according to the custom, and the captains and the trumpeters beside the king, and all the people of the land rejoicing and blowing trumpets. And Athaliah tore her clothes and cried, “Treason! Treason!”
+
+(x)	וַיִּמְצָא֙ אֶת־מֶ֣לֶךְ אַשּׁ֔וּר _נִלְחָ֖ם_ עַל־לִבְנָ֑ה (II Kgs. 19:8)
+NIV	When the field commander heard that the king of Assyria had left Lachish, he withdrew and found the king _fighting_ against Libnah.
+ESV	The Rabshakeh returned, and found the king of Assyria _fighting_ against Libnah, for he heard that the king had left Lachish.
+
+(x)	וַיִּמְצָא֙ אֶת־מֶ֣לֶךְ אַשּׁ֔וּר _נִלְחָ֖ם_ עַל־לִבְנָ֑ה (Isa. 37:8)
+NIV	When the field commander heard that the king of Assyria had left Lachish, he withdrew and found the king _fighting_ against Libnah.
+ESV	The Rabshakeh returned, and found the king of Assyria _fighting_ against Libnah, for he had heard that the king had left Lachish.
+
+(x)	וָֽאֶרְאֵ֔ךְ _מִתְבֹּוסֶ֖סֶת_ בְּדָמָ֑יִךְ (Ezek. 16:6)
+NIV	“‘Then I passed by and saw you _kicking about_ in your blood, and as you lay there in your blood I said to you, “Live!”
+ESV	“And when I passed by you and saw you _wallowing_ in your blood, I said to you in your blood, ‘Live!’ I said to you in your blood, ‘Live!’
+
+(x)	וָאֹמַ֕ר אָ֖נָה אַתָּ֣ה _הֹלֵ֑ךְ_ (Zech. 2:6)
+NIV	I asked, “Where are you going?” He answered me, “To measure Jerusalem, to find out how wide and how long it is.”
+ESV	Then I said, “Where are you going?” And he said to me, “To measure Jerusalem, to see what is its width and what is its length.”
+
+(x)	וַיַּרְאֵ֗נִי אֶת־יְהֹושֻׁ֨עַ֙ הַכֹּהֵ֣ן הַגָּדֹ֔ול וְהַשָּׂטָ֛ן _עֹמֵ֥ד_ עַל־יְמִינֹ֖ו (Zech. 3:1)
+NIV	Then he showed me Joshua the high priest _standing_ before the angel of the LORD, and Satan _standing_ at his right side to accuse him.
+ESV	Then he showed me Joshua the high priest _standing_ before the angel of the Lord, and Satan _standing_ at his right hand to accuse him.
+
+(x)	וַיֹּ֣אמֶר אֵלָ֑י אֵ֗לֶּה אַרְבַּע֙ רֻחֹ֣ות הַשָּׁמַ֔יִם _יֹוצְאֹ֕ות_ (Zech. 6:5)
+NIV	The angel answered me, “These are the four spirits of heaven, _going out_ from standing in the presence of the Lord of the whole world.
+ESV	And the angel answered and said to me, “These _are going out_ to the four winds of heaven, after presenting themselves before the Lord of all the earth.
+
+(x)	וָֽאֶהְיֶ֣ה שַׁ֭עֲשֻׁעִים יֹ֤ום׀ יֹ֑ום _מְשַׂחֶ֖קֶת_ לְפָנָ֣יו בְּכָל־עֵֽת׃ (Prov. 8:30)
+NIV	Then I was the craftsman at his side. I was filled with delight day after day, _rejoicing_ always in his presence,
+ESV	then I was beside him, like a master workman, and I was daily his delight, _rejoicing_ before him always,
+
+(x)	וַיֹּאמֶר֩ לִ֨י הַמֶּ֜לֶךְ וְהַשֵּׁגַ֣ל׀ _יֹושֶׁ֣בֶת_ אֶצְלֹ֗ו (Neh. 2:6)
+NIV	Then the king, with the queen _sitting_ beside him, asked me, “How long will your journey take, and when will you get back?” It pleased the king to send me. so I set a time.
+ESV	And the king said to me ( the queen _sitting_ beside him ), “How long will you be gone, and when will you return?” So it pleased the king to send me when I had given him a time.
+
+(x)	וַיַּ֞רְא אֶת־מַלְאַ֤ךְ יְהוָה֙ _עֹמֵ֗ד_ בֵּ֤ין הָאָ֨רֶץ֙ וּבֵ֣ין הַשָּׁמַ֔יִם (I Chr. 21:16)
+NIV	David looked up and saw the angel of the LORD _standing_ between heaven and earth, with a drawn sword in his hand extended over Jerusalem. Then David and the elders, clothed in sackcloth, fell face down.
+ESV	And David lifted his eyes and saw the angel of the Lord _standing_ between earth and heaven, and in his hand a drawn sword stretched out over Jerusalem. Then David and the elders, clothed in sackcloth, fell upon their faces.
+
+(x)	וַתִּשְׁמַ֣ע עֲתַלְיָ֗הוּ אֶת־קֹ֤ול הָעָם֙ הָֽ_רָצִ֔ים_ (II Chr. 23:12)
+NIV	When Athaliah heard the noise of the people _running_ and cheering the king, she went to them at the temple of the LORD.
+ESV	When Athaliah heard the noise of the people _running_ and praising the king, she went into the house of the Lord to the people.

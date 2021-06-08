@@ -1,0 +1,102 @@
+eng_TAMsimp == "PRES" and cl_args == "RV"
+25 of 363
+
+(x)	וַיֹּ֣אמֶר אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה אָדָ֛ם בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ וְיִרְדּוּ֩ בִדְגַ֨ת הַיָּ֜ם וּבְעֹ֣וף הַשָּׁמַ֗יִם וּבַבְּהֵמָה֙ וּבְכָל־הָאָ֔רֶץ וּבְכָל־הָרֶ֖מֶשׂ הָֽ_רֹמֵ֥שׂ_ עַל־הָאָֽרֶץ׃ (Gen. 1:26)
+NIV	Then God said, “Let us make man in our image, in our likeness, and let them rule over the fish of the sea and the birds of the air, over the livestock, over all the earth, and over all the _creatures that move_ along the ground.”
+ESV	Then God said, “Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing _that creeps_ on the earth.”
+
+(x)	וְגַ֧ם הַכֹּהֲנִ֛ים הַ_נִּגָּשִׁ֥ים_ אֶל־יְהוָ֖ה יִתְקַדָּ֑שׁוּ פֶּן־יִפְרֹ֥ץ בָּהֶ֖ם יְהוָֽה׃ (Exod. 19:22)
+NIV	Even the priests, _who approach_ the LORD, must consecrate themselves, or the LORD will break out against them.”
+ESV	Also let the priests _who come near_ to the Lord consecrate themselves, lest the Lord break out against them.”
+
+(x)	וְאִ֣ם הֵאָכֹ֣ל יֵ֠אָכֵל מִבְּשַׂר־זֶ֨בַח שְׁלָמָ֜יו בַּיֹּ֣ום הַשְּׁלִישִׁי֮ לֹ֣א יֵרָצֶה֒ הַמַּקְרִ֣יב אֹתֹ֗ו לֹ֧א יֵחָשֵׁ֛ב לֹ֖ו פִּגּ֣וּל יִהְיֶ֑ה וְהַנֶּ֛פֶשׁ הָ_אֹכֶ֥לֶת_ מִמֶּ֖נּוּ עֲוֹנָ֥הּ תִּשָּֽׂא׃ (Lev. 7:18)
+NIV	If any meat of the fellowship offering is eaten on the third day, it will not be accepted. It will not be credited to the one who offered it, for it is impure. the person _who eats_ any of it will be held responsible.
+ESV	If any of the flesh of the sacrifice of his peace offering is eaten on the third day, he who offers it shall not be accepted, neither shall it be credited to him. It is tainted, and he _who eats_ of it shall bear his iniquity.
+
+(x)	וְכָל־הַשֶּׁ֖רֶץ הַ_שֹּׁרֵ֣ץ_ עַל־הָאָ֑רֶץ שֶׁ֥קֶץ ה֖וּא לֹ֥א יֵאָכֵֽל׃ (Lev. 11:41)
+NIV	“‘Every creature _that moves about_ on the ground is detestable. it is not to be eaten.
+ESV	“Every swarming thing _that swarms_ on the ground is detestable. it shall not be eaten.
+
+(x)	וְכָל־הַ_נֹּגֵ֔עַ_ בְּכָל־כְּלִ֖י אֲשֶׁר־תֵּשֵׁ֣ב עָלָ֑יו יְכַבֵּ֧ס בְּגָדָ֛יו וְרָחַ֥ץ בַּמַּ֖יִם וְטָמֵ֥א עַד־הָעָֽרֶב׃ (Lev. 15:22)
+NIV	Whoever _touches_ anything she sits on must wash his clothes and bathe with water, and he will be unclean till evening.
+ESV	And whoever _touches_ anything on which she sits shall wash his clothes and bathe himself in water and be unclean until the evening.
+
+(x)	וְהַ_שֹּׂרֵ֣ף_ אֹתָ֔הּ יְכַבֵּ֤ס בְּגָדָיו֙ בַּמַּ֔יִם וְרָחַ֥ץ בְּשָׂרֹ֖ו בַּמָּ֑יִם וְטָמֵ֖א עַד־הָעָֽרֶב׃ (Num. 19:8)
+NIV	The man _who burns_ it must also wash his clothes and bathe with water, and he too will be unclean till evening.
+ESV	The one _who burns_ the heifer shall wash his clothes in water and bathe his body in water and shall be unclean until evening.
+
+(x)	כִּ֚י יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם הַ_הֹלֵ֖ךְ_ עִמָּכֶ֑ם לְהִלָּחֵ֥ם לָכֶ֛ם עִם־אֹיְבֵיכֶ֖ם לְהֹושִׁ֥יעַ אֶתְכֶֽם׃ (Deut. 20:4)
+NIV	For the LORD your God is the one _who goes_ with you to fight for you against your enemies to give you victory.”
+ESV	for the Lord your God is he _who goes_ with you to fight for you against your enemies, to give you the victory.’
+
+(x)	וַתֹּ֤אמֶר לָהֶם֙ הַגֶּ֔פֶן הֶחֳדַ֨לְתִּי֙ אֶת־תִּ֣ירֹושִׁ֔י הַֽ_מְשַׂמֵּ֥חַ_ אֱלֹהִ֖ים וַאֲנָשִׁ֑ים וְהָ֣לַכְתִּ֔י לָנ֖וּעַ עַל־הָעֵצִֽים׃ (Judg. 9:13)
+NIV	“But the vine answered, ‘Should I give up my wine, _which cheers_ both gods and men, to hold sway over the trees?’
+ESV	But the vine said to them, ‘Shall I leave my wine _that cheers_ God and men and go hold sway over the trees?’
+
+(x)	הַ_מֵּ֤ת_ לְבַעְשָׁא֙ בָּעִ֔יר יֹֽאכְל֖וּ הַכְּלָבִ֑ים וְהַמֵּ֥ת לֹו֙ בַּשָּׂדֶ֔ה יֹאכְל֖וּ עֹ֥וף הַשָּׁמָֽיִם׃ (I Kgs. 16:4)
+NIV	Dogs will eat those belonging to Baasha _who die_ in the city, and the birds of the air will feed on those _who die_ in the country.”
+ESV	Anyone belonging to Baasha _who dies_ in the city the dogs shall eat, and anyone of his _who dies_ in the field the birds of the heavens shall eat.”
+
+(x)	וְהָיָ֗ה מֵרֹ֛ב עֲשֹׂ֥ות חָלָ֖ב יֹאכַ֣ל חֶמְאָ֑ה כִּֽי־חֶמְאָ֤ה וּדְבַשׁ֙ יֹאכֵ֔ל כָּל־הַ_נֹּותָ֖ר_ בְּקֶ֥רֶב הָאָֽרֶץ׃ (Isa. 7:22)
+NIV	And because of the abundance of the milk they give, he will have curds to eat. All _who remain_ in the land will eat curds and honey.
+ESV	and because of the abundance of milk that they give, he will eat curds, for everyone _who is left_ in the land will eat curds and honey.
+
+(x)	הִנֵּ֣ה בָטַ֡חְתָּ עַל־מִשְׁעֶנֶת֩ הַקָּנֶ֨ה הָרָצ֤וּץ הַזֶּה֙ עַל־מִצְרַ֔יִם אֲשֶׁ֨ר יִסָּמֵ֥ךְ אִישׁ֙ עָלָ֔יו וּבָ֥א בְכַפֹּ֖ו וּנְקָבָ֑הּ כֵּ֚ן פַּרְעֹ֣ה מֶֽלֶךְ־מִצְרַ֔יִם לְכָֽל־הַ_בֹּטְחִ֖ים_ עָלָֽיו׃ (Isa. 36:6)
+NIV	Look now, you are depending on Egypt, that splintered reed of a staff, which pierces a man’s hand and wounds him if he leans on it! Such is Pharaoh king of Egypt to all _who depend_ on him.
+ESV	Behold, you are trusting in Egypt, that broken reed of a staff, which will pierce the hand of any man who leans on it. Such is Pharaoh king of Egypt to all _who trust_ in him.
+
+(x)	הִקָּבְצ֥וּ וָבֹ֛אוּ הִֽתְנַגְּשׁ֥וּ יַחְדָּ֖ו פְּלִיטֵ֣י הַגֹּויִ֑ם לֹ֣א יָדְע֗וּ הַ_נֹּֽשְׂאִים֙_ אֶת־עֵ֣ץ פִּסְלָ֔ם וּמִתְפַּלְלִ֔ים אֶל־אֵ֖ל לֹ֥א יֹושִֽׁיעַ׃ (Isa. 45:20)
+NIV	“Gather together and come. assemble, you fugitives from the nations. Ignorant are _those who carry_ about idols of wood, who pray to gods that cannot save.
+ESV	“Assemble yourselves and come. draw near together, you survivors of the nations! They have no knowledge _who carry_ about their wooden idols, and keep on praying to a god that cannot save.
+
+(x)	אֲשֶׁ֨ר הַ_מִּתְבָּרֵ֜ךְ_ בָּאָ֗רֶץ יִתְבָּרֵךְ֙ בֵּאלֹהֵ֣י אָמֵ֔ן וְהַנִּשְׁבָּ֣ע בָּאָ֔רֶץ יִשָּׁבַ֖ע בֵּאלֹהֵ֣י אָמֵ֑ן כִּ֣י נִשְׁכְּח֗וּ הַצָּרֹות֙ הָרִ֣אשֹׁנֹ֔ות וְכִ֥י נִסְתְּר֖וּ מֵעֵינָֽי׃ (Isa. 65:16)
+NIV	Whoever _invokes a blessing_ in the land will do so by the God of truth. he who takes an oath in the land will swear by the God of truth. For the past troubles will be forgotten and hidden from my eyes.
+ESV	So that he who _blesses himself_ in the land shall bless himself by the God of truth, and he who takes an oath in the land shall swear by the God of truth. because the former troubles are forgotten and are hidden from my eyes.
+
+(x)	וְאָֽמַרְתָּ֙ שְׁמַ֣ע דְּבַר־יְהוָ֔ה מֶ֣לֶךְ יְהוּדָ֔ה הַיֹּשֵׁ֖ב עַל־כִּסֵּ֣א דָוִ֑ד אַתָּ֤ה וַעֲבָדֶ֨יךָ֙ וְעַמְּךָ֔ הַ_בָּאִ֖ים_ בַּשְּׁעָרִ֥ים הָאֵֽלֶּה׃ ס (Jer. 22:2)
+NIV	‘Hear the word of the LORD, O king of Judah, you who sit on David’s throne — you, your officials and your people _who come_ through these gates.
+ESV	and say, ‘Hear the word of the Lord, O king of Judah, who sits on the throne of David, you, and your servants, and your people _who enter_ these gates.
+
+(x)	וּבָאתָ֣ אַתָּ֡ה וְקָרָ֣אתָ בַמְּגִלָּ֣ה אֲשֶׁר־כָּתַֽבְתָּ־מִפִּי֩ אֶת־דִּבְרֵ֨י יְהוָ֜ה בְּאָזְנֵ֥י הָעָ֛ם בֵּ֥ית יְהוָ֖ה בְּיֹ֣ום צֹ֑ום וְגַ֨ם בְּאָזְנֵ֧י כָל־יְהוּדָ֛ה הַ_בָּאִ֥ים_ מֵעָרֵיהֶ֖ם תִּקְרָאֵֽם׃ (Jer. 36:6)
+NIV	So you go to the house of the LORD on a day of fasting and read to the people from the scroll the words of the LORD that you wrote as I dictated. Read them to all the people of Judah _who come in_ from their towns.
+ESV	so you are to go, and on a day of fasting in the hearing of all the people in the Lord’s house you shall read the words of the Lord from the scroll that you have written at my dictation. You shall read them also in the hearing of all the men of Judah _who come_ out of their cities.
+
+(x)	כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה הֹ֖וי עַל־הַנְּבִיאִ֣ים הַנְּבָלִ֑ים אֲשֶׁ֥ר _הֹלְכִ֛ים_ אַחַ֥ר רוּחָ֖ם וּלְבִלְתִּ֥י רָאֽוּ׃ (Ezek. 13:3)
+NIV	This is what the Sovereign LORD says: Woe to the foolish prophets who _follow_ their own spirit and have seen nothing!
+ESV	Thus says the Lord God, Woe to the foolish prophets who _follow_ their own spirit, and have seen nothing!
+
+(x)	שִׁמְע֞וּ הַדָּבָ֣ר הַזֶּ֗ה פָּרֹ֤ות הַבָּשָׁן֙ אֲשֶׁר֙ בְּהַ֣ר שֹֽׁמְרֹ֔ון הָעֹשְׁקֹ֣ות דַּלִּ֔ים הָ_רֹצְצֹ֖ות_ אֶבְיֹונִ֑ים הָאֹמְרֹ֥ת לַאֲדֹֽנֵיהֶ֖ם הָבִ֥יאָה וְנִשְׁתֶּֽה׃ (Amos 4:1)
+NIV	Hear this word, you cows of Bashan on Mount Samaria, you women who oppress the poor and _crush_ the needy and say to your husbands, “Bring us some drinks!”
+ESV	“Hear this word, you cows of Bashan, who are on the mountain of Samaria, who oppress the poor, _who crush_ the needy, who say to your husbands, ‘Bring, that we may drink!’
+
+(x)	כִּֽי־הִנְנִ֤י מֵקִים֙ אֶת־הַכַּשְׂדִּ֔ים הַגֹּ֖וי הַמַּ֣ר וְהַנִּמְהָ֑ר הַֽ_הֹולֵךְ֙_ לְמֶרְחֲבֵי־אֶ֔רֶץ לָרֶ֖שֶׁת מִשְׁכָּנֹ֥ות לֹּא־לֹֽו׃ (Hab. 1:6)
+NIV	I am raising up the Babylonians, that ruthless and impetuous people, _who sweep_ across the whole earth to seize dwelling-places not their own.
+ESV	For behold, I am raising up the Chaldeans, that bitter and hasty nation, _who march_ through the breadth of the earth, to seize dwellings not their own.
+
+(x)	גַּ֣ם כָּל־קֹ֭וֶיךָ לֹ֣א יֵבֹ֑שׁוּ יֵ֝בֹ֗שׁוּ הַ_בֹּוגְדִ֥ים_ רֵיקָֽם׃ (Psa. 25:3)
+NIV	No one whose hope is in you will ever be put to shame, but they will be put to shame _who are treacherous_ without excuse.
+ESV	Indeed, none who wait for you shall be put to shame. they shall be ashamed who are wantonly treacherous.
+
+(x)	יָ֭שׁוּבוּ עַל־עֵ֣קֶב בָּשְׁתָּ֑ם הָ֝_אֹמְרִ֗ים_ הֶ֘אָ֥ח׀ הֶאָֽח׃ (Psa. 70:4)
+NIV	_May those who say_ to me, “Aha! Aha!” turn back because of their shame.
+ESV	Let them turn back because of their shame _who say_, “Aha, Aha!”
+
+(x)	גָּ֭עַרְתָּ זֵדִ֣ים אֲרוּרִ֑ים הַ֝_שֹּׁגִים_ מִמִּצְוֹתֶֽיךָ׃ (Psa. 119:21)
+NIV	You rebuke the arrogant, who are cursed and _who stray_ from your commands.
+ESV	You rebuke the insolent, accursed ones, _who wander_ from your commandments.
+
+(x)	הַֽמְכַסֶּ֬ה שָׁמַ֨יִם׀ בְּעָבִ֗ים הַמֵּכִ֣ין לָאָ֣רֶץ מָטָ֑ר הַ_מַּצְמִ֖יחַ_ הָרִ֣ים חָצִֽיר׃ (Psa. 147:8)
+NIV	He covers the sky with clouds. he supplies the earth with rain and makes grass grow on the hills.
+ESV	He covers the heavens with clouds. he prepares rain for the earth. he makes grass grow on the hills.
+
+(x)	כָּל־אִמְרַ֣ת אֱלֹ֣והַּ צְרוּפָ֑ה מָגֵ֥ן ה֝֗וּא לַֽ_חֹסִ֥ים_ בֹּֽו׃ (Prov. 30:5)
+NIV	“Every word of God is flawless. he is a shield to those _who take refuge_ in him.
+ESV	Every word of God proves true. he is a shield to those _who take refuge_ in him.
+
+(x)	וַיָּקָם֩ יֵשׁ֨וּעַ בֶּן־יֹֽוצָדָ֜ק וְאֶחָ֣יו הַכֹּהֲנִ֗ים וּזְרֻבָּבֶ֤ל בֶּן־שְׁאַלְתִּיאֵל֙ וְאֶחָ֔יו וַיִּבְנ֕וּ אֶת־מִזְבַּ֖ח אֱלֹהֵ֣י יִשְׂרָאֵ֑ל לְהַעֲלֹ֤ות עָלָיו֙ עֹלֹ֔ות כַּ_כָּת֕וּב_ בְּתֹורַ֖ת מֹשֶׁ֥ה אִישׁ־הָאֱלֹהִֽים׃ (Ezra 3:2)
+NIV	Then Jeshua son of Jozadak and his fellow priests and Zerubbabel son of Shealtiel and his associates began to build the altar of the God of Israel to sacrifice burnt offerings on it, in accordance with _what is written_ in the Law of Moses the man of God.
+ESV	Then arose Jeshua the son of Jozadak, with his fellow priests, and Zerubbabel the son of Shealtiel with his kinsmen, and they built the altar of the God of Israel, to offer burnt offerings on it, as it _is written_ in the Law of Moses the man of God.
+
+(x)	וְיֶ֛תֶר דִּבְרֵ֥י יֹאשִׁיָּ֖הוּ וַחֲסָדָ֑יו כַּ_כָּת֖וּב_ בְּתֹורַ֥ת יְהוָֽה׃ (II Chr. 35:26)
+NIV	The other events of Josiah’s reign and his acts of devotion, according to _what is written_ in the Law of the LORD —
+ESV	Now the rest of the acts of Josiah, and his good deeds according to _what is written_ in the Law of the Lord,

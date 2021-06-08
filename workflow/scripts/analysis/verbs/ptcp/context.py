@@ -30,27 +30,117 @@ run_analyses([
         'index': 'eng_TAMsimp',
         'columns': ['genre', 'domain2'],
         'examples': [
-       ],  
+            {
+                'query': ('genre == "poetry" '
+                          'and eng_TAMsimp == "PRES"'),
+                'spread': 15,
+            },
+            {
+                'query': ('genre == "prophetic" '
+                          'and eng_TAMsimp == "PRES"'),
+                'spread': 15,
+            },
+            {
+                'query': ('genre == "prose" '
+                          'and domain2 == "Q" '
+                          'and eng_TAMsimp == "PRES"'),
+                'spread': 15,
+            },
+            {
+                'query': ('genre == "prose" '
+                          'and domain2 == "N" '
+                          'and eng_TAMsimp == "PAST"'),
+                'spread': 15,
+            },
+            {
+                'query': ('genre == "prose" '
+                          'and domain2 == "Q" '
+                          'and eng_TAMsimp == "PAST"'),
+                'spread': 15,
+            },
+             {
+                'query': ('genre == "prophetic" '
+                          'and eng_TAMsimp == "PAST"'),
+                'spread': 15,
+            },
+             {
+                'query': ('genre == "poetry" '
+                          'and eng_TAMsimp == "PAST"'),
+                'spread': 15,
+            },
+            {
+                'query': ('genre == "prose" '
+                          'and domain2 == "N" '
+                          'and eng_TAMsimp == "PRES PART"'),
+                'spread': 15,
+            },
+            {
+                'query': ('genre == "prose" '
+                          'and domain2 == "Q" '
+                          'and eng_TAMsimp == "PRES PART"'),
+                'spread': 15,
+            },
+            {
+                'query': ('genre == "poetry" '
+                          'and eng_TAMsimp == "PRES PART"'),
+                'spread': 15,
+            },
+            {
+                'query': ('genre == "prophetic" '
+                          'and domain2 == "Q" '
+                          'and eng_TAMsimp == "PRES PART"'),
+                'spread': 15,
+            },
+            {
+                'query': ('genre == "prose" '
+                          'and domain2 == "Q" '
+                          'and eng_TAMsimp == "PRES PROG"'),
+                'spread': 15,
+            },
+            {
+                'query': ('genre == "instruction" '
+                          'and domain2 == "Q" '
+                          'and eng_TAMsimp == "PRES PROG"'),
+                'spread': 15,
+            },
+            {
+                'query': ('genre == "prophetic" '
+                          'and domain2 == "Q" '
+                          'and eng_TAMsimp == "PRES PROG"'),
+                'spread': 15,
+            },
+ 
+            {
+                'query': ('genre == "prose" '
+                          'and domain2 == "N" '
+                          'and eng_TAMsimp == "PAST PROG"'),
+                'spread': 15,
+            },
+            {
+                'query': ('genre == "prophetic" '
+                          'and eng_TAMsimp == "FUT"'),
+                'spread': 15,
+            },
+            {
+                'query': ('genre == "prose" '
+                          'and domain2 == "Q" '
+                          'and eng_TAMsimp == "FUT"'),
+                'spread': 15,
+            },
+            {
+                'query': ('genre == "poetry" '
+                          'and domain2 == "Q" '
+                          'and eng_TAMsimp == "FUT"'),
+                'spread': 15,
+            },
+        ],  
     },  
-    {
-        'name': 'ps_gendom',
-        'df': both_df,
-        'index': 'eng_TAMsimp',
-        'columns': ['genre', 'domain2', 'person'],
-    },
     { 
         'name': 'period',
         'df': both_df,
         'index': 'eng_TAMsimp',
         'columns': 'period',
     },  
-     { 
-        'name': 'period_gendom',
-        'df': both_df,
-        'index': 'eng_TAMsimp',
-        'columns': ['period', 'genre', 'domain2'],
-    },  
-
 ], snakemake.output.dir)  
 
 

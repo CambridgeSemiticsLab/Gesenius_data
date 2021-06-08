@@ -1,0 +1,102 @@
+eng_TAMsimp == "PRES" and has_loca == 1
+25 of 32
+
+(x)	וְהַ_שֹּׁכֵ֣ב_ בַּבַּ֔יִת יְכַבֵּ֖ס אֶת־בְּגָדָ֑יו וְהָאֹכֵ֣ל בַּבַּ֔יִת יְכַבֵּ֖ס אֶת־בְּגָדָֽיו׃ (Lev. 14:47)
+NIV	_Anyone who sleeps_ or eats in the house must wash his clothes.
+ESV	and _whoever sleeps_ in the house shall wash his clothes, and whoever eats in the house shall wash his clothes.
+
+(x)	וְשֵׁרֵ֕ת בְּשֵׁ֖ם יְהוָ֣ה אֱלֹהָ֑יו כְּכָל־אֶחָיו֙ הַלְוִיִּ֔ם הָ_עֹמְדִ֥ים_ שָׁ֖ם לִפְנֵ֥י יְהוָֽה׃ (Deut. 18:7)
+NIV	he may minister in the name of the LORD his God like all his fellow Levites _who serve_ there in the presence of the LORD.
+ESV	and ministers in the name of the Lord his God, like all his fellow Levites _who stand_ to minister there before the Lord,
+
+(x)	אָר֕וּר _מַשְׁגֶּ֥ה_ עִוֵּ֖ר בַּדָּ֑רֶךְ וְאָמַ֥ר כָּל־הָעָ֖ם אָמֵֽן׃ ס (Deut. 27:18)
+NIV	“Cursed is the man who leads the blind astray on the road.” Then all the people shall say, “Amen!”
+ESV	“‘Cursed be _anyone who misleads_ a blind man on the road.’ And all the people shall say, ‘Amen.’
+
+(x)	הַ_מֵּ֤ת_ לְבַעְשָׁא֙ בָּעִ֔יר יֹֽאכְל֖וּ הַכְּלָבִ֑ים וְהַמֵּ֥ת לֹו֙ בַּשָּׂדֶ֔ה יֹאכְל֖וּ עֹ֥וף הַשָּׁמָֽיִם׃ (I Kgs. 16:4)
+NIV	Dogs will eat those belonging to Baasha _who die_ in the city, and the birds of the air will feed on those _who die_ in the country.”
+ESV	Anyone belonging to Baasha _who dies_ in the city the dogs shall eat, and anyone of his _who dies_ in the field the birds of the heavens shall eat.”
+
+(x)	הַ_מֵּ֤ת_ לְאַחְאָב֙ בָּעִ֔יר יֹאכְל֖וּ הַכְּלָבִ֑ים וְהַמֵּת֙ בַּשָּׂדֶ֔ה יֹאכְל֖וּ עֹ֥וף הַשָּׁמָֽיִם׃ (I Kgs. 21:24)
+NIV	“Dogs will eat those belonging to Ahab _who die_ in the city, and the birds of the air will feed on those _who die_ in the country.”
+ESV	Anyone belonging to Ahab _who dies_ in the city the dogs shall eat, and anyone of his _who dies_ in the open country the birds of the heavens shall eat.”
+
+(x)	הַמֵּ֤ת לְאַחְאָב֙ בָּעִ֔יר יֹאכְל֖וּ הַכְּלָבִ֑ים וְהַ_מֵּת֙_ בַּשָּׂדֶ֔ה יֹאכְל֖וּ עֹ֥וף הַשָּׁמָֽיִם׃ (I Kgs. 21:24)
+NIV	“Dogs will eat those belonging to Ahab _who die_ in the city, and the birds of the air will feed on those _who die_ in the country.”
+ESV	Anyone belonging to Ahab _who dies_ in the city the dogs shall eat, and anyone of his _who dies_ in the open country the birds of the heavens shall eat.”
+
+(x)	וְהָיָ֣ה׀ הַנִּשְׁאָ֣ר בְּצִיֹּ֗ון וְהַ_נֹּותָר֙_ בִּיר֣וּשָׁלִַ֔ם קָדֹ֖ושׁ יֵאָ֣מֶר לֹ֑ו כָּל־הַכָּת֥וּב לַחַיִּ֖ים בִּירוּשָׁלִָֽם׃ (Isa. 4:3)
+NIV	Those who are left in Zion, _who remain_ in Jerusalem, will be called holy, all who are recorded among the living in Jerusalem.
+ESV	And he who is left in Zion and _remains_ in Jerusalem will be called holy, everyone who has been recorded for life in Jerusalem,
+
+(x)	וְהָיָ֗ה כֶּֽאֱסֹף֙ קָצִ֣יר קָמָ֔ה וּזְרֹעֹ֖ו שִׁבֳּלִ֣ים יִקְצֹ֑ור וְהָיָ֛ה כִּ_מְלַקֵּ֥ט_ שִׁבֳּלִ֖ים בְּעֵ֥מֶק רְפָאִֽים׃ (Isa. 17:5)
+NIV	It will be as when a reaper gathers the standing corn and harvests the corn with his arm — as when a man gleans ears of corn in the Valley of Rephaim.
+ESV	And it shall be as when the reaper gathers standing grain and his arm harvests the ears, and as when _one gleans_ the ears of grain in the Valley of Rephaim.
+
+(x)	וּלְר֖וּחַ מִשְׁפָּ֑ט לַיֹּושֵׁב֙ עַל־הַמִּשְׁפָּ֔ט וְלִ֨גְבוּרָ֔ה _מְשִׁיבֵ֥י_ מִלְחָמָ֖ה שָֽׁעְרָה׃ ס (Isa. 28:6)
+NIV	He will be a spirit of justice to him who sits in judgment, a source of strength to _those who turn back_ the battle at the gate.
+ESV	and a spirit of justice to him who sits in judgment, and strength to _those who turn back_ the battle at the gate.
+
+(x)	הַ_נֵּֽחָמִים֙_ בָּֽאֵלִ֔ים תַּ֖חַת כָּל־עֵ֣ץ רַעֲנָ֑ן שֹׁחֲטֵ֤י הַיְלָדִים֙ בַּנְּחָלִ֔ים תַּ֖חַת סְעִפֵ֥י הַסְּלָעִֽים׃ (Isa. 57:5)
+NIV	You _burn with lust_ among the oaks and under every spreading tree. you sacrifice your children in the ravines and under the overhanging crags.
+ESV	you _who burn with lust_ among the oaks, under every green tree, who slaughter your children in the valleys, under the clefts of the rocks?
+
+(x)	הַנֵּֽחָמִים֙ בָּֽאֵלִ֔ים תַּ֖חַת כָּל־עֵ֣ץ רַעֲנָ֑ן _שֹׁחֲטֵ֤י_ הַיְלָדִים֙ בַּנְּחָלִ֔ים תַּ֖חַת סְעִפֵ֥י הַסְּלָעִֽים׃ (Isa. 57:5)
+NIV	You burn with lust among the oaks and under every spreading tree. you _sacrifice_ your children in the ravines and under the overhanging crags.
+ESV	you who burn with lust among the oaks, under every green tree, _who slaughter_ your children in the valleys, under the clefts of the rocks?
+
+(x)	אֲשֶׁ֨ר הַ_מִּתְבָּרֵ֜ךְ_ בָּאָ֗רֶץ יִתְבָּרֵךְ֙ בֵּאלֹהֵ֣י אָמֵ֔ן וְהַנִּשְׁבָּ֣ע בָּאָ֔רֶץ יִשָּׁבַ֖ע בֵּאלֹהֵ֣י אָמֵ֑ן כִּ֣י נִשְׁכְּח֗וּ הַצָּרֹות֙ הָרִ֣אשֹׁנֹ֔ות וְכִ֥י נִסְתְּר֖וּ מֵעֵינָֽי׃ (Isa. 65:16)
+NIV	Whoever _invokes a blessing_ in the land will do so by the God of truth. he who takes an oath in the land will swear by the God of truth. For the past troubles will be forgotten and hidden from my eyes.
+ESV	So that he who _blesses himself_ in the land shall bless himself by the God of truth, and he who takes an oath in the land shall swear by the God of truth. because the former troubles are forgotten and are hidden from my eyes.
+
+(x)	אֲשֶׁ֨ר הַמִּתְבָּרֵ֜ךְ בָּאָ֗רֶץ יִתְבָּרֵךְ֙ בֵּאלֹהֵ֣י אָמֵ֔ן וְהַ_נִּשְׁבָּ֣ע_ בָּאָ֔רֶץ יִשָּׁבַ֖ע בֵּאלֹהֵ֣י אָמֵ֑ן כִּ֣י נִשְׁכְּח֗וּ הַצָּרֹות֙ הָרִ֣אשֹׁנֹ֔ות וְכִ֥י נִסְתְּר֖וּ מֵעֵינָֽי׃ (Isa. 65:16)
+NIV	Whoever invokes a blessing in the land will do so by the God of truth. he _who takes an oath_ in the land will swear by the God of truth. For the past troubles will be forgotten and hidden from my eyes.
+ESV	So that he who blesses himself in the land shall bless himself by the God of truth, and he _who takes an oath_ in the land shall swear by the God of truth. because the former troubles are forgotten and are hidden from my eyes.
+
+(x)	כִּ֣י אִם־בְּזֹ֞את יִתְהַלֵּ֣ל הַמִּתְהַלֵּ֗ל הַשְׂכֵּל֮ וְיָדֹ֣עַ אֹותִי֒ כִּ֚י אֲנִ֣י יְהוָ֔ה _עֹ֥שֶׂה_ חֶ֛סֶד מִשְׁפָּ֥ט וּצְדָקָ֖ה בָּאָ֑רֶץ כִּֽי־בְאֵ֥לֶּה חָפַ֖צְתִּי נְאֻם־יְהוָֽה׃ ס (Jer. 9:23)
+NIV	but let him who boasts boast about this: that he understands and knows me, that I am the LORD, _who exercises_ kindness, justice and righteousness on earth, for in these I delight,” declares the LORD.
+ESV	but let him who boasts boast in this, that he understands and knows me, that I am the Lord _who practices_ steadfast love, justice, and righteousness in the earth. For in these things I delight, declares the Lord.”
+
+(x)	וַיֹּ֤אמֶר יְהוָה֙ אֵלָ֔יו עֲבֹר֙ בְּתֹ֣וךְ הָעִ֔יר בְּתֹ֖וךְ יְרֽוּשָׁלִָ֑ם וְהִתְוִ֨יתָ תָּ֜ו עַל־מִצְחֹ֣ות הָאֲנָשִׁ֗ים הַנֶּֽאֱנָחִים֙ וְהַנֶּ֣אֱנָקִ֔ים עַ֚ל כָּל־הַתֹּ֣ועֵבֹ֔ות הַֽ_נַּעֲשֹׂ֖ות_ בְּתֹוכָֽהּ׃ (Ezek. 9:4)
+NIV	and said to him, “Go throughout the city of Jerusalem and put a mark on the foreheads of those who grieve and lament over all the detestable things _that are done_ in it.”
+ESV	And the Lord said to him, “Pass through the city, through Jerusalem, and put a mark on the foreheads of the men who sigh and groan over all the abominations _that are committed_ in it.”
+
+(x)	שָׂנְא֥וּ בַשַּׁ֖עַר _מֹוכִ֑יחַ_ וְדֹבֵ֥ר תָּמִ֖ים יְתָעֵֽבוּ׃ (Amos 5:10)
+NIV	you hate the one _who reproves_ in court and despise him who tells the truth.
+ESV	They hate him _who reproves_ in the gate, and they abhor him who speaks the truth.
+
+(x)	רְעֵ֧ה עַמְּךָ֣ בְשִׁבְטֶ֗ךָ צֹ֚אן נַֽחֲלָתֶ֔ךָ _שֹׁכְנִ֣י_ לְבָדָ֔ד יַ֖עַר בְּתֹ֣וךְ כַּרְמֶ֑ל יִרְע֥וּ בָשָׁ֛ן וְגִלְעָ֖ד כִּימֵ֥י עֹולָֽם׃ (Mic. 7:14)
+NIV	Shepherd your people with your staff, the flock of your inheritance, _which lives_ by itself in a forest, in fertile pasture-lands. Let them feed in Bashan and Gilead as in days long ago.
+ESV	Shepherd your people with your staff, the flock of your inheritance, _who dwell_ alone in a forest in the midst of a garden land. let them graze in Bashan and Gilead as in the days of old.
+
+(x)	וְאֶת־הַ_מִּשְׁתַּחֲוִ֥ים_ עַל־הַגַּגֹּ֖ות לִצְבָ֣א הַשָּׁמָ֑יִם וְאֶת־הַמִּֽשְׁתַּחֲוִים֙ הַנִּשְׁבָּעִ֣ים לַֽיהוָ֔ה וְהַנִּשְׁבָּעִ֖ים בְּמַלְכָּֽם׃ (Zeph. 1:5)
+NIV	those _who bow down_ on the roofs to worship the starry host, those _who bow down_ and swear by the LORD and who also swear by Molech,
+ESV	those _who bow down_ on the roofs to the host of the heavens, those _who bow down_ and swear to the Lord and yet swear by Milcom,
+
+(x)	_נֹודָ֣ע_ בִּֽיהוּדָ֣ה אֱלֹהִ֑ים בְּ֝יִשְׂרָאֵ֗ל גָּדֹ֥ול שְׁמֹֽו׃ (Psa. 76:2)
+NIV	In Judah God _is known_. his name is great in Israel.
+ESV	In Judah God _is known_. his name is great in Israel.
+
+(x)	_יֹ֭שֵׁב_ בְּסֵ֣תֶר עֶלְיֹ֑ון בְּצֵ֥ל שַׁ֝דַּ֗י יִתְלֹונָֽן׃ (Psa. 91:1)
+NIV	He _who dwells_ in the shelter of the Most High will rest in the shadow of the Almighty.
+ESV	He _who dwells_ in the shelter of the Most High will abide in the shadow of the Almighty.
+
+(x)	הַ֥_מְקָרֶֽה_ בַמַּ֗יִם עֲֽלִיֹּ֫ותָ֥יו הַשָּׂם־עָבִ֥ים רְכוּבֹ֑ו הַֽ֝מְהַלֵּ֗ךְ עַל־כַּנְפֵי־רֽוּחַ׃ (Psa. 104:3)
+NIV	and _lays the beams_ of his upper chambers on their waters. He makes the clouds his chariot and rides on the wings of the wind.
+ESV	He _lays the beams_ of his chambers on the waters. he makes the clouds his chariot. he rides on the wings of the wind.
+
+(x)	הַֽמְכַסֶּ֬ה שָׁמַ֨יִם׀ בְּעָבִ֗ים הַמֵּכִ֣ין לָאָ֣רֶץ מָטָ֑ר הַ_מַּצְמִ֖יחַ_ הָרִ֣ים חָצִֽיר׃ (Psa. 147:8)
+NIV	He covers the sky with clouds. he supplies the earth with rain and makes grass grow on the hills.
+ESV	He covers the heavens with clouds. he prepares rain for the earth. he makes grass grow on the hills.
+
+(x)	_נֹודָ֣ע_ בַּשְּׁעָרִ֣ים בַּעְלָ֑הּ בְּ֝שִׁבְתֹּ֗ו עִם־זִקְנֵי־אָֽרֶץ׃ (Prov. 31:23)
+NIV	Her husband _is respected_ at the city gate, where he takes his seat among the elders of the land.
+ESV	Her husband _is known_ in the gates when he sits among the elders of the land.
+
+(x)	וְזָרַ֥ח הַשֶּׁ֖מֶשׁ וּבָ֣א הַשָּׁ֑מֶשׁ וְאֶ֨ל־מְקֹומֹ֔ו שֹׁואֵ֛ף _זֹורֵ֥חַֽ_ ה֖וּא שָֽׁם׃ (Eccl. 1:5)
+NIV	The sun _rises_ and the sun sets, and hurries back to where it _rises_.
+ESV	The sun _rises_, and the sun goes down, and hastens to the place where it _rises_.
+
+(x)	וְאֶת־רֵאשִׁ֣ית עֲרִיסֹתֵ֣ינוּ וּ֠תְרוּמֹתֵינוּ וּפְרִ֨י כָל־עֵ֜ץ תִּירֹ֣ושׁ וְיִצְהָ֗ר נָבִ֤יא לַכֹּהֲנִים֙ אֶל־לִשְׁכֹ֣ות בֵּית־אֱלֹהֵ֔ינוּ וּמַעְשַׂ֥ר אַדְמָתֵ֖נוּ לַלְוִיִּ֑ם וְהֵם֙ הַלְוִיִּ֔ם הַֽ_מְעַשְּׂרִ֔ים_ בְּכֹ֖ל עָרֵ֥י עֲבֹדָתֵֽנוּ׃ (Neh. 10:38)
+NIV	“Moreover, we will bring to the storerooms of the house of our God, to the priests, the first of our ground meal, of our [ grain ] offerings, of the fruit of all our trees and of our new wine and oil. And we will bring a tithe of our crops to the Levites, for it is the Levites _who collect the tithes_ in all the towns where we work.
+ESV	and to bring the first of our dough, and our contributions, the fruit of every tree, the wine and the oil, to the priests, to the chambers of the house of our God. and to bring to the Levites the tithes from our ground, for it is the Levites _who collect the tithes_ in all our towns where we labor.

@@ -1,0 +1,62 @@
+genre == "instruction" and domain2 == "Q" and eng_TAMsimp == "PRES PROG"
+15 of 21
+
+(x)	כַּבֵּ֥ד אֶת־אָבִ֖יךָ וְאֶת־אִמֶּ֑ךָ לְמַ֨עַן֙ יַאֲרִכ֣וּן יָמֶ֔יךָ עַ֚ל הָאֲדָמָ֔ה אֲשֶׁר־יְהוָ֥ה אֱלֹהֶ֖יךָ _נֹתֵ֥ן_ לָֽךְ׃ ס (Exod. 20:12)
+NIV	“Honor your father and your mother, so that you may live long in the land the LORD your God _is giving_ you.
+ESV	“Honor your father and your mother, that your days may be long in the land that the Lord your God _is giving_ you.
+
+(x)	כְּמַעֲשֵׂ֧ה אֶֽרֶץ־מִצְרַ֛יִם אֲשֶׁ֥ר יְשַׁבְתֶּם־בָּ֖הּ לֹ֣א תַעֲשׂ֑וּ וּכְמַעֲשֵׂ֣ה אֶֽרֶץ־כְּנַ֡עַן אֲשֶׁ֣ר אֲנִי֩ _מֵבִ֨יא_ אֶתְכֶ֥ם שָׁ֨מָּה֙ לֹ֣א תַעֲשׂ֔וּ וּבְחֻקֹּתֵיהֶ֖ם לֹ֥א תֵלֵֽכוּ׃ (Lev. 18:3)
+NIV	You must not do as they do in Egypt, where you used to live, and you must not do as they do in the land of Canaan, where I _am bringing_ you. Do not follow their practices.
+ESV	You shall not do as they do in the land of Egypt, where you lived, and you shall not do as they do in the land of Canaan, to which I _am bringing_ you. You shall not walk in their statutes.
+
+(x)	וּשְׁמַרְתֶּ֤ם אֶת־כָּל־חֻקֹּתַי֙ וְאֶת־כָּל־מִשְׁפָּטַ֔י וַעֲשִׂיתֶ֖ם אֹתָ֑ם וְלֹא־תָקִ֤יא אֶתְכֶם֙ הָאָ֔רֶץ אֲשֶׁ֨ר אֲנִ֜י _מֵבִ֥יא_ אֶתְכֶ֛ם שָׁ֖מָּה לָשֶׁ֥בֶת בָּֽהּ׃ (Lev. 20:22)
+NIV	“‘Keep all my decrees and laws and follow them, so that the land where I _am bringing_ you to live may not vomit you out.
+ESV	“You shall therefore keep all my statutes and all my rules and do them, that the land where I _am bringing_ you to live may not vomit you out.
+
+(x)	כַּבֵּ֤ד אֶת־אָבִ֨יךָ֙ וְאֶת־אִמֶּ֔ךָ כַּאֲשֶׁ֥ר צִוְּךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ לְמַ֣עַן׀ יַאֲרִיכֻ֣ן יָמֶ֗יךָ וּלְמַ֨עַן֙ יִ֣יטַב לָ֔ךְ עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁר־יְהוָ֥ה אֱלֹהֶ֖יךָ _נֹתֵ֥ן_ לָֽךְ׃ ס (Deut. 5:16)
+NIV	“Honour your father and your mother, as the LORD your God has commanded you, so that you may live long and that it may go well with you in the land the LORD your God _is giving_ you.
+ESV	“‘Honor your father and your mother, as the Lord your God commanded you, that your days may be long, and that it may go well with you in the land that the Lord your God _is giving_ you.
+
+(x)	כִּ֥י לֹא־בָּאתֶ֖ם עַד־עָ֑תָּה אֶל־הַמְּנוּחָה֙ וְאֶל־הַֽנַּחֲלָ֔ה אֲשֶׁר־יְהוָ֥ה אֱלֹהֶ֖יךָ _נֹתֵ֥ן_ לָֽךְ׃ (Deut. 12:9)
+NIV	since you have not yet reached the resting place and the inheritance the LORD your God _is giving_ you.
+ESV	for you have not as yet come to the rest and to the inheritance that the Lord your God _is giving_ you.
+
+(x)	לֹ֣א תִשְׁמַ֗ע אֶל־דִּבְרֵי֙ הַנָּבִ֣יא הַה֔וּא אֹ֛ו אֶל־חֹולֵ֥ם הַחֲלֹ֖ום הַה֑וּא כִּ֣י _מְנַסֶּ֞ה_ יְהוָ֤ה אֱלֹֽהֵיכֶם֙ אֶתְכֶ֔ם לָדַ֗עַת הֲיִשְׁכֶ֤ם אֹֽהֲבִים֙ אֶת־יְהוָ֣ה אֱלֹהֵיכֶ֔ם בְּכָל־לְבַבְכֶ֖ם וּבְכָל־נַפְשְׁכֶֽם׃ (Deut. 13:4)
+NIV	you must not listen to the words of that prophet or dreamer. The LORD your God _is testing_ you to find out whether you love him with all your heart and with all your soul.
+ESV	you shall not listen to the words of that prophet or that dreamer of dreams. For the Lord your God _is testing_ you, to know whether you love the Lord your God with all your heart and with all your soul.
+
+(x)	כִּֽי־תִשְׁמַ֞ע בְּאַחַ֣ת עָרֶ֗יךָ אֲשֶׁר֩ יְהוָ֨ה אֱלֹהֶ֜יךָ _נֹתֵ֥ן_ לְךָ֛ לָשֶׁ֥בֶת שָׁ֖ם לֵאמֹֽר׃ (Deut. 13:13)
+NIV	If you hear it said about one of the towns the LORD your God _is giving_ you to live in
+ESV	“If you hear in one of your cities, which the Lord your God _is giving_ you to dwell there,
+
+(x)	כִּ֣י תִשְׁמַ֗ע בְּקֹול֙ יְהוָ֣ה אֱלֹהֶ֔יךָ לִשְׁמֹר֙ אֶת־כָּל־מִצְוֹתָ֔יו אֲשֶׁ֛ר אָנֹכִ֥י _מְצַוְּךָ֖_ הַיֹּ֑ום לַעֲשֹׂות֙ הַיָּשָׁ֔ר בְּעֵינֵ֖י יְהוָ֥ה אֱלֹהֶֽיךָ׃ ס (Deut. 13:19)
+NIV	because you obey the LORD your God, keeping all his commands that I _am giving_ you today and doing what is right in his eyes.
+ESV	if you obey the voice of the Lord your God, keeping all his commandments that I _am commanding_ you today, and doing what is right in the sight of the Lord your God.
+
+(x)	כִּֽי־יִהְיֶה֩ בְךָ֨ אֶבְיֹ֜ון מֵאַחַ֤ד אַחֶ֨יךָ֙ בְּאַחַ֣ד שְׁעָרֶ֔יךָ בְּאַ֨רְצְךָ֔ אֲשֶׁר־יְהוָ֥ה אֱלֹהֶ֖יךָ _נֹתֵ֣ן_ לָ֑ךְ לֹ֧א תְאַמֵּ֣ץ אֶת־לְבָבְךָ֗ וְלֹ֤א תִקְפֹּץ֙ אֶת־יָ֣דְךָ֔ מֵאָחִ֖יךָ הָאֶבְיֹֽון׃ (Deut. 15:7)
+NIV	If there is a poor man among your brothers in any of the towns of the land that the LORD your God _is giving_ you, do not be hard-hearted or tight-fisted towards your poor brother.
+ESV	“If among you, one of your brothers should become poor, in any of your towns within your land that the Lord your God _is giving_ you, you shall not harden your heart or shut your hand against your poor brother,
+
+(x)	שֹׁפְטִ֣ים וְשֹֽׁטְרִ֗ים תִּֽתֶּן־לְךָ֙ בְּכָל־שְׁעָרֶ֔יךָ אֲשֶׁ֨ר יְהוָ֧ה אֱלֹהֶ֛יךָ _נֹתֵ֥ן_ לְךָ֖ לִשְׁבָטֶ֑יךָ וְשָׁפְט֥וּ אֶת־הָעָ֖ם מִשְׁפַּט־צֶֽדֶק׃ (Deut. 16:18)
+NIV	Appoint judges and officials for each of your tribes in every town the LORD your God _is giving_ you, and they shall judge the people fairly.
+ESV	“You shall appoint judges and officers in all your towns that the Lord your God _is giving_ you, according to your tribes, and they shall judge the people with righteous judgment.
+
+(x)	כִּֽי־תָבֹ֣א אֶל־הָאָ֗רֶץ אֲשֶׁ֨ר יְהוָ֤ה אֱלֹהֶ֨יךָ֙ _נֹתֵ֣ן_ לָ֔ךְ וִֽירִשְׁתָּ֖הּ וְיָשַׁ֣בְתָּה בָּ֑הּ וְאָמַרְתָּ֗ אָשִׂ֤ימָה עָלַי֙ מֶ֔לֶךְ כְּכָל־הַגֹּויִ֖ם אֲשֶׁ֥ר סְבִיבֹתָֽי׃ (Deut. 17:14)
+NIV	When you enter the land the LORD your God _is giving_ you and have taken possession of it and settled in it, and you say, “Let us set a king over us like all the nations around us,”
+ESV	“When you come to the land that the Lord your God _is giving_ you, and you possess it and dwell in it and then say, ‘I will set a king over me, like all the nations that are around me,’
+
+(x)	כִּֽי־יַכְרִ֞ית יְהוָ֤ה אֱלֹהֶ֨יךָ֙ אֶת־הַגֹּויִ֔ם אֲשֶׁר֙ יְהוָ֣ה אֱלֹהֶ֔יךָ _נֹתֵ֥ן_ לְךָ֖ אֶת־אַרְצָ֑ם וִֽירִשְׁתָּ֕ם וְיָשַׁבְתָּ֥ בְעָרֵיהֶ֖ם וּבְבָתֵּיהֶֽם׃ (Deut. 19:1)
+NIV	When the LORD your God has destroyed the nations whose land he _is giving_ you, and when you have driven them out and settled in their towns and houses,
+ESV	“When the Lord your God cuts off the nations whose land the Lord your God _is giving_ you, and you dispossess them and dwell in their cities and in their houses,
+
+(x)	וְלֹ֤א יִשָּׁפֵךְ֙ דָּ֣ם נָקִ֔י בְּקֶ֣רֶב אַרְצְךָ֔ אֲשֶׁר֙ יְהוָ֣ה אֱלֹהֶ֔יךָ _נֹתֵ֥ן_ לְךָ֖ נַחֲלָ֑ה וְהָיָ֥ה עָלֶ֖יךָ דָּמִֽים׃ ס (Deut. 19:10)
+NIV	Do this so that innocent blood will not be shed in your land, which the LORD your God _is giving_ you as your inheritance, and so that you will not be guilty of bloodshed.
+ESV	lest innocent blood be shed in your land that the Lord your God _is giving_ you for an inheritance, and so the guilt of bloodshed be upon you.
+
+(x)	לֹ֤א תַסִּיג֙ גְּב֣וּל רֵֽעֲךָ֔ אֲשֶׁ֥ר גָּבְל֖וּ רִאשֹׁנִ֑ים בְּנַחֲלָֽתְךָ֙ אֲשֶׁ֣ר תִּנְחַ֔ל בָּאָ֕רֶץ אֲשֶׁר֙ יְהוָ֣ה אֱלֹהֶ֔יךָ _נֹתֵ֥ן_ לְךָ֖ לְרִשְׁתָּֽהּ׃ ס (Deut. 19:14)
+NIV	Do not move your neighbour’s boundary stone set up by your predecessors in the inheritance you receive in the land the LORD your God _is giving_ you to possess.
+ESV	“You shall not move your neighbor’s landmark, which the men of old have set, in the inheritance that you will hold in the land that the Lord your God _is giving_ you to possess.
+
+(x)	רַ֗ק מֵעָרֵ֤י הָֽעַמִּים֙ הָאֵ֔לֶּה אֲשֶׁר֙ יְהוָ֣ה אֱלֹהֶ֔יךָ _נֹתֵ֥ן_ לְךָ֖ נַחֲלָ֑ה לֹ֥א תְחַיֶּ֖ה כָּל־נְשָׁמָֽה׃ (Deut. 20:16)
+NIV	However, in the cities of the nations the LORD your God _is giving_ you as an inheritance, do not leave alive anything that breathes.
+ESV	But in the cities of these peoples that the Lord your God _is giving_ you for an inheritance, you shall save alive nothing that breathes,

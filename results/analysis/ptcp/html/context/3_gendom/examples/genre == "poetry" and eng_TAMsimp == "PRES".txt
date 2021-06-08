@@ -1,0 +1,62 @@
+genre == "poetry" and eng_TAMsimp == "PRES"
+15 of 569
+
+(x)	יְהִי־דָן֙ נָחָ֣שׁ עֲלֵי־דֶ֔רֶךְ שְׁפִיפֹ֖ן עֲלֵי־אֹ֑רַח הַ_נֹּשֵׁךְ֙_ עִקְּבֵי־ס֔וּס וַיִּפֹּ֥ל רֹכְבֹ֖ו אָחֹֽור׃ (Gen. 49:17)
+NIV	Dan will be a serpent by the roadside, a viper along the path, _that bites_ the horse’s heels so that its rider tumbles backward.
+ESV	Dan shall be a serpent in the way, a viper by the path, _that bites_ the horse’s heels so that his rider falls backward.
+
+(x)	כָּל־_רֹ֭אַי_ יַלְעִ֣גוּ לִ֑י יַפְטִ֥ירוּ בְ֝שָׂפָ֗ה יָנִ֥יעוּ רֹֽאשׁ׃ (Psa. 22:8)
+NIV	All _who see_ me mock me. they hurl insults, shaking their heads:
+ESV	All _who see_ me mock me. they make mouths at me. they wag their heads.
+
+(x)	כִּֽי־יִפֹּ֥ל לֹֽא־יוּטָ֑ל כִּֽי־יְ֝הוָ֗ה _סֹומֵ֥ךְ_ יָדֹֽו׃ (Psa. 37:24)
+NIV	though he stumble, he will not fall, for the LORD _upholds_ him with his hand.
+ESV	though he fall, he shall not be cast headlong, for the Lord _upholds_ his hand.
+
+(x)	יָ֭שׁוּבוּ עַל־עֵ֣קֶב בָּשְׁתָּ֑ם הָ֝_אֹמְרִ֗ים_ הֶ֘אָ֥ח׀ הֶאָֽח׃ (Psa. 70:4)
+NIV	_May those who say_ to me, “Aha! Aha!” turn back because of their shame.
+ESV	Let them turn back because of their shame _who say_, “Aha, Aha!”
+
+(x)	הַ֥מְקָרֶֽה בַמַּ֗יִם עֲֽלִיֹּ֫ותָ֥יו הַ_שָּׂם_־עָבִ֥ים רְכוּבֹ֑ו הַֽ֝מְהַלֵּ֗ךְ עַל־כַּנְפֵי־רֽוּחַ׃ (Psa. 104:3)
+NIV	and lays the beams of his upper chambers on their waters. He _makes_ the clouds his chariot and rides on the wings of the wind.
+ESV	He lays the beams of his chambers on the waters. he _makes_ the clouds his chariot. he rides on the wings of the wind.
+
+(x)	מַֽעֲלֶ֣ה נְשִׂאִים֮ מִקְצֵ֪ה הָ֫אָ֥רֶץ בְּרָקִ֣ים לַמָּטָ֣ר עָשָׂ֑ה _מֹֽוצֵא_־ר֝וּחַ מֵאֹֽוצְרֹותָֽיו׃ (Psa. 135:7)
+NIV	He makes clouds rise from the ends of the earth. he sends lightning with the rain and _brings out_ the wind from his storehouses.
+ESV	He it is who makes the clouds rise at the end of the earth, who makes lightnings for the rain and _brings forth_ the wind from his storehouses.
+
+(x)	הַ_שֹּׁלֵ֣חַ_ אִמְרָתֹ֣ו אָ֑רֶץ עַד־מְ֝הֵרָ֗ה יָר֥וּץ דְּבָרֹֽו׃ (Psa. 147:15)
+NIV	He _sends_ his command to the earth. his word runs swiftly.
+ESV	He _sends out_ his command to the earth. his word runs swiftly.
+
+(x)	_נֹטֶ֣ה_ צָפֹ֣ון עַל־תֹּ֑הוּ תֹּ֥לֶה אֶ֝֗רֶץ עַל־בְּלִי־מָֽה׃ (Job 26:7)
+NIV	He _spreads out_ the northern [ skies ] over empty space. he suspends the earth over nothing.
+ESV	He _stretches out_ the north over the void and hangs the earth on nothing.
+
+(x)	וְֽ֭חֹטְאִי _חֹמֵ֣ס_ נַפְשֹׁ֑ו כָּל־מְ֝שַׂנְאַ֗י אָ֣הֲבוּ מָֽוֶת׃ פ (Prov. 8:36)
+NIV	But whoever fails to find me _harms_ himself. all who hate me love death.”
+ESV	but he who fails to find me _injures_ himself. all who hate me love death.”
+
+(x)	רֵ֣ישׁ וְ֭קָלֹון _פֹּורֵ֣עַ_ מוּסָ֑ר וְשֹׁומֵ֖ר תֹּוכַ֣חַת יְכֻבָּֽד׃ (Prov. 13:18)
+NIV	He _who ignores_ discipline comes to poverty and shame, but whoever heeds correction is honoured.
+ESV	Poverty and disgrace come to _him who ignores_ instruction, but whoever heeds reproof is honored.
+
+(x)	מְֽכַסֶּה־פֶּ֭שַׁע _מְבַקֵּ֣שׁ_ אַהֲבָ֑ה וְשֹׁנֶ֥ה בְ֝דָבָ֗ר מַפְרִ֥יד אַלּֽוּף׃ (Prov. 17:9)
+NIV	He who covers over an offence _promotes_ love, but whoever repeats the matter separates close friends.
+ESV	Whoever covers an offense _seeks_ love, but he who repeats a matter separates close friends.
+
+(x)	_מְחַשֵּׁ֥ב_ לְהָרֵ֑עַ לֹ֝֗ו בַּֽעַל־מְזִמֹּ֥ות יִקְרָֽאוּ׃ (Prov. 24:8)
+NIV	He _who plots_ evil will be known as a schemer.
+ESV	_Whoever plans_ to do evil will be called a schemer.
+
+(x)	חָזִ֗יתָ אִ֭ישׁ _אָ֣ץ_ בִּדְבָרָ֑יו תִּקְוָ֖ה לִכְסִ֣יל מִמֶּֽנּוּ׃ (Prov. 29:20)
+NIV	Do you see a man _who speaks in haste_? There is more hope for a fool than for him.
+ESV	Do you see a man _who is hasty_ in his words? There is more hope for a fool than for him.
+
+(x)	_אֹהֵ֥ב_ כֶּ֨סֶף֙ לֹא־יִשְׂבַּ֣ע כֶּ֔סֶף וּמִֽי־_אֹהֵ֥ב_ בֶּהָמֹ֖ון לֹ֣א תְבוּאָ֑ה גַּם־זֶ֖ה הָֽבֶל׃ (Eccl. 5:9)
+NIV	Whoever _loves_ money never has money enough. whoever _loves_ wealth is never satisfied with his income. This too is meaningless.
+ESV	He who _loves_ money will not be satisfied with money, nor he who _loves_ wealth with his income. this also is vanity.
+
+(x)	הִֽתְהַֽלְלוּ֙ בְּשֵׁ֣ם קָדְשֹׁ֔ו יִשְׂמַ֕ח לֵ֖ב _מְבַקְשֵׁ֥י_ יְהוָֽה׃ (I Chr. 16:10)
+NIV	Glory in his holy name. let the hearts of _those who seek_ the LORD rejoice.
+ESV	Glory in his holy name. let the hearts of _those who seek_ the Lord rejoice!

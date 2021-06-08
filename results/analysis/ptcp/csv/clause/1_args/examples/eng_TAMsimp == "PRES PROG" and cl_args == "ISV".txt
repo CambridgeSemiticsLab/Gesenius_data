@@ -1,0 +1,102 @@
+eng_TAMsimp == "PRES PROG" and cl_args == "ISV"
+25 of 30
+
+(x)	הִנֵּ֛ה אָנֹכִ֥י _נִצָּ֖ב_ עַל־עֵ֣ין הַמָּ֑יִם וּבְנֹות֙ אַנְשֵׁ֣י הָעִ֔יר יֹצְאֹ֖ת לִשְׁאֹ֥ב מָֽיִם׃ (Gen. 24:13)
+NIV	See, I _am standing_ beside this spring, and the daughters of the townspeople are coming out to draw water.
+ESV	Behold, I _am standing_ by the spring of water, and the daughters of the men of the city are coming out to draw water.
+
+(x)	וַיֹּ֗אמֶר הִנֵּ֣ה אָנֹכִי֮ _כֹּרֵ֣ת_ בְּרִית֒ נֶ֤גֶד כָּֽל־עַמְּךָ֙ אֶעֱשֶׂ֣ה נִפְלָאֹ֔ת אֲשֶׁ֛ר לֹֽא־נִבְרְא֥וּ בְכָל־הָאָ֖רֶץ וּבְכָל־הַגֹּויִ֑ם וְרָאָ֣ה כָל־הָ֠עָם אֲשֶׁר־אַתָּ֨ה בְקִרְבֹּ֜ו אֶת־מַעֲשֵׂ֤ה יְהוָה֙ כִּֽי־נֹורָ֣א ה֔וּא אֲשֶׁ֥ר אֲנִ֖י עֹשֶׂ֥ה עִמָּֽךְ׃ (Exod. 34:10)
+NIV	Then the LORD said: “I _am making_ a covenant with you. Before all your people I will do wonders never before done in any nation in all the world. The people you live among will see how awesome is the work that I, the LORD, will do for you.
+ESV	And he said, “Behold, I _am making_ a covenant. Before all your people I will do marvels, such as have not been created in all the earth or in any nation. And all the people among whom you are shall see the work of the Lord, for it is an awesome thing that I will do with you.
+
+(x)	וַיַּרְא־גַּעַל֮ אֶת־הָעָם֒ וַיֹּ֣אמֶר אֶל־זְבֻ֔ל הִנֵּה־עָ֣ם _יֹורֵ֔ד_ מֵרָאשֵׁ֖י הֶהָרִ֑ים וַיֹּ֤אמֶר אֵלָיו֙ זְבֻ֔ל אֵ֣ת צֵ֧ל הֶהָרִ֛ים אַתָּ֥ה רֹאֶ֖ה כָּאֲנָשִֽׁים׃ ס (Judg. 9:36)
+NIV	When Gaal saw them, he said to Zebul, “Look, people _are coming down_ from the tops of the mountains!” Zebul replied, “You mistake the shadows of the mountains for men.”
+ESV	And when Gaal saw the people, he said to Zebul, “Look, people _are coming down_ from the mountaintops!” And Zebul said to him, “You mistake the shadow of the mountains for men.”
+
+(x)	וַיֹּ֨סֶף עֹ֣וד גַּעַל֮ לְדַבֵּר֒ וַיֹּ֕אמֶר הִנֵּה־עָם֙ _יֹֽורְדִ֔ים_ מֵעִ֖ם טַבּ֣וּר הָאָ֑רֶץ וְרֹאשׁ־אֶחָ֣ד בָּ֔א מִדֶּ֖רֶךְ אֵלֹ֥ון מְעֹונְנִֽים׃ (Judg. 9:37)
+NIV	But Gaal spoke up again: “Look, people _are coming down_ from the centre of the land, and a company is coming from the direction of the soothsayers’ tree.”
+ESV	Gaal spoke again and said, “Look, people _are coming down_ from the center of the land, and one company is coming from the direction of the Diviners’ Oak.”
+
+(x)	וַיִּגָּל֣וּ שְׁנֵיהֶ֔ם אֶל־מַצַּ֖ב פְּלִשְׁתִּ֑ים וַיֹּאמְר֣וּ פְלִשְׁתִּ֔ים הִנֵּ֤ה עִבְרִים֙ _יֹֽצְאִ֔ים_ מִן־הַחֹרִ֖ים אֲשֶׁ֥ר הִתְחַבְּאוּ־שָֽׁם׃ (I Sam. 14:11)
+NIV	So both of them showed themselves to the Philistine outpost. “Look!” said the Philistines. “The Hebrews _are crawling out_ of the holes they were hiding in.”
+ESV	So both of them showed themselves to the garrison of the Philistines. And the Philistines said, “Look, Hebrews _are coming out_ of the holes where they have hidden themselves.”
+
+(x)	וַיַּגִּ֥דוּ לְדָוִ֖ד לֵאמֹ֑ר הִנֵּ֤ה פְלִשְׁתִּים֙ _נִלְחָמִ֣ים_ בִּקְעִילָ֔ה וְהֵ֖מָּה שֹׁסִ֥ים אֶת־הַגֳּרָנֹֽות׃ (I Sam. 23:1)
+NIV	When David was told, “Look, the Philistines _are fighting_ against Keilah and are looting the threshing-floors,”
+ESV	Now they told David, “Behold, the Philistines _are fighting_ against Keilah and are robbing the threshing floors.”
+
+(x)	וַיָּ֥קָם הַמֶּ֖לֶךְ וַיֵּ֣שֶׁב בַּשָּׁ֑עַר וּֽלְכָל־הָעָ֞ם הִגִּ֣ידוּ לֵאמֹ֗ר הִנֵּ֤ה הַמֶּ֨לֶךְ֙ _יֹושֵׁ֣ב_ בַּשַּׁ֔עַר וַיָּבֹ֤א כָל־הָעָם֙ לִפְנֵ֣י הַמֶּ֔לֶךְ וְיִשְׂרָאֵ֔ל נָ֖ס אִ֥ישׁ לְאֹהָלָֽיו׃ ס (II Sam. 19:9)
+NIV	So the king got up and took his seat in the gateway. When the men were told, “The king _is sitting_ in the gateway,” they all came before him. Meanwhile, the Israelites had fled to their homes.
+ESV	Then the king arose and took his seat in the gate. And the people were all told, “Behold, the king _is sitting_ in the gate.” And all the people came before the king. Now Israel had fled every man to his own home.
+
+(x)	וַיהוָ֞ה אָמַ֣ר אֶל־אֲחִיָּ֗הוּ הִנֵּ֣ה אֵ֣שֶׁת יָרָבְעָ֡ם _בָּאָ֣ה_ לִדְרֹשׁ֩ דָּבָ֨ר מֵעִמְּךָ֤ אֶל־בְּנָהּ֙ כִּֽי־חֹלֶ֣ה ה֔וּא כָּזֹ֥ה וְכָזֶ֖ה תְּדַבֵּ֣ר אֵלֶ֑יהָ וִיהִ֣י כְבֹאָ֔הּ וְהִ֖יא מִתְנַכֵּרָֽה׃ (I Kgs. 14:5)
+NIV	But the LORD had told Ahijah, “Jeroboam’s wife _is coming_ to ask you about her son, for he is ill, and you are to give her such and such an answer. When she arrives, she will pretend to be someone else.”
+ESV	And the Lord said to Ahijah, “Behold, the wife of Jeroboam _is coming_ to inquire of you concerning her son, for he is sick. Thus and thus shall you say to her.” When she came, she pretended to be another woman.
+
+(x)	וַֽיְהִי֙ בַּשְּׁבִעִ֔ית וַיֹּ֗אמֶר הִנֵּה־עָ֛ב קְטַנָּ֥ה כְּכַף־אִ֖ישׁ _עֹלָ֣ה_ מִיָּ֑ם וַיֹּ֗אמֶר עֲלֵ֨ה אֱמֹ֤ר אֶל־אַחְאָב֙ אֱסֹ֣ר וָרֵ֔ד וְלֹ֥א יַעַצָרְכָ֖ה הַגָּֽשֶׁם׃ (I Kgs. 18:44)
+NIV	The seventh time the servant reported, “A cloud as small as a man’s hand _is rising_ from the sea.” So Elijah said, “Go and tell Ahab, ‘Hitch up your chariot and go down before the rain stops you.’”
+ESV	And at the seventh time he said, “Behold, a little cloud like a man’s hand _is rising_ from the sea.” And he said, “Go up, say to Ahab, ‘Prepare your chariot and go down, lest the rain stop you.’”
+
+(x)	שִׁמְעִ֣י הָאָ֔רֶץ הִנֵּ֨ה אָנֹכִ֜י _מֵבִ֥יא_ רָעָ֛ה אֶל־הָעָ֥ם הַזֶּ֖ה פְּרִ֣י מַחְשְׁבֹותָ֑ם כִּ֤י עַל־דְּבָרַי֙ לֹ֣א הִקְשִׁ֔יבוּ וְתֹורָתִ֖י וַיִּמְאֲסוּ־בָֽהּ׃ (Jer. 6:19)
+NIV	Hear, O earth: I _am bringing_ disaster on this people, the fruit of their schemes, because they have not listened to my words and have rejected my law.
+ESV	Hear, O earth. behold, I _am bringing_ disaster upon this people, the fruit of their devices, because they have not paid attention to my words. and as for my law, they have rejected it.
+
+(x)	הִנֵּ֛ה יָמִ֥ים _בָּאִ֖ים_ נְאֻם־יְהוָ֑ה וּפָ֣קַדְתִּ֔י עַל־כָּל־מ֖וּל בְּעָרְלָֽה׃ (Jer. 9:24)
+NIV	“The days _are coming_,” declares the LORD, “when I will punish all who are circumcised only in the flesh —
+ESV	“Behold, the days _are coming_, declares the Lord, when I will punish all those who are circumcised merely in the flesh —
+
+(x)	לָכֵ֛ן הִנֵּֽה־יָמִ֥ים _בָּאִ֖ים_ נְאֻם־יְהוָ֑ה וְלֹֽא־יֵאָמֵ֥ר עֹוד֙ חַי־יְהוָ֔ה אֲשֶׁ֧ר הֶעֱלָ֛ה אֶת־בְּנֵ֥י יִשְׂרָאֵ֖ל מֵאֶ֥רֶץ מִצְרָֽיִם׃ (Jer. 16:14)
+NIV	“However, the days _are coming_,” declares the LORD, “when men will no longer say, ‘As surely as the LORD lives, who brought the Israelites up out of Egypt,’
+ESV	“Therefore, behold, the days _are coming_, declares the Lord, when it shall no longer be said, ‘As the Lord lives who brought up the people of Israel out of the land of Egypt,’
+
+(x)	וְעַתָּ֡ה אֱמָר־נָ֣א אֶל־אִישׁ־יְהוּדָה֩ וְעַל־יֹושְׁבֵ֨י יְרוּשָׁלִַ֜ם לֵאמֹ֗ר כֹּ֚ה אָמַ֣ר יְהוָ֔ה הִנֵּ֨ה אָנֹכִ֜י _יֹוצֵ֤ר_ עֲלֵיכֶם֙ רָעָ֔ה וְחֹשֵׁ֥ב עֲלֵיכֶ֖ם מַֽחֲשָׁבָ֑ה שׁ֣וּבוּ נָ֗א אִ֚ישׁ מִדַּרְכֹּ֣ו הָֽרָעָ֔ה וְהֵיטִ֥יבוּ דַרְכֵיכֶ֖ם וּמַעַלְלֵיכֶֽם׃ (Jer. 18:11)
+NIV	“Now therefore say to the people of Judah and those living in Jerusalem, ‘This is what the LORD says: Look! I _am preparing_ a disaster for you and devising a plan against you. So turn from your evil ways, each one of you, and reform your ways and your actions.’
+ESV	Now, therefore, say to the men of Judah and the inhabitants of Jerusalem: ‘Thus says the Lord, Behold, I _am shaping_ disaster against you and devising a plan against you. Return, every one from his evil way, and amend your ways and your deeds.’
+
+(x)	לָכֵ֞ן הִנֵּֽה־יָמִ֤ים _בָּאִים֙_ נְאֻם־יְהוָ֔ה וְלֹא־יִקָּרֵא֩ לַמָּקֹ֨ום הַזֶּ֥ה עֹ֛וד הַתֹּ֖פֶת וְגֵ֣יא בֶן־הִנֹּ֑ם כִּ֖י אִם־גֵּ֥יא הַהֲרֵגָֽה׃ (Jer. 19:6)
+NIV	So beware, the days _are coming_, declares the LORD, when people will no longer call this place Topheth or the Valley of Ben Hinnom, but the Valley of Slaughter.
+ESV	therefore, behold, days _are coming_, declares the Lord, when this place shall no more be called Topheth, or the Valley of the Son of Hinnom, but the Valley of Slaughter.
+
+(x)	הִנֵּ֨ה יָמִ֤ים _בָּאִים֙_ נְאֻם־יְהוָ֔ה וַהֲקִמֹתִ֥י לְדָוִ֖ד צֶ֣מַח צַדִּ֑יק וּמָ֤לַךְ מֶ֨לֶךְ֙ וְהִשְׂכִּ֔יל וְעָשָׂ֛ה מִשְׁפָּ֥ט וּצְדָקָ֖ה בָּאָֽרֶץ׃ (Jer. 23:5)
+NIV	“The days _are coming_,” declares the LORD, “when I will raise up to David a righteous Branch, a King who will reign wisely and do what is just and right in the land.
+ESV	“Behold, the days _are coming_, declares the Lord, when I will raise up for David a righteous Branch, and he shall reign as king and deal wisely, and shall execute justice and righteousness in the land.
+
+(x)	הִנֵּ֛ה יָמִ֥ים _בָּאִ֖ים_ נְאֻם־יְהוָ֑ה וְזָרַעְתִּ֗י אֶת־בֵּ֤ית יִשְׂרָאֵל֙ וְאֶת־בֵּ֣ית יְהוּדָ֔ה זֶ֥רַע אָדָ֖ם וְזֶ֥רַע בְּהֵמָֽה׃ (Jer. 31:27)
+NIV	“The days _are coming_,” declares the LORD, “when I will plant the house of Israel and the house of Judah with the offspring of men and of animals.
+ESV	“Behold, the days _are coming_, declares the Lord, when I will sow the house of Israel and the house of Judah with the seed of man and the seed of beast.
+
+(x)	הִנֵּ֛ה יָמִ֥ים _בָּאִ֖ים_ נְאֻם־יְהוָ֑ה וְכָרַתִּ֗י אֶת־בֵּ֧ית יִשְׂרָאֵ֛ל וְאֶת־בֵּ֥ית יְהוּדָ֖ה בְּרִ֥ית חֲדָשָֽׁה׃ (Jer. 31:31)
+NIV	“The time _is coming_,” declares the LORD, “when I will make a new covenant with the house of Israel and with the house of Judah.
+ESV	“Behold, the days _are coming_, declares the Lord, when I will make a new covenant with the house of Israel and the house of Judah,
+
+(x)	הִנֵּ֛ה יָמִ֥ים בָּאִ֖ים נְאֻם־יְהוָ֑ה וְנִבְנְתָ֤ה הָעִיר֙ לַֽיהוָ֔ה מִמִּגְדַּ֥ל חֲנַנְאֵ֖ל שַׁ֥עַר הַפִּנָּֽה׃ (Jer. 31:38)
+NIV	“The days _are coming_,” declares the LORD, “when this city will be rebuilt for me from the Tower of Hananel to the Corner Gate.
+ESV	“Behold, the days _are coming_, declares the Lord, when the city shall be rebuilt for the Lord from the Tower of Hananel to the Corner Gate.
+
+(x)	הִנֵּ֛ה יָמִ֥ים _בָּאִ֖ים_ נְאֻם־יְהוָ֑ה וַהֲקִֽמֹתִי֙ אֶת־הַדָּבָ֣ר הַטֹּ֔וב אֲשֶׁ֥ר דִּבַּ֛רְתִּי אֶל־בֵּ֥ית יִשְׂרָאֵ֖ל וְעַל־בֵּ֥ית יְהוּדָֽה׃ (Jer. 33:14)
+NIV	“‘The days _are coming_,’ declares the LORD, ‘when I will fulfil the gracious promise I made to the house of Israel and to the house of Judah.
+ESV	“Behold, the days _are coming_, declares the Lord, when I will fulfill the promise I made to the house of Israel and the house of Judah.
+
+(x)	כֹּ֣ה׀ אָמַ֣ר יְהוָ֗ה הִנֵּה־מַ֜יִם _עֹלִ֤ים_ מִצָּפֹון֙ וְהָיוּ֙ לְנַ֣חַל שֹׁוטֵ֔ף וְיִשְׁטְפוּ֙ אֶ֣רֶץ וּמְלֹואָ֔הּ עִ֖יר וְיֹ֣שְׁבֵי בָ֑הּ וְזָֽעֲקוּ֙ הָֽאָדָ֔ם וְהֵילִ֕ל כֹּ֖ל יֹושֵׁ֥ב הָאָֽרֶץ׃ (Jer. 47:2)
+NIV	This is what the LORD says: “See how the waters _are rising_ in the north. they will become an overflowing torrent. They will overflow the land and everything in it, the towns and those who live in them. The people will cry out. all who dwell in the land will wail
+ESV	“Thus says the Lord: Behold, waters _are rising_ out of the north, and shall become an overflowing torrent. they shall overflow the land and all that fills it, the city and those who dwell in it. Men shall cry out, and every inhabitant of the land shall wail.
+
+(x)	לָכֵ֡ן הִנֵּה֩ יָמִ֨ים _בָּאִ֜ים_ נְאֻם־יְהוָ֗ה וְ֠הִשְׁמַעְתִּי אֶל־רַבַּ֨ת בְּנֵי־עַמֹּ֜ון תְּרוּעַ֣ת מִלְחָמָ֗ה וְהָֽיְתָה֙ לְתֵ֣ל שְׁמָמָ֔ה וּבְנֹתֶ֖יהָ בָּאֵ֣שׁ תִּצַּ֑תְנָה וְיָרַ֧שׁ יִשְׂרָאֵ֛ל אֶת־יֹרְשָׁ֖יו אָמַ֥ר יְהוָֽה׃ (Jer. 49:2)
+NIV	But the days _are coming_,” declares the LORD, “when I will sound the battle cry against Rabbah of the Ammonites. it will become a mound of ruins, and its surrounding villages will be set on fire. Then Israel will drive out those who drove her out,” says the LORD.
+ESV	Therefore, behold, the days _are coming_, declares the Lord, when I will cause the battle cry to be heard against Rabbah of the Ammonites. it shall become a desolate mound, and its villages shall be burned with fire. then Israel shall dispossess those who dispossessed him, says the Lord.
+
+(x)	לָכֵ֞ן הִנֵּֽה־יָמִ֤ים _בָּאִים֙_ נְאֻם־יְהוָ֔ה וּפָקַדְתִּ֖י עַל־פְּסִילֶ֑יהָ וּבְכָל־אַרְצָ֖הּ יֶאֱנֹ֥ק חָלָֽל׃ (Jer. 51:52)
+NIV	“But days _are coming_,” declares the LORD, “when I will punish her idols, and throughout her land the wounded will groan.
+ESV	“Therefore, behold, the days _are coming_, declares the Lord, when I will execute judgment upon her images, and through all her land the wounded shall groan.
+
+(x)	הִנֵּ֣ה׀ יָמִ֣ים _בָּאִ֗ים_ נְאֻם֙ אֲדֹנָ֣י יְהוִ֔ה וְהִשְׁלַחְתִּ֥י רָעָ֖ב בָּאָ֑רֶץ לֹֽא־רָעָ֤ב לַלֶּ֨חֶם֙ וְלֹֽא־צָמָ֣א לַמַּ֔יִם כִּ֣י אִם־לִשְׁמֹ֔עַ אֵ֖ת דִּבְרֵ֥י יְהוָֽה׃ (Amos 8:11)
+NIV	“The days _are coming_,” declares the Sovereign LORD, “when I will send a famine through the land — not a famine of food or a thirst for water, but a famine of hearing the words of the LORD.
+ESV	“Behold, the days _are coming_,” declares the Lord God, “when I will send a famine on the land — not a famine of bread, nor a thirst for water, but of hearing the words of the Lord.
+
+(x)	הִנֵּ֨ה יָמִ֤ים _בָּאִים֙_ נְאֻם־יְהוָ֔ה וְנִגַּ֤שׁ חֹורֵשׁ֙ בַּקֹּצֵ֔ר וְדֹרֵ֥ךְ עֲנָבִ֖ים בְּמֹשֵׁ֣ךְ הַזָּ֑רַע וְהִטִּ֤יפוּ הֶֽהָרִים֙ עָסִ֔יס וְכָל־הַגְּבָעֹ֖ות תִּתְמֹוגַֽגְנָה׃ (Amos 9:13)
+NIV	“The days _are coming_,” declares the LORD, “when the reaper will be overtaken by the ploughman and the planter by the one treading grapes. New wine will drip from the mountains and flow from all the hills.
+ESV	“Behold, the days _are coming_,” declares the Lord, “when the plowman shall overtake the reaper and the treader of grapes him who sows the seed. the mountains shall drip sweet wine, and all the hills shall flow with it.
+
+(x)	הִנֵּ֥ה יֹֽום־_בָּ֖א_ לַֽיהוָ֑ה וְחֻלַּ֥ק שְׁלָלֵ֖ךְ בְּקִרְבֵּֽךְ׃ (Zech. 14:1)
+NIV	A day of the LORD _is coming_ when your plunder will be divided among you.
+ESV	Behold, a day _is coming_ for the Lord, when the spoil taken from you will be divided in your midst.

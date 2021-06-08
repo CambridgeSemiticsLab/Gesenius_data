@@ -1,29 +1,43 @@
 ,sum
-PRES,2056
-PAST,950
-PRES PART,525
-FUT,201
-PAST PROG,198
-PRES PROG,189
-PRES PERF,84
-MOD shall,80
+PRES,1973
+PAST,942
+PRES PART,419
+PRES PROG,295
+PAST PROG,196
+FUT,195
+PRES PERF,80
+MOD shall,79
 TO INF,73
 PAST PERF,66
+PRES question,38
+PRES wh-question,23
+PRES do not,22
 MOD is to,16
 MOD could,15
 MOD may,14
-MOD should,13
-IMPV,12
+MOD should,12
 MOD can,11
-MOD would,9
+IMPV,11
 PRES PERF PROG,9
+MOD would,8
 MOD was to,8
+PAST did not,7
 MOD let,7
-FUT going-to,3
+FUT question,4
 MOD must,3
-PRES PROG keep,2
+PRES PERF question,3
+FUT going-to,3
+FUT wh-question,2
+PAST PROG keep,2
 VB,2
+PRES PROG keep,2
+IMPV do not,1
+PRES PERF wh-question,1
+MOD quest shall,1
+MOD quest should,1
+MOD that VB,1
+PAST wh-question,1
+MOD quest would,1
 HAB used to,1
 PAST PERF PROG,1
-MOD that VB,1
 MOD might,1

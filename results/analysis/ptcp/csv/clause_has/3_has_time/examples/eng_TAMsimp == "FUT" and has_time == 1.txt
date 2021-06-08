@@ -1,0 +1,66 @@
+eng_TAMsimp == "FUT" and has_time == 1
+16 of 16
+
+(x)	כִּי֩ לְיָמִ֨ים עֹ֜וד שִׁבְעָ֗ה אָֽנֹכִי֙ _מַמְטִ֣יר_ עַל־הָאָ֔רֶץ אַרְבָּעִ֣ים יֹ֔ום וְאַרְבָּעִ֖ים לָ֑יְלָה וּמָחִ֗יתִי אֶֽת־כָּל־הַיְקוּם֙ אֲשֶׁ֣ר עָשִׂ֔יתִי מֵעַ֖ל פְּנֵ֥י הָֽאֲדָמָֽה׃ (Gen. 7:4)
+NIV	Seven days from now I _will send rain_ on the earth for forty days and forty nights, and I will wipe from the face of the earth every living creature I have made.”
+ESV	For in seven days I _will send rain_ on the earth forty days and forty nights, and every living thing that I have made I will blot out from the face of the ground.”
+
+(x)	כִּ֣י׀ בַּפַּ֣עַם הַזֹּ֗את אֲנִ֨י _שֹׁלֵ֜חַ_ אֶת־כָּל־מַגֵּפֹתַי֙ אֶֽל־לִבְּךָ֔ וּבַעֲבָדֶ֖יךָ וּבְעַמֶּ֑ךָ בַּעֲב֣וּר תֵּדַ֔ע כִּ֛י אֵ֥ין כָּמֹ֖נִי בְּכָל־הָאָֽרֶץ׃ (Exod. 9:14)
+NIV	or this time I _will send_ the full force of my plagues against you and against your officials and your people, so you may know that there is no one like me in all the earth.
+ESV	For this time I _will send_ all my plagues on you yourself, and on your servants and your people, so that you may know that there is none like me in all the earth.
+
+(x)	הִנְנִ֤י _מַמְטִיר֙_ כָּעֵ֣ת מָחָ֔ר בָּרָ֖ד כָּבֵ֣ד מְאֹ֑ד אֲשֶׁ֨ר לֹא־הָיָ֤ה כָמֹ֨הוּ֙ בְּמִצְרַ֔יִם לְמִן־הַיֹּ֥ום הִוָּסְדָ֖ה וְעַד־עָֽתָּה׃ (Exod. 9:18)
+NIV	Therefore, at this time tomorrow I _will send_ the worst hailstorm that has ever fallen on Egypt, from the day it was founded till now.
+ESV	Behold, about this time tomorrow I will cause very heavy hail to fall, such as never has been in Egypt from the day it was founded until now.
+
+(x)	כִּ֛י אִם־מָאֵ֥ן אַתָּ֖ה לְשַׁלֵּ֣חַ אֶת־עַמִּ֑י הִנְנִ֨י _מֵבִ֥יא_ מָחָ֛ר אַרְבֶּ֖ה בִּגְבֻלֶֽךָ׃ (Exod. 10:4)
+NIV	If you refuse to let them go, I _will bring_ locusts into your country tomorrow.
+ESV	For if you refuse to let my people go, behold, tomorrow I _will bring_ locusts into your country,
+
+(x)	וַיֹּ֣אמֶר מֹשֶׁ֔ה כֹּ֖ה אָמַ֣ר יְהוָ֑ה כַּחֲצֹ֣ת הַלַּ֔יְלָה אֲנִ֥י _יֹוצֵ֖א_ בְּתֹ֥וךְ מִצְרָֽיִם׃ (Exod. 11:4)
+NIV	So Moses said, “This is what the LORD says: ‘About midnight I _will go_ throughout Egypt.
+ESV	So Moses said, “Thus says the Lord: About midnight I _will go out_ in the midst of Egypt,
+
+(x)	וַיֹּ֨אמֶר מֹשֶׁ֤ה אֶל־יְהֹושֻׁ֨עַ֙ בְּחַר־לָ֣נוּ אֲנָשִׁ֔ים וְצֵ֖א הִלָּחֵ֣ם בַּעֲמָלֵ֑ק מָחָ֗ר אָנֹכִ֤י _נִצָּב֙_ עַל־רֹ֣אשׁ הַגִּבְעָ֔ה וּמַטֵּ֥ה הָאֱלֹהִ֖ים בְּיָדִֽי׃ (Exod. 17:9)
+NIV	Moses said to Joshua, “Choose some of our men and go out to fight the Amalekites. Tomorrow I _will stand_ on top of the hill with the staff of God in my hands.”
+ESV	So Moses said to Joshua, “Choose for us men, and go out and fight with Amalek. Tomorrow I _will stand_ on the top of the hill with the staff of God in my hand.”
+
+(x)	וַיֹּ֨אמֶר יְהוָ֣ה אֶל־יְהֹושֻׁעַ֮ אַל־תִּירָ֣א מִפְּנֵיהֶם֒ כִּֽי־מָחָ֞ר כָּעֵ֣ת הַזֹּ֗את אָנֹכִ֞י _נֹתֵ֧ן_ אֶת־כֻּלָּ֛ם חֲלָלִ֖ים לִפְנֵ֣י יִשְׂרָאֵ֑ל אֶת־סוּסֵיהֶ֣ם תְּעַקֵּ֔ר וְאֶת־מַרְכְּבֹתֵיהֶ֖ם תִּשְׂרֹ֥ף בָּאֵֽשׁ׃ (Josh. 11:6)
+NIV	The LORD said to Joshua, “Do not be afraid of them, because by this time tomorrow I _will hand_ all of them over to Israel, slain. You are to hamstring their horses and burn their chariots.”
+ESV	And the Lord said to Joshua, “Do not be afraid of them, for tomorrow at this time I _will give over_ all of them, slain, to Israel. You shall hamstring their horses and burn their chariots with fire.”
+
+(x)	וַיֹּ֥אמֶר יְהֹושֻׁ֖עַ אֶל־בְּנֵ֣י יִשְׂרָאֵ֑ל עַד־אָ֨נָה֙ אַתֶּ֣ם _מִתְרַפִּ֔ים_ לָבֹוא֙ לָרֶ֣שֶׁת אֶת־הָאָ֔רֶץ אֲשֶׁר֙ נָתַ֣ן לָכֶ֔ם יְהוָ֖ה אֱלֹהֵ֥י אֲבֹֽותֵיכֶֽם׃ (Josh. 18:3)
+NIV	So Joshua said to the Israelites: “How long will you wait before you begin to take possession of the land that the LORD, the God of your fathers, has given you?
+ESV	So Joshua said to the people of Israel, “How long will you put off going in to take possession of the land, which the Lord, the God of your fathers, has given you?
+
+(x)	וַיֹּ֨אמֶר יְהוָ֜ה אֶל־שְׁמוּאֵ֗ל עַד־מָתַי֙ אַתָּה֙ _מִתְאַבֵּ֣ל_ אֶל־שָׁא֔וּל וַאֲנִ֣י מְאַסְתִּ֔יו מִמְּלֹ֖ךְ עַל־יִשְׂרָאֵ֑ל מַלֵּ֨א קַרְנְךָ֜ שֶׁ֗מֶן וְלֵ֤ךְ אֶֽשְׁלָחֲךָ֙ אֶל־יִשַׁ֣י בֵּֽית־הַלַּחְמִ֔י כִּֽי־רָאִ֧יתִי בְּבָנָ֛יו לִ֖י מֶֽלֶךְ׃ (I Sam. 16:1)
+NIV	The LORD said to Samuel, “How long will you mourn for Saul, since I have rejected him as king over Israel? Fill your horn with oil and be on your way. I am sending you to Jesse of Bethlehem. I have chosen one of his sons to be king.”
+ESV	The Lord said to Samuel, “How long will you grieve over Saul, since I have rejected him from being king over Israel? Fill your horn with oil, and go. I will send you to Jesse the Bethlehemite, for I have provided for myself a king among his sons.”
+
+(x)	וַיִּשְׁלַח֩ שָׁא֨וּל מַלְאָכִ֜ים אֶל־בֵּ֤ית דָּוִד֙ לְשָׁמְרֹ֔ו וְלַהֲמִיתֹ֖ו בַּבֹּ֑קֶר וַתַּגֵּ֣ד לְדָוִ֗ד מִיכַ֤ל אִשְׁתֹּו֙ לֵאמֹ֔ר אִם־אֵ֨ינְךָ֜ מְמַלֵּ֤ט אֶֽת־נַפְשְׁךָ֙ הַלַּ֔יְלָה מָחָ֖ר אַתָּ֥ה _מוּמָֽת_׃ (I Sam. 19:11)
+NIV	Saul sent men to David’s house to watch it and to kill him in the morning. But Michal, David’s wife, warned him, “If you don’t run for your life tonight, tomorrow you’ll _be killed_.”
+ESV	Saul sent messengers to David’s house to watch him, that he might kill him in the morning. But Michal, David’s wife, told him, “If you do not escape with your life tonight, tomorrow you _will be killed_.”
+
+(x)	וַיִּגַּ֨שׁ אֵלִיָּ֜הוּ אֶל־כָּל־הָעָ֗ם וַיֹּ֨אמֶר֙ עַד־מָתַ֞י אַתֶּ֣ם _פֹּסְחִים֮_ עַל־שְׁתֵּ֣י הַסְּעִפִּים֒ אִם־יְהוָ֤ה הָֽאֱלֹהִים֙ לְכ֣וּ אַחֲרָ֔יו וְאִם־הַבַּ֖עַל לְכ֣וּ אַחֲרָ֑יו וְלֹֽא־עָנ֥וּ הָעָ֛ם אֹתֹ֖ו דָּבָֽר׃ (I Kgs. 18:21)
+NIV	Elijah went before the people and said, “How long will you waver between two opinions? If the LORD is God, follow him. but if Baal is God, follow him.” But the people said nothing.
+ESV	And Elijah came near to all the people and said, “How long will you go limping between two different opinions? If the Lord is God, follow him. but if Baal, then follow him.” And the people did not answer him a word.
+
+(x)	וְהִנֵּ֣ה׀ נָבִ֣יא אֶחָ֗ד נִגַּשׁ֮ אֶל־אַחְאָ֣ב מֶֽלֶךְ־יִשְׂרָאֵל֒ וַיֹּ֗אמֶר כֹּ֚ה אָמַ֣ר יְהוָ֔ה הְֽרָאִ֔יתָ אֵ֛ת כָּל־הֶהָמֹ֥ון הַגָּדֹ֖ול הַזֶּ֑ה הִנְנִ֨י _נֹתְנֹ֤ו_ בְיָֽדְךָ֙ הַיֹּ֔ום וְיָדַעְתָּ֖ כִּֽי־אֲנִ֥י יְהוָֽה׃ (I Kgs. 20:13)
+NIV	Meanwhile a prophet came to Ahab king of Israel and announced, “This is what the LORD says: ‘Do you see this vast army? I _will give_ it into your hand today, and then you will know that I am the LORD.’”
+ESV	And behold, a prophet came near to Ahab king of Israel and said, “Thus says the Lord, Have you seen all this great multitude? Behold, I _will give_ it into your hand this day, and you shall know that I am the Lord.”
+
+(x)	וַיִּגַּ֤שׁ הַנָּבִיא֙ אֶל־מֶ֣לֶךְ יִשְׂרָאֵ֔ל וַיֹּ֤אמֶר לֹו֙ לֵ֣ךְ הִתְחַזַּ֔ק וְדַ֥ע וּרְאֵ֖ה אֵ֣ת אֲשֶֽׁר־תַּעֲשֶׂ֑ה כִּ֚י לִתְשׁוּבַ֣ת הַשָּׁנָ֔ה מֶ֥לֶךְ אֲרָ֖ם _עֹלֶ֥ה_ עָלֶֽיךָ׃ ס (I Kgs. 20:22)
+NIV	Afterwards, the prophet came to the king of Israel and said, “Strengthen your position and see what must be done, because next spring the king of Aram _will attack_ you again.”
+ESV	Then the prophet came near to the king of Israel and said to him, “Come, strengthen yourself, and consider well what you have to do, for in the spring the king of Syria _will come up_ against you.”
+
+(x)	וְאַתָּ֗ה אַל־תִּתְפַּלֵּל֙ בְּעַד־הָעָ֣ם הַזֶּ֔ה וְאַל־תִּשָּׂ֥א בַעֲדָ֖ם רִנָּ֣ה וּתְפִלָּ֑ה כִּ֣י אֵינֶ֣נִּי _שֹׁמֵ֗עַ_ בְּעֵ֛ת קָרְאָ֥ם אֵלַ֖י בְּעַ֥ד רָעָתָֽם׃ ס (Jer. 11:14)
+NIV	“Do not pray for this people nor offer any plea or petition for them, because I will not listen when they call to me in the time of their distress.
+ESV	“Therefore do not pray for this people, or lift up a cry or prayer on their behalf, for I will not listen when they call to me in the time of their trouble.
+
+(x)	וְאֶל־הַכֹּהֲנִים֩ וְאֶל־כָּל־הָעָ֨ם הַזֶּ֜ה דִּבַּ֣רְתִּי לֵאמֹ֗ר כֹּה֮ אָמַ֣ר יְהוָה֒ אַֽל־תִּשְׁמְע֞וּ אֶל־דִּבְרֵ֣י נְבִֽיאֵיכֶ֗ם הַֽנִּבְּאִ֤ים לָכֶם֙ לֵאמֹ֔ר הִנֵּ֨ה כְלֵ֧י בֵית־יְהוָ֛ה _מוּשָׁבִ֥ים_ מִבָּבֶ֖לָה עַתָּ֣ה מְהֵרָ֑ה כִּ֣י שֶׁ֔קֶר הֵ֖מָּה נִבְּאִ֥ים לָכֶֽם׃ (Jer. 27:16)
+NIV	Then I said to the priests and all these people, “This is what the LORD says: Do not listen to the prophets who say, ‘Very soon now the articles from the LORD’s house _will be brought back_ from Babylon.’ They are prophesying lies to you.
+ESV	Then I spoke to the priests and to all this people, saying, “Thus says the Lord: Do not listen to the words of your prophets who are prophesying to you, saying, ‘Behold, the vessels of the Lord’s house will now shortly be brought back from Babylon,’ for it is a lie that they are prophesying to you.
+
+(x)	בְּעֹ֣וד׀ שְׁנָתַ֣יִם יָמִ֗ים אֲנִ֤י _מֵשִׁיב֙_ אֶל־הַמָּקֹ֣ום הַזֶּ֔ה אֶֽת־כָּל־כְּלֵ֖י בֵּ֣ית יְהוָ֑ה אֲשֶׁ֨ר לָקַ֜ח נְבוּכַדנֶאצַּ֤ר מֶֽלֶךְ־בָּבֶל֙ מִן־הַמָּקֹ֣ום הַזֶּ֔ה וַיְבִיאֵ֖ם בָּבֶֽל׃ (Jer. 28:3)
+NIV	Within two years I _will bring back_ to this place all the articles of the LORD’s house that Nebuchadnezzar king of Babylon removed from here and took to Babylon.
+ESV	Within two years I _will bring back_ to this place all the vessels of the Lord’s house, which Nebuchadnezzar king of Babylon took away from this place and carried to Babylon.

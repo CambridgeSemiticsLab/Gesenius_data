@@ -1,0 +1,102 @@
+eng_TAMsimp == "PRES PROG" and mother_verbtype == "yqtl"
+25 of 45
+
+(x)	וְאִם֙ לֹ֣א תֵיטִ֔יב לַפֶּ֖תַח חַטָּ֣את _רֹבֵ֑ץ_ (Gen. 4:7)
+NIV	If you do what is right, will you not be accepted? But if you do not do what is right, sin _is crouching_ at your door. it desires to have you, but you must master it.”
+ESV	If you do well, will you not be accepted? And if you do not do well, sin _is crouching_ at the door. Its desire is for you, but you must rule over it.”
+
+(x)	וְאִם־תֵּרָאֶ֨ה עֹ֜וד בַּ֠בֶּגֶד אֹֽו־בַשְּׁתִ֤י אֹֽו־בָעֵ֨רֶב֙ אֹ֣ו בְכָל־כְּלִי־עֹ֔ור _פֹּרַ֖חַת_ הִ֑וא (Lev. 13:57)
+NIV	But if it reappears in the clothing, or in the woven or knitted material, or in the leather article, it _is spreading_, and whatever has the mildew must be burned with fire.
+ESV	Then if it appears again in the garment, in the warp or the woof, or in any article made of skin, it _is spreading_. You shall burn with fire whatever has the disease.
+
+(x)	וְיָתֻ֨רוּ֙ אֶת־אֶ֣רֶץ כְּנַ֔עַן אֲשֶׁר־אֲנִ֥י _נֹתֵ֖ן_ לִבְנֵ֣י יִשְׂרָאֵ֑ל (Num. 13:2)
+NIV	“Send some men to explore the land of Canaan, which I _am giving_ to the Israelites. From each ancestral tribe send one of its leaders.”
+ESV	“Send men to spy out the land of Canaan, which I _am giving_ to the people of Israel. From each tribe of their fathers you shall send a man, every one a chief among them.”
+
+(x)	עַ֤ד אֲשֶֽׁר־אֶֽעֱבֹר֙ אֶת־הַיַּרְדֵּ֔ן אֶל־הָאָ֕רֶץ אֲשֶׁר־יְהוָ֥ה אֱלֹהֵ֖ינוּ _נֹתֵ֥ן_ לָֽנוּ׃ (Deut. 2:29)
+NIV	as the descendants of Esau, who live in Seir, and the Moabites, who live in Ar, did for us — until we cross the Jordan into the land the LORD our God _is giving_ us.”
+ESV	as the sons of Esau who live in Seir and the Moabites who live in Ar did for me, until I go over the Jordan into the land that the Lord our God _is giving_ to us.’
+
+(x)	כִּ֤י יְבִֽיאֲךָ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ אֶל־הָאָ֕רֶץ אֲשֶׁר־אַתָּ֥ה _בָא_־שָׁ֖מָּה (Deut. 7:1)
+NIV	When the LORD your God brings you into the land you _are entering_ to possess and drives out before you many nations — the Hittites, Girgashites, Amorites, Canaanites, Perizzites, Hivites and Jebusites, seven nations larger and stronger than you —
+ESV	“When the Lord your God brings you into the land that you _are entering_ to take possession of it, and clears away many nations before you, the Hittites, the Girgashites, the Amorites, the Canaanites, the Perizzites, the Hivites, and the Jebusites, seven nations more numerous and mightier than yourselves,
+
+(x)	לֹ֣א תִשְׁמַ֗ע אֶל־דִּבְרֵי֙ הַנָּבִ֣יא הַה֔וּא אֹ֛ו אֶל־חֹולֵ֥ם הַחֲלֹ֖ום הַה֑וּא כִּ֣י _מְנַסֶּ֞ה_ יְהוָ֤ה אֱלֹֽהֵיכֶם֙ אֶתְכֶ֔ם (Deut. 13:4)
+NIV	you must not listen to the words of that prophet or dreamer. The LORD your God _is testing_ you to find out whether you love him with all your heart and with all your soul.
+ESV	you shall not listen to the words of that prophet or that dreamer of dreams. For the Lord your God _is testing_ you, to know whether you love the Lord your God with all your heart and with all your soul.
+
+(x)	כִּֽי־תִשְׁמַ֞ע בְּאַחַ֣ת עָרֶ֗יךָ אֲשֶׁר֩ יְהוָ֨ה אֱלֹהֶ֜יךָ _נֹתֵ֥ן_ לְךָ֛ (Deut. 13:13)
+NIV	If you hear it said about one of the towns the LORD your God _is giving_ you to live in
+ESV	“If you hear in one of your cities, which the Lord your God _is giving_ you to dwell there,
+
+(x)	כִּֽי־יִהְיֶה֩ בְךָ֨ אֶבְיֹ֜ון מֵאַחַ֤ד אַחֶ֨יךָ֙ בְּאַחַ֣ד שְׁעָרֶ֔יךָ בְּאַ֨רְצְךָ֔ אֲשֶׁר־יְהוָ֥ה אֱלֹהֶ֖יךָ _נֹתֵ֣ן_ לָ֑ךְ (Deut. 15:7)
+NIV	If there is a poor man among your brothers in any of the towns of the land that the LORD your God _is giving_ you, do not be hard-hearted or tight-fisted towards your poor brother.
+ESV	“If among you, one of your brothers should become poor, in any of your towns within your land that the Lord your God _is giving_ you, you shall not harden your heart or shut your hand against your poor brother,
+
+(x)	כִּֽי־תָבֹ֣א אֶל־הָאָ֗רֶץ אֲשֶׁ֨ר יְהוָ֤ה אֱלֹהֶ֨יךָ֙ _נֹתֵ֣ן_ לָ֔ךְ (Deut. 17:14)
+NIV	When you enter the land the LORD your God _is giving_ you and have taken possession of it and settled in it, and you say, “Let us set a king over us like all the nations around us,”
+ESV	“When you come to the land that the Lord your God _is giving_ you, and you possess it and dwell in it and then say, ‘I will set a king over me, like all the nations that are around me,’
+
+(x)	שָׁלֹ֥ושׁ עָרִ֖ים תַּבְדִּ֣יל לָ֑ךְ בְּתֹ֣וךְ אַרְצְךָ֔ אֲשֶׁר֙ יְהוָ֣ה אֱלֹהֶ֔יךָ _נֹתֵ֥ן_ לְךָ֖ (Deut. 19:2)
+NIV	then set aside for yourselves three cities centrally located in the land the LORD your God _is giving_ you to possess.
+ESV	you shall set apart three cities for yourselves in the land that the Lord your God _is giving_ you to possess.
+
+(x)	אֲשֶׁ֣ר תִּנְחַ֔ל בָּאָ֕רֶץ אֲשֶׁר֙ יְהוָ֣ה אֱלֹהֶ֔יךָ _נֹתֵ֥ן_ לְךָ֖ (Deut. 19:14)
+NIV	Do not move your neighbour’s boundary stone set up by your predecessors in the inheritance you receive in the land the LORD your God _is giving_ you to possess.
+ESV	“You shall not move your neighbor’s landmark, which the men of old have set, in the inheritance that you will hold in the land that the Lord your God _is giving_ you to possess.
+
+(x)	וְלֹ֤א תְטַמֵּא֙ אֶת־אַדְמָ֣תְךָ֔ אֲשֶׁר֙ יְהוָ֣ה אֱלֹהֶ֔יךָ _נֹתֵ֥ן_ לְךָ֖ נַחֲלָֽה׃ ס (Deut. 21:23)
+NIV	you must not leave his body on the tree overnight. Be sure to bury him that same day, because anyone who is hung on a tree is under God’s curse. You must not desecrate the land the LORD your God _is giving_ you as an inheritance.
+ESV	his body shall not remain all night on the tree, but you shall bury him the same day, for a hanged man is cursed by God. You shall not defile your land that the Lord your God _is giving_ you for an inheritance.
+
+(x)	לְמַ֨עַן יְבָרֶכְךָ֜ יְהוָ֣ה אֱלֹהֶ֗יךָ בְּכֹל֙ מִשְׁלַ֣ח יָדֶ֔ךָ עַל־הָאָ֕רֶץ אֲשֶׁר־אַתָּ֥ה _בָא_־שָׁ֖מָּה (Deut. 23:21)
+NIV	You may charge a foreigner interest, but not a brother Israelite, so that the LORD your God may bless you in everything you put your hand to in the land you _are entering_ to possess.
+ESV	You may charge a foreigner interest, but you may not charge your brother interest, that the Lord your God may bless you in all that you undertake in the land that you _are entering_ to take possession of it.
+
+(x)	לְמַ֨עַן֙ יַאֲרִ֣יכוּ יָמֶ֔יךָ עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁר־יְהוָ֥ה אֱלֹהֶ֖יךָ _נֹתֵ֥ן_ לָֽךְ׃ (Deut. 25:15)
+NIV	You must have accurate and honest weights and measures, so that you may live long in the land the LORD your God _is giving_ you.
+ESV	A full and fair weight you shall have, a full and fair measure you shall have, that your days may be long in the land that the Lord your God _is giving_ you.
+
+(x)	אֲשֶׁ֨ר תָּבִ֧יא מֵֽאַרְצְךָ֛ אֲשֶׁ֨ר יְהוָ֧ה אֱלֹהֶ֛יךָ _נֹתֵ֥ן_ לָ֖ךְ (Deut. 26:2)
+NIV	take some of the firstfruits of all that you produce from the soil of the land that the LORD your God _is giving_ you and put them in a basket. Then go to the place that the LORD your God will choose as a dwelling for his Name
+ESV	you shall take some of the first of all the fruit of the ground, which you harvest from your land that the Lord your God _is giving_ you, and you shall put it in a basket, and you shall go to the place that the Lord your God will choose, to make his name to dwell there.
+
+(x)	לְמַ֡עַן אֲשֶׁר֩ תָּבֹ֨א אֶל־הָאָ֜רֶץ אֲֽשֶׁר־יְהוָ֥ה אֱלֹהֶ֣יךָ׀ _נֹתֵ֣ן_ לְךָ֗ (Deut. 27:3)
+NIV	Write on them all the words of this law when you have crossed over to enter the land the LORD your God _is giving_ you, a land flowing with milk and honey, just as the LORD, the God of your fathers, promised you.
+ESV	And you shall write on them all the words of this law, when you cross over to enter the land that the Lord your God _is giving_ you, a land flowing with milk and honey, as the Lord, the God of your fathers, has promised you.
+
+(x)	כִּ֣י יֹֽאמְר֔וּ _נָסִ֣ים_ לְפָנֵ֔ינוּ (Josh. 8:6)
+NIV	They will pursue us until we have lured them away from the city, for they will say, ‘They _are running away_ from us as they did before.’ So when we flee from them,
+ESV	And they will come out after us, until we have drawn them away from the city. For they will say, ‘_They are fleeing_ from us, just as before.’ So we will flee before them.
+
+(x)	כַאֲשֶׁ֨ר יַחֲלֹ֤ם הַצָּמֵא֙ וְהִנֵּ֣ה _שֹׁתֶ֔ה_ (Isa. 29:8)
+NIV	as when a hungry man dreams that he is eating, but he awakens, and his hunger remains. as when a thirsty man dreams that he _is drinking_, but he awakens faint, with his thirst unquenched. So will it be with the hordes of all the nations that fight against Mount Zion.
+ESV	As when a hungry man dreams he is eating and awakes with his hunger not satisfied, or as when a thirsty man dreams he _is drinking_ and awakes faint, with his thirst not quenched, so shall the multitude of all the nations be that fight against Mount Zion.
+
+(x)	אַֽל־תִּזְכְּר֖וּ רִֽאשֹׁנֹ֑ות הִנְנִ֨י _עֹשֶׂ֤ה_ חֲדָשָׁה֙ (Isa. 43:19)
+NIV	See, I _am doing_ a new thing! Now it springs up. do you not perceive it? I am making a way in the desert and streams in the wasteland.
+ESV	Behold, I _am doing_ a new thing. now it springs forth, do you not perceive it? I will make a way in the wilderness and rivers in the desert.
+
+(x)	וְאַֽל־תִּשְׁמְע֞וּ אֶל־דִּבְרֵ֣י הַנְּבִאִ֗ים כִּ֣י שֶׁ֔קֶר הֵ֖ם _נִבְּאִ֥ים_ לָכֶֽם׃ (Jer. 27:14)
+NIV	Do not listen to the words of the prophets who say to you, ‘You will not serve the king of Babylon,’ for they _are prophesying_ lies to you.
+ESV	Do not listen to the words of the prophets who are saying to you, ‘You shall not serve the king of Babylon,’ for it is a lie that they _are prophesying_ to you.
+
+(x)	אַל־יַשִּׁ֧יאוּ לָכֶ֛ם נְבִֽיאֵיכֶ֥ם כִּ֣י בְשֶׁ֔קֶר הֵ֛ם _נִבְּאִ֥ים_ לָכֶ֖ם בִּשְׁמִ֑י (Jer. 29:9)
+NIV	They _are prophesying_ lies to you in my name. I have not sent them,” declares the LORD.
+ESV	for it is a lie that they _are prophesying_ to you in my name. I did not send them, declares the Lord.
+
+(x)	י֣וּמַת נָא֮ אֶת־הָאִ֣ישׁ הַזֶּה֒ כִּֽי־עַל־כֵּ֡ן הֽוּא־_מְרַפֵּ֡א_ אֶת־יְדֵי֩ אַנְשֵׁ֨י הַמִּלְחָמָ֜ה (Jer. 38:4)
+NIV	Then the officials said to the king, “This man should be put to death. He _is discouraging_ the soldiers who are left in this city, as well as all the people, by the things he is saying to them. This man is not seeking the good of these people but their ruin.”
+ESV	Then the officials said to the king, “Let this man be put to death, for he _is weakening_ the hands of the soldiers who are left in this city, and the hands of all the people, by speaking such words to them. For this man is not seeking the welfare of this people, but their harm.”
+
+(x)	אִם־יִהְיֶה֩ עֹ֨וד שְׁמִ֜י הִנְנִ֨י _שֹׁקֵ֧ד_ עֲלֵיהֶ֛ם לְרָעָ֖ה (Jer. 44:27)
+NIV	For I _am watching_ over them for harm, not for good. the Jews in Egypt will perish by sword and famine until they are all destroyed.
+ESV	Behold, I _am watching_ over them for disaster and not for good. All the men of Judah who are in the land of Egypt shall be consumed by the sword and by famine, until there is an end of them.
+
+(x)	יִתֵּן֩ יְהוָ֨ה אֶֽת־הָאִשָּׁ֜ה הַ_בָּאָ֣ה_ אֶל־בֵּיתֶ֗ךָ (Ruth 4:11)
+NIV	Then the elders and all those at the gate said, “We are witnesses. May the LORD make the woman _who is coming_ into your home like Rachel and Leah, who together built up the house of Israel. May you have standing in Ephrathah and be famous in Bethlehem.
+ESV	Then all the people who were at the gate and the elders said, “We are witnesses. May the Lord make the woman, _who is coming_ into your house, like Rachel and Leah, who together built up the house of Israel. May you act worthily in Ephrathah and be renowned in Bethlehem,
+
+(x)	נִוָּעֵד֩ אֶל־בֵּ֨ית הָאֱלֹהִ֜ים אֶל־תֹּ֣וךְ הַֽהֵיכָ֗ל כִּ֚י _בָּאִ֣ים_ (Neh. 6:10)
+NIV	One day I went to the house of Shemaiah son of Delaiah, the son of Mehetabel, who was shut in at his home. He said, “Let us meet in the house of God, inside the temple, and let us close the temple doors, because men _are coming_ to kill you — by night they _are coming_ to kill you.”
+ESV	Now when I went into the house of Shemaiah the son of Delaiah, son of Mehetabel, who was confined to his home, he said, “Let us meet together in the house of God, within the temple. Let us close the doors of the temple, for they _are coming_ to kill you. They _are coming_ to kill you by night.”

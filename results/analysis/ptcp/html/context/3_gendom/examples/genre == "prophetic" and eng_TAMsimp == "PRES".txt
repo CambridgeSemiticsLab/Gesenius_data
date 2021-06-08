@@ -1,0 +1,62 @@
+genre == "prophetic" and eng_TAMsimp == "PRES"
+15 of 483
+
+(x)	שָׂרַ֣יִךְ סֹורְרִ֗ים וְחַבְרֵי֙ גַּנָּבִ֔ים כֻּלֹּו֙ _אֹהֵ֣ב_ שֹׁ֔חַד וְרֹדֵ֖ף שַׁלְמֹנִ֑ים יָתֹום֙ לֹ֣א יִשְׁפֹּ֔טוּ וְרִ֥יב אַלְמָנָ֖ה לֹֽא־יָבֹ֥וא אֲלֵיהֶֽם׃ פ (Isa. 1:23)
+NIV	Your rulers are rebels, companions of thieves. they all _love_ bribes and chase after gifts. They do not defend the cause of the fatherless. the widow’s case does not come before them.
+ESV	Your princes are rebels and companions of thieves. Everyone _loves_ a bribe and runs after gifts. They do not bring justice to the fatherless, and the widow’s cause does not come to them.
+
+(x)	וְאָנוּ֙ הַדַּיָּגִ֔ים וְאָ֣בְל֔וּ כָּל־מַשְׁלִיכֵ֥י בַיְאֹ֖ור חַכָּ֑ה וּ_פֹרְשֵׂ֥י_ מִכְמֹ֛רֶת עַל־פְּנֵי־מַ֖יִם אֻמְלָֽלוּ׃ (Isa. 19:8)
+NIV	The fishermen will groan and lament, all who cast hooks into the Nile. _those who throw_ nets on the water will pine away.
+ESV	The fishermen will mourn and lament, all who cast a hook in the Nile. and they will languish _who spread_ nets on the water.
+
+(x)	וּבַל־יֹאמַ֥ר שָׁכֵ֖ן חָלִ֑יתִי הָעָ֛ם הַ_יֹּשֵׁ֥ב_ בָּ֖הּ נְשֻׂ֥א עָוֹֽן׃ (Isa. 33:24)
+NIV	No-one living in Zion will say, “I am ill”. and the sins of those _who dwell_ there will be forgiven.
+ESV	And no inhabitant will say, “I am sick”. the people _who dwell_ there will be forgiven their iniquity.
+
+(x)	כָּרַ֥ע בֵּל֙ _קֹרֵ֣ס_ נְבֹ֔ו הָיוּ֙ עֲצַבֵּיהֶ֔ם לַחַיָּ֖ה וְלַבְּהֵמָ֑ה נְשֻׂאֹתֵיכֶ֣ם עֲמוּסֹ֔ות מַשָּׂ֖א לַעֲיֵפָֽה׃ (Isa. 46:1)
+NIV	Bel bows down, Nebo _stoops low_. their idols are borne by beasts of burden. The images that are carried about are burdensome, a burden for the weary.
+ESV	Bel bows down. Nebo _stoops_. their idols are on beasts and livestock. these things you carry are borne as burdens on weary beasts.
+
+(x)	יָבֹ֣וא שָׁלֹ֔ום יָנ֖וּחוּ עַל־מִשְׁכְּבֹותָ֑ם _הֹלֵ֖ךְ_ נְכֹחֹֽו׃ (Isa. 57:2)
+NIV	_Those who walk_ uprightly enter into peace. they find rest as they lie in death.
+ESV	he enters into peace. they rest in their beds _who walk_ in their uprightness.
+
+(x)	שִׁמְעוּ֙ דְּבַר־יְהוָ֔ה הַחֲרֵדִ֖ים אֶל־דְּבָרֹ֑ו אָמְרוּ֩ אֲחֵיכֶ֨ם _שֹׂנְאֵיכֶ֜ם_ מְנַדֵּיכֶ֗ם לְמַ֤עַן שְׁמִי֙ יִכְבַּ֣ד יְהוָ֔ה וְנִרְאֶ֥ה בְשִׂמְחַתְכֶ֖ם וְהֵ֥ם יֵבֹֽשׁוּ׃ (Isa. 66:5)
+NIV	Hear the word of the LORD, you who tremble at his word. “Your brothers _who hate_ you, and exclude you because of my name, have said, ‘Let the LORD be glorified, that we may see your joy!’ Yet they will be put to shame.
+ESV	Hear the word of the Lord, you who tremble at his word: “Your brothers _who hate_ you and cast you out for my name’s sake have said, ‘Let the Lord be glorified, that we may see your joy’. but it is they who shall be put to shame.
+
+(x)	וְהָֽלְכ֞וּ עָרֵ֣י יְהוּדָ֗ה וְיֹשְׁבֵי֙ יְר֣וּשָׁלִַ֔ם וְזָֽעֲקוּ֙ אֶל־הָ֣אֱלֹהִ֔ים אֲשֶׁ֛ר הֵ֥ם _מְקַטְּרִ֖ים_ לָהֶ֑ם וְהֹושֵׁ֛עַ לֹֽא־יֹושִׁ֥יעוּ לָהֶ֖ם בְּעֵ֥ת רָעָתָֽם׃ (Jer. 11:12)
+NIV	The towns of Judah and the people of Jerusalem will go and cry out to the gods to whom they _burn incense_, but they will not help them at all when disaster strikes.
+ESV	Then the cities of Judah and the inhabitants of Jerusalem will go and cry to the gods to whom they _make offerings_, but they cannot save them in the time of their trouble.
+
+(x)	הִנְנִ֥י עַל־הַנְּבִיאִ֖ם נְאֻם־יְהוָ֑ה הַ_לֹּקְחִ֣ים_ לְשֹׁונָ֔ם וַֽיִּנְאֲמ֖וּ נְאֻֽם׃ (Jer. 23:31)
+NIV	Yes,” declares the LORD, “I am against the prophets _who wag_ their own tongues and yet declare, ‘The LORD declares.’
+ESV	Behold, I am against the prophets, declares the Lord, _who use_ their tongues and declare, ‘declares the Lord.’
+
+(x)	וַיֹּאמְר֨וּ הַשָּׂרִ֜ים אֶל־הַמֶּ֗לֶךְ י֣וּמַת נָא֮ אֶת־הָאִ֣ישׁ הַזֶּה֒ כִּֽי־עַל־כֵּ֡ן הֽוּא־מְרַפֵּ֡א אֶת־יְדֵי֩ אַנְשֵׁ֨י הַמִּלְחָמָ֜ה הַֽ_נִּשְׁאָרִ֣ים_׀ בָּעִ֣יר הַזֹּ֗את וְאֵת֙ יְדֵ֣י כָל־הָעָ֔ם לְדַבֵּ֣ר אֲלֵיהֶ֔ם כַּדְּבָרִ֖ים הָאֵ֑לֶּה כִּ֣י׀ הָאִ֣ישׁ הַזֶּ֗ה אֵינֶ֨נּוּ דֹרֵ֧שׁ לְשָׁלֹ֛ום לָעָ֥ם הַזֶּ֖ה כִּ֥י אִם־לְרָעָֽה׃ (Jer. 38:4)
+NIV	Then the officials said to the king, “This man should be put to death. He is discouraging the soldiers _who are left_ in this city, as well as all the people, by the things he is saying to them. This man is not seeking the good of these people but their ruin.”
+ESV	Then the officials said to the king, “Let this man be put to death, for he is weakening the hands of the soldiers _who are left_ in this city, and the hands of all the people, by speaking such words to them. For this man is not seeking the welfare of this people, but their harm.”
+
+(x)	וַיֹּ֣אמֶר אֵלַ֗י עֲוֹ֨ן בֵּֽית־יִשְׂרָאֵ֤ל וִֽיהוּדָה֙ גָּדֹול֙ בִּמְאֹ֣ד מְאֹ֔ד וַתִּמָּלֵ֤א הָאָ֨רֶץ֙ דָּמִ֔ים וְהָעִ֖יר מָלְאָ֣ה מֻטֶּ֑ה כִּ֣י אָמְר֗וּ עָזַ֤ב יְהוָה֙ אֶת־הָאָ֔רֶץ וְאֵ֥ין יְהוָ֖ה _רֹאֶֽה_׃ (Ezek. 9:9)
+NIV	He answered me, “The sin of the house of Israel and Judah is exceedingly great. the land is full of bloodshed and the city is full of injustice. They say, ‘The LORD has forsaken the land. the LORD does not see.’
+ESV	Then he said to me, “The guilt of the house of Israel and Judah is exceedingly great. The land is full of blood, and the city full of injustice. For they say, ‘The Lord has forsaken the land, and the Lord does not see.’
+
+(x)	בְּתֹ֣וךְ חֲ֠לָלִים נָתְנ֨וּ מִשְׁכָּ֥ב לָהּ֙ בְּכָל־הֲמֹונָ֔הּ סְבִֽיבֹותָ֖יו קִבְרֹתֶ֑הָ כֻּלָּ֣ם עֲרֵלִ֣ים חַלְלֵי־חֶ֡רֶב כִּֽי־נִתַּ֨ן חִתִּיתָ֜ם בְּאֶ֣רֶץ חַיִּ֗ים וַיִּשְׂא֤וּ כְלִמָּתָם֙ אֶת־יֹ֣ורְדֵי בֹ֔ור בְּתֹ֥וךְ חֲלָלִ֖ים _נִתָּֽן_׃ (Ezek. 32:25)
+NIV	A bed is made for her among the slain, with all her hordes around her grave. All of them are uncircumcised, killed by the sword. Because their terror had spread in the land of the living, they bear their shame with those who go down to the pit. _they are laid_ among the slain.
+ESV	They have made her a bed among the slain with all her multitude, her graves all around it, all of them uncircumcised, slain by the sword. for terror of them was spread in the land of the living, and they bear their shame with those who go down to the pit. _they are placed_ among the slain.
+
+(x)	שִׁמְע֞וּ הַדָּבָ֣ר הַזֶּ֗ה פָּרֹ֤ות הַבָּשָׁן֙ אֲשֶׁר֙ בְּהַ֣ר שֹֽׁמְרֹ֔ון הָעֹשְׁקֹ֣ות דַּלִּ֔ים הָ_רֹצְצֹ֖ות_ אֶבְיֹונִ֑ים הָאֹמְרֹ֥ת לַאֲדֹֽנֵיהֶ֖ם הָבִ֥יאָה וְנִשְׁתֶּֽה׃ (Amos 4:1)
+NIV	Hear this word, you cows of Bashan on Mount Samaria, you women who oppress the poor and _crush_ the needy and say to your husbands, “Bring us some drinks!”
+ESV	“Hear this word, you cows of Bashan, who are on the mountain of Samaria, who oppress the poor, _who crush_ the needy, who say to your husbands, ‘Bring, that we may drink!’
+
+(x)	אִם־תַּגְבִּ֣יהַּ כַּנֶּ֔שֶׁר וְאִם־בֵּ֥ין כֹּֽוכָבִ֖ים _שִׂ֣ים_ קִנֶּ֑ךָ מִשָּׁ֥ם אֹורִֽידְךָ֖ נְאֻם־יְהוָֽה׃ (Obad. 1:4)
+NIV	Though you soar like the eagle and _make_ your nest among the stars, from there I will bring you down,” declares the LORD.
+ESV	Though you soar aloft like the eagle, though your nest _is set_ among the stars, from there I will bring you down, declares the Lord.
+
+(x)	וְאֶת־הַמִּשְׁתַּחֲוִ֥ים עַל־הַגַּגֹּ֖ות לִצְבָ֣א הַשָּׁמָ֑יִם וְאֶת־הַ_מִּֽשְׁתַּחֲוִים֙_ הַנִּשְׁבָּעִ֣ים לַֽיהוָ֔ה וְהַנִּשְׁבָּעִ֖ים בְּמַלְכָּֽם׃ (Zeph. 1:5)
+NIV	those _who bow down_ on the roofs to worship the starry host, those _who bow down_ and swear by the LORD and who also swear by Molech,
+ESV	those _who bow down_ on the roofs to the host of the heavens, those _who bow down_ and swear to the Lord and yet swear by Milcom,
+
+(x)	וְעַסֹּותֶ֣ם רְשָׁעִ֔ים כִּֽי־יִהְי֣וּ אֵ֔פֶר תַּ֖חַת כַּפֹּ֣ות רַגְלֵיכֶ֑ם בַּיֹּום֙ אֲשֶׁ֣ר אֲנִ֣י _עֹשֶׂ֔ה_ אָמַ֖ר יְהוָ֥ה צְבָאֹֽות׃ פ (Mal. 3:21)
+NIV	Then you will trample _do_wn the wicked. they will be ashes under the soles of your feet on the day when I _do_ these things,” says the LORD Almighty.
+ESV	And you shall tread down the wicked, for they will be ashes under the soles of your feet, on the day when I _act_, says the Lord of hosts.

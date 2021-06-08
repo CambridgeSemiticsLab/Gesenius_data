@@ -1,0 +1,102 @@
+eng_TAMsimp == "PRES PERF"
+25 of 43
+
+(x)	וַיַּגֵּ֣ד לְיַעֲקֹ֔ב וַיֹּ֕אמֶר הִנֵּ֛ה בִּנְךָ֥ יֹוסֵ֖ף _בָּ֣א_ אֵלֶ֑יךָ וַיִּתְחַזֵּק֙ יִשְׂרָאֵ֔ל וַיֵּ֖שֶׁב עַל־הַמִּטָּֽה׃ (Gen. 48:2)
+NIV	When Jacob was told, “Your son Joseph _has come_ to you,” Israel rallied his strength and sat up on the bed.
+ESV	And it was told to Jacob, “Your son Joseph _has come_ to you.” Then Israel summoned his strength and sat up in bed.
+
+(x)	הַמַּלְאָךְ֩ הַ_גֹּאֵ֨ל_ אֹתִ֜י מִכָּל־רָ֗ע יְבָרֵךְ֮ אֶת־הַנְּעָרִים֒ וְיִקָּרֵ֤א בָהֶם֙ שְׁמִ֔י וְשֵׁ֥ם אֲבֹתַ֖י אַבְרָהָ֣ם וְיִצְחָ֑ק וְיִדְגּ֥וּ לָרֹ֖ב בְּקֶ֥רֶב הָאָֽרֶץ׃ (Gen. 48:16)
+NIV	the Angel _who has delivered_ me from all harm — may he bless these boys. May they be called by my name and the names of my fathers Abraham and Isaac, and may they increase greatly upon the earth.”
+ESV	the angel _who has redeemed_ me from all evil, bless the boys. and in them let my name be carried on, and the name of my fathers Abraham and Isaac. and let them grow into a multitude in the midst of the earth.”
+
+(x)	לָכֵ֗ן אַתָּה֙ וְכָל־עֲדָ֣תְךָ֔ הַ_נֹּעָדִ֖ים_ עַל־יְהוָ֑ה וְאַהֲרֹ֣ן מַה־ה֔וּא כִּ֥י תַלִּ֖ינוּ עָלָֽיו׃ (Num. 16:11)
+NIV	It is against the LORD that you and all your followers _have banded together_. Who is Aaron that you should grumble against him?”
+ESV	Therefore it is against the Lord that you and all your company _have gathered together_. What is Aaron that you grumble against him?”
+
+(x)	וַיֹּ֣אמֶר מֹשֶׁ֔ה אֶל־שֹׁפְטֵ֖י יִשְׂרָאֵ֑ל הִרְגוּ֙ אִ֣ישׁ אֲנָשָׁ֔יו הַ_נִּצְמָדִ֖ים_ לְבַ֥עַל פְּעֹֽור׃ (Num. 25:5)
+NIV	So Moses said to Israel’s judges, “Each of you must put to death those of your men _who have joined_ in worshiping the Baal of Peor.”
+ESV	And Moses said to the judges of Israel, “Each of you kill those of his men _who have yoked_ themselves to Baal of Peor.”
+
+(x)	וְעַתָּ֕ה הִרְג֥וּ כָל־זָכָ֖ר בַּטָּ֑ף וְכָל־אִשָּׁ֗ה _יֹדַ֥עַת_ אִ֛ישׁ לְמִשְׁכַּ֥ב זָכָ֖ר הֲרֹֽגוּ׃ (Num. 31:17)
+NIV	Now kill all the boys. And kill every woman _who has slept with_ a man,
+ESV	Now therefore, kill every male among the little ones, and kill every woman _who has known_ man by lying with him.
+
+(x)	בְּנֽוּ־לָכֶ֤ם עָרִים֙ לְטַפְּכֶ֔ם וּגְדֵרֹ֖ת לְצֹנַאֲכֶ֑ם וְהַ_יֹּצֵ֥א_ מִפִּיכֶ֖ם תַּעֲשֽׂוּ׃ (Num. 32:24)
+NIV	Build cities for your women and children, and pens for your flocks, but do what you have promised.”
+ESV	Build cities for your little ones and folds for your sheep, and do what you have promised.”
+
+(x)	וַיִּשְׁלַ֧ח מַלְאָכִ֛ים אֶל־אֲבִימֶ֖לֶךְ בְּתָרְמָ֣ה לֵאמֹ֑ר הִנֵּה֩ גַ֨עַל בֶּן־עֶ֤בֶד וְאֶחָיו֙ _בָּאִ֣ים_ שְׁכֶ֔מָה וְהִנָּ֛ם צָרִ֥ים אֶת־הָעִ֖יר עָלֶֽיךָ׃ (Judg. 9:31)
+NIV	Under cover he sent messengers to Abimelech, saying, “Gaal son of Ebed and his brothers _have come_ to Shechem and are stirring up the city against you.
+ESV	And he sent messengers to Abimelech secretly, saying, “Behold, Gaal the son of Ebed and his relatives _have come_ to Shechem, and they are stirring up the city against you.
+
+(x)	וַיֹּ֨אמֶר הָאִ֜ישׁ אֶל־עֵלִ֗י אָֽנֹכִי֙ הַ_בָּ֣א_ מִן־הַמַּעֲרָכָ֔ה וַאֲנִ֕י מִן־הַמַּעֲרָכָ֖ה נַ֣סְתִּי הַיֹּ֑ום וַיֹּ֛אמֶר מֶֽה־הָיָ֥ה הַדָּבָ֖ר בְּנִֽי׃ (I Sam. 4:16)
+NIV	He told Eli, “I have just come from the battle line. I fled from it this very day.” Eli asked, “What happened, my son?”
+ESV	And the man said to Eli, “I am he _who has come_ from the battle. I fled from the battle today.” And he said, “How did it go, my son?”
+
+(x)	וַיִּשְׁאֲלוּ־עֹוד֙ בַּֽיהוָ֔ה הֲבָ֥א עֹ֖וד הֲלֹ֣ם אִ֑ישׁ ס וַיֹּ֣אמֶר יְהוָ֔ה הִנֵּה־ה֥וּא _נֶחְבָּ֖א_ אֶל־הַכֵּלִֽים׃ (I Sam. 10:22)
+NIV	So they enquired further of the LORD, “Has the man come here yet?” And the LORD said, “Yes, he _has hidden himself_ among the baggage.”
+ESV	So they inquired again of the Lord, “Is there a man still to come?” and the Lord said, “Behold, he _has hidden himself_ among the baggage.”
+
+(x)	וַיַּעַן֩ דָּוִ֨ד אֶת־הַכֹּהֵ֜ן וַיֹּ֣אמֶר לֹ֗ו כִּ֣י אִם־אִשָּׁ֤ה _עֲצֻֽרָה_־לָ֨נוּ֙ כִּתְמֹ֣ול שִׁלְשֹׁ֔ם בְּצֵאתִ֕י וַיִּהְי֥וּ כְלֵֽי־הַנְּעָרִ֖ים קֹ֑דֶשׁ וְהוּא֙ דֶּ֣רֶךְ חֹ֔ל וְאַ֕ף כִּ֥י הַיֹּ֖ום יִקְדַּ֥שׁ בַּכֶּֽלִי׃ (I Sam. 21:6)
+NIV	David replied, “Indeed women _have been kept_ from us, as usual whenever I set out. The men’s things are holy even on missions that are not holy. How much more so today!”
+ESV	And David answered the priest, “Truly women _have been kept_ from us as always when I go on an expedition. The vessels of the young men are holy even when it is an ordinary journey. How much more today will their vessels be holy?”
+
+(x)	יַ֗עַן אֲשֶׁ֨ר עָשׂ֤וּ אֶת־הָרַע֙ בְּעֵינַ֔י וַיִּהְי֥וּ _מַכְעִסִ֖ים_ אֹתִ֑י מִן־הַיֹּ֗ום אֲשֶׁ֨ר יָצְא֤וּ אֲבֹותָם֙ מִמִּצְרַ֔יִם וְעַ֖ד הַיֹּ֥ום הַזֶּֽה׃ (II Kgs. 21:15)
+NIV	because they have done evil in my eyes and have provoked me to anger from the day their forefathers came out of Egypt until this day.”
+ESV	because they have done what is evil in my sight and have provoked me to anger, since the day their fathers came out of Egypt, even to this day.”
+
+(x)	כִּֽי־_עָר֤וּךְ_ מֵֽאֶתְמוּל֙ תָּפְתֶּ֔ה גַּם־הִ֛יא לַמֶּ֥לֶךְ הוּכָ֖ן הֶעְמִ֣יק הִרְחִ֑ב מְדֻרָתָ֗הּ אֵ֤שׁ וְעֵצִים֙ הַרְבֵּ֔ה נִשְׁמַ֤ת יְהוָה֙ כְּנַ֣חַל גָּפְרִ֔ית בֹּעֲרָ֖ה בָּֽהּ׃ ס (Isa. 30:33)
+NIV	Topheth has long been prepared. it has been made ready for the king. Its fire pit has been made deep and wide, with an abundance of fire and wood. the breath of the LORD, like a stream of burning sulphur, sets it ablaze.
+ESV	For a burning place has long been prepared. indeed, for the king it is made ready, its pyre made deep and wide, with fire and wood in abundance. the breath of the Lord, like a stream of sulfur, kindles it.
+
+(x)	הֹ֣וי שֹׁודֵ֗ד וְאַתָּה֙ לֹ֣א _שָׁד֔וּד_ וּבֹוגֵ֖ד וְלֹא־בָ֣גְדוּ בֹ֑ו כַּהֲתִֽמְךָ֤ שֹׁודֵד֙ תּוּשַּׁ֔ד כַּנְּלֹתְךָ֥ לִבְגֹּ֖ד יִבְגְּדוּ־בָֽךְ׃ ס (Isa. 33:1)
+NIV	Woe to you, O destroyer, you who have not been destroyed! Woe to you, O traitor, you who have not been betrayed! When you stop destroying, you will be destroyed. when you stop betraying, you will be betrayed.
+ESV	Ah, you destroyer, who yourself have not been destroyed, you traitor, whom none has betrayed! When you have ceased to destroy, you will be destroyed. and when you have finished betraying, they will betray you.
+
+(x)	שְׁתַּ֤יִם הֵ֨נָּה֙ _קֹֽרְאֹתַ֔יִךְ_ מִ֖י יָנ֣וּד לָ֑ךְ הַשֹּׁ֧ד וְהַשֶּׁ֛בֶר וְהָרָעָ֥ב וְהַחֶ֖רֶב מִ֥י אֲנַחֲמֵֽךְ׃ (Isa. 51:19)
+NIV	These double calamities _have come upon_ you — who can comfort you? — ruin and destruction, famine and sword — who can console you?
+ESV	These two things _have happened_ to you — who will console you? — devastation and destruction, famine and sword. who will comfort you?
+
+(x)	וְשִׁלַּחְתָּם֩ אֶל־מֶ֨לֶךְ אֱדֹ֜ום וְאֶל־מֶ֣לֶךְ מֹואָ֗ב וְאֶל־מֶ֨לֶךְ֙ בְּנֵ֣י עַמֹּ֔ון וְאֶל־מֶ֥לֶךְ צֹ֖ר וְאֶל־מֶ֣לֶךְ צִידֹ֑ון בְּיַ֤ד מַלְאָכִים֙ הַ_בָּאִ֣ים_ יְרוּשָׁלִַ֔ם אֶל־צִדְקִיָּ֖הוּ מֶ֥לֶךְ יְהוּדָֽה׃ (Jer. 27:3)
+NIV	Then send word to the kings of Edom, Moab, Ammon, Tyre and Sidon through the envoys _who have come_ to Jerusalem to Zedekiah king of Judah.
+ESV	Send word to the king of Edom, the king of Moab, the king of the sons of Ammon, the king of Tyre, and the king of Sidon by the hand of the envoys _who have come_ to Jerusalem to Zedekiah king of Judah.
+
+(x)	כִּֽי־הָי֨וּ בְנֵֽי־יִשְׂרָאֵ֜ל וּבְנֵ֣י יְהוּדָ֗ה אַ֣ךְ עֹשִׂ֥ים הָרַ֛ע בְּעֵינַ֖י מִנְּעֻרֹֽתֵיהֶ֑ם כִּ֣י בְנֵֽי־יִשְׂרָאֵ֗ל אַ֣ךְ _מַכְעִסִ֥ים_ אֹתִ֛י בְּמַעֲשֵׂ֥ה יְדֵיהֶ֖ם נְאֻם־יְהוָֽה׃ (Jer. 32:30)
+NIV	“The people of Israel and Judah have done nothing but evil in my sight from their youth. indeed, the people of Israel have done nothing but _provoke_ me with what their hands have made, declares the LORD.
+ESV	For the children of Israel and the children of Judah have done nothing but evil in my sight from their youth. The children of Israel have done nothing but provoke me to anger by the work of their hands, declares the Lord.
+
+(x)	וְאֶת־צִדְקִיָּ֨הוּ מֶֽלֶךְ־יְהוּדָ֜ה וְאֶת־שָׂרָ֗יו אֶתֵּן֙ בְּיַ֣ד אֹֽיְבֵיהֶ֔ם וּבְיַ֖ד מְבַקְשֵׁ֣י נַפְשָׁ֑ם וּבְיַד חֵ֚יל מֶ֣לֶךְ בָּבֶ֔ל הָ_עֹלִ֖ים_ מֵעֲלֵיכֶֽם׃ (Jer. 34:21)
+NIV	“I will hand Zedekiah king of Judah and his officials over to their enemies who seek their lives, to the army of the king of Babylon, _which has withdrawn_ from you.
+ESV	And Zedekiah king of Judah and his officials I will give into the hand of their enemies and into the hand of those who seek their lives, into the hand of the army of the king of Babylon _which has withdrawn_ from you.
+
+(x)	וְלֹ֨א יִהְיֶ֜ה פָּלִ֤יט וְשָׂרִיד֙ לִשְׁאֵרִ֣ית יְהוּדָ֔ה הַ_בָּאִ֥ים_ לָגֽוּר־שָׁ֖ם בְּאֶ֣רֶץ מִצְרָ֑יִם וְלָשׁ֣וּב׀ אֶ֣רֶץ יְהוּדָ֗ה אֲשֶׁר־הֵ֜מָּה מְנַשְּׂאִ֤ים אֶת־נַפְשָׁם֙ לָשׁוּב֙ לָשֶׁ֣בֶת שָׁ֔ם כִּ֥י לֹֽא־יָשׁ֖וּבוּ כִּ֥י אִם־פְּלֵטִֽים׃ ס (Jer. 44:14)
+NIV	None of the remnant of Judah _who have gone_ to live in Egypt will escape or survive to return to the land of Judah, to which they long to return and live. none will return except a few fugitives.”
+ESV	so that none of the remnant of Judah _who have come_ to live in the land of Egypt shall escape or survive or return to the land of Judah, to which they desire to return to dwell there. For they shall not return, except some fugitives.”
+
+(x)	וְקִדַּשְׁתִּ֞י אֶת־שְׁמִ֣י הַגָּדֹ֗ול הַֽ_מְחֻלָּל֙_ בַּגֹּויִ֔ם אֲשֶׁ֥ר חִלַּלְתֶּ֖ם בְּתֹוכָ֑ם וְיָדְע֨וּ הַגֹּויִ֜ם כִּי־אֲנִ֣י יְהוָ֗ה נְאֻם֙ אֲדֹנָ֣י יְהוִ֔ה בְּהִקָּדְשִׁ֥י בָכֶ֖ם לְעֵינֵיהֶֽם׃ (Ezek. 36:23)
+NIV	I will show the holiness of my great name, _which has been profaned_ among the nations, the name you have profaned among them. Then the nations will know that I am the LORD, declares the Sovereign LORD, when I show myself holy through you before their eyes.
+ESV	And I will vindicate the holiness of my great name, _which has been profaned_ among the nations, and which you have profaned among them. And the nations will know that I am the Lord, declares the Lord God, when through you I vindicate my holiness before their eyes.
+
+(x)	וַיֹּ֨אמֶר יְהוָ֜ה אֶל־הַשָּׂטָ֗ן יִגְעַ֨ר יְהוָ֤ה בְּךָ֙ הַשָּׂטָ֔ן וְיִגְעַ֤ר יְהוָה֙ בְּךָ֔ הַ_בֹּחֵ֖ר_ בִּירֽוּשָׁלִָ֑ם הֲלֹ֧וא זֶ֦ה א֖וּד מֻצָּ֥ל מֵאֵֽשׁ׃ (Zech. 3:2)
+NIV	The LORD said to Satan, “The LORD rebuke you, Satan! The LORD, _who has chosen_ Jerusalem, rebuke you! Is not this man a burning stick snatched from the fire?”
+ESV	And the Lord said to Satan, “The Lord rebuke you, O Satan! The Lord _who has chosen_ Jerusalem rebuke you! Is not this a brand plucked from the fire?”
+
+(x)	וְהָיָ֗ה כָּל־הַנֹּותָר֙ מִכָּל־הַגֹּויִ֔ם הַ_בָּאִ֖ים_ עַל־יְרֽוּשָׁלִָ֑ם וְעָל֞וּ מִדֵּ֧י שָׁנָ֣ה בְשָׁנָ֗ה לְהִֽשְׁתַּחֲוֹת֙ לְמֶ֨לֶךְ֙ יְהוָ֣ה צְבָאֹ֔ות וְלָחֹ֖ג אֶת־חַ֥ג הַסֻּכֹּֽות׃ (Zech. 14:16)
+NIV	Then the survivors from all the nations _that have attacked_ Jerusalem will go up year after year to worship the King, the LORD Almighty, and to celebrate the Feast of Tabernacles.
+ESV	Then everyone who survives of all the nations _that have come_ against Jerusalem shall go up year after year to worship the King, the Lord of hosts, and to keep the Feast of Booths.
+
+(x)	מַה־שֶּֽׁהָיָ֗ה כְּבָר֙ _נִקְרָ֣א_ שְׁמֹ֔ו וְנֹודָ֖ע אֲשֶׁר־ה֣וּא אָדָ֑ם וְלֹא־יוּכַ֣ל לָדִ֔ין עִ֥ם שֶׁתַּקִּ֖יף מִמֶּֽנּוּ׃ (Eccl. 6:10)
+NIV	Whatever exists has already been named, and what man is has been known. no man can contend with one who is stronger than he.
+ESV	Whatever has come to be has already been named, and it is known what man is, and that he is not able to dispute with one stronger than he.
+
+(x)	וְאַֽחֲרֵי֙ כָּל־הַ_בָּ֣א_ עָלֵ֔ינוּ בְּמַעֲשֵׂ֨ינוּ֙ הָרָעִ֔ים וּבְאַשְׁמָתֵ֖נוּ הַגְּדֹלָ֑ה כִּ֣י׀ אַתָּ֣ה אֱלֹהֵ֗ינוּ חָשַׂ֤כְתָּֽ לְמַ֨טָּה֙ מֵֽעֲוֹנֵ֔נוּ וְנָתַ֥תָּה לָּ֛נוּ פְּלֵיטָ֖ה כָּזֹֽאת׃ (Ezra 9:13)
+NIV	“_What has happened_ to us is a result of our evil deeds and our great guilt, and yet, our God, you have punished us less than our sins have deserved and have given us a remnant like this.
+ESV	And after all _that has come_ upon us for our evil deeds and for our great guilt, seeing that you, our God, have punished us less than our iniquities deserved and have given us such a remnant as this,
+
+(x)	וְאַתָּ֣ה צַדִּ֔יק עַ֖ל כָּל־הַ_בָּ֣א_ עָלֵ֑ינוּ כִּֽי־אֱמֶ֥ת עָשִׂ֖יתָ וַאֲנַ֥חְנוּ הִרְשָֽׁעְנוּ׃ (Neh. 9:33)
+NIV	In all _that has happened_ to us, you have been just. you have acted faithfully, while we did wrong.
+ESV	Yet you have been righteous in all _that has come_ upon us, for you have dealt faithfully and we have acted wickedly.
+
+(x)	וְאֶת־בַּת־פַּרְעֹ֗ה הֶעֱלָ֤ה שְׁלֹמֹה֙ מֵעִ֣יר דָּוִ֔יד לַבַּ֖יִת אֲשֶׁ֣ר בָּֽנָה־לָ֑הּ כִּ֣י אָמַ֗ר לֹא־תֵשֵׁ֨ב אִשָּׁ֥ה לִי֙ בְּבֵית֙ דָּוִ֣יד מֶֽלֶךְ־יִשְׂרָאֵ֔ל כִּי־קֹ֣דֶשׁ הֵ֔מָּה אֲשֶׁר־_בָּֽאָ֥ה_ אֲלֵיהֶ֖ם אֲרֹ֥ון יְהוָֽה׃ פ (II Chr. 8:11)
+NIV	Solomon brought Pharaoh’s daughter up from the City of David to the palace he had built for her, for he said, “My wife must not live in the palace of David king of Israel, because the places the ark of the LORD _has entered_ are holy.”
+ESV	Solomon brought Pharaoh’s daughter up from the city of David to the house that he had built for her, for he said, “My wife shall not live in the house of David king of Israel, for the places to which the ark of the Lord _has come_ are holy.”

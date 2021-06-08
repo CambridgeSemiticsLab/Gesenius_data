@@ -1,0 +1,102 @@
+eng_TAMsimp == "PRES PROG" and cl_args == "RSV"
+25 of 69
+
+(x)	וַיֹּ֖אמֶר אַל־תִּקְרַ֣ב הֲלֹ֑ם שַׁל־נְעָלֶ֨יךָ֙ מֵעַ֣ל רַגְלֶ֔יךָ כִּ֣י הַמָּקֹ֗ום אֲשֶׁ֤ר אַתָּה֙ _עֹומֵ֣ד_ עָלָ֔יו אַדְמַת־קֹ֖דֶשׁ הֽוּא׃ (Exod. 3:5)
+NIV	“Do not come any closer,” God said. “Take off your sandals, for the place where you _are standing_ is holy ground.”
+ESV	Then he said, “Do not come near. take your sandals off your feet, for the place on which you _are standing_ is holy ground.”
+
+(x)	כַּבֵּ֥ד אֶת־אָבִ֖יךָ וְאֶת־אִמֶּ֑ךָ לְמַ֨עַן֙ יַאֲרִכ֣וּן יָמֶ֔יךָ עַ֚ל הָאֲדָמָ֔ה אֲשֶׁר־יְהוָ֥ה אֱלֹהֶ֖יךָ _נֹתֵ֥ן_ לָֽךְ׃ ס (Exod. 20:12)
+NIV	“Honor your father and your mother, so that you may live long in the land the LORD your God _is giving_ you.
+ESV	“Honor your father and your mother, that your days may be long in the land that the Lord your God _is giving_ you.
+
+(x)	שְׁלַח־לְךָ֣ אֲנָשִׁ֗ים וְיָתֻ֨רוּ֙ אֶת־אֶ֣רֶץ כְּנַ֔עַן אֲשֶׁר־אֲנִ֥י _נֹתֵ֖ן_ לִבְנֵ֣י יִשְׂרָאֵ֑ל אִ֣ישׁ אֶחָד֩ אִ֨ישׁ אֶחָ֜ד לְמַטֵּ֤ה אֲבֹתָיו֙ תִּשְׁלָ֔חוּ כֹּ֖ל נָשִׂ֥יא בָהֶֽם׃ (Num. 13:2)
+NIV	“Send some men to explore the land of Canaan, which I _am giving_ to the Israelites. From each ancestral tribe send one of its leaders.”
+ESV	“Send men to spy out the land of Canaan, which I _am giving_ to the people of Israel. From each tribe of their fathers you shall send a man, every one a chief among them.”
+
+(x)	וַיִּקְח֤וּ בְיָדָם֙ מִפְּרִ֣י הָאָ֔רֶץ וַיֹּורִ֖דוּ אֵלֵ֑ינוּ וַיָּשִׁ֨בוּ אֹתָ֤נוּ דָבָר֙ וַיֹּ֣אמְר֔וּ טֹובָ֣ה הָאָ֔רֶץ אֲשֶׁר־יְהוָ֥ה אֱלֹהֵ֖ינוּ _נֹתֵ֥ן_ לָֽנוּ׃ (Deut. 1:25)
+NIV	Taking with them some of the fruit of the land, they brought it down to us and reported, “It is a good land that the LORD our God _is giving_ us.”
+ESV	And they took in their hands some of the fruit of the land and brought it down to us, and brought us word again and said, ‘It is a good land that the Lord our God _is giving_ us.’
+
+(x)	רְאֵ֣ה׀ לִמַּ֣דְתִּי אֶתְכֶ֗ם חֻקִּים֙ וּמִשְׁפָּטִ֔ים כַּאֲשֶׁ֥ר צִוַּ֖נִי יְהוָ֣ה אֱלֹהָ֑י לַעֲשֹׂ֣ות כֵּ֔ן בְּקֶ֣רֶב הָאָ֔רֶץ אֲשֶׁ֥ר אַתֶּ֛ם _בָּאִ֥ים_ שָׁ֖מָּה לְרִשְׁתָּֽהּ׃ (Deut. 4:5)
+NIV	See, I have taught you decrees and laws as the LORD my God commanded me, so that you may follow them in the land you _are entering_ to take possession of it.
+ESV	See, I have taught you statutes and rules, as the Lord my God commanded me, that you should do them in the land that you _are entering_ to take possession of it.
+
+(x)	וְאַתָּ֗ה פֹּה֮ עֲמֹ֣ד עִמָּדִי֒ וַאֲדַבְּרָ֣ה אֵלֶ֗יךָ אֵ֧ת כָּל־הַמִּצְוָ֛ה וְהַחֻקִּ֥ים וְהַמִּשְׁפָּטִ֖ים אֲשֶׁ֣ר תְּלַמְּדֵ֑ם וְעָשׂ֣וּ בָאָ֔רֶץ אֲשֶׁ֧ר אָנֹכִ֛י _נֹתֵ֥ן_ לָהֶ֖ם לְרִשְׁתָּֽהּ׃ (Deut. 5:31)
+NIV	But you stay here with me so that I may give you all the commands, decrees and laws that you are to teach them to follow in the land I _am giving_ them to possess.”
+ESV	But you, stand here by me, and I will tell you the whole commandment and the statutes and the rules that you shall teach them, that they may do them in the land that I _am giving_ them to possess.’
+
+(x)	לִשְׁמֹ֞ר אֶת־מִצְוֹ֤ת יְהוָה֙ וְאֶת־חֻקֹּתָ֔יו אֲשֶׁ֛ר אָנֹכִ֥י _מְצַוְּךָ֖_ הַיֹּ֑ום לְטֹ֖וב לָֽךְ׃ (Deut. 10:13)
+NIV	and to observe the LORD’s commands and decrees that I _am giving_ you today for your own good?
+ESV	and to keep the commandments and statutes of the Lord, which I _am commanding_ you today for your good?
+
+(x)	וְהָיָ֗ה כִּ֤י יְבִֽיאֲךָ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ אֶל־הָאָ֕רֶץ אֲשֶׁר־אַתָּ֥ה _בָא_־שָׁ֖מָּה לְרִשְׁתָּ֑הּ וְנָתַתָּ֤ה אֶת־הַבְּרָכָה֙ עַל־הַ֣ר גְּרִזִ֔ים וְאֶת־הַקְּלָלָ֖ה עַל־הַ֥ר עֵיבָֽל׃ (Deut. 11:29)
+NIV	When the LORD your God has brought you into the land you _are entering_ to possess, you are to proclaim on Mount Gerizim the blessings, and on Mount Ebal the curses.
+ESV	And when the Lord your God brings you into the land that you _are entering_ to take possession of it, you shall set the blessing on Mount Gerizim and the curse on Mount Ebal.
+
+(x)	כִּ֥י לֹא־בָּאתֶ֖ם עַד־עָ֑תָּה אֶל־הַמְּנוּחָה֙ וְאֶל־הַֽנַּחֲלָ֔ה אֲשֶׁר־יְהוָ֥ה אֱלֹהֶ֖יךָ _נֹתֵ֥ן_ לָֽךְ׃ (Deut. 12:9)
+NIV	since you have not yet reached the resting place and the inheritance the LORD your God _is giving_ you.
+ESV	for you have not as yet come to the rest and to the inheritance that the Lord your God _is giving_ you.
+
+(x)	כִּ֣י תִשְׁמַ֗ע בְּקֹול֙ יְהוָ֣ה אֱלֹהֶ֔יךָ לִשְׁמֹר֙ אֶת־כָּל־מִצְוֹתָ֔יו אֲשֶׁ֛ר אָנֹכִ֥י _מְצַוְּךָ֖_ הַיֹּ֑ום לַעֲשֹׂות֙ הַיָּשָׁ֔ר בְּעֵינֵ֖י יְהוָ֥ה אֱלֹהֶֽיךָ׃ ס (Deut. 13:19)
+NIV	because you obey the LORD your God, keeping all his commands that I _am giving_ you today and doing what is right in his eyes.
+ESV	if you obey the voice of the Lord your God, keeping all his commandments that I _am commanding_ you today, and doing what is right in the sight of the Lord your God.
+
+(x)	שֹׁפְטִ֣ים וְשֹֽׁטְרִ֗ים תִּֽתֶּן־לְךָ֙ בְּכָל־שְׁעָרֶ֔יךָ אֲשֶׁ֨ר יְהוָ֧ה אֱלֹהֶ֛יךָ _נֹתֵ֥ן_ לְךָ֖ לִשְׁבָטֶ֑יךָ וְשָׁפְט֥וּ אֶת־הָעָ֖ם מִשְׁפַּט־צֶֽדֶק׃ (Deut. 16:18)
+NIV	Appoint judges and officials for each of your tribes in every town the LORD your God _is giving_ you, and they shall judge the people fairly.
+ESV	“You shall appoint judges and officers in all your towns that the Lord your God _is giving_ you, according to your tribes, and they shall judge the people with righteous judgment.
+
+(x)	כִּ֤י אַתָּה֙ בָּ֣א אֶל־הָאָ֔רֶץ אֲשֶׁר־יְהוָ֥ה אֱלֹהֶ֖יךָ _נֹתֵ֣ן_ לָ֑ךְ לֹֽא־תִלְמַ֣ד לַעֲשֹׂ֔ות כְּתֹועֲבֹ֖ת הַגֹּויִ֥ם הָהֵֽם׃ (Deut. 18:9)
+NIV	When you enter the land the LORD your God _is giving_ you, do not learn to imitate the detestable ways of the nations there.
+ESV	“When you come into the land that the Lord your God _is giving_ you, you shall not learn to follow the abominable practices of those nations.
+
+(x)	שָׁלֹ֥ושׁ עָרִ֖ים תַּבְדִּ֣יל לָ֑ךְ בְּתֹ֣וךְ אַרְצְךָ֔ אֲשֶׁר֙ יְהוָ֣ה אֱלֹהֶ֔יךָ _נֹתֵ֥ן_ לְךָ֖ לְרִשְׁתָּֽהּ׃ (Deut. 19:2)
+NIV	then set aside for yourselves three cities centrally located in the land the LORD your God _is giving_ you to possess.
+ESV	you shall set apart three cities for yourselves in the land that the Lord your God _is giving_ you to possess.
+
+(x)	רַ֗ק מֵעָרֵ֤י הָֽעַמִּים֙ הָאֵ֔לֶּה אֲשֶׁר֙ יְהוָ֣ה אֱלֹהֶ֔יךָ _נֹתֵ֥ן_ לְךָ֖ נַחֲלָ֑ה לֹ֥א תְחַיֶּ֖ה כָּל־נְשָׁמָֽה׃ (Deut. 20:16)
+NIV	However, in the cities of the nations the LORD your God _is giving_ you as an inheritance, do not leave alive anything that breathes.
+ESV	But in the cities of these peoples that the Lord your God _is giving_ you for an inheritance, you shall save alive nothing that breathes,
+
+(x)	לַנָּכְרִ֣י תַשִּׁ֔יךְ וּלְאָחִ֖יךָ לֹ֣א תַשִּׁ֑יךְ לְמַ֨עַן יְבָרֶכְךָ֜ יְהוָ֣ה אֱלֹהֶ֗יךָ בְּכֹל֙ מִשְׁלַ֣ח יָדֶ֔ךָ עַל־הָאָ֕רֶץ אֲשֶׁר־אַתָּ֥ה _בָא_־שָׁ֖מָּה לְרִשְׁתָּֽהּ׃ ס (Deut. 23:21)
+NIV	You may charge a foreigner interest, but not a brother Israelite, so that the LORD your God may bless you in everything you put your hand to in the land you _are entering_ to possess.
+ESV	You may charge a foreigner interest, but you may not charge your brother interest, that the Lord your God may bless you in all that you undertake in the land that you _are entering_ to take possession of it.
+
+(x)	וְהָיָ֡ה בְּהָנִ֣יחַ יְהוָ֣ה אֱלֹהֶ֣יךָ׀ לְ֠ךָ מִכָּל־אֹ֨יְבֶ֜יךָ מִסָּבִ֗יב בָּאָ֨רֶץ֙ אֲשֶׁ֣ר יְהוָֽה־אֱ֠לֹהֶיךָ _נֹתֵ֨ן_ לְךָ֤ נַחֲלָה֙ לְרִשְׁתָּ֔הּ תִּמְחֶה֙ אֶת־זֵ֣כֶר עֲמָלֵ֔ק מִתַּ֖חַת הַשָּׁמָ֑יִם לֹ֖א תִּשְׁכָּֽח׃ פ (Deut. 25:19)
+NIV	When the LORD your God gives you rest from all the enemies around you in the land he _is giving_ you to possess as an inheritance, you shall blot out the memory of Amalek from under heaven. Do not forget!
+ESV	Therefore when the Lord your God has given you rest from all your enemies around you, in the land that the Lord your God _is giving_ you for an inheritance to possess, you shall blot out the memory of Amalek from under heaven. you shall not forget.
+
+(x)	וְהָיָ֗ה בַּיֹּום֮ אֲשֶׁ֣ר תַּעַבְר֣וּ אֶת־הַיַּרְדֵּן֒ אֶל־הָאָ֕רֶץ אֲשֶׁר־יְהוָ֥ה אֱלֹהֶ֖יךָ _נֹתֵ֣ן_ לָ֑ךְ וַהֲקֵמֹתָ֤ לְךָ֙ אֲבָנִ֣ים גְּדֹלֹ֔ות וְשַׂדְתָּ֥ אֹתָ֖ם בַּשִּֽׂיד׃ (Deut. 27:2)
+NIV	When you have crossed the Jordan into the land the LORD your God _is giving_ you, set up some large stones and coat them with plaster.
+ESV	And on the day you cross over the Jordan to the land that the Lord your God _is giving_ you, you shall set up large stones and plaster them with plaster.
+
+(x)	יַדְבֵּ֧ק יְהוָ֛ה בְּךָ֖ אֶת־הַדָּ֑בֶר עַ֚ד כַּלֹּתֹ֣ו אֹֽתְךָ֔ מֵעַל֙ הָֽאֲדָמָ֔ה אֲשֶׁר־אַתָּ֥ה _בָא_־שָׁ֖מָּה לְרִשְׁתָּֽהּ׃ (Deut. 28:21)
+NIV	The LORD will plague you with diseases until he has destroyed you from the land you _are entering_ to possess.
+ESV	The Lord will make the pestilence stick to you until he has consumed you off the land that you _are entering_ to take possession of it.
+
+(x)	לְעָבְרְךָ֗ בִּבְרִ֛ית יְהוָ֥ה אֱלֹהֶ֖יךָ וּבְאָלָתֹ֑ו אֲשֶׁר֙ יְהוָ֣ה אֱלֹהֶ֔יךָ _כֹּרֵ֥ת_ עִמְּךָ֖ הַיֹּֽום׃ (Deut. 29:11)
+NIV	You are standing here in order to enter into a covenant with the LORD your God, a covenant the LORD _is making_ with you this day and sealing with an oath,
+ESV	so that you may enter into the sworn covenant of the Lord your God, which the Lord your God _is making_ with you today,
+
+(x)	עֲלֵ֡ה אֶל־הַר֩ הָעֲבָרִ֨ים הַזֶּ֜ה הַר־נְבֹ֗ו אֲשֶׁר֙ בְּאֶ֣רֶץ מֹואָ֔ב אֲשֶׁ֖ר עַל־פְּנֵ֣י יְרֵחֹ֑ו וּרְאֵה֙ אֶת־אֶ֣רֶץ כְּנַ֔עַן אֲשֶׁ֨ר אֲנִ֥י _נֹתֵ֛ן_ לִבְנֵ֥י יִשְׂרָאֵ֖ל לַאֲחֻזָּֽה׃ (Deut. 32:49)
+NIV	“Go up into the Abarim Range to Mount Nebo in Moab, across from Jericho, and view Canaan, the land I _am giving_ the Israelites as their own possession.
+ESV	“Go up this mountain of the Abarim, Mount Nebo, which is in the land of Moab, opposite Jericho, and view the land of Canaan, which I _am giving_ to the people of Israel for a possession.
+
+(x)	עַ֠ד אֲשֶׁר־יָנִ֨יחַ יְהוָ֥ה׀ לַֽאֲחֵיכֶם֮ כָּכֶם֒ וְיָרְשׁ֣וּ גַם־הֵ֔מָּה אֶת־הָאָ֕רֶץ אֲשֶׁר־יְהוָ֥ה אֱלֹֽהֵיכֶ֖ם _נֹתֵ֣ן_ לָהֶ֑ם וְשַׁבְתֶּ֞ם לְאֶ֤רֶץ יְרֻשַּׁתְכֶם֙ וִֽירִשְׁתֶּ֣ם אֹותָ֔הּ אֲשֶׁ֣ר׀ נָתַ֣ן לָכֶ֗ם מֹשֶׁה֙ עֶ֣בֶד יְהוָ֔ה בְּעֵ֥בֶר הַיַּרְדֵּ֖ן מִזְרַ֥ח הַשָּֽׁמֶשׁ׃ (Josh. 1:15)
+NIV	until the LORD gives them rest, as he has done for you, and until they too have taken possession of the land that the LORD your God _is giving_ them. After that, you may go back and occupy your own land, which Moses the servant of the LORD gave you east of the Jordan towards the sunrise.”
+ESV	until the Lord gives rest to your brothers as he has to you, and they also take possession of the land that the Lord your God _is giving_ them. Then you shall return to the land of your possession and shall possess it, the land that Moses the servant of the Lord gave you beyond the Jordan toward the sunrise.”
+
+(x)	אִם־טֹ֣וב וְאִם־רָ֔ע בְּקֹ֣ול׀ יְהוָ֣ה אֱלֹהֵ֗ינוּ אֲשֶׁ֨ר אֲנַ֜חְנוּ _שֹׁלְחִ֥ים_ אֹתְךָ֛ אֵלָ֖יו נִשְׁמָ֑ע לְמַ֨עַן֙ אֲשֶׁ֣ר יִֽיטַב־לָ֔נוּ כִּ֣י נִשְׁמַ֔ע בְּקֹ֖ול יְהוָ֥ה אֱלֹהֵֽינוּ׃ ס (Jer. 42:6)
+NIV	Whether it is favourable or unfavourable, we will obey the LORD our God, to whom we _are sending_ you, so that it will go well with us, for we will obey the LORD our God.”
+ESV	Whether it is good or bad, we will obey the voice of the Lord our God to whom we _are sending_ you, that it may be well with us when we obey the voice of the Lord our God.”
+
+(x)	וַיֹּ֣אמֶר אֵלַי֮ הֲרָאִ֣יתָ בֶן־אָדָם֒ אֲשֶׁ֨ר זִקְנֵ֤י בֵֽית־יִשְׂרָאֵל֙ _עֹשִׂ֣ים_ בַּחֹ֔שֶׁךְ אִ֖ישׁ בְּחַדְרֵ֣י מַשְׂכִּיתֹ֑ו כִּ֣י אֹמְרִ֗ים אֵ֤ין יְהוָה֙ רֹאֶ֣ה אֹתָ֔נוּ עָזַ֥ב יְהוָ֖ה אֶת־הָאָֽרֶץ׃ (Ezek. 8:12)
+NIV	He said to me, “Son of man, have you seen what the elders of the house of Israel _are doing_ in the darkness, each at the shrine of his own idol? They say, ‘The LORD does not see us. the LORD has forsaken the land.’”
+ESV	Then he said to me, “Son of man, have you seen what the elders of the house of Israel _are doing_ in the dark, each in his room of pictures? For they say, ‘The Lord does not see us, the Lord has forsaken the land.’”
+
+(x)	וַיִּשְׁמַע֩ סַנְבַלַּ֨ט הַחֹרֹנִ֜י וְטֹבִיָּ֣ה׀ הָעֶ֣בֶד הָֽעַמֹּונִ֗י וְגֶ֨שֶׁם֙ הָֽעַרְבִ֔י וַיַּלְעִ֣גוּ לָ֔נוּ וַיִּבְז֖וּ עָלֵ֑ינוּ וַיֹּאמְר֗וּ מָֽה־הַדָּבָ֤ר הַזֶּה֙ אֲשֶׁ֣ר אַתֶּ֣ם _עֹשִׂ֔ים_ הַעַ֥ל הַמֶּ֖לֶךְ אַתֶּ֥ם מֹרְדִֽים׃ (Neh. 2:19)
+NIV	But when Sanballat the Horonite, Tobiah the Ammonite official and Geshem the Arab heard about it, they mocked and ridiculed us. “What is this you _are doing_?” they asked. “Are you rebelling against the king?”
+ESV	But when Sanballat the Horonite and Tobiah the Ammonite servant and Geshem the Arab heard of it, they jeered at us and despised us and said, “What is this thing that you _are doing_? Are you rebelling against the king?”
+
+(x)	וָאָרִ֕יבָה אֵ֖ת חֹרֵ֣י יְהוּדָ֑ה וָאֹמְרָ֣ה לָהֶ֗ם מָֽה־הַדָּבָ֨ר הָרָ֤ע הַזֶּה֙ אֲשֶׁ֣ר אַתֶּ֣ם _עֹשִׂ֔ים_ וּֽמְחַלְּלִ֖ים אֶת־יֹ֥ום הַשַּׁבָּֽת׃ (Neh. 13:17)
+NIV	I rebuked the nobles of Judah and said to them, “What is this wicked thing you _are doing_ — desecrating the Sabbath day?
+ESV	Then I confronted the nobles of Judah and said to them, “What is this evil thing that you _are doing_, profaning the Sabbath day?

@@ -1,0 +1,62 @@
+genre == "prose" and domain2 == "Q" and eng_TAMsimp == "PRES PART"
+15 of 49
+
+(x)	וַיֹּ֣אמֶר אֱלֹהִ֗ים תַּֽדְשֵׁ֤א הָאָ֨רֶץ֙ דֶּ֔שֶׁא עֵ֚שֶׂב _מַזְרִ֣יעַ_ זֶ֔רַע עֵ֣ץ פְּרִ֞י עֹ֤שֶׂה פְּרִי֙ לְמִינֹ֔ו אֲשֶׁ֥ר זַרְעֹו־בֹ֖ו עַל־הָאָ֑רֶץ וַֽיְהִי־כֵֽן׃ (Gen. 1:11)
+NIV	Then God said, “Let the land produce vegetation: _seed-bearing_ plants and trees on the land that bear fruit with seed in it, according to their various kinds.” And it was so.
+ESV	And God said, “Let the earth sprout vegetation, plants _yielding_ seed, and fruit trees bearing fruit in which is their seed, each according to its kind, on the earth.” And it was so.
+
+(x)	_נֹצֵ֥ר_ חֶ֨סֶד֙ לָאֲלָפִ֔ים נֹשֵׂ֥א עָוֹ֛ן וָפֶ֖שַׁע וְחַטָּאָ֑ה וְנַקֵּה֙ לֹ֣א יְנַקֶּ֔ה פֹּקֵ֣ד׀ עֲוֹ֣ן אָבֹ֗ות עַל־בָּנִים֙ וְעַל־בְּנֵ֣י בָנִ֔ים עַל־שִׁלֵּשִׁ֖ים וְעַל־רִבֵּעִֽים׃ (Exod. 34:7)
+NIV	_maintaining_ love to thousands, and forgiving wickedness, rebellion and sin. Yet he does not leave the guilty unpunished. he punishes the children and their children for the sin of the fathers to the third and fourth generation.”
+ESV	_keeping_ steadfast love for thousands, forgiving iniquity and transgression and sin, but who will by no means clear the guilty, visiting the iniquity of the fathers on the children and the children’s children, to the third and the fourth generation.”
+
+(x)	וְעַתָּ֕ה הִנְנִ֥י _הֹולֵ֖ךְ_ לְעַמִּ֑י לְכָה֙ אִיעָ֣צְךָ֔ אֲשֶׁ֨ר יַעֲשֶׂ֜ה הָעָ֥ם הַזֶּ֛ה לְעַמְּךָ֖ בְּאַחֲרִ֥ית הַיָּמִֽים׃ (Num. 24:14)
+NIV	Now I _am going back_ to my people, but come, let me warn you of what this people will do to your people in days to come.”
+ESV	And now, behold, I _am going_ to my people. Come, I will let you know what this people will do to your people in the latter days.”
+
+(x)	לֹ֣א בְצִדְקָתְךָ֗ וּבְיֹ֨שֶׁר֙ לְבָ֣בְךָ֔ אַתָּ֥ה _בָ֖א_ לָרֶ֣שֶׁת אֶת־אַרְצָ֑ם כִּ֞י בְּרִשְׁעַ֣ת׀ הַגֹּויִ֣ם הָאֵ֗לֶּה יְהוָ֤ה אֱלֹהֶ֨יךָ֙ מֹורִישָׁ֣ם מִפָּנֶ֔יךָ וּלְמַ֜עַן הָקִ֣ים אֶת־הַדָּבָ֗ר אֲשֶׁ֨ר נִשְׁבַּ֤ע יְהוָה֙ לַאֲבֹתֶ֔יךָ לְאַבְרָהָ֥ם לְיִצְחָ֖ק וּֽלְיַעֲקֹֽב׃ (Deut. 9:5)
+NIV	It is not because of your righteousness or your integrity that you _are going in_ to take possession of their land. but on account of the wickedness of these nations, the LORD your God will drive them out before you, to accomplish what he swore to your fathers, to Abraham, Isaac and Jacob.
+ESV	Not because of your righteousness or the uprightness of your heart are you going in to possess their land, but because of the wickedness of these nations the Lord your God is driving them out from before you, and that he may confirm the word that the Lord swore to your fathers, to Abraham, to Isaac, and to Jacob.
+
+(x)	הֵ֚מָּה עִם־בֵּ֣ית מִיכָ֔ה וְהֵ֣מָּה הִכִּ֔ירוּ אֶת־קֹ֥ול הַנַּ֖עַר הַלֵּוִ֑י וַיָּס֣וּרוּ שָׁ֗ם וַיֹּ֤אמְרוּ לֹו֙ מִֽי־הֱבִיאֲךָ֣ הֲלֹ֔ם וּמָֽה־אַתָּ֥ה _עֹשֶׂ֛ה_ בָּזֶ֖ה וּמַה־לְּךָ֥ פֹֽה׃ (Judg. 18:3)
+NIV	When they were near Micah’s house, they recognised the voice of the young Levite. so they turned in there and asked him, “Who brought you here? What are you doing in this place? Why are you here?”
+ESV	When they were by the house of Micah, they recognized the voice of the young Levite. And they turned aside and said to him, “Who brought you here? What are you doing in this place? What is your business here?”
+
+(x)	וְחָלַפְתָּ֨ מִשָּׁ֜ם וָהָ֗לְאָה וּבָ֨אתָ֙ עַד־אֵלֹ֣ון תָּבֹ֔ור וּמְצָא֤וּךָ שָּׁם֙ שְׁלֹשָׁ֣ה אֲנָשִׁ֔ים _עֹלִ֥ים_ אֶל־הָאֱלֹהִ֖ים בֵּֽית־אֵ֑ל אֶחָ֞ד נֹשֵׂ֣א׀ שְׁלֹשָׁ֣ה גְדָיִ֗ים וְאֶחָד֙ נֹשֵׂ֗א שְׁלֹ֨שֶׁת֙ כִּכְּרֹ֣ות לֶ֔חֶם וְאֶחָ֥ד נֹשֵׂ֖א נֵֽבֶל־יָֽיִן׃ (I Sam. 10:3)
+NIV	“Then you will go on from there until you reach the great tree of Tabor. Three men _going up_ to God at Bethel will meet you there. One will be carrying three young goats, another three loaves of bread, and another a skin of wine.
+ESV	Then you shall go on from there farther and come to the oak of Tabor. Three men _going up_ to God at Bethel will meet you there, one carrying three young goats, another carrying three loaves of bread, and another carrying a skin of wine.
+
+(x)	וַיָּבֹ֤אוּ הַזִּפִים֙ אֶל־שָׁא֔וּל הַגִּבְעָ֖תָה לֵאמֹ֑ר הֲלֹ֨וא דָוִ֤ד _מִסְתַּתֵּר֙_ בְּגִבְעַ֣ת הַחֲכִילָ֔ה עַ֖ל פְּנֵ֥י הַיְשִׁימֹֽן׃ (I Sam. 26:1)
+NIV	The Ziphites went to Saul at Gibeah and said, “Is not David hiding on the hill of Hakilah, which faces Jeshimon?”
+ESV	Then the Ziphites came to Saul at Gibeah, saying, “Is not David hiding himself on the hill of Hachilah, which is on the east of Jeshimon?”
+
+(x)	וַיַּ֣רְא הַצֹּפֶה֮ אִישׁ־אַחֵ֣ר רָץ֒ וַיִּקְרָ֤א הַצֹּפֶה֙ אֶל־הַשֹּׁעֵ֔ר וַיֹּ֕אמֶר הִנֵּה־אִ֖ישׁ _רָ֣ץ_ לְבַדֹּ֑ו וַיֹּ֥אמֶר הַמֶּ֖לֶךְ גַּם־זֶ֥ה מְבַשֵּֽׂר׃ (II Sam. 18:26)
+NIV	Then the watchman saw another man _running_, and he called down to the gatekeeper, “Look, another man _running_ alone!” The king said, “He must be bringing good news, too.”
+ESV	The watchman saw another man _running_. And the watchman called to the gate and said, “See, another man _running_ alone!” The king said, “He also brings news.”
+
+(x)	וַיֹּאמְרוּ֩ אִ֨ישׁ אֶל־רֵעֵ֜הוּ לֹֽא־כֵ֣ן׀ אֲנַ֣חְנוּ _עֹשִׂ֗ים_ הַיֹּ֤ום הַזֶּה֙ יֹום־בְּשֹׂרָ֣ה ה֔וּא וַאֲנַ֣חְנוּ מַחְשִׁ֗ים וְחִכִּ֛ינוּ עַד־אֹ֥ור הַבֹּ֖קֶר וּמְצָאָ֣נוּ עָוֹ֑ון וְעַתָּה֙ לְכ֣וּ וְנָבֹ֔אָה וְנַגִּ֖ידָה בֵּ֥ית הַמֶּֽלֶךְ׃ (II Kgs. 7:9)
+NIV	Then they said to each other, “We’re not _doing_ right. This is a day of good news and we are keeping it to ourselves. If we wait until daylight, punishment will overtake us. Let’s go at once and report this to the royal palace.”
+ESV	Then they said to one another, “We are not _doing_ right. This day is a day of good news. If we are silent and wait until the morning light, punishment will overtake us. Now therefore come. let us go and tell the king’s household.”
+
+(x)	וַיֹּ֣אמֶר רַב־שָׁקֵ֗ה הַאֶ֨ל אֲדֹנֶ֤יךָ וְאֵלֶ֨יךָ֙ שְׁלָחַ֣נִי אֲדֹנִ֔י לְדַבֵּ֖ר אֶת־הַדְּבָרִ֣ים הָאֵ֑לֶּה הֲלֹ֣א עַל־הָאֲנָשִׁ֗ים הַ_יֹּֽשְׁבִים֙_ עַל־הַ֣חֹומָ֔ה לֶאֱכֹ֣ל אֶת־צֹואָתָ֗ם וְלִשְׁתֹּ֛ות אֶת־מֵימֵ֥י רַגְלֵיהֶ֖ם עִמָּכֶֽם׃ (Isa. 36:12)
+NIV	But the commander replied, “Was it only to your master and you that my master sent me to say these things, and not to the men _sitting_ on the wall — who, like you, will have to eat their own filth and drink their own urine?”
+ESV	But the Rabshakeh said, “Has my master sent me to speak these words to your master and to you, and not to the men _sitting_ on the wall, who are doomed with you to eat their own dung and drink their own urine?”
+
+(x)	וַאֲנִ֣י׀ הָיִ֣יתִי מֵבִ֗ין וְהִנֵּ֤ה צְפִיר־הָֽעִזִּים֙ בָּ֤א מִן־הַֽמַּעֲרָב֙ עַל־פְּנֵ֣י כָל־הָאָ֔רֶץ וְאֵ֥ין _נֹוגֵ֖עַ_ בָּאָ֑רֶץ וְהַ֨צָּפִ֔יר קֶ֥רֶן חָז֖וּת בֵּ֥ין עֵינָֽיו׃ (Dan. 8:5)
+NIV	As I was thinking about this, suddenly a goat with a prominent horn between his eyes came from the west, crossing the whole earth without _touching_ the ground.
+ESV	As I was considering, behold, a male goat came from the west across the face of the whole earth, without _touching_ the ground. And the goat had a conspicuous horn between his eyes.
+
+(x)	וְעֹ֨וד אֲנִ֤י מְדַבֵּר֙ וּמִתְפַּלֵּ֔ל וּ_מִתְוַדֶּה֙_ חַטָּאתִ֔י וְחַטַּ֖את עַמִּ֣י יִשְׂרָאֵ֑ל וּמַפִּ֣יל תְּחִנָּתִ֗י לִפְנֵי֙ יְהוָ֣ה אֱלֹהַ֔י עַ֖ל הַר־קֹ֥דֶשׁ אֱלֹהָֽי׃ (Dan. 9:20)
+NIV	While I was speaking and praying, _confessing_ my sin and the sin of my people Israel and making my request to the LORD my God for his holy hill —
+ESV	While I was speaking and praying, _confessing_ my sin and the sin of my people Israel, and presenting my plea before the Lord my God for the holy hill of my God,
+
+(x)	בַּיָּמִ֣ים הָהֵ֡מָּה רָאִ֣יתִי בִֽיהוּדָ֣ה׀ דֹּֽרְכִֽים־גִּתֹּ֣ות׀ בַּשַּׁבָּ֡ת וּ_מְבִיאִ֣ים_ הָעֲרֵמֹ֣ות וְֽעֹמְסִ֪ים עַל־הַחֲמֹרִ֟ים וְאַף־יַ֜יִן עֲנָבִ֤ים וּתְאֵנִים֙ וְכָל־מַשָּׂ֔א וּמְבִיאִ֥ים יְרוּשָׁלִַ֖ם בְּיֹ֣ום הַשַּׁבָּ֑ת וָאָעִ֕יד בְּיֹ֖ום מִכְרָ֥ם צָֽיִד׃ (Neh. 13:15)
+NIV	In those days I saw men in Judah treading winepresses on the Sabbath and _bringing in_ grain and loading it on donkeys, together with wine, grapes, figs and all other kinds of loads. And they were bringing all this into Jerusalem on the Sabbath. Therefore I warned them against selling food on that day.
+ESV	In those days I saw in Judah people treading winepresses on the Sabbath, and _bringing in_ heaps of grain and loading them on donkeys, and also wine, grapes, figs, and all kinds of loads, which they brought into Jerusalem on the Sabbath day. And I warned them on the day when they sold food.
+
+(x)	אִם־שָׁלֹ֨ושׁ שָׁנִ֜ים רָעָ֗ב וְאִם־שְׁלֹשָׁ֨ה חֳדָשִׁ֜ים נִסְפֶּ֥ה מִפְּנֵי־צָרֶיךָ֮ וְחֶ֣רֶב אֹויְבֶ֣ךָ׀ לְמַשֶּׂגֶת֒ וְאִם־שְׁלֹ֣שֶׁת יָ֠מִים חֶ֣רֶב יְהוָ֤ה וְדֶ֨בֶר֙ בָּאָ֔רֶץ וּמַלְאַ֣ךְ יְהוָ֔ה _מַשְׁחִ֖ית_ בְּכָל־גְּב֣וּל יִשְׂרָאֵ֑ל וְעַתָּ֣ה רְאֵ֔ה מָֽה־אָשִׁ֥יב אֶת־שֹׁלְחִ֖י דָּבָֽר׃ פ (I Chr. 21:12)
+NIV	three years of famine, three months of being swept away before your enemies, with their swords overtaking you, or three days of the sword of the LORD — days of plague in the land, with the angel of the LORD _ravaging_ every part of Israel.’ Now then, decide how I should answer the one who sent me.”
+ESV	either three years of famine, or three months of devastation by your foes while the sword of your enemies overtakes you, or else three days of the sword of the Lord, pestilence on the land, with the angel of the Lord _destroying_ throughout all the territory of Israel.’ Now decide what answer I shall return to him who sent me.”
+
+(x)	כֹּ֣ה אָמַ֔ר סַנְחֵרִ֖יב מֶ֣לֶךְ אַשּׁ֑וּר עַל־מָה֙ אַתֶּ֣ם _בֹּטְחִ֔ים_ וְיֹשְׁבִ֥ים בְּמָצֹ֖ור בִּירוּשָׁלִָֽם׃ (II Chr. 32:10)
+NIV	“This is what Sennacherib king of Assyria says: On what are you basing your confidence, that you remain in Jerusalem under siege?
+ESV	“Thus says Sennacherib king of Assyria, ‘On what are you trusting, that you endure the siege in Jerusalem?

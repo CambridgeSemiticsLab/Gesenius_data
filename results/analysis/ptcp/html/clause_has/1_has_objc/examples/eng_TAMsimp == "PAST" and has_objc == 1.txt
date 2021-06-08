@@ -1,0 +1,102 @@
+eng_TAMsimp == "PAST" and has_objc == 1
+25 of 155
+
+(x)	וַיֶּאֱהַ֥ב יִצְחָ֛ק אֶת־עֵשָׂ֖ו כִּי־צַ֣יִד בְּפִ֑יו וְרִבְקָ֖ה _אֹהֶ֥בֶת_ אֶֽת־יַעֲקֹֽב׃ (Gen. 25:28)
+NIV	Isaac, who had a taste for wild game, _loved_ Esau, but Rebekah _loved_ Jacob.
+ESV	Isaac _loved_ Esau because he ate of his game, but Rebekah _loved_ Jacob.
+
+(x)	וְכָל־הָעָם֩ _רֹאִ֨ים_ אֶת־הַקֹּולֹ֜ת וְאֶת־הַלַּפִּידִ֗ם וְאֵת֙ קֹ֣ול הַשֹּׁפָ֔ר וְאֶת־הָהָ֖ר עָשֵׁ֑ן וַיַּ֤רְא הָעָם֙ וַיָּנֻ֔עוּ וַיַּֽעַמְד֖וּ מֵֽרָחֹֽק׃ (Exod. 20:18)
+NIV	When the people _saw_ the thunder and lightning and heard the trumpet and _saw_ the mountain in smoke, they trembled with fear. They stayed at a distance
+ESV	Now when all the people saw the thunder and the flashes of lightning and the sound of the trumpet and the mountain smoking, the people were afraid and trembled, and they stood far off
+
+(x)	אֹ֣ו בְכָל־אֶ֜בֶן אֲשֶׁר־יָמ֥וּת בָּהּ֙ בְּלֹ֣א רְאֹ֔ות וַיַּפֵּ֥ל עָלָ֖יו וַיָּמֹ֑ת וְהוּא֙ לֹא־אֹויֵ֣ב לֹ֔ו וְלֹ֥א _מְבַקֵּ֖שׁ_ רָעָתֹֽו׃ (Num. 35:23)
+NIV	or, without seeing him, drops a stone on him that could kill him, and he dies, then since he was not his enemy and he did not intend to harm him,
+ESV	or used a stone that could cause death, and without seeing him dropped it on him, so that he died, though he was not his enemy and did not seek his harm,
+
+(x)	וְהַנָּבִ֣יא הַה֡וּא אֹ֣ו חֹלֵם֩ הַחֲלֹ֨ום הַה֜וּא יוּמָ֗ת כִּ֣י דִבֶּר־סָ֠רָה עַל־יְהוָ֨ה אֱלֹֽהֵיכֶ֜ם הַמֹּוצִ֥יא אֶתְכֶ֣ם׀ מֵאֶ֣רֶץ מִצְרַ֗יִם וְהַ_פֹּֽדְךָ֙_ מִבֵּ֣ית עֲבָדִ֔ים לְהַדִּֽיחֲךָ֙ מִן־הַדֶּ֔רֶךְ אֲשֶׁ֧ר צִוְּךָ֛ יְהוָ֥ה אֱלֹהֶ֖יךָ לָלֶ֣כֶת בָּ֑הּ וּבִֽעַרְתָּ֥ הָרָ֖ע מִקִּרְבֶּֽךָ׃ (Deut. 13:6)
+NIV	That prophet or dreamer must be put to death, because he preached rebellion against the LORD your God, who brought you out of Egypt and _redeemed_ you from the land of slavery. he has tried to turn you from the way the LORD your God commanded you to follow. You must purge the evil from among you.
+ESV	But that prophet or that dreamer of dreams shall be put to death, because he has taught rebellion against the Lord your God, who brought you out of the land of Egypt and _redeemed_ you out of the house of slavery, to make you leave the way in which the Lord your God commanded you to walk. So you shall purge the evil from your midst.
+
+(x)	כִּ֚י יְהוָ֣ה אֱלֹהֵ֔ינוּ הוּא֩ הַ_מַּעֲלֶ֨ה_ אֹתָ֧נוּ וְאֶת־אֲבֹותֵ֛ינוּ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֣ית עֲבָדִ֑ים וַאֲשֶׁ֧ר עָשָׂ֣ה לְעֵינֵ֗ינוּ אֶת־הָאֹתֹ֤ות הַגְּדֹלֹות֙ הָאֵ֔לֶּה וַֽיִּשְׁמְרֵ֗נוּ בְּכָל־הַדֶּ֨רֶךְ֙ אֲשֶׁ֣ר הָלַ֣כְנוּ בָ֔הּ וּבְכֹל֙ הָֽעַמִּ֔ים אֲשֶׁ֥ר עָבַ֖רְנוּ בְּקִרְבָּֽם׃ (Josh. 24:17)
+NIV	It was the LORD our God himself who brought us and our fathers up out of Egypt, from that land of slavery, and performed those great signs before our eyes. He protected us on our entire journey and among all the nations through which we travelled.
+ESV	for it is the Lord our God who brought us and our fathers up from the land of Egypt, out of the house of slavery, and who did those great signs in our sight and preserved us in all the way that we went, and among all the peoples through whom we passed.
+
+(x)	אֹ֣וי לָ֔נוּ מִ֣י יַצִּילֵ֔נוּ מִיַּ֛ד הָאֱלֹהִ֥ים הָאַדִּירִ֖ים הָאֵ֑לֶּה אֵ֧לֶּה הֵ֣ם הָאֱלֹהִ֗ים הַ_מַּכִּ֧ים_ אֶת־מִצְרַ֛יִם בְּכָל־מַכָּ֖ה בַּמִּדְבָּֽר׃ (I Sam. 4:8)
+NIV	Woe to us! Who will deliver us from the hand of these mighty gods? They are the gods _who struck_ the Egyptians with all kinds of plagues in the desert.
+ESV	Woe to us! Who can deliver us from the power of these mighty gods? These are the gods _who struck_ the Egyptians with every sort of plague in the wilderness.
+
+(x)	בְּנֹות֙ יִשְׂרָאֵ֔ל אֶל־שָׁא֖וּל בְּכֶ֑ינָה הַמַּלְבִּֽשְׁכֶ֤ם שָׁנִי֙ עִם־עֲדָנִ֔ים הַֽ_מַּעֲלֶה֙_ עֲדִ֣י זָהָ֔ב עַ֖ל לְבוּשְׁכֶֽן׃ (II Sam. 1:24)
+NIV	“O daughters of Israel, weep for Saul, who clothed you in scarlet and finery, _who adorned_ your garments with ornaments of gold.
+ESV	“You daughters of Israel, weep over Saul, who clothed you luxuriously in scarlet, _who put_ ornaments of gold on your apparel.
+
+(x)	וְֽהַמֶּ֔לֶךְ וְכָל־יִשְׂרָאֵ֖ל עִמֹּ֑ו _זֹבְחִ֥ים_ זֶ֖בַח לִפְנֵ֥י יְהוָֽה׃ (I Kgs. 8:62)
+NIV	Then the king and all Israel with him _offered_ sacrifices before the LORD.
+ESV	Then the king, and all Israel with him, _offered_ sacrifice before the Lord.
+
+(x)	וַיְצַו֩ יְהֹויָדָ֨ע הַכֹּהֵ֜ן אֶת־שָׂרֵ֥י הַמֵּאֹ֣ות ׀ _פְּקֻדֵ֣י_ הַחַ֗יִל וַיֹּ֤אמֶר אֲלֵיהֶם֙ הֹוצִ֤יאוּ אֹתָהּ֙ אֶל־מִבֵּ֣ית לַשְּׂדֵרֹ֔ת וְהַבָּ֥א אַחֲרֶ֖יהָ הָמֵ֣ת בֶּחָ֑רֶב כִּ֚י אָמַ֣ר הַכֹּהֵ֔ן אַל־תּוּמַ֖ת בֵּ֥ית יְהוָֽה׃ (II Kgs. 11:15)
+NIV	Jehoiada the priest ordered the commanders of units of a hundred, _who were in charge of_ the troops: “Bring her out between the ranks and put to the sword anyone who follows her.” For the priest had said, “She must not be put to death in the temple of the LORD.”
+ESV	Then Jehoiada the priest commanded the captains _who were set over_ the army, “Bring her out between the ranks, and put to death with the sword anyone who follows her.” For the priest said, “Let her not be put to death in the house of the Lord.”
+
+(x)	וְהָעָ֥ם לֹא־שָׁ֖ב עַד־הַ_מַּכֵּ֑הוּ_ וְאֶת־יְהוָ֥ה צְבָאֹ֖ות לֹ֥א דָרָֽשׁוּ׃ ס (Isa. 9:12)
+NIV	But the people have not returned to him _who struck_ them, nor have they sought the LORD Almighty.
+ESV	The people did not turn to him _who struck_ them, nor inquire of the Lord of hosts.
+
+(x)	אַֽל־תִּשְׂמְחִ֤י פְלֶ֨שֶׁת֙ כֻּלֵּ֔ךְ כִּ֥י נִשְׁבַּ֖ר שֵׁ֣בֶט _מַכֵּ֑ךְ_ כִּֽי־מִשֹּׁ֤רֶשׁ נָחָשׁ֙ יֵ֣צֵא צֶ֔פַע וּפִרְיֹ֖ו שָׂרָ֥ף מְעֹופֵֽף׃ (Isa. 14:29)
+NIV	Do not rejoice, all you Philistines, that the rod _that struck_ you is broken. from the root of that snake will spring up a viper, its fruit will be a darting, venomous serpent.
+ESV	Rejoice not, O Philistia, all of you, that the rod _that struck_ you is broken, for from the serpent’s root will come forth an adder, and its fruit will be a flying fiery serpent.
+
+(x)	כִּ֣י כֹ֣ה אָֽמַר־יְ֠הוָה _בֹּורֵ֨א_ הַשָּׁמַ֜יִם ה֣וּא הָאֱלֹהִ֗ים יֹצֵ֨ר הָאָ֤רֶץ וְעֹשָׂהּ֙ ה֣וּא כֹֽונְנָ֔הּ לֹא־תֹ֥הוּ בְרָאָ֖הּ לָשֶׁ֣בֶת יְצָרָ֑הּ אֲנִ֥י יְהוָ֖ה וְאֵ֥ין עֹֽוד׃ (Isa. 45:18)
+NIV	For this is what the LORD says — he _who created_ the heavens, he is God. he who fashioned and made the earth, he founded it. he did not create it to be empty, but formed it to be inhabited — he says: “I am the LORD, and there is no other.
+ESV	For thus says the Lord, _who created_ the heavens ( he is God! ), who formed the earth and made it ( he established it. he did not create it empty, he formed it to be inhabited! ): “I am the Lord, and there is no other.
+
+(x)	וַתִּשְׁכַּ֞ח יְהוָ֣ה עֹשֶׂ֗ךָ _נֹוטֶ֣ה_ שָׁמַיִם֮ וְיֹסֵ֣ד אָרֶץ֒ וַתְּפַחֵ֨ד תָּמִ֜יד כָּל־הַיֹּ֗ום מִפְּנֵי֙ חֲמַ֣ת הַמֵּצִ֔יק כַּאֲשֶׁ֥ר כֹּונֵ֖ן לְהַשְׁחִ֑ית וְאַיֵּ֖ה חֲמַ֥ת הַמֵּצִֽיק׃ (Isa. 51:13)
+NIV	that you forget the LORD your Maker, _who stretched out_ the heavens and laid the foundations of the earth, that you live in constant terror every day because of the wrath of the oppressor, who is bent on destruction? For where is the wrath of the oppressor?
+ESV	and have forgotten the Lord, your Maker, _who stretched out_ the heavens and laid the foundations of the earth, and you fear continually all the day because of the wrath of the oppressor, when he sets himself to destroy? And where is the wrath of the oppressor?
+
+(x)	הֲלֹוא־זֹ֖את תַּעֲשֶׂה־לָּ֑ךְ עָזְבֵךְ֙ אֶת־יְהוָ֣ה אֱלֹהַ֔יִךְ בְּעֵ֖ת _מֹולִיכֵ֥ךְ_ בַּדָּֽרֶךְ׃ (Jer. 2:17)
+NIV	Have you not brought this on yourselves by forsaking the LORD your God when he _led_ you in the way?
+ESV	Have you not brought this upon yourself by forsaking the Lord your God, when he _led_ you in the way?
+
+(x)	כֹּֽה־אָמַ֥ר יְהוָ֖ה עֹשָׂ֑הּ יְהוָ֗ה _יֹוצֵ֥ר_ אֹותָ֛הּ לַהֲכִינָ֖הּ יְהוָ֥ה שְׁמֹֽו׃ (Jer. 33:2)
+NIV	“This is what the LORD says, he who made the earth, the LORD _who formed_ it and established it — the LORD is his name:
+ESV	“Thus says the Lord who made the earth, the Lord _who formed_ it to establish it — the Lord is his name:
+
+(x)	נְבִיאֵ֣י יִשְׂרָאֵ֗ל הַֽנִבְּאִים֙ אֶל־יְר֣וּשָׁלִַ֔ם וְהַ_חֹזִ֥ים_ לָ֖הּ חֲזֹ֣ון שָׁלֹ֑ם וְאֵ֣ין שָׁלֹ֔ם נְאֻ֖ם אֲדֹנָ֥י יְהֹוִֽה׃ פ (Ezek. 13:16)
+NIV	those prophets of Israel who prophesied to Jerusalem and _saw_ visions of peace for her when there was no peace, declares the Sovereign LORD.”’
+ESV	the prophets of Israel who prophesied concerning Jerusalem and _saw_ visions of peace for her, when there was no peace, declares the Lord God.
+
+(x)	וָאֹמַ֕ר מָ֛ה אֵ֥לֶּה בָאִ֖ים לַֽעֲשֹׂ֑ות וַיֹּ֣אמֶר לֵאמֹ֗ר אֵ֣לֶּה הַקְּרָנֹ֞ות אֲשֶׁר־זֵ֣רוּ אֶת־יְהוּדָ֗ה כְּפִי־אִישׁ֙ לֹא־נָשָׂ֣א רֹאשֹׁ֔ו וַיָּבֹ֤אוּ אֵ֨לֶּה֙ לְהַחֲרִ֣יד אֹתָ֔ם לְיַדֹּ֞ות אֶת־קַרְנֹ֣ות הַגֹּויִ֗ם הַ_נֹּשְׂאִ֥ים_ קֶ֛רֶן אֶל־אֶ֥רֶץ יְהוּדָ֖ה לְזָרֹותָֽהּ׃ ס (Zech. 2:4)
+NIV	I asked, “What are these coming to do?” He answered, “These are the horns that scattered Judah so that no-one could raise his head, but the craftsmen have come to terrify them and throw down these horns of the nations _who lifted up_ their horns against the land of Judah to scatter its people.”
+ESV	And I said, “What are these coming to do?” He said, “These are the horns that scattered Judah, so that no one raised his head. And these have come to terrify them, to cast down the horns of the nations _who lifted up_ their horns against the land of Judah to scatter it.”
+
+(x)	גַּם־לְשֹׁונִ֗י כָּל־הַ֭יֹּום תֶּהְגֶּ֣ה צִדְקָתֶ֑ךָ כִּי־בֹ֥שׁוּ כִֽי־חָ֝פְר֗וּ _מְבַקְשֵׁ֥י_ רָעָתִֽי׃ (Psa. 71:24)
+NIV	My tongue will tell of your righteous acts all day long, for _those who wanted_ to harm me have been put to shame and confusion.
+ESV	And my tongue will talk of your righteous help all the day long, for they have been put to shame and disappointed _who sought_ to do me hurt.
+
+(x)	לְ_גֹזֵ֣ר_ יַם־ס֭וּף לִגְזָרִ֑ים כִּ֖י לְעֹולָ֣ם חַסְדֹּֽו׃ (Psa. 136:13)
+NIV	to him _who divided_ the Red Sea asunder His love endures forever.
+ESV	to him _who divided_ the Red Sea in two, for his steadfast love endures forever.
+
+(x)	אֹ֣ו עִם־שָׂ֭רִים זָהָ֣ב לָהֶ֑ם הַֽ_מְמַלְאִ֖ים_ בָּתֵּיהֶ֣ם כָּֽסֶף׃ (Job 3:15)
+NIV	with rulers who had gold, _who filled_ their houses with silver.
+ESV	or with princes who had gold, _who filled_ their houses with silver.
+
+(x)	וַיְהִ֣י הַמֶּלְצַ֗ר _נֹשֵׂא֙_ אֶת־פַּתְבָּגָ֔ם וְיֵ֖ין מִשְׁתֵּיהֶ֑ם וְנֹתֵ֥ן לָהֶ֖ם זֵרְעֹנִֽים׃ (Dan. 1:16)
+NIV	So the guard _took away_ their choice food and the wine they were to drink and gave them vegetables instead.
+ESV	So the steward _took away_ their food and the wine they were to drink, and gave them vegetables.
+
+(x)	וְיֵשׁ֡וּעַ וּבָנִ֡י וְשֵׁרֵֽבְיָ֣ה׀ יָמִ֡ין עַקּ֡וּב שַׁבְּתַ֣י׀ הֹֽודִיָּ֡ה מַעֲשֵׂיָ֡ה קְלִיטָ֣א עֲזַרְיָה֩ יֹוזָבָ֨ד חָנָ֤ן פְּלָאיָה֙ וְהַלְוִיִּ֔ם _מְבִינִ֥ים_ אֶת־הָעָ֖ם לַתֹּורָ֑ה וְהָעָ֖ם עַל־עָמְדָֽם׃ (Neh. 8:7)
+NIV	The Levites — Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan and Pelaiah — _instructed_ the people in the Law while the people were standing there.
+ESV	Also Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah, the Levites, helped the people to understand the Law, while the people remained in their places.
+
+(x)	וַיָּ֤שֶׂם דָּוִיד֙ בַּאֲרַ֣ם דַּרְמֶ֔שֶׂק וַיְהִ֤י אֲרָם֙ לְדָוִ֔יד עֲבָדִ֖ים _נֹשְׂאֵ֣י_ מִנְחָ֑ה וַיֹּ֤ושַׁע יְהוָה֙ לְדָוִ֔יד בְּכֹ֖ל אֲשֶׁ֥ר הָלָֽךְ׃ (I Chr. 18:6)
+NIV	He put garrisons in the Aramean kingdom of Damascus, and the Arameans became subject to him and _brought_ tribute. The LORD gave David victory everywhere he went.
+ESV	Then David put garrisons in Syria of Damascus, and the Syrians became servants to David and _brought_ tribute. And the Lord gave victory to David wherever he went.
+
+(x)	וּ_מֹוצִיאִ֨ים_ סוּסִ֧ים מִמִּצְרַ֛יִם לִשְׁלֹמֹ֖ה וּמִכָּל־הָאֲרָצֹֽות׃ (II Chr. 9:28)
+NIV	Solomon’s horses _were imported_ from Egypt and from all other countries.
+ESV	And horses _were imported_ for Solomon from Egypt and from all lands.
+
+(x)	וְאֶל־מֶ֣לֶךְ יְהוּדָ֗ה הַ_שֹּׁלֵ֤חַ_ אֶתְכֶם֙ לִדְרֹ֣ושׁ בַּֽיהוָ֔ה כֹּ֥ה תֹאמְר֖וּ אֵלָ֑יו ס כֹּֽה־אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל הַדְּבָרִ֖ים אֲשֶׁ֥ר שָׁמָֽעְתָּ׃ (II Chr. 34:26)
+NIV	Tell the king of Judah, _who sent_ you to enquire of the LORD, ‘This is what the LORD, the God of Israel, says concerning the words you heard:
+ESV	But to the king of Judah, _who sent_ you to inquire of the Lord, thus shall you say to him, Thus says the Lord, the God of Israel: Regarding the words that you have heard,

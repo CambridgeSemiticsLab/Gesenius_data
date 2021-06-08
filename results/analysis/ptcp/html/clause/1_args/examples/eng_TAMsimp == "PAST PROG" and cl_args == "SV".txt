@@ -1,0 +1,70 @@
+eng_TAMsimp == "PAST PROG" and cl_args == "SV"
+17 of 17
+
+(x)	הִ֣וא _מוּצֵ֗את_ וְהִ֨יא שָׁלְחָ֤ה אֶל־חָמִ֨יהָ֙ לֵאמֹ֔ר לְאִישׁ֙ אֲשֶׁר־אֵ֣לֶּה לֹּ֔ו אָנֹכִ֖י הָרָ֑ה וַתֹּ֨אמֶר֙ הַכֶּר־נָ֔א לְמִ֞י הַחֹתֶ֧מֶת וְהַפְּתִילִ֛ים וְהַמַּטֶּ֖ה הָאֵֽלֶּה׃ (Gen. 38:25)
+NIV	As she was being brought out, she sent a message to her father-in-law. “I am pregnant by the man who owns these,” she said. And she added, “See if you recognize whose seal and cord and staff these are.”
+ESV	As she _was being brought out_, she sent word to her father-in-law, “By the man to whom these belong, I am pregnant.” And she said, “Please identify whose these are, the signet and the cord and the staff.”
+
+(x)	וּדְבֹורָה֙ אִשָּׁ֣ה נְבִיאָ֔ה אֵ֖שֶׁת לַפִּידֹ֑ות הִ֛יא _שֹׁפְטָ֥ה_ אֶת־יִשְׂרָאֵ֖ל בָּעֵ֥ת הַהִֽיא׃ (Judg. 4:4)
+NIV	Deborah, a prophetess, the wife of Lappidoth, _was leading_ Israel at that time.
+ESV	Now Deborah, a prophetess, the wife of Lappidoth, _was judging_ Israel at that time.
+
+(x)	וַיָּבֹ֣א גִדְעֹ֔ון וְהִ֨נֵּה־אִ֔ישׁ _מְסַפֵּ֥ר_ לְרֵעֵ֖הוּ חֲלֹ֑ום וַיֹּ֜אמֶר הִנֵּ֧ה חֲלֹ֣ום חָלַ֗מְתִּי וְהִנֵּ֨ה צְלִ֜יל לֶ֤חֶם שְׂעֹרִים֙ מִתְהַפֵּךְ֙ בְּמַחֲנֵ֣ה מִדְיָ֔ן וַיָּבֹ֣א עַד־הָ֠אֹהֶל וַיַּכֵּ֧הוּ וַיִּפֹּ֛ל וַיַּהַפְכֵ֥הוּ לְמַ֖עְלָה וְנָפַ֥ל הָאֹֽהֶל׃ (Judg. 7:13)
+NIV	Gideon arrived just as a man _was telling_ a friend his dream. “I had a dream,” he was saying. “A round loaf of barley bread came tumbling into the Midianite camp. It struck the tent with such force that the tent overturned and collapsed.”
+ESV	When Gideon came, behold, a man _was telling_ a dream to his comrade. And he said, “Behold, I dreamed a dream, and behold, a cake of barley bread tumbled into the camp of Midian and came to the tent and struck it so that it fell and turned it upside down, so that the tent lay flat.”
+
+(x)	הֵמָּה֮ _מֵיטִיבִ֣ים_ אֶת־לִבָּם֒ וְהִנֵּה֩ אַנְשֵׁ֨י הָעִ֜יר אַנְשֵׁ֣י בְנֵֽי־בְלִיַּ֗עַל נָסַ֨בּוּ֙ אֶת־הַבַּ֔יִת מִֽתְדַּפְּקִ֖ים עַל־הַדָּ֑לֶת וַיֹּאמְר֗וּ אֶל־הָ֠אִישׁ בַּ֣עַל הַבַּ֤יִת הַזָּקֵן֙ לֵאמֹ֔ר הֹוצֵ֗א אֶת־הָאִ֛ישׁ אֲשֶׁר־בָּ֥א אֶל־בֵּיתְךָ֖ וְנֵדָעֶֽנּוּ׃ (Judg. 19:22)
+NIV	While they were enjoying themselves, some of the wicked men of the city surrounded the house. Pounding on the door, they shouted to the old man who owned the house, “Bring out the man who came to your house so we can have sex with him.”
+ESV	As they were making their hearts merry, behold, the men of the city, worthless fellows, surrounded the house, beating on the door. And they said to the old man, the master of the house, “Bring out the man who came into your house, that we may know him.”
+
+(x)	וְחַנָּ֗ה הִ֚יא _מְדַבֶּ֣רֶת_ עַל־לִבָּ֔הּ רַ֚ק שְׂפָתֶ֣יהָ נָּעֹ֔ות וְקֹולָ֖הּ לֹ֣א יִשָּׁמֵ֑עַ וַיַּחְשְׁבֶ֥הָ עֵלִ֖י לְשִׁכֹּרָֽה׃ (I Sam. 1:13)
+NIV	Hannah _was praying_ in her heart, and her lips were moving but her voice was not heard. Eli thought she was drunk
+ESV	Hannah _was speaking_ in her heart. only her lips moved, and her voice was not heard. Therefore Eli took her to be a drunken woman.
+
+(x)	וַיְהִ֤י שְׁמוּאֵל֙ _מַעֲלֶ֣ה_ הָעֹולָ֔ה וּפְלִשְׁתִּ֣ים נִגְּשׁ֔וּ לַמִּלְחָמָ֖ה בְּיִשְׂרָאֵ֑ל וַיַּרְעֵ֣ם יְהוָ֣ה׀ בְּקֹול־גָּ֠דֹול בַּיֹּ֨ום הַה֤וּא עַל־פְּלִשְׁתִּים֙ וַיְהֻמֵּ֔ם וַיִּנָּגְפ֖וּ לִפְנֵ֥י יִשְׂרָאֵֽל׃ (I Sam. 7:10)
+NIV	While Samuel was _sacrificing_ the burnt offering, the Philistines drew near to engage Israel in battle. But that day the LORD thundered with loud thunder against the Philistines and threw them into such a panic that they were routed before the Israelites.
+ESV	As Samuel was _offering up_ the burnt offering, the Philistines drew near to attack Israel. But the Lord thundered with a mighty sound that day against the Philistines and threw them into confusion, and they were routed before Israel.
+
+(x)	וַֽיַּעֲל֖וּ הָעִ֑יר הֵ֗מָּה _בָּאִים֙_ בְּתֹ֣וךְ הָעִ֔יר וְהִנֵּ֤ה שְׁמוּאֵל֙ יֹצֵ֣א לִקְרָאתָ֔ם לַעֲלֹ֖ות הַבָּמָֽה׃ ס (I Sam. 9:14)
+NIV	They went up to the town, and as they were entering it, there was Samuel, coming towards them on his way up to the high place.
+ESV	So they went up to the city. As they were entering the city, they saw Samuel coming out toward them on his way up to the high place.
+
+(x)	הֵ֗מָּה _יֹֽורְדִים֙_ בִּקְצֵ֣ה הָעִ֔יר וּשְׁמוּאֵ֞ל אָמַ֣ר אֶל־שָׁא֗וּל אֱמֹ֥ר לַנַּ֛עַר וְיַעֲבֹ֥ר לְפָנֵ֖ינוּ וַֽיַּעֲבֹ֑ר וְאַתָּה֙ עֲמֹ֣ד כַּיֹּ֔ום וְאַשְׁמִיעֲךָ֖ אֶת־דְּבַ֥ר אֱלֹהִֽים׃ פ (I Sam. 9:27)
+NIV	As they were going down to the edge of the town, Samuel said to Saul, “Tell the servant to go on ahead of us” — and the servant did so — “but you stay here a while, so that I may give you a message from God.”
+ESV	As they _were going down_ to the outskirts of the city, Samuel said to Saul, “Tell the servant to pass on before us, and when he has passed on, stop here yourself for a while, that I may make known to you the word of God.”
+
+(x)	וְהִנֵּ֣ה שָׁא֗וּל _בָּ֣א_ אַחֲרֵ֤י הַבָּקָר֙ מִן־הַשָּׂדֶ֔ה וַיֹּ֣אמֶר שָׁא֔וּל מַה־לָּעָ֖ם כִּ֣י יִבְכּ֑וּ וַיְסַ֨פְּרוּ־לֹ֔ו אֶת־דִּבְרֵ֖י אַנְשֵׁ֥י יָבֵֽישׁ׃ (I Sam. 11:5)
+NIV	Just then Saul _was returning_ from the fields, behind his oxen, and he asked, “What is wrong with the people? Why are they weeping?” Then they repeated to him what the men of Jabesh had said.
+ESV	Now, behold, Saul _was coming_ from the field behind the oxen. And Saul said, “What is wrong with the people, that they are weeping?” So they told him the news of the men of Jabesh.
+
+(x)	וַיְהִ֤י הָֽאֶחָד֙ _מַפִּ֣יל_ הַקֹּורָ֔ה וְאֶת־הַבַּרְזֶ֖ל נָפַ֣ל אֶל־הַמָּ֑יִם וַיִּצְעַ֥ק וַיֹּ֛אמֶר אֲהָ֥הּ אֲדֹנִ֖י וְה֥וּא שָׁאֽוּל׃ (II Kgs. 6:5)
+NIV	As one of them was cutting down a tree, the iron axe-head fell into the water. “Oh, my lord,” he cried out, “it was borrowed!”
+ESV	But as one was _felling_ a log, his axe head fell into the water, and he cried out, “Alas, my master! It was borrowed.”
+
+(x)	וַֽיְהִי֙ מֶ֣לֶךְ יִשְׂרָאֵ֔ל _עֹבֵ֖ר_ עַל־הַחֹמָ֑ה וְאִשָּׁ֗ה צָעֲקָ֤ה אֵלָיו֙ לֵאמֹ֔ר הֹושִׁ֖יעָה אֲדֹנִ֥י הַמֶּֽלֶךְ׃ (II Kgs. 6:26)
+NIV	As the king of Israel was passing by on the wall, a woman cried to him, “Help me, my lord the king!”
+ESV	Now as the king of Israel was _passing by_ on the wall, a woman cried out to him, saying, “Help, my lord, O king!”
+
+(x)	וַ֠יְהִי ה֥וּא _מְסַפֵּ֣ר_ לַמֶּלֶךְ֮ אֵ֣ת אֲשֶׁר־הֶחֱיָ֣ה אֶת־הַמֵּת֒ וְהִנֵּ֨ה הָאִשָּׁ֜ה אֲשֶׁר־הֶחֱיָ֤ה אֶת־בְּנָהּ֙ צֹעֶ֣קֶת אֶל־הַמֶּ֔לֶךְ עַל־בֵּיתָ֖הּ וְעַל־שָׂדָ֑הּ וַיֹּ֤אמֶר גֵּֽחֲזִי֙ אֲדֹנִ֣י הַמֶּ֔לֶךְ זֹ֚את הָֽאִשָּׁ֔ה וְזֶה־בְּנָ֖הּ אֲשֶׁר־הֶחֱיָ֥ה אֱלִישָֽׁע׃ (II Kgs. 8:5)
+NIV	Just as Gehazi was _telling_ the king how Elisha had restored the dead to life, the woman whose son Elisha had brought back to life came to beg the king for her house and land. Gehazi said, “This is the woman, my lord the king, and this is her son whom Elisha restored to life.”
+ESV	And while he was _telling_ the king how Elisha had restored the dead to life, behold, the woman whose son he had restored to life appealed to the king for her house and her land. And Gehazi said, “My lord, O king, here is the woman, and here is her son whom Elisha restored to life.”
+
+(x)	וַיְהִ֞י הֵ֣ם׀ _קֹבְרִ֣ים_ אִ֗ישׁ וְהִנֵּה֙ רָא֣וּ אֶֽת־הַגְּד֔וּד וַיַּשְׁלִ֥יכוּ אֶת־הָאִ֖ישׁ בְּקֶ֣בֶר אֱלִישָׁ֑ע וַיֵּ֜לֶךְ וַיִּגַּ֤ע הָאִישׁ֙ בְּעַצְמֹ֣ות אֱלִישָׁ֔ע וַיְחִ֖י וַיָּ֥קָם עַל־רַגְלָֽיו׃ פ (II Kgs. 13:21)
+NIV	Once while some Israelites were burying a man, suddenly they saw a band of raiders. so they threw the man’s body into Elisha’s tomb. When the body touched Elisha’s bones, the man came to life and stood up on his feet.
+ESV	And as a man _was being buried_, behold, a marauding band was seen and the man was thrown into the grave of Elisha, and as soon as the man touched the bones of Elisha, he revived and stood on his feet.
+
+(x)	וַיְהִי֩ ה֨וּא _מִֽשְׁתַּחֲוֶ֜ה_ בֵּ֣ית׀ נִסְרֹ֣ךְ אֱלֹהָ֗יו וְֽאַדְרַמֶּ֨לֶךְ וְשַׂרְאֶ֤צֶר בָּנָיו֙ הִכֻּ֣הוּ בַחֶ֔רֶב וְהֵ֥מָּה נִמְלְט֖וּ אֶ֣רֶץ אֲרָרָ֑ט וַיִּמְלֹ֛ךְ אֵֽסַר־חַדֹּ֥ן בְּנֹ֖ו תַּחְתָּֽיו׃ ס (Isa. 37:38)
+NIV	One day, while he was _worshipping_ in the temple of his god Nisroch, his sons Adrammelech and Sharezer cut him down with the sword, and they escaped to the land of Ararat. And Esarhaddon his son succeeded him as king.
+ESV	And as he _was worshiping_ in the house of Nisroch his god, Adrammelech and Sharezer, his sons, struck him down with the sword. And after they escaped into the land of Ararat, Esarhaddon his son reigned in his place.
+
+(x)	וָאָבֹ֨וא אֶל־הַגֹּולָ֜ה תֵּ֣ל ֠אָבִיב הַיֹּשְׁבִ֤ים אֶֽל־נְהַר־כְּבָר֙ וָֽאֵשֵׁ֔ב הֵ֖מָּה _יֹושְׁבִ֣ים_ שָׁ֑ם וָאֵשֵׁ֥ב שָׁ֛ם שִׁבְעַ֥ת יָמִ֖ים מַשְׁמִ֥ים בְּתֹוכָֽם׃ (Ezek. 3:15)
+NIV	I came to the exiles who lived at Tel Abib near the Kebar River. And there, where they were living, I sat among them for seven days — overwhelmed.
+ESV	And I came to the exiles at Tel-abib, who were dwelling by the Chebar canal, and I sat where they were dwelling. And I sat there overwhelmed among them seven days.
+
+(x)	וַיֹּוצִאֵנִי֮ דֶּֽרֶךְ־שַׁ֣עַר צָפֹונָה֒ וַיְסִבֵּ֨נִי֙ דֶּ֣רֶךְ ח֔וּץ אֶל־שַׁ֣עַר הַח֔וּץ דֶּ֖רֶךְ הַפֹּונֶ֣ה קָדִ֑ים וְהִנֵּה־מַ֣יִם _מְפַכִּ֔ים_ מִן־הַכָּתֵ֖ף הַיְמָנִֽית׃ (Ezek. 47:2)
+NIV	He then brought me out through the north gate and led me round the outside to the outer gate facing east, and the water _was flowing_ from the south side.
+ESV	Then he brought me out by way of the north gate and led me around on the outside to the outer gate that faces toward the east. and behold, the water _was trickling out_ on the south side.
+
+(x)	עַ֚ד זֶ֣ה מְדַבֵּ֔ר וְזֶ֖ה בָּ֣א וַיֹּאמַ֑ר בָּנֶ֨יךָ וּבְנֹותֶ֤יךָ _אֹֽכְלִים֙_ וְשֹׁתִ֣ים יַ֔יִן בְּבֵ֖ית אֲחִיהֶ֥ם הַבְּכֹֽור׃ (Job 1:18)
+NIV	While he was still speaking, yet another messenger came and said, “Your sons and daughters _were feasting_ and drinking wine at the oldest brother’s house,
+ESV	While he was yet speaking, there came another and said, “Your sons and daughters _were eating_ and drinking wine in their oldest brother’s house,

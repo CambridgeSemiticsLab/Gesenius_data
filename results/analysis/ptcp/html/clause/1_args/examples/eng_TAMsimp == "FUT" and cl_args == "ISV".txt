@@ -1,0 +1,58 @@
+eng_TAMsimp == "FUT" and cl_args == "ISV"
+14 of 14
+
+(x)	וָאֹמַ֣ר אֵלֶ֗יךָ שַׁלַּ֤ח אֶת־בְּנִי֙ וְיַֽעַבְדֵ֔נִי וַתְּמָאֵ֖ן לְשַׁלְּחֹ֑ו הִנֵּה֙ אָנֹכִ֣י _הֹרֵ֔ג_ אֶת־בִּנְךָ֖ בְּכֹרֶֽךָ׃ (Exod. 4:23)
+NIV	and I told you, “Let my son go, so he may worship me.” But you refused to let him go. so I _will kill_ your firstborn son.’ “
+ESV	and I say to you, “Let my son go that he may serve me.” If you refuse to let him go, behold, I _will kill_ your firstborn son.’”
+
+(x)	וְאִם־מָאֵ֥ן אַתָּ֖ה לְשַׁלֵּ֑חַ הִנֵּ֣ה אָנֹכִ֗י _נֹגֵ֛ף_ אֶת־כָּל־גְּבוּלְךָ֖ בַּֽצְפַרְדְּעִֽים׃ (Exod. 7:27)
+NIV	If you refuse to let them go, I _will plague_ your whole country with frogs.
+ESV	But if you refuse to let them go, behold, I _will plague_ all your country with frogs.
+
+(x)	הִנֵּ֨ה יַד־יְהוָ֜ה _הֹויָ֗ה_ בְּמִקְנְךָ֙ אֲשֶׁ֣ר בַּשָּׂדֶ֔ה בַּסּוּסִ֤ים בַּֽחֲמֹרִים֙ בַּגְּמַלִּ֔ים בַּבָּקָ֖ר וּבַצֹּ֑אן דֶּ֖בֶר כָּבֵ֥ד מְאֹֽד׃ (Exod. 9:3)
+NIV	the hand of the LORD _will bring_ a terrible plague on your livestock in the field — on your horses and donkeys and camels and on your cattle and sheep and goats.
+ESV	behold, the hand of the Lord _will fall_ with a very severe plague upon your livestock that are in the field, the horses, the donkeys, the camels, the herds, and the flocks.
+
+(x)	וַיֹּ֨אמֶר֙ יְהֹ֣ונָתָ֔ן הִנֵּ֛ה אֲנַ֥חְנוּ _עֹבְרִ֖ים_ אֶל־הָאֲנָשִׁ֑ים וְנִגְלִ֖ינוּ אֲלֵיהֶֽם׃ (I Sam. 14:8)
+NIV	Jonathan said, “Come, then. we _will cross over_ towards the men and let them see us.
+ESV	Then Jonathan said, “Behold, we _will cross over_ to the men, and we will show ourselves to them.
+
+(x)	וַיֹּאמְרוּ֩ אַנְשֵׁ֨י דָוִ֜ד אֵלָ֗יו הִנֵּ֨ה הַיֹּ֜ום אֲֽשֶׁר־אָמַ֧ר יְהוָ֣ה אֵלֶ֗יךָ הִנֵּ֨ה אָנֹכִ֜י _נֹתֵ֤ן_ אֶת־אֹֽיִבְךָ֙ בְּיָדֶ֔ךָ וְעָשִׂ֣יתָ לֹּ֔ו כַּאֲשֶׁ֖ר יִטַ֣ב בְּעֵינֶ֑יךָ וַיָּ֣קָם דָּוִ֗ד וַיִּכְרֹ֛ת אֶת־כְּנַֽף־הַמְּעִ֥יל אֲשֶׁר־לְשָׁא֖וּל בַּלָּֽט׃ (I Sam. 24:5)
+NIV	The men said, “This is the day the LORD spoke of when he said to you, ‘I _will give_ your enemy into your hands for you to deal with as you wish.’” Then David crept up unnoticed and cut off a corner of Saul’s robe.
+ESV	And the men of David said to him, “Here is the day of which the Lord said to you, ‘Behold, I _will give_ your enemy into your hand, and you shall do to him as it shall seem good to you.’” Then David arose and stealthily cut off a corner of Saul’s robe.
+
+(x)	הִנֵּ֤ה הָאָדֹון֙ יְהוָ֣ה צְבָאֹ֔ות _מְסָעֵ֥ף_ פֻּארָ֖ה בְּמַעֲרָצָ֑ה וְרָמֵ֤י הַקֹּומָה֙ גְּדוּעִ֔ים וְהַגְּבֹהִ֖ים יִשְׁפָּֽלוּ׃ (Isa. 10:33)
+NIV	See, the Lord, the LORD Almighty, _will lop off_ the boughs with great power. The lofty trees will be felled, the tall ones will be brought low.
+ESV	Behold, the Lord God of hosts _will lop_ the boughs with terrifying power. the great in height will be hewn down, and the lofty will be brought low.
+
+(x)	מַשָּׂ֖א דַּמָּ֑שֶׂק הִנֵּ֤ה דַמֶּ֨שֶׂק֙ _מוּסָ֣ר_ מֵעִ֔יר וְהָיְתָ֖ה מְעִ֥י מַפָּלָֽה׃ (Isa. 17:1)
+NIV	An oracle concerning Damascus: “See, Damascus _will no longer be_ a city but will become a heap of ruins.
+ESV	An oracle concerning Damascus. Behold, Damascus _will cease_ to be a city and will become a heap of ruins.
+
+(x)	עֲנִיָּ֥ה סֹעֲרָ֖ה לֹ֣א נֻחָ֑מָה הִנֵּ֨ה אָנֹכִ֜י _מַרְבִּ֤יץ_ בַּפּוּךְ֙ אֲבָנַ֔יִךְ וִיסַדְתִּ֖יךְ בַּסַּפִּירִֽים׃ (Isa. 54:11)
+NIV	“O afflicted city, lashed by storms and not comforted, I _will build_ you with stones of turquoise, your foundations with sapphires.
+ESV	“O afflicted one, storm-tossed and not comforted, behold, I _will set_ your stones in antimony, and lay your foundations with sapphires.
+
+(x)	לָכֵ֞ן כֹּה־אָמַ֣ר׀ אֲדֹנָ֣י יְהֹוִ֗ה הִנֵּ֨ה אַפִּ֤י וַֽחֲמָתִי֙ _נִתֶּ֨כֶת֙_ אֶל־הַמָּקֹ֣ום הַזֶּ֔ה עַל־הָֽאָדָם֙ וְעַל־הַבְּהֵמָ֔ה וְעַל־עֵ֥ץ הַשָּׂדֶ֖ה וְעַל־פְּרִ֣י הָֽאֲדָמָ֑ה וּבָעֲרָ֖ה וְלֹ֥א תִכְבֶּֽה׃ ס (Jer. 7:20)
+NIV	“‘Therefore this is what the Sovereign LORD says: My anger and my wrath _will be poured out_ on this place, on man and beast, on the trees of the field and on the fruit of the ground, and it will burn and not be quenched.
+ESV	Therefore thus says the Lord God: behold, my anger and my wrath _will be poured out_ on this place, upon man and beast, upon the trees of the field and the fruit of the ground. it will burn and not be quenched.”
+
+(x)	וְאֶל־הַכֹּהֲנִים֩ וְאֶל־כָּל־הָעָ֨ם הַזֶּ֜ה דִּבַּ֣רְתִּי לֵאמֹ֗ר כֹּה֮ אָמַ֣ר יְהוָה֒ אַֽל־תִּשְׁמְע֞וּ אֶל־דִּבְרֵ֣י נְבִֽיאֵיכֶ֗ם הַֽנִּבְּאִ֤ים לָכֶם֙ לֵאמֹ֔ר הִנֵּ֨ה כְלֵ֧י בֵית־יְהוָ֛ה _מוּשָׁבִ֥ים_ מִבָּבֶ֖לָה עַתָּ֣ה מְהֵרָ֑ה כִּ֣י שֶׁ֔קֶר הֵ֖מָּה נִבְּאִ֥ים לָכֶֽם׃ (Jer. 27:16)
+NIV	Then I said to the priests and all these people, “This is what the LORD says: Do not listen to the prophets who say, ‘Very soon now the articles from the LORD’s house _will be brought back_ from Babylon.’ They are prophesying lies to you.
+ESV	Then I spoke to the priests and to all this people, saying, “Thus says the Lord: Do not listen to the words of your prophets who are prophesying to you, saying, ‘Behold, the vessels of the Lord’s house will now shortly be brought back from Babylon,’ for it is a lie that they are prophesying to you.
+
+(x)	כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה לָעֲצָמֹ֖ות הָאֵ֑לֶּה הִנֵּ֨ה אֲנִ֜י _מֵבִ֥יא_ בָכֶ֛ם ר֖וּחַ וִחְיִיתֶֽם׃ (Ezek. 37:5)
+NIV	This is what the Sovereign LORD says to these bones: I will make breath enter you, and you will come to life.
+ESV	Thus says the Lord God to these bones: Behold, I will cause breath to enter you, and you shall live.
+
+(x)	וְדַבֵּ֣ר אֲלֵיהֶ֗ם כֹּֽה־אָמַר֮ אֲדֹנָ֣י יְהוִה֒ הִנֵּ֨ה אֲנִ֤י _לֹקֵ֨חַ֙_ אֶת־בְּנֵ֣י יִשְׂרָאֵ֔ל מִבֵּ֥ין הַגֹּויִ֖ם אֲשֶׁ֣ר הָֽלְכוּ־שָׁ֑ם וְקִבַּצְתִּ֤י אֹתָם֙ מִסָּבִ֔יב וְהֵבֵאתִ֥י אֹותָ֖ם אֶל־אַדְמָתָֽם׃ (Ezek. 37:21)
+NIV	and say to them, ‘This is what the Sovereign LORD says: I _will take_ the Israelites out of the nations where they have gone. I will gather them from all around and bring them back into their own land.
+ESV	then say to them, Thus says the Lord God: Behold, I _will take_ the people of Israel from the nations among which they have gone, and will gather them from all around, and bring them to their own land.
+
+(x)	הִנֵּ֛ה אָנֹכִ֥י _מֵעִ֖יק_ תַּחְתֵּיכֶ֑ם כַּאֲשֶׁ֤ר תָּעִיק֙ הָעֲגָלָ֔ה הַֽמְלֵאָ֥ה לָ֖הּ עָמִֽיר׃ (Amos 2:13)
+NIV	“Now then, I _will crush_ you as a cart crushes when loaded with grain.
+ESV	“Behold, I will press you down in your place, as a cart full of sheaves presses down.
+
+(x)	הִנֵּ֤ה אָֽנֹכִי֙ _שֹׁלֵ֣חַ_ לָכֶ֔ם אֵ֖ת אֵלִיָּ֣ה הַנָּבִ֑יא לִפְנֵ֗י בֹּ֚וא יֹ֣ום יְהוָ֔ה הַגָּדֹ֖ול וְהַנֹּורָֽא׃ (Mal. 3:23)
+NIV	“See, I _will send_ you the prophet Elijah before that great and dreadful day of the LORD comes.
+ESV	“Behold, I _will send_ you Elijah the prophet before the great and awesome day of the Lord comes.

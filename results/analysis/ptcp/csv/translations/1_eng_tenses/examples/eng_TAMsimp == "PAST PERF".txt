@@ -1,0 +1,102 @@
+eng_TAMsimp == "PAST PERF"
+25 of 43
+
+(x)	וַיֵּרָ֤א יְהוָה֙ אֶל־אַבְרָ֔ם וַיֹּ֕אמֶר לְזַ֨רְעֲךָ֔ אֶתֵּ֖ן אֶת־הָאָ֣רֶץ הַזֹּ֑את וַיִּ֤בֶן שָׁם֙ מִזְבֵּ֔חַ לַיהוָ֖ה הַ_נִּרְאֶ֥ה_ אֵלָֽיו׃ (Gen. 12:7)
+NIV	The LORD appeared to Abram and said, “To your offspring I will give this land.” So he built an altar there to the LORD, _who had appeared_ to him.
+ESV	Then the Lord appeared to Abram and said, “To your offspring I will give this land.” So he built there an altar to the Lord, _who had appeared_ to him.
+
+(x)	וַיָּ֨שָׁב יֹוסֵ֤ף מִצְרַ֨יְמָה֙ ה֣וּא וְאֶחָ֔יו וְכָל־הָ_עֹלִ֥ים_ אִתֹּ֖ו לִקְבֹּ֣ר אֶת־אָבִ֑יו אַחֲרֵ֖י קָבְרֹ֥ו אֶת־אָבִֽיו׃ (Gen. 50:14)
+NIV	After burying his father, Joseph returned to Egypt, together with his brothers and all the others _who had gone_ with him to bury his father.
+ESV	After he had buried his father, Joseph returned to Egypt with his brothers and all _who had gone up_ with him to bury his father.
+
+(x)	וִיהֹושֻׁ֣עַ בִּן־נ֗וּן וְכָלֵב֙ בֶּן־יְפֻנֶּ֔ה מִן־הַ_תָּרִ֖ים_ אֶת־הָאָ֑רֶץ קָרְע֖וּ בִּגְדֵיהֶֽם׃ (Num. 14:6)
+NIV	Joshua son of Nun and Caleb son of Jephunneh, who were among those _who had explored_ the land, tore their clothes
+ESV	And Joshua the son of Nun and Caleb the son of Jephunneh, who were among those _who had spied out_ the land, tore their clothes
+
+(x)	וַיִּֽחַר־אַ֤ף יְהוָה֙ בְּיִשְׂרָאֵ֔ל וַיְנִעֵם֙ בַּמִּדְבָּ֔ר אַרְבָּעִ֖ים שָׁנָ֑ה עַד־תֹּם֙ כָּל־הַדֹּ֔ור הָ_עֹשֶׂ֥ה_ הָרַ֖ע בְּעֵינֵ֥י יְהוָֽה׃ (Num. 32:13)
+NIV	The LORD’s anger burned against Israel and he made them wander in the desert forty years, until the whole generation of those _who had done_ evil in his sight was gone.
+ESV	And the Lord’s anger was kindled against Israel, and he made them wander in the wilderness forty years, until all the generation _that had done_ evil in the sight of the Lord was gone.
+
+(x)	וְהִ֖יא הֶעֱלָ֣תַם הַגָּ֑גָה וַֽתִּטְמְנֵם֙ בְּפִשְׁתֵּ֣י הָעֵ֔ץ הָ_עֲרֻכֹ֥ות_ לָ֖הּ עַל־הַגָּֽג׃ (Josh. 2:6)
+NIV	( But she had taken them up to the roof and hidden them under the stalks of flax she _had laid out_ on the roof. )
+ESV	But she had brought them up to the roof and hid them with the stalks of flax that she had laid in order on the roof.
+
+(x)	וְלִשְׁנַ֨יִם הָאֲנָשִׁ֜ים הַֽ_מְרַגְּלִ֤ים_ אֶת־הָאָ֨רֶץ֙ אָמַ֣ר יְהֹושֻׁ֔עַ בֹּ֖אוּ בֵּית־הָאִשָּׁ֣ה הַזֹּונָ֑ה וְהֹוצִ֨יאוּ מִשָּׁ֤ם אֶת־הָֽאִשָּׁה֙ וְאֶת־כָּל־אֲשֶׁר־לָ֔הּ כַּאֲשֶׁ֥ר נִשְׁבַּעְתֶּ֖ם לָֽהּ׃ (Josh. 6:22)
+NIV	Joshua said to the two men _who had spied out_ the land, “Go into the prostitute’s house and bring her out and all who belong to her, in accordance with your oath to her.”
+ESV	But to the two men _who had spied out_ the land, Joshua said, “Go into the prostitute’s house and bring out from there the woman and all who belong to her, as you swore to her.”
+
+(x)	וְחֶ֤בֶר הַקֵּינִי֙ _נִפְרָ֣ד_ מִקַּ֔יִן מִבְּנֵ֥י חֹבָ֖ב חֹתֵ֣ן מֹשֶׁ֑ה וַיֵּ֣ט אָהֳלֹ֔ו עַד־אֵלֹ֥ון בְּצַעֲנַנִּ֖ים אֲשֶׁ֥ר אֶת־קֶֽדֶשׁ׃ (Judg. 4:11)
+NIV	Now Heber the Kenite _had left_ the other Kenites, the descendants of Hobab, Moses’ brother-in-law, and pitched his tent by the great tree in Zaanannim near Kedesh.
+ESV	Now Heber the Kenite _had separated_ from the Kenites, the descendants of Hobab the father-in-law of Moses, and had pitched his tent as far away as the oak in Zaanannim, which is near Kedesh.
+
+(x)	וַיֹּאמְר֞וּ לַמַּלְאָכִ֣ים הַ_בָּאִ֗ים_ כֹּ֤ה תֹֽאמְרוּן֙ לְאִישׁ֙ יָבֵ֣ישׁ גִּלְעָ֔ד מָחָ֛ר תִּהְיֶֽה־לָכֶ֥ם תְּשׁוּעָ֖ה כְּחֹ֣ם הַשָּׁ֑מֶשׁ וַיָּבֹ֣אוּ הַמַּלְאָכִ֗ים וַיַּגִּ֛ידוּ לְאַנְשֵׁ֥י יָבֵ֖ישׁ וַיִּשְׂמָֽחוּ׃ (I Sam. 11:9)
+NIV	They told the messengers _who had come_, “Say to the men of Jabesh Gilead, ‘By the time the sun is hot tomorrow, you will be delivered.’” When the messengers went and reported this to the men of Jabesh, they were elated.
+ESV	And they said to the messengers _who had come_, “Thus shall you say to the men of Jabesh-gilead: ‘Tomorrow, by the time the sun is hot, you shall have deliverance.’” When the messengers came and told the men of Jabesh, they were glad.
+
+(x)	וְכֹל֩ אִ֨ישׁ יִשְׂרָאֵ֜ל הַ_מִּֽתְחַבְּאִ֤ים_ בְּהַר־אֶפְרַ֨יִם֙ שָֽׁמְע֔וּ כִּֽי־נָ֖סוּ פְּלִשְׁתִּ֑ים וַֽיַּדְבְּק֥וּ גַם־הֵ֛מָּה אַחֲרֵיהֶ֖ם בַּמִּלְחָמָֽה׃ (I Sam. 14:22)
+NIV	When all the Israelites _who had hidden_ in the hill country of Ephraim heard that the Philistines were on the run, they joined the battle in hot pursuit.
+ESV	Likewise, when all the men of Israel _who had hidden themselves_ in the hill country of Ephraim heard that the Philistines were fleeing, they too followed hard after them in the battle.
+
+(x)	וַיָּ֣בֹא הֵלֶךְ֮ לְאִ֣ישׁ הֶֽעָשִׁיר֒ וַיַּחְמֹ֗ל לָקַ֤חַת מִצֹּאנֹו֙ וּמִבְּקָרֹ֔ו לַעֲשֹׂ֕ות לָאֹרֵ֖חַ הַבָּא־לֹ֑ו וַיִּקַּ֗ח אֶת־כִּבְשַׂת֙ הָאִ֣ישׁ הָרָ֔אשׁ וַֽיַּעֲשֶׂ֔הָ לָאִ֖ישׁ הַ_בָּ֥א_ אֵלָֽיו׃ (II Sam. 12:4)
+NIV	“Now a traveller came to the rich man, but the rich man refrained from taking one of his own sheep or cattle to prepare a meal for the traveller _who had come_ to him. Instead, he took the ewe lamb that belonged to the poor man and prepared it for the one _who had come_ to him.”
+ESV	Now there came a traveler to the rich man, and he was unwilling to take one of his own flock or herd to prepare for the guest _who had come_ to him, but he took the poor man’s lamb and prepared it for the man _who had come_ to him.”
+
+(x)	וַיִּוָּעַ֞ץ הַמֶּ֣לֶךְ רְחַבְעָ֗ם אֶת־הַזְּקֵנִים֙ אֲשֶׁר־הָי֣וּ _עֹמְדִ֗ים_ אֶת־פְּנֵי֙ שְׁלֹמֹ֣ה אָבִ֔יו בִּֽהְיֹתֹ֥ו חַ֖י לֵאמֹ֑ר אֵ֚יךְ אַתֶּ֣ם נֹֽועָצִ֔ים לְהָשִׁ֥יב אֶת־הָֽעָם־הַזֶּ֖ה דָּבָֽר׃ (I Kgs. 12:6)
+NIV	Then King Rehoboam consulted the elders who _had served_ his father Solomon during his lifetime. “How would you advise me to answer these people?” he asked.
+ESV	Then King Rehoboam took counsel with the old men, who _had stood_ before Solomon his father while he was yet alive, saying, “How do you advise me to answer this people?”
+
+(x)	וַיְהִ֗י כִּֽי־חָטְא֤וּ בְנֵֽי־יִשְׂרָאֵל֙ לַיהוָ֣ה אֱלֹהֵיהֶ֔ם הַ_מַּעֲלֶ֤ה_ אֹתָם֙ מֵאֶ֣רֶץ מִצְרַ֔יִם מִתַּ֕חַת יַ֖ד פַּרְעֹ֣ה מֶֽלֶךְ־מִצְרָ֑יִם וַיִּֽירְא֖וּ אֱלֹהִ֥ים אֲחֵרִֽים׃ (II Kgs. 17:7)
+NIV	All this took place because the Israelites had sinned against the LORD their God, who had brought them up out of Egypt from under the power of Pharaoh king of Egypt. They worshipped other gods
+ESV	And this occurred because the people of Israel had sinned against the Lord their God, _who had brought_ them up out of the land of Egypt from under the hand of Pharaoh king of Egypt, and had feared other gods
+
+(x)	וַיַּךְ֙ עַם־הָאָ֔רֶץ אֵ֥ת כָּל־הַ_קֹּשְׁרִ֖ים_ עַל־הַמֶּ֣לֶךְ אָמֹ֑ון וַיַּמְלִ֧יכוּ עַם־הָאָ֛רֶץ אֶת־יֹאשִׁיָּ֥הוּ בְנֹ֖ו תַּחְתָּֽיו׃ (II Kgs. 21:24)
+NIV	Then the people of the land killed all _who had plotted_ against King Amon, and they made Josiah his son king in his place.
+ESV	But the people of the land struck down all those _who had conspired_ against King Amon, and the people of the land made Josiah his son king in his place.
+
+(x)	אֶל־שָׂ֥דֶה טֹּ֛וב אֶל־מַ֥יִם רַבִּ֖ים הִ֣יא _שְׁתוּלָ֑ה_ לַעֲשֹׂ֤ות עָנָף֙ וְלָשֵׂ֣את פֶּ֔רִי לִהְיֹ֖ות לְגֶ֥פֶן אַדָּֽרֶת׃ ס (Ezek. 17:8)
+NIV	It _had been planted_ in good soil by abundant water so that it would produce branches, bear fruit and become a splendid vine.’
+ESV	It _had been planted_ on good soil by abundant waters, that it might produce branches and bear fruit and become a noble vine.
+
+(x)	שָׁ֭כְחוּ אֵ֣ל מֹושִׁיעָ֑ם _עֹשֶׂ֖ה_ גְדֹלֹ֣ות בְּמִצְרָֽיִם׃ (Psa. 106:21)
+NIV	They forgot the God who saved them, _who had done_ great things in Egypt,
+ESV	They forgot God, their Savior, _who had done_ great things in Egypt,
+
+(x)	וּבַשָּׁנָ֣ה הַשֵּׁנִ֗ית לְבֹואָ֞ם אֶל־בֵּ֤ית הָֽאֱלֹהִים֙ לִיר֣וּשָׁלִַ֔ם בַּחֹ֖דֶשׁ הַשֵּׁנִ֑י הֵחֵ֡לּוּ זְרֻבָּבֶ֣ל בֶּן־שְׁ֠אַלְתִּיאֵל וְיֵשׁ֨וּעַ בֶּן־יֹֽוצָדָ֜ק וּשְׁאָ֥ר אֲחֵיהֶ֣ם׀ הַכֹּהֲנִ֣ים וְהַלְוִיִּ֗ם וְכָל־הַ_בָּאִים֙_ מֵהַשְּׁבִ֣י יְרֽוּשָׁלִַ֔ם וַיַּעֲמִ֣ידוּ אֶת־הַלְוִיִּ֗ם מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה לְנַצֵּ֖חַ עַל־מְלֶ֥אכֶת בֵּית־יְהוָֽה׃ פ (Ezra 3:8)
+NIV	In the second month of the second year after their arrival at the house of God in Jerusalem, Zerubbabel son of Shealtiel, Jeshua son of Jozadak and the rest of their brothers ( the priests and the Levites and all _who had returned_ from the captivity to Jerusalem ) began the work, appointing Levites twenty years of age and older to supervise the building of the house of the LORD.
+ESV	Now in the second year after their coming to the house of God at Jerusalem, in the second month, Zerubbabel the son of Shealtiel and Jeshua the son of Jozadak made a beginning, together with the rest of their kinsmen, the priests and the Levites and all _who had come_ to Jerusalem from the captivity. They appointed the Levites, from twenty years old and upward, to supervise the work of the house of the Lord.
+
+(x)	וַיֹּאכְל֣וּ בְנֵֽי־יִשְׂרָאֵ֗ל הַ_שָּׁבִים֙_ מֵֽהַגֹּולָ֔ה וְכֹ֗ל הַנִּבְדָּ֛ל מִטֻּמְאַ֥ת גֹּויֵֽ־הָאָ֖רֶץ אֲלֵהֶ֑ם לִדְרֹ֕שׁ לַֽיהוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃ (Ezra 6:21)
+NIV	So the Israelites _who had returned_ from the exile ate it, together with all who had separated themselves from the unclean practices of their Gentile neighbours in order to seek the LORD, the God of Israel.
+ESV	It was eaten by the people of Israel _who had returned_ from exile, and also by every one who had joined them and separated himself from the uncleanness of the peoples of the land to worship the Lord, the God of Israel.
+
+(x)	הַ֠_בָּאִים_ מֵֽהַשְּׁבִ֨י בְנֵֽי־הַגֹּולָ֜ה הִקְרִ֥יבוּ עֹלֹ֣ות׀ לֵאלֹהֵ֣י יִשְׂרָאֵ֗ל פָּרִ֨ים שְׁנֵים־עָשָׂ֤ר עַל־כָּל־יִשְׂרָאֵל֙ אֵילִ֣ים׀ תִּשְׁעִ֣ים וְשִׁשָּׁ֗ה כְּבָשִׂים֙ שִׁבְעִ֣ים וְשִׁבְעָ֔ה צְפִירֵ֥י חַטָּ֖את שְׁנֵ֣ים עָשָׂ֑ר הַכֹּ֖ל עֹולָ֥ה לַיהוָֽה׃ פ (Ezra 8:35)
+NIV	Then the exiles _who had returned_ from captivity sacrificed burnt offerings to the God of Israel: twelve bulls for all Israel, ninety-six rams, seventy-seven male lambs and, as a sin offering, twelve male goats. All this was a burnt offering to the LORD.
+ESV	At that time those _who had come_ from captivity, the returned exiles, offered burnt offerings to the God of Israel, twelve bulls for all Israel, ninety-six rams, seventy-seven lambs, and as a sin offering twelve male goats. All this was a burnt offering to the Lord.
+
+(x)	וַיַּֽעֲשׂ֣וּ כָֽל־הַ֠קָּהָל הַ_שָּׁבִ֨ים_ מִן־הַשְּׁבִ֥י׀ סֻכֹּות֮ וַיֵּשְׁב֣וּ בַסֻּכֹּות֒ כִּ֣י לֹֽא־עָשׂ֡וּ מִימֵי֩ יֵשׁ֨וּעַ בִּן־נ֥וּן כֵּן֙ בְּנֵ֣י יִשְׂרָאֵ֔ל עַ֖ד הַיֹּ֣ום הַה֑וּא וַתְּהִ֥י שִׂמְחָ֖ה גְּדֹולָ֥ה מְאֹֽד׃ (Neh. 8:17)
+NIV	The whole company _that had returned_ from exile built booths and lived in them. From the days of Joshua son of Nun until that day, the Israelites had not celebrated it like this. And their joy was very great.
+ESV	And all the assembly of those _who had returned_ from the captivity made booths and lived in the booths, for from the days of Jeshua the son of Nun to that day the people of Israel had not done so. And there was very great rejoicing.
+
+(x)	וַיִּוָּעַ֞ץ הַמֶּ֣לֶךְ רְחַבְעָ֗ם אֶת־הַזְּקֵנִים֙ אֲשֶׁר־הָי֣וּ _עֹֽמְדִ֗ים_ לִפְנֵי֙ שְׁלֹמֹ֣ה אָבִ֔יו בִּֽהְיֹתֹ֥ו חַ֖י לֵאמֹ֑ר אֵ֚יךְ אַתֶּ֣ם נֹֽועָצִ֔ים לְהָשִׁ֥יב לָֽעָם־הַזֶּ֖ה דָּבָֽר׃ (II Chr. 10:6)
+NIV	Then King Rehoboam consulted the elders who _had served_ his father Solomon during his lifetime. “How would you advise me to answer these people?” he asked.
+ESV	Then King Rehoboam took counsel with the old men, who _had stood_ before Solomon his father while he was yet alive, saying, “How do you advise me to answer this people?”
+
+(x)	וַיְהִ֣י לְאָסָ֗א חַיִל֮ _נֹשֵׂ֣א_ צִנָּ֣ה וָרֹמַח֒ מִֽיהוּדָה֙ שְׁלֹ֣שׁ מֵאֹ֣ות אֶ֔לֶף ס וּמִבִּנְיָמִ֗ן נֹשְׂאֵ֤י מָגֵן֙ וְדֹ֣רְכֵי קֶ֔שֶׁת מָאתַ֥יִם וּשְׁמֹונִ֖ים אָ֑לֶף כָּל־אֵ֖לֶּה גִּבֹּ֥ורֵי חָֽיִל׃ (II Chr. 14:7)
+NIV	Asa had an army of three hundred thousand men from Judah, _equipped_ with large shields and with spears, and two hundred and eighty thousand from Benjamin, armed with small shields and with bows. All these were brave fighting men.
+ESV	And Asa had an army of 300,000 from Judah, _armed_ with large shields and spears, and 280,000 men from Benjamin that carried shields and drew bows. All these were mighty men of valor.
+
+(x)	וַיִּזְבַּ֗ח לֵֽאלֹהֵ֣י דַרְמֶשֶׂק֮ הַ_מַּכִּ֣ים_ בֹּו֒ וַיֹּ֗אמֶר כִּ֠י אֱלֹהֵ֤י מַלְכֵֽי־אֲרָם֙ הֵ֚ם מַעְזְרִ֣ים אֹותָ֔ם לָהֶ֥ם אֲזַבֵּ֖חַ וְיַעְזְר֑וּנִי וְהֵ֛ם הָֽיוּ־לֹ֥ו לְהַכְשִׁילֹ֖ו וּלְכָל־יִשְׂרָאֵֽל׃ (II Chr. 28:23)
+NIV	He offered sacrifices to the gods of Damascus, _who had defeated_ him. for he thought, “Since the gods of the kings of Aram have helped them, I will sacrifice to them so that they will help me.” But they were his downfall and the downfall of all Israel.
+ESV	For he sacrificed to the gods of Damascus _that had defeated_ him and said, “Because the gods of the kings of Syria helped them, I will sacrifice to them that they may help me.” But they were the ruin of him and of all Israel.
+
+(x)	וַיְנַתְּצ֣וּ לְפָנָ֗יו אֵ֚ת מִזְבְּחֹ֣ות הַבְּעָלִ֔ים וְהַֽחַמָּנִ֛ים אֲשֶׁר־לְמַ֥עְלָה מֵעֲלֵיהֶ֖ם גִּדֵּ֑עַ וְ֠הָאֲשֵׁרִים וְהַפְּסִלִ֤ים וְהַמַּסֵּכֹות֙ שִׁבַּ֣ר וְהֵדַ֔ק וַיִּזְרֹק֙ עַל־פְּנֵ֣י הַקְּבָרִ֔ים הַ_זֹּבְחִ֖ים_ לָהֶֽם׃ (II Chr. 34:4)
+NIV	Under his direction the altars of the Baals were torn down. he cut to pieces the incense altars that were above them, and smashed the Asherah poles, the idols and the images. These he broke to pieces and scattered over the graves of those _who had sacrificed_ to them.
+ESV	And they chopped down the altars of the Baals in his presence, and he cut down the incense altars that stood above them. And he broke in pieces the Asherim and the carved and the metal images, and he made dust of them and scattered it over the graves of those _who had sacrificed_ to them.
+
+(x)	וּבְהֹוצִיאָ֣ם אֶת־הַכֶּ֔סֶף הַ_מּוּבָ֖א_ בֵּ֣ית יְהוָ֑ה מָצָא֙ חִלְקִיָּ֣הוּ הַכֹּהֵ֔ן אֶת־סֵ֥פֶר תֹּֽורַת־יְהוָ֖ה בְּיַד־מֹשֶֽׁה׃ (II Chr. 34:14)
+NIV	While they were bringing out the money _that had been taken_ into the temple of the LORD, Hilkiah the priest found the Book of the Law of the LORD that had been given through Moses.
+ESV	While they were bringing out the money _that had been brought into_ the house of the Lord, Hilkiah the priest found the Book of the Law of the Lord given through Moses.
+
+(x)	וַיַּ֣עַל הַמֶּ֣לֶךְ בֵּית־יְ֠הוָה וְכָל־אִ֨ישׁ יְהוּדָ֜ה וְיֹשְׁבֵ֣י יְרוּשָׁלִַ֗ם וְהַכֹּֽהֲנִים֙ וְהַלְוִיִּ֔ם וְכָל־הָעָ֖ם מִגָּדֹ֣ול וְעַד־קָטָ֑ן וַיִּקְרָ֣א בְאָזְנֵיהֶ֗ם אֶת־כָּל־דִּבְרֵי֙ סֵ֣פֶר הַבְּרִ֔ית הַ_נִּמְצָ֖א_ בֵּ֥ית יְהוָֽה׃ (II Chr. 34:30)
+NIV	He went up to the temple of the LORD with the men of Judah, the people of Jerusalem, the priests and the Levites — all the people from the least to the greatest. He read in their hearing all the words of the Book of the Covenant, _which had been found_ in the temple of the LORD.
+ESV	And the king went up to the house of the Lord, with all the men of Judah and the inhabitants of Jerusalem and the priests and the Levites, all the people both great and small. And he read in their hearing all the words of the Book of the Covenant _that had been found_ in the house of the Lord.

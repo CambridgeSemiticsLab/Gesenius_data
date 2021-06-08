@@ -1,0 +1,102 @@
+eng_TAMsimp == "PRES ~ PRES PROG"
+25 of 125
+
+(x)	וַיֹּ֖אמֶר מֶ֣ה עָשִׂ֑יתָ קֹ֚ול דְּמֵ֣י אָחִ֔יךָ _צֹעֲקִ֥ים_ אֵלַ֖י מִן־הָֽאֲדָמָֽה׃ (Gen. 4:10)
+NIV	The LORD said, “What have you done? Listen! Your brother’s blood _cries out_ to me from the ground.
+ESV	And the Lord said, “What have you done? The voice of your brother’s blood _is crying_ to me from the ground.
+
+(x)	וַיֹּ֥אמֶר לָהֶ֖ם הֲשָׁלֹ֣ום לֹ֑ו וַיֹּאמְר֣וּ שָׁלֹ֔ום וְהִנֵּה֙ רָחֵ֣ל בִּתֹּ֔ו _בָּאָ֖ה_ עִם־הַצֹּֽאן׃ (Gen. 29:6)
+NIV	Then Jacob asked them, “Is he well?” “Yes, he is,” they said, “and here _comes_ his daughter Rachel with the sheep.”
+ESV	He said to them, “Is it well with him?” They said, “It is well. and see, Rachel his daughter is _coming_ with the sheep!”
+
+(x)	וְגַ֣ם׀ אֲנִ֣י שָׁמַ֗עְתִּי אֶֽת־נַאֲקַת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁ֥ר מִצְרַ֖יִם _מַעֲבִדִ֣ים_ אֹתָ֑ם וָאֶזְכֹּ֖ר אֶת־בְּרִיתִֽי׃ (Exod. 6:5)
+NIV	Moreover, I have heard the groaning of the Israelites, whom the Egyptians _are enslaving_, and I have remembered my covenant.
+ESV	Moreover, I have heard the groaning of the people of Israel whom the Egyptians _hold as slaves_, and I have remembered my covenant.
+
+(x)	וְנָתַתִּ֤י פָנַי֙ בָּכֶ֔ם וְנִגַּפְתֶּ֖ם לִפְנֵ֣י אֹיְבֵיכֶ֑ם וְרָד֤וּ בָכֶם֙ שֹֽׂנְאֵיכֶ֔ם וְנַסְתֶּ֖ם וְאֵין־_רֹדֵ֥ף_ אֶתְכֶֽם׃ ס (Lev. 26:17)
+NIV	I will set my face against you so that you will be defeated by your enemies. those who hate you will rule over you, and you will flee even when no one _is pursuing_ you.
+ESV	I will set my face against you, and you shall be struck down before your enemies. Those who hate you shall rule over you, and you shall flee when none _pursues_ you.
+
+(x)	עַ֠ד אֲשֶׁר־יָנִ֨יחַ יְהוָ֥ה׀ לַֽאֲחֵיכֶם֮ כָּכֶם֒ וְיָרְשׁ֣וּ גַם־הֵ֔ם אֶת־הָאָ֕רֶץ אֲשֶׁ֨ר יְהוָ֧ה אֱלֹהֵיכֶ֛ם _נֹתֵ֥ן_ לָהֶ֖ם בְּעֵ֣בֶר הַיַּרְדֵּ֑ן וְשַׁבְתֶּ֗ם אִ֚ישׁ לִֽירֻשָּׁתֹ֔ו אֲשֶׁ֥ר נָתַ֖תִּי לָכֶֽם׃ (Deut. 3:20)
+NIV	until the LORD gives rest to your brothers as he has to you, and they too have taken over the land that the LORD your God _is giving_ them, across the Jordan. After that, each of you may go back to the possession I have given you.”
+ESV	until the Lord _gives_ rest to your brothers, as to you, and they also occupy the land that the Lord your God _gives_ them beyond the Jordan. Then each of you may return to his possession which I have given you.’
+
+(x)	הִשָּׁ֣מֶר לְךָ֔ פֶּן־תִּשְׁכַּ֖ח אֶת־יְהוָ֣ה אֱלֹהֶ֑יךָ לְבִלְתִּ֨י שְׁמֹ֤ר מִצְוֹתָיו֙ וּמִשְׁפָּטָ֣יו וְחֻקֹּתָ֔יו אֲשֶׁ֛ר אָנֹכִ֥י _מְצַוְּךָ֖_ הַיֹּֽום׃ (Deut. 8:11)
+NIV	Be careful that you do not forget the LORD your God, failing to observe his commands, his laws and his decrees that I _am giving_ you this day.
+ESV	“Take care lest you forget the Lord your God by not keeping his _command_ments and his rules and his statutes, which I _command_ you today,
+
+(x)	וְהַקְּלָלָ֗ה אִם־לֹ֤א תִשְׁמְעוּ֙ אֶל־מִצְוֹת֙ יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם וְסַרְתֶּ֣ם מִן־הַדֶּ֔רֶךְ אֲשֶׁ֧ר אָנֹכִ֛י _מְצַוֶּ֥ה_ אֶתְכֶ֖ם הַיֹּ֑ום לָלֶ֗כֶת אַחֲרֵ֛י אֱלֹהִ֥ים אֲחֵרִ֖ים אֲשֶׁ֥ר לֹֽא־יְדַעְתֶּֽם׃ ס (Deut. 11:28)
+NIV	the curse if you disobey the _command_s of the LORD your God and turn from the way that I _command_ you today by following other gods, which you have not known.
+ESV	and the curse, if you do not obey the commandments of the Lord your God, but turn aside from the way that I _am commanding_ you today, to go after other gods that you have not known.
+
+(x)	כִּֽי־יִמָּצֵ֤א בְקִרְבְּךָ֙ בְּאַחַ֣ד שְׁעָרֶ֔יךָ אֲשֶׁר־יְהוָ֥ה אֱלֹהֶ֖יךָ _נֹתֵ֣ן_ לָ֑ךְ אִ֣ישׁ אֹו־אִשָּׁ֗ה אֲשֶׁ֨ר יַעֲשֶׂ֧ה אֶת־הָרַ֛ע בְּעֵינֵ֥י יְהוָֽה־אֱלֹהֶ֖יךָ לַעֲבֹ֥ר בְּרִיתֹֽו׃ (Deut. 17:2)
+NIV	If a man or woman living among you in one of the towns the LORD _gives_ you is found doing evil in the eyes of the LORD your God in violation of his covenant,
+ESV	“If there is found among you, within any of your towns that the Lord your God _is giving_ you, a man or woman who does what is evil in the sight of the Lord your God, in transgressing his covenant,
+
+(x)	כִּ֚י הַמִּצְוָ֣ה הַזֹּ֔את אֲשֶׁ֛ר אָנֹכִ֥י _מְצַוְּךָ֖_ הַיֹּ֑ום לֹֽא־נִפְלֵ֥את הִוא֙ מִמְּךָ֔ וְלֹ֥א רְחֹקָ֖ה הִֽוא׃ (Deut. 30:11)
+NIV	Now what I _am commanding_ you today is not too difficult for you or beyond your reach.
+ESV	“For this _command_ment that I _command_ you today is not too hard for you, neither is it far off.
+
+(x)	וַיֹּ֣אמֶר אֵלָ֗יו _עֹבְרִ֨ים_ אֲנַ֜חְנוּ מִבֵּֽית־לֶ֣חֶם יְהוּדָה֮ עַד־יַרְכְּתֵ֣י הַר־אֶפְרַיִם֒ מִשָּׁ֣ם אָנֹ֔כִי וָאֵלֵ֕ךְ עַד־בֵּ֥ית לֶ֖חֶם יְהוּדָ֑ה וְאֶת־בֵּ֤ית יְהוָה֙ אֲנִ֣י הֹלֵ֔ךְ וְאֵ֣ין אִ֔ישׁ מְאַסֵּ֥ף אֹותִ֖י הַבָּֽיְתָה׃ (Judg. 19:18)
+NIV	He answered, “We _are on our way_ from Bethlehem in Judah to a remote area in the hill country of Ephraim where I live. I have been to Bethlehem in Judah and now I am going to the house of the LORD. No-one has taken me into his house.
+ESV	And he said to him, “We _are passing_ from Bethlehem in Judah to the remote parts of the hill country of Ephraim, from which I come. I went to Bethlehem in Judah, and I am going to the house of the Lord, but no one has taken me into his house.
+
+(x)	וְאָבִ֣י רְאֵ֔ה גַּ֗ם רְאֵ֛ה אֶת־כְּנַ֥ף מְעִילְךָ֖ בְּיָדִ֑י כִּ֡י בְּכָרְתִי֩ אֶת־כְּנַ֨ף מְעִֽילְךָ֜ וְלֹ֣א הֲרַגְתִּ֗יךָ דַּ֤ע וּרְאֵה֙ כִּי֩ אֵ֨ין בְּיָדִ֜י רָעָ֤ה וָפֶ֨שַׁע֙ וְלֹא־חָטָ֣אתִי לָ֔ךְ וְאַתָּ֛ה _צֹדֶ֥ה_ אֶת־נַפְשִׁ֖י לְקַחְתָּֽהּ׃ (I Sam. 24:12)
+NIV	See, my father, look at this piece of your robe in my hand! I cut off the corner of your robe but did not kill you. Now understand and recognise that I am not guilty of wrongdoing or rebellion. I have not wronged you, but you are hunting me down to take my life.
+ESV	See, my father, see the corner of your robe in my hand. For by the fact that I cut off the corner of your robe and did not kill you, you may know and see that there is no wrong or treason in my hands. I have not sinned against you, though you _hunt_ my life to take it.
+
+(x)	וַיֹּ֨אמֶר דָּוִ֤ד אֶל־אֲבִישַׁי֙ וְאֶל־כָּל־עֲבָדָ֔יו הִנֵּ֥ה בְנִ֛י אֲשֶׁר־יָצָ֥א מִמֵּעַ֖י _מְבַקֵּ֣שׁ_ אֶת־נַפְשִׁ֑י וְאַ֨ף כִּֽי־עַתָּ֜ה בֶּן־הַיְמִינִ֗י הַנִּ֤חוּ לֹו֙ וִֽיקַלֵּ֔ל כִּ֥י אָֽמַר־לֹ֖ו יְהוָֽה׃ (II Sam. 16:11)
+NIV	David then said to Abishai and all his officials, “My son, who is of my own flesh, _is trying to take_ my life. How much more, then, this Benjamite! Leave him alone. let him curse, for the LORD has told him to.
+ESV	And David said to Abishai and to all his servants, “Behold, my own son _seeks_ my life. how much more now may this Benjaminite! Leave him alone, and let him curse, for the Lord has told him to.
+
+(x)	וַיֹּ֤אמֶר מֶֽלֶךְ־יִשְׂרָאֵל֙ אֶל־עֲבָדָ֔יו הַיְדַעְתֶּ֕ם כִּֽי־לָ֖נוּ רָמֹ֣ת גִּלְעָ֑ד וַאֲנַ֣חְנוּ _מַחְשִׁ֔ים_ מִקַּ֣חַת אֹתָ֔הּ מִיַּ֖ד מֶ֥לֶךְ אֲרָֽם׃ (I Kgs. 22:3)
+NIV	The king of Israel had said to his officials, “Don’t you know that Ramoth Gilead belongs to us and yet we _are doing nothing_ to retake it from the king of Aram?”
+ESV	And the king of Israel said to his servants, “Do you know that Ramoth-gilead belongs to us, and we _keep quiet_ and do not take it out of the hand of the king of Syria?”
+
+(x)	וְלָכֵ֡ן הִנֵּ֣ה אֲדֹנָי֩ _מַעֲלֶ֨ה_ עֲלֵיהֶ֜ם אֶת־מֵ֣י הַנָּהָ֗ר הָעֲצוּמִים֙ וְהָ֣רַבִּ֔ים אֶת־מֶ֥לֶךְ אַשּׁ֖וּר וְאֶת־כָּל־כְּבֹודֹ֑ו וְעָלָה֙ עַל־כָּל־אֲפִיקָ֔יו וְהָלַ֖ךְ עַל־כָּל־גְּדֹותָֽיו׃ (Isa. 8:7)
+NIV	therefore the Lord _is about to bring_ against them the mighty floodwaters of the River — the king of Assyria with all his pomp. It will overflow all its channels, run over all its banks
+ESV	therefore, behold, the Lord _is bringing up_ against them the waters of the River, mighty and many, the king of Assyria and all his glory. And it will rise over all its channels and go over all its banks,
+
+(x)	שְׂאוּ־נֵ֣ס צִיֹּ֔ונָה הָעִ֖יזוּ אַֽל־תַּעֲמֹ֑דוּ כִּ֣י רָעָ֗ה אָנֹכִ֛י _מֵבִ֥יא_ מִצָּפֹ֖ון וְשֶׁ֥בֶר גָּדֹֽול׃ (Jer. 4:6)
+NIV	Raise the signal to go to Zion! Flee for safety without delay! For I _am bringing_ disaster from the north, even terrible destruction.”
+ESV	Raise a standard toward Zion, flee for safety, stay not, for I _bring_ disaster from the north, and great destruction.
+
+(x)	הַאֹתִ֛י הֵ֥ם _מַכְעִסִ֖ים_ נְאֻם־יְהוָ֑ה הֲלֹ֣וא אֹתָ֔ם לְמַ֖עַן בֹּ֥שֶׁת פְּנֵיהֶֽם׃ ס (Jer. 7:19)
+NIV	But am I the one they _are provoking_? declares the LORD. Are they not rather harming themselves, to their own shame?
+ESV	Is it I whom they _provoke_? declares the Lord. Is it not themselves, to their own shame?
+
+(x)	וְהָעָ֣ם אֲשֶׁר־הֵ֣מָּה _נִבְּאִ֣ים_ לָהֶ֡ם יִֽהְי֣וּ מֻשְׁלָכִים֩ בְּחֻצֹ֨ות יְרוּשָׁלִַ֜ם מִפְּנֵ֣י׀ הָרָעָ֣ב וְהַחֶ֗רֶב וְאֵ֤ין מְקַבֵּר֙ לָהֵ֔מָּה הֵ֣מָּה נְשֵׁיהֶ֔ם וּבְנֵיהֶ֖ם וּבְנֹֽתֵיהֶ֑ם וְשָׁפַכְתִּ֥י עֲלֵיהֶ֖ם אֶת־רָעָתָֽם׃ (Jer. 14:16)
+NIV	And the people they _are prophesying_ to will be thrown out into the streets of Jerusalem because of the famine and sword. There will be no-one to bury them or their wives, their sons or their daughters. I will pour out on them the calamity they deserve.
+ESV	And the people to whom they _prophesy_ shall be cast out in the streets of Jerusalem, victims of famine and sword, with none to bury them — them, their wives, their sons, and their daughters. For I will pour out their evil upon them.
+
+(x)	וְאַֽל־תִּשְׁמְע֞וּ אֶל־דִּבְרֵ֣י הַנְּבִאִ֗ים הָ_אֹמְרִ֤ים_ אֲלֵיכֶם֙ לֵאמֹ֔ר לֹ֥א תַעַבְד֖וּ אֶת־מֶ֣לֶךְ בָּבֶ֑ל כִּ֣י שֶׁ֔קֶר הֵ֖ם נִבְּאִ֥ים לָכֶֽם׃ (Jer. 27:14)
+NIV	Do not listen to the words of the prophets _who say_ to you, ‘You will not serve the king of Babylon,’ for they are prophesying lies to you.
+ESV	Do not listen to the words of the prophets _who are saying_ to you, ‘You shall not serve the king of Babylon,’ for it is a lie that they are prophesying to you.
+
+(x)	וְנִקְנָ֥ה הַשָּׂדֶ֖ה בָּאָ֣רֶץ הַזֹּ֑את אֲשֶׁ֣ר׀ אַתֶּ֣ם _אֹמְרִ֗ים_ שְׁמָמָ֥ה הִיא֙ מֵאֵ֤ין אָדָם֙ וּבְהֵמָ֔ה נִתְּנָ֖ה בְּיַ֥ד הַכַּשְׂדִּֽים׃ (Jer. 32:43)
+NIV	Once more fields will be bought in this land of which you _say_, ‘It is a desolate waste, without men or animals, for it has been handed over to the Babylonians.’
+ESV	Fields shall be bought in this land of which you _are saying_, ‘It is a desolation, without man or beast. it is given into the hand of the Chaldeans.’
+
+(x)	וְהַבָּנִ֗ים קְשֵׁ֤י פָנִים֙ וְחִזְקֵי־לֵ֔ב אֲנִ֛י _שֹׁולֵ֥חַ_ אֹותְךָ֖ אֲלֵיהֶ֑ם וְאָמַרְתָּ֣ אֲלֵיהֶ֔ם כֹּ֥ה אָמַ֖ר אֲדֹנָ֥י יְהֹוִֽה׃ (Ezek. 2:4)
+NIV	The people to whom I _am sending_ you are obstinate and stubborn. Say to them, ‘This is what the Sovereign LORD says.’
+ESV	The descendants also are impudent and stubborn: I _send_ you to them, and you shall say to them, ‘Thus says the Lord God.’
+
+(x)	בֶּן־אָדָ֗ם הִנֵּ֤ה בֵֽית־יִשְׂרָאֵל֙ _אֹֽמְרִ֔ים_ הֶחָזֹ֛ון אֲשֶׁר־ה֥וּא חֹזֶ֖ה לְיָמִ֣ים רַבִּ֑ים וּלְעִתִּ֥ים רְחֹוקֹ֖ות ה֥וּא נִבָּֽא׃ (Ezek. 12:27)
+NIV	“Son of man, the house of Israel _is saying_, ‘The vision he sees is for many years from now, and he prophesies about the distant future.’
+ESV	“Son of man, behold, they of the house of Israel _say_, ‘The vision that he sees is for many days from now, and he prophesies of times far off.’
+
+(x)	רָנִּ֥י וְשִׂמְחִ֖י בַּת־צִיֹּ֑ון כִּ֧י הִנְנִי־_בָ֛א_ וְשָׁכַנְתִּ֥י בְתֹוכֵ֖ךְ נְאֻם־יְהוָֽה׃ (Zech. 2:14)
+NIV	“Shout and be glad, O Daughter of Zion. For I _am coming_, and I will live among you,” declares the LORD.
+ESV	Sing and rejoice, O daughter of Zion, for behold, I _come_ and I will dwell in your midst, declares the Lord.
+
+(x)	סֹומֵ֣ךְ יְ֭הוָה לְכָל־הַ_נֹּפְלִ֑ים_ וְ֝זֹוקֵ֗ף לְכָל־הַכְּפוּפִֽים׃ (Psa. 145:14)
+NIV	The LORD upholds all those _who fall_ and lifts up all who are bowed down.
+ESV	The Lord upholds all _who are falling_ and raises up all who are bowed down.
+
+(x)	וָאֶשְׁלְחָ֤ה אֵלָיו֙ לֵאמֹ֔ר לֹ֤א נִֽהְיָה֙ כַּדְּבָרִ֣ים הָאֵ֔לֶּה אֲשֶׁ֖ר אַתָּ֣ה _אֹומֵ֑ר_ כִּ֥י מִֽלִּבְּךָ֖ אַתָּ֥ה בֹודָֽאם׃ (Neh. 6:8)
+NIV	I sent him this reply: “Nothing like what you _are saying_ is happening. you are just making it up out of your head.”
+ESV	Then I sent to him, _say_ing, “No such things as you _say_ have been done, for you are inventing them out of your own mind.”
+
+(x)	וְהִ֨נֵּה־הֵ֔ם _גֹּמְלִ֖ים_ עָלֵ֑ינוּ לָבֹוא֙ לְגָ֣רְשֵׁ֔נוּ מִיְּרֻשָּׁתְךָ֖ אֲשֶׁ֥ר הֹֽורַשְׁתָּֽנוּ׃ (II Chr. 20:11)
+NIV	See how they _are repaying_ us by coming to drive us out of the possession you gave us as an inheritance.
+ESV	behold, they _reward_ us by coming to drive us out of your possession, which you have given us to inherit.

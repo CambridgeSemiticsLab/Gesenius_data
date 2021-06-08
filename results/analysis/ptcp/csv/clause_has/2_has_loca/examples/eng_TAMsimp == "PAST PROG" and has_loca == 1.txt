@@ -1,0 +1,58 @@
+eng_TAMsimp == "PAST PROG" and has_loca == 1
+14 of 14
+
+(x)	וַיֹּ֗אמֶר שֹׁ֣וב אָשׁ֤וּב אֵלֶ֨יךָ֙ כָּעֵ֣ת חַיָּ֔ה וְהִנֵּה־בֵ֖ן לְשָׂרָ֣ה אִשְׁתֶּ֑ךָ וְשָׂרָ֥ה _שֹׁמַ֛עַת_ פֶּ֥תַח הָאֹ֖הֶל וְה֥וּא אַחֲרָֽיו׃ (Gen. 18:10)
+NIV	Then the LORD said, “I will surely return to you about this time next year, and Sarah your wife will have a son.” Now Sarah _was listening_ at the entrance to the tent, which was behind him.
+ESV	The Lord said, “I will surely return to you about this time next year, and Sarah your wife shall have a son.” And Sarah _was listening_ at the tent door behind him.
+
+(x)	וְ֠הִנֵּה אֲנַ֜חְנוּ _מְאַלְּמִ֤ים_ אֲלֻמִּים֙ בְּתֹ֣וךְ הַשָּׂדֶ֔ה וְהִנֵּ֛ה קָ֥מָה אֲלֻמָּתִ֖י וְגַם־נִצָּ֑בָה וְהִנֵּ֤ה תְסֻבֶּ֨ינָה֙ אֲלֻמֹּ֣תֵיכֶ֔ם וַתִּֽשְׁתַּחֲוֶ֖יןָ לַאֲלֻמָּתִֽי׃ (Gen. 37:7)
+NIV	We _were binding_ sheaves of grain out in the field when suddenly my sheaf rose and stood upright, while your sheaves gathered around mine and bowed down to it.”
+ESV	Behold, we _were binding_ sheaves in the field, and behold, my sheaf arose and stood upright. And behold, your sheaves gathered around it and bowed down to my sheaf.”
+
+(x)	וְהִנֵּ֡ה אִישׁ֩ מִבְּנֵ֨י יִשְׂרָאֵ֜ל בָּ֗א וַיַּקְרֵ֤ב אֶל־אֶחָיו֙ אֶת־הַמִּדְיָנִ֔ית לְעֵינֵ֣י מֹשֶׁ֔ה וּלְעֵינֵ֖י כָּל־עֲדַ֣ת בְּנֵי־יִשְׂרָאֵ֑ל וְהֵ֣מָּה _בֹכִ֔ים_ פֶּ֖תַח אֹ֥הֶל מֹועֵֽד׃ (Num. 25:6)
+NIV	Then an Israelite man brought to his family a Midianite woman right before the eyes of Moses and the whole assembly of Israel while they _were weeping_ at the entrance to the Tent of Meeting.
+ESV	And behold, one of the people of Israel came and brought a Midianite woman to his family, in the sight of Moses and in the sight of the whole congregation of the people of Israel, while they _were weeping_ in the entrance of the tent of meeting.
+
+(x)	וַיָּבֹ֞א מַלְאַ֣ךְ יְהוָ֗ה וַיֵּ֨שֶׁב֙ תַּ֤חַת הָֽאֵלָה֙ אֲשֶׁ֣ר בְּעָפְרָ֔ה אֲשֶׁ֥ר לְיֹואָ֖שׁ אֲבִ֣י הָֽעֶזְרִ֑י וְגִדְעֹ֣ון בְּנֹ֗ו _חֹבֵ֤ט_ חִטִּים֙ בַּגַּ֔ת לְהָנִ֖יס מִפְּנֵ֥י מִדְיָֽן׃ (Judg. 6:11)
+NIV	The angel of the LORD came and sat down under the oak in Ophrah that belonged to Joash the Abiezrite, where his son Gideon _was threshing_ wheat in a winepress to keep it from the Midianites.
+ESV	Now the angel of the Lord came and sat under the terebinth at Ophrah, which belonged to Joash the Abiezrite, while his son Gideon _was beating out_ wheat in the winepress to hide it from the Midianites.
+
+(x)	וַתָּ֣קָם חַנָּ֔ה אַחֲרֵ֛י אָכְלָ֥ה בְשִׁלֹ֖ה וְאַחֲרֵ֣י שָׁתֹ֑ה וְעֵלִ֣י הַכֹּהֵ֗ן _יֹשֵׁב֙_ עַל־הַכִּסֵּ֔א עַל־מְזוּזַ֖ת הֵיכַ֥ל יְהוָֽה׃ (I Sam. 1:9)
+NIV	Once when they had finished eating and drinking in Shiloh, Hannah stood up. Now Eli the priest _was sitting_ on a chair by the doorpost of the LORD’s temple.
+ESV	After they had eaten and drunk in Shiloh, Hannah rose. Now Eli the priest _was sitting_ on the seat beside the doorpost of the temple of the Lord.
+
+(x)	וּבֵ֣ית שֶׁ֔מֶשׁ _קֹצְרִ֥ים_ קְצִיר־חִטִּ֖ים בָּעֵ֑מֶק וַיִּשְׂא֣וּ אֶת־עֵינֵיהֶ֗ם וַיִּרְאוּ֙ אֶת־הָ֣אָרֹ֔ון וַֽיִּשְׂמְח֖וּ לִרְאֹֽות׃ (I Sam. 6:13)
+NIV	Now the people of Beth Shemesh _were harvesting_ their wheat in the valley, and when they looked up and saw the ark, they rejoiced at the sight.
+ESV	Now the people of Beth-shemesh _were reaping_ their wheat harvest in the valley. And when they lifted up their eyes and saw the ark, they rejoiced to see it.
+
+(x)	וַיְהִ֗י כִּשְׁמֹ֨עַ֙ אֶת־הַדָּבָ֣ר הַזֶּ֔ה וְה֥וּא _שֹׁתֶ֛ה_ ה֥וּא וְהַמְּלָכִ֖ים בַּסֻּכֹּ֑ות וַיֹּ֤אמֶר אֶל־עֲבָדָיו֙ שִׂ֔ימוּ וַיָּשִׂ֖ימוּ עַל־הָעִֽיר׃ (I Kgs. 20:12)
+NIV	Ben-hadad heard this message while he and the kings were drinking in their tents, and he ordered his men: “Prepare to attack.” So they prepared to attack the city.
+ESV	When Ben-hadad heard this message as he _was drinking_ with the kings in the booths, he said to his men, “Take your positions.” And they took their positions against the city.
+
+(x)	וּמֶ֣לֶךְ יִשְׂרָאֵ֡ל וִֽיהֹושָׁפָ֣ט מֶֽלֶךְ־יְהוּדָ֡ה _יֹשְׁבִים֩_ אִ֨ישׁ עַל־כִּסְאֹ֜ו מְלֻבָּשִׁ֤ים בְּגָדִים֙ בְּגֹ֔רֶן פֶּ֖תַח שַׁ֣עַר שֹׁמְרֹ֑ון וְכָ֨ל־הַנְּבִיאִ֔ים מִֽתְנַבְּאִ֖ים לִפְנֵיהֶֽם׃ (I Kgs. 22:10)
+NIV	Dressed in their royal robes, the king of Israel and Jehoshaphat king of Judah _were sitting_ on their thrones at the threshing-floor by the entrance of the gate of Samaria, with all the prophets prophesying before them.
+ESV	Now the king of Israel and Jehoshaphat the king of Judah _were sitting_ on their thrones, arrayed in their robes, at the threshing floor at the entrance of the gate of Samaria, and all the prophets were prophesying before them.
+
+(x)	וַיְהִי֩ ה֨וּא _מִֽשְׁתַּחֲוֶ֜ה_ בֵּ֣ית׀ נִסְרֹ֣ךְ אֱלֹהָ֗יו וְֽאַדְרַמֶּ֨לֶךְ וְשַׂרְאֶ֤צֶר בָּנָיו֙ הִכֻּ֣הוּ בַחֶ֔רֶב וְהֵ֥מָּה נִמְלְט֖וּ אֶ֣רֶץ אֲרָרָ֑ט וַיִּמְלֹ֛ךְ אֵֽסַר־חַדֹּ֥ן בְּנֹ֖ו תַּחְתָּֽיו׃ ס (Isa. 37:38)
+NIV	One day, while he was _worshipping_ in the temple of his god Nisroch, his sons Adrammelech and Sharezer cut him down with the sword, and they escaped to the land of Ararat. And Esarhaddon his son succeeded him as king.
+ESV	And as he _was worshiping_ in the house of Nisroch his god, Adrammelech and Sharezer, his sons, struck him down with the sword. And after they escaped into the land of Ararat, Esarhaddon his son reigned in his place.
+
+(x)	וַיֵּ֤רֶד בֵּית־הַמֶּ֨לֶךְ֙ עַל־לִשְׁכַּ֣ת הַסֹּפֵ֔ר וְהִ֨נֵּה־שָׁ֔ם כָּל־הַשָּׂרִ֖ים _יֹֽושְׁבִ֑ים_ אֱלִישָׁמָ֣ע הַסֹּפֵ֡ר וּדְלָיָ֣הוּ בֶן־שְׁ֠מַעְיָהוּ וְאֶלְנָתָ֨ן בֶּן־עַכְבֹּ֜ור וּגְמַרְיָ֧הוּ בֶן־שָׁפָ֛ן וְצִדְקִיָּ֥הוּ בֶן־חֲנַנְיָ֖הוּ וְכָל־הַשָּׂרִֽים׃ (Jer. 36:12)
+NIV	he went down to the secretary’s room in the royal palace, where all the officials _were sitting_: Elishama the secretary, Delaiah son of Shemaiah, Elnathan son of Acbor, Gemariah son of Shaphan, Zedekiah son of Hananiah, and all the other officials.
+ESV	he went down to the king’s house, into the secretary’s chamber, and all the officials _were sitting_ there: Elishama the secretary, Delaiah the son of Shemaiah, Elnathan the son of Achbor, Gemariah the son of Shaphan, Zedekiah the son of Hananiah, and all the officials.
+
+(x)	וְהַכְּרֻבִ֗ים _עֹֽמְדִ֛ים_ מִימִ֥ין לַבַּ֖יִת בְּבֹאֹ֣ו הָאִ֑ישׁ וְהֶעָנָ֣ן מָלֵ֔א אֶת־הֶחָצֵ֖ר הַפְּנִימִֽית׃ (Ezek. 10:3)
+NIV	Now the cherubim _were standing_ on the south side of the temple when the man went in, and a cloud filled the inner court.
+ESV	Now the cherubim _were standing_ on the south side of the house, when the man went in, and a cloud filled the inner court.
+
+(x)	וַיָּבֵ֨יא אֹותִ֜י שָׁ֗מָּה וְהִנֵּה־אִישׁ֙ מַרְאֵ֨הוּ֙ כְּמַרְאֵ֣ה נְחֹ֔שֶׁת וּפְתִיל־פִּשְׁתִּ֥ים בְּיָדֹ֖ו וּקְנֵ֣ה הַמִּדָּ֑ה וְה֥וּא _עֹמֵ֖ד_ בַּשָּֽׁעַר׃ (Ezek. 40:3)
+NIV	He took me there, and I saw a man whose appearance was like bronze. he _was standing_ in the gateway with a linen cord and a measuring rod in his hand.
+ESV	When he brought me there, behold, there was a man whose appearance was like bronze, with a linen cord and a measuring reed in his hand. And he _was standing_ in the gateway.
+
+(x)	וַיְשִׁבֵנִי֮ אֶל־פֶּ֣תַח הַבַּיִת֒ וְהִנֵּה־מַ֣יִם יֹצְאִ֗ים מִתַּ֨חַת מִפְתַּ֤ן הַבַּ֨יִת֙ קָדִ֔ימָה כִּֽי־פְנֵ֥י הַבַּ֖יִת קָדִ֑ים וְהַמַּ֣יִם _יֹרְדִ֗ים_ מִתַּ֜חַת מִכֶּ֤תֶף הַבַּ֨יִת֙ הַיְמָנִ֔ית מִנֶּ֖גֶב לַמִּזְבֵּֽחַ׃ (Ezek. 47:1)
+NIV	The man brought me back to the entrance of the temple, and I saw water coming out from under the threshold of the temple towards the east ( for the temple faced east ). The water _was coming down_ from under the south side of the temple, south of the altar.
+ESV	Then he brought me back to the door of the temple, and behold, water was issuing from below the threshold of the temple toward the east ( for the temple faced east ). The water _was flowing down_ from below the south end of the threshold of the temple, south of the altar.
+
+(x)	וַיְהִ֣י׀ בַּיֹּ֣ום הַשְּׁלִישִׁ֗י וַתִּלְבַּ֤שׁ אֶסְתֵּר֙ מַלְכ֔וּת וַֽתַּעֲמֹ֞ד בַּחֲצַ֤ר בֵּית־הַמֶּ֨לֶךְ֙ הַפְּנִימִ֔ית נֹ֖כַח בֵּ֣ית הַמֶּ֑לֶךְ וְ֠הַמֶּלֶךְ _יֹושֵׁ֞ב_ עַל־כִּסֵּ֤א מַלְכוּתֹו֙ בְּבֵ֣ית הַמַּלְכ֔וּת נֹ֖כַח פֶּ֥תַח הַבָּֽיִת׃ (Esth. 5:1)
+NIV	On the third day Esther put on her royal robes and stood in the inner court of the palace, in front of the king’s hall. The king _was sitting_ on his royal throne in the hall, facing the entrance.
+ESV	On the third day Esther put on her royal robes and stood in the inner court of the king’s palace, in front of the king’s quarters, while the king _was sitting_ on his royal throne inside the throne room opposite the entrance to the palace.

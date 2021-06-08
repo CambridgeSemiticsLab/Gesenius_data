@@ -1,0 +1,102 @@
+eng_TAMsimp == "FUT" and has_objc == 1
+25 of 75
+
+(x)	וְגַ֧ם אֶת־הַגֹּ֛וי אֲשֶׁ֥ר יַעֲבֹ֖דוּ _דָּ֣ן_ אָנֹ֑כִי וְאַחֲרֵי־כֵ֥ן יֵצְא֖וּ בִּרְכֻ֥שׁ גָּדֹֽול׃ (Gen. 15:14)
+NIV	But I _will punish_ the nation they serve as slaves, and afterward they will come out with great possessions.
+ESV	But I _will bring judgment_ on the nation that they serve, and afterward they shall come out with great possessions.
+
+(x)	וְאִם־מָאֵ֥ן אַתָּ֖ה לְשַׁלֵּ֑חַ הִנֵּ֣ה אָנֹכִ֗י _נֹגֵ֛ף_ אֶת־כָּל־גְּבוּלְךָ֖ בַּֽצְפַרְדְּעִֽים׃ (Exod. 7:27)
+NIV	If you refuse to let them go, I _will plague_ your whole country with frogs.
+ESV	But if you refuse to let them go, behold, I _will plague_ all your country with frogs.
+
+(x)	הִנְנִ֤י _מַמְטִיר֙_ כָּעֵ֣ת מָחָ֔ר בָּרָ֖ד כָּבֵ֣ד מְאֹ֑ד אֲשֶׁ֨ר לֹא־הָיָ֤ה כָמֹ֨הוּ֙ בְּמִצְרַ֔יִם לְמִן־הַיֹּ֥ום הִוָּסְדָ֖ה וְעַד־עָֽתָּה׃ (Exod. 9:18)
+NIV	Therefore, at this time tomorrow I _will send_ the worst hailstorm that has ever fallen on Egypt, from the day it was founded till now.
+ESV	Behold, about this time tomorrow I will cause very heavy hail to fall, such as never has been in Egypt from the day it was founded until now.
+
+(x)	שְׁמָ֨ר־לְךָ֔ אֵ֛ת אֲשֶׁ֥ר אָנֹכִ֖י מְצַוְּךָ֣ הַיֹּ֑ום הִנְנִ֧י _גֹרֵ֣שׁ_ מִפָּנֶ֗יךָ אֶת־הָאֱמֹרִי֙ וְהַֽכְּנַעֲנִ֔י וְהַחִתִּי֙ וְהַפְּרִזִּ֔י וְהַחִוִּ֖י וְהַיְבוּסִֽי׃ (Exod. 34:11)
+NIV	Obey what I command you today. I _will drive out_ before you the Amorites, Canaanites, Hittites, Perizzites, Hivites and Jebusites.
+ESV	“Observe what I command you this day. Behold, I _will drive out_ before you the Amorites, the Canaanites, the Hittites, the Perizzites, the Hivites, and the Jebusites.
+
+(x)	וַיֹּ֥אמֶר גִּדְעֹ֖ון אֶל־הָאֱלֹהִ֑ים אִם־יֶשְׁךָ֞ _מֹושִׁ֧יעַ_ בְּיָדִ֛י אֶת־יִשְׂרָאֵ֖ל כַּאֲשֶׁ֥ר דִּבַּֽרְתָּ׃ (Judg. 6:36)
+NIV	Gideon said to God, “If you _will save_ Israel by my hand as you have promised —
+ESV	Then Gideon said to God, “If you _will save_ Israel by my hand, as you have said,
+
+(x)	הִנֵּ֤ה הָאָדֹון֙ יְהוָ֣ה צְבָאֹ֔ות _מְסָעֵ֥ף_ פֻּארָ֖ה בְּמַעֲרָצָ֑ה וְרָמֵ֤י הַקֹּומָה֙ גְּדוּעִ֔ים וְהַגְּבֹהִ֖ים יִשְׁפָּֽלוּ׃ (Isa. 10:33)
+NIV	See, the Lord, the LORD Almighty, _will lop off_ the boughs with great power. The lofty trees will be felled, the tall ones will be brought low.
+ESV	Behold, the Lord God of hosts _will lop_ the boughs with terrifying power. the great in height will be hewn down, and the lofty will be brought low.
+
+(x)	כִּֽי־כֹ֣ה׀ אָמַ֣ר יְהוָ֗ה הִנְנִ֣י _נֹטֶֽה_־אֵ֠לֶיהָ כְּנָהָ֨ר שָׁלֹ֜ום וּכְנַ֧חַל שֹׁוטֵ֛ף כְּבֹ֥וד גֹּויִ֖ם וִֽינַקְתֶּ֑ם עַל־צַד֙ תִּנָּשֵׂ֔אוּ וְעַל־בִּרְכַּ֖יִם תְּשָׁעֳשָֽׁעוּ׃ (Isa. 66:12)
+NIV	For this is what the LORD says: “I _will extend_ peace to her like a river, and the wealth of nations like a flooding stream. you will nurse and be carried on her arm and dandled on her knees.
+ESV	For thus says the Lord: “Behold, I _will extend_ peace to her like a river, and the glory of the nations like an overflowing stream. and you shall nurse, you shall be carried upon her hip, and bounced upon her knees.
+
+(x)	וְאַתָּ֞ה אַל־תִּתְפַּלֵּ֣ל׀ בְּעַד־הָעָ֣ם הַזֶּ֗ה וְאַל־תִּשָּׂ֧א בַעֲדָ֛ם רִנָּ֥ה וּתְפִלָּ֖ה וְאַל־תִּפְגַּע־בִּ֑י כִּי־אֵינֶ֥נִּי _שֹׁמֵ֖עַ_ אֹתָֽךְ׃ (Jer. 7:16)
+NIV	“So do not pray for this people nor offer any plea or petition for them. do not plead with me, for I will not listen to you.
+ESV	“As for you, do not pray for this people, or lift up a cry or prayer for them, and do not intercede with me, for I will not hear you.
+
+(x)	כֹּ֣ה׀ אָמַ֣ר יְהוָ֗ה עַל־כָּל־שְׁכֵנַי֙ הָֽרָעִ֔ים הַנֹּֽגְעִים֙ בַּֽנַּחֲלָ֔ה אֲשֶׁר־הִנְחַ֥לְתִּי אֶת־עַמִּ֖י אֶת־יִשְׂרָאֵ֑ל הִנְנִ֤י _נֹֽתְשָׁם֙_ מֵעַ֣ל אַדְמָתָ֔ם וְאֶת־בֵּ֥ית יְהוּדָ֖ה אֶתֹּ֥ושׁ מִתֹּוכָֽם׃ (Jer. 12:14)
+NIV	This is what the LORD says: “As for all my wicked neighbours who seize the inheritance I gave to my people Israel, I _will uproot_ them from their lands and I _will uproot_ the house of Judah from among them.
+ESV	Thus says the Lord concerning all my evil neighbors who touch the heritage that I have given my people Israel to inherit: “Behold, I will pluck them up from their land, and I _will pluck up_ the house of Judah from among them.
+
+(x)	כִּי֩ כֹ֨ה אָמַ֜ר יְהוָ֤ה צְבָאֹות֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל הִנְנִ֨י _מַשְׁבִּ֜ית_ מִן־הַמָּקֹ֥ום הַזֶּ֛ה לְעֵינֵיכֶ֖ם וּבִֽימֵיכֶ֑ם קֹ֤ול שָׂשֹׂון֙ וְקֹ֣ול שִׂמְחָ֔ה קֹ֥ול חָתָ֖ן וְקֹ֥ול כַּלָּֽה׃ (Jer. 16:9)
+NIV	For this is what the LORD Almighty, the God of Israel, says: Before your eyes and in your days I _will bring an end_ to the sounds of joy and gladness and to the voices of bride and bridegroom in this place.
+ESV	For thus says the Lord of hosts, the God of Israel: Behold, I _will silence_ in this place, before your eyes and in your days, the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride.
+
+(x)	לָ֠כֵן כֹּֽה־אָמַ֨ר יְהוָ֜ה אֱלֹהֵ֣י יִשְׂרָאֵ֗ל עַֽל־הָרֹעִים֮ הָרֹעִ֣ים אֶת־עַמִּי֒ אַתֶּ֞ם הֲפִצֹתֶ֤ם אֶת־צֹאנִי֙ וַתַּדִּח֔וּם וְלֹ֥א פְקַדְתֶּ֖ם אֹתָ֑ם הִנְנִ֨י _פֹקֵ֧ד_ עֲלֵיכֶ֛ם אֶת־רֹ֥עַ מַעַלְלֵיכֶ֖ם נְאֻם־יְהוָֽה׃ (Jer. 23:2)
+NIV	Therefore this is what the LORD, the God of Israel, says to the shepherds who tend my people: “Because you have scattered my flock and driven them away and have not bestowed care on them, I _will bestow punishment_ on you for the evil you have done,” declares the LORD.
+ESV	Therefore thus says the Lord, the God of Israel, concerning the shepherds who care for my people: “You have scattered my flock and have driven them away, and you have not attended to them. Behold, I _will attend_ to you for your evil deeds, declares the Lord.
+
+(x)	בְּעֹ֣וד׀ שְׁנָתַ֣יִם יָמִ֗ים אֲנִ֤י _מֵשִׁיב֙_ אֶל־הַמָּקֹ֣ום הַזֶּ֔ה אֶֽת־כָּל־כְּלֵ֖י בֵּ֣ית יְהוָ֑ה אֲשֶׁ֨ר לָקַ֜ח נְבוּכַדנֶאצַּ֤ר מֶֽלֶךְ־בָּבֶל֙ מִן־הַמָּקֹ֣ום הַזֶּ֔ה וַיְבִיאֵ֖ם בָּבֶֽל׃ (Jer. 28:3)
+NIV	Within two years I _will bring back_ to this place all the articles of the LORD’s house that Nebuchadnezzar king of Babylon removed from here and took to Babylon.
+ESV	Within two years I _will bring back_ to this place all the vessels of the Lord’s house, which Nebuchadnezzar king of Babylon took away from this place and carried to Babylon.
+
+(x)	וְאַתָּ֡ה אַל־תִּירָא֩ עַבְדִּ֨י יַעֲקֹ֤ב נְאֻם־יְהֹוָה֙ וְאַל־תֵּחַ֣ת יִשְׂרָאֵ֔ל כִּ֠י הִנְנִ֤י _מֹושִֽׁיעֲךָ֙_ מֵֽרָחֹ֔וק וְאֶֽת־זַרְעֲךָ֖ מֵאֶ֣רֶץ שִׁבְיָ֑ם וְשָׁ֧ב יַעֲקֹ֛ב וְשָׁקַ֥ט וְשַׁאֲנַ֖ן וְאֵ֥ין מַחֲרִֽיד׃ (Jer. 30:10)
+NIV	“‘So do not fear, O Jacob my servant. do not be dismayed, O Israel,’ declares the LORD. ‘I will surely save you out of a distant place, your descendants from the land of their exile. Jacob will again have peace and security, and no-one will make him afraid.
+ESV	“Then fear not, O Jacob my servant, declares the Lord, nor be dismayed, O Israel. for behold, I _will save_ you from far away, and your offspring from the land of their captivity. Jacob shall return and have quiet and ease, and none shall make him afraid.
+
+(x)	כִּֽי־כֹה֙ אָמַ֣ר יְהוָ֔ה כַּאֲשֶׁ֤ר הֵבֵ֨אתִי֙ אֶל־הָעָ֣ם הַזֶּ֔ה אֵ֛ת כָּל־הָרָעָ֥ה הַגְּדֹולָ֖ה הַזֹּ֑את כֵּ֣ן אָנֹכִ֞י _מֵבִ֤יא_ עֲלֵיהֶם֙ אֶת־כָּל־הַטֹּובָ֔ה אֲשֶׁ֥ר אָנֹכִ֖י דֹּבֵ֥ר עֲלֵיהֶֽם׃ (Jer. 32:42)
+NIV	“This is what the LORD says: As I have brought all this great calamity on this people, so I _will give_ them all the prosperity I have promised them.
+ESV	“For thus says the Lord: Just as I have brought all this great disaster upon this people, so I _will bring_ upon them all the good that I promise them.
+
+(x)	הִנְנִי֩ _מֵבִ֨יא_ עָלַ֜יִךְ פַּ֗חַד נְאֻם־אֲדֹנָ֧י יְהוִ֛ה צְבָאֹ֖ות מִכָּל־סְבִיבָ֑יִךְ וְנִדַּחְתֶּם֙ אִ֣ישׁ לְפָנָ֔יו וְאֵ֥ין מְקַבֵּ֖ץ לַנֹּדֵֽד׃ (Jer. 49:5)
+NIV	I _will bring_ terror on you from all those around you,” declares the Lord, the LORD Almighty. “Every one of you will be driven away, and no-one will gather the fugitives.
+ESV	Behold, I _will bring_ terror upon you, declares the Lord God of hosts, from all who are around you, and you shall be driven out, every man straight before him, with none to gather the fugitives.
+
+(x)	לָכֵ֗ן כֹּ֚ה אָמַ֣ר יְהוָ֔ה הִנְנִי־_רָב֙_ אֶת־רִיבֵ֔ךְ וְנִקַּמְתִּ֖י אֶת־נִקְמָתֵ֑ךְ וְהַחֲרַבְתִּי֙ אֶת־יַמָּ֔הּ וְהֹבַשְׁתִּ֖י אֶת־מְקֹורָֽהּ׃ (Jer. 51:36)
+NIV	Therefore, this is what the LORD says: “See, I _will defend_ your cause and avenge you. I will dry up her sea and make her springs dry.
+ESV	Therefore thus says the Lord: “Behold, I _will plead_ your cause and take vengeance for you. I will dry up her sea and make her fountain dry,
+
+(x)	לָכֵ֗ן כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה יַ֛עַן הֱיֹ֥ות כֻּלְּכֶ֖ם לְסִגִ֑ים לָכֵן֙ הִנְנִ֣י _קֹבֵ֣ץ_ אֶתְכֶ֔ם אֶל־תֹּ֖וךְ יְרוּשָׁלִָֽם׃ (Ezek. 22:19)
+NIV	Therefore this is what the Sovereign LORD says: ‘Because you have all become dross, I _will gather_ you into Jerusalem.
+ESV	Therefore thus says the Lord God: Because you have all become dross, therefore, behold, I _will gather_ you into the midst of Jerusalem.
+
+(x)	לָכֵ֗ן כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה הִנְנִ֛י _מֵבִ֥יא_ עָלַ֖יִךְ חָ֑רֶב וְהִכְרַתִּ֥י מִמֵּ֖ךְ אָדָ֥ם וּבְהֵמָֽה׃ (Ezek. 29:8)
+NIV	“‘Therefore this is what the Sovereign LORD says: I _will bring_ a sword against you and kill your men and their animals.
+ESV	Therefore thus says the Lord God: Behold, I _will bring_ a sword upon you, and will cut off from you man and beast,
+
+(x)	וְהָיָ֣ה בַיֹּ֣ום הַה֡וּא אֶתֵּ֣ן לְגֹוג֩׀ מְקֹֽום־שָׁ֨ם קֶ֜בֶר בְּיִשְׂרָאֵ֗ל גֵּ֤י הָעֹֽבְרִים֙ קִדְמַ֣ת הַיָּ֔ם וְ_חֹסֶ֥מֶת_ הִ֖יא אֶת־הָעֹֽבְרִ֑ים וְקָ֣בְרוּ שָׁ֗ם אֶת־גֹּוג֙ וְאֶת־כָּל־הֲמֹונֹ֔ו וְקָ֣רְא֔וּ גֵּ֖יא הֲמֹ֥ון גֹּֽוג׃ (Ezek. 39:11)
+NIV	“‘On that day I will give Gog a burial place in Israel, in the valley of those who travel east towards the Sea. It _will block_ the way of travellers, because Gog and all his hordes will be buried there. So it will be called the Valley of Hamon Gog.
+ESV	“On that day I will give to Gog a place for burial in Israel, the Valley of the Travelers, east of the sea. It _will block_ the travelers, for there Gog and all his multitude will be buried. It will be called the Valley of Hamon-gog.
+
+(x)	מַה־תְּחַשְּׁבוּן֙ אֶל־יְהוָ֔ה כָּלָ֖ה ה֣וּא _עֹשֶׂ֑ה_ לֹֽא־תָק֥וּם פַּעֲמַ֖יִם צָרָֽה׃ (Nah. 1:9)
+NIV	Whatever they plot against the LORD he _will bring_ to an end. trouble will not come a second time.
+ESV	What do you plot against the Lord? He _will make_ a complete end. trouble will not rise up a second time.
+
+(x)	אָסֵ֨ף אָדָ֜ם וּבְהֵמָ֗ה _אָסֵ֤ף_ עֹוף־הַשָּׁמַ֨יִם֙ וּדְגֵ֣י הַיָּ֔ם וְהַמַּכְשֵׁלֹ֖ות אֶת־הָרְשָׁעִ֑ים וְהִכְרַתִּ֣י אֶת־הָאָדָ֗ם מֵעַ֛ל פְּנֵ֥י הָאֲדָמָ֖ה נְאֻם־יְהוָֽה׃ (Zeph. 1:3)
+NIV	“_I will sweep away_ both men and animals. _I will sweep away_ the birds of the air and the fish of the sea. The wicked will have only heaps of rubble when I cut off man from the face of the earth,” declares the LORD.
+ESV	“_I will sweep away_ man and beast. _I will sweep away_ the birds of the heavens and the fish of the sea, and the rubble with the wicked. I will cut off mankind from the face of the earth,” declares the Lord.
+
+(x)	כִּ֠י הִנְנִ֨י _מֵנִ֤יף_ אֶת־יָדִי֙ עֲלֵיהֶ֔ם וְהָי֥וּ שָׁלָ֖ל לְעַבְדֵיהֶ֑ם וִֽידַעְתֶּ֕ם כִּֽי־יְהוָ֥ה צְבָאֹ֖ות שְׁלָחָֽנִי׃ ס (Zech. 2:13)
+NIV	I will surely raise my hand against them so that their slaves will plunder them. Then you will know that the LORD Almighty has sent me.
+ESV	“Behold, I _will shake_ my hand over them, and they shall become plunder for those who served them. Then you will know that the Lord of hosts has sent me.
+
+(x)	כִּ֠י לֹ֣א אֶחְמֹ֥ול עֹ֛וד עַל־יֹשְׁבֵ֥י הָאָ֖רֶץ נְאֻם־יְהוָ֑ה וְהִנֵּ֨ה אָנֹכִ֜י _מַמְצִ֣יא_ אֶת־הָאָדָ֗ם אִ֤ישׁ בְּיַד־רֵעֵ֨הוּ֙ וּבְיַ֣ד מַלְכֹּ֔ו וְכִתְּתוּ֙ אֶת־הָאָ֔רֶץ וְלֹ֥א אַצִּ֖יל מִיָּדָֽם׃ (Zech. 11:6)
+NIV	For I will no longer have pity on the people of the land,” declares the LORD. “I will hand everyone over to his neighbour and his king. They will oppress the land, and I will not rescue them from their hands.”
+ESV	For I will no longer have pity on the inhabitants of this land, declares the Lord. Behold, I will cause each of them to fall into the hand of his neighbor, and each into the hand of his king, and they shall crush the land, and I will deliver none from their hand.”
+
+(x)	אַךְ־בְּצֶ֤לֶם׀ יִֽתְהַלֶּךְ־אִ֗ישׁ אַךְ־הֶ֥בֶל יֶהֱמָי֑וּן יִ֝צְבֹּ֗ר וְֽלֹא־יֵדַ֥ע מִי־_אֹסְפָֽם_׃ (Psa. 39:7)
+NIV	Man is a mere phantom as he goes to and fro: He bustles about, but only in vain. he heaps up wealth, not knowing who _will get_ it.
+ESV	Surely a man goes about as a shadow! Surely for nothing they are in turmoil. man heaps up wealth and does not know who _will gather_!
+
+(x)	כִּ֤י גֶֽחָלִ֗ים אַ֭תָּה _חֹתֶ֣ה_ עַל־רֹאשֹׁ֑ו וַֽ֝יהוָ֗ה יְשַׁלֶּם־לָֽךְ׃ (Prov. 25:22)
+NIV	In doing this, you _will heap_ burning coals on his head, and the LORD will reward you.
+ESV	for you _will heap_ burning coals on his head, and the Lord will reward you.

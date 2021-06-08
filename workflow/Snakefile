@@ -33,6 +33,7 @@ rule prepare_gbi_verbs:
         tf_mods=tf_modules,
         word_data=rules.preprocess_gbi.output.word_data,
         id2link=rules.preprocess_gbi.output.id2link,
+        bhsa2gbi="_private_/GBI_alignment/bhsa2gbi.json",
     output:
         bhsa2gbi="_private_/GBI_alignment/verb_bhsa2gbi.pickle",
         no_match="_private_/GBI_alignment/verb_no_match.txt",

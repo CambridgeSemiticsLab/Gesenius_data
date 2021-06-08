@@ -1,0 +1,62 @@
+genre == "prose" and domain2 == "Q" and eng_TAMsimp == "FUT"
+15 of 38
+
+(x)	כִּי֩ לְיָמִ֨ים עֹ֜וד שִׁבְעָ֗ה אָֽנֹכִי֙ _מַמְטִ֣יר_ עַל־הָאָ֔רֶץ אַרְבָּעִ֣ים יֹ֔ום וְאַרְבָּעִ֖ים לָ֑יְלָה וּמָחִ֗יתִי אֶֽת־כָּל־הַיְקוּם֙ אֲשֶׁ֣ר עָשִׂ֔יתִי מֵעַ֖ל פְּנֵ֥י הָֽאֲדָמָֽה׃ (Gen. 7:4)
+NIV	Seven days from now I _will send rain_ on the earth for forty days and forty nights, and I will wipe from the face of the earth every living creature I have made.”
+ESV	For in seven days I _will send rain_ on the earth forty days and forty nights, and every living thing that I have made I will blot out from the face of the ground.”
+
+(x)	וְאִם־אֵינְךָ֥ _מְשַׁלֵּ֖חַ_ לֹ֣א נֵרֵ֑ד כִּֽי־הָאִ֞ישׁ אָמַ֤ר אֵלֵ֨ינוּ֙ לֹֽא־תִרְא֣וּ פָנַ֔י בִּלְתִּ֖י אֲחִיכֶ֥ם אִתְּכֶֽם׃ (Gen. 43:5)
+NIV	But if you will not send him, we will not go down, because the man said to us, ‘You will not see my face again unless your brother is with you.’”
+ESV	But if you will not send him, we will not go down, for the man said to us, ‘You shall not see my face, unless your brother is with you.’”
+
+(x)	אַתֶּ֗ם לְכ֨וּ קְח֤וּ לָכֶם֙ תֶּ֔בֶן מֵאֲשֶׁ֖ר תִּמְצָ֑אוּ כִּ֣י אֵ֥ין _נִגְרָ֛ע_ מֵעֲבֹדַתְכֶ֖ם דָּבָֽר׃ (Exod. 5:11)
+NIV	Go and get your own straw wherever you can find it, but your work will not be reduced at all.’”
+ESV	Go and get your straw yourselves wherever you can find it, but your work will not be reduced in the least.’”
+
+(x)	וְאִם־מָאֵ֥ן אַתָּ֖ה לְשַׁלֵּ֑חַ הִנֵּ֣ה אָנֹכִ֗י _נֹגֵ֛ף_ אֶת־כָּל־גְּבוּלְךָ֖ בַּֽצְפַרְדְּעִֽים׃ (Exod. 7:27)
+NIV	If you refuse to let them go, I _will plague_ your whole country with frogs.
+ESV	But if you refuse to let them go, behold, I _will plague_ all your country with frogs.
+
+(x)	כִּ֣י׀ בַּפַּ֣עַם הַזֹּ֗את אֲנִ֨י _שֹׁלֵ֜חַ_ אֶת־כָּל־מַגֵּפֹתַי֙ אֶֽל־לִבְּךָ֔ וּבַעֲבָדֶ֖יךָ וּבְעַמֶּ֑ךָ בַּעֲב֣וּר תֵּדַ֔ע כִּ֛י אֵ֥ין כָּמֹ֖נִי בְּכָל־הָאָֽרֶץ׃ (Exod. 9:14)
+NIV	or this time I _will send_ the full force of my plagues against you and against your officials and your people, so you may know that there is no one like me in all the earth.
+ESV	For this time I _will send_ all my plagues on you yourself, and on your servants and your people, so that you may know that there is none like me in all the earth.
+
+(x)	וַיֹּ֣אמֶר מֹשֶׁ֔ה כֹּ֖ה אָמַ֣ר יְהוָ֑ה כַּחֲצֹ֣ת הַלַּ֔יְלָה אֲנִ֥י _יֹוצֵ֖א_ בְּתֹ֥וךְ מִצְרָֽיִם׃ (Exod. 11:4)
+NIV	So Moses said, “This is what the LORD says: ‘About midnight I _will go_ throughout Egypt.
+ESV	So Moses said, “Thus says the Lord: About midnight I _will go out_ in the midst of Egypt,
+
+(x)	הִנְנִ֣י _עֹמֵד֩_ לְפָנֶ֨יךָ שָּׁ֥ם׀ עַֽל־הַצּוּר֮ בְּחֹרֵב֒ וְהִכִּ֣יתָ בַצּ֗וּר וְיָצְא֥וּ מִמֶּ֛נּוּ מַ֖יִם וְשָׁתָ֣ה הָעָ֑ם וַיַּ֤עַשׂ כֵּן֙ מֹשֶׁ֔ה לְעֵינֵ֖י זִקְנֵ֥י יִשְׂרָאֵֽל׃ (Exod. 17:6)
+NIV	I _will stand_ there before you by the rock at Horeb. Strike the rock, and water will come out of it for the people to drink.” So Moses did this in the sight of the elders of Israel.
+ESV	Behold, I _will stand_ before you there on the rock at Horeb, and you shall strike the rock, and water shall come out of it, and the people will drink.” And Moses did so, in the sight of the elders of Israel.
+
+(x)	שְׁמָ֨ר־לְךָ֔ אֵ֛ת אֲשֶׁ֥ר אָנֹכִ֖י מְצַוְּךָ֣ הַיֹּ֑ום הִנְנִ֧י _גֹרֵ֣שׁ_ מִפָּנֶ֗יךָ אֶת־הָאֱמֹרִי֙ וְהַֽכְּנַעֲנִ֔י וְהַחִתִּי֙ וְהַפְּרִזִּ֔י וְהַחִוִּ֖י וְהַיְבוּסִֽי׃ (Exod. 34:11)
+NIV	Obey what I command you today. I _will drive out_ before you the Amorites, Canaanites, Hittites, Perizzites, Hivites and Jebusites.
+ESV	“Observe what I command you this day. Behold, I _will drive out_ before you the Amorites, the Canaanites, the Hittites, the Perizzites, the Hivites, and the Jebusites.
+
+(x)	וַיֹּ֨אמֶר יְהוָ֣ה אֶל־יְהֹושֻׁעַ֮ אַל־תִּירָ֣א מִפְּנֵיהֶם֒ כִּֽי־מָחָ֞ר כָּעֵ֣ת הַזֹּ֗את אָנֹכִ֞י _נֹתֵ֧ן_ אֶת־כֻּלָּ֛ם חֲלָלִ֖ים לִפְנֵ֣י יִשְׂרָאֵ֑ל אֶת־סוּסֵיהֶ֣ם תְּעַקֵּ֔ר וְאֶת־מַרְכְּבֹתֵיהֶ֖ם תִּשְׂרֹ֥ף בָּאֵֽשׁ׃ (Josh. 11:6)
+NIV	The LORD said to Joshua, “Do not be afraid of them, because by this time tomorrow I _will hand_ all of them over to Israel, slain. You are to hamstring their horses and burn their chariots.”
+ESV	And the Lord said to Joshua, “Do not be afraid of them, for tomorrow at this time I _will give over_ all of them, slain, to Israel. You shall hamstring their horses and burn their chariots with fire.”
+
+(x)	לְמַ֛עַן נַסֹּ֥ות בָּ֖ם אֶת־יִשְׂרָאֵ֑ל הֲ_שֹׁמְרִ֣ים_ הֵם֩ אֶת־דֶּ֨רֶךְ יְהוָ֜ה לָלֶ֣כֶת בָּ֗ם כַּאֲשֶׁ֛ר שָׁמְר֥וּ אֲבֹותָ֖ם אִם־לֹֽא׃ (Judg. 2:22)
+NIV	I will use them to test Israel and see whether they _will keep_ the way of the LORD and walk in it as their forefathers did.”
+ESV	in order to test Israel by them, whether they _will take care_ to walk in the way of the Lord as their fathers did, or not.”
+
+(x)	וַיֹּ֨אמֶר יְהוָ֜ה אֶל־שְׁמוּאֵ֗ל עַד־מָתַי֙ אַתָּה֙ _מִתְאַבֵּ֣ל_ אֶל־שָׁא֔וּל וַאֲנִ֣י מְאַסְתִּ֔יו מִמְּלֹ֖ךְ עַל־יִשְׂרָאֵ֑ל מַלֵּ֨א קַרְנְךָ֜ שֶׁ֗מֶן וְלֵ֤ךְ אֶֽשְׁלָחֲךָ֙ אֶל־יִשַׁ֣י בֵּֽית־הַלַּחְמִ֔י כִּֽי־רָאִ֧יתִי בְּבָנָ֛יו לִ֖י מֶֽלֶךְ׃ (I Sam. 16:1)
+NIV	The LORD said to Samuel, “How long will you mourn for Saul, since I have rejected him as king over Israel? Fill your horn with oil and be on your way. I am sending you to Jesse of Bethlehem. I have chosen one of his sons to be king.”
+ESV	The Lord said to Samuel, “How long will you grieve over Saul, since I have rejected him from being king over Israel? Fill your horn with oil, and go. I will send you to Jesse the Bethlehemite, for I have provided for myself a king among his sons.”
+
+(x)	רְאוּ֙ אָנֹכִ֣י _מִתְמַהְמֵ֔הַּ_ בְּעַֽרְבֹ֖ות הַמִּדְבָּ֑ר עַ֣ד בֹּ֥וא דָבָ֛ר מֵעִמָּכֶ֖ם לְהַגִּ֥יד לִֽי׃ (II Sam. 15:28)
+NIV	I _will wait_ at the fords in the desert until word comes from you to inform me.”
+ESV	See, I _will wait_ at the fords of the wilderness until word comes from you to inform me.”
+
+(x)	וְהִנֵּ֣ה׀ נָבִ֣יא אֶחָ֗ד נִגַּשׁ֮ אֶל־אַחְאָ֣ב מֶֽלֶךְ־יִשְׂרָאֵל֒ וַיֹּ֗אמֶר כֹּ֚ה אָמַ֣ר יְהוָ֔ה הְֽרָאִ֔יתָ אֵ֛ת כָּל־הֶהָמֹ֥ון הַגָּדֹ֖ול הַזֶּ֑ה הִנְנִ֨י _נֹתְנֹ֤ו_ בְיָֽדְךָ֙ הַיֹּ֔ום וְיָדַעְתָּ֖ כִּֽי־אֲנִ֥י יְהוָֽה׃ (I Kgs. 20:13)
+NIV	Meanwhile a prophet came to Ahab king of Israel and announced, “This is what the LORD says: ‘Do you see this vast army? I _will give_ it into your hand today, and then you will know that I am the LORD.’”
+ESV	And behold, a prophet came near to Ahab king of Israel and said, “Thus says the Lord, Have you seen all this great multitude? Behold, I _will give_ it into your hand this day, and you shall know that I am the Lord.”
+
+(x)	וַאֲנִ֗י הִנְנִ֤י _יֹשֵׁב֙_ בַּמִּצְפָּ֔ה לַֽעֲמֹד֙ לִפְנֵ֣י הַכַּשְׂדִּ֔ים אֲשֶׁ֥ר יָבֹ֖אוּ אֵלֵ֑ינוּ וְאַתֶּ֡ם אִסְפוּ֩ יַ֨יִן וְקַ֜יִץ וְשֶׁ֗מֶן וְשִׂ֨מוּ֙ בִּכְלֵיכֶ֔ם וּשְׁב֖וּ בְּעָרֵיכֶ֥ם אֲשֶׁר־תְּפַשְׂתֶּֽם׃ (Jer. 40:10)
+NIV	I myself _will stay_ in Mizpah to represent you before the Babylonians who come to us, but you are to harvest the wine, summer fruit and oil, and put them in your storage jars, and live in the towns you have taken over.”
+ESV	As for me, I _will dwell_ at Mizpah, to represent you before the Chaldeans who will come to us. But as for you, gather wine and summer fruits and oil, and store them in your vessels, and dwell in your cities that you have taken.”
+
+(x)	וְ֠יֵֽאָמֵן וְיִגְדַּ֨ל שִׁמְךָ֤ עַד־עֹולָם֙ לֵאמֹ֔ר יְהוָ֤ה צְבָאֹות֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל אֱלֹהִ֖ים לְיִשְׂרָאֵ֑ל וּבֵית־דָּוִ֥יד עַבְדְּךָ֖ _נָכֹ֥ון_ לְפָנֶֽיךָ׃ (I Chr. 17:24)
+NIV	so that it _will be established_ and that your name will be great forever. Then men will say, ‘The LORD Almighty, the God over Israel, is Israel’s God!’ And the house of your servant David _will be established_ before you.
+ESV	and your name _will be established_ and magnified forever, saying, ‘The Lord of hosts, the God of Israel, is Israel’s God,’ and the house of your servant David _will be established_ before you.

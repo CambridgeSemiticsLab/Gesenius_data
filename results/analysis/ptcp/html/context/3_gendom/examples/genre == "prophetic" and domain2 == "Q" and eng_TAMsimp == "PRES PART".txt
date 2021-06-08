@@ -1,0 +1,62 @@
+genre == "prophetic" and domain2 == "Q" and eng_TAMsimp == "PRES PART"
+15 of 43
+
+(x)	כִּ֣י אִם־יִהְיֶ֞ה עַמְּךָ֤ יִשְׂרָאֵל֙ כְּחֹ֣ול הַיָּ֔ם שְׁאָ֖ר יָשׁ֣וּב בֹּ֑ו כִּלָּיֹ֥ון חָר֖וּץ _שֹׁוטֵ֥ף_ צְדָקָֽה׃ (Isa. 10:22)
+NIV	Though your people, O Israel, be like the sand by the sea, only a remnant will return. Destruction has been decreed, _overwhelming_ and righteous.
+ESV	For though your people Israel be as the sand of the sea, only a remnant of them will return. Destruction is decreed, _overflowing_ with righteousness.
+
+(x)	מִֽי־פָעַ֣ל וְעָשָׂ֔ה _קֹרֵ֥א_ הַדֹּרֹ֖ות מֵרֹ֑אשׁ אֲנִ֤י יְהוָה֙ רִאשֹׁ֔ון וְאֶת־אַחֲרֹנִ֖ים אֲנִי־הֽוּא׃ (Isa. 41:4)
+NIV	Who has done this and carried it through, _calling forth_ the generations from the beginning? I, the LORD — with the first of them and with the last — I am he.”
+ESV	Who has performed and done this, _calling_ the generations from the beginning? I, the Lord, the first, and with the last. I am he.
+
+(x)	מִי־זֶ֣ה׀ בָּ֣א מֵאֱדֹ֗ום חֲמ֤וּץ בְּגָדִים֙ מִבָּצְרָ֔ה זֶ֚ה הָד֣וּר בִּלְבוּשֹׁ֔ו צֹעֶ֖ה בְּרֹ֣ב כֹּחֹ֑ו אֲנִ֛י _מְדַבֵּ֥ר_ בִּצְדָקָ֖ה רַ֥ב לְהֹושִֽׁיעַ׃ (Isa. 63:1)
+NIV	Who is this coming from Edom, from Bozrah, with his garments stained crimson? Who is this, robed in splendour, striding forward in the greatness of his strength? “It is I, _speaking_ in righteousness, mighty to save.”
+ESV	Who is this who comes from Edom, in crimsoned garments from Bozrah, he who is splendid in his apparel, marching in the greatness of his strength? “It is I, _speaking_ in righteousness, mighty to save.”
+
+(x)	וְהָיָ֥ה טֶֽרֶם־יִקְרָ֖אוּ וַאֲנִ֣י אֶעֱנֶ֑ה עֹ֛וד הֵ֥ם _מְדַבְּרִ֖ים_ וַאֲנִ֥י אֶשְׁמָֽע׃ (Isa. 65:24)
+NIV	Before they call I will answer. while they are still speaking I will hear.
+ESV	Before they call I will answer. while they are yet speaking I will hear.
+
+(x)	הִקְשַׁ֤בְתִּי וָֽאֶשְׁמָע֙ לֹוא־כֵ֣ן יְדַבֵּ֔רוּ אֵ֣ין אִ֗ישׁ נִחָם֙ עַל־רָ֣עָתֹ֔ו לֵאמֹ֖ר מֶ֣ה עָשִׂ֑יתִי כֻּלֹּ֗ה שָׁ֚ב בִּמְר֣וּצָתָ֔ם כְּס֥וּס _שֹׁוטֵ֖ף_ בַּמִּלְחָמָֽה׃ (Jer. 8:6)
+NIV	I have listened attentively, but they do not say what is right. No-one repents of his wickedness, saying, “What have I done?” Each pursues his own course like a horse _charging_ into battle.
+ESV	I have paid attention and listened, but they have not spoken rightly. no man relents of his evil, saying, ‘What have I done?’ Everyone turns to his own course, like a horse _plunging headlong_ into battle.
+
+(x)	וְעַתָּ֡ה אֱמָר־נָ֣א אֶל־אִישׁ־יְהוּדָה֩ וְעַל־יֹושְׁבֵ֨י יְרוּשָׁלִַ֜ם לֵאמֹ֗ר כֹּ֚ה אָמַ֣ר יְהוָ֔ה הִנֵּ֨ה אָנֹכִ֜י יֹוצֵ֤ר עֲלֵיכֶם֙ רָעָ֔ה וְ_חֹשֵׁ֥ב_ עֲלֵיכֶ֖ם מַֽחֲשָׁבָ֑ה שׁ֣וּבוּ נָ֗א אִ֚ישׁ מִדַּרְכֹּ֣ו הָֽרָעָ֔ה וְהֵיטִ֥יבוּ דַרְכֵיכֶ֖ם וּמַעַלְלֵיכֶֽם׃ (Jer. 18:11)
+NIV	“Now therefore say to the people of Judah and those living in Jerusalem, ‘This is what the LORD says: Look! I am preparing a disaster for you and _devising_ a plan against you. So turn from your evil ways, each one of you, and reform your ways and your actions.’
+ESV	Now, therefore, say to the men of Judah and the inhabitants of Jerusalem: ‘Thus says the Lord, Behold, I am shaping disaster against you and _devising_ a plan against you. Return, every one from his evil way, and amend your ways and your deeds.’
+
+(x)	וַיֹּ֨אמֶר יִרְמְיָ֜הוּ שֶׁ֗קֶר אֵינֶ֤נִּי _נֹפֵל֙_ עַל־הַכַּשְׂדִּ֔ים וְלֹ֥א שָׁמַ֖ע אֵלָ֑יו וַיִּתְפֹּ֤שׂ יִרְאִיָּיה֙ בְּיִרְמְיָ֔הוּ וַיְבִאֵ֖הוּ אֶל־הַשָּׂרִֽים׃ (Jer. 37:14)
+NIV	“That’s not true!” Jeremiah said. “I am not deserting to the Babylonians.” But Irijah would not listen to him. instead, he arrested Jeremiah and brought him to the officials.
+ESV	And Jeremiah said, “It is a lie. I am not deserting to the Chaldeans.” But Irijah would not listen to him, and seized Jeremiah and brought him to the officials.
+
+(x)	בֶּן־אָדָ֕ם הֲלֹ֨א אָמְר֥וּ אֵלֶ֛יךָ בֵּ֥ית יִשְׂרָאֵ֖ל בֵּ֣ית הַמֶּ֑רִי מָ֖ה אַתָּ֥ה _עֹשֶֽׂה_׃ (Ezek. 12:9)
+NIV	“Son of man, did not that rebellious house of Israel ask you, ‘What are you doing?’
+ESV	“Son of man, has not the house of Israel, the rebellious house, said to you, ‘What are you doing?’
+
+(x)	מַה־לָּכֶ֗ם אַתֶּם֙ _מֹֽשְׁלִים֙_ אֶת־הַמָּשָׁ֣ל הַזֶּ֔ה עַל־אַדְמַ֥ת יִשְׂרָאֵ֖ל לֵאמֹ֑ר אָבֹות֙ יֹ֣אכְלוּ בֹ֔סֶר וְשִׁנֵּ֥י הַבָּנִ֖ים תִּקְהֶֽינָה׃ (Ezek. 18:2)
+NIV	“What do you people mean by quoting this proverb about the land of Israel: “‘The fathers eat sour grapes, and the children’s teeth are set on edge’?
+ESV	“What do you mean by repeating this proverb concerning the land of Israel, ‘The fathers have eaten sour grapes, and the children’s teeth are set on edge’?
+
+(x)	וְרָאָ֥ה אֶת־הַחֶ֖רֶב _בָּאָ֣ה_ עַל־הָאָ֑רֶץ וְתָקַ֥ע בַּשֹּׁופָ֖ר וְהִזְהִ֥יר אֶת־הָעָֽם׃ (Ezek. 33:3)
+NIV	and he sees the sword _coming_ against the land and blows the trumpet to warn the people,
+ESV	and if he sees the sword _coming_ upon the land and blows the trumpet and warns the people,
+
+(x)	כִּֽי־הֵ֨מָּה֙ עָל֣וּ אַשּׁ֔וּר פֶּ֖רֶא _בֹּודֵ֣ד_ לֹ֑ו אֶפְרַ֖יִם הִתְנ֥וּ אֲהָבִֽים׃ (Hos. 8:9)
+NIV	For they have gone up to Assyria like a wild donkey _wandering alone_. Ephraim has sold herself to lovers.
+ESV	For they have gone up to Assyria, a wild donkey _wandering alone_. Ephraim has hired lovers.
+
+(x)	וְ֠גַם מָה־אַתֶּ֥ם לִי֙ צֹ֣ר וְצִידֹ֔ון וְכֹ֖ל גְּלִילֹ֣ות פְּלָ֑שֶׁת הַגְּמ֗וּל אַתֶּם֙ _מְשַׁלְּמִ֣ים_ עָלָ֔י וְאִם־גֹּמְלִ֤ים אַתֶּם֙ עָלַ֔י קַ֣ל מְהֵרָ֔ה אָשִׁ֥יב גְּמֻלְכֶ֖ם בְּרֹאשְׁכֶֽם׃ (Joel 4:4)
+NIV	“Now what have you against me, O Tyre and Sidon and all you regions of Philistia? Are you repaying me for something I have done? If you are paying me back, I will swiftly and speedily return on your own heads what you have done.
+ESV	“What are you to me, O Tyre and Sidon, and all the regions of Philistia? Are you paying me back for something? If you are paying me back, I will return your payment on your own head swiftly and speedily.
+
+(x)	וָאֹמַ֕ר מָ֛ה אֵ֥לֶּה _בָאִ֖ים_ לַֽעֲשֹׂ֑ות וַיֹּ֣אמֶר לֵאמֹ֗ר אֵ֣לֶּה הַקְּרָנֹ֞ות אֲשֶׁר־זֵ֣רוּ אֶת־יְהוּדָ֗ה כְּפִי־אִישׁ֙ לֹא־נָשָׂ֣א רֹאשֹׁ֔ו וַיָּבֹ֤אוּ אֵ֨לֶּה֙ לְהַחֲרִ֣יד אֹתָ֔ם לְיַדֹּ֞ות אֶת־קַרְנֹ֣ות הַגֹּויִ֗ם הַנֹּשְׂאִ֥ים קֶ֛רֶן אֶל־אֶ֥רֶץ יְהוּדָ֖ה לְזָרֹותָֽהּ׃ ס (Zech. 2:4)
+NIV	I asked, “What are these coming to do?” He answered, “These are the horns that scattered Judah so that no-one could raise his head, but the craftsmen have come to terrify them and throw down these horns of the nations who lifted up their horns against the land of Judah to scatter its people.”
+ESV	And I said, “What are these coming to do?” He said, “These are the horns that scattered Judah, so that no one raised his head. And these have come to terrify them, to cast down the horns of the nations who lifted up their horns against the land of Judah to scatter it.”
+
+(x)	וַיַּ֥עַן הַמַּלְאָ֖ךְ וַיֹּ֣אמֶר אֵלָ֑י אֵ֗לֶּה אַרְבַּע֙ רֻחֹ֣ות הַשָּׁמַ֔יִם _יֹוצְאֹ֕ות_ מֵֽהִתְיַצֵּ֖ב עַל־אֲדֹ֥ון כָּל־הָאָֽרֶץ׃ (Zech. 6:5)
+NIV	The angel answered me, “These are the four spirits of heaven, _going out_ from standing in the presence of the Lord of the whole world.
+ESV	And the angel answered and said to me, “These _are going out_ to the four winds of heaven, after presenting themselves before the Lord of all the earth.
+
+(x)	וְזֹ֣את׀ תִּֽהְיֶ֣ה הַמַּגֵּפָ֗ה אֲשֶׁ֨ר יִגֹּ֤ף יְהוָה֙ אֶת־כָּל־הָ֣עַמִּ֔ים אֲשֶׁ֥ר צָבְא֖וּ עַל־יְרוּשָׁלִָ֑ם הָמֵ֣ק׀ בְּשָׂרֹ֗ו וְהוּא֙ _עֹמֵ֣ד_ עַל־רַגְלָ֔יו וְעֵינָיו֙ תִּמַּ֣קְנָה בְחֹֽרֵיהֶ֔ן וּלְשֹׁונֹ֖ו תִּמַּ֥ק בְּפִיהֶֽם׃ (Zech. 14:12)
+NIV	This is the plague with which the LORD will strike all the nations that fought against Jerusalem: Their flesh will rot while they are still standing on their feet, their eyes will rot in their sockets, and their tongues will rot in their mouths.
+ESV	And this shall be the plague with which the Lord will strike all the peoples that wage war against Jerusalem: their flesh will rot while they are still standing on their feet, their eyes will rot in their sockets, and their tongues will rot in their mouths.

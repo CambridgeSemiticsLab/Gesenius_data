@@ -1,0 +1,62 @@
+genre == "prose" and domain2 == "Q" and eng_TAMsimp == "PRES PROG"
+15 of 90
+
+(x)	הֲלֹ֤וא אִם־תֵּיטִיב֙ שְׂאֵ֔ת וְאִם֙ לֹ֣א תֵיטִ֔יב לַפֶּ֖תַח חַטָּ֣את _רֹבֵ֑ץ_ וְאֵלֶ֨יךָ֙ תְּשׁ֣וּקָתֹ֔ו וְאַתָּ֖ה תִּמְשָׁל־בֹּֽו׃ (Gen. 4:7)
+NIV	If you do what is right, will you not be accepted? But if you do not do what is right, sin _is crouching_ at your door. it desires to have you, but you must master it.”
+ESV	If you do well, will you not be accepted? And if you do not do well, sin _is crouching_ at the door. Its desire is for you, but you must rule over it.”
+
+(x)	וַיֹּ֨אמֶר֙ אֶל־מֹשֶׁ֔ה אֲנִ֛י חֹתֶנְךָ֥ יִתְרֹ֖ו _בָּ֣א_ אֵלֶ֑יךָ וְאִ֨שְׁתְּךָ֔ וּשְׁנֵ֥י בָנֶ֖יהָ עִמָּֽהּ׃ (Exod. 18:6)
+NIV	Jethro had sent word to him, “I, your father-in-law Jethro, _am coming_ to you with your wife and her two sons.”
+ESV	And when he sent word to Moses, “I, your father-in-law Jethro, _am coming_ to you with your wife and her two sons with her,”
+
+(x)	שְׁלַח־לְךָ֣ אֲנָשִׁ֗ים וְיָתֻ֨רוּ֙ אֶת־אֶ֣רֶץ כְּנַ֔עַן אֲשֶׁר־אֲנִ֥י _נֹתֵ֖ן_ לִבְנֵ֣י יִשְׂרָאֵ֑ל אִ֣ישׁ אֶחָד֩ אִ֨ישׁ אֶחָ֜ד לְמַטֵּ֤ה אֲבֹתָיו֙ תִּשְׁלָ֔חוּ כֹּ֖ל נָשִׂ֥יא בָהֶֽם׃ (Num. 13:2)
+NIV	“Send some men to explore the land of Canaan, which I _am giving_ to the Israelites. From each ancestral tribe send one of its leaders.”
+ESV	“Send men to spy out the land of Canaan, which I _am giving_ to the people of Israel. From each tribe of their fathers you shall send a man, every one a chief among them.”
+
+(x)	וְאַתָּ֗ה פֹּה֮ עֲמֹ֣ד עִמָּדִי֒ וַאֲדַבְּרָ֣ה אֵלֶ֗יךָ אֵ֧ת כָּל־הַמִּצְוָ֛ה וְהַחֻקִּ֥ים וְהַמִּשְׁפָּטִ֖ים אֲשֶׁ֣ר תְּלַמְּדֵ֑ם וְעָשׂ֣וּ בָאָ֔רֶץ אֲשֶׁ֧ר אָנֹכִ֛י _נֹתֵ֥ן_ לָהֶ֖ם לְרִשְׁתָּֽהּ׃ (Deut. 5:31)
+NIV	But you stay here with me so that I may give you all the commands, decrees and laws that you are to teach them to follow in the land I _am giving_ them to possess.”
+ESV	But you, stand here by me, and I will tell you the whole commandment and the statutes and the rules that you shall teach them, that they may do them in the land that I _am giving_ them to possess.’
+
+(x)	רְאֵ֗ה אָנֹכִ֛י _נֹתֵ֥ן_ לִפְנֵיכֶ֖ם הַיֹּ֑ום בְּרָכָ֖ה וּקְלָלָֽה׃ (Deut. 11:26)
+NIV	See, I _am setting_ before you today a blessing and a curse —
+ESV	“See, I _am setting_ before you today a blessing and a curse:
+
+(x)	וְהָיָ֗ה בַּיֹּום֮ אֲשֶׁ֣ר תַּעַבְר֣וּ אֶת־הַיַּרְדֵּן֒ אֶל־הָאָ֕רֶץ אֲשֶׁר־יְהוָ֥ה אֱלֹהֶ֖יךָ _נֹתֵ֣ן_ לָ֑ךְ וַהֲקֵמֹתָ֤ לְךָ֙ אֲבָנִ֣ים גְּדֹלֹ֔ות וְשַׂדְתָּ֥ אֹתָ֖ם בַּשִּֽׂיד׃ (Deut. 27:2)
+NIV	When you have crossed the Jordan into the land the LORD your God _is giving_ you, set up some large stones and coat them with plaster.
+ESV	And on the day you cross over the Jordan to the land that the Lord your God _is giving_ you, you shall set up large stones and plaster them with plaster.
+
+(x)	וְלֹ֥א אִתְּכֶ֖ם לְבַדְּכֶ֑ם אָנֹכִ֗י _כֹּרֵת֙_ אֶת־הַבְּרִ֣ית הַזֹּ֔את וְאֶת־הָאָלָ֖ה הַזֹּֽאת׃ (Deut. 29:13)
+NIV	I _am making_ this covenant, with its oath, not only with you
+ESV	It is not with you alone that I _am making_ this sworn covenant,
+
+(x)	עִבְר֣וּ׀ בְּקֶ֣רֶב הַֽמַּחֲנֶ֗ה וְצַוּ֤וּ אֶת־הָעָם֙ לֵאמֹ֔ר הָכִ֥ינוּ לָכֶ֖ם צֵידָ֑ה כִּ֞י בְּעֹ֣וד׀ שְׁלֹ֣שֶׁת יָמִ֗ים אַתֶּם֙ עֹֽבְרִים֙ אֶת־הַיַּרְדֵּ֣ן הַזֶּ֔ה לָבֹוא֙ לָרֶ֣שֶׁת אֶת־הָאָ֔רֶץ אֲשֶׁר֙ יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם _נֹתֵ֥ן_ לָכֶ֖ם לְרִשְׁתָּֽהּ׃ ס (Josh. 1:11)
+NIV	“Go through the camp and tell the people, ‘Get your supplies ready. Three days from now you will cross the Jordan here to go in and take possession of the land the LORD your God _is giving_ you for your own.’”
+ESV	“Pass through the midst of the camp and command the people, ‘Prepare your provisions, for within three days you are to pass over this Jordan to go in to take possession of the land that the Lord your God _is giving_ you to possess.’”
+
+(x)	וַיַּרְא־גַּעַל֮ אֶת־הָעָם֒ וַיֹּ֣אמֶר אֶל־זְבֻ֔ל הִנֵּה־עָ֣ם _יֹורֵ֔ד_ מֵרָאשֵׁ֖י הֶהָרִ֑ים וַיֹּ֤אמֶר אֵלָיו֙ זְבֻ֔ל אֵ֣ת צֵ֧ל הֶהָרִ֛ים אַתָּ֥ה רֹאֶ֖ה כָּאֲנָשִֽׁים׃ ס (Judg. 9:36)
+NIV	When Gaal saw them, he said to Zebul, “Look, people _are coming down_ from the tops of the mountains!” Zebul replied, “You mistake the shadows of the mountains for men.”
+ESV	And when Gaal saw the people, he said to Zebul, “Look, people _are coming down_ from the mountaintops!” And Zebul said to him, “You mistake the shadow of the mountains for men.”
+
+(x)	וַיַּגִּ֥דוּ לְדָוִ֖ד לֵאמֹ֑ר הִנֵּ֤ה פְלִשְׁתִּים֙ _נִלְחָמִ֣ים_ בִּקְעִילָ֔ה וְהֵ֖מָּה שֹׁסִ֥ים אֶת־הַגֳּרָנֹֽות׃ (I Sam. 23:1)
+NIV	When David was told, “Look, the Philistines _are fighting_ against Keilah and are looting the threshing-floors,”
+ESV	Now they told David, “Behold, the Philistines _are fighting_ against Keilah and are robbing the threshing floors.”
+
+(x)	וַיָּ֥קָם הַמֶּ֖לֶךְ וַיֵּ֣שֶׁב בַּשָּׁ֑עַר וּֽלְכָל־הָעָ֞ם הִגִּ֣ידוּ לֵאמֹ֗ר הִנֵּ֤ה הַמֶּ֨לֶךְ֙ _יֹושֵׁ֣ב_ בַּשַּׁ֔עַר וַיָּבֹ֤א כָל־הָעָם֙ לִפְנֵ֣י הַמֶּ֔לֶךְ וְיִשְׂרָאֵ֔ל נָ֖ס אִ֥ישׁ לְאֹהָלָֽיו׃ ס (II Sam. 19:9)
+NIV	So the king got up and took his seat in the gateway. When the men were told, “The king _is sitting_ in the gateway,” they all came before him. Meanwhile, the Israelites had fled to their homes.
+ESV	Then the king arose and took his seat in the gate. And the people were all told, “Behold, the king _is sitting_ in the gate.” And all the people came before the king. Now Israel had fled every man to his own home.
+
+(x)	וַיֹּאמְר֨וּ אֵלָ֜יו אִ֣ישׁ׀ עָלָ֣ה לִקְרָאתֵ֗נוּ וַיֹּ֣אמֶר אֵלֵינוּ֮ לְכ֣וּ שׁוּבוּ֮ אֶל־הַמֶּ֣לֶךְ אֲשֶׁר־שָׁלַ֣ח אֶתְכֶם֒ וְדִבַּרְתֶּ֣ם אֵלָ֗יו כֹּ֚ה אָמַ֣ר יְהוָ֔ה הַֽמִבְּלִ֤י אֵין־אֱלֹהִים֙ בְּיִשְׂרָאֵ֔ל אַתָּ֣ה _שֹׁלֵ֔חַ_ לִדְרֹ֕שׁ בְּבַ֥עַל זְב֖וּב אֱלֹהֵ֣י עֶקְרֹ֑ון לָ֠כֵן הַמִּטָּ֞ה אֲשֶׁר־עָלִ֥יתָ שָּׁ֛ם לֹֽא־תֵרֵ֥ד מִמֶּ֖נָּה כִּֽי־מֹ֥ות תָּמֽוּת׃ (II Kgs. 1:6)
+NIV	“A man came to meet us,” they replied. “And he said to us, ‘Go back to the king who sent you and tell him, “This is what the LORD says: Is it because there is no God in Israel that you _are sending_ men to consult Baal-zebub, the god of Ekron? Therefore you will not leave the bed you are lying on. You will certainly die!”’”
+ESV	And they said to him, “There came a man to meet us, and said to us, ‘Go back to the king who sent you, and say to him, Thus says the Lord, Is it because there is no God in Israel that you _are sending_ to inquire of Baal-zebub, the god of Ekron? Therefore you shall not come down from the bed to which you have gone up, but you shall surely die.’”
+
+(x)	וְטֹובִיָּ֥ה הָעַמֹּנִ֖י אֶצְלֹ֑ו וַיֹּ֗אמֶר גַּ֚ם אֲשֶׁר־הֵ֣ם _בֹּונִ֔ים_ אִם־יַעֲלֶ֣ה שׁוּעָ֔ל וּפָרַ֖ץ חֹומַ֥ת אַבְנֵיהֶֽם׃ פ (Neh. 3:35)
+NIV	Tobiah the Ammonite, who was at his side, said, “What they _are building_ — if even a fox climbed up on it, he would break down their wall of stones!”
+ESV	Tobiah the Ammonite was beside him, and he said, “Yes, what they _are building_ — if a fox goes up on it he will break down their stone wall!”
+
+(x)	וַאֲנִי־בָ֗אתִי בֵּ֣ית שְֽׁמַֽעְיָ֧ה בֶן־דְּלָיָ֛ה בֶּן־מְהֵֽיטַבְאֵ֖ל וְה֣וּא עָצ֑וּר וַיֹּ֡אמֶר נִוָּעֵד֩ אֶל־בֵּ֨ית הָאֱלֹהִ֜ים אֶל־תֹּ֣וךְ הַֽהֵיכָ֗ל וְנִסְגְּרָה֙ דַּלְתֹ֣ות הַהֵיכָ֔ל כִּ֚י _בָּאִ֣ים_ לְהָרְגֶ֔ךָ וְלַ֖יְלָה בָּאִ֥ים לְהָרְגֶֽךָ׃ (Neh. 6:10)
+NIV	One day I went to the house of Shemaiah son of Delaiah, the son of Mehetabel, who was shut in at his home. He said, “Let us meet in the house of God, inside the temple, and let us close the temple doors, because men _are coming_ to kill you — by night they _are coming_ to kill you.”
+ESV	Now when I went into the house of Shemaiah the son of Delaiah, son of Mehetabel, who was confined to his home, he said, “Let us meet together in the house of God, within the temple. Let us close the doors of the temple, for they _are coming_ to kill you. They _are coming_ to kill you by night.”
+
+(x)	וַיָּבֵ֨א שָׁפָ֤ן אֶת־הַסֵּ֨פֶר֙ אֶל־הַמֶּ֔לֶךְ וַיָּ֨שֶׁב עֹ֧וד אֶת־הַמֶּ֛לֶךְ דָּבָ֖ר לֵאמֹ֑ר כֹּ֛ל אֲשֶׁר־נִתַּ֥ן בְּיַד־עֲבָדֶ֖יךָ הֵ֥ם _עֹשִֽׂים_׃ (II Chr. 34:16)
+NIV	Then Shaphan took the book to the king and reported to him: “Your officials _are doing_ everything that has been committed to them.
+ESV	Shaphan brought the book to the king, and further reported to the king, “All that was committed to your servants they _are doing_.

@@ -1,0 +1,102 @@
+eng_TAMsimp.str.match("MOD may|MOD was to|MOD is to|MOD let|MOD must")
+25 of 62
+
+(x)	וַיֹּ֣אמֶר אֱלֹהִ֔ים יְהִ֥י רָקִ֖יעַ בְּתֹ֣וךְ הַמָּ֑יִם וִיהִ֣י _מַבְדִּ֔יל_ בֵּ֥ין מַ֖יִם לָמָֽיִם׃ (Gen. 1:6)
+NIV	And God said, “Let there be an expanse between the waters to _separate_ water from water.”
+ESV	And God said, “Let there be an expanse in the midst of the waters, and let it _separate_ the waters from the waters.”
+
+(x)	וַיְלַקֵּ֣ט יֹוסֵ֗ף אֶת־כָּל־הַכֶּ֨סֶף֙ הַ_נִּמְצָ֤א_ בְאֶֽרֶץ־מִצְרַ֨יִם֙ וּבְאֶ֣רֶץ כְּנַ֔עַן בַּשֶּׁ֖בֶר אֲשֶׁר־הֵ֣ם שֹׁבְרִ֑ים וַיָּבֵ֥א יֹוסֵ֛ף אֶת־הַכֶּ֖סֶף בֵּ֥יתָה פַרְעֹֽה׃ (Gen. 47:14)
+NIV	Joseph collected all the money _that was to be found_ in Egypt and Canaan in payment for the grain they were buying, and he brought it to Pharaoh’s palace.
+ESV	And Joseph gathered up all the money _that was found_ in the land of Egypt and in the land of Canaan, in exchange for the grain that they bought. And Joseph brought the money into Pharaoh’s house.
+
+(x)	וְהַבְּרִ֥יחַ הַתִּיכֹ֖ן בְּתֹ֣וךְ הַקְּרָשִׁ֑ים _מַבְרִ֕חַ_ מִן־הַקָּצֶ֖ה אֶל־הַקָּצֶֽה׃ (Exod. 26:28)
+NIV	The center crossbar _is to extend_ from end to end at the middle of the frames.
+ESV	The middle bar, halfway up the frames, _shall run_ from end to end.
+
+(x)	לְהַבְדִּ֕יל בֵּ֥ין הַטָּמֵ֖א וּבֵ֣ין הַטָּהֹ֑ר וּבֵ֤ין הַֽחַיָּה֙ הַֽ_נֶּאֱכֶ֔לֶת_ וּבֵין֙ הַֽחַיָּ֔ה אֲשֶׁ֖ר לֹ֥א תֵאָכֵֽל׃ פ (Lev. 11:47)
+NIV	You must distinguish between the unclean and the clean, between living creatures _that may be eaten_ and those that may not be eaten.’”
+ESV	to make a distinction between the unclean and the clean and between the living creature _that may be eaten_ and the living creature that may not be eaten.
+
+(x)	כִּי֩ _נְתֻנִ֨ים_ נְתֻנִ֥ים הֵ֨מָּה֙ לִ֔י מִתֹּ֖וךְ בְּנֵ֣י יִשְׂרָאֵ֑ל תַּחַת֩ פִּטְרַ֨ת כָּל־רֶ֜חֶם בְּכֹ֥ור כֹּל֙ מִבְּנֵ֣י יִשְׂרָאֵ֔ל לָקַ֥חְתִּי אֹתָ֖ם לִֽי׃ (Num. 8:16)
+NIV	They are the Israelites _who are to be given wholly_ to me. I have taken them as my own in place of the firstborn, the first male offspring from every Israelite woman.
+ESV	For they _are wholly given_ to me from among the people of Israel. Instead of all who open the womb, the firstborn of all the people of Israel, I have taken them for myself.
+
+(x)	וְהָיָ֣ה לָכֶם֮ לְצִיצִת֒ וּרְאִיתֶ֣ם אֹתֹ֗ו וּזְכַרְתֶּם֙ אֶת־כָּל־מִצְוֹ֣ת יְהוָ֔ה וַעֲשִׂיתֶ֖ם אֹתָ֑ם וְלֹֽא־תָתֻ֜רוּ אַחֲרֵ֤י לְבַבְכֶם֙ וְאַחֲרֵ֣י עֵֽינֵיכֶ֔ם אֲשֶׁר־אַתֶּ֥ם _זֹנִ֖ים_ אַחֲרֵיהֶֽם׃ (Num. 15:39)
+NIV	You will have these tassels to look at and so you will remember all the commands of the LORD, that you may obey them and not _prostitute_ yourselves by going after the lusts of your own hearts and eyes.
+ESV	And it shall be a tassel for you to look at and remember all the commandments of the Lord, to do them, not to follow after your own heart and your own eyes, which you _are inclined to whore_ after.
+
+(x)	שְׁמַ֣ע יִשְׂרָאֵ֗ל אַתָּ֨ה _עֹבֵ֤ר_ הַיֹּום֙ אֶת־הַיַּרְדֵּ֔ן לָבֹא֙ לָרֶ֣שֶׁת גֹּויִ֔ם גְּדֹלִ֥ים וַעֲצֻמִ֖ים מִמֶּ֑ךָּ עָרִ֛ים גְּדֹלֹ֥ת וּבְצֻרֹ֖ת בַּשָּׁמָֽיִם׃ (Deut. 9:1)
+NIV	Hear, O Israel. You are now about to cross the Jordan to go in and dispossess nations greater and stronger than you, with large cities that have walls up to the sky.
+ESV	“Hear, O Israel: you _are to cross over_ the Jordan today, to go in to dispossess nations greater and mightier than yourselves, cities great and fortified up to heaven,
+
+(x)	בַּח֖וּץ תַּעֲמֹ֑ד וְהָאִ֗ישׁ אֲשֶׁ֤ר אַתָּה֙ _נֹשֶׁ֣ה_ בֹ֔ו יֹוצִ֥יא אֵלֶ֛יךָ אֶֽת־הַעֲבֹ֖וט הַחֽוּצָה׃ (Deut. 24:11)
+NIV	Stay outside and let the man to whom you _are making the loan_ bring the pledge out to you.
+ESV	You shall stand outside, and the man to whom you _make the loan_ shall bring the pledge out to you.
+
+(x)	וְה֤וּא יָצָא֙ וַעֲבָדָ֣יו בָּ֔אוּ וַיִּרְא֕וּ וְהִנֵּ֛ה דַּלְתֹ֥ות הָעֲלִיָּ֖ה נְעֻלֹ֑ות וַיֹּ֣אמְר֔וּ אַ֣ךְ _מֵסִ֥יךְ_ ה֛וּא אֶת־רַגְלָ֖יו בַּחֲדַ֥ר הַמְּקֵרָֽה׃ (Judg. 3:24)
+NIV	After he had gone, the servants came and found the doors of the upper room locked. They said, “He _must be relieving_ himself in the inner room of the house.”
+ESV	When he had gone, the servants came, and when they saw that the doors of the roof chamber were locked, they thought, “Surely he _is relieving_ himself in the closet of the cool chamber.”
+
+(x)	וְעַתָּ֗ה יִֽשְׁמַֽע־נָא֙ אֲדֹנִ֣י הַמֶּ֔לֶךְ אֵ֖ת דִּבְרֵ֣י עַבְדֹּ֑ו אִם־יְהוָ֞ה הֱסִֽיתְךָ֥ בִי֙ יָרַ֣ח מִנְחָ֔ה וְאִ֣ם׀ בְּנֵ֣י הָאָדָ֗ם _אֲרוּרִ֥ים_ הֵם֙ לִפְנֵ֣י יְהוָ֔ה כִּֽי־גֵרְשׁ֣וּנִי הַיֹּ֗ום מֵהִסְתַּפֵּ֜חַ בְּנַחֲלַ֤ת יְהוָה֙ לֵאמֹ֔ר לֵ֥ךְ עֲבֹ֖ד אֱלֹהִ֥ים אֲחֵרִֽים׃ (I Sam. 26:19)
+NIV	Now let my lord the king listen to his servant’s words. If the LORD has incited you against me, then may he accept an offering. If, however, men have done it, may they be cursed before the LORD! They have now driven me from my share in the LORD’s inheritance and have said, ‘Go, serve other gods.’
+ESV	Now therefore let my lord the king hear the words of his servant. If it is the Lord who has stirred you up against me, may he accept an offering, but if it is men, may they be cursed before the Lord, for they have driven me out this day that I should have no share in the heritage of the Lord, saying, ‘Go, serve other gods.’
+
+(x)	וַיֹּ֨אמֶר יֹואָ֜ב אֶל־הַמֶּ֗לֶךְ וְיֹוסֵ֣ף יְהוָה֩ אֱלֹהֶ֨יךָ אֶל־הָעָ֜ם כָּהֵ֤ם׀ וְכָהֵם֙ מֵאָ֣ה פְעָמִ֔ים וְעֵינֵ֥י אֲדֹנִֽי־הַמֶּ֖לֶךְ _רֹאֹ֑ות_ וַאדֹנִ֣י הַמֶּ֔לֶךְ לָ֥מָּה חָפֵ֖ץ בַּדָּבָ֥ר הַזֶּֽה׃ (II Sam. 24:3)
+NIV	But Joab replied to the king, “May the LORD your God multiply the troops a hundred times over, and may the eyes of my lord the king see it. But why does my lord the king want to do such a thing?”
+ESV	But Joab said to the king, “May the Lord your God add to the people a hundred times as many as they are, while the eyes of my lord the king still _see_ it, but why does my lord the king delight in this thing?”
+
+(x)	וַיֹּ֤אמֶר אֵלָיו֙ הַמֶּ֔לֶךְ עַד־כַּמֶּ֥ה פְעָמִ֖ים אֲנִ֣י _מַשְׁבִּעֶ֑ךָ_ אֲ֠שֶׁר לֹֽא־תְדַבֵּ֥ר אֵלַ֛י רַק־אֱמֶ֖ת בְּשֵׁ֥ם יְהוָֽה׃ (I Kgs. 22:16)
+NIV	The king said to him, “How many times must I make you swear to tell me nothing but the truth in the name of the LORD?”
+ESV	But the king said to him, “How many times shall I make you swear that you speak to me nothing but the truth in the name of the Lord?”
+
+(x)	זַמְּר֣וּ יְהוָ֔ה כִּ֥י גֵא֖וּת עָשָׂ֑ה מוּדַ֥עַת זֹ֖את בְּכָל־הָאָֽרֶץ׃ (Isa. 12:5)
+NIV	Sing to the LORD, for he has done glorious things. let this be known to all the world.
+ESV	“Sing praises to the Lord, for he has done gloriously. let this be made known in all the earth.
+
+(x)	וַתִּשָּׂאֵ֣נִי ר֔וּחַ וָאֶשְׁמַ֣ע אַחֲרַ֔י קֹ֖ול רַ֣עַשׁ גָּדֹ֑ול _בָּר֥וּךְ_ כְּבֹוד־יְהוָ֖ה מִמְּקֹומֹֽו׃ (Ezek. 3:12)
+NIV	Then the Spirit lifted me up, and I heard behind me a loud rumbling sound — May the glory of the LORD be praised in his dwelling-place! —
+ESV	Then the Spirit lifted me up, and I heard behind me the voice of a great earthquake: “_Blessed be_ the glory of the Lord from its place!”
+
+(x)	וָאֹמַ֕ר לֹ֥א אֶרְעֶ֖ה אֶתְכֶ֑ם הַ_מֵּתָ֣ה_ תָמ֗וּת וְהַנִּכְחֶ֨דֶת֙ תִּכָּחֵ֔ד וְהַ֨נִּשְׁאָרֹ֔ות תֹּאכַ֕לְנָה אִשָּׁ֖ה אֶת־בְּשַׂ֥ר רְעוּתָֽהּ׃ (Zech. 11:9)
+NIV	and said, “I will not be your shepherd. Let the _dying_ die, and the perishing perish. Let those who are left eat one another’s flesh.”
+ESV	So I said, “I will not be your shepherd. _What is to die_, let it die. What is to be destroyed, let it be destroyed. And let those who are left devour the flesh of one another.”
+
+(x)	וְאַתֶּ֖ם מְחַלְּלִ֣ים אֹותֹ֑ו בֶּאֱמָרְכֶ֗ם שֻׁלְחַ֤ן אֲדֹנָי֙ מְגֹאָ֣ל ה֔וּא וְנִיבֹ֖ו _נִבְזֶ֥ה_ אָכְלֹֽו׃ (Mal. 1:12)
+NIV	“But you profane it by saying of the Lord’s table, ‘It is defiled’, and of its food, ‘It _is contemptible_.’
+ESV	But you profane it when you say that the Lord’s table is polluted, and its fruit, that is, its food _may be despised_.
+
+(x)	יִ֭בְצֹר ר֣וּחַ נְגִידִ֑ים _נֹ֝ורָ֗א_ לְמַלְכֵי־אָֽרֶץ׃ (Psa. 76:13)
+NIV	He breaks the spirit of rulers. he _is feared_ by the kings of the earth.
+ESV	who cuts off the spirit of princes, _who is to be feared_ by the kings of the earth.
+
+(x)	אַל־יְהִי־לֹ֖ו מֹשֵׁ֣ךְ חָ֑סֶד וְֽאַל־יְהִ֥י _חֹ֝ונֵ֗ן_ לִיתֹומָֽיו׃ (Psa. 109:12)
+NIV	May no one extend kindness to him or _take pity_ on his fatherless children.
+ESV	Let there be none to extend kindness to him, nor any to _pity_ his fatherless children!
+
+(x)	_בְּרוּכִ֣ים_ אַ֭תֶּם לַיהוָ֑ה עֹ֝שֵׂ֗ה שָׁמַ֥יִם וָאָֽרֶץ׃ (Psa. 115:15)
+NIV	May you be blessed by the LORD, the Maker of heaven and earth.
+ESV	May you be blessed by the Lord, who made heaven and earth!
+
+(x)	_נִבְחָ֣ר_ שֵׁ֭ם מֵעֹ֣שֶׁר רָ֑ב מִכֶּ֥סֶף וּ֝מִזָּהָ֗ב חֵ֣ן טֹֽוב׃ (Prov. 22:1)
+NIV	A good name is more desirable than great riches. to be esteemed is better than silver or gold.
+ESV	A good name _is to be chosen_ rather than great riches, and favor is better than silver or gold.
+
+(x)	וְחִכֵּ֕ךְ כְּיֵ֥ין הַטֹּ֛וב _הֹולֵ֥ךְ_ לְדֹודִ֖י לְמֵישָׁרִ֑ים דֹּובֵ֖ב שִׂפְתֵ֥י יְשֵׁנִֽים׃ (Song 7:10)
+NIV	and your mouth like the best wine. May the wine go straight to my lover, flowing gently over lips and teeth.
+ESV	and your mouth like the best wine. SHE — It _goes down_ smoothly for my beloved, gliding over lips and teeth.
+
+(x)	וַיֹּאמְר֣וּ הַלְוִיִּ֡ם יֵשׁ֣וּעַ וְ֠קַדְמִיאֵל בָּנִ֨י חֲשַׁבְנְיָ֜ה שֵׁרֵֽבְיָ֤ה הֹֽודִיָּה֙ שְׁבַנְיָ֣ה פְתַֽחְיָ֔ה ק֗וּמוּ בָּרֲכוּ֙ אֶת־יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם מִן־הָעֹולָ֖ם עַד־הָעֹולָ֑ם וִיבָֽרְכוּ֙ שֵׁ֣ם כְּבֹודֶ֔ךָ וּ_מְרֹומַ֥ם_ עַל־כָּל־בְּרָכָ֖ה וּתְהִלָּֽה׃ (Neh. 9:5)
+NIV	And the Levites — Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah and Pethahiah — said: “Stand up and praise the LORD your God, who is from everlasting to everlasting.” “Blessed be your glorious name, and _may it be exalted_ above all blessing and praise.
+ESV	Then the Levites, Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah, said, “Stand up and bless the Lord your God from everlasting to everlasting. Blessed be your glorious name, _which is exalted_ above all blessing and praise.
+
+(x)	וְאַרְבַּ֥עַת אֲלָפִ֖ים שֹׁעֲרִ֑ים וְאַרְבַּ֤עַת אֲלָפִים֙ _מְהַֽלְלִ֣ים_ לַיהוָ֔ה בַּכֵּלִ֕ים אֲשֶׁ֥ר עָשִׂ֖יתִי לְהַלֵּֽל׃ (I Chr. 23:5)
+NIV	Four thousand are to be gatekeepers and four thousand _are to praise_ the LORD with the musical instruments I have provided for that purpose.”
+ESV	4,000 gatekeepers, and 4,000 _shall offer praises_ to the Lord with the instruments that I have made for praise.”
+
+(x)	וַיִּוָּעַץ֙ אֶל־הָעָ֔ם וַיַּעֲמֵ֤ד _מְשֹֽׁרֲרִים֙_ לַיהוָ֔ה וּֽמְהַֽלְלִ֖ים לְהַדְרַת־קֹ֑דֶשׁ בְּצֵאת֙ לִפְנֵ֣י הֶֽחָל֔וּץ וְאֹֽמְרִים֙ הֹוד֣וּ לַיהוָ֔ה כִּ֥י לְעֹולָ֖ם חַסְדֹּֽו׃ (II Chr. 20:21)
+NIV	After consulting the people, Jehoshaphat appointed men to _sing_ to the LORD and to praise him for the splendour of his holiness as they went out at the head of the army, saying: “Give thanks to the LORD, for his love endures forever.”
+ESV	And when he had taken counsel with the people, he appointed _those who were to sing_ to the Lord and praise him in holy attire, as they went before the army, and say, “Give thanks to the Lord, for his steadfast love endures forever.”
+
+(x)	וַיִּוָּעַץ֙ אֶל־הָעָ֔ם וַיַּעֲמֵ֤ד מְשֹֽׁרֲרִים֙ לַיהוָ֔ה וּֽמְהַֽלְלִ֖ים לְהַדְרַת־קֹ֑דֶשׁ בְּצֵאת֙ לִפְנֵ֣י הֶֽחָל֔וּץ וְ_אֹֽמְרִים֙_ הֹוד֣וּ לַיהוָ֔ה כִּ֥י לְעֹולָ֖ם חַסְדֹּֽו׃ (II Chr. 20:21)
+NIV	After consulting the people, Jehoshaphat appointed men to sing to the LORD and to praise him for the splendour of his holiness as they went out at the head of the army, _saying_: “Give thanks to the LORD, for his love endures forever.”
+ESV	And when he had taken counsel with the people, he appointed those who were to sing to the Lord and praise him in holy attire, as they went before the army, and _say_, “Give thanks to the Lord, for his steadfast love endures forever.”

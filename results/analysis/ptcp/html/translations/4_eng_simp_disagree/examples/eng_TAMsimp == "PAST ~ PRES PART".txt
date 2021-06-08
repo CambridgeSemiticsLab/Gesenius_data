@@ -1,0 +1,102 @@
+eng_TAMsimp == "PAST ~ PRES PART"
+25 of 94
+
+(x)	וַיְגָ֖רֶשׁ אֶת־הָֽאָדָ֑ם וַיַּשְׁכֵּן֩ מִקֶּ֨דֶם לְגַן־עֵ֜דֶן אֶת־הַכְּרֻבִ֗ים וְאֵ֨ת לַ֤הַט הַחֶ֨רֶב֙ הַ_מִּתְהַפֶּ֔כֶת_ לִשְׁמֹ֕ר אֶת־דֶּ֖רֶךְ עֵ֥ץ הַֽחַיִּֽים׃ ס (Gen. 3:24)
+NIV	After he drove the man out, he placed on the east side of the Garden of Eden cherubim and a flaming sword _flashing back and forth_ to guard the way to the tree of life.
+ESV	He drove out the man, and at the east of the garden of Eden he placed the cherubim and a flaming sword _that turned every way_ to guard the way to the tree of life.
+
+(x)	וַֽיַּחֲלֹ֗ם וְהִנֵּ֤ה סֻלָּם֙ מֻצָּ֣ב אַ֔רְצָה וְרֹאשֹׁ֖ו _מַגִּ֣יעַ_ הַשָּׁמָ֑יְמָה וְהִנֵּה֙ מַלְאֲכֵ֣י אֱלֹהִ֔ים עֹלִ֥ים וְיֹרְדִ֖ים בֹּֽו׃ (Gen. 28:12)
+NIV	He had a dream in which he saw a stairway resting on the earth, with its top _reaching_ to heaven, and the angels of God were ascending and descending on it.
+ESV	And he dreamed, and behold, there was a ladder set up on the earth, and the top of it _reached_ to heaven. And behold, the angels of God were ascending and descending on it!
+
+(x)	וּמֹשֶׁה֩ יִקַּ֨ח אֶת־הָאֹ֜הֶל וְנָֽטָה־לֹ֣ו׀ מִח֣וּץ לַֽמַּחֲנֶ֗ה הַרְחֵק֙ מִן־הַֽמַּחֲנֶ֔ה וְקָ֥רָא לֹ֖ו אֹ֣הֶל מֹועֵ֑ד וְהָיָה֙ כָּל־_מְבַקֵּ֣שׁ_ יְהוָ֔ה יֵצֵא֙ אֶל־אֹ֣הֶל מֹועֵ֔ד אֲשֶׁ֖ר מִח֥וּץ לַֽמַּחֲנֶֽה׃ (Exod. 33:7)
+NIV	Now Moses used to take a tent and pitch it outside the camp some distance away, calling it the “tent of meeting.” Anyone _inquiring_ of the LORD would go to the tent of meeting outside the camp.
+ESV	Now Moses used to take the tent and pitch it outside the camp, far off from the camp, and he called it the tent of meeting. And everyone _who sought_ the Lord would go out to the tent of meeting, which was outside the camp.
+
+(x)	וְהָֽעַוִּ֛ים הַיֹּשְׁבִ֥ים בַּחֲצֵרִ֖ים עַד־עַזָּ֑ה כַּפְתֹּרִים֙ הַ_יֹּצְאִ֣ים_ מִכַּפְתֹּ֔ור הִשְׁמִידֻ֖ם וַיֵּשְׁב֥וּ תַחְתָּֽם׃ (Deut. 2:23)
+NIV	And as for the Avvites who lived in villages as far as Gaza, the Caphtorites _coming out_ from Caphtor destroyed them and settled in their place. )
+ESV	As for the Avvim, who lived in villages as far as Gaza, the Caphtorim, _who came_ from Caphtor, destroyed them and settled in their place. )
+
+(x)	וַיַּכֵּ֨ם יְהֹושֻׁ֤עַ אַֽחֲרֵי־כֵן֙ וַיְמִיתֵ֔ם וַיִּתְלֵ֕ם עַ֖ל חֲמִשָּׁ֣ה עֵצִ֑ים וַיִּֽהְי֛וּ _תְּלוּיִ֥ם_ עַל־הָעֵצִ֖ים עַד־הָעָֽרֶב׃ (Josh. 10:26)
+NIV	Then Joshua struck and killed the kings and hung them on five trees, and they were left _hanging_ on the trees until evening.
+ESV	And afterward Joshua struck them and put them to death, and he hanged them on five trees. And they _hung_ on the trees until evening.
+
+(x)	וְאַחַ֗ר יָֽרְדוּ֙ בְּנֵ֣י יְהוּדָ֔ה לְהִלָּחֵ֖ם בַּֽכְּנַעֲנִ֑י _יֹושֵׁ֣ב_ הָהָ֔ר וְהַנֶּ֖גֶב וְהַשְּׁפֵלָֽה׃ (Judg. 1:9)
+NIV	After that, the men of Judah went down to fight against the Canaanites _living_ in the hill country, the Negev and the western foothills.
+ESV	And afterward the men of Judah went down to fight against the Canaanites _who lived_ in the hill country, in the Negeb, and in the lowland.
+
+(x)	חֲמֵ֣שֶׁת׀ סַרְנֵ֣י פְלִשְׁתִּ֗ים וְכָל־הַֽכְּנַעֲנִי֙ וְהַצִּ֣ידֹנִ֔י וְהַ֣חִוִּ֔י _יֹשֵׁ֖ב_ הַ֣ר הַלְּבָנֹ֑ון מֵהַר֙ בַּ֣עַל חֶרְמֹ֔ון עַ֖ד לְבֹ֥וא חֲמָֽת׃ (Judg. 3:3)
+NIV	the five rulers of the Philistines, all the Canaanites, the Sidonians, and the Hivites _living in_ the Lebanon mountains from Mount Baal Hermon to Lebo Hamath.
+ESV	These are the nations: the five lords of the Philistines and all the Canaanites and the Sidonians and the Hivites _who lived_ on Mount Lebanon, from Mount Baal-hermon as far as Lebo-hamath.
+
+(x)	וְהַבַּ֗יִת מָלֵ֤א הָֽאֲנָשִׁים֙ וְהַנָּשִׁ֔ים וְשָׁ֕מָּה כֹּ֖ל סַרְנֵ֣י פְלִשְׁתִּ֑ים וְעַל־הַגָּ֗ג כִּשְׁלֹ֤שֶׁת אֲלָפִים֙ אִ֣ישׁ וְאִשָּׁ֔ה הָ_רֹאִ֖ים_ בִּשְׂחֹ֥וק שִׁמְשֹֽׁון׃ (Judg. 16:27)
+NIV	Now the temple was crowded with men and women. all the rulers of the Philistines were there, and on the roof were about three thousand men and women _watching_ Samson perform.
+ESV	Now the house was full of men and women. All the lords of the Philistines were there, and on the roof there were about 3,000 men and women, _who looked on_ while Samson entertained.
+
+(x)	וַיְהִ֗י כָּל־יֹֽודְעֹו֙ מֵאִתְּמֹ֣ול שִׁלְשֹׁ֔ום וַיִּרְא֕וּ וְהִנֵּ֥ה עִם־נְבִאִ֖ים _נִבָּ֑א_ וַיֹּ֨אמֶר הָעָ֜ם אִ֣ישׁ אֶל־רֵעֵ֗הוּ מַה־זֶּה֙ הָיָ֣ה לְבֶן־קִ֔ישׁ הֲגַ֥ם שָׁא֖וּל בַּנְּבִיאִֽים׃ (I Sam. 10:11)
+NIV	When all those who had formerly known him saw him _prophesying_ with the prophets, they asked each other, “What is this that has happened to the son of Kish? Is Saul also among the prophets?”
+ESV	And when all who knew him previously saw how he _prophesied_ with the prophets, the people said to one another, “What has come over the son of Kish? Is Saul also among the prophets?”
+
+(x)	וַיָּבֹא֩ דָוִ֨ד וַאֲבִישַׁ֥י׀ אֶל־הָעָם֮ לַיְלָה֒ וְהִנֵּ֣ה שָׁא֗וּל _שֹׁכֵ֤ב_ יָשֵׁן֙ בַּמַּעְגָּ֔ל וַחֲנִיתֹ֥ו מְעוּכָֽה־בָאָ֖רֶץ מְרַאֲשֹׁתָ֑יו וְאַבְנֵ֣ר וְהָעָ֔ם שֹׁכְבִ֖ים סְבִיבֹתָֽיו׃ (I Sam. 26:7)
+NIV	So David and Abishai went to the army by night, and there was Saul, _lying_ asleep inside the camp with his spear stuck in the ground near his head. Abner and the soldiers were _lying_ round him.
+ESV	So David and Abishai went to the army by night. And there _lay_ Saul sleeping within the encampment, with his spear stuck in the ground at his head, and Abner and the army _lay_ around him.
+
+(x)	וְנָבִ֤יא אֶחָד֙ זָקֵ֔ן _יֹשֵׁ֖ב_ בְּבֵֽית־אֵ֑ל וַיָּבֹ֣וא בְנֹ֡ו וַיְסַפֶּר־לֹ֣ו אֶת־כָּל־הַמַּעֲשֶׂ֣ה אֲשֶׁר־עָשָׂה֩ אִישׁ־הָאֱלֹהִ֨ים׀ הַיֹּ֜ום בְּבֵֽית־אֵ֗ל אֶת־הַדְּבָרִים֙ אֲשֶׁ֣ר דִּבֶּ֣ר אֶל־הַמֶּ֔לֶךְ וַֽיְסַפְּר֖וּם לַאֲבִיהֶֽם׃ (I Kgs. 13:11)
+NIV	Now there was a certain old prophet _living_ in Bethel, whose sons came and told him all that the man of God had done there that day. They also told their father what he had said to the king.
+ESV	Now an old prophet _lived_ in Bethel. And his sons came and told him all that the man of God had done that day in Bethel. They also told to their father the words that he had spoken to the king.
+
+(x)	וַיְנַגַּ֨ע יְהוָ֜ה אֶת־הַמֶּ֗לֶךְ וַיְהִ֤י מְצֹרָע֙ עַד־יֹ֣ום מֹתֹ֔ו וַיֵּ֖שֶׁב בְּבֵ֣ית הַחָפְשִׁ֑ית וְיֹותָ֤ם בֶּן־הַמֶּ֨לֶךְ֙ עַל־הַבַּ֔יִת _שֹׁפֵ֖ט_ אֶת־עַ֥ם הָאָֽרֶץ׃ (II Kgs. 15:5)
+NIV	The LORD afflicted the king with leprosy until the day he died, and he lived in a separate house. Jotham the king’s son had charge of the palace and _governed_ the people of the land.
+ESV	And the Lord touched the king, so that he was a leper to the day of his death, and he lived in a separate house. And Jotham the king’s son was over the household, _governing_ the people of the land.
+
+(x)	אַשְׁרֵיכֶ֕ם זֹרְעֵ֖י עַל־כָּל־מָ֑יִם _מְשַׁלְּחֵ֥י_ רֶֽגֶל־הַשֹּׁ֖ור וְהַחֲמֹֽור׃ ס (Isa. 32:20)
+NIV	how blessed you will be, sowing your seed by every stream, and letting your cattle and donkeys range free.
+ESV	Happy are you who sow beside all waters, who let the feet of the ox and the donkey range free.
+
+(x)	וַיַּעֲנ֣וּ אֶֽת־יִרְמְיָ֗הוּ כָּל־הָאֲנָשִׁ֤ים הַיֹּֽדְעִים֙ כִּֽי־מְקַטְּרֹ֤ות נְשֵׁיהֶם֙ לֵאלֹהִ֣ים אֲחֵרִ֔ים וְכָל־הַנָּשִׁ֥ים הָעֹמְדֹ֖ות קָהָ֣ל גָּדֹ֑ול וְכָל־הָעָ֛ם הַ_יֹּשְׁבִ֥ים_ בְּאֶֽרֶץ־מִצְרַ֖יִם בְּפַתְרֹ֥וס לֵאמֹֽר׃ (Jer. 44:15)
+NIV	Then all the men who knew that their wives were burning incense to other gods, along with all the women who were present — a large assembly — and all the people _living_ in Lower and Upper Egypt, said to Jeremiah,
+ESV	Then all the men who knew that their wives had made offerings to other gods, and all the women who stood by, a great assembly, all the people _who lived_ in Pathros in the land of Egypt, answered Jeremiah:
+
+(x)	וּפְנֵיהֶ֕ם וְכַנְפֵיהֶ֥ם פְּרֻדֹ֖ות מִלְמָ֑עְלָה לְאִ֗ישׁ שְׁ֚תַּיִם _חֹבְרֹ֣ות_ אִ֔ישׁ וּשְׁתַּ֣יִם מְכַסֹּ֔ות אֵ֖ת גְּוִיֹתֵיהֶֽנָה׃ (Ezek. 1:11)
+NIV	Such were their faces. Their wings were spread out upwards. each had two wings, one _touching_ the wing of another creature on either side, and two wings covering its body.
+ESV	Such were their faces. And their wings were spread out above. Each creature had two wings, each of which _touched_ the wing of another, while two covered their bodies.
+
+(x)	וְשִׁבְעִ֣ים אִ֣ישׁ מִזִּקְנֵ֣י בֵֽית־יִ֠שְׂרָאֵל וְיַאֲזַנְיָ֨הוּ בֶן־שָׁפָ֜ן _עֹמֵ֤ד_ בְּתֹוכָם֙ עֹמְדִ֣ים לִפְנֵיהֶ֔ם וְאִ֥ישׁ מִקְטַרְתֹּ֖ו בְּיָדֹ֑ו וַעֲתַ֥ר עֲנַֽן־הַקְּטֹ֖רֶת עֹלֶֽה׃ (Ezek. 8:11)
+NIV	In front of them _stood_ seventy elders of the house of Israel, and Jaazaniah son of Shaphan was standing among them. Each had a censer in his hand, and a fragrant cloud of incense was rising.
+ESV	And before them stood seventy men of the elders of the house of Israel, with Jaazaniah the son of Shaphan _standing_ among them. Each had his censer in his hand, and the smoke of the cloud of incense went up.
+
+(x)	לְבֻשֵׁ֤י תְכֵ֨לֶת֙ פַּחֹ֣ות וּסְגָנִ֔ים בַּח֥וּרֵי חֶ֖מֶד כֻּלָּ֑ם פָּרָשִׁ֕ים _רֹכְבֵ֖י_ סוּסִֽים׃ (Ezek. 23:6)
+NIV	clothed in blue, governors and commanders, all of them handsome young men, and _mounted_ horsemen.
+ESV	clothed in purple, governors and commanders, all of them desirable young men, horsemen _riding on_ horses.
+
+(x)	וְהִנֵּ֛ה כִּכַּ֥ר עֹפֶ֖רֶת נִשֵּׂ֑את וְזֹאת֙ אִשָּׁ֣ה אַחַ֔ת _יֹושֶׁ֖בֶת_ בְּתֹ֥וךְ הָאֵיפָֽה׃ (Zech. 5:7)
+NIV	Then the cover of lead was raised, and there in the basket _sat_ a woman!
+ESV	And behold, the leaden cover was lifted, and there was a woman _sitting_ in the basket!
+
+(x)	וַיְהִי֙ בַּחֲצִ֣י הַלַּ֔יְלָה וַיֶּחֱרַ֥ד הָאִ֖ישׁ וַיִּלָּפֵ֑ת וְהִנֵּ֣ה אִשָּׁ֔ה _שֹׁכֶ֖בֶת_ מַרְגְּלֹתָֽיו׃ (Ruth 3:8)
+NIV	In the middle of the night something startled the man, and he turned and discovered a woman _lying_ at his feet.
+ESV	At midnight the man was startled and turned over, and behold, a woman _lay_ at his feet!
+
+(x)	רָאִ֣יתִי אֶת־הָאַ֡יִל _מְנַגֵּחַ֩_ יָ֨מָּה וְצָפֹ֜ונָה וָנֶ֗גְבָּה וְכָל־חַיֹּות֙ לֹֽא־יַֽעַמְד֣וּ לְפָנָ֔יו וְאֵ֥ין מַצִּ֖יל מִיָּדֹ֑ו וְעָשָׂ֥ה כִרְצֹנֹ֖ו וְהִגְדִּֽיל׃ (Dan. 8:4)
+NIV	I watched the ram as he charged towards the west and the north and the south. No animal could stand against him, and none could rescue from his power. He did as he pleased and became great.
+ESV	I saw the ram _charging_ westward and northward and southward. No beast could stand before him, and there was no one who could rescue from his power. He did as he pleased and became great.
+
+(x)	וָאֱהִ֨י עֹלֶ֤ה בַנַּ֨חַל֙ לַ֔יְלָה וָאֱהִ֥י _שֹׂבֵ֖ר_ בַּחֹומָ֑ה וָאָשׁ֗וּב וָאָבֹ֛וא בְּשַׁ֥עַר הַגַּ֖יְא וָאָשֽׁוּב׃ (Neh. 2:15)
+NIV	so I went up the valley by night, _examining_ the wall. Finally, I turned back and re-entered through the Valley Gate.
+ESV	Then I went up in the night by the valley and _inspected_ the wall, and I turned back and entered by the Valley Gate, and so returned.
+
+(x)	וַיִּפָּקְד֣וּ בַיֹּום֩ הַה֨וּא אֲנָשִׁ֜ים עַל־הַנְּשָׁכֹ֗ות לָאֹ֨וצָרֹ֥ות לַתְּרוּמֹות֮ לָרֵאשִׁ֣ית וְלַמַּֽעַשְׂרֹות֒ לִכְנֹ֨וס בָּהֶ֜ם לִשְׂדֵ֤י הֶעָרִים֙ מְנָאֹ֣ות הַתֹּורָ֔ה לַכֹּהֲנִ֖ים וְלַלְוִיִּ֑ם כִּ֚י שִׂמְחַ֣ת יְהוּדָ֔ה עַל־הַכֹּהֲנִ֥ים וְעַל־הַלְוִיִּ֖ם הָ_עֹמְדִֽים_׃ (Neh. 12:44)
+NIV	At that time men were appointed to be in charge of the storerooms for the contributions, firstfruits and tithes. From the fields around the towns they were to bring into the storerooms the portions required by the Law for the priests and the Levites, for Judah was pleased with the _ministering_ priests and Levites.
+ESV	On that day men were appointed over the storerooms, the contributions, the firstfruits, and the tithes, to gather into them the portions required by the Law for the priests and for the Levites according to the fields of the towns, for Judah rejoiced over the priests and the Levites _who ministered_.
+
+(x)	וְעַל־הַבָּקָר֙ הָ_רֹעִ֣ים_ בַּשָּׁרֹ֔ון שִׁרְטַ֖י הַשָּׁרֹונִ֑י וְעַל־הַבָּקָר֙ בָּֽעֲמָקִ֔ים שָׁפָ֖ט בֶּן־עַדְלָֽי׃ ס (I Chr. 27:29)
+NIV	Shitrai the Sharonite was in charge of the herds _grazing_ in Sharon. Shaphat son of Adlai was in charge of the herds in the valleys.
+ESV	Over the herds _that pastured_ in Sharon was Shitrai the Sharonite. over the herds in the valleys was Shaphat the son of Adlai.
+
+(x)	וַיְדַבֵּ֣ר יְחִזְקִיָּ֗הוּ עַל־לֵב֙ כָּל־הַלְוִיִּ֔ם הַמַּשְׂכִּילִ֥ים שֵֽׂכֶל־טֹ֖וב לַיהוָ֑ה וַיֹּאכְל֤וּ אֶת־הַמֹּועֵד֙ שִׁבְעַ֣ת הַיָּמִ֔ים _מְזַבְּחִים֙_ זִבְחֵ֣י שְׁלָמִ֔ים וּמִ֨תְוַדִּ֔ים לַיהוָ֖ה אֱלֹהֵ֥י אֲבֹותֵיהֶֽם׃ ס (II Chr. 30:22)
+NIV	Hezekiah spoke encouragingly to all the Levites, who showed good understanding of the service of the LORD. For the seven days they ate their assigned portion and _offered_ fellowship offerings and praised the LORD, the God of their fathers.
+ESV	And Hezekiah spoke encouragingly to all the Levites who showed good skill in the service of the Lord. So they ate the food of the festival for seven days, _sacrificing_ peace offerings and giving thanks to the Lord, the God of their fathers.
+
+(x)	וַיִּֽהְי֤וּ מַלְעִבִים֙ בְּמַלְאֲכֵ֣י הָאֱלֹהִ֔ים וּבֹוזִ֣ים דְּבָרָ֔יו וּ_מִֽתַּעְתְּעִ֖ים_ בִּנְבִאָ֑יו עַ֠ד עֲלֹ֧ות חֲמַת־יְהוָ֛ה בְּעַמֹּ֖ו עַד־לְאֵ֥ין מַרְפֵּֽא׃ (II Chr. 36:16)
+NIV	But they mocked God’s messengers, despised his words and _scoffed_ at his prophets until the wrath of the LORD was aroused against his people and there was no remedy.
+ESV	But they kept mocking the messengers of God, despising his words and _scoffing_ at his prophets, until the wrath of the Lord rose against his people, until there was no remedy.
