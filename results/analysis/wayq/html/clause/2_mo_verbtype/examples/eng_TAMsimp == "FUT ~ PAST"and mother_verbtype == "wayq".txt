@@ -1,0 +1,22 @@
+eng_TAMsimp == "FUT ~ PAST"and mother_verbtype == "wayq"
+5 of 5
+
+(x)	וַיַּ֤רְא מְנֻחָה֙ וַ_יֵּ֤ט_ שִׁכְמֹו֙ (Gen. 49:15)
+NIV	When he sees how good is his resting place and how pleasant is his land, _he will bend_ his shoulder to the burden and submit to forced labor.
+ESV	He saw that a resting place was good, and that the land was pleasant, so _he bowed_ his shoulder to bear, and became a servant at forced labor.
+
+(x)	וַיֹּ֥אמֶר וַ_יִּשְׁכֹּן֩_ יִשְׂרָאֵ֨ל בֶּ֤טַח (Deut. 33:28)
+NIV	So Israel _will live in_ safety alone. Jacob’s spring is secure in a land of grain and new wine, where the heavens drop dew.
+ESV	So Israel _lived_ in safety, Jacob _lived_ alone, in a land of grain and wine, whose heavens drop down dew.
+
+(x)	וָאַ֨ט אֶת־יָדִ֤י עָלַ֨יִךְ֙ וָֽ_אַשְׁחִיתֵ֔ךְ_ (Jer. 15:6)
+NIV	You have rejected me,” declares the LORD. “You keep on backsliding. So I will lay hands on you and _destroy_ you. I can no longer show compassion.
+ESV	You have rejected me, declares the Lord. you keep going backward, so I have stretched out my hand against you and _destroyed_ you — I am weary of relenting.
+
+(x)	וַיְקַנֵּ֥א יְהוָ֖ה לְאַרְצֹ֑ו וַ_יַּחְמֹ֖ל_ עַל־עַמֹּֽו׃ (Joel 2:18)
+NIV	Then the LORD will be jealous for his land and _take pity_ on his people.
+ESV	Then the Lord became jealous for his land and _had pity_ on his people.
+
+(x)	וַיְקַנֵּ֥א יְהוָ֖ה לְאַרְצֹ֑ו וַ_יַּ֨עַן_ יְהוָ֜ה (Joel 2:19)
+NIV	The LORD _will reply_ to them: “I am sending you grain, new wine and oil, enough to satisfy you fully. never again will I make you an object of scorn to the nations.
+ESV	The Lord _answered_ and said to his people, “Behold, I am sending to you grain, wine, and oil, and you will be satisfied. and I will no more make you a reproach among the nations.

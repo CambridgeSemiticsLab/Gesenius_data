@@ -1,0 +1,102 @@
+eng_TAMsimp == "PAST" and lex == "עשׂה"
+25 of 307
+
+(x)	וַ_יַּ֣עַשׂ_ אֱלֹהִים֮ אֶת־הָרָקִיעַ֒ וַיַּבְדֵּ֗ל בֵּ֤ין הַמַּ֨יִם֙ אֲשֶׁר֙ מִתַּ֣חַת לָרָקִ֔יעַ וּבֵ֣ין הַמַּ֔יִם אֲשֶׁ֖ר מֵעַ֣ל לָרָקִ֑יעַ וַֽיְהִי־כֵֽן׃ (Gen. 1:7)
+NIV	So God _made_ the expanse and separated the water under the expanse from the water above it. And it was so.
+ESV	And God _made_ the expanse and separated the waters that were under the expanse from the waters that were above the expanse. And it was so.
+
+(x)	וַיֶּאֱסֹ֥ף לָבָ֛ן אֶת־כָּל־אַנְשֵׁ֥י הַמָּקֹ֖ום וַ_יַּ֥עַשׂ_ מִשְׁתֶּֽה׃ (Gen. 29:22)
+NIV	So Laban brought together all the people of the place and _gave_ a feast.
+ESV	So Laban gathered together all the people of the place and _made_ a feast.
+
+(x)	וַ_יַּ֥עַשׂ_ מֹשֶׁ֖ה וְאַהֲרֹ֑ן כַּאֲשֶׁ֨ר צִוָּ֧ה יְהוָ֛ה אֹתָ֖ם כֵּ֥ן עָשֽׂוּ׃ (Exod. 7:6)
+NIV	Moses and Aaron _did_ just as the LORD commanded them.
+ESV	Moses and Aaron _did_ so. they _did_ just as the Lord commanded them.
+
+(x)	וַ_יַּֽעֲשׂ֖וּ_ כָּל־בְּנֵ֣י יִשְׂרָאֵ֑ל כַּאֲשֶׁ֨ר צִוָּ֧ה יְהוָ֛ה אֶת־מֹשֶׁ֥ה וְאֶֽת־אַהֲרֹ֖ן כֵּ֥ן עָשֽׂוּ׃ ס (Exod. 12:50)
+NIV	All the Israelites _did_ just what the LORD had commanded Moses and Aaron.
+ESV	All the people of Israel _did_ just as the Lord commanded Moses and Aaron.
+
+(x)	וַ_יַּ֛עַשׂ_ קַרְסֵ֥י נְחֹ֖שֶׁת חֲמִשִּׁ֑ים לְחַבֵּ֥ר אֶת־הָאֹ֖הֶל לִֽהְיֹ֥ת אֶחָֽד׃ (Exod. 36:18)
+NIV	_They made_ fifty bronze clasps to fasten the tent together as a unit.
+ESV	And _he made_ fifty clasps of bronze to couple the tent together that it might be a single whole.
+
+(x)	וַ_יַּ֛עַשׂ_ שְׁנֵ֥י כְרֻבִ֖ים זָהָ֑ב מִקְשָׁה֙ עָשָׂ֣ה אֹתָ֔ם מִשְּׁנֵ֖י קְצֹ֥ות הַכַּפֹּֽרֶת׃ (Exod. 37:7)
+NIV	Then _he made_ two cherubim out of hammered gold at the ends of the cover.
+ESV	And _he made_ two cherubim of gold. He made them of hammered work on the two ends of the mercy seat,
+
+(x)	וַ_יַּ֛עַשׂ_ אֶת־מִזְבַּ֥ח הָעֹלָ֖ה עֲצֵ֣י שִׁטִּ֑ים חָמֵשׁ֩ אַמֹּ֨ות אָרְכֹּ֜ו וְחָֽמֵשׁ־אַמֹּ֤ות רָחְבֹּו֙ רָב֔וּעַ וְשָׁלֹ֥שׁ אַמֹּ֖ות קֹמָתֹֽו׃ (Exod. 38:1)
+NIV	_They built_ the altar of burnt offering of acacia wood, three cubits high. it was square, five cubits long and five cubits wide.
+ESV	_He made_ the altar of burnt offering of acacia wood. Five cubits was its length, and five cubits its breadth. It was square, and three cubits was its height.
+
+(x)	וַֽ_יַּעֲשׂוּ֮_ שְׁתֵּ֣י טַבְּעֹ֣ת זָהָב֒ וַֽיִּתְּנֻ֡ם עַל־שְׁתֵּי֩ כִתְפֹ֨ת הָאֵפֹ֤ד מִלְמַ֨טָּה֙ מִמּ֣וּל פָּנָ֔יו לְעֻמַּ֖ת מֶחְבַּרְתֹּ֑ו מִמַּ֕עַל לְחֵ֖שֶׁב הָאֵפֹֽד׃ (Exod. 39:20)
+NIV	Then _they made_ two more gold rings and attached them to the bottom of the shoulder pieces on the front of the ephod, close to the seam just above the waistband of the ephod.
+ESV	And _they made_ two rings of gold, and attached them in front to the lower part of the two shoulder pieces of the ephod, at its seam above the skillfully woven band of the ephod.
+
+(x)	וְהָֽיְתָה־זֹּ֨את לָכֶ֜ם לְחֻקַּ֣ת עֹולָ֗ם לְכַפֵּ֞ר עַל־בְּנֵ֤י יִשְׂרָאֵל֙ מִכָּל־חַטֹּאתָ֔ם אַחַ֖ת בַּשָּׁנָ֑ה וַ_יַּ֕עַשׂ_ כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶת־מֹשֶֽׁה׃ פ (Lev. 16:34)
+NIV	“This is to be a lasting ordinance for you: Atonement is to be made once a year for all the sins of the Israelites.” And _it was done_, as the LORD commanded Moses.
+ESV	And this shall be a statute forever for you, that atonement may be made for the people of Israel once in the year because of all their sins.” And Moses _did_ as the Lord commanded him.
+
+(x)	וַ_יַּ֣עַשׂ_ מֹשֶׁ֔ה וְאֶלְעָזָ֖ר הַכֹּהֵ֑ן כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶת־מֹשֶֽׁה׃ (Num. 31:31)
+NIV	So Moses and Eleazar the priest _did_ as the LORD commanded Moses.
+ESV	And Moses and Eleazar the priest _did_ as the Lord commanded Moses.
+
+(x)	וַ_יַּעֲשׂ֨וּ_ בְנֵי־יִשְׂרָאֵ֤ל אֶת־הָרַע֙ בְּעֵינֵ֣י יְהוָ֔ה וַֽיִּשְׁכְּח֖וּ אֶת־יְהוָ֣ה אֱלֹֽהֵיהֶ֑ם וַיַּעַבְד֥וּ אֶת־הַבְּעָלִ֖ים וְאֶת־הָאֲשֵׁרֹֽות׃ (Judg. 3:7)
+NIV	The Israelites _did_ evil in the eyes of the LORD. they forgot the LORD their God and served the Baals and the Asherahs.
+ESV	And the people of Israel _did_ what was evil in the sight of the Lord. They forgot the Lord their God and served the Baals and the Asheroth.
+
+(x)	וַ_יַּֽעֲשׂוּ_־כֵן֙ בְּנֵ֣י בִנְיָמִ֔ן וַיִּשְׂא֤וּ נָשִׁים֙ לְמִסְפָּרָ֔ם מִן־הַמְּחֹלְלֹ֖ות אֲשֶׁ֣ר גָּזָ֑לוּ וַיֵּלְכ֗וּ וַיָּשׁ֨וּבוּ֙ אֶל־נַ֣חֲלָתָ֔ם וַיִּבְנוּ֙ אֶת־הֶ֣עָרִ֔ים וַיֵּשְׁב֖וּ בָּהֶֽם׃ (Judg. 21:23)
+NIV	So that is what the Benjamites _did_. While the girls were dancing, each man caught one and carried her off to be his wife. Then they returned to their inheritance and rebuilt the towns and settled in them.
+ESV	And the people of Benjamin _did_ so and took their wives, according to their number, from the dancers whom they carried off. Then they went and returned to their inheritance and rebuilt the towns and lived in them.
+
+(x)	וַיִּקְבְּר֣וּ אֶת־עַצְמֹות־שָׁא֣וּל וִיהֹונָֽתָן־בְּ֠נֹו בְּאֶ֨רֶץ בִּנְיָמִ֜ן בְּצֵלָ֗ע בְּקֶ֨בֶר֙ קִ֣ישׁ אָבִ֔יו וַֽ_יַּעֲשׂ֔וּ_ כֹּ֥ל אֲשֶׁר־צִוָּ֖ה הַמֶּ֑לֶךְ וַיֵּעָתֵ֧ר אֱלֹהִ֛ים לָאָ֖רֶץ אַֽחֲרֵי־כֵֽן׃ פ (II Sam. 21:14)
+NIV	They buried the bones of Saul and his son Jonathan in the tomb of Saul’s father Kish, at Zela in Benjamin, and _did_ everything the king commanded. After that, God answered prayer on behalf of the land.
+ESV	And they buried the bones of Saul and his son Jonathan in the land of Benjamin in Zela, in the tomb of Kish his father. And _they did_ all that the king commanded. And after that God responded to the plea for the land.
+
+(x)	וַ_יַּ֣עַשׂ_ שְׁלֹמֹ֔ה אֵ֚ת כָּל־הַכֵּלִ֔ים אֲשֶׁ֖ר בֵּ֣ית יְהוָ֑ה אֵ֚ת מִזְבַּ֣ח הַזָּהָ֔ב וְאֶת־הַשֻּׁלְחָ֗ן אֲשֶׁ֥ר עָלָ֛יו לֶ֥חֶם הַפָּנִ֖ים זָהָֽב׃ (I Kgs. 7:48)
+NIV	Solomon also _made_ all the furnishings that were in the LORD’s temple: the golden altar. the golden table on which was the bread of the Presence.
+ESV	So Solomon _made_ all the vessels that were in the house of the Lord: the golden altar, the golden table for the bread of the Presence,
+
+(x)	וַ_יַּ֥עַשׂ_ הָרַ֖ע בְּעֵינֵ֣י יְהוָ֑ה וַיֵּ֨לֶךְ֙ בְּדֶ֣רֶךְ אָבִ֔יו וּ֨בְחַטָּאתֹ֔ו אֲשֶׁ֥ר הֶחֱטִ֖יא אֶת־יִשְׂרָאֵֽל׃ (I Kgs. 15:26)
+NIV	_He did_ evil in the eyes of the LORD, walking in the ways of his father and in his sin, which he had caused Israel to commit.
+ESV	_He did_ what was evil in the sight of the Lord and walked in the way of his father, and in his sin which he made Israel to sin.
+
+(x)	וַיֵּ֨לֶךְ בְּדֶ֣רֶךְ׀ מַלְכֵ֣י יִשְׂרָאֵ֗ל כַּאֲשֶׁ֤ר עָשׂוּ֙ בֵּ֣ית אַחְאָ֔ב כִּ֚י בַּת־אַחְאָ֔ב הָֽיְתָה־לֹּ֖ו לְאִשָּׁ֑ה וַ_יַּ֥עַשׂ_ הָרַ֖ע בְּעֵינֵ֥י יְהוָֽה׃ (II Kgs. 8:18)
+NIV	He walked in the ways of the kings of Israel, as the house of Ahab had done, for he married a daughter of Ahab. _He did_ evil in the eyes of the LORD.
+ESV	And he walked in the way of the kings of Israel, as the house of Ahab had done, for the daughter of Ahab was his wife. And _he did_ what was evil in the sight of the Lord.
+
+(x)	וַ_יַּ֥עַשׂ_ הָרַ֖ע בְּעֵינֵ֣י יְהוָ֑ה לֹ֣א סָ֗ר מִן־חַטֹּאות֙ יָרָבְעָ֣ם בֶּן־נְבָ֔ט אֲשֶׁ֥ר הֶחֱטִ֖יא אֶת־יִשְׂרָאֵֽל׃ (II Kgs. 15:28)
+NIV	_He did_ evil in the eyes of the LORD. _He did_ not turn away from the sins of Jeroboam son of Nebat, which he had caused Israel to commit.
+ESV	And _he did_ what was evil in the sight of the Lord. He did not depart from the sins of Jeroboam the son of Nebat, which he made Israel to sin.
+
+(x)	וַֽיְעַזְּקֵ֣הוּ וַֽיְסַקְּלֵ֗הוּ וַיִּטָּעֵ֨הוּ֙ שֹׂרֵ֔ק וַיִּ֤בֶן מִגְדָּל֙ בְּתֹוכֹ֔ו וְגַם־יֶ֖קֶב חָצֵ֣ב בֹּ֑ו וַיְקַ֛ו לַעֲשֹׂ֥ות עֲנָבִ֖ים וַ_יַּ֥עַשׂ_ בְּאֻשִֽׁים׃ (Isa. 5:2)
+NIV	He dug it up and cleared it of stones and planted it with the choicest vines. He built a watchtower in it and cut out a winepress as well. Then he looked for a crop of good grapes, but _it yielded_ only bad fruit.
+ESV	He dug it and cleared it of stones, and planted it with choice vines. he built a watchtower in the midst of it, and hewed out a wine vat in it. and he looked for it to yield grapes, but _it yielded_ wild grapes.
+
+(x)	וָ_אַ֨עַשׂ֙_ לְמַ֣עַן שְׁמִ֔י לְבִלְתִּ֥י הֵחֵ֛ל לְעֵינֵ֥י הַגֹּויִ֖ם אֲשֶׁר־הֵ֣מָּה בְתֹוכָ֑ם אֲשֶׁ֨ר נֹודַ֤עְתִּי אֲלֵיהֶם֙ לְעֵ֣ינֵיהֶ֔ם לְהֹוצִיאָ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם׃ (Ezek. 20:9)
+NIV	But for the sake of my name _I did_ what would keep it from being profaned in the eyes of the nations they lived among and in whose sight I had revealed myself to the Israelites by bringing them out of Egypt.
+ESV	But _I acted_ for the sake of my name, that it should not be profaned in the sight of the nations among whom they lived, in whose sight I made myself known to them in bringing them out of the land of Egypt.
+
+(x)	וַֽיַּעֲבֹ֖ר מָרְדֳּכָ֑י וַ_יַּ֕עַשׂ_ כְּכֹ֛ל אֲשֶׁר־צִוְּתָ֥ה עָלָ֖יו אֶסְתֵּֽר׃ ס (Esth. 4:17)
+NIV	So Mordecai went away and _carried out_ all of Esther’s instructions.
+ESV	Mordecai then went away and _did_ everything as Esther had ordered him.
+
+(x)	וַיַּמְר֨וּ וַֽיִּמְרְד֜וּ בָּ֗ךְ וַיַּשְׁלִ֤כוּ אֶת־תֹּורָֽתְךָ֙ אַחֲרֵ֣י גַוָּ֔ם וְאֶת־נְבִיאֶ֣יךָ הָרָ֔גוּ אֲשֶׁר־הֵעִ֥ידוּ בָ֖ם לַהֲשִׁיבָ֣ם אֵלֶ֑יךָ וַֽ_יַּעֲשׂ֔וּ_ נֶאָצֹ֖ות גְּדֹולֹֽת׃ (Neh. 9:26)
+NIV	“But they were disobedient and rebelled against you. they put your law behind their backs. They killed your prophets, who had admonished them in order to turn them back to you. _they committed_ awful blasphemies.
+ESV	“Nevertheless, they were disobedient and rebelled against you and cast your law behind their back and killed your prophets, who had warned them in order to turn them back to you, and _they committed_ great blasphemies.
+
+(x)	וַ֠_יַּעַשׂ_ אֶת־מְנֹרֹ֧ות הַזָּהָ֛ב עֶ֖שֶׂר כְּמִשְׁפָּטָ֑ם וַיִּתֵּן֙ בַּֽהֵיכָ֔ל חָמֵ֥שׁ מִיָּמִ֖ין וְחָמֵ֥שׁ מִשְּׂמֹֽאול׃ ס (II Chr. 4:7)
+NIV	_He made_ ten gold lampstands according to the specifications for them and placed them in the temple, five on the south side and five on the north.
+ESV	And _he made_ ten golden lampstands as prescribed, and set them in the temple, five on the south side and five on the north.
+
+(x)	הֲלֹ֤א הִדַּחְתֶּם֙ אֶת־כֹּהֲנֵ֣י יְהוָ֔ה אֶת־בְּנֵ֥י אַהֲרֹ֖ן וְהַלְוִיִּ֑ם וַ_תַּעֲשׂ֨וּ_ לָכֶ֤ם כֹּהֲנִים֙ כְּעַמֵּ֣י הָאֲרָצֹ֔ות כָּל־הַבָּ֗א לְמַלֵּ֨א יָדֹ֜ו בְּפַ֤ר בֶּן־בָּקָר֙ וְאֵילִ֣ם שִׁבְעָ֔ה וְהָיָ֥ה כֹהֵ֖ן לְלֹ֥א אֱלֹהִֽים׃ ס (II Chr. 13:9)
+NIV	But didn’t you drive out the priests of the LORD, the sons of Aaron, and the Levites, and _make_ priests of your own as the peoples of other lands do? Whoever comes to consecrate himself with a young bull and seven rams may become a priest of what are not gods.
+ESV	Have you not driven out the priests of the Lord, the sons of Aaron, and the Levites, and _made_ priests for yourselves like the peoples of other lands? Whoever comes for ordination with a young bull or seven rams becomes a priest of what are no gods.
+
+(x)	וַ_יַּ֥עַשׂ_ הַיָּשָׁ֖ר בְּעֵינֵ֣י יְהוָ֑ה כְּכֹ֥ל אֲשֶׁר־עָשָׂ֖ה דָּוִ֥יד אָבִֽיו׃ (II Chr. 29:2)
+NIV	_He did_ what was right in the eyes of the LORD, just as his father David had done.
+ESV	And _he did_ what was right in the eyes of the Lord, according to all that David his father had done.
+
+(x)	וַ_יַּ֣עַשׂ_ הָרַ֔ע בְּעֵינֵ֖י יְהוָ֣ה אֱלֹהָ֑יו לֹ֣א נִכְנַ֗ע מִלִּפְנֵ֛י יִרְמְיָ֥הוּ הַנָּבִ֖יא מִפִּ֥י יְהוָֽה׃ (II Chr. 36:12)
+NIV	_He did_ evil in the eyes of the LORD his God and did not humble himself before Jeremiah the prophet, who spoke the word of the LORD.
+ESV	_He did_ what was evil in the sight of the Lord his God. _He did_ not humble himself before Jeremiah the prophet, who spoke from the mouth of the Lord.

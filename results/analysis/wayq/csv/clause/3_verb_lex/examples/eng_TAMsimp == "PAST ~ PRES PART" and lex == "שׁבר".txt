@@ -1,0 +1,14 @@
+eng_TAMsimp == "PAST ~ PRES PART" and lex == "שׁבר"
+3 of 3
+
+(x)	וַֽיְהִ֗י כַּאֲשֶׁ֤ר קָרַב֙ אֶל־הַֽמַּחֲנֶ֔ה וַיַּ֥רְא אֶת־הָעֵ֖גֶל וּמְחֹלֹ֑ת וַיִּֽחַר־אַ֣ף מֹשֶׁ֗ה וַיַּשְׁלֵ֤ךְ מִיָּדָיו֙ אֶת־הַלֻּחֹ֔ת וַ_יְשַׁבֵּ֥ר_ אֹתָ֖ם תַּ֥חַת הָהָֽר׃ (Exod. 32:19)
+NIV	When Moses approached the camp and saw the calf and the dancing, his anger burned and he threw the tablets out of his hands, _breaking_ them to pieces at the foot of the mountain.
+ESV	And as soon as he came near the camp and saw the calf and the dancing, Moses’ anger burned hot, and he threw the tablets out of his hands and _broke_ them at the foot of the mountain.
+
+(x)	וָאֶתְפֹּשׂ֙ בִּשְׁנֵ֣י הַלֻּחֹ֔ת וָֽאַשְׁלִכֵ֔ם מֵעַ֖ל שְׁתֵּ֣י יָדָ֑י וָ_אֲשַׁבְּרֵ֖ם_ לְעֵינֵיכֶֽם׃ (Deut. 9:17)
+NIV	So I took the two tablets and threw them out of my hands, breaking them to pieces before your eyes.
+ESV	So I took hold of the two tablets and threw them out of my two hands and _broke_ them before your eyes.
+
+(x)	וּרְאִיתִ֞יו מַגִּ֣יעַ׀ אֵ֣צֶל הָאַ֗יִל וַיִּתְמַרְמַ֤ר אֵלָיו֙ וַיַּ֣ךְ אֶת־הָאַ֔יִל וַ_יְשַׁבֵּר֙_ אֶת־שְׁתֵּ֣י קְרָנָ֔יו וְלֹא־הָ֥יָה כֹ֛חַ בָּאַ֖יִל לַעֲמֹ֣ד לְפָנָ֑יו וַיַּשְׁלִיכֵ֤הוּ אַ֨רְצָה֙ וַֽיִּרְמְסֵ֔הוּ וְלֹא־הָיָ֥ה מַצִּ֛יל לָאַ֖יִל מִיָּדֹֽו׃ (Dan. 8:7)
+NIV	I saw him attack the ram furiously, striking the ram and _shattering_ his two horns. The ram was powerless to stand against him. the goat knocked him to the ground and trampled on him, and none could rescue the ram from his power.
+ESV	I saw him come close to the ram, and he was enraged against him and struck the ram and _broke_ his two horns. And the ram had no power to stand before him, but he cast him down to the ground and trampled on him. And there was no one who could rescue the ram from his power.

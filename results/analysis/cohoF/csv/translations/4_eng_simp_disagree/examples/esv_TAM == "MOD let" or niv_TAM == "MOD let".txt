@@ -1,0 +1,102 @@
+esv_TAM == "MOD let" or niv_TAM == "MOD let"
+25 of 40
+
+(x)	וַיֹּאמְר֞וּ אִ֣ישׁ אֶל־רֵעֵ֗הוּ הָ֚בָה נִלְבְּנָ֣ה לְבֵנִ֔ים וְ_נִשְׂרְפָ֖ה_ לִשְׂרֵפָ֑ה וַתְּהִ֨י לָהֶ֤ם הַלְּבֵנָה֙ לְאָ֔בֶן וְהַ֣חֵמָ֔ר הָיָ֥ה לָהֶ֖ם לַחֹֽמֶר׃ (Gen. 11:3)
+NIV	They said to each other, “Come, let’s make bricks and bake them thoroughly.” They used brick instead of stone, and tar for mortar.
+ESV	And they said to one another, “Come, let us make bricks, and burn them thoroughly.” And they had brick for stone, and bitumen for mortar.
+
+(x)	וַ֠יֹּאמֶר אַל־נָ֞א יִ֤חַר לַֽאדֹנָי֙ וַ_אֲדַבֵּ֔רָה_ אוּלַ֛י יִמָּצְא֥וּן שָׁ֖ם שְׁלֹשִׁ֑ים וַיֹּ֨אמֶר֙ לֹ֣א אֶֽעֱשֶׂ֔ה אִם־אֶמְצָ֥א שָׁ֖ם שְׁלֹשִֽׁים׃ (Gen. 18:30)
+NIV	Then he said, “May the Lord not be angry, but _let me speak_. What if only thirty can be found there?” He answered, “I will not do it if I find thirty there.”
+ESV	Then he said, “Oh let not the Lord be angry, and _I will speak_. Suppose thirty are found there.” He answered, “I will not do it, if I find thirty there.”
+
+(x)	וְ_נָק֥וּמָה_ וְנַעֲלֶ֖ה בֵּֽית־אֵ֑ל וְאֶֽעֱשֶׂה־שָּׁ֣ם מִזְבֵּ֗חַ לָאֵ֞ל הָעֹנֶ֤ה אֹתִי֙ בְּיֹ֣ום צָֽרָתִ֔י וַיְהִי֙ עִמָּדִ֔י בַּדֶּ֖רֶךְ אֲשֶׁ֥ר הָלָֽכְתִּי׃ (Gen. 35:3)
+NIV	Then _come_, let us go up to Bethel, where I will build an altar to God, who answered me in the day of my distress and who has been with me wherever I have gone.”
+ESV	Then _let us arise_ and go up to Bethel, so that I may make there an altar to the God who answers me in the day of my distress and has been with me wherever I have gone.”
+
+(x)	וַיֹּ֧אמֶר יִשְׂרָאֵ֛ל אֶל־יֹוסֵ֖ף _אָמ֣וּתָה_ הַפָּ֑עַם אַחֲרֵי֙ רְאֹותִ֣י אֶת־פָּנֶ֔יךָ כִּ֥י עֹודְךָ֖ חָֽי׃ (Gen. 46:30)
+NIV	Israel said to Joseph, “Now _I am ready to die_, since I have seen for myself that you are still alive.”
+ESV	Israel said to Joseph, “Now _let me die_, since I have seen your face and know that you are still alive.”
+
+(x)	הֲלֹא־זֶ֣ה הַדָּבָ֗ר אֲשֶׁר֩ דִּבַּ֨רְנוּ אֵלֶ֤יךָ בְמִצְרַ֨יִם֙ לֵאמֹ֔ר חֲדַ֥ל מִמֶּ֖נּוּ וְ_נַֽעַבְדָ֣ה_ אֶת־מִצְרָ֑יִם כִּ֣י טֹ֥וב לָ֨נוּ֙ עֲבֹ֣ד אֶת־מִצְרַ֔יִם מִמֻּתֵ֖נוּ בַּמִּדְבָּֽר׃ (Exod. 14:12)
+NIV	Didn’t we say to you in Egypt, ‘Leave us alone. _let us serve_ the Egyptians’? It would have been better for us to serve the Egyptians than to die in the desert!”
+ESV	Is not this what we said to you in Egypt: ‘Leave us alone that _we may serve_ the Egyptians’? For it would have been better for us to serve the Egyptians than to die in the wilderness.”
+
+(x)	וַיֹּאמְר֖וּ אִ֣ישׁ אֶל־אָחִ֑יו נִתְּנָ֥ה רֹ֖אשׁ וְ_נָשׁ֥וּבָה_ מִצְרָֽיְמָה׃ (Num. 14:4)
+NIV	And they said to each other, “We should choose a leader and _go back_ to Egypt.”
+ESV	And they said to one another, “Let us choose a leader and _go back_ to Egypt.”
+
+(x)	וַיֹּאמְר֨וּ אֵלָ֥יו בְּנֵֽי־יִשְׂרָאֵל֮ בַּֽמְסִלָּ֣ה נַעֲלֶה֒ וְאִם־מֵימֶ֤יךָ נִשְׁתֶּה֙ אֲנִ֣י וּמִקְנַ֔י וְנָתַתִּ֖י מִכְרָ֑ם רַ֥ק אֵין־דָּבָ֖ר בְּרַגְלַ֥י _אֶֽעֱבֹֽרָה_׃ (Num. 20:19)
+NIV	The Israelites replied: “We will go along the main road, and if we or our livestock drink any of your water, we will pay for it. We only want to pass through on foot — nothing else.”
+ESV	And the people of Israel said to him, “We will go up by the highway, and if we drink of your water, I and my livestock, then I will pay for it. Let me only pass through on foot, nothing more.”
+
+(x)	וַיֹּ֨אמֶר אֲלֵהֶ֜ם גִּדְעֹ֗ון _אֶשְׁאֲלָ֤ה_ מִכֶּם֙ שְׁאֵלָ֔ה וּתְנוּ־לִ֕י אִ֖ישׁ נֶ֣זֶם שְׁלָלֹ֑ו כִּֽי־נִזְמֵ֤י זָהָב֙ לָהֶ֔ם כִּ֥י יִשְׁמְעֵאלִ֖ים הֵֽם׃ (Judg. 8:24)
+NIV	And he said, “_I do have one request_, that each of you give me an ear-ring from your share of the plunder.” ( It was the custom of the Ishmaelites to wear gold ear-rings. )
+ESV	And Gideon said to them, “_Let me make a request_ of you: every one of you give me the earrings from his spoil.” ( For they had golden earrings, because they were Ishmaelites. )
+
+(x)	וַיִּשְׁלַ֣ח יִשְׂרָאֵ֣ל מַלְאָכִ֣ים׀ אֶל־מֶלֶךְ֩ אֱדֹ֨ום׀ לֵאמֹ֜ר _אֶעְבְּרָה_־נָּ֣א בְאַרְצֶ֗ךָ וְלֹ֤א שָׁמַע֙ מֶ֣לֶךְ אֱדֹ֔ום וְגַ֨ם אֶל־מֶ֧לֶךְ מֹואָ֛ב שָׁלַ֖ח וְלֹ֣א אָבָ֑ה וַיֵּ֥שֶׁב יִשְׂרָאֵ֖ל בְּקָדֵֽשׁ׃ (Judg. 11:17)
+NIV	Then Israel sent messengers to the king of Edom, saying, ‘_Give us permission to go_ through your country,’ but the king of Edom would not listen. They sent also to the king of Moab, and he refused. So Israel stayed at Kadesh.
+ESV	Israel then sent messengers to the king of Edom, saying, ‘Please _let us pass_ through your land,’ but the king of Edom would not listen. And they sent also to the king of Moab, but he would not consent. So Israel remained at Kadesh.
+
+(x)	וַיִּקְרָ֥א שִׁמְשֹׁ֛ון אֶל־יְהוָ֖ה וַיֹּאמַ֑ר אֲדֹנָ֣י יֱהֹוִ֡ה זָכְרֵ֣נִי נָא֩ וְחַזְּקֵ֨נִי נָ֜א אַ֣ךְ הַפַּ֤עַם הַזֶּה֙ הָאֱלֹהִ֔ים וְ_אִנָּקְמָ֧ה_ נְקַם־אַחַ֛ת מִשְּׁתֵ֥י עֵינַ֖י מִפְּלִשְׁתִּֽים׃ (Judg. 16:28)
+NIV	Then Samson prayed to the LORD, “O Sovereign LORD, remember me. O God, please strengthen me just once more, and let me with one blow get revenge on the Philistines for my two eyes.”
+ESV	Then Samson called to the Lord and said, “O Lord God, please remember me and please strengthen me only this once, O God, that _I may be avenged_ on the Philistines for my two eyes.”
+
+(x)	וַיֹּ֤אמֶר שְׁמוּאֵל֙ אֶל־שָׁא֔וּל הֶ֚רֶף וְ_אַגִּ֣ידָה_ לְּךָ֔ אֵת֩ אֲשֶׁ֨ר דִּבֶּ֧ר יְהוָ֛ה אֵלַ֖י הַלָּ֑יְלָה וַיֹּ֥אמֶר לֹ֖ו דַּבֵּֽר׃ ס (I Sam. 15:16)
+NIV	“Stop!” Samuel said to Saul. “_Let me tell_ you what the LORD said to me last night.” “Tell me,” Saul replied.
+ESV	Then Samuel said to Saul, “Stop! _I will tell_ you what the Lord said to me this night.” And he said to him, “Speak.”
+
+(x)	וַיֹּ֨אמֶר֙ הַפְּלִשְׁתִּ֔י אֲנִ֗י חֵרַ֛פְתִּי אֶת־מַעַרְכֹ֥ות יִשְׂרָאֵ֖ל הַיֹּ֣ום הַזֶּ֑ה תְּנוּ־לִ֣י אִ֔ישׁ וְ_נִֽלָּחֲמָ֖ה_ יָֽחַד׃ (I Sam. 17:10)
+NIV	Then the Philistine said, “This day I defy the ranks of Israel! Give me a man and _let us fight_ each other.”
+ESV	And the Philistine said, “I defy the ranks of Israel this day. Give me a man, that _we may fight_ together.”
+
+(x)	וַיֹּ֣אמֶר אַבְנֵ֣ר אֶל־דָּוִ֡ד אָק֣וּמָה׀ וְֽאֵלֵ֡כָה וְ_אֶקְבְּצָה֩_ אֶל־אֲדֹנִ֨י הַמֶּ֜לֶךְ אֶת־כָּל־יִשְׂרָאֵ֗ל וְיִכְרְת֤וּ אִתְּךָ֙ בְּרִ֔ית וּמָ֣לַכְתָּ֔ בְּכֹ֥ל אֲשֶׁר־תְּאַוֶּ֖ה נַפְשֶׁ֑ךָ וַיְּשַׁלַּ֥ח דָּוִ֛ד אֶת־אַבְנֵ֖ר וַיֵּ֥לֶךְ בְּשָׁלֹֽום׃ (II Sam. 3:21)
+NIV	Then Abner said to David, “Let me go at once and _assemble_ all Israel for my lord the king, so that they may make a compact with you, and that you may rule over all that your heart desires.” So David sent Abner away, and he went in peace.
+ESV	And Abner said to David, “I will arise and go and _will gather_ all Israel to my lord the king, that they may make a covenant with you, and that you may reign over all that your heart desires.” So David sent Abner away, and he went in peace.
+
+(x)	וַיֹּ֥אמֶר אֲחִיתֹ֖פֶל אֶל־אַבְשָׁלֹ֑ם _אֶבְחֲרָ֣ה_ נָּ֗א שְׁנֵים־עָשָׂ֥ר אֶ֨לֶף֙ אִ֔ישׁ וְאָק֛וּמָה וְאֶרְדְּפָ֥ה אַחֲרֵי־דָוִ֖ד הַלָּֽיְלָה׃ (II Sam. 17:1)
+NIV	Ahithophel said to Absalom, “_I would choose_ twelve thousand men and set out tonight in pursuit of David.
+ESV	Moreover, Ahithophel said to Absalom, “_Let me choose_ twelve thousand men, and I will arise and pursue David tonight.
+
+(x)	וַיֹּ֨אמֶר֙ אַבְשָׁלֹ֔ום קְרָ֣א נָ֔א גַּ֖ם לְחוּשַׁ֣י הָאַרְכִּ֑י וְ_נִשְׁמְעָ֥ה_ מַה־בְּפִ֖יו גַּם־הֽוּא׃ (II Sam. 17:5)
+NIV	But Absalom said, “Summon also Hushai the Arkite, so that _we can hear_ what he has to say.”
+ESV	Then Absalom said, “Call Hushai the Archite also, and _let us hear_ what he has to say.”
+
+(x)	וַיֹּ֧אמֶר דָּוִ֛ד אֶל־גָּ֖ד צַר־לִ֣י מְאֹ֑ד נִפְּלָה־נָּ֤א בְיַד־יְהוָה֙ כִּֽי־רַבִּ֣ים רַֽחֲמָ֔יו וּבְיַד־אָדָ֖ם אַל־_אֶפֹּֽלָה_׃ (II Sam. 24:14)
+NIV	David said to Gad, “I am in deep distress. Let us fall into the hands of the LORD, for his mercy is great. but do not let me fall into the hands of men.”
+ESV	Then David said to Gad, “I am in great distress. Let us fall into the hand of the Lord, for his mercy is great. but let me not fall into the hand of man.”
+
+(x)	_אָשִׁ֤ירָה_ נָּא֙ לִֽידִידִ֔י שִׁירַ֥ת דֹּודִ֖י לְכַרְמֹ֑ו כֶּ֛רֶם הָיָ֥ה לִֽידִידִ֖י בְּקֶ֥רֶן בֶּן־שָֽׁמֶן׃ (Isa. 5:1)
+NIV	_I will sing_ for the one I love a song about his vineyard: My loved one had a vineyard on a fertile hillside.
+ESV	_Let me sing_ for my beloved my love song concerning his vineyard: My beloved had a vineyard on a very fertile hill.
+
+(x)	אֱֽלֹהַ֗י בְּךָ֣ בָ֭טַחְתִּי אַל־_אֵבֹ֑ושָׁה_ אַל־יַֽעַלְצ֖וּ אֹיְבַ֣י לִֽי׃ (Psa. 25:2)
+NIV	in you I trust, O my God. Do not let me be put to shame, nor let my enemies triumph over me.
+ESV	O my God, in you I trust. let me not be put to shame. let not my enemies exult over me.
+
+(x)	הָ֤פַךְ יָ֨ם׀ לְֽיַבָּשָׁ֗ה בַּ֭נָּהָר יַֽעַבְר֣וּ בְרָ֑גֶל שָׁ֝֗ם _נִשְׂמְחָה_־בֹּֽו׃ (Psa. 66:6)
+NIV	He turned the sea into dry land, they passed through the waters on foot — come, _let us rejoice_ in him.
+ESV	He turned the sea into dry land. they passed through the river on foot. There _did we rejoice_ in him,
+
+(x)	לְכֽוּ־שִׁמְע֣וּ וַ֭_אֲסַפְּרָה_ כָּל־יִרְאֵ֣י אֱלֹהִ֑ים אֲשֶׁ֖ר עָשָׂ֣ה לְנַפְשִֽׁי׃ (Psa. 66:16)
+NIV	Come and listen, all you who fear God. _let me tell_ you what he has done for me.
+ESV	Come and hear, all you who fear God, and _I will tell_ what he has done for my soul.
+
+(x)	_אֶֽזְכְּרָ֥ה_ נְגִינָתִ֗י בַּ֫לָּ֥יְלָה עִם־לְבָבִ֥י אָשִׂ֑יחָה וַיְחַפֵּ֥שׂ רוּחִֽי׃ (Psa. 77:7)
+NIV	_I remembered_ my songs in the night. My heart mused and my spirit inquired:
+ESV	I said, “_Let me remember_ my song in the night. let me meditate in my heart.” Then my spirit made a diligent search:
+
+(x)	_אֶשְׁמְעָ֗ה_ מַה־יְדַבֵּר֮ הָאֵ֪ל׀ יְה֫וָ֥ה כִּ֤י׀ יְדַבֵּ֬ר שָׁלֹ֗ום אֶל־עַמֹּ֥ו וְאֶל־חֲסִידָ֑יו וְֽאַל־יָשׁ֥וּבוּ לְכִסְלָֽה׃ (Psa. 85:9)
+NIV	_I will listen_ to what God the LORD will say. he promises peace to his people, his saints — but let them not return to folly.
+ESV	_Let me hear_ what God the Lord will speak, for he will speak peace to his people, to his saints. but let them not turn back to folly.
+
+(x)	הַחֲרִ֣ישׁוּ מִ֭מֶּנִּי וַ_אֲדַבְּרָה_־אָ֑נִי וְיַעֲבֹ֖ר עָלַ֣י מָֽה׃ (Job 13:13)
+NIV	“Keep silent and _let me speak_. then let come to me what may.
+ESV	“Let me have silence, and I _will speak_, and let come on me what may.
+
+(x)	_אֶ֭זְרְעָה_ וְאַחֵ֣ר יֹאכֵ֑ל וְֽצֶאֱצָאַ֥י יְשֹׁרָֽשׁוּ׃ (Job 31:8)
+NIV	then may others eat what _I have sown_, and may my crops be uprooted.
+ESV	then _let me sow_, and another eat, and let what grows for me be rooted out.
+
+(x)	וְיֵשׁ֙ אֲשֶׁ֣ר אֹמְרִ֔ים בָּנֵ֥ינוּ וּבְנֹתֵ֖ינוּ אֲנַ֣חְנוּ רַבִּ֑ים וְ_נִקְחָ֥ה_ דָגָ֖ן וְנֹאכְלָ֥ה וְנִחְיֶֽה׃ (Neh. 5:2)
+NIV	Some were saying, “We and our sons and daughters are numerous. in order for us to eat and stay alive, _we must get_ grain.”
+ESV	For there were those who said, “With our sons and our daughters, we are many. So _let us get_ grain, that we may eat and keep alive.”

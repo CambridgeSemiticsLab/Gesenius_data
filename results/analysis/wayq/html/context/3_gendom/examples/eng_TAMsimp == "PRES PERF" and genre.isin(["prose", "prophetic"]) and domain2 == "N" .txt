@@ -1,0 +1,26 @@
+eng_TAMsimp == "PRES PERF" and genre.isin(["prose", "prophetic"]) and domain2 == "N" 
+6 of 6
+
+(x)	וָאֶעֱמֹ֤ד עָלָיו֙ וַאֲמֹ֣תְתֵ֔הוּ כִּ֣י יָדַ֔עְתִּי כִּ֛י לֹ֥א יִֽחְיֶ֖ה אַחֲרֵ֣י נִפְלֹ֑ו וָאֶקַּ֞ח הַנֵּ֣זֶר׀ אֲשֶׁ֣ר עַל־רֹאשֹׁ֗ו וְאֶצְעָדָה֙ אֲשֶׁ֣ר עַל־זְרֹעֹ֔ו וָ_אֲבִיאֵ֥ם_ אֶל־אֲדֹנִ֖י הֵֽנָּה׃ (II Sam. 1:10)
+NIV	“So I stood over him and killed him, because I knew that after he had fallen he could not survive. And I took the crown that was on his head and the band on his arm and _have brought_ them here to my lord.”
+ESV	So I stood beside him and killed him, because I was sure that he could not live after he had fallen. And I took the crown that was on his head and the armlet that was on his arm, and _I have brought_ them here to my lord.”
+
+(x)	וַיִּבְרְח֥וּ הַבְּאֵרֹתִ֖ים גִּתָּ֑יְמָה וַֽ_יִּהְיוּ_־שָׁ֣ם גָּרִ֔ים עַ֖ד הַיֹּ֥ום הַזֶּֽה׃ ס (II Sam. 4:3)
+NIV	because the people of Beeroth fled to Gittaim and _have lived_ there as aliens to this day.
+ESV	the Beerothites fled to Gittaim and _have been_ sojourners there to this day ).
+
+(x)	וַ_יִּפְשְׁע֤וּ_ יִשְׂרָאֵל֙ בְּבֵ֣ית דָּוִ֔ד עַ֖ד הַיֹּ֥ום הַזֶּֽה׃ ס (I Kgs. 12:19)
+NIV	So Israel _has been in rebellion_ against the house of David to this day.
+ESV	So Israel _has been in rebellion_ against the house of David to this day.
+
+(x)	וַ_יֵּרָפ֣וּ_ הַמַּ֔יִם עַ֖ד הַיֹּ֣ום הַזֶּ֑ה כִּדְבַ֥ר אֱלִישָׁ֖ע אֲשֶׁ֥ר דִּבֵּֽר׃ פ (II Kgs. 2:22)
+NIV	And the water _has remained wholesome_ to this day, according to the word Elisha had spoken.
+ESV	So the water _has been healed_ to this day, according to the word that Elisha spoke.
+
+(x)	וַ_תִּ֥בֶן_ צֹ֛ר מָצֹ֖ור לָ֑הּ וַתִּצְבָּר־כֶּ֨סֶף֙ כֶּֽעָפָ֔ר וְחָר֖וּץ כְּטִ֥יט חוּצֹֽות׃ (Zech. 9:3)
+NIV	Tyre _has built_ herself a stronghold. she has heaped up silver like dust, and gold like the dirt of the streets.
+ESV	Tyre _has built_ herself a rampart and heaped up silver like dust, and fine gold like the mud of the streets.
+
+(x)	וַ_יִּפְשְׁע֤וּ_ יִשְׂרָאֵל֙ בְּבֵ֣ית דָּוִ֔יד עַ֖ד הַיֹּ֥ום הַזֶּֽה׃ ס (II Chr. 10:19)
+NIV	So Israel _has been in rebellion_ against the house of David to this day.
+ESV	So Israel _has been in rebellion_ against the house of David to this day.

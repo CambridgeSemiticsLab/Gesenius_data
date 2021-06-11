@@ -1,0 +1,102 @@
+eng_TAMsimp == "PRES"and genre == "prophetic" and domain2 == "Q" 
+25 of 63
+
+(x)	וַ_תִּמָּלֵ֤א_ אַרְצֹו֙ כֶּ֣סֶף וְזָהָ֔ב וְאֵ֥ין קֵ֖צֶה לְאֹצְרֹתָ֑יו וַ_תִּמָּלֵ֤א_ אַרְצֹו֙ סוּסִ֔ים וְאֵ֥ין קֵ֖צֶה לְמַרְכְּבֹתָֽיו׃ (Isa. 2:7)
+NIV	Their land _is full of_ silver and gold. there is no end to their treasures. Their land _is full of_ horses. there is no end to the chariots.
+ESV	Their land _is filled_ with silver and gold, and there is no end to their treasures. their land _is filled_ with horses, and there is no end to their chariots.
+
+(x)	הֹ֛וי הַמַּעֲמִיקִ֥ים מֵֽיהוָ֖ה לַסְתִּ֣ר עֵצָ֑ה וְהָיָ֤ה בְמַחְשָׁךְ֙ מַֽעֲשֵׂיהֶ֔ם וַ_יֹּ֣אמְר֔וּ_ מִ֥י רֹאֵ֖נוּ וּמִ֥י יֹודְעֵֽנוּ׃ (Isa. 29:15)
+NIV	Woe to those who go to great depths to hide their plans from the LORD, who do their work in darkness and _think_, “Who sees us? Who will know?”
+ESV	Ah, you who hide deep from the Lord your counsel, whose deeds are in the dark, and who _say_, “Who sees us? Who knows us?”
+
+(x)	וַ_יְחַזֵּ֤ק_ חָרָשׁ֙ אֶת־צֹרֵ֔ף מַחֲלִ֥יק פַּטִּ֖ישׁ אֶת־הֹ֣ולֶם פָּ֑עַם אֹמֵ֤ר לַדֶּ֨בֶק֙ טֹ֣וב ה֔וּא וַיְחַזְּקֵ֥הוּ בְמַסְמְרִ֖ים לֹ֥א יִמֹּֽוט׃ ס (Isa. 41:7)
+NIV	The craftsman _encourages_ the goldsmith, and he who smooths with the hammer spurs on him who strikes the anvil. He says of the welding, “It is good.” He nails down the idol so that it will not topple.
+ESV	The craftsman _strengthens_ the goldsmith, and he who smooths with the hammer him who strikes the anvil, saying of the soldering, “It is good”. and they strengthen it with nails so that it cannot be moved.
+
+(x)	חָרַ֤שׁ בַּרְזֶל֙ מַֽעֲצָ֔ד וּפָעַל֙ בַּפֶּחָ֔ם וּבַמַּקָּבֹ֖ות יִצְּרֵ֑הוּ וַ_יִּפְעָלֵ֨הוּ֙_ בִּזְרֹ֣ועַ כֹּחֹ֔ו גַּם־רָעֵב֙ וְאֵ֣ין כֹּ֔חַ לֹא־שָׁ֥תָה מַ֖יִם וַיִּיעָֽף׃ (Isa. 44:12)
+NIV	The blacksmith takes a tool and works with it in the coals. he shapes an idol with hammers, _he forges_ it with the might of his arm. He gets hungry and loses his strength. he drinks no water and grows faint.
+ESV	The ironsmith takes a cutting tool and _works_ it over the coals. He fashions it with hammers and _works_ it with his strong arm. He becomes hungry, and his strength fails. he drinks no water and is faint.
+
+(x)	וְהָיָ֤ה לְאָדָם֙ לְבָעֵ֔ר וַ_יִּקַּ֤ח_ מֵהֶם֙ וַיָּ֔חָם אַף־יַשִּׂ֖יק וְאָ֣פָה לָ֑חֶם אַף־יִפְעַל־אֵל֙ וַיִּשְׁתָּ֔חוּ עָשָׂ֥הוּ פֶ֖סֶל וַיִּסְגָּד־לָֽמֹו׃ (Isa. 44:15)
+NIV	It is man’s fuel for burning. some of it _he takes_ and warms himself, he kindles a fire and bakes bread. But he also fashions a god and worships it. he makes an idol and bows down to it.
+ESV	Then it becomes fuel for a man. _He takes_ a part of it and warms himself. he kindles a fire and bakes bread. Also he makes a god and worships it. he makes it an idol and falls down before it.
+
+(x)	וְהָיָ֤ה לְאָדָם֙ לְבָעֵ֔ר וַיִּקַּ֤ח מֵהֶם֙ וַיָּ֔חָם אַף־יַשִּׂ֖יק וְאָ֣פָה לָ֑חֶם אַף־יִפְעַל־אֵל֙ וַ_יִּשְׁתָּ֔חוּ_ עָשָׂ֥הוּ פֶ֖סֶל וַיִּסְגָּד־לָֽמֹו׃ (Isa. 44:15)
+NIV	It is man’s fuel for burning. some of it he takes and warms himself, he kindles a fire and bakes bread. But he also fashions a god and _worships_ it. he makes an idol and bows down to it.
+ESV	Then it becomes fuel for a man. He takes a part of it and warms himself. he kindles a fire and bakes bread. Also he makes a god and _worships_ it. he makes it an idol and falls down before it.
+
+(x)	וַ_יֹּ֗אמֶר_ נָקֵ֨ל מִֽהְיֹותְךָ֥ לִי֙ עֶ֔בֶד לְהָקִים֙ אֶת־שִׁבְטֵ֣י יַעֲקֹ֔ב וּנְצוּרֵ֥י יִשְׂרָאֵ֖ל לְהָשִׁ֑יב וּנְתַתִּ֨יךָ֙ לְאֹ֣ור גֹּויִ֔ם לִֽהְיֹ֥ות יְשׁוּעָתִ֖י עַד־קְצֵ֥ה הָאָֽרֶץ׃ ס (Isa. 49:6)
+NIV	_he says_: “It is too small a thing for you to be my servant to restore the tribes of Jacob and bring back those of Israel I have kept. I will also make you a light for the Gentiles, that you may bring my salvation to the ends of the earth.”
+ESV	_he says_: “It is too light a thing that you should be my servant to raise up the tribes of Jacob and to bring back the preserved of Israel. I will make you as a light for the nations, that my salvation may reach to the end of the earth.”
+
+(x)	וַתִּשְׁכַּ֞ח יְהוָ֣ה עֹשֶׂ֗ךָ נֹוטֶ֣ה שָׁמַיִם֮ וְיֹסֵ֣ד אָרֶץ֒ וַ_תְּפַחֵ֨ד_ תָּמִ֜יד כָּל־הַיֹּ֗ום מִפְּנֵי֙ חֲמַ֣ת הַמֵּצִ֔יק כַּאֲשֶׁ֥ר כֹּונֵ֖ן לְהַשְׁחִ֑ית וְאַיֵּ֖ה חֲמַ֥ת הַמֵּצִֽיק׃ (Isa. 51:13)
+NIV	that you forget the LORD your Maker, who stretched out the heavens and laid the foundations of the earth, that you live in constant terror every day because of the wrath of the oppressor, who is bent on destruction? For where is the wrath of the oppressor?
+ESV	and have forgotten the Lord, your Maker, who stretched out the heavens and laid the foundations of the earth, and _you fear_ continually all the day because of the wrath of the oppressor, when he sets himself to destroy? And where is the wrath of the oppressor?
+
+(x)	וַנְּהִ֤י כַטָּמֵא֙ כֻּלָּ֔נוּ וּכְבֶ֥גֶד עִדִּ֖ים כָּל־צִדְקֹתֵ֑ינוּ וַ_נָּ֤בֶל_ כֶּֽעָלֶה֙ כֻּלָּ֔נוּ וַעֲוֹנֵ֖נוּ כָּר֥וּחַ יִשָּׂאֻֽנוּ׃ (Isa. 64:5)
+NIV	All of us have become like one who is unclean, and all our righteous acts are like filthy rags. we all _shrivel up_ like a leaf, and like the wind our sins sweep us away.
+ESV	We have all become like one who is unclean, and all our righteous deeds are like a polluted garment. We all fade like a leaf, and our iniquities, like the wind, take us away.
+
+(x)	לְקֹ֨ול תִּתֹּ֜ו הֲמֹ֥ון מַ֨יִם֙ בַּשָּׁמַ֔יִם וַ_יַּעֲלֶ֥ה_ נְשִׂאִ֖ים מִקְצֵ֣ה הָאָ֑רֶץ בְּרָקִ֤ים לַמָּטָר֙ עָשָׂ֔ה וַיֹּ֥וצֵא ר֖וּחַ מֵאֹצְרֹתָֽיו׃ (Jer. 10:13)
+NIV	When he thunders, the waters in the heavens roar. he makes clouds rise from the ends of the earth. He sends lightning with the rain and brings out the wind from his storehouses.
+ESV	When he utters his voice, there is a tumult of waters in the heavens, and he makes the mist rise from the ends of the earth. He makes lightning for the rain, and he brings forth the wind from his storehouses.
+
+(x)	הִ֠נְנִי עַֽל־נִבְּאֵ֞י חֲלֹמֹ֥ות שֶׁ֨קֶר֙ נְאֻם־יְהוָ֔ה וַֽ_יְסַפְּרוּם֙_ וַיַּתְע֣וּ אֶת־עַמִּ֔י בְּשִׁקְרֵיהֶ֖ם וּבְפַחֲזוּתָ֑ם וְאָנֹכִ֨י לֹֽא־שְׁלַחְתִּ֜ים וְלֹ֣א צִוִּיתִ֗ים וְהֹועֵ֛יל לֹֽא־יֹועִ֥ילוּ לָֽעָם־הַזֶּ֖ה נְאֻם־יְהוָֽה׃ (Jer. 23:32)
+NIV	Indeed, I am against those who prophesy false dreams,” declares the LORD. “_They tell_ them and lead my people astray with their reckless lies, yet I did not send or appoint them. They do not benefit these people in the least,” declares the LORD.
+ESV	Behold, I am against those who prophesy lying dreams, declares the Lord, and who _tell_ them and lead my people astray by their lies and their recklessness, when I did not send them or charge them. So they do not profit this people at all, declares the Lord.
+
+(x)	וַיֹּ֣אמֶר אֵלַ֗י עֲוֹ֨ן בֵּֽית־יִשְׂרָאֵ֤ל וִֽיהוּדָה֙ גָּדֹול֙ בִּמְאֹ֣ד מְאֹ֔ד וַ_תִּמָּלֵ֤א_ הָאָ֨רֶץ֙ דָּמִ֔ים וְהָעִ֖יר מָלְאָ֣ה מֻטֶּ֑ה כִּ֣י אָמְר֗וּ עָזַ֤ב יְהוָה֙ אֶת־הָאָ֔רֶץ וְאֵ֥ין יְהוָ֖ה רֹאֶֽה׃ (Ezek. 9:9)
+NIV	He answered me, “The sin of the house of Israel and Judah is exceedingly great. the land _is full of_ bloodshed and the city _is full of_ injustice. They say, ‘The LORD has forsaken the land. the LORD does not see.’
+ESV	Then he said to me, “The guilt of the house of Israel and Judah is exceedingly great. The land _is full_ of blood, and the city full of injustice. For they say, ‘The Lord has forsaken the land, and the Lord does not see.’
+
+(x)	וָ_אֶתֵּ֥ן_ נֶ֨זֶם֙ עַל־אַפֵּ֔ךְ וַעֲגִילִ֖ים עַל־אָזְנָ֑יִךְ וַעֲטֶ֥רֶת תִּפְאֶ֖רֶת בְּרֹאשֵֽׁךְ׃ (Ezek. 16:12)
+NIV	and _I put_ a ring on your nose, ear-rings on your ears and a beautiful crown on your head.
+ESV	And _I put_ a ring on your nose and earrings in your ears and a beautiful crown on your head.
+
+(x)	וּבְשׁ֣וּב רָשָׁ֗ע מֵֽרִשְׁעָתֹו֙ אֲשֶׁ֣ר עָשָׂ֔ה וַ_יַּ֥עַשׂ_ מִשְׁפָּ֖ט וּצְדָקָ֑ה ה֖וּא אֶת־נַפְשֹׁ֥ו יְחַיֶּֽה׃ (Ezek. 18:27)
+NIV	But if a wicked man turns away from the wickedness he has committed and _does_ what is just and right, he will save his life.
+ESV	Again, when a wicked person turns away from the wickedness he has committed and _does_ what is just and right, he shall save his life.
+
+(x)	שֹׁ֥חַד לָֽקְחוּ־בָ֖ךְ לְמַ֣עַן שְׁפָךְ־דָּ֑ם נֶ֧שֶׁךְ וְתַרְבִּ֣ית לָקַ֗חַתְּ וַ_תְּבַצְּעִ֤י_ רֵעַ֨יִךְ֙ בַּעֹ֔שֶׁק וְאֹתִ֣י שָׁכַ֔חַתְּ נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃ (Ezek. 22:12)
+NIV	In you men accept bribes to shed blood. you take usury and excessive interest and _make unjust gain_ from your neighbours by extortion. And you have forgotten me, declares the Sovereign LORD.
+ESV	In you they take bribes to shed blood. you take interest and profit and _make gain_ of your neighbors by extortion. but me you have forgotten, declares the Lord God.
+
+(x)	וְקֹ֣ול הָמֹון֮ שָׁלֵ֣ו בָהּ֒ וְאֶל־אֲנָשִׁים֙ מֵרֹ֣ב אָדָ֔ם מוּבָאִ֥ים סָבָאִ֖ים מִמִּדְבָּ֑ר וַֽ_יִּתְּנ֤וּ_ צְמִידִים֙ אֶל־יְדֵיהֶ֔ן וַעֲטֶ֥רֶת תִּפְאֶ֖רֶת עַל־רָאשֵׁיהֶֽן׃ (Ezek. 23:42)
+NIV	“The noise of a carefree crowd was around her. Sabeans were brought from the desert along with men from the rabble, and _they put_ bracelets on the arms of the woman and her sister and beautiful crowns on their heads.
+ESV	The sound of a carefree multitude was with her. and with men of the common sort, drunkards were brought from the wilderness. and _they put_ bracelets on the hands of the women, and beautiful crowns on their heads.
+
+(x)	שָׁ֤ם עֵילָם֙ וְכָל־הֲמֹונָ֔הּ סְבִיבֹ֖ות קְבֻרָתָ֑הּ כֻּלָּ֣ם חֲלָלִים֩ הַנֹּפְלִ֨ים בַּחֶ֜רֶב אֲֽשֶׁר־יָרְד֥וּ עֲרֵלִ֣ים׀ אֶל־אֶ֣רֶץ תַּחְתִּיֹּ֗ות אֲשֶׁ֨ר נָתְנ֤וּ חִתִּיתָם֙ בְּאֶ֣רֶץ חַיִּ֔ים וַ_יִּשְׂא֥וּ_ כְלִמָּתָ֖ם אֶת־יֹ֥ורְדֵי בֹֽור׃ (Ezek. 32:24)
+NIV	“Elam is there, with all her hordes around her grave. All of them are slain, fallen by the sword. All who had spread terror in the land of the living went down uncircumcised to the earth below. _They bear_ their shame with those who go down to the pit.
+ESV	“Elam is there, and all her multitude around her grave. all of them slain, fallen by the sword, who went down uncircumcised into the world below, who spread their terror in the land of the living. and _they bear_ their shame with those who go down to the pit.
+
+(x)	שָׁ֣מָּה נְסִיכֵ֥י צָפֹ֛ון כֻּלָּ֖ם וְכָל־צִֽדֹנִ֑י אֲשֶׁר־יָרְד֣וּ אֶת־חֲלָלִ֗ים בְּחִתִּיתָ֑ם מִגְּבֽוּרָתָם֙ בֹּושִׁ֔ים וַ_יִּשְׁכְּב֤וּ_ עֲרֵלִים֙ אֶת־חַלְלֵי־חֶ֔רֶב וַיִּשְׂא֥וּ כְלִמָּתָ֖ם אֶת־יֹ֥ורְדֵי בֹֽור׃ (Ezek. 32:30)
+NIV	“All the princes of the north and all the Sidonians are there. they went down with the slain in disgrace despite the terror caused by their power. _They lie_ uncircumcised with those killed by the sword and bear their shame with those who go down to the pit.
+ESV	“The princes of the north are there, all of them, and all the Sidonians, who have gone down in shame with the slain, for all the terror that they caused by their might. _they lie_ uncircumcised with those who are slain by the sword, and bear their shame with those who go down to the pit.
+
+(x)	וְשָׁמַ֨ע הַשֹּׁמֵ֜עַ אֶת־קֹ֤ול הַשֹּׁופָר֙ וְלֹ֣א נִזְהָ֔ר וַתָּ֥בֹוא חֶ֖רֶב וַ_תִּקָּחֵ֑הוּ_ דָּמֹ֥ו בְרֹאשֹׁ֖ו יִֽהְיֶֽה׃ (Ezek. 33:4)
+NIV	then if anyone hears the trumpet but does not take warning and the sword comes and _takes_ his life, his blood will be on his own head.
+ESV	then if anyone who hears the sound of the trumpet does not take warning, and the sword comes and takes him away, his blood shall be upon his own head.
+
+(x)	זִבְחֵ֣י הַבְהָבַ֗י יִזְבְּח֤וּ בָשָׂר֙ וַ_יֹּאכֵ֔לוּ_ יְהוָ֖ה לֹ֣א רָצָ֑ם עַתָּ֞ה יִזְכֹּ֤ר עֲוֹנָם֙ וְיִפְקֹ֣ד חַטֹּאותָ֔ם הֵ֖מָּה מִצְרַ֥יִם יָשֽׁוּבוּ׃ (Hos. 8:13)
+NIV	They offer sacrifices given to me and _they eat_ the meat, but the LORD is not pleased with them. Now he will remember their wickedness and punish their sins: They will return to Egypt.
+ESV	As for my sacrificial offerings, they sacrifice m_eat_ and _eat_ it, but the Lord does not accept them. Now he will remember their iniquity and punish their sins. they shall return to Egypt.
+
+(x)	וַאדֹנָ֨י יְהוִ֜ה הַצְּבָאֹ֗ות הַנֹּוגֵ֤עַ בָּאָ֨רֶץ֙ וַ_תָּמֹ֔וג_ וְאָבְל֖וּ כָּל־יֹ֣ושְׁבֵי בָ֑הּ וְעָלְתָ֤ה כַיְאֹר֙ כֻּלָּ֔הּ וְשָׁקְעָ֖ה כִּיאֹ֥ר מִצְרָֽיִם׃ (Amos 9:5)
+NIV	The Lord, the LORD Almighty, he who touches the earth and _it melts_, and all who live in it mourn — the whole land rises like the Nile, then sinks like the river of Egypt —
+ESV	The Lord God of hosts, he who touches the earth and _it melts_, and all who dwell in it mourn, and all of it rises like the Nile, and sinks again, like the Nile of Egypt.
+
+(x)	כֻּלֹּה֙ לְחָמָ֣ס יָבֹ֔וא מְגַמַּ֥ת פְּנֵיהֶ֖ם קָדִ֑ימָה וַ_יֶּאֱסֹ֥ף_ כַּחֹ֖ול שֶֽׁבִי׃ (Hab. 1:9)
+NIV	they all come bent on violence. Their hordes advance like a desert wind and _gather_ prisoners like sand.
+ESV	They all come for violence, all their faces forward. _They gather_ captives like sand.
+
+(x)	וְהוּא֙ בַּמְּלָכִ֣ים יִתְקַלָּ֔ס וְרֹזְנִ֖ים מִשְׂחָ֣ק לֹ֑ו ה֚וּא לְכָל־מִבְצָ֣ר יִשְׂחָ֔ק וַיִּצְבֹּ֥ר עָפָ֖ר וַֽ_יִּלְכְּדָֽהּ_׃ (Hab. 1:10)
+NIV	They deride kings and scoff at rulers. They laugh at all fortified cities. they build earthen ramps and _capture_ them.
+ESV	At kings they scoff, and at rulers they laugh. They laugh at every fortress, for they pile up earth and _take_ it.
+
+(x)	וְאַף֙ כִּֽי־הַיַּ֣יִן בֹּוגֵ֔ד גֶּ֥בֶר יָהִ֖יר וְלֹ֣א יִנְוֶ֑ה אֲשֶׁר֩ הִרְחִ֨יב כִּשְׁאֹ֜ול נַפְשֹׁ֗ו וְה֤וּא כַמָּ֨וֶת֙ וְלֹ֣א יִשְׂבָּ֔ע וַיֶּאֱסֹ֤ף אֵלָיו֙ כָּל־הַגֹּויִ֔ם וַ_יִּקְבֹּ֥ץ_ אֵלָ֖יו כָּל־הָעַמִּֽים׃ (Hab. 2:5)
+NIV	indeed, wine betrays him. he is arrogant and never at rest. Because he is as greedy as the grave and like death is never satisfied, he gathers to himself all the nations and _takes captive_ all the peoples.
+ESV	“Moreover, wine is a traitor, an arrogant man who is never at rest. His greed is as wide as Sheol. like death he has never enough. He gathers for himself all nations and _collects_ as his own all peoples.”
+
+(x)	וְעַתָּ֕ה אֲנַ֖חְנוּ מְאַשְּׁרִ֣ים זֵדִ֑ים גַּם־נִבְנוּ֙ עֹשֵׂ֣י רִשְׁעָ֔ה גַּ֧ם בָּחֲנ֛וּ אֱלֹהִ֖ים וַ_יִּמָּלֵֽטוּ_׃ (Mal. 3:15)
+NIV	But now we call the arrogant blessed. Certainly the evildoers prosper, and even those who challenge God _escape_.’”
+ESV	And now we call the arrogant blessed. Evildoers not only prosper but they put God to the test and _they escape_.’”

@@ -1,0 +1,102 @@
+eng_TAMsimp == "PAST PERF"and genre == "prose" and domain2 == "N" 
+25 of 41
+
+(x)	וַ_יִּצֶר֩_ יְהוָ֨ה אֱלֹהִ֜ים מִן־הָֽאֲדָמָ֗ה כָּל־חַיַּ֤ת הַשָּׂדֶה֙ וְאֵת֙ כָּל־עֹ֣וף הַשָּׁמַ֔יִם וַיָּבֵא֙ אֶל־הָ֣אָדָ֔ם לִרְאֹ֖ות מַה־יִּקְרָא־לֹ֑ו וְכֹל֩ אֲשֶׁ֨ר יִקְרָא־לֹ֧ו הָֽאָדָ֛ם נֶ֥פֶשׁ חַיָּ֖ה ה֥וּא שְׁמֹֽו׃ (Gen. 2:19)
+NIV	Now the LORD God _had formed_ out of the ground all the beasts of the field and all the birds of the air. He brought them to the man to see what he would name them. and whatever the man called each living creature, that was its name.
+ESV	Now out of the ground the Lord God _had formed_ every beast of the field and every bird of the heavens and brought them to the man to see what he would call them. And whatever the man called every living creature, that was its name.
+
+(x)	וַֽ_יְחִי_־עֵ֕בֶר אַרְבַּ֥ע וּשְׁלֹשִׁ֖ים שָׁנָ֑ה וַיֹּ֖ולֶד אֶת־פָּֽלֶג׃ (Gen. 11:16)
+NIV	When Eber _had lived_ 34 years, he became the father of Peleg.
+ESV	When Eber _had lived_ 34 years, he fathered Peleg.
+
+(x)	וַ_יְחִ֣י_ רְע֔וּ שְׁתַּ֥יִם וּשְׁלֹשִׁ֖ים שָׁנָ֑ה וַיֹּ֖ולֶד אֶת־שְׂרֽוּג׃ (Gen. 11:20)
+NIV	When Reu _had lived_ 32 years, he became the father of Serug.
+ESV	When Reu _had lived_ 32 years, he fathered Serug.
+
+(x)	וַ_יְחִ֥י_ שְׂר֖וּג שְׁלֹשִׁ֣ים שָׁנָ֑ה וַיֹּ֖ולֶד אֶת־נָחֹֽור׃ (Gen. 11:22)
+NIV	When Serug _had lived_ 30 years, he became the father of Nahor.
+ESV	When Serug _had lived_ 30 years, he fathered Nahor.
+
+(x)	וַֽ_יְחִי_־תֶ֖רַח שִׁבְעִ֣ים שָׁנָ֑ה וַיֹּ֨ולֶד֙ אֶת־אַבְרָ֔ם אֶת־נָחֹ֖ור וְאֶת־הָרָֽן׃ (Gen. 11:26)
+NIV	After Terah _had lived_ 70 years, he became the father of Abram, Nahor and Haran.
+ESV	When Terah _had lived_ 70 years, he fathered Abram, Nahor, and Haran.
+
+(x)	וַיָּ֨שָׁב יִצְחָ֜ק וַיַּחְפֹּ֣ר׀ אֶת־בְּאֵרֹ֣ת הַמַּ֗יִם אֲשֶׁ֤ר חָֽפְרוּ֙ בִּימֵי֙ אַבְרָהָ֣ם אָבִ֔יו וַ_יְסַתְּמ֣וּם_ פְּלִשְׁתִּ֔ים אַחֲרֵ֖י מֹ֣ות אַבְרָהָ֑ם וַיִּקְרָ֤א לָהֶן֙ שֵׁמֹ֔ות כַּשֵּׁמֹ֕ת אֲשֶׁר־קָרָ֥א לָהֶ֖ן אָבִֽיו׃ (Gen. 26:18)
+NIV	Isaac reopened the wells that had been dug in the time of his father Abraham, which the Philistines _had stopped up_ after Abraham died, and he gave them the same names his father had given them.
+ESV	And Isaac dug again the wells of water that had been dug in the days of Abraham his father, which the Philistines _had stopped_ after the death of Abraham. And he gave them the names that his father had given them.
+
+(x)	וַ_יִּשְׁמַ֣ע_ יַעֲקֹ֔ב אֶל־אָבִ֖יו וְאֶל־אִמֹּ֑ו וַיֵּ֖לֶךְ פַּדֶּ֥נָֽה אֲרָֽם׃ (Gen. 28:7)
+NIV	and that Jacob _had obeyed_ his father and mother and had gone to Paddan Aram.
+ESV	and that Jacob _had obeyed_ his father and his mother and gone to Paddan-aram.
+
+(x)	וַיִּשְׁלַ֤ח פַּרְעֹה֙ וַיִּקְרָ֣א אֶת־יֹוסֵ֔ף וַיְרִיצֻ֖הוּ מִן־הַבֹּ֑ור וַ_יְגַלַּח֙_ וַיְחַלֵּ֣ף שִׂמְלֹתָ֔יו וַיָּבֹ֖א אֶל־פַּרְעֹֽה׃ (Gen. 41:14)
+NIV	So Pharaoh sent for Joseph, and he was quickly brought from the dungeon. When _he had shaved_ and changed his clothes, he came before Pharaoh.
+ESV	Then Pharaoh sent and called Joseph, and they quickly brought him out of the pit. And when _he had shaved himself_ and changed his clothes, he came in before Pharaoh.
+
+(x)	וַיְסַפֵּ֤ר מֹשֶׁה֙ לְחֹ֣תְנֹ֔ו אֵת֩ כָּל־אֲשֶׁ֨ר עָשָׂ֤ה יְהוָה֙ לְפַרְעֹ֣ה וּלְמִצְרַ֔יִם עַ֖ל אֹודֹ֣ת יִשְׂרָאֵ֑ל אֵ֤ת כָּל־הַתְּלָאָה֙ אֲשֶׁ֣ר מְצָאָ֣תַם בַּדֶּ֔רֶךְ וַ_יַּצִּלֵ֖ם_ יְהוָֽה׃ (Exod. 18:8)
+NIV	Moses told his father-in-law about everything the LORD had done to Pharaoh and the Egyptians for Israel’s sake and about all the hardships they had met along the way and how the LORD _had saved_ them.
+ESV	Then Moses told his father-in-law all that the Lord had done to Pharaoh and to the Egyptians for Israel’s sake, all the hardship that had come upon them in the way, and how the Lord _had delivered_ them.
+
+(x)	וַ_יֹּ֨אמֶר_ יְהוָ֜ה אֶל־מֹשֶׁ֗ה אֱמֹ֤ר אֶל־בְּנֵֽי־יִשְׂרָאֵל֙ אַתֶּ֣ם עַם־קְשֵׁה־עֹ֔רֶף רֶ֧גַע אֶחָ֛ד אֶֽעֱלֶ֥ה בְקִרְבְּךָ֖ וְכִלִּיתִ֑יךָ וְעַתָּ֗ה הֹורֵ֤ד עֶדְיְךָ֙ מֵֽעָלֶ֔יךָ וְאֵדְעָ֖ה מָ֥ה אֶֽעֱשֶׂה־לָּֽךְ׃ (Exod. 33:5)
+NIV	For the LORD _had said_ to Moses, “Tell the Israelites, ‘You are a stiff-necked people. If I were to go with you even for a moment, I might destroy you. Now take off your ornaments and I will decide what to do with you.’ “
+ESV	For the Lord _had said_ to Moses, “Say to the people of Israel, ‘You are a stiff-necked people. if for a single moment I should go up among you, I would consume you. So now take off your ornaments, that I may know what to do with you.’”
+
+(x)	וַיְהִ֣י כְּכַלֹּ֣ות יִשְׂרָאֵ֡ל לַהֲרֹג֩ אֶת־כָּל־יֹשְׁבֵ֨י הָעַ֜י בַּשָּׂדֶ֗ה בַּמִּדְבָּר֙ אֲשֶׁ֣ר רְדָפ֣וּם בֹּ֔ו וַֽ_יִּפְּל֥וּ_ כֻלָּ֛ם לְפִי־חֶ֖רֶב עַד־תֻּמָּ֑ם וַיָּשֻׁ֤בוּ כָל־יִשְׂרָאֵל֙ הָעַ֔י וַיַּכּ֥וּ אֹתָ֖הּ לְפִי־חָֽרֶב׃ (Josh. 8:24)
+NIV	When Israel had finished killing all the men of Ai in the fields and in the desert where they had chased them, and when every one of them _had been put_ to the sword, all the Israelites returned to Ai and killed those who were in it.
+ESV	When Israel had finished killing all the inhabitants of Ai in the open wilderness where they pursued them, and all of them to the very last _had fallen_ by the edge of the sword, all Israel returned to Ai and struck it down with the edge of the sword.
+
+(x)	וְאִֽישׁ־יִשְׂרָאֵ֥ל נִגַּ֖שׂ בַּיֹּ֣ום הַה֑וּא וַ_יֹּאֶל֩_ שָׁא֨וּל אֶת־הָעָ֜ם לֵאמֹ֗ר אָר֣וּר הָ֠אִישׁ אֲשֶׁר־יֹ֨אכַל לֶ֜חֶם עַד־הָעֶ֗רֶב וְנִקַּמְתִּי֙ מֵאֹ֣יְבַ֔י וְלֹֽא טָעַ֥ם כָּל־הָעָ֖ם לָֽחֶם׃ ס (I Sam. 14:24)
+NIV	Now the men of Israel were in distress that day, because Saul had bound the people under an oath, saying, “Cursed be any man who eats food before evening comes, before I have avenged myself on my enemies!” So none of the troops tasted food.
+ESV	And the men of Israel had been hard pressed that day, so Saul _had laid an oath_ on the people, saying, “Cursed be the man who eats food until it is evening and I am avenged on my enemies.” So none of the people had tasted food.
+
+(x)	וּשְׁמוּאֵ֣ל מֵ֔ת וַ_יִּסְפְּדוּ_־לֹו֙ כָּל־יִשְׂרָאֵ֔ל וַיִּקְבְּרֻ֥הוּ בָרָמָ֖ה וּבְעִירֹ֑ו וְשָׁא֗וּל הֵסִ֛יר הָאֹבֹ֥ות וְאֶת־הַיִּדְּעֹנִ֖ים מֵהָאָֽרֶץ׃ (I Sam. 28:3)
+NIV	Now Samuel was dead, and all Israel _had mourned_ for him and buried him in his own town of Ramah. Saul had expelled the mediums and spiritists from the land.
+ESV	Now Samuel had died, and all Israel _had mourned_ for him and buried him in Ramah, his own city. And Saul had put the mediums and the necromancers out of the land.
+
+(x)	וְהִנֵּה֩ עַבְדֵ֨י דָוִ֤ד וְיֹואָב֙ בָּ֣א מֵֽהַגְּד֔וּד וְשָׁלָ֥ל רָ֖ב עִמָּ֣ם הֵבִ֑יאוּ וְאַבְנֵ֗ר אֵינֶ֤נּוּ עִם־דָּוִד֙ בְּחֶבְרֹ֔ון כִּ֥י שִׁלְּחֹ֖ו וַ_יֵּ֥לֶךְ_ בְּשָׁלֹֽום׃ (II Sam. 3:22)
+NIV	Just then David’s men and Joab returned from a raid and brought with them a great deal of plunder. But Abner was no longer with David in Hebron, because David had sent him away, and _he had gone_ in peace.
+ESV	Just then the servants of David arrived with Joab from a raid, bringing much spoil with them. But Abner was not with David at Hebron, for he had sent him away, and _he had gone_ in peace.
+
+(x)	וַיִּקְרָ֥א הַמֶּ֛לֶךְ לַגִּבְעֹנִ֖ים וַיֹּ֣אמֶר אֲלֵיהֶ֑ם וְהַגִּבְעֹנִ֞ים לֹ֣א מִבְּנֵ֧י יִשְׂרָאֵ֣ל הֵ֗מָּה כִּ֚י אִם־מִיֶּ֣תֶר הָאֱמֹרִ֔י וּבְנֵ֤י יִשְׂרָאֵל֙ נִשְׁבְּע֣וּ לָהֶ֔ם וַ_יְבַקֵּ֤שׁ_ שָׁאוּל֙ לְהַכֹּתָ֔ם בְּקַנֹּאתֹ֥ו לִבְנֵֽי־יִשְׂרָאֵ֖ל וִיהוּדָֽה׃ (II Sam. 21:2)
+NIV	The king summoned the Gibeonites and spoke to them. ( Now the Gibeonites were not a part of Israel but were survivors of the Amorites. the Israelites had sworn to [ spare ] them, but Saul in his zeal for Israel and Judah _had tried_ to annihilate them. )
+ESV	So the king called the Gibeonites and spoke to them. Now the Gibeonites were not of the people of Israel but of the remnant of the Amorites. Although the people of Israel had sworn to spare them, Saul _had sought_ to strike them down in his zeal for the people of Israel and Judah.
+
+(x)	וַ_יָּשֻׁ֖טוּ_ בְּכָל־הָאָ֑רֶץ וַיָּבֹ֜אוּ מִקְצֵ֨ה תִשְׁעָ֧ה חֳדָשִׁ֛ים וְעֶשְׂרִ֥ים יֹ֖ום יְרוּשָׁלִָֽם׃ (II Sam. 24:8)
+NIV	After _they had gone_ through the entire land, they came back to Jerusalem at the end of nine months and twenty days.
+ESV	So when _they had gone_ through all the land, they came to Jerusalem at the end of nine months and twenty days.
+
+(x)	וַ_יִּשְׁלַ֥ח_ חִירָ֖ם לַמֶּ֑לֶךְ מֵאָ֥ה וְעֶשְׂרִ֖ים כִּכַּ֥ר זָהָֽב׃ (I Kgs. 9:14)
+NIV	Now Hiram _had sent_ to the king 120 talents of gold.
+ESV	Hiram _had sent_ to the king 120 talents of gold.
+
+(x)	וַאֲרָם֙ יָצְא֣וּ גְדוּדִ֔ים וַ_יִּשְׁבּ֛וּ_ מֵאֶ֥רֶץ יִשְׂרָאֵ֖ל נַעֲרָ֣ה קְטַנָּ֑ה וַתְּהִ֕י לִפְנֵ֖י אֵ֥שֶׁת נַעֲמָֽן׃ (II Kgs. 5:2)
+NIV	Now bands from Aram had gone out and _had taken captive_ a young girl from Israel, and she served Naaman’s wife.
+ESV	Now the Syrians on one of their raids _had carried off_ a little girl from the land of Israel, and she worked in the service of Naaman’s wife.
+
+(x)	וַיֹּ֥אמֶר לֹ֖ו לֵ֣ךְ לְשָׁלֹ֑ום וַ_יֵּ֥לֶךְ_ מֵאִתֹּ֖ו כִּבְרַת־אָֽרֶץ׃ ס (II Kgs. 5:19)
+NIV	“Go in peace,” Elisha said. After _Naaman had travelled_ some distance,
+ESV	He said to him, “Go in peace.” But when _Naaman had gone_ from him a short distance,
+
+(x)	וַ_יָּשָׁב֩_ יְהֹורָ֨ם הַמֶּ֜לֶךְ לְהִתְרַפֵּ֣א בִיְזְרְעֶ֗אל מִן־הַמַּכִּים֙ אֲשֶׁ֣ר יַכֻּ֣הוּ אֲרַמִּ֔ים בְּהִלָּ֣חֲמֹ֔ו אֶת־חֲזָאֵ֖ל מֶ֣לֶךְ אֲרָ֑ם וַיֹּ֤אמֶר יֵהוּא֙ אִם־יֵ֣שׁ נַפְשְׁכֶ֔ם אַל־יֵצֵ֤א פָלִיט֙ מִן־הָעִ֔יר לָלֶ֖כֶת לְהַגִּ֥יד בְּיִזְרְעֶֽאל׃ (II Kgs. 9:15)
+NIV	but King Joram _had returned_ to Jezreel to recover from the wounds the Arameans had inflicted on him in the battle with Hazael king of Aram. ) Jehu said, “If this is the way you feel, don’t let anyone slip out of the city to go and tell the news in Jezreel.”
+ESV	but King Joram _had returned_ to be healed in Jezreel of the wounds that the Syrians had given him, when he fought with Hazael king of Syria. ) So Jehu said, “If this is your decision, then let no one slip out of the city to go and tell the news in Jezreel.”
+
+(x)	וַתֹּ֣אמֶר לֹו֩ זֶ֨רֶשׁ אִשְׁתֹּ֜ו וְכָל־אֹֽהֲבָ֗יו יַֽעֲשׂוּ־עֵץ֮ גָּבֹ֣הַּ חֲמִשִּׁ֣ים אַמָּה֒ וּבַבֹּ֣קֶר׀ אֱמֹ֣ר לַמֶּ֗לֶךְ וְיִתְל֤וּ אֶֽת־מָרְדֳּכַי֙ עָלָ֔יו וּבֹֽא־עִם־הַמֶּ֥לֶךְ אֶל־הַמִּשְׁתֶּ֖ה שָׂמֵ֑חַ וַיִּיטַ֧ב הַדָּבָ֛ר לִפְנֵ֥י הָמָ֖ן וַ_יַּ֥עַשׂ_ הָעֵֽץ׃ פ (Esth. 5:14)
+NIV	His wife Zeresh and all his friends said to him, “Have a gallows built, seventy-five feet high, and ask the king in the morning to have Mordecai hanged on it. Then go with the king to the dinner and be happy.” This suggestion delighted Haman, and he had the gallows built.
+ESV	Then his wife Zeresh and all his friends said to him, “Let a gallows fifty cubits high be made, and in the morning tell the king to have Mordecai hanged upon it. Then go joyfully with the king to the feast.” This idea pleased Haman, and he had the gallows made.
+
+(x)	וָֽאָבֹ֗וא אֶֽל־פַּֽחֲוֹות֙ עֵ֣בֶר הַנָּהָ֔ר וָאֶתְּנָ֣ה לָהֶ֔ם אֵ֖ת אִגְּרֹ֣ות הַמֶּ֑לֶךְ וַ_יִּשְׁלַ֤ח_ עִמִּי֙ הַמֶּ֔לֶךְ שָׂ֥רֵי חַ֖יִל וּפָרָשִֽׁים׃ פ (Neh. 2:9)
+NIV	So I went to the governors of Trans-euphrates and gave them the king’s letters. The king had also sent army officers and cavalry with me.
+ESV	Then I came to the governors of the province Beyond the River and gave them the king’s letters. Now the king _had sent_ with me officers of the army and horsemen.
+
+(x)	וַיְהִ֗י כַּאֲשֶׁ֤ר נִבְנְתָה֙ הַחֹומָ֔ה וָ_אַעֲמִ֖יד_ הַדְּלָתֹ֑ות וַיִּפָּֽקְד֛וּ הַשֹּׁועֲרִ֥ים וְהַמְשֹׁרְרִ֖ים וְהַלְוִיִּֽם׃ (Neh. 7:1)
+NIV	After the wall had been rebuilt and I had set the doors in place, the gatekeepers and the singers and the Levites were appointed.
+ESV	Now when the wall had been built and _I had set up_ the doors, and the gatekeepers, the singers, and the Levites had been appointed,
+
+(x)	כִּֽי־עָשָׂ֨ה שְׁלֹמֹ֜ה כִּיֹּ֣ור נְחֹ֗שֶׁת וַֽ_יִּתְּנֵהוּ֮_ בְּתֹ֣וךְ הָעֲזָרָה֒ חָמֵ֨שׁ אַמֹּ֜ות אָרְכֹּ֗ו וְחָמֵ֤שׁ אַמֹּות֙ רָחְבֹּ֔ו וְאַמֹּ֥ות שָׁלֹ֖ושׁ קֹומָתֹ֑ו וַיַּעֲמֹ֣ד עָלָ֗יו וַיִּבְרַ֤ךְ עַל־בִּרְכָּיו֙ נֶ֚גֶד כָּל־קְהַ֣ל יִשְׂרָאֵ֔ל וַיִּפְרֹ֥שׂ כַּפָּ֖יו הַשָּׁמָֽיְמָה׃ (II Chr. 6:13)
+NIV	Now he had made a bronze platform, five cubits long, five cubits wide and three cubits high, and _had placed_ it in the centre of the outer court. He stood on the platform and then knelt down before the whole assembly of Israel and spread out his hands towards heaven.
+ESV	Solomon had made a bronze platform five cubits long, five cubits wide, and three cubits high, and _had set_ it in the court, and he stood on it. Then he knelt on his knees in the presence of all the assembly of Israel, and spread out his hands toward heaven,
+
+(x)	וַ_יְהִ֣י_ לְאָסָ֗א חַיִל֮ נֹשֵׂ֣א צִנָּ֣ה וָרֹמַח֒ מִֽיהוּדָה֙ שְׁלֹ֣שׁ מֵאֹ֣ות אֶ֔לֶף ס וּמִבִּנְיָמִ֗ן נֹשְׂאֵ֤י מָגֵן֙ וְדֹ֣רְכֵי קֶ֔שֶׁת מָאתַ֥יִם וּשְׁמֹונִ֖ים אָ֑לֶף כָּל־אֵ֖לֶּה גִּבֹּ֥ורֵי חָֽיִל׃ (II Chr. 14:7)
+NIV	Asa _had_ an army of three hundred thousand men from Judah, equipped with large shields and with spears, and two hundred and eighty thousand from Benjamin, armed with small shields and with bows. All these were brave fighting men.
+ESV	And Asa _had_ an army of 300,000 from Judah, armed with large shields and spears, and 280,000 men from Benjamin that carried shields and drew bows. All these were mighty men of valor.

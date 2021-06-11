@@ -1,0 +1,42 @@
+eng_TAMsimp == "PAST" and genre == "prose" and domain2 == "Q" 
+10 of 536
+
+(x)	וַיֹּ֕אמֶר אֶת־קֹלְךָ֥ שָׁמַ֖עְתִּי בַּגָּ֑ן וָ_אִירָ֛א_ כִּֽי־עֵירֹ֥ם אָנֹ֖כִי וָאֵחָבֵֽא׃ (Gen. 3:10)
+NIV	He answered, “I heard you in the garden, and _I was afraid_ because I was naked. so I hid.”
+ESV	And he said, “I heard the sound of you in the garden, and _I was afraid_, because I was naked, and I hid myself.”
+
+(x)	וַֽיְהִ֞י כִּי־בָ֣אנוּ אֶל־הַמָּלֹ֗ון וַֽ_נִּפְתְּחָה֙_ אֶת־אַמְתְּחֹתֵ֔ינוּ וְהִנֵּ֤ה כֶֽסֶף־אִישׁ֙ בְּפִ֣י אַמְתַּחְתֹּ֔ו כַּסְפֵּ֖נוּ בְּמִשְׁקָלֹ֑ו וַנָּ֥שֶׁב אֹתֹ֖ו בְּיָדֵֽנוּ׃ (Gen. 43:21)
+NIV	But at the place where we stopped for the night _we opened_ our sacks and each of us found his silver — the exact weight — in the mouth of his sack. So we have brought it back with us.
+ESV	And when we came to the lodging place _we opened_ our sacks, and there was each man’s money in the mouth of his sack, our money in full weight. So we have brought it again with us,
+
+(x)	וַיִּפְנוּ֙ וַיַּעֲל֣וּ הָהָ֔רָה וַ_יָּבֹ֖אוּ_ עַד־נַ֣חַל אֶשְׁכֹּ֑ל וַֽיְרַגְּל֖וּ אֹתָֽהּ׃ (Deut. 1:24)
+NIV	They left and went up into the hill country, and _came_ to the Valley of Eshcol and explored it.
+ESV	And they turned and went up into the hill country, and _came_ to the Valley of Eshcol and spied it out.
+
+(x)	וְֽאֶת־חַטַּאתְכֶ֞ם אֲשֶׁר־עֲשִׂיתֶ֣ם אֶת־הָעֵ֗גֶל לָקַחְתִּי֮ וָאֶשְׂרֹ֣ף אֹתֹ֣ו׀ בָּאֵשׁ֒ וָאֶכֹּ֨ת אֹתֹ֤ו טָחֹון֙ הֵיטֵ֔ב עַ֥ד אֲשֶׁר־דַּ֖ק לְעָפָ֑ר וָֽ_אַשְׁלִךְ֙_ אֶת־עֲפָרֹ֔ו אֶל־הַנַּ֖חַל הַיֹּרֵ֥ד מִן־הָהָֽר׃ (Deut. 9:21)
+NIV	Also I took that sinful thing of yours, the calf you had made, and burned it in the fire. Then I crushed it and ground it to powder as fine as dust and _threw_ the dust into a stream that flowed down the mountain.
+ESV	Then I took the sinful thing, the calf that you had made, and burned it with fire and crushed it, grinding it very small, until it was as fine as dust. And _I threw_ the dust of it into the brook that ran down from the mountain.
+
+(x)	וָֽ_אֹוצִ֤יא_ אֶת־אֲבֹֽותֵיכֶם֙ מִמִּצְרַ֔יִם וַתָּבֹ֖אוּ הַיָּ֑מָּה וַיִּרְדְּפ֨וּ מִצְרַ֜יִם אַחֲרֵ֧י אֲבֹותֵיכֶ֛ם בְּרֶ֥כֶב וּבְפָרָשִׁ֖ים יַם־סֽוּף׃ (Josh. 24:6)
+NIV	When I brought your fathers out of Egypt, you came to the sea, and the Egyptians pursued them with chariots and horsemen as far as the Red Sea.
+ESV	“‘Then I brought your fathers out of Egypt, and you came to the sea. And the Egyptians pursued your fathers with chariots and horsemen to the Red Sea.
+
+(x)	וָֽאֶרְאֶ֞ה כִּֽי־אֵינְךָ֣ מֹושִׁ֗יעַ וָאָשִׂ֨ימָה נַפְשִׁ֤י בְכַפִּי֙ וָֽאֶעְבְּרָה֙ אֶל־בְּנֵ֣י עַמֹּ֔ון וַ_יִּתְּנֵ֥ם_ יְהוָ֖ה בְּיָדִ֑י וְלָמָ֞ה עֲלִיתֶ֥ם אֵלַ֛י הַיֹּ֥ום הַזֶּ֖ה לְהִלָּ֥חֶם בִּֽי׃ (Judg. 12:3)
+NIV	When I saw that you wouldn’t help, I took my life in my hands and crossed over to fight the Ammonites, and the LORD _gave_ me the victory over them. Now why have you come up today to fight me?”
+ESV	And when I saw that you would not save me, I took my life in my hand and crossed over against the Ammonites, and the Lord _gave_ them into my hand. Why then have you come up to me this day to fight against me?”
+
+(x)	וָ_אֶתְּנָ֨ה_ לְךָ֜ אֶת־בֵּ֣ית אֲדֹנֶ֗יךָ וְאֶת־נְשֵׁ֤י אֲדֹנֶ֨יךָ֙ בְּחֵיקֶ֔ךָ וָאֶתְּנָ֣ה לְךָ֔ אֶת־בֵּ֥ית יִשְׂרָאֵ֖ל וִֽיהוּדָ֑ה וְאִ֨ם־מְעָ֔ט וְאֹסִ֥פָה לְּךָ֖ כָּהֵ֥נָּה וְכָהֵֽנָּה׃ (II Sam. 12:8)
+NIV	_I gave_ your master’s house to you, and your master’s wives into your arms. _I gave_ you the house of Israel and Judah. And if all this had been too little, I would have given you even more.
+ESV	And _I gave_ you your master’s house and your master’s wives into your arms and gave you the house of Israel and of Judah. And if this were too little, I would add to you as much more.
+
+(x)	וַתִּפֹּ֤ל שְׁבָא֙ וַ_תִּקָּחֵ֔ם_ וְאֶת־הַנְּעָרִ֖ים הִכּ֣וּ לְפִי־חָ֑רֶב וָֽאִמָּ֨לְטָ֧ה רַק־אֲנִ֛י לְבַדִּ֖י לְהַגִּ֥יד לָֽךְ׃ (Job 1:15)
+NIV	and the Sabeans attacked and carried them off. They put the servants to the sword, and I am the only one who has escaped to tell you!”
+ESV	and the Sabeans fell upon them and _took_ them and struck down the servants with the edge of the sword, and I alone have escaped to tell you.”
+
+(x)	וּבְמִנְחַ֣ת הָעֶ֗רֶב קַ֚מְתִּי מִתַּֽעֲנִיתִ֔י וּבְקָרְעִ֥י בִגְדִ֖י וּמְעִילִ֑י וָֽ_אֶכְרְעָה֙_ עַל־בִּרְכַּ֔י וָאֶפְרְשָׂ֥ה כַפַּ֖י אֶל־יְהוָ֥ה אֱלֹהָֽי׃ (Ezra 9:5)
+NIV	Then, at the evening sacrifice, I rose from my self-abasement, with my tunic and cloak torn, and _fell_ on my knees with my hands spread out to the LORD my God
+ESV	And at the evening sacrifice I rose from my fasting, with my garment and my cloak torn, and _fell_ upon my knees and spread out my hands to the Lord my God,
+
+(x)	יַ֠עַן רַךְ־לְבָ֨בְךָ֜ וַתִּכָּנַ֣ע׀ מִלִּפְנֵ֣י אֱלֹהִ֗ים בְּשָׁמְעֲךָ֤ אֶת־דְּבָרָיו֙ עַל־הַמָּקֹ֤ום הַזֶּה֙ וְעַל־יֹ֣שְׁבָ֔יו וַתִּכָּנַ֣ע לְפָנַ֔י וַתִּקְרַ֥ע אֶת־בְּגָדֶ֖יךָ וַ_תֵּ֣בְךְּ_ לְפָנָ֑י וְגַם־אֲנִ֥י שָׁמַ֖עְתִּי נְאֻם־יְהוָֽה׃ (II Chr. 34:27)
+NIV	Because your heart was responsive and you humbled yourself before God when you heard what he spoke against this place and its people, and because you humbled yourself before me and tore your robes and _wept_ in my presence, I have heard you, declares the LORD.
+ESV	because your heart was tender and you humbled yourself before God when you heard his words against this place and its inhabitants, and you have humbled yourself before me and have torn your clothes and _wept_ before me, I also have heard you, declares the Lord.

@@ -1,34 +1,27 @@
 ,sum
-PAST,0.92
+PAST,0.93
 PRES PERF,0.02
 PRES,0.02
-?PAST,0.01
 PAST PERF,0.01
 PRES PART,0.01
-?PRES,0.0
-TO INF,0.0
 MOD would,0.0
-?VB,0.0
-PAST PROG,0.0
+TO INF,0.0
 MOD let,0.0
-?PRES PERF,0.0
-??PAST,0.0
-??VB,0.0
-?PAST wh-question,0.0
-?PAST question,0.0
-?PAST did not,0.0
+PAST PROG,0.0
+PAST question,0.0
+PAST wh-question,0.0
+PAST did not,0.0
 MOD may,0.0
-?MOD would,0.0
 MOD shall,0.0
-MOD should,0.0
-?IMPV,0.0
 PRES PERF PROG,0.0
 FUT,0.0
-MOD could,0.0
-?MOD let,0.0
-MOD might,0.0
-?TO INF,0.0
+VB,0.0
+MOD should,0.0
 PRES PROG,0.0
+MOD could,0.0
+MOD quest should,0.0
+MOD might,0.0
+PRES wh-question,0.0
+PRES question,0.0
 IMPV,0.0
-??PRES,0.0
-?PAST PERF,0.0
+PRES do not,0.0

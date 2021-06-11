@@ -1,0 +1,42 @@
+eng_TAMsimp == "PAST ~ PAST PROG"
+10 of 27
+
+(x)	וַיַּפֵּל֩ יְהוָ֨ה אֱלֹהִ֧ים׀ תַּרְדֵּמָ֛ה עַל־הָאָדָ֖ם וַ_יִּישָׁ֑ן_ וַיִּקַּ֗ח אַחַת֙ מִצַּלְעֹתָ֔יו וַיִּסְגֹּ֥ר בָּשָׂ֖ר תַּחְתֶּֽנָּה׃ (Gen. 2:21)
+NIV	So the LORD God caused the man to fall into a deep sleep. and while _he was sleeping_, he took one of the man’s ribs and closed up the place with flesh.
+ESV	So the Lord God caused a deep sleep to fall upon the man, and while _he slept_ took one of his ribs and closed up its place with flesh.
+
+(x)	וַיֵּצֵ֨א לֹ֜וט וַיְדַבֵּ֣ר׀ אֶל־חֲתָנָ֣יו׀ לֹקְחֵ֣י בְנֹתָ֗יו וַיֹּ֨אמֶר֙ ק֤וּמוּ צְּאוּ֙ מִן־הַמָּקֹ֣ום הַזֶּ֔ה כִּֽי־מַשְׁחִ֥ית יְהוָ֖ה אֶת־הָעִ֑יר וַ_יְהִ֥י_ כִמְצַחֵ֖ק בְּעֵינֵ֥י חֲתָנָֽיו׃ (Gen. 19:14)
+NIV	So Lot went out and spoke to his sons-in-law, who were pledged to marry his daughters. He said, “Hurry and get out of this place, because the LORD is about to destroy the city!” But his sons-in-law thought _he was_ joking.
+ESV	So Lot went out and said to his sons-in-law, who were to marry his daughters, “Up! Get out of this place, for the Lord is about to destroy the city.” But _he seemed_ to his sons-in-law to be jesting.
+
+(x)	וַיְשַׁלַּ֥ח אֶת־אֶחָ֖יו וַ_יֵּלֵ֑כוּ_ וַיֹּ֣אמֶר אֲלֵהֶ֔ם אַֽל־תִּרְגְּז֖וּ בַּדָּֽרֶךְ׃ (Gen. 45:24)
+NIV	Then he sent his brothers away, and as _they were leaving_ he said to them, “Don’t quarrel on the way!”
+ESV	Then he sent his brothers away, and as _they departed_, he said to them, “Do not quarrel on the way.”
+
+(x)	וַיָּבֹ֣א גִדְעֹ֔ון וְהִ֨נֵּה־אִ֔ישׁ מְסַפֵּ֥ר לְרֵעֵ֖הוּ חֲלֹ֑ום וַ_יֹּ֜אמֶר_ הִנֵּ֧ה חֲלֹ֣ום חָלַ֗מְתִּי וְהִנֵּ֨ה צְלִ֜יל לֶ֤חֶם שְׂעֹרִים֙ מִתְהַפֵּךְ֙ בְּמַחֲנֵ֣ה מִדְיָ֔ן וַיָּבֹ֣א עַד־הָ֠אֹהֶל וַיַּכֵּ֧הוּ וַיִּפֹּ֛ל וַיַּהַפְכֵ֥הוּ לְמַ֖עְלָה וְנָפַ֥ל הָאֹֽהֶל׃ (Judg. 7:13)
+NIV	Gideon arrived just as a man was telling a friend his dream. “I had a dream,” _he was saying_. “A round loaf of barley bread came tumbling into the Midianite camp. It struck the tent with such force that the tent overturned and collapsed.”
+ESV	When Gideon came, behold, a man was telling a dream to his comrade. And _he said_, “Behold, I dreamed a dream, and behold, a cake of barley bread tumbled into the camp of Midian and came to the tent and struck it so that it fell and turned it upside down, so that the tent lay flat.”
+
+(x)	וַ_יֹּֽאמְרוּ֙_ בְּנֵ֣י בִנְיָמִ֔ן נִגָּפִ֥ים הֵ֛ם לְפָנֵ֖ינוּ כְּבָרִאשֹׁנָ֑ה וּבְנֵ֧י יִשְׂרָאֵ֣ל אָמְר֗וּ נָנ֨וּסָה֙ וּֽנְתַקְּנֻ֔הוּ מִן־הָעִ֖יר אֶל־הַֽמְסִלֹּֽות׃ (Judg. 20:32)
+NIV	While the Benjamites _were saying_, “We are defeating them as before,” the Israelites _were saying_, “Let’s retreat and draw them away from the city to the roads.”
+ESV	And the people of Benjamin _said_, “They are routed before us, as at the first.” But the people of Israel _said_, “Let us flee and draw them away from the city to the highways.”
+
+(x)	וַ_תַּעֲרֹ֤ךְ_ יִשְׂרָאֵל֙ וּפְלִשְׁתִּ֔ים מַעֲרָכָ֖ה לִקְרַ֥את מַעֲרָכָֽה׃ (I Sam. 17:21)
+NIV	Israel and the Philistines _were drawing up_ their lines facing each other.
+ESV	And Israel and the Philistines _drew up_ for battle, army against army.
+
+(x)	וַיָּקָם֩ דָּוִ֨ד וַאֲנָשָׁ֜יו כְּשֵׁשׁ־מֵאֹ֣ות אִ֗ישׁ וַיֵּצְאוּ֙ מִקְּעִלָ֔ה וַ_יִּֽתְהַלְּכ֖וּ_ בַּאֲשֶׁ֣ר יִתְהַלָּ֑כוּ וּלְשָׁא֣וּל הֻגַּ֗ד כִּֽי־נִמְלַ֤ט דָּוִד֙ מִקְּעִילָ֔ה וַיֶּחְדַּ֖ל לָצֵֽאת׃ (I Sam. 23:13)
+NIV	So David and his men, about six hundred in number, left Keilah and _kept moving_ from place to place. When Saul was told that David had escaped from Keilah, he did not go there.
+ESV	Then David and his men, who were about six hundred, arose and departed from Keilah, and _they went_ wherever they could go. When Saul was told that David had escaped from Keilah, he gave up the expedition.
+
+(x)	וַ_יְהִ֤י_ עֹבַדְיָ֨הוּ֙ בַּדֶּ֔רֶךְ וְהִנֵּ֥ה אֵלִיָּ֖הוּ לִקְרָאתֹ֑ו וַיַּכִּרֵ֨הוּ֙ וַיִּפֹּ֣ל עַל־פָּנָ֔יו וַיֹּ֕אמֶר הַאַתָּ֥ה זֶ֖ה אֲדֹנִ֥י אֵלִיָּֽהוּ׃ (I Kgs. 18:7)
+NIV	As Obadiah _was_ walking along, Elijah met him. Obadiah recognised him, bowed down to the ground, and said, “Is it really you, my lord Elijah?”
+ESV	And as Obadiah _was_ on the way, behold, Elijah met him. And Obadiah recognized him and fell on his face and said, “Is it you, my lord Elijah?”
+
+(x)	וְהָאֲמֻצִּ֣ים יָצְא֗וּ וַ_יְבַקְשׁוּ֙_ לָלֶ֨כֶת֙ לְהִתְהַלֵּ֣ך בָּאָ֔רֶץ וַיֹּ֕אמֶר לְכ֖וּ הִתְהַלְּכ֣וּ בָאָ֑רֶץ וַתִּתְהַלַּ֖כְנָה בָּאָֽרֶץ׃ (Zech. 6:7)
+NIV	When the powerful horses went out, _they were straining_ to go throughout the earth. And he said, “Go throughout the earth!” So they went throughout the earth.
+ESV	When the strong horses came out, _they were impatient_ to go and patrol the earth. And he said, “Go, patrol the earth.” So they patrolled the earth.
+
+(x)	זָנֹ֤חַ עֲדֻלָּם֙ וְחַצְרֵיהֶ֔ם לָכִישׁ֙ וּשְׂדֹתֶ֔יהָ עֲזֵקָ֖ה וּבְנֹתֶ֑יהָ וַ_יַּחֲנ֥וּ_ מִבְּאֵֽר־שֶׁ֖בַע עַד־גֵּֽיא־הִנֹּֽם׃ (Neh. 11:30)
+NIV	Zanoah, Adullam and their villages, in Lachish and its fields, and in Azekah and its settlements. So _they were living_ all the way from Beersheba to the Valley of Hinnom.
+ESV	Zanoah, Adullam, and their villages, Lachish and its fields, and Azekah and its villages. So _they encamped_ from Beersheba to the Valley of Hinnom.

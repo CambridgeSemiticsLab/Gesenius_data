@@ -1,0 +1,42 @@
+eng_TAMsimp == "PRES ~ PRES PERF"
+10 of 45
+
+(x)	וַיֹּאמְר֣וּ׀ גֶּשׁ־הָ֗לְאָה וַיֹּֽאמְרוּ֙ הָאֶחָ֤ד בָּֽא־לָגוּר֙ וַ_יִּשְׁפֹּ֣ט_ שָׁפֹ֔וט עַתָּ֕ה נָרַ֥ע לְךָ֖ מֵהֶ֑ם וַיִּפְצְר֨וּ בָאִ֤ישׁ בְּלֹוט֙ מְאֹ֔ד וַֽיִּגְּשׁ֖וּ לִשְׁבֹּ֥ר הַדָּֽלֶת׃ (Gen. 19:9)
+NIV	“Get out of our way,” they replied. And they said, “This fellow came here as an alien, and now _he wants to play the judge_! We’ll treat you worse than them.” They kept bringing pressure on Lot and moved forward to break down the door.
+ESV	But they said, “Stand back!” And they said, “This fellow came to sojourn, and _he has become the judge_! Now we will deal worse with you than with them.” Then they pressed hard against the man Lot, and drew near to break the door down.
+
+(x)	וַיִּשָּׁבַ֨ע עֹ֜וד דָּוִ֗ד וַיֹּ֨אמֶר֙ יָדֹ֨עַ יָדַ֜ע אָבִ֗יךָ כִּֽי־מָצָ֤אתִי חֵן֙ בְּעֵינֶ֔יךָ וַ_יֹּ֛אמֶר_ אַל־יֵֽדַע־זֹ֥את יְהֹונָתָ֖ן פֶּן־יֵֽעָצֵ֑ב וְאוּלָ֗ם חַי־יְהוָה֙ וְחֵ֣י נַפְשֶׁ֔ךָ כִּ֣י כְפֶ֔שַׂע בֵּינִ֖י וּבֵ֥ין הַמָּֽוֶת׃ (I Sam. 20:3)
+NIV	But David took an oath and said, “Your father knows very well that I have found favour in your eyes, and _he has said_ to himself, ‘Jonathan must not know this or he will be grieved.’ Yet as surely as the LORD lives and as you live, there is only a step between me and death.”
+ESV	But David vowed again, saying, “Your father knows well that I have found favor in your eyes, and _he thinks_, ‘Do not let Jonathan know this, lest he be grieved.’ But truly, as the Lord lives and as your soul lives, there is but a step between me and death.”
+
+(x)	וַ_יְשַׂגֵּ֧ב_ יְהוָ֛ה אֶת־צָרֵ֥י רְצִ֖ין עָלָ֑יו וְאֶת־אֹיְבָ֖יו יְסַכְסֵֽךְ׃ (Isa. 9:10)
+NIV	But the LORD _has strengthened_ Rezin’s foes against them and has spurred their enemies on.
+ESV	But the Lord _raises_ the adversaries of Rezin against him, and stirs up his enemies.
+
+(x)	הַעִירֹ֤ותִי מִצָּפֹון֙ וַ_יַּ֔את_ מִמִּזְרַח־שֶׁ֖מֶשׁ יִקְרָ֣א בִשְׁמִ֑י וְיָבֹ֤א סְגָנִים֙ כְּמֹו־חֹ֔מֶר וּכְמֹ֥ו יֹוצֵ֖ר יִרְמָס־טִֽיט׃ (Isa. 41:25)
+NIV	“I have stirred up one from the north, and _he comes_ — one from the rising sun who calls on my name. He treads on rulers as if they were mortar, as if he were a potter treading the clay.
+ESV	I stirred up one from the north, and _he has come_, from the rising of the sun, and he shall call upon my name. he shall trample on rulers as on mortar, as the potter treads clay.
+
+(x)	מִדָּ֤ן נִשְׁמַע֙ נַחְרַ֣ת סוּסָ֗יו מִקֹּול֙ מִצְהֲלֹ֣ות אַבִּירָ֔יו רָעֲשָׁ֖ה כָּל־הָאָ֑רֶץ וַ_יָּבֹ֗ואוּ_ וַיֹּֽאכְלוּ֙ אֶ֣רֶץ וּמְלֹואָ֔הּ עִ֖יר וְיֹ֥שְׁבֵי בָֽהּ׃ ס (Jer. 8:16)
+NIV	The snorting of the enemy’s horses is heard from Dan. at the neighing of their stallions the whole land trembles. _They have come_ to devour the land and everything in it, the city and all who live there.”
+ESV	“The snorting of their horses is heard from Dan. at the sound of the neighing of their stallions the whole land quakes. _They come_ and devour the land and all that fills it, the city and those who dwell in it.
+
+(x)	וּבְנֵ֣י צִיֹּ֗ון גִּ֤ילוּ וְשִׂמְחוּ֙ בַּיהוָ֣ה אֱלֹֽהֵיכֶ֔ם כִּֽי־נָתַ֥ן לָכֶ֛ם אֶת־הַמֹּורֶ֖ה לִצְדָקָ֑ה וַ_יֹּ֣ורֶד_ לָכֶ֗ם גֶּ֛שֶׁם מֹורֶ֥ה וּמַלְקֹ֖ושׁ בָּרִאשֹֽׁון׃ (Joel 2:23)
+NIV	Be glad, O people of Zion, rejoice in the LORD your God, for he has given you the autumn rains in righteousness. _He sends_ you abundant showers, both autumn and spring rains, as before.
+ESV	“Be glad, O children of Zion, and rejoice in the Lord your God, for he has given the early rain for your vindication. _he has poured down_ for you abundant rain, the early and the latter rain, as before.
+
+(x)	וַ_יְהִ֣י_ בְשָׁלֵ֣ם סֻכֹּ֑ו וּמְעֹ֖ונָתֹ֣ו בְצִיֹּֽון׃ (Psa. 76:3)
+NIV	H_is_ tent _is_ in Salem, h_is_ dwelling place in Zion.
+ESV	His abode _has been_ established in Salem, his dwelling place in Zion.
+
+(x)	וַֽ֭תִּקְמְטֵנִי לְעֵ֣ד הָיָ֑ה וַ_יָּ֥קָם_ בִּ֥י כַ֝חֲשִׁ֗י בְּפָנַ֥י יַעֲנֶֽה׃ (Job 16:8)
+NIV	You have bound me — and it has become a witness. my gauntness _rises up_ and testifies against me.
+ESV	And he has shriveled me up, which is a witness against me, and my leanness _has risen up_ against me. it testifies to my face.
+
+(x)	הֹרָ֥נִי לַחֹ֑מֶר וָ֝_אֶתְמַשֵּׁ֗ל_ כֶּעָפָ֥ר וָאֵֽפֶר׃ (Job 30:19)
+NIV	He throws me into the mud, and _I am reduced_ to dust and ashes.
+ESV	God has cast me into the mire, and _I have become_ like dust and ashes.
+
+(x)	וַיְקֹונֵ֣ן יִרְמְיָהוּ֮ עַל־יֹאשִׁיָּהוּ֒ וַ_יֹּאמְר֣וּ_ כָֽל־הַשָּׁרִ֣ים׀ וְ֠הַשָּׁרֹות בְּקִינֹ֨ותֵיהֶ֤ם עַל־יֹאשִׁיָּ֨הוּ֙ עַד־הַיֹּ֔ום וַיִּתְּנ֥וּם לְחֹ֖ק עַל־יִשְׂרָאֵ֑ל וְהִנָּ֥ם כְּתוּבִ֖ים עַל־הַקִּינֹֽות׃ (II Chr. 35:25)
+NIV	Jeremiah composed laments for Josiah, and to this day all the men and women singers _commemorate_ Josiah in the laments. These became a tradition in Israel and are written in the Laments.
+ESV	Jeremiah also uttered a lament for Josiah. and all the singing men and singing women _have spoken_ of Josiah in their laments to this day. They made these a rule in Israel. behold, they are written in the Laments.

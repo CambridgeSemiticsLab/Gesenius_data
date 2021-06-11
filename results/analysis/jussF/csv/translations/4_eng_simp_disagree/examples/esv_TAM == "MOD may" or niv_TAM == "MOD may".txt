@@ -1,0 +1,102 @@
+esv_TAM == "MOD may" or niv_TAM == "MOD may"
+25 of 47
+
+(x)	וַיֹּ֕אמֶר בָּר֥וּךְ יְהֹוָ֖ה אֱלֹ֣הֵי שֵׁ֑ם וִ_יהִ֥י_ כְנַ֖עַן עֶ֥בֶד לָֽמֹו׃ (Gen. 9:26)
+NIV	He also said, “Blessed be the LORD, the God of Shem! May Canaan be the slave of Shem.
+ESV	He also said, “Blessed be the Lord, the God of Shem. and let Canaan be his servant.
+
+(x)	וַ֠יֹּאמֶר אַל־נָ֞א _יִ֤חַר_ לַֽאדֹנָי֙ וַאֲדַבֵּ֔רָה אוּלַ֛י יִמָּצְא֥וּן שָׁ֖ם שְׁלֹשִׁ֑ים וַיֹּ֨אמֶר֙ לֹ֣א אֶֽעֱשֶׂ֔ה אִם־אֶמְצָ֥א שָׁ֖ם שְׁלֹשִֽׁים׃ (Gen. 18:30)
+NIV	Then he said, “May the Lord not be angry, but let me speak. What if only thirty can be found there?” He answered, “I will not do it if I find thirty there.”
+ESV	Then he said, “Oh let not the Lord be angry, and I will speak. Suppose thirty are found there.” He answered, “I will not do it, if I find thirty there.”
+
+(x)	וְ_יִתֶּן_־לִ֗י אֶת־מְעָרַ֤ת הַמַּכְפֵּלָה֙ אֲשֶׁר־לֹ֔ו אֲשֶׁ֖ר בִּקְצֵ֣ה שָׂדֵ֑הוּ בְּכֶ֨סֶף מָלֵ֜א יִתְּנֶ֥נָּה לִ֛י בְּתֹוכְכֶ֖ם לַאֲחֻזַּת־קָֽבֶר׃ (Gen. 23:9)
+NIV	so _he will sell_ me the cave of Machpelah, which belongs to him and is at the end of his field. Ask him to sell it to me for the full price as a burial site among you.”
+ESV	that _he may give_ me the cave of Machpelah, which he owns. it is at the end of his field. For the full price let him give it to me in your presence as property for a burying place.”
+
+(x)	וַיֹּאמְר֣וּ אֲלֵהֶ֔ם _יֵ֧רֶא_ יְהוָ֛ה עֲלֵיכֶ֖ם וְיִשְׁפֹּ֑ט אֲשֶׁ֧ר הִבְאַשְׁתֶּ֣ם אֶת־רֵיחֵ֗נוּ בְּעֵינֵ֤י פַרְעֹה֙ וּבְעֵינֵ֣י עֲבָדָ֔יו לָֽתֶת־חֶ֥רֶב בְּיָדָ֖ם לְהָרְגֵֽנוּ׃ (Exod. 5:21)
+NIV	and they said, “May the LORD look upon you and judge you! You have made us a stench to Pharaoh and his officials and have put a sword in their hand to kill us.”
+ESV	and they said to them, “The Lord _look_ on you and judge, because you have made us stink in the sight of Pharaoh and his servants, and have put a sword in their hand to kill us.”
+
+(x)	וַיֹּ֨אמֶר יְהוָ֜ה אֶל־מֹשֶׁה נְטֵ֤ה אֶת־יָֽדְךָ֙ עַל־הַשָּׁמַ֔יִם וִ_יהִ֥י_ בָרָ֖ד בְּכָל־אֶ֣רֶץ מִצְרָ֑יִם עַל־הָאָדָ֣ם וְעַל־הַבְּהֵמָ֗ה וְעַ֛ל כָּל־עֵ֥שֶׂב הַשָּׂדֶ֖ה בְּאֶ֥רֶץ מִצְרָֽיִם׃ (Exod. 9:22)
+NIV	Then the LORD said to Moses, “Stretch out your hand toward the sky so that hail _will fall_ all over Egypt — on men and animals and on everything growing in the fields of Egypt.”
+ESV	Then the Lord said to Moses, “Stretch out your hand toward heaven, so that _there may be_ hail in all the land of Egypt, on man and beast and every plant of the field, in the land of Egypt.”
+
+(x)	וַיֹּ֨אמֶר יְהוָ֜ה אֶל־מֹשֶׁ֗ה נְטֵ֤ה יָֽדְךָ֙ עַל־הַשָּׁמַ֔יִם וִ֥_יהִי_ חֹ֖שֶׁךְ עַל־אֶ֣רֶץ מִצְרָ֑יִם וְיָמֵ֖שׁ חֹֽשֶׁךְ׃ (Exod. 10:21)
+NIV	Then the LORD said to Moses, “Stretch out your hand toward the sky so that darkness _will spread_ over Egypt — darkness that can be felt.”
+ESV	Then the Lord said to Moses, “Stretch out your hand toward heaven, that _there may be_ darkness over the land of Egypt, a darkness to be felt.”
+
+(x)	וַיֹּ֨אמֶר יְהוָ֜ה אֶל־מֹשֶׁ֗ה הָשֵׁ֞ב אֶת־מַטֵּ֤ה אַהֲרֹן֙ לִפְנֵ֣י הָעֵד֔וּת לְמִשְׁמֶ֥רֶת לְאֹ֖ות לִבְנֵי־מֶ֑רִי וּ_תְכַ֧ל_ תְּלוּנֹּתָ֛ם מֵעָלַ֖י וְלֹ֥א יָמֻֽתוּ׃ (Num. 17:25)
+NIV	The LORD said to Moses, “Put back Aaron’s staff in front of the Testimony, to be kept as a sign to the rebellious. This _will put an end_ to their grumbling against me, so that they will not die.”
+ESV	And the Lord said to Moses, “Put back the staff of Aaron before the testimony, to be kept as a sign for the rebels, that you _may make an end_ of their grumblings against me, lest they die.”
+
+(x)	וַיֹּ֨אמְר֜וּ אַנְשֵׁ֤י הָעִיר֙ אֶל־יֹואָ֔שׁ הֹוצֵ֥א אֶת־בִּנְךָ֖ וְ_יָמֹ֑ת_ כִּ֤י נָתַץ֙ אֶת־מִזְבַּ֣ח הַבַּ֔עַל וְכִ֥י כָרַ֖ת הָאֲשֵׁרָ֥ה אֲשֶׁר־עָלָֽיו׃ (Judg. 6:30)
+NIV	The men of the town demanded of Joash, “Bring out your son. _He must die_, because he has broken down Baal’s altar and cut down the Asherah pole beside it.”
+ESV	Then the men of the town said to Joash, “Bring out your son, that _he may die_, for he has broken down the altar of Baal and cut down the Asherah beside it.”
+
+(x)	וַתֹּ֨אמֶר֙ שִׁפְחָ֣תְךָ֔ יִֽהְיֶה־נָּ֛א דְּבַר־אֲדֹנִ֥י הַמֶּ֖לֶךְ לִמְנוּחָ֑ה כִּ֣י׀ כְּמַלְאַ֣ךְ הָאֱלֹהִ֗ים כֵּ֣ן אֲדֹנִ֤י הַמֶּ֨לֶךְ֙ לִשְׁמֹ֨עַ֙ הַטֹּ֣וב וְהָרָ֔ע וַֽיהוָ֥ה אֱלֹהֶ֖יךָ _יְהִ֥י_ עִמָּֽךְ׃ פ (II Sam. 14:17)
+NIV	“And now your servant says, ‘May the word of my lord the king bring me rest, for my lord the king is like an angel of God in discerning good and evil. May the LORD your God be with you.’”
+ESV	And your servant thought, ‘The word of my lord the king will set me at rest,’ for my lord the king is like the angel of God to discern good and evil. The Lord your God _be_ with you!”
+
+(x)	_יְהִ֨י_ יְהוָ֤ה אֱלֹהֵ֨ינוּ֙ עִמָּ֔נוּ כַּאֲשֶׁ֥ר הָיָ֖ה עִם־אֲבֹתֵ֑ינוּ אַל־יַעַזְבֵ֖נוּ וְאַֽל־יִטְּשֵֽׁנוּ׃ (I Kgs. 8:57)
+NIV	May the LORD our God be with us as he was with our fathers. may he never leave us nor forsake us.
+ESV	The Lord our God _be_ with us, as he was with our fathers. May he not leave us or forsake us,
+
+(x)	וַיַּעֲנֶ֣ה אֵלִיָּ֗הוּ וַיְדַבֵּר֮ אֶל־שַׂ֣ר הַחֲמִשִּׁים֒ וְאִם־אִ֤ישׁ אֱלֹהִים֙ אָ֔נִי _תֵּ֤רֶד_ אֵשׁ֙ מִן־הַשָּׁמַ֔יִם וְתֹאכַ֥ל אֹתְךָ֖ וְאֶת־חֲמִשֶּׁ֑יךָ וַ_תֵּ֤רֶד_ אֵשׁ֙ מִן־הַשָּׁמַ֔יִם וַתֹּ֥אכַל אֹתֹ֖ו וְאֶת־חֲמִשָּֽׁיו׃ (II Kgs. 1:10)
+NIV	Elijah answered the captain, “If I am a man of God, may fire come down from heaven and consume you and your fifty men!” Then the fire fell from heaven and consumed the captain and his men.
+ESV	But Elijah answered the captain of fifty, “If I am a man of God, let fire come down from heaven and consume you and your fifty.” Then fire came down from heaven and consumed him and his fifty.
+
+(x)	וַיֹּ֣אמֶר יְשַׁעְיָ֔הוּ יִשְׂא֖וּ דְּבֶ֣לֶת תְּאֵנִ֑ים וְיִמְרְח֥וּ עַֽל־הַשְּׁחִ֖ין וְ_יֶֽחִי_׃ (Isa. 38:21)
+NIV	Isaiah had said, “Prepare a poultice of figs and apply it to the boil, and _he will recover_.”
+ESV	Now Isaiah had said, “Let them take a cake of figs and apply it to the boil, that _he may recover_.”
+
+(x)	אָר֣וּר הַיֹּ֔ום אֲשֶׁ֥ר יֻלַּ֖דְתִּי בֹּ֑ו יֹ֛ום אֲשֶׁר־יְלָדַ֥תְנִי אִמִּ֖י אַל־_יְהִ֥י_ בָרֽוּךְ׃ (Jer. 20:14)
+NIV	Cursed _be_ the day I was born! May the day my mother bore me not _be_ blessed!
+ESV	Cursed be the day on which I was born! The day when my mother bore me, let it not be blessed!
+
+(x)	_יְהִֽי_־חַסְדְּךָ֣ יְהוָ֣ה עָלֵ֑ינוּ כַּ֝אֲשֶׁ֗ר יִחַ֥לְנוּ לָֽךְ׃ (Psa. 33:22)
+NIV	May your unfailing love rest upon us, O LORD, even as we put our hope in you.
+ESV	Let your steadfast love, O Lord, be upon us, even as we hope in you.
+
+(x)	וַאֲנִ֤י׀ עָנִ֣י וְאֶבְיֹון֮ אֲדֹנָ֪י _יַחֲשָׁ֫ב_ לִ֥י עֶזְרָתִ֣י וּמְפַלְטִ֣י אַ֑תָּה אֱ֝לֹהַ֗י אַל־תְּאַחַֽר׃ (Psa. 40:18)
+NIV	Yet I am poor and needy. may the Lord think of me. You are my help and my deliverer. O my God, do not delay.
+ESV	As for me, I am poor and needy, but the Lord _takes thought_ for me. You are my help and my deliverer. do not delay, O my God!
+
+(x)	וְ֭_יֵרְדְּ_ מִיָּ֣ם עַד־יָ֑ם וּ֝מִנָּהָ֗ר עַד־אַפְסֵי־אָֽרֶץ׃ (Psa. 72:8)
+NIV	_He will rule_ from sea to sea and from the River to the ends of the earth.
+ESV	_May he have dominion_ from sea to sea, and from the River to the ends of the earth!
+
+(x)	וִ_יהִ֤י_׀ נֹ֤עַם אֲדֹנָ֥י אֱלֹהֵ֗ינוּ עָ֫לֵ֥ינוּ וּמַעֲשֵׂ֣ה יָ֭דֵינוּ כֹּונְנָ֥ה עָלֵ֑ינוּ וּֽמַעֲשֵׂ֥ה יָ֝דֵ֗ינוּ כֹּונְנֵֽהוּ׃ (Psa. 90:17)
+NIV	May the favor of the Lord our God rest upon us. establish the work of our hands for us — yes, establish the work of our hands.
+ESV	Let the favor of the Lord our God be upon us, and establish the work of our hands upon us. yes, establish the work of our hands!
+
+(x)	_תַּ֣עַן_ לְ֭שֹׁונִי אִמְרָתֶ֑ךָ כִּ֖י כָל־מִצְוֹתֶ֣יךָ צֶּֽדֶק׃ (Psa. 119:172)
+NIV	May my tongue sing of your word, for all your commands are righteous.
+ESV	My tongue _will sing_ of your word, for all your commandments are right.
+
+(x)	_יְהִֽי_־שָׁלֹ֥ום בְּחֵילֵ֑ךְ שַׁ֝לְוָ֗ה בְּאַרְמְנֹותָֽיִךְ׃ (Psa. 122:7)
+NIV	_May there be_ peace within your walls and security within your citadels.”
+ESV	Peace _be_ within your walls and security within your towers!”
+
+(x)	הַיֹּ֥ום הַה֗וּא _יְֽהִ֫י_ חֹ֥שֶׁךְ אַֽל־יִדְרְשֵׁ֣הוּ אֱלֹ֣והַּ מִמָּ֑עַל וְאַל־תֹּופַ֖ע עָלָ֣יו נְהָרָֽה׃ (Job 3:4)
+NIV	That day — _may it turn_ to darkness. may God above not care about it. may no light shine upon it.
+ESV	Let that day be darkness! May God above not seek it, nor light shine upon it.
+
+(x)	הִנֵּ֤ה הַלַּ֣יְלָה הַ֭הוּא _יְהִ֣י_ גַלְמ֑וּד אַל־תָּבֹ֖א רְנָנָ֣ה בֹֽו׃ (Job 3:7)
+NIV	May that night be barren. may no shout of joy be heard in it.
+ESV	Behold, let that night be barren. let no joyful cry enter it.
+
+(x)	אֶ֭רֶץ אַל־תְּכַסִּ֣י דָמִ֑י וְֽאַל־_יְהִ֥י_ מָ֝קֹ֗ום לְזַעֲקָתִֽי׃ (Job 16:18)
+NIV	“O earth, do not cover my blood. may my cry never be laid to rest!
+ESV	“O earth, cover not my blood, and let my cry find no resting place.
+
+(x)	_יְהִֽי_־מְקֹורְךָ֥ בָר֑וּךְ וּ֝שְׂמַ֗ח מֵאֵ֥שֶׁת נְעוּרֶֽךָ׃ (Prov. 5:18)
+NIV	May your fountain be blessed, and may you rejoice in the wife of your youth.
+ESV	Let your fountain be blessed, and rejoice in the wife of your youth,
+
+(x)	עַתָּה֙ עִם־לְבָבִ֔י לִכְרֹ֣ות בְּרִ֔ית לַיהוָ֖ה אֱלֹהֵ֣י יִשְׂרָאֵ֑ל וְ_יָשֹׁ֥ב_ מִמֶּ֖נּוּ חֲרֹ֥ון אַפֹּֽו׃ (II Chr. 29:10)
+NIV	Now I intend to make a covenant with the LORD, the God of Israel, so that his fierce anger _will turn away_ from us.
+ESV	Now it is in my heart to make a covenant with the Lord, the God of Israel, in order that his fierce anger _may turn away_ from us.
+
+(x)	עַתָּ֕ה אַל־תַּקְשׁ֥וּ עָרְפְּכֶ֖ם כַּאֲבֹותֵיכֶ֑ם תְּנוּ־יָ֣ד לַיהוָ֗ה וּבֹ֤אוּ לְמִקְדָּשֹׁו֙ אֲשֶׁ֣ר הִקְדִּ֣ישׁ לְעֹולָ֔ם וְעִבְדוּ֙ אֶת־יְהוָ֣ה אֱלֹהֵיכֶ֔ם וְ_יָשֹׁ֥ב_ מִכֶּ֖ם חֲרֹ֥ון אַפֹּֽו׃ (II Chr. 30:8)
+NIV	Do not be stiff-necked, as your fathers were. submit to the LORD. Come to the sanctuary, which he has consecrated forever. Serve the LORD your God, so that his fierce anger _will turn away_ from you.
+ESV	Do not now be stiff-necked as your fathers were, but yield yourselves to the Lord and come to his sanctuary, which he has consecrated forever, and serve the Lord your God, that his fierce anger _may turn away_ from you.

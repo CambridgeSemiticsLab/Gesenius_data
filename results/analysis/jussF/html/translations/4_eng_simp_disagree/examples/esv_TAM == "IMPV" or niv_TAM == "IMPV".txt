@@ -1,0 +1,82 @@
+esv_TAM == "IMPV" or niv_TAM == "IMPV"
+20 of 20
+
+(x)	וַיֹּ֣אמֶר אֱלֹהִ֗ים _תַּֽדְשֵׁ֤א_ הָאָ֨רֶץ֙ דֶּ֔שֶׁא עֵ֚שֶׂב מַזְרִ֣יעַ זֶ֔רַע עֵ֣ץ פְּרִ֞י עֹ֤שֶׂה פְּרִי֙ לְמִינֹ֔ו אֲשֶׁ֥ר זַרְעֹו־בֹ֖ו עַל־הָאָ֑רֶץ וַֽיְהִי־כֵֽן׃ (Gen. 1:11)
+NIV	Then God said, “Let the land produce vegetation: seed-bearing plants and trees on the land that bear fruit with seed in it, according to their various kinds.” And it was so.
+ESV	And God said, “Let the earth sprout vegetation, plants yielding seed, and fruit trees bearing fruit in which is their seed, each according to its kind, on the earth.” And it was so.
+
+(x)	וַיֹּ֣אמֶר אֱלֹהִ֗ים _תֹּוצֵ֨א_ הָאָ֜רֶץ נֶ֤פֶשׁ חַיָּה֙ לְמִינָ֔הּ בְּהֵמָ֥ה וָרֶ֛מֶשׂ וְחַֽיְתֹו־אֶ֖רֶץ לְמִינָ֑הּ וַֽיְהִי־כֵֽן׃ (Gen. 1:24)
+NIV	And God said, “Let the land produce living creatures according to their kinds: livestock, creatures that move along the ground, and wild animals, each according to its kind.” And it was so.
+ESV	And God said, “Let the earth bring forth living creatures according to their kinds — livestock and creeping things and beasts of the earth according to their kinds.” And it was so.
+
+(x)	וְהַמִּצְפָּה֙ אֲשֶׁ֣ר אָמַ֔ר _יִ֥צֶף_ יְהוָ֖ה בֵּינִ֣י וּבֵינֶ֑ךָ כִּ֥י נִסָּתֵ֖ר אִ֥ישׁ מֵרֵעֵֽהוּ׃ (Gen. 31:49)
+NIV	It was also called Mizpah, because he said, “May the LORD keep watch between you and me when we are away from each other.
+ESV	and Mizpah, for he said, “The Lord _watch_ between you and me, when we are out of one another’s sight.
+
+(x)	וַיֹּאמְר֣וּ אֲלֵהֶ֔ם _יֵ֧רֶא_ יְהוָ֛ה עֲלֵיכֶ֖ם וְיִשְׁפֹּ֑ט אֲשֶׁ֧ר הִבְאַשְׁתֶּ֣ם אֶת־רֵיחֵ֗נוּ בְּעֵינֵ֤י פַרְעֹה֙ וּבְעֵינֵ֣י עֲבָדָ֔יו לָֽתֶת־חֶ֥רֶב בְּיָדָ֖ם לְהָרְגֵֽנוּ׃ (Exod. 5:21)
+NIV	and they said, “May the LORD look upon you and judge you! You have made us a stench to Pharaoh and his officials and have put a sword in their hand to kill us.”
+ESV	and they said to them, “The Lord _look_ on you and judge, because you have made us stink in the sight of Pharaoh and his servants, and have put a sword in their hand to kill us.”
+
+(x)	וְאֵ֣ת אֲשֶׁר֩ חָטָ֨א מִן־הַקֹּ֜דֶשׁ יְשַׁלֵּ֗ם וְאֶת־חֲמִֽישִׁתֹו֙ _יֹוסֵ֣ף_ עָלָ֔יו וְנָתַ֥ן אֹתֹ֖ו לַכֹּהֵ֑ן וְהַכֹּהֵ֗ן יְכַפֵּ֥ר עָלָ֛יו בְּאֵ֥יל הָאָשָׁ֖ם וְנִסְלַ֥ח לֹֽו׃ פ (Lev. 5:16)
+NIV	He must make restitution for what he has failed to do in regard to the holy things, _add_ a fifth of the value to that and give it all to the priest, who will make atonement for him with the ram as a guilt offering, and he will be forgiven.
+ESV	He shall also make restitution for what he has done amiss in the holy thing and _shall add_ a fifth to it and give it to the priest. And the priest shall make atonement for him with the ram of the guilt offering, and he shall be forgiven.
+
+(x)	אֹ֠ו מִכֹּ֞ל אֲשֶׁר־יִשָּׁבַ֣ע עָלָיו֮ לַשֶּׁקֶר֒ וְשִׁלַּ֤ם אֹתֹו֙ בְּרֹאשֹׁ֔ו וַחֲמִשִׁתָ֖יו _יֹסֵ֣ף_ עָלָ֑יו לַאֲשֶׁ֨ר ה֥וּא לֹ֛ו יִתְּנֶ֖נּוּ בְּיֹ֥ום אַשְׁמָתֹֽו׃ (Lev. 5:24)
+NIV	or whatever it was he swore falsely about. He must make restitution in full, _add_ a fifth of the value to it and give it all to the owner on the day he presents his guilt offering.
+ESV	or anything about which he has sworn falsely, he shall restore it in full and _shall add_ a fifth to it, and give it to him to whom it belongs on the day he realizes his guilt.
+
+(x)	יַ֣יִן וְשֵׁכָ֞ר אַל־_תֵּ֣שְׁתְּ_׀ אַתָּ֣ה׀ וּבָנֶ֣יךָ אִתָּ֗ךְ בְּבֹאֲכֶ֛ם אֶל־אֹ֥הֶל מֹועֵ֖ד וְלֹ֣א תָמֻ֑תוּ חֻקַּ֥ת עֹולָ֖ם לְדֹרֹתֵיכֶֽם׃ (Lev. 10:9)
+NIV	“You and your sons are not to drink wine or other fermented drink whenever you go into the Tent of Meeting, or you will die. This is a lasting ordinance for the generations to come.
+ESV	“_Drink_ no wine or strong drink, you or your sons with you, when you go into the tent of meeting, lest you die. It shall be a statute forever throughout your generations.
+
+(x)	וְהִתְוַדּ֗וּ אֶֽת־חַטָּאתָם֮ אֲשֶׁ֣ר עָשׂוּ֒ וְהֵשִׁ֤יב אֶת־אֲשָׁמֹו֙ בְּרֹאשֹׁ֔ו וַחֲמִישִׁתֹ֖ו _יֹסֵ֣ף_ עָלָ֑יו וְנָתַ֕ן לַאֲשֶׁ֖ר אָשַׁ֥ם לֹֽו׃ (Num. 5:7)
+NIV	and must confess the sin he has committed. He must make full restitution for his wrong, _add_ one fifth to it and give it all to the person he has wronged.
+ESV	he shall confess his sin that he has committed. And he shall make full restitution for his wrong, _adding_ a fifth to it and giving it to him to whom he did the wrong.
+
+(x)	_יָאֵ֨ר_ יְהוָ֧ה׀ פָּנָ֛יו אֵלֶ֖יךָ וִֽיחֻנֶּֽךָּ׃ ס (Num. 6:25)
+NIV	the LORD make his face shine upon you and be gracious to you.
+ESV	the Lord make his face to shine upon you and be gracious to you.
+
+(x)	וַתֹּ֨אמֶר֙ שִׁפְחָ֣תְךָ֔ יִֽהְיֶה־נָּ֛א דְּבַר־אֲדֹנִ֥י הַמֶּ֖לֶךְ לִמְנוּחָ֑ה כִּ֣י׀ כְּמַלְאַ֣ךְ הָאֱלֹהִ֗ים כֵּ֣ן אֲדֹנִ֤י הַמֶּ֨לֶךְ֙ לִשְׁמֹ֨עַ֙ הַטֹּ֣וב וְהָרָ֔ע וַֽיהוָ֥ה אֱלֹהֶ֖יךָ _יְהִ֥י_ עִמָּֽךְ׃ פ (II Sam. 14:17)
+NIV	“And now your servant says, ‘May the word of my lord the king bring me rest, for my lord the king is like an angel of God in discerning good and evil. May the LORD your God be with you.’”
+ESV	And your servant thought, ‘The word of my lord the king will set me at rest,’ for my lord the king is like the angel of God to discern good and evil. The Lord your God _be_ with you!”
+
+(x)	_יָֽשָׁב_־נָ֤א עַבְדְּךָ֙ וְאָמֻ֣ת בְּעִירִ֔י עִ֛ם קֶ֥בֶר אָבִ֖י וְאִמִּ֑י וְהִנֵּ֣ה׀ עַבְדְּךָ֣ כִמְהָ֗ם יַֽעֲבֹר֙ עִם־אֲדֹנִ֣י הַמֶּ֔לֶךְ וַעֲשֵׂה־לֹ֕ו אֵ֥ת אֲשֶׁר־טֹ֖וב בְּעֵינֶֽיךָ׃ ס (II Sam. 19:38)
+NIV	Let your servant return, that I may die in my own town near the tomb of my father and mother. But here is your servant Kimham. Let him cross over with my lord the king. Do for him whatever pleases you.”
+ESV	Please let your servant return, that I may die in my own city near the grave of my father and my mother. But here is your servant Chimham. Let him go over with my lord the king, and do for him whatever seems good to you.”
+
+(x)	_יְהִ֨י_ יְהוָ֤ה אֱלֹהֶ֨יךָ֙ בָּר֔וּךְ אֲשֶׁר֙ חָפֵ֣ץ בְּךָ֔ לְתִתְּךָ֖ עַל־כִּסֵּ֣א יִשְׂרָאֵ֑ל בְּאַהֲבַ֨ת יְהוָ֤ה אֶת־יִשְׂרָאֵל֙ לְעֹלָ֔ם וַיְשִֽׂימְךָ֣ לְמֶ֔לֶךְ לַעֲשֹׂ֥ות מִשְׁפָּ֖ט וּצְדָקָֽה׃ (I Kgs. 10:9)
+NIV	Praise _be_ to the LORD your God, who has delighted in you and placed you on the throne of Israel. Because of the LORD’s eternal love for Israel, he has made you king, to maintain justice and righteousness.”
+ESV	Blessed _be_ the Lord your God, who has delighted in you and set you on the throne of Israel! Because the Lord loved Israel forever, he has made you king, that you may execute justice and righteousness.”
+
+(x)	וַתָּ֗שָׁב וַתֹּ֤אכַל לֶ֨חֶם֙ וַ_תֵּ֣שְׁתְּ_ מַ֔יִם בַּמָּקֹום֙ אֲשֶׁ֣ר דִּבֶּ֣ר אֵלֶ֔יךָ אַל־תֹּ֥אכַל לֶ֖חֶם וְאַל־_תֵּ֣שְׁתְּ_ מָ֑יִם לֹֽא־תָבֹ֥וא נִבְלָתְךָ֖ אֶל־קֶ֥בֶר אֲבֹתֶֽיךָ׃ (I Kgs. 13:22)
+NIV	You came back and ate bread and drank water in the place where he told you not to eat or _drink_. Therefore your body will not be buried in the tomb of your fathers.’”
+ESV	but have come back and have eaten bread and drunk water in the place of which he said to you, “Eat no bread and _drink_ no water,” your body shall not come to the tomb of your fathers.’”
+
+(x)	קַוֵּ֗ה אֶל־יְה֫וָ֥ה חֲ֭זַק וְ_יַאֲמֵ֣ץ_ לִבֶּ֑ךָ וְ֝קַוֵּ֗ה אֶל־יְהוָֽה׃ (Psa. 27:14)
+NIV	Wait for the LORD. be strong and _take_ heart and wait for the LORD.
+ESV	Wait for the Lord. be strong, and let your heart take courage. wait for the Lord!
+
+(x)	חִ֭זְקוּ וְ_יַאֲמֵ֣ץ_ לְבַבְכֶ֑ם כָּל־הַ֝מְיַחֲלִ֗ים לַיהוָֽה׃ (Psa. 31:25)
+NIV	Be strong and _take_ heart, all you who hope in the LORD.
+ESV	Be strong, and let your heart take courage, all you who wait for the Lord!
+
+(x)	_יְהִֽי_־שָׁלֹ֥ום בְּחֵילֵ֑ךְ שַׁ֝לְוָ֗ה בְּאַרְמְנֹותָֽיִךְ׃ (Psa. 122:7)
+NIV	_May there be_ peace within your walls and security within your citadels.”
+ESV	Peace _be_ within your walls and security within your towers!”
+
+(x)	ה֖וּא רֵאשִׁ֣ית דַּרְכֵי־אֵ֑ל הָ֝עֹשֹׂו _יַגֵּ֥שׁ_ חַרְבֹּֽו׃ (Job 40:19)
+NIV	He ranks first among the works of God, yet his Maker _can approach_ him with his sword.
+ESV	“He is the first of the works of God. let him who made him bring near his sword!
+
+(x)	וַתֹּאמֶר֩ לָ֨הּ חֲמֹותָ֜הּ אֵיפֹ֨ה לִקַּ֤טְתְּ הַיֹּום֙ וְאָ֣נָה עָשִׂ֔ית _יְהִ֥י_ מַכִּירֵ֖ךְ בָּר֑וּךְ וַתַּגֵּ֣ד לַחֲמֹותָ֗הּ אֵ֤ת אֲשֶׁר־עָשְׂתָה֙ עִמֹּ֔ו וַתֹּ֗אמֶר שֵׁ֤ם הָאִישׁ֙ אֲשֶׁ֨ר עָשִׂ֧יתִי עִמֹּ֛ו הַיֹּ֖ום בֹּֽעַז׃ (Ruth 2:19)
+NIV	Her mother-in-law asked her, “Where did you glean today? Where did you work? Blessed _be_ the man who took notice of you!” Then Ruth told her mother-in-law about the one at whose place she had _be_en working. “The name of the man I worked with today is Boaz,” she said.
+ESV	And her mother-in-law said to her, “Where did you glean today? And where have you worked? Blessed _be_ the man who took notice of you.” So she told her mother-in-law with whom she had worked and said, “The man’s name with whom I worked today is Boaz.”
+
+(x)	אֲדֹנָ֗י כְּכָל־צִדְקֹתֶ֨ךָ֙ _יָֽשָׁב_־נָ֤א אַפְּךָ֙ וַחֲמָ֣תְךָ֔ מֵעִֽירְךָ֥ יְרוּשָׁלִַ֖ם הַר־קָדְשֶׁ֑ךָ כִּ֤י בַחֲטָאֵ֨ינוּ֙ וּבַעֲוֹנֹ֣ות אֲבֹתֵ֔ינוּ יְרוּשָׁלִַ֧ם וְעַמְּךָ֛ לְחֶרְפָּ֖ה לְכָל־סְבִיבֹתֵֽינוּ׃ (Dan. 9:16)
+NIV	O Lord, in keeping with all your righteous acts, _turn away_ your anger and your wrath from Jerusalem, your city, your holy hill. Our sins and the iniquities of our fathers have made Jerusalem and your people an object of scorn to all those around us.
+ESV	“O Lord, according to all your righteous acts, let your anger and your wrath turn away from your city Jerusalem, your holy hill, because for our sins, and for the iniquities of our fathers, Jerusalem and your people have become a byword among all who are around us.
+
+(x)	_יְהִ֨י_ יְהוָ֤ה אֱלֹהֶ֨יךָ֙ בָּר֔וּךְ אֲשֶׁ֣ר׀ חָפֵ֣ץ בְּךָ֗ לְתִתְּךָ֤ עַל־כִּסְאֹו֙ לְמֶ֔לֶךְ לַיהוָ֖ה אֱלֹהֶ֑יךָ בְּאַהֲבַ֨ת אֱלֹהֶ֤יךָ אֶת־יִשְׂרָאֵל֙ לְהַעֲמִידֹ֣ו לְעֹולָ֔ם וַיִּתֶּנְךָ֤ עֲלֵיהֶם֙ לְמֶ֔לֶךְ לַעֲשֹׂ֖ות מִשְׁפָּ֥ט וּצְדָקָֽה׃ (II Chr. 9:8)
+NIV	Praise _be_ to the LORD your God, who has delighted in you and placed you on his throne as king to rule for the LORD your God. Because of the love of your God for Israel and his desire to uphold them forever, he has made you king over them, to maintain justice and righteousness.”
+ESV	Blessed _be_ the Lord your God, who has delighted in you and set you on his throne as king for the Lord your God! Because your God loved Israel and would establish them forever, he has made you king over them, that you may execute justice and righteousness.”

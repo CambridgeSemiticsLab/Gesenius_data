@@ -15,7 +15,15 @@ run_analyses([
         'index': 'eng_TAMsimp',
         'columns': 'has_objc',
         'examples': [
-      ],
+            {
+                'query': ('eng_TAMsimp == "PAST ~ PRES PART" '
+                            'and has_objc == 1')
+            },
+            {
+                'query': ('eng_TAMsimp == "PAST ~ PAST PROG" '
+                            'and has_objc == 1')
+            },
+        ],
     },
     {
         'name': 'has_loca',
@@ -23,7 +31,7 @@ run_analyses([
         'index': 'eng_TAMsimp',
         'columns': ['has_loca'],
         'examples': [
-       ],
+        ],
     },
     {
         'name': 'has_time',
@@ -31,7 +39,11 @@ run_analyses([
         'index': 'eng_TAMsimp',
         'columns': ['has_time'],
         'examples': [
-       ],
+            {
+                'query': ('eng_TAMsimp == "PAST PERF" '
+                            ' and has_time == 1')
+            },
+        ],
     },
 ], snakemake.output.dir)  
 

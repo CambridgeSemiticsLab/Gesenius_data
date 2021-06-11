@@ -1,0 +1,30 @@
+eng_TAMsimp == "MOD would"and genre == "prose" and domain2 == "N" 
+7 of 7
+
+(x)	וּמִ֨י יִתֵּ֜ן אֶת־הָעָ֤ם הַזֶּה֙ בְּיָדִ֔י וְאָסִ֖ירָה אֶת־אֲבִימֶ֑לֶךְ וַ_יֹּ֨אמֶר֙_ לַאֲבִימֶ֔לֶךְ רַבֶּ֥ה צְבָאֲךָ֖ וָצֵֽאָה׃ (Judg. 9:29)
+NIV	If only this people were under my command! Then I would get rid of him. _I would say_ to Abimelech, ‘Call out your whole army!’”
+ESV	Would that this people were under my hand! Then I would remove Abimelech. _I would say_ to Abimelech, ‘Increase your army, and come out.’”
+
+(x)	וַ_יֹּ֣אמֶר_ אָכִ֔ישׁ אַל־פְּשַׁטְתֶּ֖ם הַיֹּ֑ום וַ_יֹּ֣אמֶר_ דָּוִ֗ד עַל־נֶ֤גֶב יְהוּדָה֙ וְעַל־נֶ֣גֶב הַיַּרְחְמְאֵלִ֔י וְאֶל־נֶ֖גֶב הַקֵּינִֽי׃ (I Sam. 27:10)
+NIV	When Achish asked, “Where did you go raiding today?” David _would say_, “Against the Negev of Judah” or “Against the Negev of Jerahmeel” or “Against the Negev of the Kenites.”
+ESV	When Achish asked, “Where have you made a raid today?” David _would say_, “Against the Negeb of Judah,” or, “Against the Negeb of the Jerahmeelites,” or, “Against the Negeb of the Kenites.”
+
+(x)	וְהִשְׁכִּים֙ אַבְשָׁלֹ֔ום וְעָמַ֕ד עַל־יַ֖ד דֶּ֣רֶךְ הַשָּׁ֑עַר וַיְהִ֡י כָּל־הָאִ֣ישׁ אֲשֶֽׁר־יִהְיֶה־לֹּו־רִיב֩ לָבֹ֨וא אֶל־הַמֶּ֜לֶךְ לַמִּשְׁפָּ֗ט וַ_יִּקְרָ֨א_ אַבְשָׁלֹ֤ום אֵלָיו֙ וַיֹּ֗אמֶר אֵֽי־מִזֶּ֥ה עִיר֙ אַ֔תָּה וַיֹּ֕אמֶר מֵאַחַ֥ד שִׁבְטֵֽי־יִשְׂרָאֵ֖ל עַבְדֶּֽךָ׃ (II Sam. 15:2)
+NIV	He would get up early and stand by the side of the road leading to the city gate. Whenever anyone came with a complaint to be placed before the king for a decision, Absalom _would call out_ to him, “What town are you from?” He would answer, “Your servant is from one of the tribes of Israel.”
+ESV	And Absalom used to rise early and stand beside the way of the gate. And when any man had a dispute to come before the king for judgment, Absalom _would call_ to him and say, “From what city are you?” And when he said, “Your servant is of such and such a tribe in Israel,”
+
+(x)	וַ_יֹּ֤אמֶר_ אֵלָיו֙ אַבְשָׁלֹ֔ום רְאֵ֥ה דְבָרֶ֖ךָ טֹובִ֣ים וּנְכֹחִ֑ים וְשֹׁמֵ֥עַ אֵין־לְךָ֖ מֵאֵ֥ת הַמֶּֽלֶךְ׃ (II Sam. 15:3)
+NIV	Then Absalom _would say_ to him, “Look, your claims are valid and proper, but there is no representative of the king to hear you.”
+ESV	Absalom _would say_ to him, “See, your claims are good and right, but there is no man designated by the king to hear you.”
+
+(x)	וַ_יֹּ֨אמֶר֙_ אַבְשָׁלֹ֔ום מִי־יְשִׂמֵ֥נִי שֹׁפֵ֖ט בָּאָ֑רֶץ וְעָלַ֗י יָבֹ֥וא כָּל־אִ֛ישׁ אֲשֶֽׁר־יִהְיֶה־לֹּו־רִ֥יב וּמִשְׁפָּ֖ט וְהִצְדַּקְתִּֽיו׃ (II Sam. 15:4)
+NIV	And Absalom _would add_, “If only I were appointed judge in the land! Then everyone who has a complaint or case could come to me and I would see that he receives justice.”
+ESV	Then Absalom _would say_, “Oh that I were judge in the land! Then every man with a dispute or cause might come to me, and I would give him justice.”
+
+(x)	וַיְהִ֡י כִּ֣י הִקִּיפֽוּ֩ יְמֵ֨י הַמִּשְׁתֶּ֜ה וַ_יִּשְׁלַ֧ח_ אִיֹּ֣וב וַֽיְקַדְּשֵׁ֗ם וְהִשְׁכִּ֣ים בַּבֹּקֶר֮ וְהֶעֱלָ֣ה עֹלֹות֮ מִסְפַּ֣ר כֻּלָּם֒ כִּ֚י אָמַ֣ר אִיֹּ֔וב אוּלַי֙ חָטְא֣וּ בָנַ֔י וּבֵרֲכ֥וּ אֱלֹהִ֖ים בִּלְבָבָ֑ם כָּ֛כָה יַעֲשֶׂ֥ה אִיֹּ֖וב כָּל־הַיָּמִֽים׃ פ (Job 1:5)
+NIV	When a period of feasting had run its course, Job _would send_ and have them purified. Early in the morning he would sacrifice a burnt offering for each of them, thinking, “Perhaps my children have sinned and cursed God in their hearts.” This was Job’s regular custom.
+ESV	And when the days of the feast had run their course, Job _would send_ and consecrate them, and he would rise early in the morning and offer burnt offerings according to the number of them all. For Job said, “It may be that my children have sinned, and cursed God in their hearts.” Thus Job did continually.
+
+(x)	וַיְהִ֡י כִּ֣י הִקִּיפֽוּ֩ יְמֵ֨י הַמִּשְׁתֶּ֜ה וַיִּשְׁלַ֧ח אִיֹּ֣וב וַֽ_יְקַדְּשֵׁ֗ם_ וְהִשְׁכִּ֣ים בַּבֹּקֶר֮ וְהֶעֱלָ֣ה עֹלֹות֮ מִסְפַּ֣ר כֻּלָּם֒ כִּ֚י אָמַ֣ר אִיֹּ֔וב אוּלַי֙ חָטְא֣וּ בָנַ֔י וּבֵרֲכ֥וּ אֱלֹהִ֖ים בִּלְבָבָ֑ם כָּ֛כָה יַעֲשֶׂ֥ה אִיֹּ֖וב כָּל־הַיָּמִֽים׃ פ (Job 1:5)
+NIV	When a period of feasting had run its course, Job would send and have them purified. Early in the morning he would sacrifice a burnt offering for each of them, thinking, “Perhaps my children have sinned and cursed God in their hearts.” This was Job’s regular custom.
+ESV	And when the days of the feast had run their course, Job would send and _consecrate_ them, and he would rise early in the morning and offer burnt offerings according to the number of them all. For Job said, “It may be that my children have sinned, and cursed God in their hearts.” Thus Job did continually.

@@ -10,22 +10,22 @@ TO INF,0.02
 PAST PERF,0.02
 FUT going-to,0.01
 IMPV,0.0
-MOD can,0.0
 MOD may,0.0
+MOD can,0.0
 MOD would,0.0
 MOD is to,0.0
 MOD could,0.0
+MOD must,0.0
 MOD should,0.0
 PAST PERF PROG,0.0
-MOD must,0.0
 PRES PERF PROG,0.0
 FUT PROG,0.0
 MOD was to,0.0
 MOD let,0.0
 MOD shall,0.0
-VB,0.0
 NP,0.0
-HAB used to,0.0
-PRES PROG keep,0.0
-MOD need not,0.0
+VB,0.0
 MOD might,0.0
+PRES PROG keep,0.0
+HAB used to,0.0
+MOD need not,0.0

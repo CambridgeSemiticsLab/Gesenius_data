@@ -1,0 +1,102 @@
+eng_TAMsimp.isin(["PRES PART", "PAST ~ PRES PART"])and genre == "prose" and domain2 == "N" 
+25 of 163
+
+(x)	וְהָ֣אָדָ֔ם יָדַ֖ע אֶת־חַוָּ֣ה אִשְׁתֹּ֑ו וַתַּ֨הַר֙ וַתֵּ֣לֶד אֶת־קַ֔יִן וַ_תֹּ֕אמֶר_ קָנִ֥יתִי אִ֖ישׁ אֶת־יְהוָֽה׃ (Gen. 4:1)
+NIV	Adam lay with his wife Eve, and she became pregnant and gave birth to Cain. _She said_, “With the help of the LORD I have brought forth a man.”
+ESV	Now Adam knew Eve his wife, and she conceived and bore Cain, _saying_, “I have gotten a man with the help of the Lord.”
+
+(x)	וַיֹּ֣אמֶר יַעֲקֹ֗ב הִשָּׁ֤בְעָה לִּי֙ כַּיֹּ֔ום וַיִּשָּׁבַ֖ע לֹ֑ו וַ_יִּמְכֹּ֥ר_ אֶת־בְּכֹרָתֹ֖ו לְיַעֲקֹֽב׃ (Gen. 25:33)
+NIV	But Jacob said, “Swear to me first.” So he swore an oath to him, _selling_ his birthright to Jacob.
+ESV	Jacob said, “Swear to me now.” So he swore to him and _sold_ his birthright to Jacob.
+
+(x)	וְה֖וּא עָבַ֣ר לִפְנֵיהֶ֑ם וַ_יִּשְׁתַּ֤חוּ_ אַ֨רְצָה֙ שֶׁ֣בַע פְּעָמִ֔ים עַד־גִּשְׁתֹּ֖ו עַד־אָחִֽיו׃ (Gen. 33:3)
+NIV	He himself went on ahead and _bowed down_ to the ground seven times as he approached his brother.
+ESV	He himself went on before them, _bowing himself_ to the ground seven times, until he came near to his brother.
+
+(x)	וַיִגְדַּ֣ל הַיֶּ֗לֶד וַתְּבִאֵ֨הוּ֙ לְבַת־פַּרְעֹ֔ה וַֽיְהִי־לָ֖הּ לְבֵ֑ן וַתִּקְרָ֤א שְׁמֹו֙ מֹשֶׁ֔ה וַ_תֹּ֕אמֶר_ כִּ֥י מִן־הַמַּ֖יִם מְשִׁיתִֽהוּ׃ (Exod. 2:10)
+NIV	When the child grew older, she took him to Pharaoh’s daughter and he became her son. She named him Moses, _saying_, “I drew him out of the water.”
+ESV	When the child grew up, she brought him to Pharaoh’s daughter, and he became her son. She named him Moses, “Because,” _she said_, “I drew him out of the water.”
+
+(x)	וַ_יֹּאמֶר֩_ אִם־שָׁמֹ֨ועַ תִּשְׁמַ֜ע לְקֹ֣ול׀ יְהוָ֣ה אֱלֹהֶ֗יךָ וְהַיָּשָׁ֤ר בְּעֵינָיו֙ תַּעֲשֶׂ֔ה וְהַֽאֲזַנְתָּ֙ לְמִצְוֹתָ֔יו וְשָׁמַרְתָּ֖ כָּל־חֻקָּ֑יו כָּֽל־הַמַּֽחֲלָ֞ה אֲשֶׁר־שַׂ֤מְתִּי בְמִצְרַ֨יִם֙ לֹא־אָשִׂ֣ים עָלֶ֔יךָ כִּ֛י אֲנִ֥י יְהוָ֖ה רֹפְאֶֽךָ׃ ס (Exod. 15:26)
+NIV	_He said_, “If you listen carefully to the voice of the LORD your God and do what is right in his eyes, if you pay attention to his commands and keep all his decrees, I will not bring on you any of the diseases I brought on the Egyptians, for I am the LORD, who heals you.”
+ESV	_saying_, “If you will diligently listen to the voice of the Lord your God, and do that which is right in his eyes, and give ear to his commandments and keep all his statutes, I will put none of the diseases on you that I put on the Egyptians, for I am the Lord, your healer.”
+
+(x)	וַתֵּ֨רֶא הָאָתֹ֜ון אֶת־מַלְאַ֣ךְ יְהוָ֗ה וַתִּלָּחֵץ֙ אֶל־הַקִּ֔יר וַ_תִּלְחַ֛ץ_ אֶת־רֶ֥גֶל בִּלְעָ֖ם אֶל־הַקִּ֑יר וַיֹּ֖סֶף לְהַכֹּתָֽהּ׃ (Num. 22:25)
+NIV	When the donkey saw the angel of the LORD, she pressed close to the wall, _crushing_ Balaam’s foot against it. So he beat her again.
+ESV	And when the donkey saw the angel of the Lord, she pushed against the wall and _pressed_ Balaam’s foot against the wall. So he struck her again.
+
+(x)	וַיִּשְׁלַ֞ח מַלְאַ֣ךְ יְהוָ֗ה אֶת־קְצֵ֤ה הַמִּשְׁעֶ֨נֶת֙ אֲשֶׁ֣ר בְּיָדֹ֔ו וַיִּגַּ֥ע בַּבָּשָׂ֖ר וּבַמַּצֹּ֑ות וַתַּ֨עַל הָאֵ֜שׁ מִן־הַצּ֗וּר וַ_תֹּ֤אכַל_ אֶת־הַבָּשָׂר֙ וְאֶת־הַמַּצֹּ֔ות וּמַלְאַ֣ךְ יְהוָ֔ה הָלַ֖ךְ מֵעֵינָֽיו׃ (Judg. 6:21)
+NIV	With the tip of the staff that was in his hand, the angel of the LORD touched the meat and the unleavened bread. Fire flared from the rock, _consuming_ the meat and the bread. And the angel of the LORD disappeared.
+ESV	Then the angel of the Lord reached out the tip of the staff that was in his hand and touched the meat and the unleavened cakes. And fire sprang up from the rock and _consumed_ the meat and the unleavened cakes. And the angel of the Lord vanished from his sight.
+
+(x)	וַיֵּצְא֨וּ הַשָּׂדֶ֜ה וַֽיִּבְצְר֤וּ אֶת־כַּרְמֵיהֶם֙ וַֽיִּדְרְכ֔וּ וַֽיַּעֲשׂ֖וּ הִלּוּלִ֑ים וַיָּבֹ֨אוּ֙ בֵּ֣ית אֱֽלֹֽהֵיהֶ֔ם וַיֹּֽאכְלוּ֙ וַ_יִּשְׁתּ֔וּ_ וַֽיְקַלְל֖וּ אֶת־אֲבִימֶֽלֶךְ׃ (Judg. 9:27)
+NIV	After they had gone out into the fields and gathered the grapes and trodden them, they held a festival in the temple of their god. While they were eating and _drinking_, they cursed Abimelech.
+ESV	And they went out into the field and gathered the grapes from their vineyards and trod them and held a festival. and they went into the house of their god and ate and _drank_ and reviled Abimelech.
+
+(x)	וַ_יִּמְצָ֥א_ לְחִֽי־חֲמֹ֖ור טְרִיָּ֑ה וַיִּשְׁלַ֤ח יָדֹו֙ וַיִּקָּחֶ֔הָ וַיַּךְ־בָּ֖הּ אֶ֥לֶף אִֽישׁ׃ (Judg. 15:15)
+NIV	_Finding_ a fresh jaw-bone of a donkey, he grabbed it and struck down a thousand men.
+ESV	And _he found_ a fresh jawbone of a donkey, and put out his hand and took it, and with it he struck 1,000 men.
+
+(x)	וַיֶּחֱזַק־בֹּ֤ו חֹֽתְנֹו֙ אֲבִ֣י הַֽנַּעֲרָ֔ה וַיֵּ֥שֶׁב אִתֹּ֖ו שְׁלֹ֣שֶׁת יָמִ֑ים וַיֹּאכְלוּ֙ וַיִּשְׁתּ֔וּ וַ_יָּלִ֖ינוּ_ שָֽׁם׃ (Judg. 19:4)
+NIV	His father-in-law, the girl’s father, prevailed upon him to stay. so he remained with him three days, eating and drinking, and _sleeping_ there.
+ESV	And his father-in-law, the girl’s father, made him stay, and he remained with him three days. So they ate and drank and _spent the night_ there.
+
+(x)	וַיַּ֞ךְ בְּאַנְשֵׁ֣י בֵֽית־שֶׁ֗מֶשׁ כִּ֤י רָאוּ֙ בַּאֲרֹ֣ון יְהוָ֔ה וַ_יַּ֤ךְ_ בָּעָם֙ שִׁבְעִ֣ים אִ֔ישׁ חֲמִשִּׁ֥ים אֶ֖לֶף אִ֑ישׁ וַיִּֽתְאַבְּל֣וּ הָעָ֔ם כִּֽי־הִכָּ֧ה יְהוָ֛ה בָּעָ֖ם מַכָּ֥ה גְדֹולָֽה׃ (I Sam. 6:19)
+NIV	But God struck down some of the men of Beth Shemesh, putting seventy of them to death because they had looked into the ark of the LORD. The people mourned because of the heavy blow the LORD had dealt them,
+ESV	And he struck some of the men of Beth-shemesh, because they looked upon the ark of the Lord. _He struck_ seventy men of them, and the people mourned because the Lord had struck the people with a great blow.
+
+(x)	וַ_יִּשְׁמַ֤ע_ שָׁאוּל֙ וְכָל־יִשְׂרָאֵ֔ל אֶת־דִּבְרֵ֥י הַפְּלִשְׁתִּ֖י הָאֵ֑לֶּה וַיֵּחַ֥תּוּ וַיִּֽרְא֖וּ מְאֹֽד׃ פ (I Sam. 17:11)
+NIV	On _hearing_ the Philistine’s words, Saul and all the Israelites were dismayed and terrified.
+ESV	When Saul and all Israel _heard_ these words of the Philistine, they were dismayed and greatly afraid.
+
+(x)	וַיִּשָּׁבַ֨ע עֹ֜וד דָּוִ֗ד וַ_יֹּ֨אמֶר֙_ יָדֹ֨עַ יָדַ֜ע אָבִ֗יךָ כִּֽי־מָצָ֤אתִי חֵן֙ בְּעֵינֶ֔יךָ וַיֹּ֛אמֶר אַל־יֵֽדַע־זֹ֥את יְהֹונָתָ֖ן פֶּן־יֵֽעָצֵ֑ב וְאוּלָ֗ם חַי־יְהוָה֙ וְחֵ֣י נַפְשֶׁ֔ךָ כִּ֣י כְפֶ֔שַׂע בֵּינִ֖י וּבֵ֥ין הַמָּֽוֶת׃ (I Sam. 20:3)
+NIV	But David took an oath and _said_, “Your father knows very well that I have found favour in your eyes, and he has _said_ to himself, ‘Jonathan must not know this or he will be grieved.’ Yet as surely as the LORD lives and as you live, there is only a step between me and death.”
+ESV	But David vowed again, _saying_, “Your father knows well that I have found favor in your eyes, and he thinks, ‘Do not let Jonathan know this, lest he be grieved.’ But truly, as the Lord lives and as your soul lives, there is but a step between me and death.”
+
+(x)	וְלֹ֥א אָבָ֖ה לִשְׁמֹ֣עַ בְּקֹולָ֑הּ וַ_יֶּחֱזַ֤ק_ מִמֶּ֨נָּה֙ וַיְעַנֶּ֔הָ וַיִּשְׁכַּ֖ב אֹתָֽהּ׃ (II Sam. 13:14)
+NIV	But he refused to listen to her, and since _he was stronger_ than she, he raped her.
+ESV	But he would not listen to her, and _being stronger_ than she, he violated her and lay with her.
+
+(x)	וַיִּשְׁמַ֣ע אֲדֹנִיָּ֗הוּ וְכָל־הַקְּרֻאִים֙ אֲשֶׁ֣ר אִתֹּ֔ו וְהֵ֖ם כִּלּ֣וּ לֶאֱכֹ֑ל וַ_יִּשְׁמַ֤ע_ יֹואָב֙ אֶת־קֹ֣ול הַשֹּׁופָ֔ר וַיֹּ֕אמֶר מַדּ֥וּעַ קֹֽול־הַקִּרְיָ֖ה הֹומָֽה׃ (I Kgs. 1:41)
+NIV	Adonijah and all the guests who were with him heard it as they were finishing their feast. On _hearing_ the sound of the trumpet, Joab asked, “What’s the meaning of all the noise in the city?”
+ESV	Adonijah and all the guests who were with him _heard_ it as they finished feasting. And when Joab _heard_ the sound of the trumpet, he said, “What does this uproar in the city mean?”
+
+(x)	וַיַּ֥עַשׂ הָרַ֖ע בְּעֵינֵ֣י יְהוָ֑ה וַ_יֵּ֨לֶךְ֙_ בְּדֶ֣רֶךְ אָבִ֔יו וּ֨בְחַטָּאתֹ֔ו אֲשֶׁ֥ר הֶחֱטִ֖יא אֶת־יִשְׂרָאֵֽל׃ (I Kgs. 15:26)
+NIV	He did evil in the eyes of the LORD, _walking_ in the ways of his father and in his sin, which he had caused Israel to commit.
+ESV	He did what was evil in the sight of the Lord and _walked_ in the way of his father, and in his sin which he made Israel to sin.
+
+(x)	וַ_יֹּ֣אמֶר_ לֹ֗ו כֹּ֚ה אָמַ֣ר בֶּן־הֲדַ֔ד כַּסְפְּךָ֥ וּֽזְהָבְךָ֖ לִֽי־ה֑וּא וְנָשֶׁ֧יךָ וּבָנֶ֛יךָ הַטֹּובִ֖ים לִי־הֵֽם׃ (I Kgs. 20:3)
+NIV	He sent messengers into the city to Ahab king of Israel, _saying_, “This is what Ben-hadad says:
+ESV	And he sent messengers into the city to Ahab king of Israel and _said_ to him, “Thus says Ben-hadad:
+
+(x)	וַתָּבֹא֙ וַתִּפֹּ֣ל עַל־רַגְלָ֔יו וַ_תִּשְׁתַּ֖חוּ_ אָ֑רְצָה וַתִּשָּׂ֥א אֶת־בְּנָ֖הּ וַתֵּצֵֽא׃ פ (II Kgs. 4:37)
+NIV	She came in, fell at his feet and _bowed_ to the ground. Then she took her son and went out.
+ESV	She came and fell at his feet, _bowing_ to the ground. Then she picked up her son and went out.
+
+(x)	וַיַּהֲפֹ֧ךְ יְהֹורָ֛ם יָדָ֖יו וַיָּנֹ֑ס וַ_יֹּ֥אמֶר_ אֶל־אֲחַזְיָ֖הוּ מִרְמָ֥ה אֲחַזְיָֽה׃ (II Kgs. 9:23)
+NIV	Joram turned about and fled, _calling out_ to Ahaziah, “Treachery, Ahaziah!”
+ESV	Then Joram reined about and fled, _saying_ to Ahaziah, “Treachery, O Ahaziah!”
+
+(x)	וַיִּשְׁמַ֤ע אֵלָיו֙ מֶ֣לֶךְ אַשּׁ֔וּר וַ_יַּעַל֩_ מֶ֨לֶךְ אַשּׁ֤וּר אֶל־דַּמֶּ֨שֶׂק֙ וַֽיִּתְפְּשֶׂ֔הָ וַיַּגְלֶ֖הָ קִ֑ירָה וְאֶת־רְצִ֖ין הֵמִֽית׃ (II Kgs. 16:9)
+NIV	The king of Assyria complied by _attacking_ Damascus and capturing it. He deported its inhabitants to Kir and put Rezin to death.
+ESV	And the king of Assyria listened to him. The king of Assyria _marched up_ against Damascus and took it, carrying its people captive to Kir, and he killed Rezin.
+
+(x)	וַ_יֹּ֗אמֶר_ קָ֠רָאתִי מִצָּ֥רָה לִ֛י אֶל־יְהוָ֖ה וַֽיַּעֲנֵ֑נִי מִבֶּ֧טֶן שְׁאֹ֛ול שִׁוַּ֖עְתִּי שָׁמַ֥עְתָּ קֹולִֽי׃ (Jonah 2:3)
+NIV	_He said_: “In my distress I called to the LORD, and he answered me. From the depths of the grave I called for help, and you listened to my cry.
+ESV	_saying_, “I called out to the Lord, out of my distress, and he answered me. out of the belly of Sheol I cried, and you heard my voice.
+
+(x)	וַיִּקַּ֤ח הָמָן֙ אֶת־הַלְּב֣וּשׁ וְאֶת־הַסּ֔וּס וַיַּלְבֵּ֖שׁ אֶֽת־מָרְדֳּכָ֑י וַיַּרְכִּיבֵ֨הוּ֙ בִּרְחֹ֣וב הָעִ֔יר וַ_יִּקְרָ֣א_ לְפָנָ֔יו כָּ֚כָה יֵעָשֶׂ֣ה לָאִ֔ישׁ אֲשֶׁ֥ר הַמֶּ֖לֶךְ חָפֵ֥ץ בִּיקָרֹֽו׃ (Esth. 6:11)
+NIV	So Haman got the robe and the horse. He robed Mordecai, and led him on horseback through the city streets, _proclaiming_ before him, “This is what is done for the man the king delights to honour!”
+ESV	So Haman took the robes and the horse, and he dressed Mordecai and led him through the square of the city, _proclaiming_ before him, “Thus shall it be done to the man whom the king delights to honor.”
+
+(x)	וַ_יִּשְׁמַ֖ע_ דָּוִ֑יד וַיִּשְׁלַח֙ אֶת־יֹואָ֔ב וְאֵ֥ת כָּל־צָבָ֖א הַגִּבֹּורִֽים׃ (I Chr. 19:8)
+NIV	On _hearing_ this, David sent Joab out with the entire army of fighting men.
+ESV	When David _heard_ of it, he sent Joab and all the army of the mighty men.
+
+(x)	וַיִּשְׂמְח֥וּ כָל־הַשָּׂרִ֖ים וְכָל־הָעָ֑ם וַיָּבִ֛יאוּ וַ_יַּשְׁלִ֥יכוּ_ לָאָרֹ֖ון עַד־לְכַלֵּֽה׃ (II Chr. 24:10)
+NIV	All the officials and all the people brought their contributions gladly, _dropping_ them into the chest until it was full.
+ESV	And all the princes and all the people rejoiced and brought their tax and _dropped_ it into the chest until they had finished.
+
+(x)	גַּ֠ם כָּל־שָׂרֵ֨י הַכֹּהֲנִ֤ים וְהָעָם֙ הִרְבּ֣וּ לִמְעָל־מַ֔עַל כְּכֹ֖ל תֹּעֲבֹ֣ות הַגֹּויִ֑ם וַֽ_יְטַמְּאוּ֙_ אֶת־בֵּ֣ית יְהוָ֔ה אֲשֶׁ֥ר הִקְדִּ֖ישׁ בִּירוּשָׁלִָֽם׃ (II Chr. 36:14)
+NIV	Furthermore, all the leaders of the priests and the people became more and more unfaithful, following all the detestable practices of the nations and _defiling_ the temple of the LORD, which he had consecrated in Jerusalem.
+ESV	All the officers of the priests and the people likewise were exceedingly unfaithful, following all the abominations of the nations. And _they polluted_ the house of the Lord that he had made holy in Jerusalem.

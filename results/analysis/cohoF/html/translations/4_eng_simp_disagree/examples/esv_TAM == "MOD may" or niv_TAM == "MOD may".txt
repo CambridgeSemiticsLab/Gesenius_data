@@ -1,0 +1,102 @@
+esv_TAM == "MOD may" or niv_TAM == "MOD may"
+25 of 57
+
+(x)	וְ_אֶתְּנָ֥ה_ בְרִיתִ֖י בֵּינִ֣י וּבֵינֶ֑ךָ וְאַרְבֶּ֥ה אֹותְךָ֖ בִּמְאֹ֥ד מְאֹֽד׃ (Gen. 17:2)
+NIV	_I will confirm_ my covenant between me and you and will greatly increase your numbers.”
+ESV	that _I may make_ my covenant between me and you, and may multiply you greatly.”
+
+(x)	וַיְדַבֵּ֨ר אֶל־עֶפְרֹ֜ון בְּאָזְנֵ֤י עַם־הָאָ֨רֶץ֙ לֵאמֹ֔ר אַ֛ךְ אִם־אַתָּ֥ה ל֖וּ שְׁמָעֵ֑נִי נָתַ֜תִּי כֶּ֤סֶף הַשָּׂדֶה֙ קַ֣ח מִמֶּ֔נִּי וְ_אֶקְבְּרָ֥ה_ אֶת־מֵתִ֖י שָֽׁמָּה׃ (Gen. 23:13)
+NIV	and he said to Ephron in their hearing, “Listen to me, if you will. I will pay the price of the field. Accept it from me so _I can bury_ my dead there.”
+ESV	And he said to Ephron in the hearing of the people of the land, “But if you will, hear me: I give the price of the field. Accept it from me, that _I may bury_ my dead there.”
+
+(x)	הָבִ֨יאָה לִּ֥י צַ֛יִד וַעֲשֵׂה־לִ֥י מַטְעַמִּ֖ים וְ_אֹכֵ֑לָה_ וַאֲבָרֶכְכָ֛ה לִפְנֵ֥י יְהוָ֖ה לִפְנֵ֥י מֹותִֽי׃ (Gen. 27:7)
+NIV	‘Bring me some game and prepare me some tasty food to _eat_, so that I may give you my blessing in the presence of the LORD before I die.’
+ESV	‘Bring me game and prepare for me delicious food, that _I may eat_ it and bless you before the Lord before I die.’
+
+(x)	וַיֹּ֨אמֶר יַעֲקֹ֤ב אֶל־לָבָן֙ הָבָ֣ה אֶת־אִשְׁתִּ֔י כִּ֥י מָלְא֖וּ יָמָ֑י וְ_אָבֹ֖ואָה_ אֵלֶֽיהָ׃ (Gen. 29:21)
+NIV	Then Jacob said to Laban, “Give me my wife. My time is completed, and _I want to lie_ with her.”
+ESV	Then Jacob said to Laban, “Give me my wife that _I may go in_ to her, for my time is completed.”
+
+(x)	וַיֹּאמֶר֮ יַעֲקֹב֒ אֱלֹהֵי֙ אָבִ֣י אַבְרָהָ֔ם וֵאלֹהֵ֖י אָבִ֣י יִצְחָ֑ק יְהוָ֞ה הָאֹמֵ֣ר אֵלַ֗י שׁ֧וּב לְאַרְצְךָ֛ וּלְמֹולַדְתְּךָ֖ וְ_אֵיטִ֥יבָה_ עִמָּֽךְ׃ (Gen. 32:10)
+NIV	Then Jacob prayed, “O God of my father Abraham, God of my father Isaac, O LORD, who said to me, ‘Go back to your country and your relatives, and I will make you prosper,’
+ESV	And Jacob said, “O God of my father Abraham and God of my father Isaac, O Lord who said to me, ‘Return to your country and to your kindred, that I may do you good,’
+
+(x)	וַתֹּ֨אמֶר֙ אֶל־עֲבָדֶ֔יךָ הֹורִדֻ֖הוּ אֵלָ֑י וְ_אָשִׂ֥ימָה_ עֵינִ֖י עָלָֽיו׃ (Gen. 44:21)
+NIV	“Then you said to your servants, ‘Bring him down to me so _I can see_ him for myself.’
+ESV	Then you said to your servants, ‘Bring him down to me, that _I may set_ my eyes on him.’
+
+(x)	וְשָׁמְע֖וּ לְקֹלֶ֑ךָ וּבָאתָ֡ אַתָּה֩ וְזִקְנֵ֨י יִשְׂרָאֵ֜ל אֶל־מֶ֣לֶךְ מִצְרַ֗יִם וַאֲמַרְתֶּ֤ם אֵלָיו֙ יְהוָ֞ה אֱלֹהֵ֤י הָֽעִבְרִיִּים֙ נִקְרָ֣ה עָלֵ֔ינוּ וְעַתָּ֗ה נֵֽלֲכָה־נָּ֞א דֶּ֣רֶךְ שְׁלֹ֤שֶׁת יָמִים֙ בַּמִּדְבָּ֔ר וְ_נִזְבְּחָ֖ה_ לַֽיהוָ֥ה אֱלֹהֵֽינוּ׃ (Exod. 3:18)
+NIV	“The elders of Israel will listen to you. Then you and the elders are to go to the king of Egypt and say to him, ‘The LORD, the God of the Hebrews, has met with us. Let us take a three-day journey into the desert to _offer sacrifices_ to the LORD our God.’
+ESV	And they will listen to your voice, and you and the elders of Israel shall go to the king of Egypt and say to him, ‘The Lord, the God of the Hebrews, has met with us. and now, please let us go a three days’ journey into the wilderness, that _we may sacrifice_ to the Lord our God.’
+
+(x)	וַיֹּ֨אמֶר יְהוָ֜ה אֶל־מֹשֶׁ֗ה עֲלֵ֥ה אֵלַ֛י הָהָ֖רָה וֶהְיֵה־שָׁ֑ם וְ_אֶתְּנָ֨ה_ לְךָ֜ אֶת־לֻחֹ֣ת הָאֶ֗בֶן וְהַתֹּורָה֙ וְהַמִּצְוָ֔ה אֲשֶׁ֥ר כָּתַ֖בְתִּי לְהֹורֹתָֽם׃ (Exod. 24:12)
+NIV	The LORD said to Moses, “Come up to me on the mountain and stay here, and _I will give_ you the tablets of stone, with the law and commands I have written for their instruction.”
+ESV	The Lord said to Moses, “Come up to me on the mountain and wait there, that _I may give_ you the tablets of stone, with the law and the commandment, which I have written for their instruction.”
+
+(x)	וַיֹּ֥אמֶר אֲלֵהֶ֖ם מֹשֶׁ֑ה עִמְד֣וּ וְ_אֶשְׁמְעָ֔ה_ מַה־יְצַוֶּ֥ה יְהוָ֖ה לָכֶֽם׃ פ (Num. 9:8)
+NIV	Moses answered them, “Wait until _I find out_ what the LORD commands concerning you.”
+ESV	And Moses said to them, “Wait, that _I may hear_ what the Lord will command concerning you.”
+
+(x)	וּמִשָּׁ֖ם בְּאֵ֑רָה הִ֣וא הַבְּאֵ֗ר אֲשֶׁ֨ר אָמַ֤ר יְהוָה֙ לְמֹשֶׁ֔ה אֱסֹף֙ אֶת־הָעָ֔ם וְ_אֶתְּנָ֥ה_ לָהֶ֖ם מָֽיִם׃ ס (Num. 21:16)
+NIV	From there they continued on to Beer, the well where the LORD said to Moses, “Gather the people together and _I will give_ them water.”
+ESV	And from there they continued to Beer. that is the well of which the Lord said to Moses, “Gather the people together, so that _I may give_ them water.”
+
+(x)	הַקְהִ֧ילוּ אֵלַ֛י אֶת־כָּל־זִקְנֵ֥י שִׁבְטֵיכֶ֖ם וְשֹׁטְרֵיכֶ֑ם וַ_אֲדַבְּרָ֣ה_ בְאָזְנֵיהֶ֗ם אֵ֚ת הַדְּבָרִ֣ים הָאֵ֔לֶּה וְאָעִ֣ידָה בָּ֔ם אֶת־הַשָּׁמַ֖יִם וְאֶת־הָאָֽרֶץ׃ (Deut. 31:28)
+NIV	Assemble before me all the elders of your tribes and all your officials, so that _I can speak_ these words in their hearing and call heaven and earth to testify against them.
+ESV	Assemble to me all the elders of your tribes and your officers, that _I may speak_ these words in their ears and call heaven and earth to witness against them.
+
+(x)	וַיֹּ֣אמֶר יְהוּדָה֩ לְשִׁמְעֹ֨ון אָחִ֜יו עֲלֵ֧ה אִתִּ֣י בְגֹורָלִ֗י וְ_נִֽלָּחֲמָה֙_ בַּֽכְּנַעֲנִ֔י וְהָלַכְתִּ֧י גַם־אֲנִ֛י אִתְּךָ֖ בְּגֹורָלֶ֑ךָ וַיֵּ֥לֶךְ אִתֹּ֖ו שִׁמְעֹֽון׃ (Judg. 1:3)
+NIV	Then the men of Judah said to the Simeonites their brothers, “Come up with us into the territory allotted to us, to _fight_ against the Canaanites. We in turn will go with you into yours.” So the Simeonites went with them.
+ESV	And Judah said to Simeon his brother, “Come up with me into the territory allotted to me, that _we may fight_ against the Canaanites. And I likewise will go with you into the territory allotted to you.” So Simeon went with him.
+
+(x)	וַתֹּ֨אמֶר֙ אֶל־אָבִ֔יהָ יֵעָ֥שֶׂה לִּ֖י הַדָּבָ֣ר הַזֶּ֑ה הַרְפֵּ֨ה מִמֶּ֜נִּי שְׁנַ֣יִם חֳדָשִׁ֗ים וְ_אֵֽלְכָה֙_ וְיָרַדְתִּ֣י עַל־הֶֽהָרִ֔ים וְאֶבְכֶּה֙ עַל־בְּתוּלַ֔י אָנֹכִ֖י וְרֵעֹותָֽי׃ (Judg. 11:37)
+NIV	But grant me this one request,” she said. “Give me two months to _roam_ the hills and weep with my friends, because I will never marry.”
+ESV	So she said to her father, “Let this thing be done for me: leave me alone two months, that _I may go up_ and down on the mountains and weep for my virginity, I and my companions.”
+
+(x)	וַיֹּאמְר֨וּ אֵלָ֜יו זִקְנֵ֣י יָבֵ֗ישׁ הֶ֤רֶף לָ֨נוּ֙ שִׁבְעַ֣ת יָמִ֔ים וְ_נִשְׁלְחָה֙_ מַלְאָכִ֔ים בְּכֹ֖ל גְּב֣וּל יִשְׂרָאֵ֑ל וְאִם־אֵ֥ין מֹושִׁ֛יעַ אֹתָ֖נוּ וְיָצָ֥אנוּ אֵלֶֽיךָ׃ (I Sam. 11:3)
+NIV	The elders of Jabesh said to him, “Give us seven days so that _we can send_ messengers throughout Israel. if no-one comes to rescue us, we will surrender to you.”
+ESV	The elders of Jabesh said to him, “Give us seven days’ respite that _we may send_ messengers through all the territory of Israel. Then, if there is no one to save us, we will give ourselves up to you.”
+
+(x)	וַיֹּ֨אמֶר֙ הַפְּלִשְׁתִּ֔י אֲנִ֗י חֵרַ֛פְתִּי אֶת־מַעַרְכֹ֥ות יִשְׂרָאֵ֖ל הַיֹּ֣ום הַזֶּ֑ה תְּנוּ־לִ֣י אִ֔ישׁ וְ_נִֽלָּחֲמָ֖ה_ יָֽחַד׃ (I Sam. 17:10)
+NIV	Then the Philistine said, “This day I defy the ranks of Israel! Give me a man and _let us fight_ each other.”
+ESV	And the Philistine said, “I defy the ranks of Israel this day. Give me a man, that _we may fight_ together.”
+
+(x)	וַיֹּ֨סֶף עֹ֜וד אֲחִימַ֤עַץ בֶּן־צָדֹוק֙ וַיֹּ֣אמֶר אֶל־יֹואָ֔ב וִ֣יהִי מָ֔ה _אָרֻֽצָה_־נָּ֥א גַם־אָ֖נִי אַחֲרֵ֣י הַכּוּשִׁ֑י וַיֹּ֣אמֶר יֹואָ֗ב לָֽמָּה־זֶּ֞ה אַתָּ֥ה רָץ֙ בְּנִ֔י וּלְכָ֖ה אֵין־בְּשֹׂורָ֥ה מֹצֵֽאת׃ (II Sam. 18:22)
+NIV	Ahimaaz son of Zadok again said to Joab, “Come what may, please _let me run_ behind the Cushite.” But Joab replied, “My son, why do you want to go? You don’t have any news that will bring you a reward.”
+ESV	Then Ahimaaz the son of Zadok said again to Joab, “Come what may, let me also run after the Cushite.” And Joab said, “Why will you run, my son, seeing that you will have no reward for the news?”
+
+(x)	וַתִּקְרָא֮ אֶל־אִישָׁהּ֒ וַתֹּ֗אמֶר שִׁלְחָ֨ה נָ֥א לִי֙ אֶחָ֣ד מִן־הַנְּעָרִ֔ים וְאַחַ֖ת הָאֲתֹנֹ֑ות וְ_אָר֛וּצָה_ עַד־אִ֥ישׁ הָאֱלֹהִ֖ים וְאָשֽׁוּבָה׃ (II Kgs. 4:22)
+NIV	She called her husband and said, “Please send me one of the servants and a donkey so I can go to the man of God quickly and return.”
+ESV	Then she called to her husband and said, “Send me one of the servants and one of the donkeys, that _I may quickly go_ to the man of God and come back again.”
+
+(x)	הַגִּ֨ידוּ֙ הָאֹתִיֹּ֣ות לְאָחֹ֔ור וְנֵ֣דְעָ֔ה כִּ֥י אֱלֹהִ֖ים אַתֶּ֑ם אַף־תֵּיטִ֣יבוּ וְתָרֵ֔עוּ וְ_נִשְׁתָּ֖עָה_ וְנִרְאֶ֥ה יַחְדָּֽו׃ (Isa. 41:23)
+NIV	tell us what the future holds, so that we may know you are gods. Do something, whether good or bad, so that _we will be dismayed_ and filled with fear.
+ESV	Tell us what is to come hereafter, that we may know that you are gods. do good, or do harm, that _we may be dismayed_ and terrified.
+
+(x)	קְח֤וּ עִמָּכֶם֙ דְּבָרִ֔ים וְשׁ֖וּבוּ אֶל־יְהוָ֑ה אִמְר֣וּ אֵלָ֗יו כָּל־תִּשָּׂ֤א עָוֹן֙ וְקַח־טֹ֔וב וּֽ_נְשַׁלְּמָ֥ה_ פָרִ֖ים שְׂפָתֵֽינוּ׃ (Hos. 14:3)
+NIV	Take words with you and return to the LORD. Say to him: “Forgive all our sins and receive us graciously, that _we may offer_ the fruit of our lips.
+ESV	Take with you words and return to the Lord. say to him, “Take away all iniquity. accept what is good, and _we will pay_ with bulls the vows of our lips.
+
+(x)	גְּמֹ֖ל עַֽל־עַבְדְּךָ֥ אֶֽחְיֶ֗ה וְ_אֶשְׁמְרָ֥ה_ דְבָרֶֽךָ׃ (Psa. 119:17)
+NIV	Do good to your servant, and I will live. _I will obey_ your word.
+ESV	[ Gimel ] Deal bountifully with your servant, that I may live and _keep_ your word.
+
+(x)	יָדֶ֣יךָ עָ֭שׂוּנִי וַֽיְכֹונְנ֑וּנִי הֲ֝בִינֵ֗נִי וְ_אֶלְמְדָ֥ה_ מִצְוֹתֶֽיךָ׃ (Psa. 119:73)
+NIV	Your hands made me and formed me. give me understanding to _learn_ your commands.
+ESV	[ Yodh ] Your hands have made and fashioned me. give me understanding that _I may learn_ your commandments.
+
+(x)	סְעָדֵ֥נִי וְ_אִוָּשֵׁ֑עָה_ וְאֶשְׁעָ֖ה בְחֻקֶּ֣יךָ תָמִֽיד׃ (Psa. 119:117)
+NIV	Uphold me, and _I will be delivered_. I will always have regard for your decrees.
+ESV	Hold me up, that _I may be safe_ and have regard for your statutes continually!
+
+(x)	חֲכַ֣ם בְּ֭נִי וְשַׂמַּ֣ח לִבִּ֑י וְ_אָשִׁ֖יבָה_ חֹרְפִ֣י דָבָֽר׃ (Prov. 27:11)
+NIV	Be wise, my son, and bring joy to my heart. then _I can answer_ anyone who treats me with contempt.
+ESV	Be wise, my son, and make my heart glad, that _I may answer_ him who reproaches me.
+
+(x)	וְיֵשׁ֙ אֲשֶׁ֣ר אֹמְרִ֔ים בָּנֵ֥ינוּ וּבְנֹתֵ֖ינוּ אֲנַ֣חְנוּ רַבִּ֑ים וְנִקְחָ֥ה דָגָ֖ן וְ_נֹאכְלָ֥ה_ וְנִחְיֶֽה׃ (Neh. 5:2)
+NIV	Some were saying, “We and our sons and daughters are numerous. in order for us to _eat_ and stay alive, we must get grain.”
+ESV	For there were those who said, “With our sons and our daughters, we are many. So let us get grain, that _we may eat_ and keep alive.”
+
+(x)	וַיֹּ֨אמֶר֙ יְהֹ֣ושָׁפָ֔ט הַאֵ֨ין פֹּ֥ה נָבִ֛יא לַיהוָ֖ה עֹ֑וד וְ_נִדְרְשָׁ֖ה_ מֵאֹתֹֽו׃ (II Chr. 18:6)
+NIV	But Jehoshaphat asked, “Is there not a prophet of the LORD here whom _we can enquire_ of?”
+ESV	But Jehoshaphat said, “Is there not here another prophet of the Lord of whom _we may inquire_?”

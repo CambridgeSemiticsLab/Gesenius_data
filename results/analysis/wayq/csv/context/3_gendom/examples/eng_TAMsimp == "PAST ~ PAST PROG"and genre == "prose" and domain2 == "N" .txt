@@ -1,0 +1,98 @@
+eng_TAMsimp == "PAST ~ PAST PROG"and genre == "prose" and domain2 == "N" 
+24 of 24
+
+(x)	וַיַּפֵּל֩ יְהוָ֨ה אֱלֹהִ֧ים׀ תַּרְדֵּמָ֛ה עַל־הָאָדָ֖ם וַ_יִּישָׁ֑ן_ וַיִּקַּ֗ח אַחַת֙ מִצַּלְעֹתָ֔יו וַיִּסְגֹּ֥ר בָּשָׂ֖ר תַּחְתֶּֽנָּה׃ (Gen. 2:21)
+NIV	So the LORD God caused the man to fall into a deep sleep. and while _he was sleeping_, he took one of the man’s ribs and closed up the place with flesh.
+ESV	So the Lord God caused a deep sleep to fall upon the man, and while _he slept_ took one of his ribs and closed up its place with flesh.
+
+(x)	וַֽ_יְהִ֧י_ הַמַּבּ֛וּל אַרְבָּעִ֥ים יֹ֖ום עַל־הָאָ֑רֶץ וַיִּרְבּ֣וּ הַמַּ֗יִם וַיִּשְׂאוּ֙ אֶת־הַתֵּבָ֔ה וַתָּ֖רָם מֵעַ֥ל הָאָֽרֶץ׃ (Gen. 7:17)
+NIV	For forty days the flood kept _coming_ on the earth, and as the waters increased they lifted the ark high above the earth.
+ESV	The flood _continued_ forty days on the earth. The waters increased and bore up the ark, and it rose high above the earth.
+
+(x)	וַיֹּאמְר֣וּ׀ גֶּשׁ־הָ֗לְאָה וַיֹּֽאמְרוּ֙ הָאֶחָ֤ד בָּֽא־לָגוּר֙ וַיִּשְׁפֹּ֣ט שָׁפֹ֔וט עַתָּ֕ה נָרַ֥ע לְךָ֖ מֵהֶ֑ם וַ_יִּפְצְר֨וּ_ בָאִ֤ישׁ בְּלֹוט֙ מְאֹ֔ד וַֽיִּגְּשׁ֖וּ לִשְׁבֹּ֥ר הַדָּֽלֶת׃ (Gen. 19:9)
+NIV	“Get out of our way,” they replied. And they said, “This fellow came here as an alien, and now he wants to play the judge! We’ll treat you worse than them.” _They kept bringing pressure_ on Lot and moved forward to break down the door.
+ESV	But they said, “Stand back!” And they said, “This fellow came to sojourn, and he has become the judge! Now we will deal worse with you than with them.” Then _they pressed_ hard against the man Lot, and drew near to break the door down.
+
+(x)	וַיֵּצֵ֨א לֹ֜וט וַיְדַבֵּ֣ר׀ אֶל־חֲתָנָ֣יו׀ לֹקְחֵ֣י בְנֹתָ֗יו וַיֹּ֨אמֶר֙ ק֤וּמוּ צְּאוּ֙ מִן־הַמָּקֹ֣ום הַזֶּ֔ה כִּֽי־מַשְׁחִ֥ית יְהוָ֖ה אֶת־הָעִ֑יר וַ_יְהִ֥י_ כִמְצַחֵ֖ק בְּעֵינֵ֥י חֲתָנָֽיו׃ (Gen. 19:14)
+NIV	So Lot went out and spoke to his sons-in-law, who were pledged to marry his daughters. He said, “Hurry and get out of this place, because the LORD is about to destroy the city!” But his sons-in-law thought _he was_ joking.
+ESV	So Lot went out and said to his sons-in-law, who were to marry his daughters, “Up! Get out of this place, for the Lord is about to destroy the city.” But _he seemed_ to his sons-in-law to be jesting.
+
+(x)	וַ_יֵּ֖שֶׁב_ בְּמִדְבַּ֣ר פָּארָ֑ן וַתִּֽקַּֽח־לֹ֥ו אִמֹּ֛ו אִשָּׁ֖ה מֵאֶ֥רֶץ מִצְרָֽיִם׃ פ (Gen. 21:21)
+NIV	While _he was living_ in the Desert of Paran, his mother got a wife for him from Egypt.
+ESV	_He lived_ in the wilderness of Paran, and his mother took a wife for him from the land of Egypt.
+
+(x)	וְרָחֵ֞ל לָקְחָ֣ה אֶת־הַתְּרָפִ֗ים וַתְּשִׂמֵ֛ם בְּכַ֥ר הַגָּמָ֖ל וַ_תֵּ֣שֶׁב_ עֲלֵיהֶ֑ם וַיְמַשֵּׁ֥שׁ לָבָ֛ן אֶת־כָּל־הָאֹ֖הֶל וְלֹ֥א מָצָֽא׃ (Gen. 31:34)
+NIV	Now Rachel had taken the household gods and put them inside her camel’s saddle and _was sitting_ on them. Laban searched through everything in the tent but found nothing.
+ESV	Now Rachel had taken the household gods and put them in the camel’s saddle and _sat_ on them. Laban felt all about the tent, but did not find them.
+
+(x)	וַיְשַׁלַּ֥ח אֶת־אֶחָ֖יו וַ_יֵּלֵ֑כוּ_ וַיֹּ֣אמֶר אֲלֵהֶ֔ם אַֽל־תִּרְגְּז֖וּ בַּדָּֽרֶךְ׃ (Gen. 45:24)
+NIV	Then he sent his brothers away, and as _they were leaving_ he said to them, “Don’t quarrel on the way!”
+ESV	Then he sent his brothers away, and as _they departed_, he said to them, “Do not quarrel on the way.”
+
+(x)	וַ_יֵּ֥שֶׁב_ יִשְׂרָאֵ֖ל בַּשִּׁטִּ֑ים וַיָּ֣חֶל הָעָ֔ם לִזְנֹ֖ות אֶל־בְּנֹ֥ות מֹואָֽב׃ (Num. 25:1)
+NIV	While Israel _was staying_ in Shittim, the men began to indulge in sexual immorality with Moabite women,
+ESV	While Israel _lived_ in Shittim, the people began to whore with the daughters of Moab.
+
+(x)	וַיְהִי֩ כִשְׁמֹ֨עַ אֲדֹֽנִי־צֶ֜דֶק מֶ֣לֶךְ יְרוּשָׁלִַ֗ם כִּֽי־לָכַ֨ד יְהֹושֻׁ֣עַ אֶת־הָעַי֮ וַיַּחֲרִימָהּ֒ כַּאֲשֶׁ֨ר עָשָׂ֤ה לִֽירִיחֹו֙ וּלְמַלְכָּ֔הּ כֵּן־עָשָׂ֥ה לָעַ֖י וּלְמַלְכָּ֑הּ וְכִ֨י הִשְׁלִ֜ימוּ יֹשְׁבֵ֤י גִבְעֹון֙ אֶת־יִשְׂרָאֵ֔ל וַ_יִּֽהְי֖וּ_ בְּקִרְבָּֽם׃ (Josh. 10:1)
+NIV	Now Adoni-zedek king of Jerusalem heard that Joshua had taken Ai and totally destroyed it, doing to Ai and its king as he had done to Jericho and its king, and that the people of Gibeon had made a treaty of peace with Israel and _were living_ near them.
+ESV	As soon as Adoni-zedek, king of Jerusalem, heard how Joshua had captured Ai and had devoted it to destruction, doing to Ai and its king as he had done to Jericho and its king, and how the inhabitants of Gibeon had made peace with Israel and _were_ among them,
+
+(x)	וַיָּבֹ֣א גִדְעֹ֔ון וְהִ֨נֵּה־אִ֔ישׁ מְסַפֵּ֥ר לְרֵעֵ֖הוּ חֲלֹ֑ום וַ_יֹּ֜אמֶר_ הִנֵּ֧ה חֲלֹ֣ום חָלַ֗מְתִּי וְהִנֵּ֨ה צְלִ֜יל לֶ֤חֶם שְׂעֹרִים֙ מִתְהַפֵּךְ֙ בְּמַחֲנֵ֣ה מִדְיָ֔ן וַיָּבֹ֣א עַד־הָ֠אֹהֶל וַיַּכֵּ֧הוּ וַיִּפֹּ֛ל וַיַּהַפְכֵ֥הוּ לְמַ֖עְלָה וְנָפַ֥ל הָאֹֽהֶל׃ (Judg. 7:13)
+NIV	Gideon arrived just as a man was telling a friend his dream. “I had a dream,” _he was saying_. “A round loaf of barley bread came tumbling into the Midianite camp. It struck the tent with such force that the tent overturned and collapsed.”
+ESV	When Gideon came, behold, a man was telling a dream to his comrade. And _he said_, “Behold, I dreamed a dream, and behold, a cake of barley bread tumbled into the camp of Midian and came to the tent and struck it so that it fell and turned it upside down, so that the tent lay flat.”
+
+(x)	וַיֵּצְא֨וּ הַשָּׂדֶ֜ה וַֽיִּבְצְר֤וּ אֶת־כַּרְמֵיהֶם֙ וַֽיִּדְרְכ֔וּ וַֽיַּעֲשׂ֖וּ הִלּוּלִ֑ים וַיָּבֹ֨אוּ֙ בֵּ֣ית אֱֽלֹֽהֵיהֶ֔ם וַ_יֹּֽאכְלוּ֙_ וַיִּשְׁתּ֔וּ וַֽיְקַלְל֖וּ אֶת־אֲבִימֶֽלֶךְ׃ (Judg. 9:27)
+NIV	After they had gone out into the fields and gathered the grapes and trodden them, they held a festival in the temple of their god. While _they were eating_ and drinking, they cursed Abimelech.
+ESV	And they went out into the field and gathered the grapes from their vineyards and trod them and held a festival. and they went into the house of their god and _ate_ and drank and reviled Abimelech.
+
+(x)	וַיֵּצֵא֙ גַּ֣עַל בֶּן־עֶ֔בֶד וַ_יַּעֲמֹ֕ד_ פֶּ֖תַח שַׁ֣עַר הָעִ֑יר וַיָּ֧קָם אֲבִימֶ֛לֶךְ וְהָעָ֥ם אֲשֶׁר־אִתֹּ֖ו מִן־הַמַּאְרָֽב׃ (Judg. 9:35)
+NIV	Now Gaal son of Ebed had gone out and _was standing_ at the entrance to the city gate just as Abimelech and his soldiers came out from their hiding-place.
+ESV	And Gaal the son of Ebed went out and _stood_ in the entrance of the gate of the city, and Abimelech and the people who were with him rose from the ambush.
+
+(x)	וַ_יֹּֽאמְרוּ֙_ בְּנֵ֣י בִנְיָמִ֔ן נִגָּפִ֥ים הֵ֛ם לְפָנֵ֖ינוּ כְּבָרִאשֹׁנָ֑ה וּבְנֵ֧י יִשְׂרָאֵ֣ל אָמְר֗וּ נָנ֨וּסָה֙ וּֽנְתַקְּנֻ֔הוּ מִן־הָעִ֖יר אֶל־הַֽמְסִלֹּֽות׃ (Judg. 20:32)
+NIV	While the Benjamites _were saying_, “We are defeating them as before,” the Israelites _were saying_, “Let’s retreat and draw them away from the city to the roads.”
+ESV	And the people of Benjamin _said_, “They are routed before us, as at the first.” But the people of Israel _said_, “Let us flee and draw them away from the city to the highways.”
+
+(x)	וַיִּפְנ֞וּ וַיָּנֻ֤סוּ הַמִּדְבָּ֨רָה֙ אֶל־סֶ֣לַע הָֽרִמֹּ֔ון וַיְעֹֽלְלֻ֨הוּ֙ בַּֽמְסִלֹּ֔ות חֲמֵ֥שֶׁת אֲלָפִ֖ים אִ֑ישׁ וַ_יַּדְבִּ֤יקוּ_ אַחֲרָיו֙ עַד־גִּדְעֹ֔ם וַיַּכּ֥וּ מִמֶּ֖נּוּ אַלְפַּ֥יִם אִֽישׁ׃ (Judg. 20:45)
+NIV	As they turned and fled towards the desert to the rock of Rimmon, the Israelites cut down five thousand men along the roads. _They kept pressing_ after the Benjamites as far as Gidom and struck down two thousand more.
+ESV	And they turned and fled toward the wilderness to the rock of Rimmon. Five thousand men of them were cut down in the highways. And _they were pursued hard_ to Gidom, and 2,000 men of them were struck down.
+
+(x)	וַיֹּ֣וחֶל ׀ שִׁבְעַ֣ת יָמִ֗ים לַמֹּועֵד֙ אֲשֶׁ֣ר שְׁמוּאֵ֔ל וְלֹא־בָ֥א שְׁמוּאֵ֖ל הַגִּלְגָּ֑ל וַ_יָּ֥פֶץ_ הָעָ֖ם מֵעָלָֽיו׃ (I Sam. 13:8)
+NIV	He waited for seven days, the time set by Samuel. but Samuel did not come to Gilgal, and Saul’s men _began to scatter_.
+ESV	He waited seven days, the time appointed by Samuel. But Samuel did not come to Gilgal, and the people _were scattering_ from him.
+
+(x)	וַ_תַּעֲרֹ֤ךְ_ יִשְׂרָאֵל֙ וּפְלִשְׁתִּ֔ים מַעֲרָכָ֖ה לִקְרַ֥את מַעֲרָכָֽה׃ (I Sam. 17:21)
+NIV	Israel and the Philistines _were drawing up_ their lines facing each other.
+ESV	And Israel and the Philistines _drew up_ for battle, army against army.
+
+(x)	וַ_יֵּ֨לֶךְ֙_ הַפְּלִשְׁתִּ֔י הֹלֵ֥ךְ וְקָרֵ֖ב אֶל־דָּוִ֑ד וְהָאִ֛ישׁ נֹשֵׂ֥א הַצִּנָּ֖ה לְפָנָֽיו׃ (I Sam. 17:41)
+NIV	Meanwhile, the Philistine, with his shield-bearer in front of him, _kept_ coming closer to David.
+ESV	And the Philistine _moved forward_ and came near to David, with his shield-bearer in front of him.
+
+(x)	וַיְהִ֣י מִֽמָּחֳרָ֗ת וַתִּצְלַ֣ח רוּחַ֩ אֱלֹהִ֨ים׀ רָעָ֤ה׀ אֶל־שָׁאוּל֙ וַ_יִּתְנַבֵּ֣א_ בְתֹוךְ־הַבַּ֔יִת וְדָוִ֛ד מְנַגֵּ֥ן בְּיָדֹ֖ו כְּיֹ֣ום׀ בְּיֹ֑ום וְהַחֲנִ֖ית בְּיַד־שָׁאֽוּל׃ (I Sam. 18:10)
+NIV	The next day an evil spirit from God came forcefully upon Saul. _He was prophesying_ in his house, while David was playing the harp, as he usually did. Saul had a spear in his hand
+ESV	The next day a harmful spirit from God rushed upon Saul, and _he raved_ within his house while David was playing the lyre, as he did day by day. Saul had his spear in his hand.
+
+(x)	וַיָּקָם֩ דָּוִ֨ד וַאֲנָשָׁ֜יו כְּשֵׁשׁ־מֵאֹ֣ות אִ֗ישׁ וַיֵּצְאוּ֙ מִקְּעִלָ֔ה וַ_יִּֽתְהַלְּכ֖וּ_ בַּאֲשֶׁ֣ר יִתְהַלָּ֑כוּ וּלְשָׁא֣וּל הֻגַּ֗ד כִּֽי־נִמְלַ֤ט דָּוִד֙ מִקְּעִילָ֔ה וַיֶּחְדַּ֖ל לָצֵֽאת׃ (I Sam. 23:13)
+NIV	So David and his men, about six hundred in number, left Keilah and _kept moving_ from place to place. When Saul was told that David had escaped from Keilah, he did not go there.
+ESV	Then David and his men, who were about six hundred, arose and departed from Keilah, and _they went_ wherever they could go. When Saul was told that David had escaped from Keilah, he gave up the expedition.
+
+(x)	וַ_יֵּ֨לֶךְ_ שָׁא֜וּל מִצַּ֤ד הָהָר֙ מִזֶּ֔ה וְדָוִ֧ד וַאֲנָשָׁ֛יו מִצַּ֥ד הָהָ֖ר מִזֶּ֑ה וַיְהִ֨י דָוִ֜ד נֶחְפָּ֤ז לָלֶ֨כֶת֙ מִפְּנֵ֣י שָׁא֔וּל וְשָׁא֣וּל וַאֲנָשָׁ֗יו עֹֽטְרִ֛ים אֶל־דָּוִ֥ד וְאֶל־אֲנָשָׁ֖יו לְתָפְשָֽׂם׃ (I Sam. 23:26)
+NIV	Saul _was going_ along one side of the mountain, and David and his men were on the other side, hurrying to get away from Saul. As Saul and his forces were closing in on David and his men to capture them,
+ESV	Saul _went_ on one side of the mountain, and David and his men on the other side of the mountain. And David was hurrying to get away from Saul. As Saul and his men were closing in on David and his men to capture them,
+
+(x)	וַיְהִ֣י׀ לְעֵ֣ת הָעֶ֗רֶב וַיָּ֨קָם דָּוִ֜ד מֵעַ֤ל מִשְׁכָּבֹו֙ וַ_יִּתְהַלֵּךְ֙_ עַל־גַּ֣ג בֵּית־הַמֶּ֔לֶךְ וַיַּ֥רְא אִשָּׁ֛ה רֹחֶ֖צֶת מֵעַ֣ל הַגָּ֑ג וְהָ֣אִשָּׁ֔ה טֹובַ֥ת מַרְאֶ֖ה מְאֹֽד׃ (II Sam. 11:2)
+NIV	One evening David got up from his bed and _walked around_ on the roof of the palace. From the roof he saw a woman bathing. The woman was very beautiful,
+ESV	It happened, late one afternoon, when David arose from his couch and _was walking_ on the roof of the king’s house, that he saw from the roof a woman bathing. and the woman was very beautiful.
+
+(x)	וַ_יְהִ֤י_ עֹבַדְיָ֨הוּ֙ בַּדֶּ֔רֶךְ וְהִנֵּ֥ה אֵלִיָּ֖הוּ לִקְרָאתֹ֑ו וַיַּכִּרֵ֨הוּ֙ וַיִּפֹּ֣ל עַל־פָּנָ֔יו וַיֹּ֕אמֶר הַאַתָּ֥ה זֶ֖ה אֲדֹנִ֥י אֵלִיָּֽהוּ׃ (I Kgs. 18:7)
+NIV	As Obadiah _was_ walking along, Elijah met him. Obadiah recognised him, bowed down to the ground, and said, “Is it really you, my lord Elijah?”
+ESV	And as Obadiah _was_ on the way, behold, Elijah met him. And Obadiah recognized him and fell on his face and said, “Is it you, my lord Elijah?”
+
+(x)	וַ_יִּרְאֻ֨הוּ_ בְנֵֽי־הַנְּבִיאִ֤ים אֲשֶׁר־בִּֽירִיחֹו֙ מִנֶּ֔גֶד וַיֹּ֣אמְר֔וּ נָ֛חָה ר֥וּחַ אֵלִיָּ֖הוּ עַל־אֱלִישָׁ֑ע וַיָּבֹ֨אוּ֙ לִקְרָאתֹ֔ו וַיִּשְׁתַּחֲווּ־לֹ֖ו אָֽרְצָה׃ (II Kgs. 2:15)
+NIV	The company of the prophets from Jericho, who _were watching_, said, “The spirit of Elijah is resting on Elisha.” And they went to meet him and bowed to the ground before him.
+ESV	Now when the sons of the prophets who were at Jericho _saw_ him opposite them, they said, “The spirit of Elijah rests on Elisha.” And they came to meet him and bowed to the ground before him.
+
+(x)	וַיִּקָּבְצ֣וּ כָל־אַנְשֵֽׁי־יְהוּדָה֩ וּבִנְיָמִ֨ן׀ יְרוּשָׁלִַ֜ם לִשְׁלֹ֣שֶׁת הַיָּמִ֗ים ה֛וּא חֹ֥דֶשׁ הַתְּשִׁיעִ֖י בְּעֶשְׂרִ֣ים בַּחֹ֑דֶשׁ וַ_יֵּשְׁב֣וּ_ כָל־הָעָ֗ם בִּרְחֹוב֙ בֵּ֣ית הָאֱלֹהִ֔ים מַרְעִידִ֥ים עַל־הַדָּבָ֖ר וּמֵהַגְּשָׁמִֽים׃ פ (Ezra 10:9)
+NIV	Within the three days, all the men of Judah and Benjamin had gathered in Jerusalem. And on the twentieth day of the ninth month, all the people _were sitting_ in the square before the house of God, greatly distressed by the occasion and because of the rain.
+ESV	Then all the men of Judah and Benjamin assembled at Jerusalem within the three days. It was the ninth month, on the twentieth day of the month. And all the people _sat_ in the open square before the house of God, trembling because of this matter and because of the heavy rain.

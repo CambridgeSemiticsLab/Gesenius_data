@@ -1,0 +1,26 @@
+eng_TAMsimp == "PRES PART" and mother_verbtype == "qtl"
+6 of 6
+
+(x)	אֲשֶׁר־עָשׂ֗וּ מִיֹּום֩ וַ_יַּ֣עַזְבֻ֔נִי_ (I Sam. 8:8)
+NIV	As they have done from the day I brought them up out of Egypt until this day, _forsaking_ me and serving other gods, so they are doing to you.
+ESV	According to all the deeds that they have done, from the day I brought them up out of Egypt even to this day, _forsaking_ me and serving other gods, so they are also doing to you.
+
+(x)	וְאִ֨ישׁ בָּ֜א מִבַּ֣עַל שָׁלִ֗שָׁה וַ_יָּבֵא֩_ לְאִ֨ישׁ הָאֱלֹהִ֜ים לֶ֤חֶם בִּכּוּרִים֙ עֶשְׂרִֽים־לֶ֣חֶם שְׂעֹרִ֔ים וְכַרְמֶ֖ל בְּצִקְלֹנֹ֑ו (II Kgs. 4:42)
+NIV	A man came from Baal Shalishah, _bringing_ the man of God twenty loaves of barley bread baked from the first ripe corn, along with some ears of new corn. “Give it to the people to eat,” Elisha said.
+ESV	A man came from Baal-shalishah, _bringing_ the man of God bread of the firstfruits, twenty loaves of barley and fresh ears of grain in his sack. And Elisha said, “Give to the men, that they may eat.”
+
+(x)	אֲשֶׁ֨ר הֵסִ֤יר חִזְקִיָּ֨הוּ֙ אֶת־בָּמֹתָ֣יו וְאֶת־מִזְבְּחֹתָ֔יו וַ_יֹּ֤אמֶר_ לִֽיהוּדָה֙ וְלִיר֣וּשָׁלִַ֔ם (II Kgs. 18:22)
+NIV	And if you say to me, “We are depending on the LORD our God” — isn’t he the one whose high places and altars Hezekiah removed, _saying_ to Judah and Jerusalem, “You must worship before this altar in Jerusalem”?
+ESV	But if you say to me, “We trust in the Lord our God,” is it not he whose high places and altars Hezekiah has removed, _saying_ to Judah and to Jerusalem, “You shall worship before this altar in Jerusalem”?
+
+(x)	אֲשֶׁ֨ר הֵסִ֤יר חִזְקִיָּ֨הוּ֙ אֶת־בָּמֹתָ֣יו וְאֶת־מִזְבְּחֹתָ֔יו וַ_יֹּ֤אמֶר_ לִֽיהוּדָה֙ וְלִיר֣וּשָׁלִַ֔ם (Isa. 36:7)
+NIV	And if you say to me, “We are depending on the LORD our God” — isn’t he the one whose high places and altars Hezekiah removed, _saying_ to Judah and Jerusalem, “You must worship before this altar”?
+ESV	But if you say to me, “We trust in the Lord our God,” is it not he whose high places and altars Hezekiah has removed, _saying_ to Judah and to Jerusalem, “You shall worship before this altar”?
+
+(x)	וְאַ֨תְּ נָתַ֤תְּ אֶת־נְדָנַ֨יִךְ֙ לְכָל־מְאַֽהֲבַ֔יִךְ וַ_תִּשְׁחֳדִ֣י_ אֹותָ֗ם (Ezek. 16:33)
+NIV	Every prostitute receives a fee, but you give gifts to all your lovers, _bribing_ them to come to you from everywhere for your illicit favours.
+ESV	Men give gifts to all prostitutes, but you gave your gifts to all your lovers, _bribing_ them to come to you from every side with your whorings.
+
+(x)	יָ֖ד נָ֣גְעָה בִּ֑י וַ_תְּנִיעֵ֥נִי_ עַל־בִּרְכַּ֖י וְכַפֹּ֥ות יָדָֽי׃ (Dan. 10:10)
+NIV	A hand touched me and set me trembling on my hands and knees.
+ESV	And behold, a hand touched me and set me trembling on my hands and knees.

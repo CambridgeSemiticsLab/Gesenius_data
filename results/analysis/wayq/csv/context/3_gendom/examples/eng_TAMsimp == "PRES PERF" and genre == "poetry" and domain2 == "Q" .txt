@@ -1,0 +1,102 @@
+eng_TAMsimp == "PRES PERF" and genre == "poetry" and domain2 == "Q" 
+25 of 25
+
+(x)	עָזִּ֤י וְזִמְרָת֙ יָ֔הּ וַֽ_יְהִי_־לִ֖י לִֽישׁוּעָ֑ה זֶ֤ה אֵלִי֙ וְאַנְוֵ֔הוּ אֱלֹהֵ֥י אָבִ֖י וַאֲרֹמְמֶֽנְהוּ׃ (Exod. 15:2)
+NIV	The LORD is my strength and my song. _he has become_ my salvation. He is my God, and I will praise him, my father’s God, and I will exalt him.
+ESV	The Lord is my strength and my song, and _he has become_ my salvation. this is my God, and I will praise him, my father’s God, and I will exalt him.
+
+(x)	מֵקִ֨ים מֵעָפָ֜ר דָּ֗ל מֵֽאַשְׁפֹּת֙ יָרִ֣ים אֶבְיֹ֔ון לְהֹושִׁיב֙ עִם־נְדִיבִ֔ים וְכִסֵּ֥א כָבֹ֖וד יַנְחִלֵ֑ם כִּ֤י לַֽיהוָה֙ מְצֻ֣קֵי אֶ֔רֶץ וַ_יָּ֥שֶׁת_ עֲלֵיהֶ֖ם תֵּבֵֽל׃ (I Sam. 2:8)
+NIV	He raises the poor from the dust and lifts the needy from the ash heap. he seats them with princes and has them inherit a throne of honour. “For the foundations of the earth are the LORD’s. upon them _he has set_ the world.
+ESV	He raises up the poor from the dust. he lifts the needy from the ash heap to make them sit with princes and inherit a seat of honor. For the pillars of the earth are the Lord’s, and on them _he has set_ the world.
+
+(x)	וַ_יָּ֧שֶׁב_ יְהוָ֛ה לִ֖י כְּצִדְקָתִ֑י כְּבֹרִ֖י לְנֶ֥גֶד עֵינָֽיו׃ (II Sam. 22:25)
+NIV	The LORD _has rewarded_ me according to my righteousness, according to my cleanness in his sight.
+ESV	And the Lord _has rewarded_ me according to my righteousness, according to my cleanness in his sight.
+
+(x)	וַ_יָּֽשֶׁב_־יְהוָ֣ה לִ֣י כְצִדְקִ֑י כְּבֹ֥ר יָ֝דַ֗י לְנֶ֣גֶד עֵינָֽיו׃ (Psa. 18:25)
+NIV	The LORD _has rewarded_ me according to my righteousness, according to the cleanness of my hands in his sight.
+ESV	So the Lord _has rewarded_ me according to my righteousness, according to the cleanness of my hands in his sight.
+
+(x)	כִּֽי־חִ֭צֶּיךָ נִ֣חֲתוּ בִ֑י וַ_תִּנְחַ֖ת_ עָלַ֣י יָדֶֽךָ׃ (Psa. 38:3)
+NIV	For your arrows have pierced me, and your hand _has come down_ upon me.
+ESV	For your arrows have sunk into me, and your hand _has come down_ on me.
+
+(x)	וָ_אֱהִ֗י_ כְּ֭אִישׁ אֲשֶׁ֣ר לֹא־שֹׁמֵ֑עַ וְאֵ֥ין בְּ֝פִ֗יו תֹּוכָחֹֽות׃ (Psa. 38:15)
+NIV	_I have become_ like a man who does not hear, whose mouth can offer no reply.
+ESV	_I have become_ like a man who does not hear, and in whose mouth are no rebukes.
+
+(x)	וָ_אֱהִ֣י_ נָ֭גוּעַ כָּל־הַיֹּ֑ום וְ֝תֹוכַחְתִּ֗י לַבְּקָרִֽים׃ (Psa. 73:14)
+NIV	All day long _I have been_ plagued. _I have been_ punished every morning.
+ESV	For all the day long _I have been_ stricken and rebuked every morning.
+
+(x)	וַ_תָּ֣רֶם_ כִּרְאֵ֣ים קַרְנִ֑י בַּ֝לֹּתִ֗י בְּשֶׁ֣מֶן רַעֲנָֽן׃ (Psa. 92:11)
+NIV	_You have exalted_ my horn like that of a wild ox. fine oils have been poured upon me.
+ESV	But _you have exalted_ my horn like that of the wild ox. you have poured over me fresh oil.
+
+(x)	וַ_תַּבֵּ֥ט_ עֵינִ֗י בְּשׁ֫וּרָ֥י בַּקָּמִ֖ים עָלַ֥י מְרֵעִ֗ים תִּשְׁמַ֥עְנָה אָזְנָֽי׃ (Psa. 92:12)
+NIV	My eyes _have seen_ the defeat of my adversaries. my ears have heard the rout of my wicked foes.
+ESV	My eyes _have seen_ the downfall of my enemies. my ears have heard the doom of my evil assailants.
+
+(x)	וַ_יְהִ֬י_ יְהוָ֣ה לִ֣י לְמִשְׂגָּ֑ב וֵ֝אלֹהַ֗י לְצ֣וּר מַחְסִֽי׃ (Psa. 94:22)
+NIV	But the LORD _has become_ my fortress, and my God the rock in whom I take refuge.
+ESV	But the Lord _has become_ my stronghold, and my God the rock of my refuge.
+
+(x)	עָזִּ֣י וְזִמְרָ֣ת יָ֑הּ וַֽ_יְהִי_־לִ֝֗י לִֽישׁוּעָֽה׃ (Psa. 118:14)
+NIV	The LORD is my strength and my song. _he has become_ my salvation.
+ESV	The Lord is my strength and my song. _he has become_ my salvation.
+
+(x)	אֹ֭ודְךָ כִּ֣י עֲנִיתָ֑נִי וַ_תְּהִי_־לִ֝֗י לִֽישׁוּעָֽה׃ (Psa. 118:21)
+NIV	I will give you thanks, for you answered me. _you have become_ my salvation.
+ESV	I thank you that you have answered me and _have become_ my salvation.
+
+(x)	אֵ֤ל׀ יְהוָה֮ וַ_יָּ֪אֶר_ לָ֥נוּ אִסְרוּ־חַ֥ג בַּעֲבֹתִ֑ים עַד־קַ֝רְנֹ֗ות הַמִּזְבֵּֽחַ׃ (Psa. 118:27)
+NIV	The LORD is God, and _he has made his light shine_ upon us. With boughs in hand, join in the festal procession up to the horns of the altar.
+ESV	The Lord is God, and _he has made his light to shine_ upon us. Bind the festal sacrifice with cords, up to the horns of the altar!
+
+(x)	וַ_יָּ֤רֶם_ קֶ֨רֶן׀ לְעַמֹּ֡ו תְּהִלָּ֤ה לְֽכָל־חֲסִידָ֗יו לִבְנֵ֣י יִ֭שְׂרָאֵל עַֽם־קְרֹבֹ֗ו הַֽלְלוּ־יָֽהּ׃ (Psa. 148:14)
+NIV	_He has raised up_ for his people a horn, the praise of all his saints, of Israel, the people close to his heart. Praise the LORD.
+ESV	_He has raised up_ a horn for his people, praise for all his saints, for the people of Israel who are near to him. Praise the Lord!
+
+(x)	לְ֭גֶבֶר אֲשֶׁר־דַּרְכֹּ֣ו נִסְתָּ֑רָה וַ_יָּ֖סֶךְ_ אֱלֹ֣והַּ בַּעֲדֹֽו׃ (Job 3:23)
+NIV	Why is life given to a man whose way is hidden, whom God _has hedged in_?
+ESV	Why is light given to a man whose way is hidden, whom God _has hedged in_?
+
+(x)	חָטָ֡אתִי מָ֤ה אֶפְעַ֨ל׀ לָךְ֮ נֹצֵ֪ר הָאָ֫דָ֥ם לָ֤מָה שַׂמְתַּ֣נִי לְמִפְגָּ֣ע לָ֑ךְ וָ_אֶהְיֶ֖ה_ עָלַ֣י לְמַשָּֽׂא׃ (Job 7:20)
+NIV	If I have sinned, what have I done to you, O watcher of men? Why have you made me your target? _Have I become_ a burden to you?
+ESV	If I sin, what do I do to you, you watcher of mankind? Why have you made me your mark? Why _have I become_ a burden to you?
+
+(x)	וַֽ֭_תִּקְמְטֵנִי_ לְעֵ֣ד הָיָ֑ה וַיָּ֥קָם בִּ֥י כַ֝חֲשִׁ֗י בְּפָנַ֥י יַעֲנֶֽה׃ (Job 16:8)
+NIV	_You have bound_ me — and it has become a witness. my gauntness rises up and testifies against me.
+ESV	And he has shriveled me up, which is a witness against me, and my leanness has risen up against me. it testifies to my face.
+
+(x)	וַ_תֵּ֣כַהּ_ מִכַּ֣עַשׂ עֵינִ֑י וִֽיצֻרַ֖י כַּצֵּ֣ל כֻּלָּֽם׃ (Job 17:7)
+NIV	My eyes _have grown dim_ with grief. my whole frame is but a shadow.
+ESV	My eye _has grown dim_ from vexation, and all my members are like a shadow.
+
+(x)	בְּעֹורִ֣י וּ֭בִבְשָׂרִי דָּבְקָ֣ה עַצְמִ֑י וָ֝_אֶתְמַלְּטָ֗ה_ בְּעֹ֣ור שִׁנָּֽי׃ (Job 19:20)
+NIV	I am nothing but skin and bones. _I have escaped_ by only the skin of my teeth.
+ESV	My bones stick to my skin and to my flesh, and _I have escaped_ by the skin of my teeth.
+
+(x)	אִם־הָלַ֥כְתִּי עִם־שָׁ֑וְא וַ_תַּ֖חַשׁ_ עַל־מִרְמָ֣ה רַגְלִֽי׃ (Job 31:5)
+NIV	“If I have walked in falsehood or my foot _has hurried_ after deceit —
+ESV	“If I have walked with falsehood and my foot _has hastened_ to deceit.
+
+(x)	עַל־כֵּ֭ן יָצָ֣אתִי לִקְרָאתֶ֑ךָ לְשַׁחֵ֥ר פָּ֝נֶ֗יךָ וָ_אֶמְצָאֶֽךָּ_׃ (Prov. 7:15)
+NIV	So I came out to meet you. I looked for you and _have found_ you!
+ESV	so now I have come out to meet you, to seek you eagerly, and _I have found_ you.
+
+(x)	מִ֤י עָלָֽה־שָׁמַ֨יִם׀ וַ_יֵּרַ֡ד_ מִ֤י אָֽסַף־ר֨וּחַ׀ בְּחָפְנָ֡יו מִ֤י צָֽרַר־מַ֨יִם׀ בַּשִּׂמְלָ֗ה מִ֭י הֵקִ֣ים כָּל־אַפְסֵי־אָ֑רֶץ מַה־שְּׁמֹ֥ו וּמַֽה־שֶּׁם־בְּ֝נֹ֗ו כִּ֣י תֵדָֽע׃ (Prov. 30:4)
+NIV	Who has gone up to heaven and _come down_? Who has gathered up the wind in the hollow of his hands? Who has wrapped up the waters in his cloak? Who has established all the ends of the earth? What is his name, and the name of his son? Tell me if you know!
+ESV	Who has ascended to heaven and _come down_? Who has gathered the wind in his fists? Who has wrapped up the waters in a garment? Who has established all the ends of the earth? What is his name, and what is his son’s name? Surely you know!
+
+(x)	עָשָׂ֨ה יְהוָ֜ה אֲשֶׁ֣ר זָמָ֗ם בִּצַּ֤ע אֶמְרָתֹו֙ אֲשֶׁ֣ר צִוָּ֣ה מִֽימֵי־קֶ֔דֶם הָרַ֖ס וְלֹ֣א חָמָ֑ל וַ_יְשַׂמַּ֤ח_ עָלַ֨יִךְ֙ אֹויֵ֔ב הֵרִ֖ים קֶ֥רֶן צָרָֽיִךְ׃ ס (Lam. 2:17)
+NIV	The LORD has done what he planned. he has fulfilled his word, which he decreed long ago. He has overthrown you without pity, he has let the enemy gloat over you, he has exalted the horn of your foes.
+ESV	The Lord has done what he purposed. he has carried out his word, which he commanded long ago. he has thrown down without pity. he has made the enemy rejoice over you and exalted the might of your foes.
+
+(x)	וַ_יַּגְרֵ֤ס_ בֶּֽחָצָץ֙ שִׁנָּ֔י הִכְפִּישַׁ֖נִי בָּאֵֽפֶר׃ (Lam. 3:16)
+NIV	_He has broken_ my teeth with gravel. he has trampled me in the dust.
+ESV	He has made my teeth grind on gravel, and made me cower in ashes.
+
+(x)	וּמָצָ֣אתָ אֶת־לְבָבֹו֮ נֶאֱמָ֣ן לְפָנֶיךָ֒ וְכָרֹ֨ות עִמֹּ֜ו הַבְּרִ֗ית לָתֵ֡ת אֶת־אֶרֶץ֩ הַכְּנַעֲנִ֨י הַחִתִּ֜י הָאֱמֹרִ֧י וְהַפְּרִזִּ֛י וְהַיְבוּסִ֥י וְהַגִּרְגָּשִׁ֖י לָתֵ֣ת לְזַרְעֹ֑ו וַ_תָּ֨קֶם֙_ אֶת־דְּבָרֶ֔יךָ כִּ֥י צַדִּ֖יק אָֽתָּה׃ (Neh. 9:8)
+NIV	You found his heart faithful to you, and you made a covenant with him to give to his descendants the land of the Canaanites, Hittites, Amorites, Perizzites, Jebusites and Girgashites. _You have kept_ your promise because you are righteous.
+ESV	You found his heart faithful before you, and made with him the covenant to give to his offspring the land of the Canaanite, the Hittite, the Amorite, the Perizzite, the Jebusite, and the Girgashite. And _you have kept_ your promise, for you are righteous.

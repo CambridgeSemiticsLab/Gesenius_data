@@ -1,0 +1,26 @@
+esv_TAM == "MOD must" or niv_TAM == "MOD must"
+6 of 6
+
+(x)	וְאִם־גָּאֹ֥ל יִגְאַ֛ל אִ֖ישׁ מִמַּֽעַשְׂרֹ֑ו חֲמִשִׁיתֹ֖ו _יֹסֵ֥ף_ עָלָֽיו׃ (Lev. 27:31)
+NIV	If a man redeems any of his tithe, _he must add_ a fifth of the value to it.
+ESV	If a man wishes to redeem some of his tithe, _he shall add_ a fifth to it.
+
+(x)	אֶת־הַנָּכְרִ֖י תִּגֹּ֑שׂ וַאֲשֶׁ֨ר יִהְיֶ֥ה לְךָ֛ אֶת־אָחִ֖יךָ _תַּשְׁמֵ֥ט_ יָדֶֽךָ׃ (Deut. 15:3)
+NIV	You may require payment from a foreigner, but you _must cancel any debt_ your brother owes you.
+ESV	Of a foreigner you may exact it, but whatever of yours is with your brother your hand _shall release_.
+
+(x)	וַיֹּ֨אמְר֜וּ אַנְשֵׁ֤י הָעִיר֙ אֶל־יֹואָ֔שׁ הֹוצֵ֥א אֶת־בִּנְךָ֖ וְ_יָמֹ֑ת_ כִּ֤י נָתַץ֙ אֶת־מִזְבַּ֣ח הַבַּ֔עַל וְכִ֥י כָרַ֖ת הָאֲשֵׁרָ֥ה אֲשֶׁר־עָלָֽיו׃ (Judg. 6:30)
+NIV	The men of the town demanded of Joash, “Bring out your son. _He must die_, because he has broken down Baal’s altar and cut down the Asherah pole beside it.”
+ESV	Then the men of the town said to Joash, “Bring out your son, that _he may die_, for he has broken down the altar of Baal and cut down the Asherah beside it.”
+
+(x)	מִכֹּ֣ל אֲשֶׁר־יֵצֵא֩ מִגֶּ֨פֶן הַיַּ֜יִן לֹ֣א תֹאכַ֗ל וְיַ֤יִן וְשֵׁכָר֙ אַל־_תֵּ֔שְׁתְּ_ וְכָל־טֻמְאָ֖ה אַל־תֹּאכַ֑ל כֹּ֥ל אֲשֶׁר־צִוִּיתִ֖יהָ תִּשְׁמֹֽר׃ (Judg. 13:14)
+NIV	She must not eat anything that comes from the grapevine, nor _drink_ any wine or other fermented _drink_ nor eat anything unclean. She must do everything I have commanded her.”
+ESV	She may not eat of anything that comes from the vine, neither _let her drink_ wine or strong drink, or eat any unclean thing. All that I commanded her let her observe.”
+
+(x)	וְיָרַדְתָּ֣ לְפָנַי֮ הַגִּלְגָּל֒ וְהִנֵּ֤ה אָֽנֹכִי֙ יֹרֵ֣ד אֵלֶ֔יךָ לְהַעֲלֹ֣ות עֹלֹ֔ות לִזְבֹּ֖חַ זִבְחֵ֣י שְׁלָמִ֑ים שִׁבְעַ֨ת יָמִ֤ים _תֹּוחֵל֙_ עַד־בֹּואִ֣י אֵלֶ֔יךָ וְהֹודַעְתִּ֣י לְךָ֔ אֵ֖ת אֲשֶׁ֥ר תַּעֲשֶֽׂה׃ (I Sam. 10:8)
+NIV	“Go down ahead of me to Gilgal. I will surely come down to you to sacrifice burnt offerings and fellowship offerings, but _you must wait_ seven days until I come to you and tell you what you are to do.”
+ESV	Then go down before me to Gilgal. And behold, I am coming to you to offer burnt offerings and to sacrifice peace offerings. Seven days _you shall wait_, until I come to you and show you what you shall do.”
+
+(x)	אִם־לֹ֣א הֲ֭תֻלִים עִמָּדִ֑י וּ֝בְהַמְּרֹותָ֗ם _תָּלַ֥ן_ עֵינִֽי׃ (Job 17:2)
+NIV	Surely mockers surround me. my eyes _must dwell_ on their hostility.
+ESV	Surely there are mockers about me, and my eye _dwells_ on their provocation.

@@ -1,34 +1,27 @@
 ,sum
-PAST,12508
-PRES PERF,310
-PRES,262
-?PAST,202
-PAST PERF,123
+PAST,12713
+PRES PERF,317
+PRES,302
+PAST PERF,124
 PRES PART,91
-?PRES,31
-TO INF,17
-MOD would,15
-?VB,14
+MOD would,19
+TO INF,18
+MOD let,13
 PAST PROG,13
-MOD let,11
-?PRES PERF,7
-??PAST,4
-??VB,4
-?PAST wh-question,3
-?PAST question,3
-?PAST did not,3
+PAST question,6
+PAST wh-question,5
+PAST did not,4
 MOD may,3
-?MOD would,3
 MOD shall,3
-MOD should,3
-?IMPV,2
 PRES PERF PROG,2
 FUT,2
+VB,2
+MOD should,2
+PRES PROG,2
 MOD could,2
-?MOD let,1
+MOD quest should,1
 MOD might,1
-?TO INF,1
-PRES PROG,1
+PRES wh-question,1
+PRES question,1
 IMPV,1
-??PRES,1
-?PAST PERF,1
+PRES do not,1

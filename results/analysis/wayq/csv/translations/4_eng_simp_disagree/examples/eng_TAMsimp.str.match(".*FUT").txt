@@ -1,0 +1,146 @@
+eng_TAMsimp.str.match(".*FUT")
+36 of 36
+
+(x)	וַיַּ֤רְא מְנֻחָה֙ כִּ֣י טֹ֔וב וְאֶת־הָאָ֖רֶץ כִּ֣י נָעֵ֑מָה וַ_יֵּ֤ט_ שִׁכְמֹו֙ לִסְבֹּ֔ל וַיְהִ֖י לְמַס־עֹבֵֽד׃ ס (Gen. 49:15)
+NIV	When he sees how good is his resting place and how pleasant is his land, _he will bend_ his shoulder to the burden and submit to forced labor.
+ESV	He saw that a resting place was good, and that the land was pleasant, so _he bowed_ his shoulder to bear, and became a servant at forced labor.
+
+(x)	וְאִם־מִזְבַּ֤ח אֲבָנִים֙ תַּֽעֲשֶׂה־לִּ֔י לֹֽא־תִבְנֶ֥ה אֶתְהֶ֖ן גָּזִ֑ית כִּ֧י חַרְבְּךָ֛ הֵנַ֥פְתָּ עָלֶ֖יהָ וַ_תְּחַֽלְלֶֽהָ_׃ (Exod. 20:25)
+NIV	If you make an altar of stones for me, do not build it with dressed stones, for _you will defile_ it if you use a tool on it.
+ESV	If you make me an altar of stone, you shall not build it of hewn stones, for if you wield your tool on it _you profane_ it.
+
+(x)	כִּי־אֵשׁ֙ קָדְחָ֣ה בְאַפִּ֔י וַתִּיקַ֖ד עַד־שְׁאֹ֣ול תַּחְתִּ֑ית וַ_תֹּ֤אכַל_ אֶ֨רֶץ֙ וִֽיבֻלָ֔הּ וַתְּלַהֵ֖ט מֹוסְדֵ֥י הָרִֽים׃ (Deut. 32:22)
+NIV	For a fire has been kindled by my wrath, one that burns to the realm of death below. _It will devour_ the earth and its harvests and set on fire the foundations of the mountains.
+ESV	For a fire is kindled by my anger, and it burns to the depths of Sheol, _devours_ the earth and its increase, and sets on fire the foundations of the mountains.
+
+(x)	מְעֹנָה֙ אֱלֹ֣הֵי קֶ֔דֶם וּמִתַּ֖חַת זְרֹעֹ֣ת עֹולָ֑ם וַ_יְגָ֧רֶשׁ_ מִפָּנֶ֛יךָ אֹויֵ֖ב וַיֹּ֥אמֶר הַשְׁמֵֽד׃ (Deut. 33:27)
+NIV	The eternal God is your refuge, and underneath are the everlasting arms. _He will drive out_ your enemy before you, saying, ‘Destroy him!’
+ESV	The eternal God is your dwelling place, and underneath are the everlasting arms. And _he thrust out_ the enemy before you and said, Destroy.
+
+(x)	וַ_יִּשְׁכֹּן֩_ יִשְׂרָאֵ֨ל בֶּ֤טַח בָּדָד֙ עֵ֣ין יַעֲקֹ֔ב אֶל־אֶ֖רֶץ דָּגָ֣ן וְתִירֹ֑ושׁ אַף־שָׁמָ֖יו יַֽעַרְפוּ טָֽל׃ (Deut. 33:28)
+NIV	So Israel _will live in_ safety alone. Jacob’s spring is secure in a land of grain and new wine, where the heavens drop dew.
+ESV	So Israel _lived_ in safety, Jacob _lived_ alone, in a land of grain and wine, whose heavens drop down dew.
+
+(x)	וַ_יִּשַּׁ֥ח_ אָדָ֖ם וַיִּשְׁפַּל־אִ֑ישׁ וְאַל־תִּשָּׂ֖א לָהֶֽם׃ (Isa. 2:9)
+NIV	So man _will be brought low_ and mankind humbled — do not forgive them.
+ESV	So man _is humbled_, and each one is brought low — do not forgive them!
+
+(x)	וַ_יִּשַּׁ֥ח_ אָדָ֖ם וַיִּשְׁפַּל־אִ֑ישׁ וְעֵינֵ֥י גְבֹהִ֖ים תִּשְׁפַּֽלְנָה׃ (Isa. 5:15)
+NIV	So man _will be brought low_ and mankind humbled, the eyes of the arrogant humbled.
+ESV	Man _is humbled_, and each one is brought low, and the eyes of the haughty are brought low.
+
+(x)	וַ_יִּגְבַּ֛ה_ יְהוָ֥ה צְבָאֹ֖ות בַּמִּשְׁפָּ֑ט וְהָאֵל֙ הַקָּדֹ֔ושׁ נִקְדָּ֖שׁ בִּצְדָקָֽה׃ (Isa. 5:16)
+NIV	But the LORD Almighty _will be exalted_ by his justice, and the holy God will show himself holy by his righteousness.
+ESV	But the Lord of hosts _is exalted_ in justice, and the Holy God shows himself holy in righteousness.
+
+(x)	כִּי־יֶ֣לֶד יֻלַּד־לָ֗נוּ בֵּ֚ן נִתַּן־לָ֔נוּ וַ_תְּהִ֥י_ הַמִּשְׂרָ֖ה עַל־שִׁכְמֹ֑ו וַיִּקְרָ֨א שְׁמֹ֜ו פֶּ֠לֶא יֹועֵץ֙ אֵ֣ל גִּבֹּ֔ור אֲבִיעַ֖ד שַׂר־שָׁלֹֽום׃ (Isa. 9:5)
+NIV	For to us a child is born, to us a son is given, and the government _will be_ on his shoulders. And he _will be_ called Wonderful Counsellor, Mighty God, Everlasting Father, Prince of Peace.
+ESV	For to us a child is born, to us a son is given. and the government _shall be_ upon his shoulder, and his name _shall be_ called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.
+
+(x)	כִּי־יֶ֣לֶד יֻלַּד־לָ֗נוּ בֵּ֚ן נִתַּן־לָ֔נוּ וַתְּהִ֥י הַמִּשְׂרָ֖ה עַל־שִׁכְמֹ֑ו וַ_יִּקְרָ֨א_ שְׁמֹ֜ו פֶּ֠לֶא יֹועֵץ֙ אֵ֣ל גִּבֹּ֔ור אֲבִיעַ֖ד שַׂר־שָׁלֹֽום׃ (Isa. 9:5)
+NIV	For to us a child is born, to us a son is given, and the government will be on his shoulders. And he _will be called_ Wonderful Counsellor, Mighty God, Everlasting Father, Prince of Peace.
+ESV	For to us a child is born, to us a son is given. and the government shall be upon his shoulder, and his name _shall be called_ Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.
+
+(x)	בְּעֶבְרַ֛ת יְהוָ֥ה צְבָאֹ֖ות נֶעְתַּ֣ם אָ֑רֶץ וַ_יְהִ֤י_ הָעָם֙ כְּמַאֲכֹ֣לֶת אֵ֔שׁ אִ֥ישׁ אֶל־אָחִ֖יו לֹ֥א יַחְמֹֽלוּ׃ (Isa. 9:18)
+NIV	By the wrath of the LORD Almighty the land _will be_ scorched and the people _will be_ fuel for the fire. no-one will spare his brother.
+ESV	Through the wrath of the Lord of hosts the land is scorched, and the people _are_ like fuel for the fire. no one sp_are_s another.
+
+(x)	וַ_יִּגְזֹ֤ר_ עַל־יָמִין֙ וְרָעֵ֔ב וַיֹּ֥אכַל עַל־שְׂמֹ֖אול וְלֹ֣א שָׂבֵ֑עוּ אִ֥ישׁ בְּשַׂר־זְרֹעֹ֖ו יֹאכֵֽלוּ׃ (Isa. 9:19)
+NIV	On the right _they will devour_, but still be hungry. on the left they will eat, but not be satisfied. Each will feed on the flesh of his own offspring:
+ESV	_They slice_ meat on the right, but are still hungry, and they devour on the left, but are not satisfied. each devours the flesh of his own arm,
+
+(x)	וַיִּגְזֹ֤ר עַל־יָמִין֙ וְרָעֵ֔ב וַ_יֹּ֥אכַל_ עַל־שְׂמֹ֖אול וְלֹ֣א שָׂבֵ֑עוּ אִ֥ישׁ בְּשַׂר־זְרֹעֹ֖ו יֹאכֵֽלוּ׃ (Isa. 9:19)
+NIV	On the right they will devour, but still be hungry. on the left _they will eat_, but not be satisfied. Each will feed on the flesh of his own offspring:
+ESV	They slice meat on the right, but are still hungry, and _they devour_ on the left, but are not satisfied. each devours the flesh of his own arm,
+
+(x)	כִּֽי־נִחַ֨ם יְהוָ֜ה צִיֹּ֗ון נִחַם֙ כָּל־חָרְבֹתֶ֔יהָ וַ_יָּ֤שֶׂם_ מִדְבָּרָהּ֙ כְּעֵ֔דֶן וְעַרְבָתָ֖הּ כְּגַן־יְהוָ֑ה שָׂשֹׂ֤ון וְשִׂמְחָה֙ יִמָּ֣צֵא בָ֔הּ תֹּודָ֖ה וְקֹ֥ול זִמְרָֽה׃ ס (Isa. 51:3)
+NIV	The LORD will surely comfort Zion and will look with compassion on all her ruins. _he will make_ her deserts like Eden, her wastelands like the garden of the LORD. Joy and gladness will be found in her, thanksgiving and the sound of singing.
+ESV	For the Lord comforts Zion. he comforts all her waste places and _makes_ her wilderness like Eden, her desert like the garden of the Lord. joy and gladness will be found in her, thanksgiving and the voice of song.
+
+(x)	אַ֣תְּ נָטַ֥שְׁתְּ אֹתִ֛י נְאֻם־יְהוָ֖ה אָחֹ֣ור תֵּלֵ֑כִי וָ_אַ֨ט_ אֶת־יָדִ֤י עָלַ֨יִךְ֙ וָֽאַשְׁחִיתֵ֔ךְ נִלְאֵ֖יתִי הִנָּחֵֽם׃ (Jer. 15:6)
+NIV	You have rejected me,” declares the LORD. “You keep on backsliding. So I _will lay_ hands on you and destroy you. I can no longer show compassion.
+ESV	You have rejected me, declares the Lord. you keep going backward, so _I have stretched out_ my hand against you and destroyed you — I am weary of relenting.
+
+(x)	אַ֣תְּ נָטַ֥שְׁתְּ אֹתִ֛י נְאֻם־יְהוָ֖ה אָחֹ֣ור תֵּלֵ֑כִי וָאַ֨ט אֶת־יָדִ֤י עָלַ֨יִךְ֙ וָֽ_אַשְׁחִיתֵ֔ךְ_ נִלְאֵ֖יתִי הִנָּחֵֽם׃ (Jer. 15:6)
+NIV	You have rejected me,” declares the LORD. “You keep on backsliding. So I will lay hands on you and _destroy_ you. I can no longer show compassion.
+ESV	You have rejected me, declares the Lord. you keep going backward, so I have stretched out my hand against you and _destroyed_ you — I am weary of relenting.
+
+(x)	וָ_אֶזְרֵ֥ם_ בְּמִזְרֶ֖ה בְּשַׁעֲרֵ֣י הָאָ֑רֶץ שִׁכַּ֤לְתִּי אִבַּ֨דְתִּי֙ אֶת־עַמִּ֔י מִדַּרְכֵיהֶ֖ם לֹוא־שָֽׁבוּ׃ (Jer. 15:7)
+NIV	_I will winnow_ them with a winnowing fork at the city gates of the land. I will bring bereavement and destruction on my people, for they have not changed their ways.
+ESV	_I have winnowed_ them with a winnowing fork in the gates of the land. I have bereaved them. I have destroyed my people. they did not turn from their ways.
+
+(x)	הִרְבָּ֖ה כֹּושֵׁ֑ל גַּם־נָפַ֞ל אִ֣ישׁ אֶל־רֵעֵ֗הוּ וַ_יֹּֽאמְרוּ֙_ ק֣וּמָה׀ וְנָשֻׁ֣בָה אֶל־עַמֵּ֗נוּ וְאֶל־אֶ֨רֶץ֙ מֹֽולַדְתֵּ֔נוּ מִפְּנֵ֖י חֶ֥רֶב הַיֹּונָֽה׃ (Jer. 46:16)
+NIV	They will stumble repeatedly. they will fall over each other. _They will say_, ‘Get up, let us go back to our own people and our native lands, away from the sword of the oppressor.’
+ESV	He made many stumble, and they fell, and _they said_ one to another, ‘Arise, and let us go back to our own people and to the land of our birth, because of the sword of the oppressor.’
+
+(x)	וָ_אֶשְׁפֹּ֤ךְ_ עֲלֵיהֶם֙ זַעְמִ֔י בְּאֵ֥שׁ עֶבְרָתִ֖י כִּלִּיתִ֑ים דַּרְכָּם֙ בְּרֹאשָׁ֣ם נָתַ֔תִּי נְאֻ֖ם אֲדֹנָ֥י יְהֹוִֽה׃ פ (Ezek. 22:31)
+NIV	So _I will pour out_ my wrath on them and consume them with my fiery anger, bringing down on their own heads all they have done, declares the Sovereign LORD.”
+ESV	Therefore _I have poured out_ my indignation upon them. I have consumed them with the fire of my wrath. I have returned their way upon their heads, declares the Lord God.”
+
+(x)	וָ_אֱהִ֥י_ לָהֶ֖ם כְּמֹו־שָׁ֑חַל כְּנָמֵ֖ר עַל־דֶּ֥רֶךְ אָשֽׁוּר׃ (Hos. 13:7)
+NIV	So _I will come_ upon them like a lion, like a leopard I will lurk by the path.
+ESV	So _I am_ to them like a lion. like a leopard I will lurk beside the way.
+
+(x)	וַ_יְקַנֵּ֥א_ יְהוָ֖ה לְאַרְצֹ֑ו וַיַּחְמֹ֖ל עַל־עַמֹּֽו׃ (Joel 2:18)
+NIV	Then the LORD _will be jealous_ for his land and take pity on his people.
+ESV	Then the Lord _became jealous_ for his land and had pity on his people.
+
+(x)	וַיְקַנֵּ֥א יְהוָ֖ה לְאַרְצֹ֑ו וַ_יַּחְמֹ֖ל_ עַל־עַמֹּֽו׃ (Joel 2:18)
+NIV	Then the LORD will be jealous for his land and _take pity_ on his people.
+ESV	Then the Lord became jealous for his land and _had pity_ on his people.
+
+(x)	וַ_יַּ֨עַן_ יְהוָ֜ה וַיֹּ֣אמֶר לְעַמֹּ֗ו הִנְנִ֨י שֹׁלֵ֤חַ לָכֶם֙ אֶת־הַדָּגָן֙ וְהַתִּירֹ֣ושׁ וְהַיִּצְהָ֔ר וּשְׂבַעְתֶּ֖ם אֹתֹ֑ו וְלֹא־אֶתֵּ֨ן אֶתְכֶ֥ם עֹ֛וד חֶרְפָּ֖ה בַּגֹּויִֽם׃ (Joel 2:19)
+NIV	The LORD _will reply_ to them: “I am sending you grain, new wine and oil, enough to satisfy you fully. never again will I make you an object of scorn to the nations.
+ESV	The Lord _answered_ and said to his people, “Behold, I am sending to you grain, wine, and oil, and you will be satisfied. and I will no more make you a reproach among the nations.
+
+(x)	עָלָ֤ה הַפֹּרֵץ֙ לִפְנֵיהֶ֔ם פָּֽרְצוּ֙ וַֽיַּעֲבֹ֔רוּ שַׁ֖עַר וַ_יֵּ֣צְאוּ_ בֹ֑ו וַיַּעֲבֹ֤ר מַלְכָּם֙ לִפְנֵיהֶ֔ם וַיהוָ֖ה בְּרֹאשָֽׁם׃ פ (Mic. 2:13)
+NIV	One who breaks open the way will go up before them. they will break through the gate and _go out_. Their king will pass through before them, the LORD at their head.”
+ESV	He who opens the breach goes up before them. they break through and pass the gate, _going out_ by it. Their king passes on before them, the Lord at their head.
+
+(x)	עָלָ֤ה הַפֹּרֵץ֙ לִפְנֵיהֶ֔ם פָּֽרְצוּ֙ וַֽיַּעֲבֹ֔רוּ שַׁ֖עַר וַיֵּ֣צְאוּ בֹ֑ו וַ_יַּעֲבֹ֤ר_ מַלְכָּם֙ לִפְנֵיהֶ֔ם וַיהוָ֖ה בְּרֹאשָֽׁם׃ פ (Mic. 2:13)
+NIV	One who breaks open the way will go up before them. they will break through the gate and go out. Their king _will pass through_ before them, the LORD at their head.”
+ESV	He who opens the breach goes up before them. they break through and pass the gate, going out by it. Their king _passes on_ before them, the Lord at their head.
+
+(x)	אָכְל֬וּ וַ_יִּֽשְׁתַּחֲוּ֨וּ_׀ כָּֽל־דִּשְׁנֵי־אֶ֗רֶץ לְפָנָ֣יו יִ֭כְרְעוּ כָּל־יֹורְדֵ֣י עָפָ֑ר וְ֝נַפְשֹׁ֗ו לֹ֣א חִיָּֽה׃ (Psa. 22:30)
+NIV	All the rich of the earth will feast and _worship_. all who go down to the dust will kneel before him — those who cannot keep themselves alive.
+ESV	All the prosperous of the earth eat and _worship_. before him shall bow all who go down to the dust, even the one who could not keep himself alive.
+
+(x)	כַּצֹּ֤אן׀ לִֽשְׁאֹ֣ול שַׁתּוּ֮ מָ֤וֶת יִ֫רְעֵ֥ם וַ_יִּרְדּ֘וּ_ בָ֤ם יְשָׁרִ֨ים׀ לַבֹּ֗קֶר וְ֭צוּרָם לְבַלֹּ֥ות שְׁאֹ֗ול מִזְּבֻ֥ל לֹֽו׃ (Psa. 49:15)
+NIV	Like sheep they are destined for the grave, and death will feed on them. The upright _will rule_ over them in the morning. their forms will decay in the grave, far from their princely mansions.
+ESV	Like sheep they are appointed for Sheol. death shall be their shepherd, and the upright _shall rule_ over them in the morning. Their form shall be consumed in Sheol, with no place to dwell.
+
+(x)	וַ_יֹּרֵ֗ם_ אֱלֹ֫הִ֥ים חֵ֥ץ פִּתְאֹ֑ום הָ֝י֗וּ מַכֹּותָֽם׃ (Psa. 64:8)
+NIV	But God _will shoot_ them with arrows. suddenly they will be struck down.
+ESV	But God _shoots_ his arrow at them. they are wounded suddenly.
+
+(x)	וַ_יַּכְשִׁיל֣וּהוּ_ עָלֵ֣ימֹו לְשֹׁונָ֑ם יִ֝תְנֹדֲד֗וּ כָּל־רֹ֥אֵה בָֽם׃ (Psa. 64:9)
+NIV	He will turn their own tongues against them and bring them to ruin. all who see them will shake their heads in scorn.
+ESV	_They are brought to ruin_, with their own tongues turned against them. all who see them will wag their heads.
+
+(x)	וַיִּֽירְא֗וּ כָּל־אָ֫דָ֥ם וַ֭_יַּגִּידוּ_ פֹּ֥עַל אֱלֹהִ֗ים וּֽמַעֲשֵׂ֥הוּ הִשְׂכִּֽילוּ׃ (Psa. 64:10)
+NIV	All mankind will fear. _they will proclaim_ the works of God and ponder what he has done.
+ESV	Then all mankind fears. _they tell_ what God has brought about and ponder what he has done.
+
+(x)	יְקַֽלְלוּ־הֵמָּה֮ וְאַתָּ֪ה תְבָ֫רֵ֥ךְ קָ֤מוּ׀ וַ_יֵּבֹ֗שׁוּ_ וְֽעַבְדְּךָ֥ יִשְׂמָֽח׃ (Psa. 109:28)
+NIV	They may curse, but you will bless. when they attack _they will be put to shame_, but your servant will rejoice.
+ESV	Let them curse, but you will bless! They arise and _are put to shame_, but your servant will be glad!
+
+(x)	זָ֘כַ֤רְתִּי בַלַּ֣יְלָה שִׁמְךָ֣ יְהוָ֑ה וָֽ֝_אֶשְׁמְרָ֗ה_ תֹּורָתֶֽךָ׃ (Psa. 119:55)
+NIV	In the night I remember your name, O LORD, and _I will keep_ your law.
+ESV	I remember your name in the night, O Lord, and _keep_ your law.
+
+(x)	יָדֶ֣יךָ עִ֭צְּבוּנִי וַֽיַּעֲשׂ֑וּנִי יַ֥חַד סָ֝בִ֗יב וַֽ_תְּבַלְּעֵֽנִי_׃ (Job 10:8)
+NIV	“Your hands shaped me and made me. Will you now turn and destroy me?
+ESV	Your hands fashioned and made me, and now _you have destroyed_ me altogether.
+
+(x)	חָתֻ֣ם בִּצְרֹ֣ור פִּשְׁעִ֑י וַ֝_תִּטְפֹּ֗ל_ עַל־עֲוֹנִֽי׃ (Job 14:17)
+NIV	My offences will be sealed up in a bag. _you will cover_ over my sin.
+ESV	my transgression would be sealed up in a bag, and _you would cover_ over my iniquity.
+
+(x)	וַ_יִּשְׁכֹּ֤ון_׀ עָ֘רִ֤ים נִכְחָדֹ֗ות בָּ֭תִּים לֹא־יֵ֣שְׁבוּ לָ֑מֹו אֲשֶׁ֖ר הִתְעַתְּד֣וּ לְגַלִּֽים׃ (Job 15:28)
+NIV	_he will inhabit_ ruined towns and houses where no-one lives, houses crumbling to rubble.
+ESV	and _has lived_ in desolate cities, in houses that none should inhabit, which were ready to become heaps of ruins.
+
+(x)	חַ֣יִל בָּ֭לַע וַ_יְקִאֶ֑נּוּ_ מִ֝בִּטְנֹ֗ו יֹורִשֶׁ֥נּוּ אֵֽל׃ (Job 20:15)
+NIV	He _will spit out_ the riches he swallowed. God will make his stomach vomit them up.
+ESV	He swallows down riches and vomits them up again. God casts them out of his belly.

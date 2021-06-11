@@ -1,0 +1,62 @@
+eng_TAMsimp == "PRES"and genre == "poetry" and domain2 == "N" 
+15 of 15
+
+(x)	גְּבֻלֹ֥ות יַשִּׂ֑יגוּ עֵ֥דֶר גָּ֝זְל֗וּ וַ_יִּרְעֽוּ_׃ (Job 24:2)
+NIV	Men move boundary stones. _they pasture_ flocks they have stolen.
+ESV	Some move landmarks. they seize flocks and _pasture_ them.
+
+(x)	בֵּין־שׁוּרֹתָ֥ם יַצְהִ֑ירוּ יְקָבִ֥ים דָּ֝רְכ֗וּ וַ_יִּצְמָֽאוּ_׃ (Job 24:11)
+NIV	They crush olives among the terraces. they tread the winepresses, yet _suffer thirst_.
+ESV	among the olive rows of the wicked they make oil. they tread the winepresses, but _suffer thirst_.
+
+(x)	יִשְׁכָּ֘חֵ֤הוּ רֶ֨חֶם׀ מְתָ֘קֹ֤ו רִמָּ֗ה עֹ֥וד לֹֽא־יִזָּכֵ֑ר וַ_תִּשָּׁבֵ֖ר_ כָּעֵ֣ץ עַוְלָֽה׃ (Job 24:20)
+NIV	The womb forgets them, the worm feasts on them. evil men are no longer remembered but _are broken_ like a tree.
+ESV	The womb forgets them. the worm finds them sweet. they are no longer remembered, so wickedness _is broken_ like a tree.’
+
+(x)	בָּֽא־זָ֭דֹון וַ_יָּבֹ֣א_ קָלֹ֑ון וְֽאֶת־צְנוּעִ֥ים חָכְמָֽה׃ (Prov. 11:2)
+NIV	When pride _comes_, then _comes_ disgrace, but with humility _comes_ wisdom.
+ESV	When pride _comes_, then _comes_ disgrace, but with the humble is wisdom.
+
+(x)	צַ֭דִּיק מִצָּרָ֣ה נֶחֱלָ֑ץ וַ_יָּבֹ֖א_ רָשָׁ֣ע תַּחְתָּֽיו׃ (Prov. 11:8)
+NIV	The righteous man is rescued from trouble, and _it comes on_ the wicked instead.
+ESV	The righteous is delivered from trouble, and the wicked _walks into_ it instead.
+
+(x)	עִ֣יר גִּ֭בֹּרִים עָלָ֣ה חָכָ֑ם וַ֝_יֹּ֗רֶד_ עֹ֣ז מִבְטֶחָֽה׃ (Prov. 21:22)
+NIV	A wise man attacks the city of the mighty and _pulls down_ the stronghold in which they trust.
+ESV	A wise man scales the city of the mighty and _brings down_ the stronghold in which they trust.
+
+(x)	דָּ֭רְשָׁה צֶ֣מֶר וּפִשְׁתִּ֑ים וַ֝_תַּ֗עַשׂ_ בְּחֵ֣פֶץ כַּפֶּֽיהָ׃ (Prov. 31:13)
+NIV	She selects wool and flax and _works_ with eager hands.
+ESV	She seeks wool and flax, and _works_ with willing hands.
+
+(x)	וַ_תָּ֤קָם_׀ בְּעֹ֬וד לַ֗יְלָה וַתִּתֵּ֣ן טֶ֣רֶף לְבֵיתָ֑הּ וְ֝חֹ֗ק לְנַעֲרֹתֶֽיהָ׃ (Prov. 31:15)
+NIV	_She gets up_ while it is still dark. she provides food for her family and portions for her servant girls.
+ESV	_She rises_ while it is yet night and provides food for her household and portions for her maidens.
+
+(x)	וַתָּ֤קָם׀ בְּעֹ֬וד לַ֗יְלָה וַ_תִּתֵּ֣ן_ טֶ֣רֶף לְבֵיתָ֑הּ וְ֝חֹ֗ק לְנַעֲרֹתֶֽיהָ׃ (Prov. 31:15)
+NIV	She gets up while it is still dark. _she provides_ food for her family and portions for her servant girls.
+ESV	She rises while it is yet night and _provides_ food for her household and portions for her maidens.
+
+(x)	זָמְמָ֣ה שָׂ֭דֶה וַ_תִּקָּחֵ֑הוּ_ מִפְּרִ֥י כַ֝פֶּ֗יהָ נָ֣טְעָה כָּֽרֶם׃ (Prov. 31:16)
+NIV	She considers a field and _buys_ it. out of her earnings she plants a vineyard.
+ESV	She considers a field and _buys_ it. with the fruit of her hands she plants a vineyard.
+
+(x)	חָֽגְרָ֣ה בְעֹ֣וז מָתְנֶ֑יהָ וַ֝_תְּאַמֵּ֗ץ_ זְרֹעֹותֶֽיהָ׃ (Prov. 31:17)
+NIV	She sets about her work vigorously. her arms _are strong_ for her tasks.
+ESV	She dresses herself with strength and makes her arms strong.
+
+(x)	סָדִ֣ין עָ֭שְׂתָה וַ_תִּמְכֹּ֑ר_ וַ֝חֲגֹ֗ור נָתְנָ֥ה לַֽכְּנַעֲנִֽי׃ (Prov. 31:24)
+NIV	She makes linen garments and _sells_ them, and supplies the merchants with sashes.
+ESV	She makes linen garments and _sells_ them. she delivers sashes to the merchant.
+
+(x)	קָ֣מוּ בָ֭נֶיהָ וַֽ_יְאַשְּׁר֑וּהָ_ בַּ֝עְלָ֗הּ וַֽיְהַֽלְלָֽהּ׃ (Prov. 31:28)
+NIV	Her children arise and call her blessed. her husband also, and he praises her:
+ESV	Her children rise up and call her blessed. her husband also, and he praises her:
+
+(x)	קָ֣מוּ בָ֭נֶיהָ וַֽיְאַשְּׁר֑וּהָ בַּ֝עְלָ֗הּ וַֽ_יְהַֽלְלָֽהּ_׃ (Prov. 31:28)
+NIV	Her children arise and call her blessed. her husband also, and _he praises_ her:
+ESV	Her children rise up and call her blessed. her husband also, and _he praises_ her:
+
+(x)	חֵ֤טְא חָֽטְאָה֙ יְר֣וּשָׁלִַ֔ם עַל־כֵּ֖ן לְנִידָ֣ה הָיָ֑תָה כָּֽל־מְכַבְּדֶ֤יהָ הִזִּיל֨וּהָ֙ כִּי־רָא֣וּ עֶרְוָתָ֔הּ גַּם־הִ֥יא נֶאֶנְחָ֖ה וַ_תָּ֥שָׁב_ אָחֹֽור׃ ס (Lam. 1:8)
+NIV	Jerusalem has sinned greatly and so has become unclean. All who honoured her despise her, for they have seen her nakedness. she herself groans and _turns away_.
+ESV	Jerusalem sinned grievously. therefore she became filthy. all who honored her despise her, for they have seen her nakedness. she herself groans and _turns_ her face away.

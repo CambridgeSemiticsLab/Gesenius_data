@@ -1,0 +1,18 @@
+eng_TAMsimp == "PAST ~ PRES PART" and lex == "זעק"
+4 of 4
+
+(x)	וְר֣וּחַ יְהוָ֔ה לָבְשָׁ֖ה אֶת־גִּדְעֹ֑ון וַיִּתְקַע֙ בַּשֹּׁופָ֔ר וַ_יִּזָּעֵ֥ק_ אֲבִיעֶ֖זֶר אַחֲרָֽיו׃ (Judg. 6:34)
+NIV	Then the Spirit of the LORD came upon Gideon, and he blew a trumpet, _summoning_ the Abiezrites to follow him.
+ESV	But the Spirit of the Lord clothed Gideon, and he sounded the trumpet, and the Abiezrites _were called out_ to follow him.
+
+(x)	וּמַלְאָכִים֙ שָׁלַ֣ח בְּכָל־מְנַשֶּׁ֔ה וַ_יִּזָּעֵ֥ק_ גַּם־ה֖וּא אַחֲרָ֑יו וּמַלְאָכִ֣ים שָׁלַ֗ח בְּאָשֵׁ֤ר וּבִזְבֻלוּן֙ וּבְנַפְתָּלִ֔י וַֽיַּעֲל֖וּ לִקְרָאתָֽם׃ (Judg. 6:35)
+NIV	He sent messengers throughout Manasseh, _calling_ them to arms, and also into Asher, Zebulun and Naphtali, so that they too went up to meet them.
+ESV	And he sent messengers throughout all Manasseh, and they too _were called out_ to follow him. And he sent messengers to Asher, Zebulun, and Naphtali, and they went up to meet them.
+
+(x)	וַֽיְהִי֙ כְּהַכֹּותָ֔ם וְנֵֽאשֲׁאַ֖ר אָ֑נִי וָאֶפְּלָ֨ה עַל־פָּנַ֜י וָ_אֶזְעַ֗ק_ וָֽאֹמַר֙ אֲהָהּ֙ אֲדֹנָ֣י יְהוִ֔ה הֲמַשְׁחִ֣ית אַתָּ֗ה אֵ֚ת כָּל־שְׁאֵרִ֣ית יִשְׂרָאֵ֔ל בְּשָׁפְכְּךָ֥ אֶת־חֲמָתְךָ֖ עַל־יְרוּשָׁלִָֽם׃ (Ezek. 9:8)
+NIV	While they were killing and I was left alone, I fell face down, _crying out_, “Ah, Sovereign LORD! Are you going to destroy the entire remnant of Israel in this outpouring of your wrath on Jerusalem?”
+ESV	And while they were striking, and I was left alone, I fell upon my face, and _cried_, “Ah, Lord God! Will you destroy all the remnant of Israel in the outpouring of your wrath on Jerusalem?”
+
+(x)	וּמָרְדֳּכַ֗י יָדַע֙ אֶת־כָּל־אֲשֶׁ֣ר נַעֲשָׂ֔ה וַיִּקְרַ֤ע מָרְדֳּכַי֙ אֶת־בְּגָדָ֔יו וַיִּלְבַּ֥שׁ שַׂ֖ק וָאֵ֑פֶר וַיֵּצֵא֙ בְּתֹ֣וךְ הָעִ֔יר וַ_יִּזְעַ֛ק_ זְעָקָ֥ה גְדֹלָ֖ה וּמָרָֽה׃ (Esth. 4:1)
+NIV	When Mordecai learned of all that had been done, he tore his clothes, put on sackcloth and ashes, and went out into the city, _wailing_ loudly and bitterly.
+ESV	When Mordecai learned all that had been done, Mordecai tore his clothes and put on sackcloth and ashes, and went out into the midst of the city, and _he cried out_ with a loud and bitter cry.

@@ -1,0 +1,42 @@
+niv_TAMsimp == "IMPV"
+10 of 10
+
+(x)	וַיִּֽקַּֽח־לֹ֣ו אֶת־כָּל־אֵ֗לֶּה וַ_יְבַתֵּ֤ר_ אֹתָם֙ בַּתָּ֔וֶךְ וַיִּתֵּ֥ן אִישׁ־בִּתְרֹ֖ו לִקְרַ֣את רֵעֵ֑הוּ וְאֶת־הַצִפֹּ֖ר לֹ֥א בָתָֽר׃ (Gen. 15:10)
+NIV	Abram brought all these to him, _cut_ them in two and arranged the halves opposite each other. the birds, however, he did not _cut_ in half.
+ESV	And he brought him all these, cut them in half, and laid each half over against the other. But he did not cut the birds in half.
+
+(x)	וַיִּקַּ֨ח מֹשֶׁ֜ה אֶת־אִשְׁתֹּ֣ו וְאֶת־בָּנָ֗יו וַ_יַּרְכִּבֵם֙_ עַֽל־הַחֲמֹ֔ר וַיָּ֖שָׁב אַ֣רְצָה מִצְרָ֑יִם וַיִּקַּ֥ח מֹשֶׁ֛ה אֶת־מַטֵּ֥ה הָאֱלֹהִ֖ים בְּיָדֹֽו׃ (Exod. 4:20)
+NIV	So Moses took his wife and sons, _put_ them on a donkey and started back to Egypt. And he took the staff of God in his hand.
+ESV	So Moses took his wife and his sons and had them ride on a donkey, and went back to the land of Egypt. And Moses took the staff of God in his hand.
+
+(x)	וַיִּקְח֞וּ אִ֣ישׁ מַחְתָּתֹ֗ו וַ_יִּתְּנ֤וּ_ עֲלֵיהֶם֙ אֵ֔שׁ וַיָּשִׂ֥ימוּ עֲלֵיהֶ֖ם קְטֹ֑רֶת וַֽיַּעַמְד֗וּ פֶּ֛תַח אֹ֥הֶל מֹועֵ֖ד וּמֹשֶׁ֥ה וְאַהֲרֹֽן׃ (Num. 16:18)
+NIV	So each man took his censer, _put_ fire and incense in it, and stood with Moses and Aaron at the entrance to the Tent of Meeting.
+ESV	So every man took his censer and _put_ fire in them and laid incense on them and stood at the entrance of the tent of meeting with Moses and Aaron.
+
+(x)	וַיֵּצֵ֥א גְבוּל־בְּנֵי־דָ֖ן מֵהֶ֑ם וַיַּעֲל֣וּ בְנֵֽי־דָ֠ן וַיִּלָּחֲמ֨וּ עִם־לֶ֜שֶׁם וַיִּלְכְּד֥וּ אֹותָ֣הּ׀ וַ_יַּכּ֧וּ_ אֹותָ֣הּ לְפִי־חֶ֗רֶב וַיִּֽרְשׁ֤וּ אֹותָהּ֙ וַיֵּ֣שְׁבוּ בָ֔הּ וַיִּקְרְא֤וּ לְלֶ֨שֶׁם֙ דָּ֔ן כְּשֵׁ֖ם דָּ֥ן אֲבִיהֶֽם׃ (Josh. 19:47)
+NIV	( But the Danites had difficulty taking possession of their territory, so they went up and attacked Leshem, took it, _put_ it to the sword and occupied it. They settled in Leshem and named it Dan after their forefather. )
+ESV	When the territory of the people of Dan was lost to them, the people of Dan went up and fought against Leshem, and after capturing it and _striking_ it with the sword they took possession of it and settled in it, calling Leshem, Dan, after the name of Dan their ancestor.
+
+(x)	וָֽאֹחֵ֤ז בְּפִֽילַגְשִׁי֙ וָֽ_אֲנַתְּחֶ֔הָ_ וָֽאֲשַׁלְּחֶ֔הָ בְּכָל־שְׂדֵ֖ה נַחֲלַ֣ת יִשְׂרָאֵ֑ל כִּ֥י עָשׂ֛וּ זִמָּ֥ה וּנְבָלָ֖ה בְּיִשְׂרָאֵֽל׃ (Judg. 20:6)
+NIV	I took my concubine, cut her into pieces and sent one piece to each region of Israel’s inheritance, because they committed this lewd and disgraceful act in Israel.
+ESV	So I took hold of my concubine and cut her in pieces and sent her throughout all the country of the inheritance of Israel, for they have committed abomination and outrage in Israel.
+
+(x)	וַיִּקַּח֩ צֶ֨מֶד בָּקָ֜ר וַֽ_יְנַתְּחֵ֗הוּ_ וַיְשַׁלַּ֞ח בְּכָל־גְּב֣וּל יִשְׂרָאֵל֮ בְּיַ֣ד הַמַּלְאָכִ֣ים׀ לֵאמֹר֒ אֲשֶׁר֩ אֵינֶ֨נּוּ יֹצֵ֜א אַחֲרֵ֤י שָׁאוּל֙ וְאַחַ֣ר שְׁמוּאֵ֔ל כֹּ֥ה יֵעָשֶׂ֖ה לִבְקָרֹ֑ו וַיִּפֹּ֤ל פַּֽחַד־יְהוָה֙ עַל־הָעָ֔ם וַיֵּצְא֖וּ כְּאִ֥ישׁ אֶחָֽד׃ (I Sam. 11:7)
+NIV	He took a pair of oxen, cut them into pieces, and sent the pieces by messengers throughout Israel, proclaiming, “This is what will be done to the oxen of anyone who does not follow Saul and Samuel.” Then the terror of the LORD fell on the people, and they turned out as one man.
+ESV	He took a yoke of oxen and cut them in pieces and sent them throughout all the territory of Israel by the hand of messengers, saying, “Whoever does not come out after Saul and Samuel, so shall it be done to his oxen!” Then the dread of the Lord fell upon the people, and they came out as one man.
+
+(x)	וַיִּקַּ֨ח מַקְלֹ֜ו בְּיָדֹ֗ו וַיִּבְחַר־לֹ֣ו חֲמִשָּׁ֣ה חַלֻּקֵֽי־אֲבָנִ֣ים׀ מִן־הַנַּ֡חַל וַ_יָּ֣שֶׂם_ אֹ֠תָם בִּכְלִ֨י הָרֹעִ֧ים אֲשֶׁר־לֹ֛ו וּבַיַּלְק֖וּט וְקַלְּעֹ֣ו בְיָדֹ֑ו וַיִּגַּ֖שׁ אֶל־הַפְּלִשְׁתִּֽי׃ (I Sam. 17:40)
+NIV	Then he took his staff in his hand, chose five smooth stones from the stream, _put_ them in the pouch of his shepherd’s bag and, with his sling in his hand, approached the Philistine.
+ESV	Then he took his staff in his hand and chose five smooth stones from the brook and _put_ them in his shepherd’s pouch. His sling was in his hand, and he approached the Philistine.
+
+(x)	וַיָּבֹ֕א וַ_יִּסְגֹּ֥ר_ הַדֶּ֖לֶת בְּעַ֣ד שְׁנֵיהֶ֑ם וַיִּתְפַּלֵּ֖ל אֶל־יְהוָֽה׃ (II Kgs. 4:33)
+NIV	He went in, _shut_ the door on the two of them and prayed to the LORD.
+ESV	So he went in and _shut_ the door behind the two of them and prayed to the Lord.
+
+(x)	וַ_יִּקְרָ֛א_ צְפַנְיָ֥ה הַכֹּהֵ֖ן אֶת־הַסֵּ֣פֶר הַזֶּ֑ה בְּאָזְנֵ֖י יִרְמְיָ֥הוּ הַנָּבִֽיא׃ פ (Jer. 29:29)
+NIV	Zephaniah the priest, however, _read_ the letter to Jeremiah the prophet.
+ESV	Zephaniah the priest _read_ this letter in the hearing of Jeremiah the prophet.
+
+(x)	וַ_יִּשְׂא֤וּ_ הַכְּרוּבִים֙ אֶת־כַּנְפֵיהֶ֔ם וְהָאֹֽופַנִּ֖ים לְעֻמָּתָ֑ם וּכְבֹ֧וד אֱלֹהֵֽי־יִשְׂרָאֵ֛ל עֲלֵיהֶ֖ם מִלְמָֽעְלָה׃ (Ezek. 11:22)
+NIV	Then the cherubim, with the wheels beside them, _spread_ their wings, and the glory of the God of Israel was above them.
+ESV	Then the cherubim _lifted up_ their wings, with the wheels beside them, and the glory of the God of Israel was over them.

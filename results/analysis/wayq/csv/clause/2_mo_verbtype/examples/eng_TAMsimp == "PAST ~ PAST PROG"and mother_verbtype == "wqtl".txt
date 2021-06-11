@@ -1,0 +1,6 @@
+eng_TAMsimp == "PAST ~ PAST PROG"and mother_verbtype == "wqtl"
+1 of 1
+
+(x)	וְהֵרֵ֖עוּ בַּמִּלְחָמָֽה׃ וַ_תַּעֲרֹ֤ךְ_ יִשְׂרָאֵל֙ וּפְלִשְׁתִּ֔ים מַעֲרָכָ֖ה (I Sam. 17:21)
+NIV	Israel and the Philistines _were drawing up_ their lines facing each other.
+ESV	And Israel and the Philistines _drew up_ for battle, army against army.

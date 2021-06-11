@@ -1,0 +1,102 @@
+esv_TAM == "MOD can" or niv_TAM == "MOD can"
+25 of 26
+
+(x)	וַיִּקְרְא֤וּ אֶל־לֹוט֙ וַיֹּ֣אמְרוּ לֹ֔ו אַיֵּ֧ה הָאֲנָשִׁ֛ים אֲשֶׁר־בָּ֥אוּ אֵלֶ֖יךָ הַלָּ֑יְלָה הֹוצִיאֵ֣ם אֵלֵ֔ינוּ וְ_נֵדְעָ֖ה_ אֹתָֽם׃ (Gen. 19:5)
+NIV	They called to Lot, “Where are the men who came to you tonight? Bring them out to us so that _we can have sex with_ them.”
+ESV	And they called to Lot, “Where are the men who came to you tonight? Bring them out to us, that _we may know_ them.”
+
+(x)	וַיְדַבֵּ֨ר אֶל־עֶפְרֹ֜ון בְּאָזְנֵ֤י עַם־הָאָ֨רֶץ֙ לֵאמֹ֔ר אַ֛ךְ אִם־אַתָּ֥ה ל֖וּ שְׁמָעֵ֑נִי נָתַ֜תִּי כֶּ֤סֶף הַשָּׂדֶה֙ קַ֣ח מִמֶּ֔נִּי וְ_אֶקְבְּרָ֥ה_ אֶת־מֵתִ֖י שָֽׁמָּה׃ (Gen. 23:13)
+NIV	and he said to Ephron in their hearing, “Listen to me, if you will. I will pay the price of the field. Accept it from me so _I can bury_ my dead there.”
+ESV	And he said to Ephron in the hearing of the people of the land, “But if you will, hear me: I give the price of the field. Accept it from me, that _I may bury_ my dead there.”
+
+(x)	וַיְהִ֕י כַּאֲשֶׁ֛ר יָלְדָ֥ה רָחֵ֖ל אֶת־יֹוסֵ֑ף וַיֹּ֤אמֶר יַעֲקֹב֙ אֶל־לָבָ֔ן שַׁלְּחֵ֨נִי֙ וְ_אֵ֣לְכָ֔ה_ אֶל־מְקֹומִ֖י וּלְאַרְצִֽי׃ (Gen. 30:25)
+NIV	After Rachel gave birth to Joseph, Jacob said to Laban, “Send me on my way so _I can go back_ to my own homeland.
+ESV	As soon as Rachel had borne Joseph, Jacob said to Laban, “Send me away, that _I may go_ to my own home and country.
+
+(x)	וַתֹּ֨אמֶר֙ אֶל־עֲבָדֶ֔יךָ הֹורִדֻ֖הוּ אֵלָ֑י וְ_אָשִׂ֥ימָה_ עֵינִ֖י עָלָֽיו׃ (Gen. 44:21)
+NIV	“Then you said to your servants, ‘Bring him down to me so _I can see_ him for myself.’
+ESV	Then you said to your servants, ‘Bring him down to me, that _I may set_ my eyes on him.’
+
+(x)	וַיִּקְרָ֥א יַעֲקֹ֖ב אֶל־בָּנָ֑יו וַיֹּ֗אמֶר הֵאָֽסְפוּ֙ וְ_אַגִּ֣ידָה_ לָכֶ֔ם אֵ֛ת אֲשֶׁר־יִקְרָ֥א אֶתְכֶ֖ם בְּאַחֲרִ֥ית הַיָּמִֽים׃ (Gen. 49:1)
+NIV	Then Jacob called for his sons and said: “Gather around so _I can tell_ you what will happen to you in days to come.
+ESV	Then Jacob called his sons and said, “Gather yourselves together, that _I may tell_ you what shall happen to you in days to come.
+
+(x)	הַקְהִ֧ילוּ אֵלַ֛י אֶת־כָּל־זִקְנֵ֥י שִׁבְטֵיכֶ֖ם וְשֹׁטְרֵיכֶ֑ם וַ_אֲדַבְּרָ֣ה_ בְאָזְנֵיהֶ֗ם אֵ֚ת הַדְּבָרִ֣ים הָאֵ֔לֶּה וְאָעִ֣ידָה בָּ֔ם אֶת־הַשָּׁמַ֖יִם וְאֶת־הָאָֽרֶץ׃ (Deut. 31:28)
+NIV	Assemble before me all the elders of your tribes and all your officials, so that _I can speak_ these words in their hearing and call heaven and earth to testify against them.
+ESV	Assemble to me all the elders of your tribes and your officers, that _I may speak_ these words in their ears and call heaven and earth to witness against them.
+
+(x)	הַקְהִ֧ילוּ אֵלַ֛י אֶת־כָּל־זִקְנֵ֥י שִׁבְטֵיכֶ֖ם וְשֹׁטְרֵיכֶ֑ם וַאֲדַבְּרָ֣ה בְאָזְנֵיהֶ֗ם אֵ֚ת הַדְּבָרִ֣ים הָאֵ֔לֶּה וְ_אָעִ֣ידָה_ בָּ֔ם אֶת־הַשָּׁמַ֖יִם וְאֶת־הָאָֽרֶץ׃ (Deut. 31:28)
+NIV	Assemble before me all the elders of your tribes and all your officials, so that I can speak these words in their hearing and call heaven and earth to testify against them.
+ESV	Assemble to me all the elders of your tribes and your officers, that I may speak these words in their ears and call heaven and earth to witness against them.
+
+(x)	וַיֹּאמְר֣וּ לְיִפְתָּ֔ח לְכָ֕ה וְהָיִ֥יתָה לָּ֖נוּ לְקָצִ֑ין וְ_נִֽלָּחֲמָ֖ה_ בִּבְנֵ֥י עַמֹּֽון׃ (Judg. 11:6)
+NIV	“Come,” they said, “be our commander, so _we can fight_ the Ammonites.”
+ESV	And they said to Jephthah, “Come and be our leader, that _we may fight_ against the Ammonites.”
+
+(x)	וַיֹּאמְר֨וּ אֵלָ֜יו זִקְנֵ֣י יָבֵ֗ישׁ הֶ֤רֶף לָ֨נוּ֙ שִׁבְעַ֣ת יָמִ֔ים וְ_נִשְׁלְחָה֙_ מַלְאָכִ֔ים בְּכֹ֖ל גְּב֣וּל יִשְׂרָאֵ֑ל וְאִם־אֵ֥ין מֹושִׁ֛יעַ אֹתָ֖נוּ וְיָצָ֥אנוּ אֵלֶֽיךָ׃ (I Sam. 11:3)
+NIV	The elders of Jabesh said to him, “Give us seven days so that _we can send_ messengers throughout Israel. if no-one comes to rescue us, we will surrender to you.”
+ESV	The elders of Jabesh said to him, “Give us seven days’ respite that _we may send_ messengers through all the territory of Israel. Then, if there is no one to save us, we will give ourselves up to you.”
+
+(x)	וַיֹּ֣אמֶר אַבְשָׁלֹ֣ום אֶל־יֹואָ֡ב הִנֵּ֣ה שָׁלַ֣חְתִּי אֵלֶ֣יךָ׀ לֵאמֹ֡ר בֹּ֣א הֵ֠נָּה וְ_אֶשְׁלְחָה֩_ אֹתְךָ֙ אֶל־הַמֶּ֜לֶךְ לֵאמֹ֗ר לָ֤מָּה בָּ֨אתִי֙ מִגְּשׁ֔וּר טֹ֥וב לִ֖י עֹ֣ד אֲנִי־שָׁ֑ם וְעַתָּ֗ה אֶרְאֶה֙ פְּנֵ֣י הַמֶּ֔לֶךְ וְאִם־יֶשׁ־בִּ֥י עָוֹ֖ן וֶהֱמִתָֽנִי׃ (II Sam. 14:32)
+NIV	Absalom said to Joab, “Look, I sent word to you and said, ‘Come here so that _I can send_ you to the king to ask, “Why have I come from Geshur? It would be better for me if I were still there!”’ Now then, I want to see the king’s face, and if I am guilty of anything, let him put me to death.”
+ESV	Absalom answered Joab, “Behold, I sent word to you, ‘Come here, that _I may send_ you to the king, to ask, “Why have I come from Geshur? It would be better for me to be there still.” Now therefore let me go into the presence of the king, and if there is guilt in me, let him put me to death.’”
+
+(x)	וַיֹּ֨אמֶר֙ אַבְשָׁלֹ֔ום קְרָ֣א נָ֔א גַּ֖ם לְחוּשַׁ֣י הָאַרְכִּ֑י וְ_נִשְׁמְעָ֥ה_ מַה־בְּפִ֖יו גַּם־הֽוּא׃ (II Sam. 17:5)
+NIV	But Absalom said, “Summon also Hushai the Arkite, so that _we can hear_ what he has to say.”
+ESV	Then Absalom said, “Call Hushai the Archite also, and _let us hear_ what he has to say.”
+
+(x)	וַתִּקְרָ֛א אִשָּׁ֥ה חֲכָמָ֖ה מִן־הָעִ֑יר שִׁמְע֤וּ שִׁמְעוּ֙ אִמְרוּ־נָ֣א אֶל־יֹואָ֔ב קְרַ֣ב עַד־הֵ֔נָּה וַ_אֲדַבְּרָ֖ה_ אֵלֶֽיךָ׃ (II Sam. 20:16)
+NIV	a wise woman called from the city, “Listen! Listen! Tell Joab to come here so that _I can speak_ to him.”
+ESV	Then a wise woman called from the city, “Listen! Listen! Tell Joab, ‘Come here, that _I may speak_ to you.’”
+
+(x)	וְאַתָּ֣ה תִֽמְנֶה־לְךָ֣׀ חַ֡יִל כַּחַיִל֩ הַנֹּפֵ֨ל מֵאֹותָ֜ךְ וְס֣וּס כַּסּ֣וּס׀ וְרֶ֣כֶב כָּרֶ֗כֶב וְ_נִֽלָּחֲמָ֤ה_ אֹותָם֙ בַּמִּישֹׁ֔ור אִם־לֹ֥א נֶחֱזַ֖ק מֵהֶ֑ם וַיִּשְׁמַ֥ע לְקֹלָ֖ם וַיַּ֥עַשׂ כֵּֽן׃ פ (I Kgs. 20:25)
+NIV	You must also raise an army like the one you lost — horse for horse and chariot for chariot — so _we can fight_ Israel on the plains. Then surely we will be stronger than they.” He agreed with them and acted accordingly.
+ESV	and muster an army like the army that you have lost, horse for horse, and chariot for chariot. Then _we will fight_ against them in the plain, and surely we shall be stronger than they.” And he listened to their voice and did so.
+
+(x)	וַיֹּ֨אמֶר֙ יְהֹ֣ושָׁפָ֔ט הַאֵ֨ין פֹּ֥ה נָבִ֛יא לַיהוָ֖ה עֹ֑וד וְ_נִדְרְשָׁ֖ה_ מֵאֹותֹֽו׃ (I Kgs. 22:7)
+NIV	But Jehoshaphat asked, “Is there not a prophet of the LORD here whom _we can enquire_ of?”
+ESV	But Jehoshaphat said, “Is there not here another prophet of the Lord of whom _we may inquire_?”
+
+(x)	וַתִּקְרָא֮ אֶל־אִישָׁהּ֒ וַתֹּ֗אמֶר שִׁלְחָ֨ה נָ֥א לִי֙ אֶחָ֣ד מִן־הַנְּעָרִ֔ים וְאַחַ֖ת הָאֲתֹנֹ֑ות וְ_אָר֛וּצָה_ עַד־אִ֥ישׁ הָאֱלֹהִ֖ים וְאָשֽׁוּבָה׃ (II Kgs. 4:22)
+NIV	She called her husband and said, “Please send me one of the servants and a donkey so I can go to the man of God quickly and return.”
+ESV	Then she called to her husband and said, “Send me one of the servants and one of the donkeys, that _I may quickly go_ to the man of God and come back again.”
+
+(x)	וַתִּקְרָא֮ אֶל־אִישָׁהּ֒ וַתֹּ֗אמֶר שִׁלְחָ֨ה נָ֥א לִי֙ אֶחָ֣ד מִן־הַנְּעָרִ֔ים וְאַחַ֖ת הָאֲתֹנֹ֑ות וְאָר֛וּצָה עַד־אִ֥ישׁ הָאֱלֹהִ֖ים וְ_אָשֽׁוּבָה_׃ (II Kgs. 4:22)
+NIV	She called her husband and said, “Please send me one of the servants and a donkey so I can go to the man of God quickly and _return_.”
+ESV	Then she called to her husband and said, “Send me one of the servants and one of the donkeys, that I may quickly go to the man of God and _come back_ again.”
+
+(x)	נֵֽלְכָה־נָּ֣א עַד־הַיַּרְדֵּ֗ן וְ_נִקְחָ֤ה_ מִשָּׁם֙ אִ֚ישׁ קֹורָ֣ה אֶחָ֔ת וְנַעֲשֶׂה־לָּ֥נוּ שָׁ֛ם מָקֹ֖ום לָשֶׁ֣בֶת שָׁ֑ם וַיֹּ֖אמֶר לֵֽכוּ׃ (II Kgs. 6:2)
+NIV	Let us go to the Jordan, where each of us _can get_ a pole. and let us build a place there for us to live.” And he said, “Go.”
+ESV	Let us go to the Jordan and each of _us get_ there a log, and let us make a place for us to dwell there.” And he answered, “Go.”
+
+(x)	עַל־מִ֨י _אֲדַבְּרָ֤ה_ וְאָעִ֨ידָה֙ וְיִשְׁמָ֔עוּ הִנֵּה֙ עֲרֵלָ֣ה אָזְנָ֔ם וְלֹ֥א יוּכְל֖וּ לְהַקְשִׁ֑יב הִנֵּ֣ה דְבַר־יְהוָ֗ה הָיָ֥ה לָהֶ֛ם לְחֶרְפָּ֖ה לֹ֥א יַחְפְּצוּ־בֹֽו׃ (Jer. 6:10)
+NIV	To whom _can I speak_ and give warning? Who will listen to me? Their ears are closed so that they cannot hear. The word of the LORD is offensive to them. they find no pleasure in it.
+ESV	To whom _shall I speak_ and give warning, that they may hear? Behold, their ears are uncircumcised, they cannot listen. behold, the word of the Lord is to them an object of scorn. they take no pleasure in it.
+
+(x)	עַל־מִ֨י אֲדַבְּרָ֤ה וְ_אָעִ֨ידָה֙_ וְיִשְׁמָ֔עוּ הִנֵּה֙ עֲרֵלָ֣ה אָזְנָ֔ם וְלֹ֥א יוּכְל֖וּ לְהַקְשִׁ֑יב הִנֵּ֣ה דְבַר־יְהוָ֗ה הָיָ֥ה לָהֶ֛ם לְחֶרְפָּ֖ה לֹ֥א יַחְפְּצוּ־בֹֽו׃ (Jer. 6:10)
+NIV	To whom can I speak and _give warning_? Who will listen to me? Their ears are closed so that they cannot hear. The word of the LORD is offensive to them. they find no pleasure in it.
+ESV	To whom shall I speak and _give warning_, that they may hear? Behold, their ears are uncircumcised, they cannot listen. behold, the word of the Lord is to them an object of scorn. they take no pleasure in it.
+
+(x)	כִּ֣י שָׁמַ֜עְתִּי דִּבַּ֣ת רַבִּים֮ מָגֹ֣ור מִסָּבִיב֒ הַגִּ֨ידוּ֙ וְנַגִּידֶ֔נּוּ כֹּ֚ל אֱנֹ֣ושׁ שְׁלֹומִ֔י שֹׁמְרֵ֖י צַלְעִ֑י אוּלַ֤י יְפֻתֶּה֙ וְ_נ֣וּכְלָה_ לֹ֔ו וְנִקְחָ֥ה נִקְמָתֵ֖נוּ מִמֶּֽנּוּ׃ (Jer. 20:10)
+NIV	I hear many whispering, “Terror on every side! Report him! Let’s report him!” All my friends are waiting for me to slip, saying, “Perhaps he will be deceived. then _we will prevail_ over him and take our revenge on him.”
+ESV	For I hear many whispering. Terror is on every side! “Denounce him! Let us denounce him!” say all my close friends, watching for my fall. “Perhaps he will be deceived. then _we can overcome_ him and take our revenge on him.”
+
+(x)	כִּ֣י שָׁמַ֜עְתִּי דִּבַּ֣ת רַבִּים֮ מָגֹ֣ור מִסָּבִיב֒ הַגִּ֨ידוּ֙ וְנַגִּידֶ֔נּוּ כֹּ֚ל אֱנֹ֣ושׁ שְׁלֹומִ֔י שֹׁמְרֵ֖י צַלְעִ֑י אוּלַ֤י יְפֻתֶּה֙ וְנ֣וּכְלָה לֹ֔ו וְ_נִקְחָ֥ה_ נִקְמָתֵ֖נוּ מִמֶּֽנּוּ׃ (Jer. 20:10)
+NIV	I hear many whispering, “Terror on every side! Report him! Let’s report him!” All my friends are waiting for me to slip, saying, “Perhaps he will be deceived. then we will prevail over him and _take_ our revenge on him.”
+ESV	For I hear many whispering. Terror is on every side! “Denounce him! Let us denounce him!” say all my close friends, watching for my fall. “Perhaps he will be deceived. then we can overcome him and _take_ our revenge on him.”
+
+(x)	אַ֭ף כִּֽי־אָנֹכִ֣י אֶֽעֱנֶ֑נּוּ _אֶבְחֲרָ֖ה_ דְבָרַ֣י עִמֹּֽו׃ (Job 9:14)
+NIV	“How then can I dispute with him? How _can I find_ words to argue with him?
+ESV	How then can I answer him, _choosing_ my words with him?
+
+(x)	הֲלֹא־מְעַ֣ט יָמַ֣י וַחֲדָ֑ל וְשִׁ֥ית מִ֝מֶּ֗נִּי וְ_אַבְלִ֥יגָה_ מְּעָֽט׃ (Job 10:20)
+NIV	Are not my few days almost over? Turn away from me so that I can have a moment’s joy
+ESV	Are not my days few? Then cease, and leave me alone, that I may find a little cheer
+
+(x)	חֲכַ֣ם בְּ֭נִי וְשַׂמַּ֣ח לִבִּ֑י וְ_אָשִׁ֖יבָה_ חֹרְפִ֣י דָבָֽר׃ (Prov. 27:11)
+NIV	Be wise, my son, and bring joy to my heart. then _I can answer_ anyone who treats me with contempt.
+ESV	Be wise, my son, and make my heart glad, that _I may answer_ him who reproaches me.
+
+(x)	וַיֹּ֨אמֶר֙ יְהֹ֣ושָׁפָ֔ט הַאֵ֨ין פֹּ֥ה נָבִ֛יא לַיהוָ֖ה עֹ֑וד וְ_נִדְרְשָׁ֖ה_ מֵאֹתֹֽו׃ (II Chr. 18:6)
+NIV	But Jehoshaphat asked, “Is there not a prophet of the LORD here whom _we can enquire_ of?”
+ESV	But Jehoshaphat said, “Is there not here another prophet of the Lord of whom _we may inquire_?”

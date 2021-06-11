@@ -1,0 +1,42 @@
+eng_TAMsimp == "PAST ~ PAST PERF"
+10 of 183
+
+(x)	וַ_יְכַ֤ל_ אֱלֹהִים֙ בַּיֹּ֣ום הַשְּׁבִיעִ֔י מְלַאכְתֹּ֖ו אֲשֶׁ֣ר עָשָׂ֑ה וַיִּשְׁבֹּת֙ בַּיֹּ֣ום הַשְּׁבִיעִ֔י מִכָּל־מְלַאכְתֹּ֖ו אֲשֶׁ֥ר עָשָֽׂה׃ (Gen. 2:2)
+NIV	By the seventh day God _had finished_ the work he had been doing. so on the seventh day he rested from all his work.
+ESV	And on the seventh day God _finished_ his work that he had done, and he rested on the seventh day from all his work that he had done.
+
+(x)	וַ_יְכַ֤ל_ יַעֲקֹב֙ לְצַוֹּ֣ת אֶת־בָּנָ֔יו וַיֶּאֱסֹ֥ף רַגְלָ֖יו אֶל־הַמִּטָּ֑ה וַיִּגְוַ֖ע וַיֵּאָ֥סֶף אֶל־עַמָּֽיו׃ (Gen. 49:33)
+NIV	When Jacob _had finished_ giving instructions to his sons, he drew his feet up into the bed, breathed his last and was gathered to his people.
+ESV	When Jacob _finished_ commanding his sons, he drew up his feet into the bed and breathed his last and was gathered to his people.
+
+(x)	וַיִּסְעוּ֙ מִפְּנֵ֣י הַֽחִירֹ֔ת וַיַּֽעַבְר֥וּ בְתֹוךְ־הַיָּ֖ם הַמִּדְבָּ֑רָה וַ_יֵּ֨לְכ֜וּ_ דֶּ֣רֶךְ שְׁלֹ֤שֶׁת יָמִים֙ בְּמִדְבַּ֣ר אֵתָ֔ם וַֽיַּחֲנ֖וּ בְּמָרָֽה׃ (Num. 33:8)
+NIV	They left Pi Hahiroth and passed through the sea into the desert, and when _they had traveled_ for three days in the Desert of Etham, they camped at Marah.
+ESV	And they set out from before Hahiroth and passed through the midst of the sea into the wilderness, and _they went_ a three days’ journey in the wilderness of Etham and camped at Marah.
+
+(x)	וַ_יֵּצֵא֙_ גַּ֣עַל בֶּן־עֶ֔בֶד וַיַּעֲמֹ֕ד פֶּ֖תַח שַׁ֣עַר הָעִ֑יר וַיָּ֧קָם אֲבִימֶ֛לֶךְ וְהָעָ֥ם אֲשֶׁר־אִתֹּ֖ו מִן־הַמַּאְרָֽב׃ (Judg. 9:35)
+NIV	Now Gaal son of Ebed _had gone out_ and was standing at the entrance to the city gate just as Abimelech and his soldiers came out from their hiding-place.
+ESV	And Gaal the son of Ebed _went out_ and stood in the entrance of the gate of the city, and Abimelech and the people who were with him rose from the ambush.
+
+(x)	וַיִּשְׁלַח֙ אִ֣ישׁ בֹּ֔שֶׁת וַ_יִּקָּחֶ֖הָ_ מֵ֣עִֽם אִ֑ישׁ מֵעִ֖ם פַּלְטִיאֵ֥ל בֶּן־לָֽיִשׁ׃ (II Sam. 3:15)
+NIV	So Ish-bosheth gave orders and had her taken away from her husband Paltiel son of Laish.
+ESV	And Ish-bosheth sent and _took_ her from her husband Paltiel the son of Laish.
+
+(x)	וַ_יֹּ֤אמֶר_ אַחְאָב֙ אֶל־עֹ֣בַדְיָ֔הוּ לֵ֤ךְ בָּאָ֨רֶץ֙ אֶל־כָּל־מַעְיְנֵ֣י הַמַּ֔יִם וְאֶ֖ל כָּל־הַנְּחָלִ֑ים אוּלַ֣י׀ נִמְצָ֣א חָצִ֗יר וּנְחַיֶּה֙ ס֣וּס וָפֶ֔רֶד וְלֹ֥וא נַכְרִ֖ית מֵהַבְּהֵמָֽה׃ (I Kgs. 18:5)
+NIV	Ahab _had said_ to Obadiah, “Go through the land to all the springs and valleys. Maybe we can find some grass to keep the horses and mules alive so we will not have to kill any of our animals.”
+ESV	And Ahab _said_ to Obadiah, “Go through the land to all the springs of water and to all the valleys. Perhaps we may find grass and save the horses and mules alive, and not lose some of the animals.”
+
+(x)	עַ֣ל׀ אֲשֶׁ֣ר לֹֽא־שָׁמְע֗וּ בְּקֹול֙ יְהוָ֣ה אֱלֹהֵיהֶ֔ם וַ_יַּעַבְרוּ֙_ אֶת־בְּרִיתֹ֔ו אֵ֚ת כָּל־אֲשֶׁ֣ר צִוָּ֔ה מֹשֶׁ֖ה עֶ֣בֶד יְהוָ֑ה וְלֹ֥א שָׁמְע֖וּ וְלֹ֥א עָשֽׂוּ׃ פ (II Kgs. 18:12)
+NIV	This happened because they had not obeyed the LORD their God, but _had violated_ his covenant — all that Moses the servant of the LORD commanded. They neither listened to the commands nor carried them out.
+ESV	because they did not obey the voice of the Lord their God but _transgressed_ his covenant, even all that Moses the servant of the Lord commanded. They neither listened nor obeyed.
+
+(x)	וָ_אֲבִיאֵם֙_ אֶל־הָאָ֔רֶץ אֲשֶׁ֤ר נָשָׂ֨אתִי֙ אֶת־יָדִ֔י לָתֵ֥ת אֹותָ֖הּ לָהֶ֑ם וַיִּרְאוּ֩ כָל־גִּבְעָ֨ה רָמָ֜ה וְכָל־עֵ֣ץ עָבֹ֗ת וַיִּזְבְּחוּ־שָׁ֤ם אֶת־זִבְחֵיהֶם֙ וַיִּתְּנוּ־שָׁם֙ כַּ֣עַס קָרְבָּנָ֔ם וַיָּשִׂ֣ימוּ שָׁ֗ם רֵ֚יחַ נִיחֹ֣וחֵיהֶ֔ם וַיַּסִּ֥יכוּ שָׁ֖ם אֶת־נִסְכֵּיהֶֽם׃ (Ezek. 20:28)
+NIV	When _I brought_ them into the land I had sworn to give them and they saw any high hill or any leafy tree, there they offered their sacrifices, made offerings that provoked me to anger, presented their fragrant incense and poured out their drink offerings.
+ESV	For when _I had brought_ them into the land that I swore to give them, then wherever they saw any high hill or any leafy tree, there they offered their sacrifices and there they presented the provocation of their offering. there they sent up their pleasing aromas, and there they poured out their drink offerings.
+
+(x)	וַ_יַּֽעַשׂ_־לֹ֥ו בָתִּ֖ים בְּעִ֣יר דָּוִ֑יד וַיָּ֤כֶן מָקֹום֙ לַֽאֲרֹ֣ון הָֽאֱלֹהִ֔ים וַיֶּט־לֹ֖ו אֹֽהֶל׃ (I Chr. 15:1)
+NIV	After _David had constructed_ buildings for himself in the City of David, he prepared a place for the ark of God and pitched a tent for it.
+ESV	_David built_ houses for himself in the city of David. And he prepared a place for the ark of God and pitched a tent for it.
+
+(x)	וַ_תִּכֹּ֖ון_ הָעֲבֹודָ֑ה וַיַּֽעַמְד֨וּ הַכֹּהֲנִ֧ים עַל־עָמְדָ֛ם וְהַלְוִיִּ֥ם עַל־מַחְלְקֹותָ֖ם כְּמִצְוַ֥ת הַמֶּֽלֶךְ׃ (II Chr. 35:10)
+NIV	The service _was arranged_ and the priests stood in their places with the Levites in their divisions as the king had ordered.
+ESV	When the service _had been prepared_ for, the priests stood in their place, and the Levites in their divisions according to the king’s command.

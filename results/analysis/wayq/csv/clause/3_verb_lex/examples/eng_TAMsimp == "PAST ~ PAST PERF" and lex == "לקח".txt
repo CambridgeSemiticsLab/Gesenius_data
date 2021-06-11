@@ -1,0 +1,50 @@
+eng_TAMsimp == "PAST ~ PAST PERF" and lex == "לקח"
+12 of 12
+
+(x)	וַיִּסֹּ֥ב מֵֽעֲלֵיהֶ֖ם וַיֵּ֑בְךְּ וַיָּ֤שָׁב אֲלֵהֶם֙ וַיְדַבֵּ֣ר אֲלֵהֶ֔ם וַ_יִּקַּ֤ח_ מֵֽאִתָּם֙ אֶת־שִׁמְעֹ֔ון וַיֶּאֱסֹ֥ר אֹתֹ֖ו לְעֵינֵיהֶֽם׃ (Gen. 42:24)
+NIV	He turned away from them and began to weep, but then turned back and spoke to them again. He had Simeon taken from them and bound before their eyes.
+ESV	Then he turned away from them and wept. And he returned to them and spoke to them. And _he took_ Simeon from them and bound him before their eyes.
+
+(x)	וַ_יִּקַּ֗ח_ יִתְרֹו֙ חֹתֵ֣ן מֹשֶׁ֔ה אֶת־צִפֹּרָ֖ה אֵ֣שֶׁת מֹשֶׁ֑ה אַחַ֖ר שִׁלּוּחֶֽיהָ׃ (Exod. 18:2)
+NIV	After Moses had sent away his wife Zipporah, his father-in-law Jethro _received_ her
+ESV	Now Jethro, Moses’ father-in-law, _had taken_ Zipporah, Moses’ wife, after he had sent her home,
+
+(x)	וַ_יִּקַּ֕ח_ כַּחֲמֵ֥שֶׁת אֲלָפִ֖ים אִ֑ישׁ וַיָּ֨שֶׂם אֹותָ֜ם אֹרֵ֗ב בֵּ֧ין בֵּֽית־אֵ֛ל וּבֵ֥ין הָעַ֖י מִיָּ֥ם לָעִֽיר׃ (Josh. 8:12)
+NIV	_Joshua had taken_ about five thousand men and set them in ambush between Bethel and Ai, to the west of the city.
+ESV	_He took_ about 5,000 men and set them in ambush between Bethel and Ai, to the west of the city.
+
+(x)	וַיִּשְׁלַח֙ אִ֣ישׁ בֹּ֔שֶׁת וַ_יִּקָּחֶ֖הָ_ מֵ֣עִֽם אִ֑ישׁ מֵעִ֖ם פַּלְטִיאֵ֥ל בֶּן־לָֽיִשׁ׃ (II Sam. 3:15)
+NIV	So Ish-bosheth gave orders and had her taken away from her husband Paltiel son of Laish.
+ESV	And Ish-bosheth sent and _took_ her from her husband Paltiel the son of Laish.
+
+(x)	וַיִּשְׁלַ֖ח הַמֶּ֣לֶךְ דָּוִ֑ד וַ_יִּקָּחֵ֗הוּ_ מִבֵּ֛ית מָכִ֥יר בֶּן־עַמִּיאֵ֖ל מִלֹּ֥ו דְבָֽר׃ (II Sam. 9:5)
+NIV	So King David had him brought from Lo Debar, from the house of Makir son of Ammiel.
+ESV	Then King David sent and _brought_ him from the house of Machir the son of Ammiel, at Lo-debar.
+
+(x)	וַיִּשְׁלַ֤ח יֹואָב֙ תְּקֹ֔ועָה וַ_יִּקַּ֥ח_ מִשָּׁ֖ם אִשָּׁ֣ה חֲכָמָ֑ה וַיֹּ֣אמֶר אֵ֠לֶיהָ הִֽתְאַבְּלִי־נָ֞א וְלִבְשִׁי־נָ֣א בִגְדֵי־אֵ֗בֶל וְאַל־תָּס֨וּכִי֙ שֶׁ֔מֶן וְהָיִ֕ית כְּאִשָּׁ֗ה זֶ֚ה יָמִ֣ים רַבִּ֔ים מִתְאַבֶּ֖לֶת עַל־מֵֽת׃ (II Sam. 14:2)
+NIV	So Joab sent someone to Tekoa and had a wise woman brought from there. He said to her, “Pretend you are in mourning. Dress in mourning clothes, and don’t use any cosmetic lotions. Act like a woman who has spent many days grieving for the dead.
+ESV	And Joab sent to Tekoa and _brought_ from there a wise woman and said to her, “Pretend to be a mourner and put on mourning garments. Do not anoint yourself with oil, but behave like a woman who has been mourning many days for the dead.
+
+(x)	וַיְהִי֙ בְּהַכְרִ֣ית אִיזֶ֔בֶל אֵ֖ת נְבִיאֵ֣י יְהוָ֑ה וַ_יִּקַּ֨ח_ עֹבַדְיָ֜הוּ מֵאָ֣ה נְבִאִ֗ים וַֽיַּחְבִּיאֵ֞ם חֲמִשִּׁ֥ים אִישׁ֙ בַּמְּעָרָ֔ה וְכִלְכְּלָ֖ם לֶ֥חֶם וָמָֽיִם׃ (I Kgs. 18:4)
+NIV	While Jezebel was killing off the LORD’s prophets, Obadiah _had taken_ a hundred prophets and hidden them in two caves, fifty in each, and had supplied them with food and water. )
+ESV	and when Jezebel cut off the prophets of the Lord, Obadiah _took_ a hundred prophets and hid them by fifties in a cave and fed them with bread and water. )
+
+(x)	וַיִּ֣פֶן יֹאשִׁיָּ֗הוּ וַיַּ֨רְא אֶת־הַקְּבָרִ֤ים אֲשֶׁר־שָׁם֙ בָּהָ֔ר וַיִּשְׁלַ֗ח וַ_יִּקַּ֤ח_ אֶת־הָֽעֲצָמֹות֙ מִן־הַקְּבָרִ֔ים וַיִּשְׂרֹ֥ף עַל־הַמִּזְבֵּ֖חַ וַֽיְטַמְּאֵ֑הוּ כִּדְבַ֣ר יְהוָ֗ה אֲשֶׁ֤ר קָרָא֙ אִ֣ישׁ הָאֱלֹהִ֔ים אֲשֶׁ֣ר קָרָ֔א אֶת־הַדְּבָרִ֖ים הָאֵֽלֶּה׃ (II Kgs. 23:16)
+NIV	Then Josiah looked around, and when he saw the tombs that were there on the hillside, he had the bones removed from them and burned on the altar to defile it, in accordance with the word of the LORD proclaimed by the man of God who foretold these things.
+ESV	And as Josiah turned, he saw the tombs there on the mount. And he sent and _took_ the bones out of the tombs and burned them on the altar and defiled it, according to the word of the Lord that the man of God proclaimed, who had predicted these things.
+
+(x)	וַיִּשְׁלַח֩ הַמֶּ֨לֶךְ צִדְקִיָּ֜הוּ וַ_יִּקָּחֵ֗הוּ_ וַיִּשְׁאָלֵ֨הוּ הַמֶּ֤לֶךְ בְּבֵיתֹו֙ בַּסֵּ֔תֶר וַיֹּ֕אמֶר הֲיֵ֥שׁ דָּבָ֖ר מֵאֵ֣ת יְהוָ֑ה וַיֹּ֤אמֶר יִרְמְיָ֨הוּ֙ יֵ֔שׁ וַיֹּ֕אמֶר בְּיַ֥ד מֶֽלֶךְ־בָּבֶ֖ל תִּנָּתֵֽן׃ ס (Jer. 37:17)
+NIV	Then King Zedekiah sent for him and had him brought to the palace, where he asked him privately, “Is there any word from the LORD?” “Yes,” Jeremiah replied, “you will be handed over to the king of Babylon.”
+ESV	King Zedekiah sent for him and _received_ him. The king questioned him secretly in his house and said, “Is there any word from the Lord?” Jeremiah said, “There is.” Then he said, “You shall be delivered into the hand of the king of Babylon.”
+
+(x)	וַיִּשְׁלַ֞ח הַמֶּ֣לֶךְ צִדְקִיָּ֗הוּ וַ_יִּקַּ֞ח_ אֶֽת־יִרְמְיָ֤הוּ הַנָּבִיא֙ אֵלָ֔יו אֶל־מָבֹוא֙ הַשְּׁלִישִׁ֔י אֲשֶׁ֖ר בְּבֵ֣ית יְהוָ֑ה וַיֹּ֨אמֶר הַמֶּ֜לֶךְ אֶֽל־יִרְמְיָ֗הוּ שֹׁאֵ֨ל אֲנִ֤י אֹֽתְךָ֙ דָּבָ֔ר אַל־תְּכַחֵ֥ד מִמֶּ֖נִּי דָּבָֽר׃ (Jer. 38:14)
+NIV	Then King Zedekiah sent for Jeremiah the prophet and had him brought to the third entrance to the temple of the LORD. “I am going to ask you something,” the king said to Jeremiah. “Do not hide anything from me.”
+ESV	King Zedekiah sent for Jeremiah the prophet and _received_ him at the third entrance of the temple of the Lord. The king said to Jeremiah, “I will ask you a question. hide nothing from me.”
+
+(x)	וַיִּרְדְּפ֨וּ חֵיל־כַּשְׂדִּ֜ים אַחֲרֵיהֶ֗ם וַיַּשִּׂ֣גוּ אֶת־צִדְקִיָּהוּ֮ בְּעַֽרְבֹ֣ות יְרֵחֹו֒ וַ_יִּקְח֣וּ_ אֹתֹ֗ו וַֽ֠יַּעֲלֻהוּ אֶל־נְבוּכַדְרֶאצַּ֧ר מֶֽלֶךְ־בָּבֶ֛ל רִבְלָ֖תָה בְּאֶ֣רֶץ חֲמָ֑ת וַיְדַבֵּ֥ר אִתֹּ֖ו מִשְׁפָּטִֽים׃ (Jer. 39:5)
+NIV	But the Babylonian army pursued them and overtook Zedekiah in the plains of Jericho. _They captured_ him and took him to Nebuchadnezzar king of Babylon at Riblah in the land of Hamath, where he pronounced sentence on him.
+ESV	But the army of the Chaldeans pursued them and overtook Zedekiah in the plains of Jericho. And when _they had taken_ him, they brought him up to Nebuchadnezzar king of Babylon, at Riblah, in the land of Hamath. and he passed sentence on him.
+
+(x)	וַיִּשְׁלְחוּ֩ וַ_יִּקְח֨וּ_ אֶֽת־יִרְמְיָ֜הוּ מֵחֲצַ֣ר הַמַּטָּרָ֗ה וַיִּתְּנ֤וּ אֹתֹו֙ אֶל־גְּדַלְיָ֨הוּ֙ בֶּן־אֲחִיקָ֣ם בֶּן־שָׁפָ֔ן לְהֹוצִאֵ֖הוּ אֶל־הַבָּ֑יִת וַיֵּ֖שֶׁב בְּתֹ֥וךְ הָעָֽם׃ ס (Jer. 39:14)
+NIV	sent and had Jeremiah taken out of the courtyard of the guard. They handed him over to Gedaliah son of Ahikam, the son of Shaphan, to take him back to his home. So he remained among his own people.
+ESV	sent and _took_ Jeremiah from the court of the guard. They entrusted him to Gedaliah the son of Ahikam, son of Shaphan, that he should take him home. So he lived among the people.

@@ -1,0 +1,102 @@
+esv_TAM == "MOD shall" or niv_TAM == "MOD shall"
+25 of 27
+
+(x)	פַּ֤חַז כַּמַּ֨יִם֙ אַל־_תֹּותַ֔ר_ כִּ֥י עָלִ֖יתָ מִשְׁכְּבֵ֣י אָבִ֑יךָ אָ֥ז חִלַּ֖לְתָּ יְצוּעִ֥י עָלָֽה׃ פ (Gen. 49:4)
+NIV	Turbulent as the waters, you will no longer excel, for you went up onto your father’s bed, onto my couch and defiled it.
+ESV	Unstable as water, you shall not have preeminence, because you went up to your father’s bed. then you defiled it — he went up to my couch!
+
+(x)	וְאֵ֣ת אֲשֶׁר֩ חָטָ֨א מִן־הַקֹּ֜דֶשׁ יְשַׁלֵּ֗ם וְאֶת־חֲמִֽישִׁתֹו֙ _יֹוסֵ֣ף_ עָלָ֔יו וְנָתַ֥ן אֹתֹ֖ו לַכֹּהֵ֑ן וְהַכֹּהֵ֗ן יְכַפֵּ֥ר עָלָ֛יו בְּאֵ֥יל הָאָשָׁ֖ם וְנִסְלַ֥ח לֹֽו׃ פ (Lev. 5:16)
+NIV	He must make restitution for what he has failed to do in regard to the holy things, _add_ a fifth of the value to that and give it all to the priest, who will make atonement for him with the ram as a guilt offering, and he will be forgiven.
+ESV	He shall also make restitution for what he has done amiss in the holy thing and _shall add_ a fifth to it and give it to the priest. And the priest shall make atonement for him with the ram of the guilt offering, and he shall be forgiven.
+
+(x)	אֹ֠ו מִכֹּ֞ל אֲשֶׁר־יִשָּׁבַ֣ע עָלָיו֮ לַשֶּׁקֶר֒ וְשִׁלַּ֤ם אֹתֹו֙ בְּרֹאשֹׁ֔ו וַחֲמִשִׁתָ֖יו _יֹסֵ֣ף_ עָלָ֑יו לַאֲשֶׁ֨ר ה֥וּא לֹ֛ו יִתְּנֶ֖נּוּ בְּיֹ֥ום אַשְׁמָתֹֽו׃ (Lev. 5:24)
+NIV	or whatever it was he swore falsely about. He must make restitution in full, _add_ a fifth of the value to it and give it all to the owner on the day he presents his guilt offering.
+ESV	or anything about which he has sworn falsely, he shall restore it in full and _shall add_ a fifth to it, and give it to him to whom it belongs on the day he realizes his guilt.
+
+(x)	וְהָאָרֶץ֩ תֵּעָזֵ֨ב מֵהֶ֜ם וְ_תִ֣רֶץ_ אֶת־שַׁבְּתֹתֶ֗יהָ בָּהְשַׁמָּה֙ מֵהֶ֔ם וְהֵ֖ם יִרְצ֣וּ אֶת־עֲוֹנָ֑ם יַ֣עַן וּבְיַ֔עַן בְּמִשְׁפָּטַ֣י מָאָ֔סוּ וְאֶת־חֻקֹּתַ֖י גָּעֲלָ֥ה נַפְשָֽׁם׃ (Lev. 26:43)
+NIV	For the land will be deserted by them and _will enjoy_ its sabbaths while it lies desolate without them. They will pay for their sins because they rejected my laws and abhorred my decrees.
+ESV	But the land shall be abandoned by them and _enjoy_ its Sabbaths while it lies desolate without them, and they shall make amends for their iniquity, because they spurned my rules and their soul abhorred my statutes.
+
+(x)	וְאִם־גָּאֹ֥ל יִגְאַ֛ל אִ֖ישׁ מִמַּֽעַשְׂרֹ֑ו חֲמִשִׁיתֹ֖ו _יֹסֵ֥ף_ עָלָֽיו׃ (Lev. 27:31)
+NIV	If a man redeems any of his tithe, _he must add_ a fifth of the value to it.
+ESV	If a man wishes to redeem some of his tithe, _he shall add_ a fifth to it.
+
+(x)	יִֽזַּל־מַ֨יִם֙ מִדָּ֣לְיָ֔ו וְזַרְעֹ֖ו בְּמַ֣יִם רַבִּ֑ים וְ_יָרֹ֤ם_ מֵֽאֲגַג֙ מַלְכֹּ֔ו וְתִנַּשֵּׂ֖א מַלְכֻתֹֽו׃ (Num. 24:7)
+NIV	Water will flow from their buckets. their seed will have abundant water. “Their king _will be greater_ than Agag. their kingdom will be exalted.
+ESV	Water shall flow from his buckets, and his seed shall be in many waters. his king _shall be higher_ than Agag, and his kingdom shall be exalted.
+
+(x)	אֶת־הַנָּכְרִ֖י תִּגֹּ֑שׂ וַאֲשֶׁ֨ר יִהְיֶ֥ה לְךָ֛ אֶת־אָחִ֖יךָ _תַּשְׁמֵ֥ט_ יָדֶֽךָ׃ (Deut. 15:3)
+NIV	You may require payment from a foreigner, but you _must cancel any debt_ your brother owes you.
+ESV	Of a foreigner you may exact it, but whatever of yours is with your brother your hand _shall release_.
+
+(x)	וְיָרַדְתָּ֣ לְפָנַי֮ הַגִּלְגָּל֒ וְהִנֵּ֤ה אָֽנֹכִי֙ יֹרֵ֣ד אֵלֶ֔יךָ לְהַעֲלֹ֣ות עֹלֹ֔ות לִזְבֹּ֖חַ זִבְחֵ֣י שְׁלָמִ֑ים שִׁבְעַ֨ת יָמִ֤ים _תֹּוחֵל֙_ עַד־בֹּואִ֣י אֵלֶ֔יךָ וְהֹודַעְתִּ֣י לְךָ֔ אֵ֖ת אֲשֶׁ֥ר תַּעֲשֶֽׂה׃ (I Sam. 10:8)
+NIV	“Go down ahead of me to Gilgal. I will surely come down to you to sacrifice burnt offerings and fellowship offerings, but _you must wait_ seven days until I come to you and tell you what you are to do.”
+ESV	Then go down before me to Gilgal. And behold, I am coming to you to offer burnt offerings and to sacrifice peace offerings. Seven days _you shall wait_, until I come to you and show you what you shall do.”
+
+(x)	וַיֹּ֖אמֶר הִקְשִׁ֣יתָ לִשְׁאֹ֑ול אִם־תִּרְאֶ֨ה אֹתִ֜י לֻקָּ֤ח מֵֽאִתָּךְ֙ _יְהִֽי_־לְךָ֣ כֵ֔ן וְאִם־אַ֖יִן לֹ֥א יִהְיֶֽה׃ (II Kgs. 2:10)
+NIV	“You have asked a difficult thing,” Elijah said, “yet if you see me when I am taken from you, _it will be_ yours — otherwise not.”
+ESV	And he said, “You have asked a hard thing. yet, if you see me as I am being taken from you, _it shall be_ so for you, but if you do not see me, it shall not be so.”
+
+(x)	וַיִּשְׁלַ֥ח אֵלָ֛יו אֱלִישָׁ֖ע מַלְאָ֣ךְ לֵאמֹ֑ר הָלֹ֗וךְ וְרָחַצְתָּ֤ שֶֽׁבַע־פְּעָמִים֙ בַּיַּרְדֵּ֔ן וְ_יָשֹׁ֧ב_ בְּשָׂרְךָ֛ לְךָ֖ וּטְהָֽר׃ (II Kgs. 5:10)
+NIV	Elisha sent a messenger to say to him, “Go, wash yourself seven times in the Jordan, and your flesh _will be restored_ and you will be cleansed.”
+ESV	And Elisha sent a messenger to him, saying, “Go and wash in the Jordan seven times, and your flesh _shall be restored_, and you shall be clean.”
+
+(x)	יְשֻׂשׂ֥וּם מִדְבָּ֖ר וְצִיָּ֑ה וְ_תָגֵ֧ל_ עֲרָבָ֛ה וְתִפְרַ֖ח כַּחֲבַצָּֽלֶת׃ (Isa. 35:1)
+NIV	The desert and the parched land will be glad. the wilderness _will rejoice_ and blossom. Like the crocus,
+ESV	The wilderness and the dry land shall be glad. the desert _shall rejoice_ and blossom like the crocus.
+
+(x)	פָּרֹ֨חַ תִּפְרַ֜ח וְ_תָגֵ֗ל_ אַ֚ף גִּילַ֣ת וְרַנֵּ֔ן כְּבֹ֤וד הַלְּבָנֹון֙ נִתַּן־לָ֔הּ הֲדַ֥ר הַכַּרְמֶ֖ל וְהַשָּׁרֹ֑ון הֵ֛מָּה יִרְא֥וּ כְבֹוד־יְהוָ֖ה הֲדַ֥ר אֱלֹהֵֽינוּ׃ ס (Isa. 35:2)
+NIV	it will burst into bloom. _it will rejoice greatly_ and shout for joy. The glory of Lebanon will be given to it, the splendour of Carmel and Sharon. they will see the glory of the LORD, the splendour of our God.
+ESV	it shall blossom abundantly and _rejoice_ with joy and singing. The glory of Lebanon shall be given to it, the majesty of Carmel and Sharon. They shall see the glory of the Lord, the majesty of our God.
+
+(x)	_תִּגָּל֙_ עֶרְוָתֵ֔ךְ גַּ֥ם תֵּרָאֶ֖ה חֶרְפָּתֵ֑ךְ נָקָ֣ם אֶקָּ֔ח וְלֹ֥א אֶפְגַּ֖ע אָדָֽם׃ ס (Isa. 47:3)
+NIV	Your nakedness _will be exposed_ and your shame uncovered. I will take vengeance. I will spare no-one.”
+ESV	Your nakedness _shall be uncovered_, and your disgrace shall be seen. I will take vengeance, and I will spare no one.
+
+(x)	הָעָם֩ הַזֶּ֨ה הָרָ֜ע הַֽמֵּאֲנִ֣ים׀ לִשְׁמֹ֣ועַ אֶת־דְּבָרַ֗י הַהֹֽלְכִים֙ בִּשְׁרִר֣וּת לִבָּ֔ם וַיֵּלְכ֗וּ אַֽחֲרֵי֙ אֱלֹהִ֣ים אֲחֵרִ֔ים לְעָבְדָ֖ם וּלְהִשְׁתַּחֲוֹ֣ת לָהֶ֑ם וִ_יהִי֙_ כָּאֵזֹ֣ור הַזֶּ֔ה אֲשֶׁ֥ר לֹא־יִצְלַ֖ח לַכֹּֽל׃ (Jer. 13:10)
+NIV	These wicked people, who refuse to listen to my words, who follow the stubbornness of their hearts and go after other gods to serve and worship them, _will be_ like this belt — completely useless!
+ESV	This evil people, who refuse to hear my words, who stubbornly follow their own heart and have gone after other gods to serve them and worship them, _shall be_ like this loincloth, which is good for nothing.
+
+(x)	וַיֹּ֥אמֶר יִרְמְיָ֖הוּ לֹ֣א יִתֵּ֑נוּ שְֽׁמַֽע־נָ֣א׀ בְּקֹ֣ול יְהוָ֗ה לַאֲשֶׁ֤ר אֲנִי֙ דֹּבֵ֣ר אֵלֶ֔יךָ וְיִ֥יטַב לְךָ֖ וּ_תְחִ֥י_ נַפְשֶֽׁךָ׃ (Jer. 38:20)
+NIV	“They will not hand you over,” Jeremiah replied. “Obey the LORD by doing what I tell you. Then it will go well with you, and your life _will be spared_.
+ESV	Jeremiah said, “You shall not be given to them. Obey now the voice of the Lord in what I say to you, and it shall be well with you, and your life _shall be spared_.
+
+(x)	וּלְאֵ֨לֶּה֙ אָמַ֣ר בְּאָזְנַ֔י עִבְר֥וּ בָעִ֛יר אַחֲרָ֖יו וְהַכּ֑וּ אַל־_תָּחֹ֥ס_ עֵינְכֶ֖ם וְאַל־תַּחְמֹֽלוּ׃ (Ezek. 9:5)
+NIV	As I listened, he said to the others, “Follow him through the city and kill, without _showing pity_ or compassion.
+ESV	And to the others he said in my hearing, “Pass through the city after him, and strike. Your eye shall not spare, and you shall show no pity.
+
+(x)	מֹֽאזְנֵי־צֶ֧דֶק וְאֵֽיפַת־צֶ֛דֶק וּבַת־צֶ֖דֶק _יְהִ֥י_ לָכֶֽם׃ (Ezek. 45:10)
+NIV	You _are to use_ accurate scales, an accurate ephah and an accurate bath.
+ESV	“You _shall have_ just balances, a just ephah, and a just bath.
+
+(x)	אֶהְיֶ֤ה כַטַּל֙ לְיִשְׂרָאֵ֔ל יִפְרַ֖ח כַּשֹּֽׁושַׁנָּ֑ה וְ_יַ֥ךְ_ שָׁרָשָׁ֖יו כַּלְּבָנֹֽון׃ (Hos. 14:6)
+NIV	I will be like the dew to Israel. he will blossom like a lily. Like a cedar of Lebanon _he will send down_ his roots.
+ESV	I will be like the dew to Israel. he shall blossom like the lily. _he shall take root_ like the trees of Lebanon.
+
+(x)	יֵֽלְכוּ֙ יֹֽנְקֹותָ֔יו וִ_יהִ֥י_ כַזַּ֖יִת הֹודֹ֑ו וְרֵ֥יחַֽ לֹ֖ו כַּלְּבָנֹֽון׃ (Hos. 14:7)
+NIV	his young shoots will grow. His splendour _will be_ like an olive tree, his fragrance like a cedar of Lebanon.
+ESV	his shoots shall spread out. his beauty _shall be_ like the olive, and his fragrance like Lebanon.
+
+(x)	_תָּרֹ֥ם_ יָדְךָ֖ עַל־צָרֶ֑יךָ וְכָל־אֹיְבֶ֖יךָ יִכָּרֵֽתוּ׃ פ (Mic. 5:8)
+NIV	Your hand _will be lifted up_ in triumph over your enemies, and all your foes will be destroyed.
+ESV	Your hand _shall be lifted up_ over your adversaries, and all your enemies shall be cut off.
+
+(x)	וְהָי֤וּ כְגִבֹּור֙ אֶפְרַ֔יִם וְשָׂמַ֥ח לִבָּ֖ם כְּמֹו־יָ֑יִן וּבְנֵיהֶם֙ יִרְא֣וּ וְשָׂמֵ֔חוּ _יָגֵ֥ל_ לִבָּ֖ם בַּיהוָֽה׃ (Zech. 10:7)
+NIV	The Ephraimites will become like mighty men, and their hearts will be glad as with wine. Their children will see it and be joyful. their hearts _will rejoice_ in the LORD.
+ESV	Then Ephraim shall become like a mighty warrior, and their hearts shall be glad as with wine. Their children shall see it and be glad. their hearts _shall rejoice_ in the Lord.
+
+(x)	וַאֲנִ֤י׀ בְּחַסְדְּךָ֣ בָטַחְתִּי֮ _יָ֤גֵ֥ל_ לִבִּ֗י בִּֽישׁוּעָ֫תֶ֥ךָ אָשִׁ֥ירָה לַיהוָ֑ה כִּ֖י גָמַ֣ל עָלָֽי׃ (Psa. 13:6)
+NIV	But I trust in your unfailing love. my heart _rejoices_ in your salvation.
+ESV	But I have trusted in your steadfast love. my heart _shall rejoice_ in your salvation.
+
+(x)	וַיֹּ֨אמֶר הַמֶּ֤לֶךְ לְאֶסְתֵּר֙ בְּמִשְׁתֵּ֣ה הַיַּ֔יִן מַה־שְּׁאֵלָתֵ֖ךְ וְיִנָּ֣תֵֽן לָ֑ךְ וּמַה־בַּקָּשָׁתֵ֛ךְ עַד־חֲצִ֥י הַמַּלְכ֖וּת וְ_תֵעָֽשׂ_׃ (Esth. 5:6)
+NIV	As they were drinking wine, the king again asked Esther, “Now what is your petition? It will be given you. And what is your request? Even up to half the kingdom, _it will be granted_.”
+ESV	And as they were drinking wine after the feast, the king said to Esther, “What is your wish? It shall be granted you. And what is your request? Even to the half of my kingdom, _it shall be fulfilled_.”
+
+(x)	וַיֹּאמֶר֩ הַמֶּ֨לֶךְ לְאֶסְתֵּ֜ר גַּ֣ם בַּיֹּ֤ום הַשֵּׁנִי֙ בְּמִשְׁתֵּ֣ה הַיַּ֔יִן מַה־שְּׁאֵלָתֵ֛ךְ אֶסְתֵּ֥ר הַמַּלְכָּ֖ה וְתִנָּ֣תֵֽן לָ֑ךְ וּמַה־בַּקָּשָׁתֵ֛ךְ עַד־חֲצִ֥י הַמַּלְכ֖וּת וְ_תֵעָֽשׂ_׃ (Esth. 7:2)
+NIV	and as they were drinking wine on that second day, the king again asked, “Queen Esther, what is your petition? It will be given you. What is your request? Even up to half the kingdom, _it will be granted_.”
+ESV	And on the second day, as they were drinking wine after the feast, the king again said to Esther, “What is your wish, Queen Esther? It shall be granted you. And what is your request? Even to the half of my kingdom, _it shall be fulfilled_.”
+
+(x)	וַיֹּ֨אמֶר הַמֶּ֜לֶךְ לְאֶסְתֵּ֣ר הַמַּלְכָּ֗ה בְּשׁוּשַׁ֣ן הַבִּירָ֡ה הָרְגוּ֩ הַיְּהוּדִ֨ים וְאַבֵּ֜ד חֲמֵ֧שׁ מֵאֹ֣ות אִ֗ישׁ וְאֵת֙ עֲשֶׂ֣רֶת בְּנֵֽי־הָמָ֔ן בִּשְׁאָ֛ר מְדִינֹ֥ות הַמֶּ֖לֶךְ מֶ֣ה עָשׂ֑וּ וּמַה־שְּׁאֵֽלָתֵךְ֙ וְיִנָּ֣תֵֽן לָ֔ךְ וּמַה־בַּקָּשָׁתֵ֥ךְ עֹ֖וד וְ_תֵעָֽשׂ_׃ (Esth. 9:12)
+NIV	The king said to Queen Esther, “The Jews have killed and destroyed five hundred men and the ten sons of Haman in the citadel of Susa. What have they done in the rest of the king’s provinces? Now what is your petition? It will be given you. What is your request? It will also be granted.”
+ESV	And the king said to Queen Esther, “In Susa the citadel the Jews have killed and destroyed 500 men and also the ten sons of Haman. What then have they done in the rest of the king’s provinces! Now what is your wish? It shall be granted you. And what further is your request? _It shall be fulfilled_.”

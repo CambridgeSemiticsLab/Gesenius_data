@@ -1,0 +1,102 @@
+eng_TAMsimp == "PRES PERF" and genre == "prose" and domain2 == "Q" 
+25 of 101
+
+(x)	כִּֽי־מַשְׁחִתִ֣ים אֲנַ֔חְנוּ אֶת־הַמָּקֹ֖ום הַזֶּ֑ה כִּֽי־גָֽדְלָ֤ה צַעֲקָתָם֙ אֶת־פְּנֵ֣י יְהוָ֔ה וַ_יְשַׁלְּחֵ֥נוּ_ יְהוָ֖ה לְשַׁחֲתָֽהּ׃ (Gen. 19:13)
+NIV	because we are going to destroy this place. The outcry to the LORD against its people is so great that _he has sent_ us to destroy it.”
+ESV	For we are about to destroy this place, because the outcry against its people has become great before the Lord, and the Lord _has sent_ us to destroy it.”
+
+(x)	וַיֹּ֤אמֶר אֵלָיו֙ לָבָ֔ן אִם־נָ֛א מָצָ֥אתִי חֵ֖ן בְּעֵינֶ֑יךָ נִחַ֕שְׁתִּי וַ_יְבָרֲכֵ֥נִי_ יְהוָ֖ה בִּגְלָלֶֽךָ׃ (Gen. 30:27)
+NIV	But Laban said to him, “If I have found favor in your eyes, please stay. I have learned by divination that the LORD _has blessed_ me because of you.”
+ESV	But Laban said to him, “If I have found favor in your sight, I have learned by divination that the Lord _has blessed_ me because of you.
+
+(x)	הֲלֹ֧וא נָכְרִיֹּ֛ות נֶחְשַׁ֥בְנוּ לֹ֖ו כִּ֣י מְכָרָ֑נוּ וַ_יֹּ֥אכַל_ גַּם־אָכֹ֖ול אֶת־כַּסְפֵּֽנוּ׃ (Gen. 31:15)
+NIV	Does he not regard us as foreigners? Not only has he sold us, but _he has used up_ what was paid for us.
+ESV	Are we not regarded by him as foreigners? For he has sold us, and he has indeed devoured our money.
+
+(x)	וְנָק֥וּמָה וְנַעֲלֶ֖ה בֵּֽית־אֵ֑ל וְאֶֽעֱשֶׂה־שָּׁ֣ם מִזְבֵּ֗חַ לָאֵ֞ל הָעֹנֶ֤ה אֹתִי֙ בְּיֹ֣ום צָֽרָתִ֔י וַ_יְהִי֙_ עִמָּדִ֔י בַּדֶּ֖רֶךְ אֲשֶׁ֥ר הָלָֽכְתִּי׃ (Gen. 35:3)
+NIV	Then come, let us go up to Bethel, where I will build an altar to God, who answered me in the day of my distress and who _has been_ with me wherever I have gone.”
+ESV	Then let us arise and go up to Bethel, so that I may make there an altar to the God who answers me in the day of my distress and _has been_ with me wherever I have gone.”
+
+(x)	סָ֣רוּ מַהֵ֗ר מִן־הַדֶּ֨רֶךְ֙ אֲשֶׁ֣ר צִוִּיתִ֔ם עָשׂ֣וּ לָהֶ֔ם עֵ֖גֶל מַסֵּכָ֑ה וַ_יִּשְׁתַּֽחֲווּ_־לֹו֙ וַיִּזְבְּחוּ־לֹ֔ו וַיֹּ֣אמְר֔וּ אֵ֤לֶּה אֱלֹהֶ֨יךָ֙ יִשְׂרָאֵ֔ל אֲשֶׁ֥ר הֶֽעֱל֖וּךָ מֵאֶ֥רֶץ מִצְרָֽיִם׃ (Exod. 32:8)
+NIV	They have been quick to turn away from what I commanded them and have made themselves an idol cast in the shape of a calf. _They have bowed down_ to it and sacrificed to it and have said, ‘These are your gods, O Israel, who brought you up out of Egypt.’
+ESV	They have turned aside quickly out of the way that I commanded them. They have made for themselves a golden calf and _have worshiped_ it and sacrificed to it and said, ‘These are your gods, O Israel, who brought you up out of the land of Egypt!’”
+
+(x)	עַ֣ד׀ חֹ֣דֶשׁ יָמִ֗ים עַ֤ד אֲשֶׁר־יֵצֵא֙ מֵֽאַפְּכֶ֔ם וְהָיָ֥ה לָכֶ֖ם לְזָרָ֑א יַ֗עַן כִּֽי־מְאַסְתֶּ֤ם אֶת־יְהוָה֙ אֲשֶׁ֣ר בְּקִרְבְּכֶ֔ם וַ_תִּבְכּ֤וּ_ לְפָנָיו֙ לֵאמֹ֔ר לָ֥מָּה זֶּ֖ה יָצָ֥אנוּ מִמִּצְרָֽיִם׃ (Num. 11:20)
+NIV	but for a whole month — until it comes out of your nostrils and you loathe it — because you have rejected the LORD, who is among you, and _have wailed_ before him, saying, “Why did we ever leave Egypt?”’”
+ESV	but a whole month, until it comes out at your nostrils and becomes loathsome to you, because you have rejected the Lord who is among you and _have wept_ before him, saying, “Why did we come out of Egypt?”’”
+
+(x)	כִּ֣י מִ֣י כָל־בָּשָׂ֡ר אֲשֶׁ֣ר שָׁמַ֣ע קֹול֩ אֱלֹהִ֨ים חַיִּ֜ים מְדַבֵּ֧ר מִתֹּוךְ־הָאֵ֛שׁ כָּמֹ֖נוּ וַ_יֶּֽחִי_׃ (Deut. 5:26)
+NIV	For what mortal man has ever heard the voice of the living God speaking out of fire, as we have, and _survived_?
+ESV	For who is there of all flesh, that has heard the voice of the living God speaking out of the midst of fire as we have, and has still lived?
+
+(x)	וַיֹּ֤אמֶר שְׁמוּאֵל֙ אֶל־כָּל־יִשְׂרָאֵ֔ל הִנֵּה֙ שָׁמַ֣עְתִּי בְקֹֽלְכֶ֔ם לְכֹ֥ל אֲשֶׁר־אֲמַרְתֶּ֖ם לִ֑י וָ_אַמְלִ֥יךְ_ עֲלֵיכֶ֖ם מֶֽלֶךְ׃ (I Sam. 12:1)
+NIV	Samuel said to all Israel, “I have listened to everything you said to me and _have set a king_ over you.
+ESV	And Samuel said to all Israel, “Behold, I have obeyed your voice in all that you have said to me and _have made a king_ over you.
+
+(x)	וַיֹּאמֶר֩ שָׁא֨וּל חָטָ֜אתִי שׁ֣וּב בְּנִֽי־דָוִ֗ד כִּ֠י לֹֽא־אָרַ֤ע לְךָ֙ עֹ֔וד תַּ֠חַת אֲשֶׁ֨ר יָקְרָ֥ה נַפְשִׁ֛י בְּעֵינֶ֖יךָ הַיֹּ֣ום הַזֶּ֑ה הִנֵּ֥ה הִסְכַּ֛לְתִּי וָ_אֶשְׁגֶּ֖ה_ הַרְבֵּ֥ה מְאֹֽד׃ (I Sam. 26:21)
+NIV	Then Saul said, “I have sinned. Come back, David my son. Because you considered my life precious today, I will not try to harm you again. Surely I have acted like a fool and _have erred_ greatly.”
+ESV	Then Saul said, “I have sinned. Return, my son David, for I will no more do you harm, because my life was precious in your eyes this day. Behold, I have acted foolishly, and have made a great mistake.”
+
+(x)	וַיַּ֤עַשׂ יְהוָה֙ לֹ֔ו כַּאֲשֶׁ֖ר דִּבֶּ֣ר בְּיָדִ֑י וַ_יִּקְרַ֨ע_ יְהוָ֤ה אֶת־הַמַּמְלָכָה֙ מִיָּדֶ֔ךָ וַֽיִּתְּנָ֖הּ לְרֵעֲךָ֥ לְדָוִֽד׃ (I Sam. 28:17)
+NIV	The LORD has done what he predicted through me. The LORD _has torn_ the kingdom out of your hands and given it to one of your neighbours — to David.
+ESV	The Lord has done to you as he spoke by me, for the Lord _has torn_ the kingdom out of your hand and given it to your neighbor, David.
+
+(x)	וָאֶהְיֶ֣ה עִמְּךָ֗ בְּכֹל֙ אֲשֶׁ֣ר הָלַ֔כְתָּ וָ_אַכְרִ֥תָה_ אֶת־כָּל־אֹיְבֶ֖יךָ מִפָּנֶ֑יךָ וְעָשִׂ֤תִֽי לְךָ֙ שֵׁ֣ם גָּדֹ֔ול כְּשֵׁ֥ם הַגְּדֹלִ֖ים אֲשֶׁ֥ר בָּאָֽרֶץ׃ (II Sam. 7:9)
+NIV	I have been with you wherever you have gone, and _I have cut off_ all your enemies from before you. Now I will make your name great, like the names of the greatest men of the earth.
+ESV	And I have been with you wherever you went and _have cut off_ all your enemies from before you. And I will make for you a great name, like the name of the great ones of the earth.
+
+(x)	וַ_יְרַגֵּ֣ל_ בְּעַבְדְּךָ֔ אֶל־אֲדֹנִ֖י הַמֶּ֑לֶךְ וַאדֹנִ֤י הַמֶּ֨לֶךְ֙ כְּמַלְאַ֣ךְ הָאֱלֹהִ֔ים וַעֲשֵׂ֥ה הַטֹּ֖וב בְּעֵינֶֽיךָ׃ (II Sam. 19:28)
+NIV	And _he has slandered_ your servant to my lord the king. My lord the king is like an angel of God. so do whatever pleases you.
+ESV	_He has slandered_ your servant to my lord the king. But my lord the king is like the angel of God. do therefore what seems good to you.
+
+(x)	וַ_יִּשְׁלַ֣ח_ אִתֹּֽו־הַ֠מֶּלֶךְ אֶת־צָדֹ֨וק הַכֹּהֵ֜ן וְאֶת־נָתָ֣ן הַנָּבִ֗יא וּבְנָיָ֨הוּ֙ בֶּן־יְהֹ֣ויָדָ֔ע וְהַכְּרֵתִ֖י וְהַפְּלֵתִ֑י וַיַּרְכִּ֣בוּ אֹתֹ֔ו עַ֖ל פִּרְדַּ֥ת הַמֶּֽלֶךְ׃ (I Kgs. 1:44)
+NIV	The king _has sent_ with him Zadok the priest, Nathan the prophet, Benaiah son of Jehoiada, the Kerethites and the Pelethites, and they have put him on the king’s mule,
+ESV	and the king _has sent_ with him Zadok the priest, Nathan the prophet, and Benaiah the son of Jehoiada, and the Cherethites and the Pelethites. And they had him ride on the king’s mule.
+
+(x)	וַ_יָּ֣קֶם_ יְהוָ֔ה אֶת־דְּבָרֹ֖ו אֲשֶׁ֣ר דִּבֵּ֑ר וָאָקֻ֡ם תַּחַת֩ דָּוִ֨ד אָבִ֜י וָאֵשֵׁ֣ב עַל־כִּסֵּ֣א יִשְׂרָאֵ֗ל כַּֽאֲשֶׁר֙ דִּבֶּ֣ר יְהוָ֔ה וָאֶבְנֶ֣ה הַבַּ֔יִת לְשֵׁ֥ם יְהוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃ (I Kgs. 8:20)
+NIV	“The LORD _has kept_ the promise he made: I have succeeded David my father and now I sit on the throne of Israel, just as the LORD promised, and I have built the temple for the Name of the LORD, the God of Israel.
+ESV	Now the Lord _has fulfilled_ his promise that he made. For I have risen in the place of David my father, and sit on the throne of Israel, as the Lord promised, and I have built the house for the name of the Lord, the God of Israel.
+
+(x)	יְהִ֨י יְהוָ֤ה אֱלֹהֶ֨יךָ֙ בָּר֔וּךְ אֲשֶׁר֙ חָפֵ֣ץ בְּךָ֔ לְתִתְּךָ֖ עַל־כִּסֵּ֣א יִשְׂרָאֵ֑ל בְּאַהֲבַ֨ת יְהוָ֤ה אֶת־יִשְׂרָאֵל֙ לְעֹלָ֔ם וַ_יְשִֽׂימְךָ֣_ לְמֶ֔לֶךְ לַעֲשֹׂ֥ות מִשְׁפָּ֖ט וּצְדָקָֽה׃ (I Kgs. 10:9)
+NIV	Praise be to the LORD your God, who has delighted in you and placed you on the throne of Israel. Because of the LORD’s eternal love for Israel, _he has made_ you king, to maintain justice and righteousness.”
+ESV	Blessed be the Lord your God, who has delighted in you and set you on the throne of Israel! Because the Lord loved Israel forever, _he has made_ you king, that you may execute justice and righteousness.”
+
+(x)	וְנָתַתִּ֣י אֶת־בֵּיתְךָ֗ כְּבֵית֙ יָרָבְעָ֣ם בֶּן־נְבָ֔ט וּכְבֵ֖ית בַּעְשָׁ֣א בֶן־אֲחִיָּ֑ה אֶל־הַכַּ֨עַס֙ אֲשֶׁ֣ר הִכְעַ֔סְתָּ וַֽ_תַּחֲטִ֖א_ אֶת־יִשְׂרָאֵֽל׃ (I Kgs. 21:22)
+NIV	I will make your house like that of Jeroboam son of Nebat and that of Baasha son of Ahijah, because you have provoked me to anger and have caused Israel to sin.’
+ESV	And I will make your house like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah, for the anger to which you have provoked me, and because you have made Israel to sin.
+
+(x)	וַיָּבֹ֞א שָׁפָ֤ן הַסֹּפֵר֙ אֶל־הַמֶּ֔לֶךְ וַיָּ֥שֶׁב אֶת־הַמֶּ֖לֶךְ דָּבָ֑ר וַיֹּ֗אמֶר הִתִּ֤יכוּ עֲבָדֶ֨יךָ֙ אֶת־הַכֶּ֨סֶף֙ הַנִּמְצָ֣א בַבַּ֔יִת וַֽ_יִּתְּנֻ֗הוּ_ עַל־יַד֙ עֹשֵׂ֣י הַמְּלָאכָ֔ה הַמֻּפְקָדִ֖ים בֵּ֥ית יְהוָֽה׃ (II Kgs. 22:9)
+NIV	Then Shaphan the secretary went to the king and reported to him: “Your officials have paid out the money that was in the temple of the LORD and _have entrusted_ it to the workers and supervisors at the temple.”
+ESV	And Shaphan the secretary came to the king, and reported to the king, “Your servants have emptied out the money that was found in the house and _have delivered_ it into the hand of the workmen who have the oversight of the house of the Lord.”
+
+(x)	עֹ֣וד׀ זֶ֣ה מְדַבֵּ֗ר וְזֶה֮ בָּ֣א וַיֹּאמַר֒ אֵ֣שׁ אֱלֹהִ֗ים נָֽפְלָה֙ מִן־הַשָּׁמַ֔יִם וַתִּבְעַ֥ר בַּצֹּ֛אן וּבַנְּעָרִ֖ים וַתֹּאכְלֵ֑ם וָ_אִמָּ֨לְטָ֧ה_ רַק־אֲנִ֛י לְבַדִּ֖י לְהַגִּ֥יד לָֽךְ׃ (Job 1:16)
+NIV	While he was still speaking, another messenger came and said, “The fire of God fell from the sky and burned up the sheep and the servants, and I am the only one who _has escaped_ to tell you!”
+ESV	While he was yet speaking, there came another and said, “The fire of God fell from heaven and burned up the sheep and the servants and consumed them, and I alone _have escaped_ to tell you.”
+
+(x)	וְכָל־יִשְׂרָאֵ֗ל עָֽבְרוּ֙ אֶת־תֹּ֣ורָתֶ֔ךָ וְסֹ֕ור לְבִלְתִּ֖י שְׁמֹ֣ועַ בְּקֹלֶ֑ךָ וַ_תִּתַּ֨ךְ_ עָלֵ֜ינוּ הָאָלָ֣ה וְהַשְּׁבֻעָ֗ה אֲשֶׁ֤ר כְּתוּבָה֙ בְּתֹורַת֙ מֹשֶׁ֣ה עֶֽבֶד־הָֽאֱלֹהִ֔ים כִּ֥י חָטָ֖אנוּ לֹֽו׃ (Dan. 9:11)
+NIV	All Israel has transgressed your law and turned away, refusing to obey you. “Therefore the curses and sworn judgments written in the Law of Moses, the servant of God, _have been poured out_ on us, because we have sinned against you.
+ESV	All Israel has transgressed your law and turned aside, refusing to obey your voice. And the curse and oath that are written in the Law of Moses the servant of God _have been poured out_ upon us, because we have sinned against him.
+
+(x)	וָֽאֶהְיֶ֣ה עִמְּךָ֗ בְּכֹל֙ אֲשֶׁ֣ר הָלַ֔כְתָּ וָ_אַכְרִ֥ית_ אֶת־כָּל־אֹויְבֶ֖יךָ מִפָּנֶ֑יךָ וְעָשִׂ֤יתִֽי לְךָ֙ שֵׁ֔ם כְּשֵׁ֥ם הַגְּדֹולִ֖ים אֲשֶׁ֥ר בָּאָֽרֶץ׃ (I Chr. 17:8)
+NIV	I have been with you wherever you have gone, and _I have cut off_ all your enemies from before you. Now I will make your name like the names of the greatest men of the earth.
+ESV	and I have been with you wherever you have gone and _have cut off_ all your enemies from before you. And I will make for you a name, like the name of the great ones of the earth.
+
+(x)	וָ_אֶבְחַר֙_ בִּיר֣וּשָׁלִַ֔ם לִהְיֹ֥ות שְׁמִ֖י שָׁ֑ם וָאֶבְחַ֣ר בְּדָוִ֔יד לִהְיֹ֖ות עַל־עַמִּ֥י יִשְׂרָאֵֽל׃ (II Chr. 6:6)
+NIV	But now _I have chosen_ Jerusalem for my Name to be there, and _I have chosen_ David to rule my people Israel.’
+ESV	but _I have chosen_ Jerusalem that my name may be there, and _I have chosen_ David to be over my people Israel.’
+
+(x)	וַיָּ֣קֶם יְהוָ֔ה אֶת־דְּבָרֹ֖ו אֲשֶׁ֣ר דִּבֵּ֑ר וָאָק֡וּם תַּחַת֩ דָּוִ֨יד אָבִ֜י וָאֵשֵׁ֣ב׀ עַל־כִּסֵּ֣א יִשְׂרָאֵ֗ל כַּאֲשֶׁר֙ דִּבֶּ֣ר יְהוָ֔ה וָ_אֶבְנֶ֣ה_ הַבַּ֔יִת לְשֵׁ֥ם יְהוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃ (II Chr. 6:10)
+NIV	“The LORD has kept the promise he made. I have succeeded David my father and now I sit on the throne of Israel, just as the LORD promised, and _I have built_ the temple for the Name of the LORD, the God of Israel.
+ESV	Now the Lord has fulfilled his promise that he made. For I have risen in the place of David my father and sit on the throne of Israel, as the Lord promised, and _I have built_ the house for the name of the Lord, the God of Israel.
+
+(x)	וַ_יֵּשְׁב֖וּ_־בָ֑הּ וַיִּבְנ֨וּ לְךָ֧׀ בָּ֛הּ מִקְדָּ֖שׁ לְשִׁמְךָ֥ לֵאמֹֽר׃ (II Chr. 20:8)
+NIV	_They have lived_ in it and have built in it a sanctuary for your Name, saying,
+ESV	And _they have lived_ in it and have built for you in it a sanctuary for your name, saying,
+
+(x)	וְר֣וּחַ אֱלֹהִ֗ים לָֽבְשָׁה֙ אֶת־זְכַרְיָה֙ בֶּן־יְהֹויָדָ֣ע הַכֹּהֵ֔ן וַֽיַּעֲמֹ֖ד מֵעַ֣ל לָעָ֑ם וַיֹּ֨אמֶר לָהֶ֜ם כֹּ֣ה׀ אָמַ֣ר הָאֱלֹהִ֗ים לָמָה֩ אַתֶּ֨ם עֹבְרִ֜ים אֶת־מִצְוֹ֤ת יְהוָה֙ וְלֹ֣א תַצְלִ֔יחוּ כִּֽי־עֲזַבְתֶּ֥ם אֶת־יְהוָ֖ה וַ_יַּֽעֲזֹ֥ב_ אֶתְכֶֽם׃ (II Chr. 24:20)
+NIV	Then the Spirit of God came upon Zechariah son of Jehoiada the priest. He stood before the people and said, “This is what God says: ‘Why do you disobey the LORD’s commands? You will not prosper. Because you have forsaken the LORD, _he has forsaken_ you.’”
+ESV	Then the Spirit of God clothed Zechariah the son of Jehoiada the priest, and he stood above the people, and said to them, “Thus says God, ‘Why do you break the commandments of the Lord, so that you cannot prosper? Because you have forsaken the Lord, _he has forsaken_ you.’”
+
+(x)	וַיַּתִּ֕יכוּ אֶת־הַכֶּ֖סֶף הַנִּמְצָ֣א בְּבֵית־יְהוָ֑ה וַֽ_יִּתְּנ֗וּהוּ_ עַל־יַד֙ הַמֻּפְקָדִ֔ים וְעַל־יַ֖ד עֹושֵׂ֥י הַמְּלָאכָֽה׃ (II Chr. 34:17)
+NIV	They have paid out the money that was in the temple of the LORD and _have entrusted_ it to the supervisors and workers.”
+ESV	They have emptied out the money that was found in the house of the Lord and _have given_ it into the hand of the overseers and the workmen.”

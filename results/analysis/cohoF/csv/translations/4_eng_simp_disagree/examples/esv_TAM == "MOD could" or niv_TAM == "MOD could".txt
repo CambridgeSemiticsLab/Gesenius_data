@@ -1,0 +1,6 @@
+esv_TAM == "MOD could" or niv_TAM == "MOD could"
+1 of 1
+
+(x)	מִֽי־הִגִּ֤יד מֵרֹאשׁ֙ וְ_נֵדָ֔עָה_ וּמִלְּפָנִ֖ים וְנֹאמַ֣ר צַדִּ֑יק אַ֣ף אֵין־מַגִּ֗יד אַ֚ף אֵ֣ין מַשְׁמִ֔יעַ אַ֥ף אֵין־שֹׁמֵ֖עַ אִמְרֵיכֶֽם׃ (Isa. 41:26)
+NIV	Who told of this from the beginning, so that _we could know_, or beforehand, so that we could say, ‘He was right’? No-one told of this, no-one foretold it, no-one heard any words from you.
+ESV	Who declared it from the beginning, that _we might know_, and beforehand, that we might say, “He is right”? There was none who declared it, none who proclaimed, none who heard your words.

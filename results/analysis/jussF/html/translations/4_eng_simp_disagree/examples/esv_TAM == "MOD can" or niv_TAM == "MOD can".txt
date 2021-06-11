@@ -1,0 +1,18 @@
+esv_TAM == "MOD can" or niv_TAM == "MOD can"
+4 of 4
+
+(x)	וַיֹּ֣אמֶר יֹואָ֡שׁ לְכֹל֩ אֲשֶׁר־עָמְד֨וּ עָלָ֜יו הַאַתֶּ֣ם׀ תְּרִיב֣וּן לַבַּ֗עַל אִם־אַתֶּם֙ תֹּושִׁיע֣וּן אֹותֹ֔ו אֲשֶׁ֨ר יָרִ֥יב לֹ֛ו יוּמַ֖ת עַד־הַבֹּ֑קֶר אִם־אֱלֹהִ֥ים הוּא֙ _יָ֣רֶב_ לֹ֔ו כִּ֥י נָתַ֖ץ אֶֽת־מִזְבְּחֹֽו׃ (Judg. 6:31)
+NIV	But Joash replied to the hostile crowd around him, “Are you going to plead Baal’s cause? Are you trying to save him? Whoever fights for him shall be put to death by morning! If Baal really is a god, _he can defend_ himself when someone breaks down his altar.”
+ESV	But Joash said to all who stood against him, “Will you contend for Baal? Or will you save him? Whoever contends for him shall be put to death by morning. If he is a god, _let him contend_ for himself, because his altar has been broken down.”
+
+(x)	מִֽי־הָאִ֤ישׁ הֶֽחָכָם֙ וְ_יָבֵ֣ן_ אֶת־זֹ֔את וַאֲשֶׁ֨ר דִּבֶּ֧ר פִּֽי־יְהוָ֛ה אֵלָ֖יו וְיַגִּדָ֑הּ עַל־מָה֙ אָבְדָ֣ה הָאָ֔רֶץ נִצְּתָ֥ה כַמִּדְבָּ֖ר מִבְּלִ֖י עֹבֵֽר׃ ס (Jer. 9:11)
+NIV	What man is wise enough to _understand_ this? Who has been instructed by the LORD and can explain it? Why has the land been ruined and laid waste like a desert that no-one can cross?
+ESV	Who is the man so wise that _he can understand_ this? To whom has the mouth of the Lord spoken, that he may declare it? Why is the land ruined and laid waste like a wilderness, so that no one passes through?
+
+(x)	ה֖וּא רֵאשִׁ֣ית דַּרְכֵי־אֵ֑ל הָ֝עֹשֹׂו _יַגֵּ֥שׁ_ חַרְבֹּֽו׃ (Job 40:19)
+NIV	He ranks first among the works of God, yet his Maker _can approach_ him with his sword.
+ESV	“He is the first of the works of God. let him who made him bring near his sword!
+
+(x)	כַּאֲשֶׁ֤ר יָצָא֙ מִבֶּ֣טֶן אִמֹּ֔ו עָרֹ֛ום יָשׁ֥וּב לָלֶ֖כֶת כְּשֶׁבָּ֑א וּמְא֨וּמָה֙ לֹא־יִשָּׂ֣א בַעֲמָלֹ֔ו שֶׁ_יֹּלֵ֖ךְ_ בְּיָדֹֽו׃ (Eccl. 5:14)
+NIV	Naked a man comes from his mother’s womb, and as he comes, so he departs. He takes nothing from his labour that _he can carry_ in his hand.
+ESV	As he came from his mother’s womb he shall go again, naked as he came, and shall take nothing for his toil that _he may carry away_ in his hand.

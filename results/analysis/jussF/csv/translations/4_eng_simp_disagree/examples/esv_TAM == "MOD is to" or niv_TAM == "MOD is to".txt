@@ -1,0 +1,14 @@
+esv_TAM == "MOD is to" or niv_TAM == "MOD is to"
+3 of 3
+
+(x)	וַיֹּ֥אמֶר מֹשֶׁ֖ה אֲלֵהֶ֑ם אִ֕ישׁ אַל־_יֹותֵ֥ר_ מִמֶּ֖נּוּ עַד־בֹּֽקֶר׃ (Exod. 16:19)
+NIV	Then Moses said to them, “No one _is to keep_ any of it until morning.”
+ESV	And Moses said to them, “Let no one leave any of it over till the morning.”
+
+(x)	יַ֣יִן וְשֵׁכָ֞ר אַל־_תֵּ֣שְׁתְּ_׀ אַתָּ֣ה׀ וּבָנֶ֣יךָ אִתָּ֗ךְ בְּבֹאֲכֶ֛ם אֶל־אֹ֥הֶל מֹועֵ֖ד וְלֹ֣א תָמֻ֑תוּ חֻקַּ֥ת עֹולָ֖ם לְדֹרֹתֵיכֶֽם׃ (Lev. 10:9)
+NIV	“You and your sons are not to drink wine or other fermented drink whenever you go into the Tent of Meeting, or you will die. This is a lasting ordinance for the generations to come.
+ESV	“_Drink_ no wine or strong drink, you or your sons with you, when you go into the tent of meeting, lest you die. It shall be a statute forever throughout your generations.
+
+(x)	מֹֽאזְנֵי־צֶ֧דֶק וְאֵֽיפַת־צֶ֛דֶק וּבַת־צֶ֖דֶק _יְהִ֥י_ לָכֶֽם׃ (Ezek. 45:10)
+NIV	You _are to use_ accurate scales, an accurate ephah and an accurate bath.
+ESV	“You _shall have_ just balances, a just ephah, and a just bath.

@@ -1,0 +1,30 @@
+esv_TAM == "PRES PART" or niv_TAM == "PRES PART"
+7 of 7
+
+(x)	וְהִתְוַדּ֗וּ אֶֽת־חַטָּאתָם֮ אֲשֶׁ֣ר עָשׂוּ֒ וְהֵשִׁ֤יב אֶת־אֲשָׁמֹו֙ בְּרֹאשֹׁ֔ו וַחֲמִישִׁתֹ֖ו _יֹסֵ֣ף_ עָלָ֑יו וְנָתַ֕ן לַאֲשֶׁ֖ר אָשַׁ֥ם לֹֽו׃ (Num. 5:7)
+NIV	and must confess the sin he has committed. He must make full restitution for his wrong, _add_ one fifth to it and give it all to the person he has wronged.
+ESV	he shall confess his sin that he has committed. And he shall make full restitution for his wrong, _adding_ a fifth to it and giving it to him to whom he did the wrong.
+
+(x)	וַיְהִ֣י׀ בַּיֹּ֣ום הַשְּׁבִיעִ֗י וַיֹּאמְר֤וּ לְאֵֽשֶׁת־שִׁמְשֹׁון֙ פַּתִּ֣י אֶת־אִישֵׁ֗ךְ וְ_יַגֶּד_־לָ֨נוּ֙ אֶת־הַ֣חִידָ֔ה פֶּן־נִשְׂרֹ֥ף אֹותָ֛ךְ וְאֶת־בֵּ֥ית אָבִ֖יךְ בָּאֵ֑שׁ הַלְיָרְשֵׁ֕נוּ קְרָאתֶ֥ם לָ֖נוּ הֲלֹֽא׃ (Judg. 14:15)
+NIV	On the fourth day, they said to Samson’s wife, “Coax your husband into _explaining_ the riddle for us, or we will burn you and your father’s household to death. Did you invite us here to rob us?”
+ESV	On the fourth day they said to Samson’s wife, “Entice your husband to _tell_ us what the riddle is, lest we burn you and your father’s house with fire. Have you invited us here to impoverish us?”
+
+(x)	וַיֹּ֣אמֶר יְהוָ֗ה מִ֤י יְפַתֶּה֙ אֶת־אַחְאָ֔ב וְ_יַ֕עַל_ וְיִפֹּ֖ל בְּרָמֹ֣ת גִּלְעָ֑ד וַיֹּ֤אמֶר זֶה֙ בְּכֹ֔ה וְזֶ֥ה אֹמֵ֖ר בְּכֹֽה׃ (I Kgs. 22:20)
+NIV	And the LORD said, ‘Who will entice Ahab into _attacking_ Ramoth Gilead and going to his death there?’ “One suggested this, and another that.
+ESV	and the Lord said, ‘Who will entice Ahab, that _he may go up_ and fall at Ramoth-gilead?’ And one said one thing, and another said another.
+
+(x)	וּלְאֵ֨לֶּה֙ אָמַ֣ר בְּאָזְנַ֔י עִבְר֥וּ בָעִ֛יר אַחֲרָ֖יו וְהַכּ֑וּ אַל־_תָּחֹ֥ס_ עֵינְכֶ֖ם וְאַל־תַּחְמֹֽלוּ׃ (Ezek. 9:5)
+NIV	As I listened, he said to the others, “Follow him through the city and kill, without _showing pity_ or compassion.
+ESV	And to the others he said in my hearing, “Pass through the city after him, and strike. Your eye shall not spare, and you shall show no pity.
+
+(x)	וְיֵ֤ט יָדֹו֙ עַל־צָפֹ֔ון וִֽיאַבֵּ֖ד אֶת־אַשּׁ֑וּר וְ_יָשֵׂ֤ם_ אֶת־נִֽינְוֵה֙ לִשְׁמָמָ֔ה צִיָּ֖ה כַּמִּדְבָּֽר׃ (Zeph. 2:13)
+NIV	He will stretch out his hand against the north and destroy Assyria, _leaving_ Nineveh utterly desolate and dry as the desert.
+ESV	And he will stretch out his hand against the north and destroy Assyria, and _he will make_ Nineveh a desolation, a dry waste like the desert.
+
+(x)	אַל־_יַאֲמֵ֣ן_ בַּשָּׁ֣יו נִתְעָ֑ה כִּי־שָׁ֝֗וְא תִּהְיֶ֥ה תְמוּרָתֹֽו׃ (Job 15:31)
+NIV	Let him not deceive himself by _trusting_ what is worthless, for he will get nothing in return.
+ESV	Let him not trust in emptiness, deceiving himself, for emptiness will be his payment.
+
+(x)	הִ֭שָּׁמֶר אַל־_תֵּ֣פֶן_ אֶל־אָ֑וֶן כִּֽי־עַל־זֶ֝֗ה בָּחַ֥רְתָּ מֵעֹֽנִי׃ (Job 36:21)
+NIV	Beware of _turning_ to evil, which you seem to prefer to affliction.
+ESV	Take care. do not turn to iniquity, for this you have chosen rather than affliction.

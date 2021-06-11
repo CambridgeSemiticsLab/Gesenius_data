@@ -1,0 +1,42 @@
+eng_TAMsimp == "PAST PERF"and genre == "list" and domain2 == "N" 
+10 of 10
+
+(x)	וַֽ_יְחִ֣י_ אָדָ֗ם שְׁלֹשִׁ֤ים וּמְאַת֙ שָׁנָ֔ה וַיֹּ֥ולֶד בִּדְמוּתֹ֖ו כְּצַלְמֹ֑ו וַיִּקְרָ֥א אֶת־שְׁמֹ֖ו שֵֽׁת׃ (Gen. 5:3)
+NIV	When Adam _had lived_ 130 years, he had a son in his own likeness, in his own image. and he named him Seth.
+ESV	When Adam _had lived_ 130 years, he fathered a son in his own likeness, after his image, and named him Seth.
+
+(x)	וַֽ_יְחִי_־שֵׁ֕ת חָמֵ֥שׁ שָׁנִ֖ים וּמְאַ֣ת שָׁנָ֑ה וַיֹּ֖ולֶד אֶת־אֱנֹֽושׁ׃ (Gen. 5:6)
+NIV	When Seth _had lived_ 105 years, he became the father of Enosh.
+ESV	When Seth _had lived_ 105 years, he fathered Enosh.
+
+(x)	וַֽ_יְחִ֥י_ אֱנֹ֖ושׁ תִּשְׁעִ֣ים שָׁנָ֑ה וַיֹּ֖ולֶד אֶת־קֵינָֽן׃ (Gen. 5:9)
+NIV	When Enosh _had lived_ 90 years, he became the father of Kenan.
+ESV	When Enosh _had lived_ 90 years, he fathered Kenan.
+
+(x)	וַֽ_יְחִ֥י_ קֵינָ֖ן שִׁבְעִ֣ים שָׁנָ֑ה וַיֹּ֖ולֶד אֶת־מַֽהֲלַלְאֵֽל׃ (Gen. 5:12)
+NIV	When Kenan _had lived_ 70 years, he became the father of Mahalalel.
+ESV	When Kenan _had lived_ 70 years, he fathered Mahalalel.
+
+(x)	וַֽ_יְחִ֣י_ מַֽהֲלַלְאֵ֔ל חָמֵ֥שׁ שָׁנִ֖ים וְשִׁשִּׁ֣ים שָׁנָ֑ה וַיֹּ֖ולֶד אֶת־יָֽרֶד׃ (Gen. 5:15)
+NIV	When Mahalalel _had lived_ 65 years, he became the father of Jared.
+ESV	When Mahalalel _had lived_ 65 years, he fathered Jared.
+
+(x)	וַֽ_יְחִי_־יֶ֕רֶד שְׁתַּ֧יִם וְשִׁשִּׁ֛ים שָׁנָ֖ה וּמְאַ֣ת שָׁנָ֑ה וַיֹּ֖ולֶד אֶת־חֲנֹֽוךְ׃ (Gen. 5:18)
+NIV	When Jared _had lived_ 162 years, he became the father of Enoch.
+ESV	When Jared _had lived_ 162 years he fathered Enoch.
+
+(x)	וַֽ_יְחִ֣י_ חֲנֹ֔וךְ חָמֵ֥שׁ וְשִׁשִּׁ֖ים שָׁנָ֑ה וַיֹּ֖ולֶד אֶת־מְתוּשָֽׁלַח׃ (Gen. 5:21)
+NIV	When Enoch _had lived_ 65 years, he became the father of Methuselah.
+ESV	When Enoch _had lived_ 65 years, he fathered Methuselah.
+
+(x)	וַ_יְחִ֣י_ מְתוּשֶׁ֔לַח שֶׁ֧בַע וּשְׁמֹנִ֛ים שָׁנָ֖ה וּמְאַ֣ת שָׁנָ֑ה וַיֹּ֖ולֶד אֶת־לָֽמֶךְ׃ (Gen. 5:25)
+NIV	When Methuselah _had lived_ 187 years, he became the father of Lamech.
+ESV	When Methuselah _had lived_ 187 years, he fathered Lamech.
+
+(x)	וַֽ_יְחִי_־לֶ֕מֶךְ שְׁתַּ֧יִם וּשְׁמֹנִ֛ים שָׁנָ֖ה וּמְאַ֣ת שָׁנָ֑ה וַיֹּ֖ולֶד בֵּֽן׃ (Gen. 5:28)
+NIV	When Lamech _had lived_ 182 years, he had a son.
+ESV	When Lamech _had lived_ 182 years, he fathered a son
+
+(x)	כָּל־מַמְלְכ֥וּת עֹוג֙ בַּבָּשָׁ֔ן אֲשֶׁר־מָלַ֥ךְ בְּעַשְׁתָּרֹ֖ות וּבְאֶדְרֶ֑עִי ה֤וּא נִשְׁאַר֙ מִיֶּ֣תֶר הָרְפָאִ֔ים וַ_יַּכֵּ֥ם_ מֹשֶׁ֖ה וַיֹּרִשֵֽׁם׃ (Josh. 13:12)
+NIV	that is, the whole kingdom of Og in Bashan, who had reigned in Ashtaroth and Edrei and had survived as one of the last of the Rephaites. Moses _had defeated_ them and taken over their land.
+ESV	all the kingdom of Og in Bashan, who reigned in Ashtaroth and in Edrei ( he alone was left of the remnant of the Rephaim ). these Moses _had struck_ and driven out.

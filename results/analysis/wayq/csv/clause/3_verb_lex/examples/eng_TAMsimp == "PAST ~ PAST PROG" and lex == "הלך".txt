@@ -1,0 +1,22 @@
+eng_TAMsimp == "PAST ~ PAST PROG" and lex == "הלך"
+5 of 5
+
+(x)	וַיְשַׁלַּ֥ח אֶת־אֶחָ֖יו וַ_יֵּלֵ֑כוּ_ וַיֹּ֣אמֶר אֲלֵהֶ֔ם אַֽל־תִּרְגְּז֖וּ בַּדָּֽרֶךְ׃ (Gen. 45:24)
+NIV	Then he sent his brothers away, and as _they were leaving_ he said to them, “Don’t quarrel on the way!”
+ESV	Then he sent his brothers away, and as _they departed_, he said to them, “Do not quarrel on the way.”
+
+(x)	וַ_יֵּ֨לֶךְ֙_ הַפְּלִשְׁתִּ֔י הֹלֵ֥ךְ וְקָרֵ֖ב אֶל־דָּוִ֑ד וְהָאִ֛ישׁ נֹשֵׂ֥א הַצִּנָּ֖ה לְפָנָֽיו׃ (I Sam. 17:41)
+NIV	Meanwhile, the Philistine, with his shield-bearer in front of him, _kept_ coming closer to David.
+ESV	And the Philistine _moved forward_ and came near to David, with his shield-bearer in front of him.
+
+(x)	וַיָּקָם֩ דָּוִ֨ד וַאֲנָשָׁ֜יו כְּשֵׁשׁ־מֵאֹ֣ות אִ֗ישׁ וַיֵּצְאוּ֙ מִקְּעִלָ֔ה וַ_יִּֽתְהַלְּכ֖וּ_ בַּאֲשֶׁ֣ר יִתְהַלָּ֑כוּ וּלְשָׁא֣וּל הֻגַּ֗ד כִּֽי־נִמְלַ֤ט דָּוִד֙ מִקְּעִילָ֔ה וַיֶּחְדַּ֖ל לָצֵֽאת׃ (I Sam. 23:13)
+NIV	So David and his men, about six hundred in number, left Keilah and _kept moving_ from place to place. When Saul was told that David had escaped from Keilah, he did not go there.
+ESV	Then David and his men, who were about six hundred, arose and departed from Keilah, and _they went_ wherever they could go. When Saul was told that David had escaped from Keilah, he gave up the expedition.
+
+(x)	וַ_יֵּ֨לֶךְ_ שָׁא֜וּל מִצַּ֤ד הָהָר֙ מִזֶּ֔ה וְדָוִ֧ד וַאֲנָשָׁ֛יו מִצַּ֥ד הָהָ֖ר מִזֶּ֑ה וַיְהִ֨י דָוִ֜ד נֶחְפָּ֤ז לָלֶ֨כֶת֙ מִפְּנֵ֣י שָׁא֔וּל וְשָׁא֣וּל וַאֲנָשָׁ֗יו עֹֽטְרִ֛ים אֶל־דָּוִ֥ד וְאֶל־אֲנָשָׁ֖יו לְתָפְשָֽׂם׃ (I Sam. 23:26)
+NIV	Saul _was going_ along one side of the mountain, and David and his men were on the other side, hurrying to get away from Saul. As Saul and his forces were closing in on David and his men to capture them,
+ESV	Saul _went_ on one side of the mountain, and David and his men on the other side of the mountain. And David was hurrying to get away from Saul. As Saul and his men were closing in on David and his men to capture them,
+
+(x)	וַיְהִ֣י׀ לְעֵ֣ת הָעֶ֗רֶב וַיָּ֨קָם דָּוִ֜ד מֵעַ֤ל מִשְׁכָּבֹו֙ וַ_יִּתְהַלֵּךְ֙_ עַל־גַּ֣ג בֵּית־הַמֶּ֔לֶךְ וַיַּ֥רְא אִשָּׁ֛ה רֹחֶ֖צֶת מֵעַ֣ל הַגָּ֑ג וְהָ֣אִשָּׁ֔ה טֹובַ֥ת מַרְאֶ֖ה מְאֹֽד׃ (II Sam. 11:2)
+NIV	One evening David got up from his bed and _walked around_ on the roof of the palace. From the roof he saw a woman bathing. The woman was very beautiful,
+ESV	It happened, late one afternoon, when David arose from his couch and _was walking_ on the roof of the king’s house, that he saw from the roof a woman bathing. and the woman was very beautiful.

@@ -1,0 +1,102 @@
+eng_TAMsimp == "PAST" and lex == "בוא"
+25 of 595
+
+(x)	וַיִּצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים מִן־הָֽאֲדָמָ֗ה כָּל־חַיַּ֤ת הַשָּׂדֶה֙ וְאֵת֙ כָּל־עֹ֣וף הַשָּׁמַ֔יִם וַ_יָּבֵא֙_ אֶל־הָ֣אָדָ֔ם לִרְאֹ֖ות מַה־יִּקְרָא־לֹ֑ו וְכֹל֩ אֲשֶׁ֨ר יִקְרָא־לֹ֧ו הָֽאָדָ֛ם נֶ֥פֶשׁ חַיָּ֖ה ה֥וּא שְׁמֹֽו׃ (Gen. 2:19)
+NIV	Now the LORD God had formed out of the ground all the beasts of the field and all the birds of the air. _He brought_ them to the man to see what he would name them. and whatever the man called each living creature, that was its name.
+ESV	Now out of the ground the Lord God had formed every beast of the field and every bird of the heavens and _brought_ them to the man to see what he would call them. And whatever the man called every living creature, that was its name.
+
+(x)	וַיְהִ֣י׀ בַּיֹּ֣ום הַה֗וּא וַ_יָּבֹ֨אוּ֙_ עַבְדֵ֣י יִצְחָ֔ק וַיַּגִּ֣דוּ לֹ֔ו עַל־אֹדֹ֥ות הַבְּאֵ֖ר אֲשֶׁ֣ר חָפָ֑רוּ וַיֹּ֥אמְרוּ לֹ֖ו מָצָ֥אנוּ מָֽיִם׃ (Gen. 26:32)
+NIV	That day Isaac’s servants _came_ and told him about the well they had dug. They said, “We’ve found water!”
+ESV	That same day Isaac’s servants _came_ and told him about the well that they had dug and said to him, “We have found water.”
+
+(x)	וַיֹּ֗אמֶר מָ֣ה הָֽעֵרָבֹון֮ אֲשֶׁ֣ר אֶתֶּן־לָּךְ֒ וַתֹּ֗אמֶר חֹתָֽמְךָ֙ וּפְתִילֶ֔ךָ וּמַטְּךָ֖ אֲשֶׁ֣ר בְּיָדֶ֑ךָ וַיִּתֶּן־לָּ֛הּ וַ_יָּבֹ֥א_ אֵלֶ֖יהָ וַתַּ֥הַר לֹֽו׃ (Gen. 38:18)
+NIV	He said, “What pledge should I give you?” “Your seal and its cord, and the staff in your hand,” she answered. So he gave them to her and _slept with_ her, and she became pregnant by him.
+ESV	He said, “What pledge shall I give you?” She replied, “Your signet and your cord and your staff that is in your hand.” So he gave them to her and _went in_ to her, and she conceived by him.
+
+(x)	וַ_תָּבֹ֕אנָה_ אֶל־רְעוּאֵ֖ל אֲבִיהֶ֑ן וַיֹּ֕אמֶר מַדּ֛וּעַ מִהַרְתֶּ֥ן בֹּ֖א הַיֹּֽום׃ (Exod. 2:18)
+NIV	When _the girls returned_ to Reuel their father, he asked them, “Why have you returned so early today?”
+ESV	When _they came_ home to their father Reuel, he said, “How is it that you have come home so soon today?”
+
+(x)	וַ_יָּבֹ֕אוּ_ כָּל־אִ֖ישׁ אֲשֶׁר־נְשָׂאֹ֣ו לִבֹּ֑ו וְכֹ֡ל אֲשֶׁר֩ נָדְבָ֨ה רוּחֹ֜ו אֹתֹ֗ו הֵ֠בִיאוּ אֶת־תְּרוּמַ֨ת יְהוָ֜ה לִמְלֶ֨אכֶת אֹ֤הֶל מֹועֵד֙ וּלְכָל־עֲבֹ֣דָתֹ֔ו וּלְבִגְדֵ֖י הַקֹּֽדֶשׁ׃ (Exod. 35:21)
+NIV	and everyone who was willing and whose heart moved him _came_ and brought an offering to the LORD for the work on the Tent of Meeting, for all its service, and for the sacred garments.
+ESV	And _they came_, everyone whose heart stirred him, and everyone whose spirit moved him, and brought the Lord’s contribution to be used for the tent of meeting, and for all its service, and for the holy garments.
+
+(x)	וַ_יָּבֹ֨א_ אֱלֹהִ֥ים׀ אֶל־בִּלְעָם֮ לַיְלָה֒ וַיֹּ֣אמֶר לֹ֗ו אִם־לִקְרֹ֤א לְךָ֙ בָּ֣אוּ הָאֲנָשִׁ֔ים ק֖וּם לֵ֣ךְ אִתָּ֑ם וְאַ֗ךְ אֶת־הַדָּבָ֛ר אֲשֶׁר־אֲדַבֵּ֥ר אֵלֶ֖יךָ אֹתֹ֥ו תַעֲשֶֽׂה׃ (Num. 22:20)
+NIV	That night God _came_ to Balaam and said, “Since these men have come to summon you, go with them, but do only what I tell you.”
+ESV	And God _came_ to Balaam at night and said to him, “If the men have come to call you, rise, go with them. but only do what I tell you.”
+
+(x)	וַ_יָּבֹ֨אוּ֙_ אֶל־גְּלִילֹ֣ות הַיַּרְדֵּ֔ן אֲשֶׁ֖ר בְּאֶ֣רֶץ כְּנָ֑עַן וַיִּבְנ֣וּ בְנֵי־רְאוּבֵ֣ן וּבְנֵי־גָ֡ד וַחֲצִ֣י שֵׁבֶט֩ הַֽמְנַשֶּׁ֨ה שָׁ֤ם מִזְבֵּ֨חַ֙ עַל־הַיַּרְדֵּ֔ן מִזְבֵּ֥חַ גָּדֹ֖ול לְמַרְאֶֽה׃ (Josh. 22:10)
+NIV	When _they came_ to Geliloth near the Jordan in the land of Canaan, the Reubenites, the Gadites and the half-tribe of Manasseh built an imposing altar there by the Jordan.
+ESV	And when _they came_ to the region of the Jordan that is in the land of Canaan, the people of Reuben and the people of Gad and the half-tribe of Manasseh built there an altar by the Jordan, an altar of imposing size.
+
+(x)	וַיִּשְׁמַ֥ע הָאֱלֹהִ֖ים בְּקֹ֣ול מָנֹ֑וחַ וַ_יָּבֹ֣א_ מַלְאַךְ֩ הָאֱלֹהִ֨ים עֹ֜וד אֶל־הָאִשָּׁ֗ה וְהִיא֙ יֹושֶׁ֣בֶת בַּשָּׂדֶ֔ה וּמָנֹ֥וחַ אִישָׁ֖הּ אֵ֥ין עִמָּֽהּ׃ (Judg. 13:9)
+NIV	God heard Manoah, and the angel of God _came_ again to the woman while she was out in the field. but her husband Manoah was not with her.
+ESV	And God listened to the voice of Manoah, and the angel of God _came_ again to the woman as she sat in the field. But Manoah her husband was not with her.
+
+(x)	וַ_יָּבֹ֤א_ יְהוָה֙ וַיִּתְיַצַּ֔ב וַיִּקְרָ֥א כְפַֽעַם־בְּפַ֖עַם שְׁמוּאֵ֣ל׀ שְׁמוּאֵ֑ל וַיֹּ֤אמֶר שְׁמוּאֵל֙ דַּבֵּ֔ר כִּ֥י שֹׁמֵ֖עַ עַבְדֶּֽךָ׃ פ (I Sam. 3:10)
+NIV	The LORD _came_ and stood there, calling as at the other times, “Samuel! Samuel!” Then Samuel said, “Speak, for your servant is listening.”
+ESV	And the Lord _came_ and stood, calling as at other times, “Samuel! Samuel!” And Samuel said, “Speak, for your servant hears.”
+
+(x)	וַיָּ֨קָם דָּוִ֜ד וַיֵּ֣לֶךְ׀ ה֣וּא וַאֲנָשָׁ֗יו וַיַּ֣ךְ בַּפְּלִשְׁתִּים֮ מָאתַ֣יִם אִישׁ֒ וַ_יָּבֵ֤א_ דָוִד֙ אֶת־עָרְלֹ֣תֵיהֶ֔ם וַיְמַלְא֣וּם לַמֶּ֔לֶךְ לְהִתְחַתֵּ֖ן בַּמֶּ֑לֶךְ וַיִּתֶּן־לֹ֥ו שָׁא֛וּל אֶת־מִיכַ֥ל בִּתֹּ֖ו לְאִשָּֽׁה׃ ס (I Sam. 18:27)
+NIV	David and his men went out and killed two hundred Philistines. He _brought_ their foreskins and presented the full number to the king so that he might become the king’s son-in-law. Then Saul gave him his daughter Michal in marriage.
+ESV	David arose and went, along with his men, and killed two hundred of the Philistines. And David _brought_ their foreskins, which were given in full number to the king, that he might become the king’s son-in-law. And Saul gave him his daughter Michal for a wife.
+
+(x)	וַ_יָּבֹ֣א_ דָוִ֗ד אֶל־מָאתַ֨יִם הָאֲנָשִׁ֜ים אֲשֶֽׁר־פִּגְּר֣וּ׀ מִלֶּ֣כֶת׀ אַחֲרֵ֣י דָוִ֗ד וַיֹּֽשִׁיבֻם֙ בְּנַ֣חַל הַבְּשֹׂ֔ור וַיֵּֽצְאוּ֙ לִקְרַ֣את דָּוִ֔ד וְלִקְרַ֖את הָעָ֣ם אֲשֶׁר־אִתֹּ֑ו וַיִּגַּ֤שׁ דָּוִד֙ אֶת־הָעָ֔ם וַיִּשְׁאַ֥ל לָהֶ֖ם לְשָׁלֹֽום׃ ס (I Sam. 30:21)
+NIV	Then David _came_ to the two hundred men who had been too exhausted to follow him and who were left behind at the Besor Ravine. They _came_ out to meet David and the people with him. As David and his men approached, he greeted them.
+ESV	Then David _came_ to the two hundred men who had been too exhausted to follow David, and who had been left at the brook Besor. And they went out to meet David and to meet the people who were with him. And when David _came_ near to the people he greeted them.
+
+(x)	וַיִּשְׁלַח֩ דָּוִ֨ד מַלְאָכִ֜ים וַיִּקָּחֶ֗הָ וַ_תָּבֹ֤וא_ אֵלָיו֙ וַיִּשְׁכַּ֣ב עִמָּ֗הּ וְהִ֥יא מִתְקַדֶּ֖שֶׁת מִטֻּמְאָתָ֑הּ וַתָּ֖שָׁב אֶל־בֵּיתָֽהּ׃ (II Sam. 11:4)
+NIV	Then David sent messengers to get her. _She came_ to him, and he slept with her. ( She had purified herself from her uncleanness. ) Then she went back home.
+ESV	So David sent messengers and took her, and _she came_ to him, and he lay with her. ( Now she had been purifying herself from her uncleanness. ) Then she returned to her house.
+
+(x)	וַיָּ֣שָׁב הַמֶּ֔לֶךְ וַ_יָּבֹ֖א_ עַד־הַיַּרְדֵּ֑ן וִיהוּדָ֞ה בָּ֣א הַגִּלְגָּ֗לָה לָלֶ֨כֶת֙ לִקְרַ֣את הַמֶּ֔לֶךְ לְהַעֲבִ֥יר אֶת־הַמֶּ֖לֶךְ אֶת־הַיַּרְדֵּֽן׃ (II Sam. 19:16)
+NIV	Then the king returned and _went_ as far as the Jordan. Now the men of Judah had come to Gilgal to go out and meet the king and bring him across the Jordan.
+ESV	So the king _came_ back to the Jordan, and Judah _came_ to Gilgal to meet the king and to bring the king over the Jordan.
+
+(x)	וַתִּשְׁלַם֙ כָּל־הַמְּלָאכָ֔ה אֲשֶׁ֥ר עָשָׂ֛ה הַמֶּ֥לֶךְ שְׁלֹמֹ֖ה בֵּ֣ית יְהוָ֑ה וַ_יָּבֵ֨א_ שְׁלֹמֹ֜ה אֶת־קָדְשֵׁ֣י׀ דָּוִ֣ד אָבִ֗יו אֶת־הַכֶּ֤סֶף וְאֶת־הַזָּהָב֙ וְאֶת־הַכֵּלִ֔ים נָתַ֕ן בְּאֹצְרֹ֖ות בֵּ֥ית יְהוָֽה׃ פ (I Kgs. 7:51)
+NIV	When all the work King Solomon had done for the temple of the LORD was finished, he _brought in_ the things his father David had dedicated — the silver and gold and the furnishings — and he placed them in the treasuries of the LORD’s temple.
+ESV	Thus all the work that King Solomon did on the house of the Lord was finished. And Solomon _brought in_ the things that David his father had dedicated, the silver, the gold, and the vessels, and stored them in the treasuries of the house of the Lord.
+
+(x)	וַ֠_יָּבֹאוּ_ שְׁנֵ֨י הָאֲנָשִׁ֥ים בְּנֵֽי־בְלִיַּעַל֮ וַיֵּשְׁב֣וּ נֶגְדֹּו֒ וַיְעִדֻהוּ֩ אַנְשֵׁ֨י הַבְּלִיַּ֜עַל אֶת־נָבֹ֗ות נֶ֤גֶד הָעָם֙ לֵאמֹ֔ר בֵּרַ֥ךְ נָבֹ֛ות אֱלֹהִ֖ים וָמֶ֑לֶךְ וַיֹּצִאֻ֨הוּ֙ מִח֣וּץ לָעִ֔יר וַיִּסְקְלֻ֥הוּ בָאֲבָנִ֖ים וַיָּמֹֽת׃ (I Kgs. 21:13)
+NIV	Then two scoundrels _came_ and sat opposite him and brought charges against Naboth before the people, saying, “Naboth has cursed both God and the king.” So they took him outside the city and stoned him to death.
+ESV	And the two worthless men _came in_ and sat opposite him. And the worthless men brought a charge against Naboth in the presence of the people, saying, “Naboth cursed God and the king.” So they took him outside the city and stoned him to death with stones.
+
+(x)	וַ_יָּבֹ֤א_ אֱלִישָׁע֙ דַּמֶּ֔שֶׂק וּבֶן־הֲדַ֥ד מֶֽלֶךְ־אֲרָ֖ם חֹלֶ֑ה וַיֻּגַּד־לֹ֣ו לֵאמֹ֔ר בָּ֛א אִ֥ישׁ הָאֱלֹהִ֖ים עַד־הֵֽנָּה׃ (II Kgs. 8:7)
+NIV	Elisha _went_ to Damascus, and Ben-hadad king of Aram was ill. When the king was told, “The man of God has come all the way up here,”
+ESV	Now Elisha _came_ to Damascus. Ben-hadad the king of Syria was sick. And when it was told him, “The man of God has come here,”
+
+(x)	וַ_יָּבֹ֗אוּ_ עַבְדֵ֛י הַמֶּ֥לֶךְ חִזְקִיָּ֖הוּ אֶל־יְשַֽׁעַיָֽהוּ׃ (II Kgs. 19:5)
+NIV	When King Hezekiah’s officials _came_ to Isaiah,
+ESV	When the servants of King Hezekiah _came_ to Isaiah,
+
+(x)	וַ_יָּבֹ֣א_ אֵ֠לַי חֲנַמְאֵ֨ל בֶּן־דֹּדִ֜י כִּדְבַ֣ר יְהוָה֮ אֶל־חֲצַ֣ר הַמַּטָּרָה֒ וַיֹּ֣אמֶר אֵלַ֡י קְנֵ֣ה נָ֠א אֶת־שָׂדִ֨י אֲשֶׁר־בַּעֲנָתֹ֜ות אֲשֶׁ֣ר׀ בְּאֶ֣רֶץ בִּנְיָמִ֗ין כִּֽי־לְךָ֞ מִשְׁפַּ֧ט הַיְרֻשָּׁ֛ה וּלְךָ֥ הַגְּאֻלָּ֖ה קְנֵה־לָ֑ךְ וָאֵדַ֕ע כִּ֥י דְבַר־יְהוָ֖ה הֽוּא׃ (Jer. 32:8)
+NIV	“Then, just as the LORD had said, my cousin Hanamel _came_ to me in the courtyard of the guard and said, ‘Buy my field at Anathoth in the territory of Benjamin. Since it is your right to redeem it and possess it, buy it for yourself.’ “I knew that this was the word of the LORD.
+ESV	Then Hanamel my cousin _came_ to me in the court of the guard, in accordance with the word of the Lord, and said to me, ‘Buy my field that is at Anathoth in the land of Benjamin, for the right of possession and redemption is yours. buy it for yourself.’ Then I knew that this was the word of the Lord.
+
+(x)	וַיְהִ֗י בְּצַוֹּתֹו֙ אֶת־הָאִ֤ישׁ לְבֻֽשׁ־הַבַּדִּים֙ לֵאמֹ֔ר קַ֥ח אֵשׁ֙ מִבֵּינֹ֣ות לַגַּלְגַּ֔ל מִבֵּינֹ֖ות לַכְּרוּבִ֑ים וַ_יָּבֹא֙_ וַֽיַּעֲמֹ֔ד אֵ֖צֶל הָאֹופָֽן׃ (Ezek. 10:6)
+NIV	When the LORD commanded the man in linen, “Take fire from among the wheels, from among the cherubim,” _the man went in_ and stood beside a wheel.
+ESV	And when he commanded the man clothed in linen, “Take fire from between the whirling wheels, from between the cherubim,” _he went in_ and stood beside a wheel.
+
+(x)	וַ_יְבִיאֵ֣נִי_ בַמָּבֹוא֮ אֲשֶׁ֣ר עַל־כֶּ֣תֶף הַשַּׁעַר֒ אֶל־הַלִּשְׁכֹ֤ות הַקֹּ֨דֶשׁ֙ אֶל־הַכֹּ֣הֲנִ֔ים הַפֹּנֹ֖ות צָפֹ֑ונָה וְהִנֵּה־שָׁ֣ם מָקֹ֔ום בַּיַּרְכָתַ֖יִם יָֽמָּה׃ ס (Ezek. 46:19)
+NIV	Then _the man brought_ me through the entrance at the side of the gate to the sacred rooms facing north, which belonged to the priests, and showed me a place at the western end.
+ESV	Then _he brought_ me through the entrance, which was at the side of the gate, to the north row of the holy chambers for the priests, and behold, a place was there at the extreme western end of them.
+
+(x)	וַ_יָּבֹ֖וא_ הֲתָ֑ךְ וַיַּגֵּ֣ד לְאֶסְתֵּ֔ר אֵ֖ת דִּבְרֵ֥י מָרְדֳּכָֽי׃ (Esth. 4:9)
+NIV	Hathach _went back_ and reported to Esther what Mordecai had said.
+ESV	And Hathach _went_ and told Esther what Mordecai had said.
+
+(x)	וַיִּתְאַבֵּ֛ל אֶפְרַ֥יִם אֲבִיהֶ֖ם יָמִ֣ים רַבִּ֑ים וַ_יָּבֹ֥אוּ_ אֶחָ֖יו לְנַחֲמֹֽו׃ (I Chr. 7:22)
+NIV	Their father Ephraim mourned for them many days, and his relatives _came_ to comfort him.
+ESV	And Ephraim their father mourned many days, and his brothers _came_ to comfort him.
+
+(x)	וַיִּֽשְׁלַֽח־לֹו֩ חוּרָ֨ם בְּיַד־עֲבָדָ֜יו אֳנִיֹּ֗ות וַעֲבָדִים֮ יֹ֣ודְעֵי יָם֒ וַיָּבֹ֜אוּ עִם־עַבְדֵ֤י שְׁלֹמֹה֙ אֹופִ֔ירָה וַיִּקְח֣וּ מִשָּׁ֔ם אַרְבַּע־מֵאֹ֥ות וַחֲמִשִּׁ֖ים כִּכַּ֣ר זָהָ֑ב וַ_יָּבִ֖יאוּ_ אֶל־הַמֶּ֥לֶךְ שְׁלֹמֹֽה׃ פ (II Chr. 8:18)
+NIV	And Hiram sent him ships commanded by his own officers, men who knew the sea. These, with Solomon’s men, sailed to Ophir and brought back four hundred and fifty talents of gold, which _they delivered_ to King Solomon.
+ESV	And Hiram sent to him by the hand of his servants ships and servants familiar with the sea, and they went to Ophir together with the servants of Solomon and _brought_ from there 450 talents of gold and _brought_ it to King Solomon.
+
+(x)	וּכְחֶזְקָתֹ֗ו גָּבַ֤הּ לִבֹּו֙ עַד־לְהַשְׁחִ֔ית וַיִּמְעַ֖ל בַּיהוָ֣ה אֱלֹהָ֑יו וַ_יָּבֹא֙_ אֶל־הֵיכַ֣ל יְהוָ֔ה לְהַקְטִ֖יר עַל־מִזְבַּ֥ח הַקְּטֹֽרֶת׃ (II Chr. 26:16)
+NIV	But after Uzziah became powerful, his pride led to his downfall. He was unfaithful to the LORD his God, and _entered_ the temple of the LORD to burn incense on the altar of incense.
+ESV	But when he was strong, he grew proud, to his destruction. For he was unfaithful to the Lord his God and _entered_ the temple of the Lord to burn incense on the altar of incense.
+
+(x)	וְלִתְשׁוּבַ֣ת הַשָּׁנָ֗ה שָׁלַח֙ הַמֶּ֣לֶךְ נְבֽוּכַדְנֶאצַּ֔ר וַ_יְבִאֵ֣הוּ_ בָבֶ֔לָה עִם־כְּלֵ֖י חֶמְדַּ֣ת בֵּית־יְהוָ֑ה וַיַּמְלֵךְ֙ אֶת־צִדְקִיָּ֣הוּ אָחִ֔יו עַל־יְהוּדָ֖ה וִֽירוּשָׁלִָֽם׃ פ (II Chr. 36:10)
+NIV	In the spring, King Nebuchadnezzar sent for him and _brought_ him to Babylon, together with articles of value from the temple of the LORD, and he made Jehoiachin’s uncle, Zedekiah, king over Judah and Jerusalem.
+ESV	In the spring of the year King Nebuchadnezzar sent and _brought_ him to Babylon, with the precious vessels of the house of the Lord, and made his brother Zedekiah king over Judah and Jerusalem.

@@ -1,0 +1,102 @@
+eng_TAMsimp == "PRES"and mother_verbtype == "qtl"
+25 of 66
+
+(x)	כִּֽי־מָצָ֤אתָ חֵן֙ בְּעֵינַ֔י וָ_אֵדָעֲךָ֖_ בְּשֵֽׁם׃ (Exod. 33:17)
+NIV	And the LORD said to Moses, “I will do the very thing you have asked, because I am pleased with you and _I know_ you by name.”
+ESV	And the Lord said to Moses, “This very thing that you have spoken I will do, for you have found favor in my sight, and _I know_ you by name.”
+
+(x)	וּשְׁתֵּ֧ים עֶשְׂרֵ֣ה אֲבָנִ֗ים הֵקִ֣ים יְהֹושֻׁעַ֮ בְּתֹ֣וךְ הַיַּרְדֵּן֒ תַּ֗חַת מַצַּב֙ רַגְלֵ֣י הַכֹּהֲנִ֔ים נֹשְׂאֵ֖י אֲרֹ֣ון הַבְּרִ֑ית וַ_יִּ֣הְיוּ_ שָׁ֔ם עַ֖ד הַיֹּ֥ום הַזֶּֽה׃ (Josh. 4:9)
+NIV	Joshua set up the twelve stones that had been in the middle of the Jordan at the spot where the priests who carried the ark of the covenant had stood. And _they are_ there to this day.
+ESV	And Joshua set up twelve stones in the midst of the Jordan, in the place where the feet of the priests bearing the ark of the covenant had stood. and _they are_ there to this day.
+
+(x)	וְהִנֵּה֩ קָ֨מָה כָֽל־הַמִּשְׁפָּחָ֜ה עַל־שִׁפְחָתֶ֗ךָ וַ_יֹּֽאמְרוּ֙_ (II Sam. 14:7)
+NIV	Now the whole clan has risen up against your servant. _they say_, ‘Hand over the one who struck his brother down, so that we may put him to death for the life of his brother whom he killed. then we will get rid of the heir as well.’ They would put out the only burning coal I have left, leaving my husband neither name nor descendant on the face of the earth.”
+ESV	And now the whole clan has risen against your servant, and _they say_, ‘Give up the man who struck his brother, that we may put him to death for the life of his brother whom he killed.’ And so they would destroy the heir also. Thus they would quench my coal that is left and leave to my husband neither name nor remnant on the face of the earth.”
+
+(x)	וְגַם־נָשַׁ֤ף בָּהֶם֙ וַ_יִּבָ֔שׁוּ_ (Isa. 40:24)
+NIV	No sooner are they planted, no sooner are they sown, no sooner do they take root in the ground, than he blows on them and _they wither_, and a whirlwind sweeps them away like chaff.
+ESV	Scarcely are they planted, scarcely sown, scarcely has their stem taken root in the earth, when he blows on them, and _they wither_, and the tempest carries them off like stubble.
+
+(x)	נָטַ֥ע אֹ֖רֶן וַ_יִּקַּ֤ח_ מֵהֶם֙ (Isa. 44:15)
+NIV	It is man’s fuel for burning. some of it _he takes_ and warms himself, he kindles a fire and bakes bread. But he also fashions a god and worships it. he makes an idol and bows down to it.
+ESV	Then it becomes fuel for a man. _He takes_ a part of it and warms himself. he kindles a fire and bakes bread. Also he makes a god and worships it. he makes it an idol and falls down before it.
+
+(x)	עַל־כֵּ֞ן שַׂ֤מְתִּי פָנַי֙ כַּֽחַלָּמִ֔ישׁ וָ_אֵדַ֖ע_ (Isa. 50:7)
+NIV	Because the Sovereign LORD helps me, I will not be disgraced. Therefore have I set my face like flint, and _I know_ I will not be put to shame.
+ESV	But the Lord God helps me. therefore I have not been disgraced. therefore I have set my face like a flint, and _I know_ that I shall not be put to shame.
+
+(x)	כִּי־אֵ֤שׁ אֲכָלַ֨תְהוּ֙ וַ_יֵּחָ֔ר_ (Ezek. 15:5)
+NIV	If it was not useful for anything when it was whole, how much less can it be made into something useful when the fire has burned it and _it is charred_?
+ESV	Behold, when it was whole, it was used for nothing. How much less, when the fire has consumed it and _it is charred_, can it ever be used for anything!
+
+(x)	חֶ֛רֶב הוּחַ֖דָּה וַ_יִּתֵּ֥ן_ אֹתָ֛הּ (Ezek. 21:16)
+NIV	“‘The sword _is appointed_ to be polished, to be grasped with the hand. it is sharpened and polished, made ready for the hand of the slayer.
+ESV	So the sword _is given_ to be polished, that it may be grasped in the hand. It is sharpened and polished to be given into the hand of the slayer.
+
+(x)	אֲשֶׁ֨ר נִתְּנ֤וּ קִבְרֹתֶ֨יהָ֙ בְּיַרְכְּתֵי־בֹ֔ור וַ_יְהִ֣י_ קְהָלָ֔הּ סְבִיבֹ֖ות קְבֻרָתָ֑הּ (Ezek. 32:23)
+NIV	Their graves are in the depths of the pit and her army _lies_ around her grave. All who had spread terror in the land of the living are slain, fallen by the sword.
+ESV	whose graves are set in the uttermost parts of the pit. and her company _is_ all around her grave, all of them slain, fallen by the sword, who spread terror in the land of the living.
+
+(x)	וְהָעָ֣ם לֹֽא־נִזְהָ֔ר וַ_תָּבֹ֣וא_ חֶ֔רֶב (Ezek. 33:6)
+NIV	But if the watchman sees the sword coming and does not blow the trumpet to warn the people and the sword _comes_ and takes the life of one of them, that man will be taken away because of his sin, but I will hold the watchman accountable for his blood.’
+ESV	But if the watchman sees the sword coming and does not blow the trumpet, so that the people are not warned, and the sword _comes_ and takes any one of them, that person is taken away in his iniquity, but his blood I will require at the watchman’s hand.
+
+(x)	גַּ֧ם בָּחֲנ֛וּ אֱלֹהִ֖ים וַ_יִּמָּלֵֽטוּ_׃ (Mal. 3:15)
+NIV	But now we call the arrogant blessed. Certainly the evildoers prosper, and even those who challenge God _escape_.’”
+ESV	And now we call the arrogant blessed. Evildoers not only prosper but they put God to the test and _they escape_.’”
+
+(x)	וַאֲנַ֥חְנוּ קַּ֝֗מְנוּ וַ_נִּתְעֹודָֽד_׃ (Psa. 20:9)
+NIV	They are brought to their knees and fall, but we rise up and _stand firm_.
+ESV	They collapse and fall, but we rise and _stand upright_.
+
+(x)	אֵ֤ל׀ אֱֽלֹהִ֡ים יְֽהוָ֗ה דִּבֶּ֥ר וַ_יִּקְרָא_־אָ֑רֶץ מִמִּזְרַח־שֶׁ֝֗מֶשׁ עַד־מְבֹאֹֽו׃ (Psa. 50:1)
+NIV	The Mighty One, God, the LORD, speaks and _summons_ the earth from the rising of the sun to the place where it sets.
+ESV	The Mighty One, God the Lord, speaks and _summons_ the earth from the rising of the sun to its setting.
+
+(x)	וְיַ֤יִן חָמַ֨ר׀ וַ_יַּגֵּ֪ר_ מִ֫זֶּ֥ה (Psa. 75:9)
+NIV	In the hand of the LORD is a cup full of foaming wine mixed with spices. he pours it out, and all the wicked of the earth drink it down to its very dregs.
+ESV	For in the hand of the Lord there is a cup with foaming wine, well mixed, and _he pours out_ from it, and all the wicked of the earth shall drain it down to the dregs.
+
+(x)	דִּבְּר֥וּ אִ֝תִּ֗י לְשֹׁ֣ון שָֽׁקֶר׃ וַ_יִּֽלָּחֲמ֥וּנִי_ חִנָּֽם׃ (Psa. 109:3)
+NIV	With words of hatred they surround me. _they attack_ me without cause.
+ESV	They encircle me with words of hate, and _attack_ me without cause.
+
+(x)	קִדַּ֣מְתִּי בַ֭נֶּשֶׁף וָ_אֲשַׁוֵּ֑עָה_ (Psa. 119:147)
+NIV	I rise before dawn and _cry for help_. I have put my hope in your word.
+ESV	I rise before dawn and _cry for help_. I hope in your words.
+
+(x)	כִּי־ה֭וּא יָדַ֣ע מְתֵי־שָׁ֑וְא וַ_יַּרְא_־אָ֝֗וֶן (Job 11:11)
+NIV	Surely he recognises deceitful men. and when _he sees_ evil, does he not take note?
+ESV	For he knows worthless men. when _he sees_ iniquity, will he not consider it?
+
+(x)	וְנַפְשֹׁ֖ו אִוְּתָ֣ה וַ_יָּֽעַשׂ_׃ (Job 23:13)
+NIV	“But he stands alone, and who can oppose him? _He does_ whatever he pleases.
+ESV	But he is unchangeable, and who can turn him back? What he desires, that _he does_.
+
+(x)	יְקָבִ֥ים דָּ֝רְכ֗וּ וַ_יִּצְמָֽאוּ_׃ (Job 24:11)
+NIV	They crush olives among the terraces. they tread the winepresses, yet _suffer thirst_.
+ESV	among the olive rows of the wicked they make oil. they tread the winepresses, but _suffer thirst_.
+
+(x)	עַל־כַּפַּ֥יִם כִּסָּה־אֹ֑ור וַ_יְצַ֖ו_ עָלֶ֣יהָ בְמַפְגִּֽיעַ׃ (Job 36:32)
+NIV	He fills his hands with lightning and _commands_ it to strike its mark.
+ESV	He covers his hands with the lightning and _commands_ it to strike the mark.
+
+(x)	דָּ֭רְשָׁה צֶ֣מֶר וּפִשְׁתִּ֑ים וַ֝_תַּ֗עַשׂ_ בְּחֵ֣פֶץ כַּפֶּֽיהָ׃ (Prov. 31:13)
+NIV	She selects wool and flax and _works_ with eager hands.
+ESV	She seeks wool and flax, and _works_ with willing hands.
+
+(x)	זָמְמָ֣ה שָׂ֭דֶה וַ_תִּקָּחֵ֑הוּ_ (Prov. 31:16)
+NIV	She considers a field and _buys_ it. out of her earnings she plants a vineyard.
+ESV	She considers a field and _buys_ it. with the fruit of her hands she plants a vineyard.
+
+(x)	קָ֣מוּ בָ֭נֶיהָ וַֽ_יְאַשְּׁר֑וּהָ_ (Prov. 31:28)
+NIV	Her children arise and call her blessed. her husband also, and he praises her:
+ESV	Her children rise up and call her blessed. her husband also, and he praises her:
+
+(x)	שָֽׁרְקוּ֙ וַ_יַּֽחַרְקוּ_־שֵׁ֔ן (Lam. 2:16)
+NIV	All your enemies open their mouths wide against you. they scoff and _gnash_ their teeth and say, “We have swallowed her up. This is the day we have waited for. we have lived to see it.”
+ESV	All your enemies rail against you. they hiss, _they gnash_ their teeth, they cry: “We have swallowed her! Ah, this is the day we longed for. now we have it. we see it!”
+
+(x)	חֲלֹ֣ום חָלָ֑מְתִּי וַ_תִּפָּ֣עֶם_ רוּחִ֔י (Dan. 2:3)
+NIV	he said to them, “I have had a dream that _troubles_ me and I want to know what it means.”
+ESV	And the king said to them, “I had a dream, and my spirit _is troubled_ to know the dream.”

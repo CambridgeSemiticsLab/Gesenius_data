@@ -26,39 +26,68 @@ run_analyses([
     {
         'name': 'esv_tenses',
         'df': esv_df, 
-        'index': 'esv_TAMsimp',
+        'index': 'esv_TAM',
+        'examples': [
+        ]
     },
     {
         'name': 'niv_tenses',
         'df': niv_df,
         'index': 'niv_TAMsimp',
-    },
-    {
-        'name': 'trans_tam',
-        'df': eng_df,
-        'index': 'esv_TAMsimp',
-        'columns': 'niv_TAMsimp',
-        'fishers': False,
         'examples': [
-        ],
+            {'query': 'niv_TAMsimp == "IMPV"'}
+        ]
     },
     {
-        'name': 'disag_genre',
+        'name': 'eng_simp_disagree',
         'df': disag_df_simp,
         'index': 'eng_TAMsimp',
-        'columns': 'genre',
-    },
-    {
-        'name': 'disag_domain',
-        'df': disag_df_simp,
-        'index': 'eng_TAMsimp',
-        'columns': 'domain2',
-    },
-    {
-        'name': 'disag_gendom',
-        'df': disag_df_simp,
-        'index': 'eng_simp_agree',
-        'columns': ['genre', 'domain2'],
+        'examples': [
+            {
+                'query': 'eng_TAMsimp == "PAST ~ PRES PART"',
+                'spread': 10,
+            },
+            {
+                'query': 'eng_TAMsimp == "PAST ~ PAST PERF"',
+                'spread': 10,
+            },
+            {
+                'query': 'eng_TAMsimp == "PAST ~ PRES PERF"',
+                'spread': 10,
+            },
+           {
+                'query': 'eng_TAMsimp == "PAST ~ PRES"',
+                'spread': 10,
+            },
+           {
+                'query': 'eng_TAMsimp == "PAST ~ TO INF"',
+                'spread': 10,
+            },
+           {
+                'query': 'eng_TAMsimp == "PRES ~ PRES PERF"',
+                'spread': 10,
+            },
+           {
+                'query': 'eng_TAMsimp == "PAST ~ PAST PROG"',
+                'spread': 10,
+            },
+           {
+                'query': 'eng_TAMsimp == "FUT ~ PRES"',
+                'spread': 10,
+            },
+           {
+                'query': 'eng_TAMsimp == "MOD could ~ PAST"',
+                'spread': 10,
+            },
+           {
+                'query': 'eng_TAMsimp == "FUT ~ PAST"',
+                'spread': 10,
+            },
+           {
+                'query': 'eng_TAMsimp.str.match(".*FUT")',
+                'spread': -1,
+            },
+        ]
     },
 ], snakemake.output.dir)  
 

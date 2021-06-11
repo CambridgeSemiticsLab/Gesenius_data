@@ -1,0 +1,42 @@
+eng_TAMsimp == "FUT ~ PRES"
+10 of 18
+
+(x)	וְאִם־מִזְבַּ֤ח אֲבָנִים֙ תַּֽעֲשֶׂה־לִּ֔י לֹֽא־תִבְנֶ֥ה אֶתְהֶ֖ן גָּזִ֑ית כִּ֧י חַרְבְּךָ֛ הֵנַ֥פְתָּ עָלֶ֖יהָ וַ_תְּחַֽלְלֶֽהָ_׃ (Exod. 20:25)
+NIV	If you make an altar of stones for me, do not build it with dressed stones, for _you will defile_ it if you use a tool on it.
+ESV	If you make me an altar of stone, you shall not build it of hewn stones, for if you wield your tool on it _you profane_ it.
+
+(x)	וַ_יִּשַּׁ֥ח_ אָדָ֖ם וַיִּשְׁפַּל־אִ֑ישׁ וְאַל־תִּשָּׂ֖א לָהֶֽם׃ (Isa. 2:9)
+NIV	So man _will be brought low_ and mankind humbled — do not forgive them.
+ESV	So man _is humbled_, and each one is brought low — do not forgive them!
+
+(x)	וַ_יִּגְבַּ֛ה_ יְהוָ֥ה צְבָאֹ֖ות בַּמִּשְׁפָּ֑ט וְהָאֵל֙ הַקָּדֹ֔ושׁ נִקְדָּ֖שׁ בִּצְדָקָֽה׃ (Isa. 5:16)
+NIV	But the LORD Almighty _will be exalted_ by his justice, and the holy God will show himself holy by his righteousness.
+ESV	But the Lord of hosts _is exalted_ in justice, and the Holy God shows himself holy in righteousness.
+
+(x)	וַ_יִּגְזֹ֤ר_ עַל־יָמִין֙ וְרָעֵ֔ב וַיֹּ֥אכַל עַל־שְׂמֹ֖אול וְלֹ֣א שָׂבֵ֑עוּ אִ֥ישׁ בְּשַׂר־זְרֹעֹ֖ו יֹאכֵֽלוּ׃ (Isa. 9:19)
+NIV	On the right _they will devour_, but still be hungry. on the left they will eat, but not be satisfied. Each will feed on the flesh of his own offspring:
+ESV	_They slice_ meat on the right, but are still hungry, and they devour on the left, but are not satisfied. each devours the flesh of his own arm,
+
+(x)	כִּֽי־נִחַ֨ם יְהוָ֜ה צִיֹּ֗ון נִחַם֙ כָּל־חָרְבֹתֶ֔יהָ וַ_יָּ֤שֶׂם_ מִדְבָּרָהּ֙ כְּעֵ֔דֶן וְעַרְבָתָ֖הּ כְּגַן־יְהוָ֑ה שָׂשֹׂ֤ון וְשִׂמְחָה֙ יִמָּ֣צֵא בָ֔הּ תֹּודָ֖ה וְקֹ֥ול זִמְרָֽה׃ ס (Isa. 51:3)
+NIV	The LORD will surely comfort Zion and will look with compassion on all her ruins. _he will make_ her deserts like Eden, her wastelands like the garden of the LORD. Joy and gladness will be found in her, thanksgiving and the sound of singing.
+ESV	For the Lord comforts Zion. he comforts all her waste places and _makes_ her wilderness like Eden, her desert like the garden of the Lord. joy and gladness will be found in her, thanksgiving and the voice of song.
+
+(x)	עָלָ֤ה הַפֹּרֵץ֙ לִפְנֵיהֶ֔ם פָּֽרְצוּ֙ וַֽיַּעֲבֹ֔רוּ שַׁ֖עַר וַיֵּ֣צְאוּ בֹ֑ו וַ_יַּעֲבֹ֤ר_ מַלְכָּם֙ לִפְנֵיהֶ֔ם וַיהוָ֖ה בְּרֹאשָֽׁם׃ פ (Mic. 2:13)
+NIV	One who breaks open the way will go up before them. they will break through the gate and go out. Their king _will pass through_ before them, the LORD at their head.”
+ESV	He who opens the breach goes up before them. they break through and pass the gate, going out by it. Their king _passes on_ before them, the Lord at their head.
+
+(x)	וַ_יֹּרֵ֗ם_ אֱלֹ֫הִ֥ים חֵ֥ץ פִּתְאֹ֑ום הָ֝י֗וּ מַכֹּותָֽם׃ (Psa. 64:8)
+NIV	But God _will shoot_ them with arrows. suddenly they will be struck down.
+ESV	But God _shoots_ his arrow at them. they are wounded suddenly.
+
+(x)	וַיִּֽירְא֗וּ כָּל־אָ֫דָ֥ם וַ֭_יַּגִּידוּ_ פֹּ֥עַל אֱלֹהִ֗ים וּֽמַעֲשֵׂ֥הוּ הִשְׂכִּֽילוּ׃ (Psa. 64:10)
+NIV	All mankind will fear. _they will proclaim_ the works of God and ponder what he has done.
+ESV	Then all mankind fears. _they tell_ what God has brought about and ponder what he has done.
+
+(x)	זָ֘כַ֤רְתִּי בַלַּ֣יְלָה שִׁמְךָ֣ יְהוָ֑ה וָֽ֝_אֶשְׁמְרָ֗ה_ תֹּורָתֶֽךָ׃ (Psa. 119:55)
+NIV	In the night I remember your name, O LORD, and _I will keep_ your law.
+ESV	I remember your name in the night, O Lord, and _keep_ your law.
+
+(x)	חַ֣יִל בָּ֭לַע וַ_יְקִאֶ֑נּוּ_ מִ֝בִּטְנֹ֗ו יֹורִשֶׁ֥נּוּ אֵֽל׃ (Job 20:15)
+NIV	He _will spit out_ the riches he swallowed. God will make his stomach vomit them up.
+ESV	He swallows down riches and vomits them up again. God casts them out of his belly.

@@ -1,0 +1,102 @@
+eng_TAMsimp == "PRES"and genre == "poetry" and domain2 == "Q" 
+25 of 81
+
+(x)	כִּי־אֵשׁ֙ קָדְחָ֣ה בְאַפִּ֔י וַ_תִּיקַ֖ד_ עַד־שְׁאֹ֣ול תַּחְתִּ֑ית וַתֹּ֤אכַל אֶ֨רֶץ֙ וִֽיבֻלָ֔הּ וַתְּלַהֵ֖ט מֹוסְדֵ֥י הָרִֽים׃ (Deut. 32:22)
+NIV	For a fire has been kindled by my wrath, one that _burns_ to the realm of death below. It will devour the earth and its harvests and set on fire the foundations of the mountains.
+ESV	For a fire is kindled by my anger, and _it burns_ to the depths of Sheol, devours the earth and its increase, and sets on fire the foundations of the mountains.
+
+(x)	קֹ֣ול יְ֭הוָה שֹׁבֵ֣ר אֲרָזִ֑ים וַ_יְשַׁבֵּ֥ר_ יְ֝הוָ֗ה אֶת־אַרְזֵ֥י הַלְּבָנֹֽון׃ (Psa. 29:5)
+NIV	The voice of the LORD breaks the cedars. the LORD _breaks in pieces_ the cedars of Lebanon.
+ESV	The voice of the Lord _breaks_ the cedars. the Lord _breaks_ the cedars of Lebanon.
+
+(x)	יְ֭הוָה לַמַּבּ֣וּל יָשָׁ֑ב וַ_יֵּ֥שֶׁב_ יְ֝הוָ֗ה מֶ֣לֶךְ לְעֹולָֽם׃ (Psa. 29:10)
+NIV	The LORD sits enthroned over the flood. the LORD _is enthroned_ as King forever.
+ESV	The Lord _sits enthroned_ over the flood. the Lord _sits enthroned_ as king forever.
+
+(x)	וַֽ_יַּעְזְרֵ֥ם_ יְהוָ֗ה וַֽיְפַ֫לְּטֵ֥ם יְפַלְּטֵ֣ם מֵ֭רְשָׁעִים וְיֹושִׁיעֵ֑ם כִּי־חָ֥סוּ בֹֽו׃ (Psa. 37:40)
+NIV	The LORD _helps_ them and delivers them. he delivers them from the wicked and saves them, because they take refuge in him.
+ESV	The Lord _helps_ them and delivers them. he delivers them from the wicked and saves them, because they take refuge in him.
+
+(x)	וַ_יַּגִּ֣ידוּ_ שָׁמַ֣יִם צִדְקֹ֑ו כִּֽי־אֱלֹהִ֓ים׀ שֹׁפֵ֖ט ה֣וּא סֶֽלָה׃ (Psa. 50:6)
+NIV	And the heavens _proclaim_ his righteousness, for God himself is judge. Selah
+ESV	The heavens _declare_ his righteousness, for God himself is judge! Selah
+
+(x)	עֶ֤רֶב וָבֹ֣קֶר וְ֭צָהֳרַיִם אָשִׂ֣יחָה וְאֶהֱמֶ֑ה וַ_יִּשְׁמַ֥ע_ קֹולִֽי׃ (Psa. 55:18)
+NIV	Evening, morning and noon I cry out in distress, and _he hears_ my voice.
+ESV	Evening and morning and at noon I utter my complaint and moan, and _he hears_ my voice.
+
+(x)	יְמֵֽי־שְׁנֹותֵ֨ינוּ בָהֶ֥ם שִׁבְעִ֪ים שָׁנָ֡ה וְאִ֤ם בִּגְבוּרֹ֨ת׀ שְׁמֹ֘ונִ֤ים שָׁנָ֗ה וְ֭רָהְבָּם עָמָ֣ל וָאָ֑וֶן כִּי־גָ֥ז חִ֝֗ישׁ וַ_נָּעֻֽפָה_׃ (Psa. 90:10)
+NIV	The length of our days is seventy years — or eighty, if we have the strength. yet their span is but trouble and sorrow, for they quickly pass, and _we fly away_.
+ESV	The years of our life are seventy, or even by reason of strength eighty. yet their span is but toil and trouble. they are soon gone, and _we fly away_.
+
+(x)	וְדִבְרֵ֣י שִׂנְאָ֣ה סְבָב֑וּנִי וַ_יִּֽלָּחֲמ֥וּנִי_ חִנָּֽם׃ (Psa. 109:3)
+NIV	With words of hatred they surround me. _they attack_ me without cause.
+ESV	They encircle me with words of hate, and _attack_ me without cause.
+
+(x)	לְדֹ֣ר וָ֭דֹר אֱמֽוּנָתֶ֑ךָ כֹּונַ֥נְתָּ אֶ֝֗רֶץ וַֽ_תַּעֲמֹֽד_׃ (Psa. 119:90)
+NIV	Your faithfulness continues through all generations. you established the earth, and _it endures_.
+ESV	Your faithfulness endures to all generations. you have established the earth, and _it stands fast_.
+
+(x)	וָ֭_אֹמַר_ אַךְ־חֹ֣שֶׁךְ יְשׁוּפֵ֑נִי וְ֝לַ֗יְלָה אֹ֣ור בַּעֲדֵֽנִי׃ (Psa. 139:11)
+NIV	If _I say_, “Surely the darkness will hide me and the light become night around me,”
+ESV	If _I say_, “Surely the darkness shall cover me, and the light about me be night,”
+
+(x)	כִּֽי־לִפְנֵ֣י לַ֭חְמִי אַנְחָתִ֣י תָבֹ֑א וַֽ_יִּתְּכ֥וּ_ כַ֝מַּ֗יִם שַׁאֲגֹתָֽי׃ (Job 3:24)
+NIV	For sighing comes to me instead of food. my groans _pour out_ like water.
+ESV	For my sighing comes instead of my bread, and my groanings _are poured out_ like water.
+
+(x)	וַ_יֹּ֣שַׁע_ מֵ֭חֶרֶב מִפִּיהֶ֑ם וּמִיַּ֖ד חָזָ֣ק אֶבְיֹֽון׃ (Job 5:15)
+NIV	_He saves_ the needy from the sword in their mouth. he saves them from the clutches of the powerful.
+ESV	But _he saves_ the needy from the sword of their mouth and from the hand of the mighty.
+
+(x)	יָמַ֣י קַ֭לּוּ מִנִּי־אָ֑רֶג וַ֝_יִּכְל֗וּ_ בְּאֶ֣פֶס תִּקְוָֽה׃ (Job 7:6)
+NIV	“My days are swifter than a weaver’s shuttle, and _they come to an end_ without hope.
+ESV	My days are swifter than a weaver’s shuttle and _come to their end_ without hope.
+
+(x)	מַשְׂגִּ֣יא לַ֭גֹּויִם וַֽ_יְאַבְּדֵ֑ם_ שֹׁטֵ֥חַ לַ֝גֹּויִ֗ם וַיַּנְחֵֽם׃ (Job 12:23)
+NIV	He makes nations great, and _destroys_ them. he enlarges nations, and disperses them.
+ESV	He makes nations great, and _he destroys_ them. he enlarges nations, and leads them away.
+
+(x)	יְמַֽשְׁשׁוּ־חֹ֥שֶׁךְ וְלֹא־אֹ֑ור וַ֝_יַּתְעֵ֗ם_ כַּשִּׁכֹּֽור׃ (Job 12:25)
+NIV	They grope in darkness with no light. he makes them stagger like drunkards.
+ESV	They grope in the dark without light, and he makes them stagger like a drunken man.
+
+(x)	תִּתְקְפֵ֣הוּ לָ֭נֶצַח וַֽ_יַּהֲלֹ֑ךְ_ מְשַׁנֶּ֥ה פָ֝נָ֗יו וַֽתְּשַׁלְּחֵֽהוּ׃ (Job 14:20)
+NIV	You overpower him once for all, and _he is gone_. you change his countenance and send him away.
+ESV	You prevail forever against him, and _he passes_. you change his countenance, and send him away.
+
+(x)	יַ֤חַד׀ יָ֘בֹ֤אוּ גְדוּדָ֗יו וַיָּסֹ֣לּוּ עָלַ֣י דַּרְכָּ֑ם וַ_יַּחֲנ֖וּ_ סָבִ֣יב לְאָהֳלִֽי׃ (Job 19:12)
+NIV	His troops advance in force. they build a siege ramp against me and _encamp_ around my tent.
+ESV	His troops come on together. they have cast up their siege ramp against me and _encamp_ around my tent.
+
+(x)	כִּֽי־הִ֭שְׁפִּילוּ וַ_תֹּ֣אמֶר_ גֵּוָ֑ה וְשַׁ֖ח עֵינַ֣יִם יֹושִֽׁעַ׃ (Job 22:29)
+NIV	When men are brought low and _you say_, ‘Lift them up!’ then he will save the downcast.
+ESV	For when they are humbled _you say_, ‘It is because of pride’. but he saves the lowly.
+
+(x)	וַ_יְהִ֣י_ לְ֭אֵבֶל כִּנֹּרִ֑י וְ֝עֻגָבִ֗י לְקֹ֣ול בֹּכִֽים׃ (Job 30:31)
+NIV	My harp _is tuned_ to mourning, and my flute to the sound of wailing.
+ESV	My lyre _is turned_ to mourning, and my pipe to the voice of those who weep.
+
+(x)	יֶעְתַּ֤ר אֶל־אֱלֹ֨והַּ׀ וַיִּרְצֵ֗הוּ וַיַּ֣רְא פָּ֭נָיו בִּתְרוּעָ֑ה וַ_יָּ֥שֶׁב_ לֶ֝אֱנֹ֗ושׁ צִדְקָתֹֽו׃ (Job 33:26)
+NIV	He prays to God and finds favour with him, he sees God’s face and shouts for joy. he _is restored_ by God to his righteous state.
+ESV	then man prays to God, and he accepts him. he sees his face with a shout of joy, and _he restores_ to man his righteousness.
+
+(x)	לֹֽא־יִגְרַ֥ע מִצַּדִּ֗יק עֵ֫ינָ֥יו וְאֶת־מְלָכִ֥ים לַכִּסֵּ֑א וַ_יֹּשִׁיבֵ֥ם_ לָ֝נֶ֗צַח וַיִּגְבָּֽהוּ׃ (Job 36:7)
+NIV	He does not take his eyes off the righteous. _he enthrones_ them with kings and exalts them forever.
+ESV	He does not withdraw his eyes from the righteous, but with kings on the throne _he sets_ them forever, and they are exalted.
+
+(x)	וַ_יִּ֣גֶל_ אָ֭זְנָם לַמּוּסָ֑ר וַ֝יֹּ֗אמֶר כִּֽי־יְשֻׁב֥וּן מֵאָֽוֶן׃ (Job 36:10)
+NIV	He makes them listen to correction and commands them to repent of their evil.
+ESV	_He opens_ their ears to instruction and commands that they return from iniquity.
+
+(x)	עֵינֵ֣י יְ֭הוָה נָ֣צְרוּ דָ֑עַת וַ֝_יְסַלֵּ֗ף_ דִּבְרֵ֥י בֹגֵֽד׃ (Prov. 22:12)
+NIV	The eyes of the LORD keep watch over knowledge, but _he frustrates_ the words of the unfaithful.
+ESV	The eyes of the Lord keep watch over knowledge, but _he overthrows_ the words of the traitor.
+
+(x)	מֶ֭לֶךְ אֵ֣ין לָאַרְבֶּ֑ה וַ_יֵּצֵ֖א_ חֹצֵ֣ץ כֻּלֹּֽו׃ (Prov. 30:27)
+NIV	locusts have no king, yet _they advance_ together in ranks.
+ESV	the locusts have no king, yet all of them _march_ in rank.
+
+(x)	וָ_אֹמַר֙_ אָבַ֣ד נִצְחִ֔י וְתֹוחַלְתִּ֖י מֵיְהוָֽה׃ ס (Lam. 3:18)
+NIV	So _I say_, “My splendour is gone and all that I had hoped from the LORD.”
+ESV	so _I say_, “My endurance has perished. so has my hope from the Lord.”

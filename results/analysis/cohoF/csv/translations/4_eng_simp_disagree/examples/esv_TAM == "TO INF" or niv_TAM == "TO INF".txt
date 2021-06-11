@@ -1,0 +1,62 @@
+esv_TAM == "TO INF" or niv_TAM == "TO INF"
+15 of 15
+
+(x)	לְכָ֨ה נַשְׁקֶ֧ה אֶת־אָבִ֛ינוּ יַ֖יִן וְ_נִשְׁכְּבָ֣ה_ עִמֹּ֑ו וּנְחַיֶּ֥ה מֵאָבִ֖ינוּ זָֽרַע׃ (Gen. 19:32)
+NIV	Let’s get our father to drink wine and then _lie_ with him and preserve our family line through our father.”
+ESV	Come, let us make our father drink wine, and _we will lie_ with him, that we may preserve offspring from our father.”
+
+(x)	וַעֲשֵׂה־לִ֨י מַטְעַמִּ֜ים כַּאֲשֶׁ֥ר אָהַ֛בְתִּי וְהָבִ֥יאָה לִּ֖י וְ_אֹכֵ֑לָה_ בַּעֲב֛וּר תְּבָרֶכְךָ֥ נַפְשִׁ֖י בְּטֶ֥רֶם אָמֽוּת׃ (Gen. 27:4)
+NIV	Prepare me the kind of tasty food I like and bring it to me to _eat_, so that I may give you my blessing before I die.”
+ESV	and prepare for me delicious food, such as I love, and bring it to me so that _I may eat_, that my soul may bless you before I die.”
+
+(x)	הָבִ֨יאָה לִּ֥י צַ֛יִד וַעֲשֵׂה־לִ֥י מַטְעַמִּ֖ים וְ_אֹכֵ֑לָה_ וַאֲבָרֶכְכָ֛ה לִפְנֵ֥י יְהוָ֖ה לִפְנֵ֥י מֹותִֽי׃ (Gen. 27:7)
+NIV	‘Bring me some game and prepare me some tasty food to _eat_, so that I may give you my blessing in the presence of the LORD before I die.’
+ESV	‘Bring me game and prepare for me delicious food, that _I may eat_ it and bless you before the Lord before I die.’
+
+(x)	וַיֹּ֗אמֶר הַגִּ֤שָׁה לִּי֙ וְ_אֹֽכְלָה֙_ מִצֵּ֣יד בְּנִ֔י לְמַ֥עַן תְּבָֽרֶכְךָ֖ נַפְשִׁ֑י וַיַּגֶּשׁ־לֹו֙ וַיֹּאכַ֔ל וַיָּ֧בֵא לֹ֦ו יַ֖יִן וַיֵּֽשְׁתְּ׃ (Gen. 27:25)
+NIV	Then he said, “My son, bring me some of your game to _eat_, so that I may give you my blessing.” Jacob brought it to him and he ate. and he brought some wine and he drank.
+ESV	Then he said, “Bring it near to me, that _I may eat_ of my son’s game and bless you.” So he brought it near to him, and he ate. and he brought him wine, and he drank.
+
+(x)	וְשָׁמְע֖וּ לְקֹלֶ֑ךָ וּבָאתָ֡ אַתָּה֩ וְזִקְנֵ֨י יִשְׂרָאֵ֜ל אֶל־מֶ֣לֶךְ מִצְרַ֗יִם וַאֲמַרְתֶּ֤ם אֵלָיו֙ יְהוָ֞ה אֱלֹהֵ֤י הָֽעִבְרִיִּים֙ נִקְרָ֣ה עָלֵ֔ינוּ וְעַתָּ֗ה נֵֽלֲכָה־נָּ֞א דֶּ֣רֶךְ שְׁלֹ֤שֶׁת יָמִים֙ בַּמִּדְבָּ֔ר וְ_נִזְבְּחָ֖ה_ לַֽיהוָ֥ה אֱלֹהֵֽינוּ׃ (Exod. 3:18)
+NIV	“The elders of Israel will listen to you. Then you and the elders are to go to the king of Egypt and say to him, ‘The LORD, the God of the Hebrews, has met with us. Let us take a three-day journey into the desert to _offer sacrifices_ to the LORD our God.’
+ESV	And they will listen to your voice, and you and the elders of Israel shall go to the king of Egypt and say to him, ‘The Lord, the God of the Hebrews, has met with us. and now, please let us go a three days’ journey into the wilderness, that _we may sacrifice_ to the Lord our God.’
+
+(x)	וַיֹּ֣אמְר֔וּ אֱלֹהֵ֥י הָעִבְרִ֖ים נִקְרָ֣א עָלֵ֑ינוּ נֵ֣לֲכָה נָּ֡א דֶּרֶךְ֩ שְׁלֹ֨שֶׁת יָמִ֜ים בַּמִּדְבָּ֗ר וְ_נִזְבְּחָה֙_ לַֽיהוָ֣ה אֱלֹהֵ֔ינוּ פֶּ֨ן־יִפְגָּעֵ֔נוּ בַּדֶּ֖בֶר אֹ֥ו בֶחָֽרֶב׃ (Exod. 5:3)
+NIV	Then they said, “The God of the Hebrews has met with us. Now let us take a three-day journey into the desert to _offer sacrifices_ to the LORD our God, or he may strike us with plagues or with the sword.”
+ESV	Then they said, “The God of the Hebrews has met with us. Please let us go a three days’ journey into the wilderness that _we may sacrifice_ to the Lord our God, lest he fall upon us with pestilence or with the sword.”
+
+(x)	מֵאַ֤יִן לִי֙ בָּשָׂ֔ר לָתֵ֖ת לְכָל־הָעָ֣ם הַזֶּ֑ה כִּֽי־יִבְכּ֤וּ עָלַי֙ לֵאמֹ֔ר תְּנָה־לָּ֥נוּ בָשָׂ֖ר וְ_נֹאכֵֽלָה_׃ (Num. 11:13)
+NIV	Where can I get m_eat_ for all these people? They keep wailing to me, ‘Give us m_eat_ to _eat_!’
+ESV	Where am I to get meat to give to all this people? For they weep before me and say, ‘Give us meat, that _we may eat_.’
+
+(x)	וַיֹּ֣אמֶר יְהוּדָה֩ לְשִׁמְעֹ֨ון אָחִ֜יו עֲלֵ֧ה אִתִּ֣י בְגֹורָלִ֗י וְ_נִֽלָּחֲמָה֙_ בַּֽכְּנַעֲנִ֔י וְהָלַכְתִּ֧י גַם־אֲנִ֛י אִתְּךָ֖ בְּגֹורָלֶ֑ךָ וַיֵּ֥לֶךְ אִתֹּ֖ו שִׁמְעֹֽון׃ (Judg. 1:3)
+NIV	Then the men of Judah said to the Simeonites their brothers, “Come up with us into the territory allotted to us, to _fight_ against the Canaanites. We in turn will go with you into yours.” So the Simeonites went with them.
+ESV	And Judah said to Simeon his brother, “Come up with me into the territory allotted to me, that _we may fight_ against the Canaanites. And I likewise will go with you into the territory allotted to you.” So Simeon went with him.
+
+(x)	וַתֹּ֨אמֶר֙ אֶל־אָבִ֔יהָ יֵעָ֥שֶׂה לִּ֖י הַדָּבָ֣ר הַזֶּ֑ה הַרְפֵּ֨ה מִמֶּ֜נִּי שְׁנַ֣יִם חֳדָשִׁ֗ים וְ_אֵֽלְכָה֙_ וְיָרַדְתִּ֣י עַל־הֶֽהָרִ֔ים וְאֶבְכֶּה֙ עַל־בְּתוּלַ֔י אָנֹכִ֖י וְרֵעֹותָֽי׃ (Judg. 11:37)
+NIV	But grant me this one request,” she said. “Give me two months to _roam_ the hills and weep with my friends, because I will never marry.”
+ESV	So she said to her father, “Let this thing be done for me: leave me alone two months, that _I may go up_ and down on the mountains and weep for my virginity, I and my companions.”
+
+(x)	וַיֹּ֥אמְרוּ לֹ֖ו שְׁאַל־נָ֣א בֵאלֹהִ֑ים וְ_נֵ֣דְעָ֔ה_ הֲתַצְלִ֣יחַ דַּרְכֵּ֔נוּ אֲשֶׁ֥ר אֲנַ֖חְנוּ הֹלְכִ֥ים עָלֶֽיהָ׃ (Judg. 18:5)
+NIV	Then they said to him, “Please enquire of God to _learn_ whether our journey will be successful.”
+ESV	And they said to him, “Inquire of God, please, that _we may know_ whether the journey on which we are setting out will succeed.”
+
+(x)	וַיֹּאמְר֞וּ אִ֣ישׁ אֶל־רֵעֵ֗הוּ לְכוּ֙ וְנַפִּ֣ילָה גֹֽורָלֹ֔ות וְ_נֵ֣דְעָ֔ה_ בְּשֶׁלְּמִ֛י הָרָעָ֥ה הַזֹּ֖את לָ֑נוּ וַיַּפִּ֨לוּ֙ גֹּֽורָלֹ֔ות וַיִּפֹּ֥ל הַגֹּורָ֖ל עַל־יֹונָֽה׃ (Jonah 1:7)
+NIV	Then the sailors said to each other, “Come, let us cast lots to _find out_ who is responsible for this calamity.” They cast lots and the lot fell on Jonah.
+ESV	And they said to one another, “Come, let us cast lots, that _we may know_ on whose account this evil has come upon us.” So they cast lots, and the lot fell on Jonah.
+
+(x)	_אָג֣וּרָה_ בְ֭אָהָלְךָ עֹולָמִ֑ים אֶֽחֱסֶ֨ה בְסֵ֖תֶר כְּנָפֶ֣יךָ סֶּֽלָה׃ (Psa. 61:5)
+NIV	_I long to dwell_ in your tent forever and take refuge in the shelter of your wings. Selah
+ESV	_Let me dwell_ in your tent forever! Let me take refuge under the shelter of your wings! Selah
+
+(x)	יָדֶ֣יךָ עָ֭שׂוּנִי וַֽיְכֹונְנ֑וּנִי הֲ֝בִינֵ֗נִי וְ_אֶלְמְדָ֥ה_ מִצְוֹתֶֽיךָ׃ (Psa. 119:73)
+NIV	Your hands made me and formed me. give me understanding to _learn_ your commands.
+ESV	[ Yodh ] Your hands have made and fashioned me. give me understanding that _I may learn_ your commandments.
+
+(x)	וְיֵשׁ֙ אֲשֶׁ֣ר אֹמְרִ֔ים בָּנֵ֥ינוּ וּבְנֹתֵ֖ינוּ אֲנַ֣חְנוּ רַבִּ֑ים וְנִקְחָ֥ה דָגָ֖ן וְ_נֹאכְלָ֥ה_ וְנִחְיֶֽה׃ (Neh. 5:2)
+NIV	Some were saying, “We and our sons and daughters are numerous. in order for us to _eat_ and stay alive, we must get grain.”
+ESV	For there were those who said, “With our sons and our daughters, we are many. So let us get grain, that _we may eat_ and keep alive.”
+
+(x)	עַתָּ֗ה חָכְמָ֤ה וּמַדָּע֙ תֶּן־לִ֔י וְ_אֵֽצְאָ֛ה_ לִפְנֵ֥י הָֽעָם־הַזֶּ֖ה וְאָבֹ֑ואָה כִּֽי־מִ֣י יִשְׁפֹּ֔ט אֶת־עַמְּךָ֥ הַזֶּ֖ה הַגָּדֹֽול׃ ס (II Chr. 1:10)
+NIV	Give me wisdom and knowledge, that _I may lead_ this people, for who is able to govern this great people of yours?”
+ESV	Give me now wisdom and knowledge to _go out_ and come in before this people, for who can govern this people of yours, which is so great?”

@@ -1,0 +1,10 @@
+eng_TAMsimp == "PAST ~ PRES PART" and lex == "יעץ"
+2 of 2
+
+(x)	וַ_יִּוָּעַ֣ץ_ הַמֶּ֔לֶךְ וַיַּ֕עַשׂ שְׁנֵ֖י עֶגְלֵ֣י זָהָ֑ב וַיֹּ֣אמֶר אֲלֵהֶ֗ם רַב־לָכֶם֙ מֵעֲלֹ֣ות יְרוּשָׁלִַ֔ם הִנֵּ֤ה אֱלֹהֶ֨יךָ֙ יִשְׂרָאֵ֔ל אֲשֶׁ֥ר הֶעֱל֖וּךָ מֵאֶ֥רֶץ מִצְרָֽיִם׃ (I Kgs. 12:28)
+NIV	After _seeking advice_, the king made two golden calves. He said to the people, “It is too much for you to go up to Jerusalem. Here are your gods, O Israel, who brought you up out of Egypt.”
+ESV	So the king _took counsel_ and made two calves of gold. And he said to the people, “You have gone up to Jerusalem long enough. Behold your gods, O Israel, who brought you up out of the land of Egypt.”
+
+(x)	וּמֶ֣לֶךְ אֲרָ֔ם הָיָ֥ה נִלְחָ֖ם בְּיִשְׂרָאֵ֑ל וַ_יִּוָּעַץ֙_ אֶל־עֲבָדָ֣יו לֵאמֹ֗ר אֶל־מְקֹ֛ום פְּלֹנִ֥י אַלְמֹנִ֖י תַּחֲנֹתִֽי׃ (II Kgs. 6:8)
+NIV	Now the king of Aram was at war with Israel. After _conferring_ with his officers, he said, “I will set up my camp in such and such a place.”
+ESV	Once when the king of Syria was warring against Israel, _he took counsel_ with his servants, saying, “At such and such a place shall be my camp.”

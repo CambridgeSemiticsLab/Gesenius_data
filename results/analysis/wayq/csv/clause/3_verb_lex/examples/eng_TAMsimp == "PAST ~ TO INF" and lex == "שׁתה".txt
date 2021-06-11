@@ -1,0 +1,10 @@
+eng_TAMsimp == "PAST ~ TO INF" and lex == "שׁתה"
+2 of 2
+
+(x)	וַיֵּשְׁב֗וּ וַיֹּאכְל֧וּ שְׁנֵיהֶ֛ם יַחְדָּ֖ו וַ_יִּשְׁתּ֑וּ_ וַיֹּ֜אמֶר אֲבִ֤י הַֽנַּעֲרָה֙ אֶל־הָאִ֔ישׁ הֹֽואֶל־נָ֥א וְלִ֖ין וְיִטַ֥ב לִבֶּֽךָ׃ (Judg. 19:6)
+NIV	So the two of them sat down to eat and _drink_ together. Afterwards the girl’s father said, “Please stay tonight and enjoy yourself.”
+ESV	So the two of them sat and ate and _drank_ together. And the girl’s father said to the man, “Be pleased to spend the night, and let your heart be merry.”
+
+(x)	וַיְבִיאֵ֣הוּ לְבֵיתֹ֔ו וַיָּ֖בָל לַחֲמֹורִ֑ים וַֽיִּרְחֲצוּ֙ רַגְלֵיהֶ֔ם וַיֹּאכְל֖וּ וַ_יִּשְׁתּֽוּ_׃ (Judg. 19:21)
+NIV	So he took him into his house and fed his donkeys. After they had washed their feet, they had something to eat and _drink_.
+ESV	So he brought him into his house and gave the donkeys feed. And they washed their feet, and ate and _drank_.

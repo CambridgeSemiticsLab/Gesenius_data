@@ -1,0 +1,102 @@
+eng_TAMsimp.isin(["TO INF", "PAST ~ TO INF"])and genre == "prose" and domain2 == "N" 
+25 of 70
+
+(x)	וַיָּ֥חֶל נֹ֖חַ אִ֣ישׁ הָֽאֲדָמָ֑ה וַ_יִּטַּ֖ע_ כָּֽרֶם׃ (Gen. 9:20)
+NIV	Noah, a man of the soil, proceeded to _plant_ a vineyard.
+ESV	Noah began to be a man of the soil, and _he planted_ a vineyard.
+
+(x)	וַיָּבֹ֥א חֲמֹ֛ור וּשְׁכֶ֥ם בְּנֹ֖ו אֶל־שַׁ֣עַר עִירָ֑ם וַֽ_יְדַבְּר֛וּ_ אֶל־אַנְשֵׁ֥י עִירָ֖ם לֵאמֹֽר׃ (Gen. 34:20)
+NIV	So Hamor and his son Shechem went to the gate of their city to _speak_ to their fellow townsmen.
+ESV	So Hamor and his son Shechem came to the gate of their city and _spoke_ to the men of their city, saying,
+
+(x)	וַיְצַ֣ו יֹוסֵ֗ף וַ_יְמַלְא֣וּ_ אֶת־כְּלֵיהֶם֮ בָּר֒ וּלְהָשִׁ֤יב כַּסְפֵּיהֶם֙ אִ֣ישׁ אֶל־שַׂקֹּ֔ו וְלָתֵ֥ת לָהֶ֛ם צֵדָ֖ה לַדָּ֑רֶךְ וַיַּ֥עַשׂ לָהֶ֖ם כֵּֽן׃ (Gen. 42:25)
+NIV	Joseph gave orders to _fill_ their bags with grain, to put each man’s silver back in his sack, and to give them provisions for their journey. After this was done for them,
+ESV	And Joseph gave orders to _fill_ their bags with grain, and to replace every man’s money in his sack, and to give them provisions for the journey. This was done for them.
+
+(x)	וַיִּשְׁמַ֤ע פַּרְעֹה֙ אֶת־הַדָּבָ֣ר הַזֶּ֔ה וַיְבַקֵּ֖שׁ לַהֲרֹ֣ג אֶת־מֹשֶׁ֑ה וַיִּבְרַ֤ח מֹשֶׁה֙ מִפְּנֵ֣י פַרְעֹ֔ה וַ_יֵּ֥שֶׁב_ בְּאֶֽרֶץ־מִדְיָ֖ן וַ_יֵּ֥שֶׁב_ עַֽל־הַבְּאֵֽר׃ (Exod. 2:15)
+NIV	When Pharaoh heard of this, he tried to kill Moses, but Moses fled from Pharaoh and went to _live_ in Midian, where he sat down by a well.
+ESV	When Pharaoh heard of it, he sought to kill Moses. But Moses fled from Pharaoh and _stayed_ in the land of Midian. And he sat down by a well.
+
+(x)	וַיִּשְׁחָ֗ט וַיִּקַּ֨ח מֹשֶׁ֤ה אֶת־הַדָּם֙ וַ֠יִּתֵּן עַל־קַרְנֹ֨ות הַמִּזְבֵּ֤חַ סָבִיב֙ בְּאֶצְבָּעֹ֔ו וַ_יְחַטֵּ֖א_ אֶת־הַמִּזְבֵּ֑חַ וְאֶת־הַדָּ֗ם יָצַק֙ אֶל־יְסֹ֣וד הַמִּזְבֵּ֔חַ וַֽיְקַדְּשֵׁ֖הוּ לְכַפֵּ֥ר עָלָֽיו׃ (Lev. 8:15)
+NIV	Moses slaughtered the bull and took some of the blood, and with his finger he put it on all the horns of the altar to _purify_ the altar. He poured out the rest of the blood at the base of the altar. So he consecrated it to make atonement for it.
+ESV	And he killed it, and Moses took the blood, and with his finger put it on the horns of the altar around it and _purified_ the altar and poured out the blood at the base of the altar and consecrated it to make atonement for it.
+
+(x)	וְאֶת־מֶ֧לֶךְ הָעַ֛י תָּלָ֥ה עַל־הָעֵ֖ץ עַד־עֵ֣ת הָעָ֑רֶב וּכְבֹ֣וא הַשֶּׁמֶשׁ֩ צִוָּ֨ה יְהֹושֻׁ֜עַ וַיֹּרִ֧ידוּ אֶת־נִבְלָתֹ֣ו מִן־הָעֵ֗ץ וַ_יַּשְׁלִ֤יכוּ_ אֹותָהּ֙ אֶל־פֶּ֨תַח֙ שַׁ֣עַר הָעִ֔יר וַיָּקִ֤ימוּ עָלָיו֙ גַּל־אֲבָנִ֣ים גָּדֹ֔ול עַ֖ד הַיֹּ֥ום הַזֶּֽה׃ פ (Josh. 8:29)
+NIV	He hung the king of Ai on a tree and left him there until evening. At sunset, Joshua ordered them to take his body from the tree and throw it down at the entrance of the city gate. And they raised a large pile of rocks over it, which remains to this day.
+ESV	And he hanged the king of Ai on a tree until evening. And at sunset Joshua commanded, and they took his body down from the tree and _threw_ it at the entrance of the gate of the city and raised over it a great heap of stones, which stands there to this day.
+
+(x)	וַיֵּ֛לֶךְ יְרֻבַּ֥עַל בֶּן־יֹואָ֖שׁ וַ_יֵּ֥שֶׁב_ בְּבֵיתֹֽו׃ (Judg. 8:29)
+NIV	Jerub-baal son of Joash went back home to _live_.
+ESV	Jerubbaal the son of Joash went and _lived_ in his own house.
+
+(x)	וַיִּקַּ֣ח אֶת־הָעָ֗ם וַֽיֶּחֱצֵם֙ לִשְׁלֹשָׁ֣ה רָאשִׁ֔ים וַיֶּאֱרֹ֖ב בַּשָּׂדֶ֑ה וַיַּ֗רְא וְהִנֵּ֤ה הָעָם֙ יֹצֵ֣א מִן־הָעִ֔יר וַיָּ֥קָם עֲלֵיהֶ֖ם וַ_יַּכֵּֽם_׃ (Judg. 9:43)
+NIV	So he took his men, divided them into three companies and set an ambush in the fields. When he saw the people coming out of the city, he rose to _attack_ them.
+ESV	He took his people and divided them into three companies and set an ambush in the fields. And he looked and saw the people coming out of the city. So he rose against them and _killed_ them.
+
+(x)	וַ_תְּיַשְּׁנֵ֨הוּ֙_ עַל־בִּרְכֶּ֔יהָ וַתִּקְרָ֣א לָאִ֔ישׁ וַתְּגַלַּ֕ח אֶת־שֶׁ֖בַע מַחְלְפֹ֣ות רֹאשֹׁ֑ו וַתָּ֨חֶל֙ לְעַנֹּותֹ֔ו וַיָּ֥סַר כֹּחֹ֖ו מֵעָלָֽיו׃ (Judg. 16:19)
+NIV	Having put him to sleep on her lap, she called a man to shave off the seven braids of his hair, and so began to subdue him. And his strength left him.
+ESV	She made him sleep on her knees. And she called a man and had him shave off the seven locks of his head. Then she began to torment him, and his strength left him.
+
+(x)	וַיֵּשְׁב֗וּ וַ_יֹּאכְל֧וּ_ שְׁנֵיהֶ֛ם יַחְדָּ֖ו וַיִּשְׁתּ֑וּ וַיֹּ֜אמֶר אֲבִ֤י הַֽנַּעֲרָה֙ אֶל־הָאִ֔ישׁ הֹֽואֶל־נָ֥א וְלִ֖ין וְיִטַ֥ב לִבֶּֽךָ׃ (Judg. 19:6)
+NIV	So the two of them sat down to _eat_ and drink together. Afterwards the girl’s father said, “Please stay tonight and enjoy yourself.”
+ESV	So the two of them sat and _ate_ and drank together. And the girl’s father said to the man, “Be pleased to spend the night, and let your heart be merry.”
+
+(x)	וַיְהִ֣י הַיֹּ֔ום וַ_יִּזְבַּ֖ח_ אֶלְקָנָ֑ה וְנָתַ֞ן לִפְנִנָּ֣ה אִשְׁתֹּ֗ו וּֽלְכָל־בָּנֶ֛יהָ וּבְנֹותֶ֖יהָ מָנֹֽות׃ (I Sam. 1:4)
+NIV	Whenever the day came for Elkanah to _sacrifice_, he would give portions of the meat to his wife Peninnah and to all her sons and daughters.
+ESV	On the day when Elkanah _sacrificed_, he would give portions to Peninnah his wife and to all her sons and daughters.
+
+(x)	וַיְהִ֣י׀ בַּיֹּ֣ום הַשְּׁלִישִׁ֗י וְהִנֵּה֩ אִ֨ישׁ בָּ֤א מִן־הַֽמַּחֲנֶה֙ מֵעִ֣ם שָׁא֔וּל וּבְגָדָ֣יו קְרֻעִ֔ים וַאֲדָמָ֖ה עַל־רֹאשֹׁ֑ו וַיְהִי֙ בְּבֹאֹ֣ו אֶל־דָּוִ֔ד וַיִּפֹּ֥ל אַ֖רְצָה וַ_יִּשְׁתָּֽחוּ_׃ (II Sam. 1:2)
+NIV	On the third day a man arrived from Saul’s camp, with his clothes torn and with dust on his head. When he came to David, he fell to the ground to pay him honour.
+ESV	And on the third day, behold, a man came from Saul’s camp, with his clothes torn and dirt on his head. And when he came to David, he fell to the ground and _paid homage_.
+
+(x)	וַיִּשְׁלַ֣ח דָּוִ֔ד וַ_יִּדְרֹ֖שׁ_ לָֽאִשָּׁ֑ה וַיֹּ֗אמֶר הֲלֹוא־זֹאת֙ בַּת־שֶׁ֣בַע בַּת־אֱלִיעָ֔ם אֵ֖שֶׁת אוּרִיָּ֥ה הַחִתִּֽי׃ (II Sam. 11:3)
+NIV	and David sent someone to _find out_ about her. The man said, “Isn’t this Bathsheba, the daughter of Eliam and the wife of Uriah the Hittite?”
+ESV	And David sent and _inquired_ about the woman. And one said, “Is not this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?”
+
+(x)	וַ֠תֹּאמֶר הָאִשָּׁ֤ה הַתְּקֹעִית֙ אֶל־הַמֶּ֔לֶךְ וַתִּפֹּ֧ל עַל־אַפֶּ֛יהָ אַ֖רְצָה וַ_תִּשְׁתָּ֑חוּ_ וַתֹּ֖אמֶר הֹושִׁ֥עָה הַמֶּֽלֶךְ׃ ס (II Sam. 14:4)
+NIV	When the woman from Tekoa went to the king, she fell with her face to the ground to pay him honour, and she said, “Help me, O king!”
+ESV	When the woman of Tekoa came to the king, she fell on her face to the ground and _paid homage_ and said, “Save me, O king.”
+
+(x)	וּבַרְזִלַּי֙ הַגִּלְעָדִ֔י יָרַ֖ד מֵרֹגְלִ֑ים וַ_יַּעֲבֹ֤ר_ אֶת־הַמֶּ֨לֶךְ֙ הַיַּרְדֵּ֔ן לְשַׁלְּחֹ֖ו אֶת־הַיַּרְדֵּֽן׃ (II Sam. 19:32)
+NIV	Barzillai the Gileadite also came down from Rogelim to _cross_ the Jordan with the king and to send him on his way from there.
+ESV	Now Barzillai the Gileadite had come down from Rogelim, and _he went on_ with the king to the Jordan, to escort him over the Jordan.
+
+(x)	וְאֶת־בֵּיתֹו֙ בָּנָ֣ה שְׁלֹמֹ֔ה שְׁלֹ֥שׁ עֶשְׂרֵ֖ה שָׁנָ֑ה וַ_יְכַ֖ל_ אֶת־כָּל־בֵּיתֹֽו׃ (I Kgs. 7:1)
+NIV	It took Solomon thirteen years, however, to _complete_ the construction of his palace.
+ESV	Solomon was building his own house thirteen years, and _he finished_ his entire house.
+
+(x)	וַיְהִ֨י בַֽצָּהֳרַ֜יִם וַ_יְהַתֵּ֧ל_ בָּהֶ֣ם אֵלִיָּ֗הוּ וַיֹּ֨אמֶר֙ קִרְא֤וּ בְקֹול־גָּדֹול֙ כִּֽי־אֱלֹהִ֣ים ה֔וּא כִּ֣י שִׂ֧יחַ וְכִֽי־שִׂ֛יג לֹ֖ו וְכִֽי־דֶ֣רֶךְ לֹ֑ו אוּלַ֛י יָשֵׁ֥ן ה֖וּא וְיִקָֽץ׃ (I Kgs. 18:27)
+NIV	At noon Elijah began to _taunt_ them. “Shout louder!” he said. “Surely he is a god! Perhaps he is deep in thought, or busy, or travelling. Maybe he is sleeping and must be awakened.”
+ESV	And at noon Elijah _mocked_ them, saying, “Cry aloud, for he is a god. Either he is musing, or he is relieving himself, or he is on a journey, or perhaps he is asleep and must be awakened.”
+
+(x)	וַיְמַהֵ֕ר וַ_יָּ֨סַר֙_ אֶת־הָ֣אֲפֵ֔ר מֵעֲלֵ֖י עֵינָ֑יו וַיַּכֵּ֤ר אֹתֹו֙ מֶ֣לֶךְ יִשְׂרָאֵ֔ל כִּ֥י מֵֽהַנְּבִאִ֖ים הֽוּא׃ (I Kgs. 20:41)
+NIV	Then the prophet quickly removed the headband from his eyes, and the king of Israel recognised him as one of the prophets.
+ESV	Then he hurried to take the bandage away from his eyes, and the king of Israel recognized him as one of the prophets.
+
+(x)	וַתִּקַּ֣ח יְהֹושֶׁ֣בַע בַּת־הַמֶּֽלֶךְ־יֹ֠ורָם אֲחֹ֨ות אֲחַזְיָ֜הוּ אֶת־יֹואָ֣שׁ בֶּן־אֲחַזְיָ֗ה וַתִּגְנֹ֤ב אֹתֹו֙ מִתֹּ֤וךְ בְּנֵֽי־הַמֶּ֨לֶךְ֙ הַמּ֣וּמָתִ֔ים אֹתֹ֥ו וְאֶת־מֵינִקְתֹּ֖ו בַּחֲדַ֣ר הַמִּטֹּ֑ות וַ_יַּסְתִּ֧רוּ_ אֹתֹ֛ו מִפְּנֵ֥י עֲתַלְיָ֖הוּ וְלֹ֥א הוּמָֽת׃ (II Kgs. 11:2)
+NIV	But Jehosheba, the daughter of King Jehoram and sister of Ahaziah, took Joash son of Ahaziah and stole him away from among the royal princes, who were about to be murdered. She put him and his nurse in a bedroom to _hide_ him from Athaliah. so he was not killed.
+ESV	But Jehosheba, the daughter of King Joram, sister of Ahaziah, took Joash the son of Ahaziah and stole him away from among the king’s sons who were being put to death, and she put him and his nurse in a bedroom. Thus _they hid_ him from Athaliah, so that he was not put to death.
+
+(x)	וְהִשְׁבִּ֣ית אֶת־הַכְּמָרִ֗ים אֲשֶׁ֤ר נָֽתְנוּ֙ מַלְכֵ֣י יְהוּדָ֔ה וַ_יְקַטֵּ֤ר_ בַּבָּמֹות֙ בְּעָרֵ֣י יְהוּדָ֔ה וּמְסִבֵּ֖י יְרוּשָׁלִָ֑ם וְאֶת־הַֽמְקַטְּרִ֣ים לַבַּ֗עַל לַשֶּׁ֤מֶשׁ וְלַיָּרֵ֨חַ֙ וְלַמַּזָּלֹ֔ות וּלְכֹ֖ל צְבָ֥א הַשָּׁמָֽיִם׃ (II Kgs. 23:5)
+NIV	He did away with the pagan priests appointed by the kings of Judah to _burn incense_ on the high places of the towns of Judah and on those around Jerusalem — those who burned incense to Baal, to the sun and moon, to the constellations and to all the starry hosts.
+ESV	And he deposed the priests whom the kings of Judah had ordained to _make offerings_ in the high places at the cities of Judah and around Jerusalem. those also who burned incense to Baal, to the sun and the moon and the constellations and all the host of the heavens.
+
+(x)	וַתָּ֤קָם הִיא֙ וְכַלֹּתֶ֔יהָ וַ_תָּ֖שָׁב_ מִשְּׂדֵ֣י מֹואָ֑ב כִּ֤י שָֽׁמְעָה֙ בִּשְׂדֵ֣ה מֹואָ֔ב כִּֽי־פָקַ֤ד יְהוָה֙ אֶת־עַמֹּ֔ו לָתֵ֥ת לָהֶ֖ם לָֽחֶם׃ (Ruth 1:6)
+NIV	When she heard in Moab that the LORD had come to the aid of his people by providing food for them, Naomi and her daughters-in-law prepared to _return_ home from there.
+ESV	Then she arose with her daughters-in-law to _return_ from the country of Moab, for she had heard in the fields of Moab that the Lord had visited his people and given them food.
+
+(x)	וַיֹּאמֶר֩ לִ֨י הַמֶּ֜לֶךְ וְהַשֵּׁגַ֣ל׀ יֹושֶׁ֣בֶת אֶצְלֹ֗ו עַד־מָתַ֛י יִהְיֶ֥ה מַֽהֲלָכֲךָ֖ וּמָתַ֣י תָּשׁ֑וּב וַיִּיטַ֤ב לִפְנֵֽי־הַמֶּ֨לֶךְ֙ וַ_יִּשְׁלָחֵ֔נִי_ וָֽאֶתְּנָ֥ה לֹ֖ו זְמָֽן׃ (Neh. 2:6)
+NIV	Then the king, with the queen sitting beside him, asked me, “How long will your journey take, and when will you get back?” It pleased the king to _send_ me. so I set a time.
+ESV	And the king said to me ( the queen sitting beside him ), “How long will you be gone, and when will you return?” So it pleased the king to _send_ me when I had given him a time.
+
+(x)	וַעֲתַלְיָ֨הוּ֙ אֵ֣ם אֲחַזְיָ֔הוּ רָאֲתָ֖ה כִּ֣י מֵ֣ת בְּנָ֑הּ וַתָּ֗קָם וַ_תְּדַבֵּ֛ר_ אֶת־כָּל־זֶ֥רַע הַמַּמְלָכָ֖ה לְבֵ֥ית יְהוּדָֽה׃ (II Chr. 22:10)
+NIV	When Athaliah the mother of Ahaziah saw that her son was dead, she proceeded to _destroy_ the whole royal family of the house of Judah.
+ESV	Now when Athaliah the mother of Ahaziah saw that her son was dead, she arose and _destroyed_ all the royal family of the house of Judah.
+
+(x)	וַ_יִּתְחַזַּ֡ק_ וַיִּבֶן֩ אֶת־כָּל־הַחֹומָ֨ה הַפְּרוּצָ֜ה וַיַּ֣עַל עַל־הַמִּגְדָּלֹ֗ות וְלַח֨וּצָה֙ הַחֹומָ֣ה אַחֶ֔רֶת וַיְחַזֵּ֥ק אֶת־הַמִּלֹּ֖וא עִ֣יר דָּוִ֑יד וַיַּ֥עַשׂ שֶׁ֛לַח לָרֹ֖ב וּמָגִנִּֽים׃ (II Chr. 32:5)
+NIV	Then _he worked hard_ repairing all the broken sections of the wall and building towers on it. He built another wall outside that one and reinforced the supporting terraces of the City of David. He also made large numbers of weapons and shields.
+ESV	_He set to work resolutely_ and built up all the wall that was broken down and raised towers upon it, and outside it he built another wall, and he strengthened the Millo in the city of David. He also made weapons and shields in abundance.
+
+(x)	וּבִשְׁנַ֣ת אַחַ֗ת לְכֹ֨ורֶשׁ֙ מֶ֣לֶךְ פָּרַ֔ס לִכְלֹ֥ות דְּבַר־יְהוָ֖ה בְּפִ֣י יִרְמְיָ֑הוּ הֵעִ֣יר יְהוָ֗ה אֶת־ר֨וּחַ֙ כֹּ֣ורֶשׁ מֶֽלֶךְ־פָּרַ֔ס וַ_יַּֽעֲבֶר_־קֹול֙ בְּכָל־מַלְכוּתֹ֔ו וְגַם־בְּמִכְתָּ֖ב לֵאמֹֽר׃ ס (II Chr. 36:22)
+NIV	In the first year of Cyrus king of Persia, in order to fulfil the word of the LORD spoken by Jeremiah, the LORD moved the heart of Cyrus king of Persia to _make_ a proclamation throughout his realm and to put it in writing:
+ESV	Now in the first year of Cyrus king of Persia, that the word of the Lord by the mouth of Jeremiah might be fulfilled, the Lord stirred up the spirit of Cyrus king of Persia, so that _he made_ a proclamation throughout all his kingdom and also put it in writing:

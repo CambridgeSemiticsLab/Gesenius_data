@@ -1,0 +1,78 @@
+esv_TAM == "IMPV do not" or niv_TAM == "IMPV do not"
+19 of 19
+
+(x)	וַתֹּ֣אמֶר אֶל־אָבִ֗יהָ אַל־_יִ֨חַר֙_ בְּעֵינֵ֣י אֲדֹנִ֔י כִּ֣י לֹ֤וא אוּכַל֙ לָק֣וּם מִפָּנֶ֔יךָ כִּי־דֶ֥רֶךְ נָשִׁ֖ים לִ֑י וַיְחַפֵּ֕שׂ וְלֹ֥א מָצָ֖א אֶת־הַתְּרָפִֽים׃ (Gen. 31:35)
+NIV	Rachel said to her father, “Don’t _be angry_, my lord, that I cannot stand up in your presence. I’m having my period.” So he searched but could not find the household gods.
+ESV	And she said to her father, “Let not my lord be angry that I cannot rise before you, for the way of women is upon me.” So he searched but did not find the household gods.
+
+(x)	וַיִּגַּ֨שׁ אֵלָ֜יו יְהוּדָ֗ה וַיֹּאמֶר֮ בִּ֣י אֲדֹנִי֒ יְדַבֶּר־נָ֨א עַבְדְּךָ֤ דָבָר֙ בְּאָזְנֵ֣י אֲדֹנִ֔י וְאַל־_יִ֥חַר_ אַפְּךָ֖ בְּעַבְדֶּ֑ךָ כִּ֥י כָמֹ֖וךָ כְּפַרְעֹֽה׃ (Gen. 44:18)
+NIV	Then Judah went up to him and said: “Please, my lord, let your servant speak a word to my lord. Do not be angry with your servant, though you are equal to Pharaoh himself.
+ESV	Then Judah went up to him and said, “Oh, my lord, please let your servant speak a word in my lord’s ears, and let not your anger burn against your servant, for you are like Pharaoh himself.
+
+(x)	לֹ֥א תִשָּׂ֖א שֵׁ֣מַע שָׁ֑וְא אַל־_תָּ֤שֶׁת_ יָֽדְךָ֙ עִם־רָשָׁ֔ע לִהְיֹ֖ת עֵ֥ד חָמָֽס׃ ס (Exod. 23:1)
+NIV	“Do not spread false reports. Do not help a wicked man by being a malicious witness.
+ESV	“You shall not spread a false report. You shall not join hands with a wicked man to be a malicious witness.
+
+(x)	וַיֹּ֣אמֶר אַהֲרֹ֔ן אַל־_יִ֥חַר_ אַ֖ף אֲדֹנִ֑י אַתָּה֙ יָדַ֣עְתָּ אֶת־הָעָ֔ם כִּ֥י בְרָ֖ע הֽוּא׃ (Exod. 32:22)
+NIV	“Do not be angry, my lord,” Aaron answered. “You know how prone these people are to evil.
+ESV	And Aaron said, “Let not the anger of my lord burn hot. You know the people, that they are set on evil.
+
+(x)	אַל־נָ֥א _תְהִ֖י_ כַּמֵּ֑ת אֲשֶׁ֤ר בְּצֵאתֹו֙ מֵרֶ֣חֶם אִמֹּ֔ו וַיֵּאָכֵ֖ל חֲצִ֥י בְשָׂרֹֽו׃ (Num. 12:12)
+NIV	Do not let her be like a stillborn infant coming from its mother’s womb with its flesh half eaten away.”
+ESV	Let her not be as one dead, whose flesh is half eaten away when he comes out of his mother’s womb.”
+
+(x)	וַיָּשֻׁ֣בוּ אֶל־יְהֹושֻׁ֗עַ וַיֹּאמְר֣וּ אֵלָיו֮ אַל־_יַ֣עַל_ כָּל־הָעָם֒ כְּאַלְפַּ֣יִם אִ֗ישׁ אֹ֚ו כִּשְׁלֹ֣שֶׁת אֲלָפִ֣ים אִ֔ישׁ יַעֲל֖וּ וְיַכּ֣וּ אֶת־הָעָ֑י אַל־תְּיַגַּע־שָׁ֨מָּה֙ אֶת־כָּל־הָעָ֔ם כִּ֥י מְעַ֖ט הֵֽמָּה׃ (Josh. 7:3)
+NIV	When they returned to Joshua, they said, “Not all the people _will have to go up_ against Ai. Send two or three thousand men to take it and do not weary all the people, for only a few men are there.”
+ESV	And they returned to Joshua and said to him, “Do not have all the people go up, but let about two or three thousand men go up and attack Ai. Do not make the whole people toil up there, for they are few.”
+
+(x)	וַיֹּ֤אמֶר גִּדְעֹון֙ אֶל־הָ֣אֱלֹהִ֔ים אַל־_יִ֤חַר_ אַפְּךָ֙ בִּ֔י וַאֲדַבְּרָ֖ה אַ֣ךְ הַפָּ֑עַם אֲנַסֶּ֤ה נָּא־רַק־הַפַּ֨עַם֙ בַּגִּזָּ֔ה יְהִי־נָ֨א חֹ֤רֶב אֶל־הַגִּזָּה֙ לְבַדָּ֔הּ וְעַל־כָּל־הָאָ֖רֶץ יִֽהְיֶה־טָּֽל׃ (Judg. 6:39)
+NIV	Then Gideon said to God, “Do not be angry with me. Let me make just one more request. Allow me one more test with the fleece. This time make the fleece dry and the ground covered with dew.”
+ESV	Then Gideon said to God, “Let not your anger burn against me. let me speak just once more. Please let me test just once more with the fleece. Please let it be dry on the fleece only, and on all the ground let there be dew.”
+
+(x)	וַיֹּאמְר֤וּ אֵלָיו֙ בְּנֵי־דָ֔ן אַל־_תַּשְׁמַ֥ע_ קֹולְךָ֖ עִמָּ֑נוּ פֶּֽן־יִפְגְּע֣וּ בָכֶ֗ם אֲנָשִׁים֙ מָ֣רֵי נֶ֔פֶשׁ וְאָסַפְתָּ֥ה נַפְשְׁךָ֖ וְנֶ֥פֶשׁ בֵּיתֶֽךָ׃ (Judg. 18:25)
+NIV	The Danites answered, “Don’t _argue_ with us, or some hot-tempered men will attack you, and you and your family will lose your lives.”
+ESV	And the people of Dan said to him, “Do not let your voice be heard among us, lest angry fellows fall upon you, and you lose your life with the lives of your household.”
+
+(x)	וַיֹּ֨אמֶר֙ הַנִּ֣יחוּ לֹ֔ו אִ֖ישׁ אַל־_יָנַ֣ע_ עַצְמֹתָ֑יו וַֽיְמַלְּטוּ֙ עַצְמֹתָ֔יו אֵ֚ת עַצְמֹ֣ות הַנָּבִ֔יא אֲשֶׁר־בָּ֖א מִשֹּׁמְרֹֽון׃ (II Kgs. 23:18)
+NIV	“Leave it alone,” he said. “Don’t let anyone disturb his bones.” So they spared his bones and those of the prophet who had come from Samaria.
+ESV	And he said, “Let him be. let no man move his bones.” So they let his bones alone, with the bones of the prophet who came out of Samaria.
+
+(x)	כִּֽי־כֹ֣ה׀ אָמַ֣ר יְהוָ֗ה אַל־תָּבֹוא֙ בֵּ֣ית מַרְזֵ֔חַ וְאַל־תֵּלֵ֣ךְ לִסְפֹּ֔וד וְאַל־_תָּנֹ֖ד_ לָהֶ֑ם כִּֽי־אָסַ֨פְתִּי אֶת־שְׁלֹומִ֜י מֵאֵ֨ת הָעָ֤ם־הַזֶּה֙ נְאֻם־יְהוָ֔ה אֶת־הַחֶ֖סֶד וְאֶת־הָֽרַחֲמִֽים׃ (Jer. 16:5)
+NIV	For this is what the LORD says: “Do not enter a house where there is a funeral meal. do not go to mourn or _show sympathy_, because I have withdrawn my blessing, my love and my pity from this people,” declares the LORD.
+ESV	“For thus says the Lord: Do not enter the house of mourning, or go to lament or _grieve_ for them, for I have taken away my peace from this people, my steadfast love and mercy, declares the Lord.
+
+(x)	וְאַל־_תֵּ֤רֶא_ בְיֹום־אָחִ֨יךָ֙ בְּיֹ֣ום נָכְרֹ֔ו וְאַל־תִּשְׂמַ֥ח לִבְנֵֽי־יְהוּדָ֖ה בְּיֹ֣ום אָבְדָ֑ם וְאַל־תַּגְדֵּ֥ל פִּ֖יךָ בְּיֹ֥ום צָרָֽה׃ (Obad. 1:12)
+NIV	You should not look down on your brother in the day of his misfortune, nor rejoice over the people of Judah in the day of their destruction, nor boast so much in the day of their trouble.
+ESV	But do not gloat over the day of your brother in the day of his misfortune. do not rejoice over the people of Judah in the day of their ruin. do not boast in the day of distress.
+
+(x)	וְאַל־תֵּ֤רֶא בְיֹום־אָחִ֨יךָ֙ בְּיֹ֣ום נָכְרֹ֔ו וְאַל־תִּשְׂמַ֥ח לִבְנֵֽי־יְהוּדָ֖ה בְּיֹ֣ום אָבְדָ֑ם וְאַל־_תַּגְדֵּ֥ל_ פִּ֖יךָ בְּיֹ֥ום צָרָֽה׃ (Obad. 1:12)
+NIV	You should not look down on your brother in the day of his misfortune, nor rejoice over the people of Judah in the day of their destruction, nor _boast so much_ in the day of their trouble.
+ESV	But do not gloat over the day of your brother in the day of his misfortune. do not rejoice over the people of Judah in the day of their ruin. do not boast in the day of distress.
+
+(x)	אַל־תָּבֹ֤וא בְשַֽׁעַר־עַמִּי֙ בְּיֹ֣ום אֵידָ֔ם אַל־_תֵּ֧רֶא_ גַם־אַתָּ֛ה בְּרָעָתֹ֖ו בְּיֹ֣ום אֵידֹ֑ו וְאַל־תִּשְׁלַ֥חְנָה בְחֵילֹ֖ו בְּיֹ֥ום אֵידֹֽו׃ (Obad. 1:13)
+NIV	You should not march through the gates of my people in the day of their disaster, nor _look down_ on them in their calamity in the day of their disaster, nor seize their wealth in the day of their disaster.
+ESV	Do not enter the gate of my people in the day of their calamity. do not gloat over his disaster in the day of his calamity. do not loot his wealth in the day of his calamity.
+
+(x)	וְאַֽל־תַּעֲמֹד֙ עַל־הַפֶּ֔רֶק לְהַכְרִ֖ית אֶת־פְּלִיטָ֑יו וְאַל־_תַּסְגֵּ֥ר_ שְׂרִידָ֖יו בְּיֹ֥ום צָרָֽה׃ (Obad. 1:14)
+NIV	You should not wait at the crossroads to cut down their fugitives, nor _hand over_ their survivors in the day of their trouble.
+ESV	Do not stand at the crossroads to cut off his fugitives. do not hand over his survivors in the day of distress.
+
+(x)	אַל־_יָשֹׁ֣ב_ דַּ֣ךְ נִכְלָ֑ם עָנִ֥י וְ֝אֶבְיֹ֗ון יְֽהַלְל֥וּ שְׁמֶֽךָ׃ (Psa. 74:21)
+NIV	Do not let the oppressed retreat in disgrace. may the poor and needy praise your name.
+ESV	Let not the downtrodden turn back in shame. let the poor and needy praise your name.
+
+(x)	שֻֽׁבוּ־נָ֭א אַל־_תְּהִ֣י_ עַוְלָ֑ה וְשֻֽׁבוּ עֹ֝וד צִדְקִי־בָֽהּ׃ (Job 6:29)
+NIV	Relent, do not be unjust. reconsider, for my integrity is at stake.
+ESV	Please turn. let no injustice be done. Turn now. my vindication is at stake.
+
+(x)	הִ֭שָּׁמֶר אַל־_תֵּ֣פֶן_ אֶל־אָ֑וֶן כִּֽי־עַל־זֶ֝֗ה בָּחַ֥רְתָּ מֵעֹֽנִי׃ (Job 36:21)
+NIV	Beware of _turning_ to evil, which you seem to prefer to affliction.
+ESV	Take care. do not turn to iniquity, for this you have chosen rather than affliction.
+
+(x)	אַל־יֵ֣שְׂטְ אֶל־דְּרָכֶ֣יהָ לִבֶּ֑ךָ אַל־_תֵּ֝תַע_ בִּנְתִיבֹותֶֽיהָ׃ (Prov. 7:25)
+NIV	Do not let your heart turn to her ways or _stray_ into her paths.
+ESV	Let not your heart turn aside to her ways. do not stray into her paths,
+
+(x)	בִּנְפֹ֣ל אֹֽ֭ויִבְךָ אַל־תִּשְׂמָ֑ח וּ֝בִכָּשְׁלֹ֗ו אַל־_יָגֵ֥ל_ לִבֶּֽךָ׃ (Prov. 24:17)
+NIV	Do not gloat when your enemy falls. when he stumbles, do not let your heart rejoice,
+ESV	Do not rejoice when your enemy falls, and let not your heart be glad when he stumbles,

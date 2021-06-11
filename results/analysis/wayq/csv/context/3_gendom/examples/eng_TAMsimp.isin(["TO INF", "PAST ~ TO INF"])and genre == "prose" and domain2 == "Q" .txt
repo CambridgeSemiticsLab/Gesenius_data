@@ -1,0 +1,22 @@
+eng_TAMsimp.isin(["TO INF", "PAST ~ TO INF"])and genre == "prose" and domain2 == "Q" 
+5 of 5
+
+(x)	וַיֹּ֨אמֶר יְהֹושֻׁ֜עַ אֲהָ֣הּ׀ אֲדֹנָ֣י יְהוִ֗ה לָ֠מָה הֵעֲבַ֨רְתָּ הַעֲבִ֜יר אֶת־הָעָ֤ם הַזֶּה֙ אֶת־הַיַּרְדֵּ֔ן לָתֵ֥ת אֹתָ֛נוּ בְּיַ֥ד הָאֱמֹרִ֖י לְהַאֲבִידֵ֑נוּ וְלוּ֙ הֹואַ֣לְנוּ וַ_נֵּ֔שֶׁב_ בְּעֵ֖בֶר הַיַּרְדֵּֽן׃ (Josh. 7:7)
+NIV	And Joshua said, “Ah, Sovereign LORD, why did you ever bring this people across the Jordan to deliver us into the hands of the Amorites to destroy us? If only we had been content to _stay_ on the other side of the Jordan!
+ESV	And Joshua said, “Alas, O Lord God, why have you brought this people over the Jordan at all, to give us into the hands of the Amorites, to destroy us? Would that we had been content to _dwell_ beyond the Jordan!
+
+(x)	וַיָּ֨קָם בָּלָ֤ק בֶּן־צִפֹּור֙ מֶ֣לֶךְ מֹואָ֔ב וַ_יִּלָּ֖חֶם_ בְּיִשְׂרָאֵ֑ל וַיִּשְׁלַ֗ח וַיִּקְרָ֛א לְבִלְעָ֥ם בֶּן־בְּעֹ֖ור לְקַלֵּ֥ל אֶתְכֶֽם׃ (Josh. 24:9)
+NIV	When Balak son of Zippor, the king of Moab, prepared to _fight_ against Israel, he sent for Balaam son of Beor to put a curse on you.
+ESV	Then Balak the son of Zippor, king of Moab, arose and _fought_ against Israel. And he sent and invited Balaam the son of Beor to curse you,
+
+(x)	אֲשֶׁר־נִלְחַ֥ם אָבִ֖י עֲלֵיכֶ֑ם וַיַּשְׁלֵ֤ךְ אֶת־נַפְשֹׁו֙ מִנֶּ֔גֶד וַ_יַּצֵּ֥ל_ אֶתְכֶ֖ם מִיַּ֥ד מִדְיָֽן׃ (Judg. 9:17)
+NIV	and to think that my father fought for you, risked his life _to rescue_ you from the hand of Midian
+ESV	for my father fought for you and risked his life and _delivered_ you from the hand of Midian,
+
+(x)	וָאֹמַ֗ר עַ֠תָּה יֵרְד֨וּ פְלִשְׁתִּ֤ים אֵלַי֙ הַגִּלְגָּ֔ל וּפְנֵ֥י יְהוָ֖ה לֹ֣א חִלִּ֑יתִי וָֽאֶתְאַפַּ֔ק וָ_אַעֲלֶ֖ה_ הָעֹלָֽה׃ ס (I Sam. 13:12)
+NIV	I thought, ‘Now the Philistines will come down against me at Gilgal, and I have not sought the LORD’s favour.’ So I felt compelled to _offer_ the burnt _offer_ing.”
+ESV	I said, ‘Now the Philistines will come down against me at Gilgal, and I have not sought the favor of the Lord.’ So I forced myself, and _offered_ the burnt offering.”
+
+(x)	וָאֹ֣מְרָ֔ה וַֽ_יְטַהֲר֖וּ_ הַלְּשָׁכֹ֑ות וָאָשִׁ֣יבָה שָּׁ֗ם כְּלֵי֙ בֵּ֣ית הָאֱלֹהִ֔ים אֶת־הַמִּנְחָ֖ה וְהַלְּבֹונָֽה׃ פ (Neh. 13:9)
+NIV	I gave orders to _purify_ the rooms, and then I put back into them the equipment of the house of God, with the grain offerings and the incense.
+ESV	Then I gave orders, and _they cleansed_ the chambers, and I brought back there the vessels of the house of God, with the grain offering and the frankincense.

@@ -1,0 +1,70 @@
+esv_TAM == "PRES" or niv_TAM == "PRES"
+17 of 17
+
+(x)	עַתָּ֞ה שְׁמַ֤ע בְּקֹלִי֙ אִיעָ֣צְךָ֔ וִ_יהִ֥י_ אֱלֹהִ֖ים עִמָּ֑ךְ הֱיֵ֧ה אַתָּ֣ה לָעָ֗ם מ֚וּל הָֽאֱלֹהִ֔ים וְהֵבֵאתָ֥ אַתָּ֛ה אֶת־הַדְּבָרִ֖ים אֶל־הָאֱלֹהִֽים׃ (Exod. 18:19)
+NIV	Listen now to me and I will give you some advice, and may God be with you. You must be the people’s representative before God and bring their disputes to him.
+ESV	Now o_be_y my voice. I will give you advice, and God _be_ with you! You shall represent the people _be_fore God and bring their cases to God,
+
+(x)	_יָאֵ֨ר_ יְהוָ֧ה׀ פָּנָ֛יו אֵלֶ֖יךָ וִֽיחֻנֶּֽךָּ׃ ס (Num. 6:25)
+NIV	the LORD make his face shine upon you and be gracious to you.
+ESV	the Lord make his face to shine upon you and be gracious to you.
+
+(x)	וַיָּבֹא֩ הָעָ֨ם אֶל־מֹשֶׁ֜ה וַיֹּאמְר֣וּ חָטָ֗אנוּ כִּֽי־דִבַּ֤רְנוּ בַֽיהוָה֙ וָבָ֔ךְ הִתְפַּלֵּל֙ אֶל־יְהוָ֔ה וְ_יָסֵ֥ר_ מֵעָלֵ֖ינוּ אֶת־הַנָּחָ֑שׁ וַיִּתְפַּלֵּ֥ל מֹשֶׁ֖ה בְּעַ֥ד הָעָֽם׃ (Num. 21:7)
+NIV	The people came to Moses and said, “We sinned when we spoke against the LORD and against you. Pray that the LORD will take the snakes away from us.” So Moses prayed for the people.
+ESV	And the people came to Moses and said, “We have sinned, for we have spoken against the Lord and against you. Pray to the Lord, that _he take away_ the serpents from us.” So Moses prayed for the people.
+
+(x)	_יְהִ֨י_ יְהוָ֤ה אֱלֹהֵ֨ינוּ֙ עִמָּ֔נוּ כַּאֲשֶׁ֥ר הָיָ֖ה עִם־אֲבֹתֵ֑ינוּ אַל־יַעַזְבֵ֖נוּ וְאַֽל־יִטְּשֵֽׁנוּ׃ (I Kgs. 8:57)
+NIV	May the LORD our God be with us as he was with our fathers. may he never leave us nor forsake us.
+ESV	The Lord our God _be_ with us, as he was with our fathers. May he not leave us or forsake us,
+
+(x)	_יְהִ֨י_ יְהוָ֤ה אֱלֹהֶ֨יךָ֙ בָּר֔וּךְ אֲשֶׁר֙ חָפֵ֣ץ בְּךָ֔ לְתִתְּךָ֖ עַל־כִּסֵּ֣א יִשְׂרָאֵ֑ל בְּאַהֲבַ֨ת יְהוָ֤ה אֶת־יִשְׂרָאֵל֙ לְעֹלָ֔ם וַיְשִֽׂימְךָ֣ לְמֶ֔לֶךְ לַעֲשֹׂ֥ות מִשְׁפָּ֖ט וּצְדָקָֽה׃ (I Kgs. 10:9)
+NIV	Praise _be_ to the LORD your God, who has delighted in you and placed you on the throne of Israel. Because of the LORD’s eternal love for Israel, he has made you king, to maintain justice and righteousness.”
+ESV	Blessed _be_ the Lord your God, who has delighted in you and set you on the throne of Israel! Because the Lord loved Israel forever, he has made you king, that you may execute justice and righteousness.”
+
+(x)	שֹׂ֧ושׂ אָשִׂ֣ישׂ בַּֽיהוָ֗ה _תָּגֵ֤ל_ נַפְשִׁי֙ בֵּֽאלֹהַ֔י כִּ֤י הִלְבִּישַׁ֨נִי֙ בִּגְדֵי־יֶ֔שַׁע מְעִ֥יל צְדָקָ֖ה יְעָטָ֑נִי כֶּֽחָתָן֙ יְכַהֵ֣ן פְּאֵ֔ר וְכַכַּלָּ֖ה תַּעְדֶּ֥ה כֵלֶֽיהָ׃ (Isa. 61:10)
+NIV	I delight greatly in the LORD. my soul _rejoices_ in my God. For he has clothed me with garments of salvation and arrayed me in a robe of righteousness, as a bridegroom adorns his head like a priest, and as a bride adorns herself with her jewels.
+ESV	I will greatly rejoice in the Lord. my soul _shall exult_ in my God, for he has clothed me with the garments of salvation. he has covered me with the robe of righteousness, as a bridegroom decks himself like a priest with a beautiful headdress, and as a bride adorns herself with her jewels.
+
+(x)	וַאֲנִ֤י׀ בְּחַסְדְּךָ֣ בָטַחְתִּי֮ _יָ֤גֵ֥ל_ לִבִּ֗י בִּֽישׁוּעָ֫תֶ֥ךָ אָשִׁ֥ירָה לַיהוָ֑ה כִּ֖י גָמַ֣ל עָלָֽי׃ (Psa. 13:6)
+NIV	But I trust in your unfailing love. my heart _rejoices_ in your salvation.
+ESV	But I have trusted in your steadfast love. my heart _shall rejoice_ in your salvation.
+
+(x)	וַאֲנִ֤י׀ עָנִ֣י וְאֶבְיֹון֮ אֲדֹנָ֪י _יַחֲשָׁ֫ב_ לִ֥י עֶזְרָתִ֣י וּמְפַלְטִ֣י אַ֑תָּה אֱ֝לֹהַ֗י אַל־תְּאַחַֽר׃ (Psa. 40:18)
+NIV	Yet I am poor and needy. may the Lord think of me. You are my help and my deliverer. O my God, do not delay.
+ESV	As for me, I am poor and needy, but the Lord _takes thought_ for me. You are my help and my deliverer. do not delay, O my God!
+
+(x)	וְ_יִתְאָ֣ו_ הַמֶּ֣לֶךְ יָפְיֵ֑ךְ כִּי־ה֥וּא אֲ֝דֹנַ֗יִךְ וְהִשְׁתַּֽחֲוִי־לֹֽו׃ (Psa. 45:12)
+NIV	The king _is enthralled_ by your beauty. honor him, for he is your lord.
+ESV	and the king _will desire_ your beauty. Since he is your lord, bow to him.
+
+(x)	_יְהִֽי_־שֻׁלְחָנָ֣ם לִפְנֵיהֶ֣ם לְפָ֑ח וְלִשְׁלֹומִ֥ים לְמֹוקֵֽשׁ׃ (Psa. 69:23)
+NIV	May the table set before them become a snare. may it become retribution and a trap.
+ESV	Let their own table before them become a snare. and when they are at peace, let it become a trap.
+
+(x)	_יְהִ֤י_ שֵׁ֣ם יְהוָ֣ה מְבֹרָ֑ךְ מֵֽ֝עַתָּ֗ה וְעַד־עֹולָֽם׃ (Psa. 113:2)
+NIV	Let the name of the LORD be praised, both now and forevermore.
+ESV	Blessed _be_ the name of the Lord from this time forth and forevermore!
+
+(x)	וַיֹּאמֶר֩ עָרֹ֨ם יָצָ֜אתִי מִבֶּ֣טֶן אִמִּ֗י וְעָרֹם֙ אָשׁ֣וּב שָׁ֔מָה יְהוָ֣ה נָתַ֔ן וַיהוָ֖ה לָקָ֑ח _יְהִ֛י_ שֵׁ֥ם יְהוָ֖ה מְבֹרָֽךְ׃ (Job 1:21)
+NIV	and said: “Naked I came from my mother’s womb, and naked I shall depart. The LORD gave and the LORD has taken away. may the name of the LORD be praised.”
+ESV	And he said, “Naked I came from my mother’s womb, and naked shall I return. The Lord gave, and the Lord has taken away. blessed _be_ the name of the Lord.”
+
+(x)	אִם־אָ֣וֶן בְּ֭יָדְךָ הַרְחִיקֵ֑הוּ וְאַל־_תַּשְׁכֵּ֖ן_ בְּאֹהָלֶ֣יךָ עַוְלָֽה׃ (Job 11:14)
+NIV	if you put away the sin that is in your hand and allow no evil to dwell in your tent,
+ESV	If iniquity is in your hand, put it far away, and let not injustice dwell in your tents.
+
+(x)	וְ_יֹוכַ֣ח_ לְגֶ֣בֶר עִם־אֱלֹ֑והַּ וּֽבֶן־אָדָ֥ם לְרֵעֵֽהוּ׃ (Job 16:21)
+NIV	on behalf of a man _he pleads_ with God as a man pleads for his friend.
+ESV	that _he would argue the case_ of a man with God, as a son of man does with his neighbor.
+
+(x)	אִם־לֹ֣א הֲ֭תֻלִים עִמָּדִ֑י וּ֝בְהַמְּרֹותָ֗ם _תָּלַ֥ן_ עֵינִֽי׃ (Job 17:2)
+NIV	Surely mockers surround me. my eyes _must dwell_ on their hostility.
+ESV	Surely there are mockers about me, and my eye _dwells_ on their provocation.
+
+(x)	וַתֹּאמֶר֩ לָ֨הּ חֲמֹותָ֜הּ אֵיפֹ֨ה לִקַּ֤טְתְּ הַיֹּום֙ וְאָ֣נָה עָשִׂ֔ית _יְהִ֥י_ מַכִּירֵ֖ךְ בָּר֑וּךְ וַתַּגֵּ֣ד לַחֲמֹותָ֗הּ אֵ֤ת אֲשֶׁר־עָשְׂתָה֙ עִמֹּ֔ו וַתֹּ֗אמֶר שֵׁ֤ם הָאִישׁ֙ אֲשֶׁ֨ר עָשִׂ֧יתִי עִמֹּ֛ו הַיֹּ֖ום בֹּֽעַז׃ (Ruth 2:19)
+NIV	Her mother-in-law asked her, “Where did you glean today? Where did you work? Blessed _be_ the man who took notice of you!” Then Ruth told her mother-in-law about the one at whose place she had _be_en working. “The name of the man I worked with today is Boaz,” she said.
+ESV	And her mother-in-law said to her, “Where did you glean today? And where have you worked? Blessed _be_ the man who took notice of you.” So she told her mother-in-law with whom she had worked and said, “The man’s name with whom I worked today is Boaz.”
+
+(x)	_יְהִ֨י_ יְהוָ֤ה אֱלֹהֶ֨יךָ֙ בָּר֔וּךְ אֲשֶׁ֣ר׀ חָפֵ֣ץ בְּךָ֗ לְתִתְּךָ֤ עַל־כִּסְאֹו֙ לְמֶ֔לֶךְ לַיהוָ֖ה אֱלֹהֶ֑יךָ בְּאַהֲבַ֨ת אֱלֹהֶ֤יךָ אֶת־יִשְׂרָאֵל֙ לְהַעֲמִידֹ֣ו לְעֹולָ֔ם וַיִּתֶּנְךָ֤ עֲלֵיהֶם֙ לְמֶ֔לֶךְ לַעֲשֹׂ֖ות מִשְׁפָּ֥ט וּצְדָקָֽה׃ (II Chr. 9:8)
+NIV	Praise _be_ to the LORD your God, who has delighted in you and placed you on his throne as king to rule for the LORD your God. Because of the love of your God for Israel and his desire to uphold them forever, he has made you king over them, to maintain justice and righteousness.”
+ESV	Blessed _be_ the Lord your God, who has delighted in you and set you on his throne as king for the Lord your God! Because your God loved Israel and would establish them forever, he has made you king over them, that you may execute justice and righteousness.”

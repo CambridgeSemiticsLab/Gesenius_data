@@ -1,0 +1,6 @@
+eng_TAMsimp == "PAST ~ PRES PART" and mother_verbtype == "infa"
+1 of 1
+
+(x)	הָלֹוךְ֙ וַ_יְקַלֵּ֔ל_ (II Sam. 16:13)
+NIV	So David and his men continued along the road while Shimei was going along the hillside opposite him, _cursing_ as he went and throwing stones at him and showering him with dirt.
+ESV	So David and his men went on the road, while Shimei went along on the hillside opposite him and _cursed_ as he went and threw stones at him and flung dust.

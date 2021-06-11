@@ -1,0 +1,102 @@
+eng_TAMsimp == "PAST" and lex == "אמר"
+25 of 2359
+
+(x)	וַ_יֹּ֥אמֶר_ אֱלֹהִ֖ים יְהִ֣י אֹ֑ור וַֽיְהִי־אֹֽור׃ (Gen. 1:3)
+NIV	And God _said_, “Let there be light,” and there was light.
+ESV	And God _said_, “Let there be light,” and there was light.
+
+(x)	וַ_תֹּ֧אמֶר_ הַבְּכִירָ֛ה אֶל־הַצְּעִירָ֖ה אָבִ֣ינוּ זָקֵ֑ן וְאִ֨ישׁ אֵ֤ין בָּאָ֨רֶץ֙ לָבֹ֣וא עָלֵ֔ינוּ כְּדֶ֖רֶךְ כָּל־הָאָֽרֶץ׃ (Gen. 19:31)
+NIV	One day the older daughter _said_ to the younger, “Our father is old, and there is no man around here to lie with us, as is the custom all over the earth.
+ESV	And the firstborn _said_ to the younger, “Our father is old, and there is not a man on earth to come in to us after the manner of all the earth.
+
+(x)	כִּשְׁמֹ֤עַ עֵשָׂו֙ אֶת־דִּבְרֵ֣י אָבִ֔יו וַיִּצְעַ֣ק צְעָקָ֔ה גְּדֹלָ֥ה וּמָרָ֖ה עַד־מְאֹ֑ד וַ_יֹּ֣אמֶר_ לְאָבִ֔יו בָּרֲכֵ֥נִי גַם־אָ֖נִי אָבִֽי׃ (Gen. 27:34)
+NIV	When Esau heard his father’s words, he burst out with a loud and bitter cry and _said_ to his father, “Bless me — me too, my father!”
+ESV	As soon as Esau heard the words of his father, he cried out with an exceedingly great and bitter cry and _said_ to his father, “Bless me, even me also, O my father!”
+
+(x)	וַ_יֹּאמְר֖וּ_ אִ֣ישׁ אֶל־אָחִ֑יו הִנֵּ֗ה בַּ֛עַל הַחֲלֹמֹ֥ות הַלָּזֶ֖ה בָּֽא׃ (Gen. 37:19)
+NIV	“Here comes that dreamer!” _they said_ to each other.
+ESV	_They said_ to one another, “Here comes this dreamer.
+
+(x)	וַ_יֹּ֣אמֶר_ פַּרְעֹ֔ה אֶל־יֹוסֵ֖ף לֵאמֹ֑ר אָבִ֥יךָ וְאַחֶ֖יךָ בָּ֥אוּ אֵלֶֽיךָ׃ (Gen. 47:5)
+NIV	Pharaoh _said_ to Joseph, “Your father and your brothers have come to you,
+ESV	Then Pharaoh _said_ to Joseph, “Your father and your brothers have come to you.
+
+(x)	וַ_יֹּ֤אמֶר_ אֵלָיו֙ מֹשֶׁ֔ה כְּצֵאתִי֙ אֶת־הָעִ֔יר אֶפְרֹ֥שׂ אֶת־כַּפַּ֖י אֶל־יְהוָ֑ה הַקֹּלֹ֣ות יֶחְדָּל֗וּן וְהַבָּרָד֙ לֹ֣א יִֽהְיֶה־עֹ֔וד לְמַ֣עַן תֵּדַ֔ע כִּ֥י לַיהוָ֖ה הָאָֽרֶץ׃ (Exod. 9:29)
+NIV	Moses _replied_, “When I have gone out of the city, I will spread out my hands in prayer to the LORD. The thunder will stop and there will be no more hail, so you may know that the earth is the LORD’s.
+ESV	Moses _said_ to him, “As soon as I have gone out of the city, I will stretch out my hands to the Lord. The thunder will cease, and there will be no more hail, so that you may know that the earth is the Lord’s.
+
+(x)	וַ_יֹּ֥אמֶר_ מֹשֶׁ֖ה אֶל־הָעֵדָ֑ה זֶ֣ה הַדָּבָ֔ר אֲשֶׁר־צִוָּ֥ה יְהוָ֖ה לַעֲשֹֽׂות׃ (Lev. 8:5)
+NIV	Moses _said_ to the assembly, “This is what the LORD has commanded to be done.”
+ESV	And Moses _said_ to the congregation, “This is the thing that the Lord has commanded to be done.”
+
+(x)	וַ_יֹּ֤אמֶר_ יְהוָה֙ אֶל־מֹשֶׁ֔ה וְאֶ֧ל אֶלְעָזָ֛ר בֶּן־אַהֲרֹ֥ן הַכֹּהֵ֖ן לֵאמֹֽר׃ (Num. 26:1)
+NIV	After the plague the LORD _said_ to Moses and Eleazar son of Aaron, the priest,
+ESV	After the plague, the Lord _said_ to Moses and to Eleazar the son of Aaron, the priest,
+
+(x)	וַ_יֹּ֤אמֶר_ יְהֹושֻׁ֨עַ֙ אֶל־בֵּ֣ית יֹוסֵ֔ף לְאֶפְרַ֥יִם וְלִמְנַשֶּׁ֖ה לֵאמֹ֑ר עַם־רַ֣ב אַתָּ֗ה וְכֹ֤חַ גָּדֹול֙ לָ֔ךְ לֹֽא־יִהְיֶ֥ה לְךָ֖ גֹּורָ֥ל אֶחָֽד׃ (Josh. 17:17)
+NIV	But Joshua _said_ to the house of Joseph — to Ephraim and Manasseh — “You are numerous and very powerful. You will have not only one allotment
+ESV	Then Joshua _said_ to the house of Joseph, to Ephraim and Manasseh, “You are a numerous people and have great power. You shall not have one allotment only,
+
+(x)	וַ_יֹּ֨אמֶר_ יִפְתָּ֜ח אֶל־זִקְנֵ֣י גִלְעָ֗ד אִם־מְשִׁיבִ֨ים אַתֶּ֤ם אֹותִי֙ לְהִלָּחֵם֙ בִּבְנֵ֣י עַמֹּ֔ון וְנָתַ֧ן יְהוָ֛ה אֹותָ֖ם לְפָנָ֑י אָנֹכִ֕י אֶהְיֶ֥ה לָכֶ֖ם לְרֹֽאשׁ׃ (Judg. 11:9)
+NIV	Jephthah _answered_, “Suppose you take me back to fight the Ammonites and the LORD gives them to me — will I really be your head?”
+ESV	Jephthah _said_ to the elders of Gilead, “If you bring me home again to fight against the Ammonites, and the Lord gives them over to me, I will be your head.”
+
+(x)	וַיֵּצֵ֣א אֲלֵיהֶ֗ם הָאִישׁ֙ בַּ֣עַל הַבַּ֔יִת וַ_יֹּ֣אמֶר_ אֲלֵהֶ֔ם אַל־אַחַ֖י אַל־תָּרֵ֣עוּ נָ֑א אַ֠חֲרֵי אֲשֶׁר־בָּ֞א הָאִ֤ישׁ הַזֶּה֙ אַל־בֵּיתִ֔י אַֽל־תַּעֲשׂ֖וּ אֶת־הַנְּבָלָ֥ה הַזֹּֽאת׃ (Judg. 19:23)
+NIV	The owner of the house went outside and _said_ to them, “No, my friends, don’t be so vile. Since this man is my guest, don’t do this disgraceful thing.
+ESV	And the man, the master of the house, went out to them and _said_ to them, “No, my brothers, do not act so wickedly. since this man has come into my house, do not do this vile thing.
+
+(x)	וַיְהִ֣י הַיֹּ֗ום וַ_יֹּ֨אמֶר_ יֹונָתָ֤ן בֶּן־שָׁאוּל֙ אֶל־הַנַּ֨עַר֙ נֹשֵׂ֣א כֵלָ֔יו לְכָ֗ה וְנַעְבְּרָה֙ אֶל־מַצַּ֣ב פְּלִשְׁתִּ֔ים אֲשֶׁ֖ר מֵעֵ֣בֶר הַלָּ֑ז וּלְאָבִ֖יו לֹ֥א הִגִּֽיד׃ (I Sam. 14:1)
+NIV	One day Jonathan son of Saul _said_ to the young man bearing his armour, “Come, let’s go over to the Philistine outpost on the other side.” But he did not tell his father.
+ESV	One day Jonathan the son of Saul _said_ to the young man who carried his armor, “Come, let us go over to the Philistine garrison on the other side.” But he did not tell his father.
+
+(x)	וַיִּֽחַר־אַ֤ף שָׁאוּל֙ בִּיהֹ֣ונָתָ֔ן וַ_יֹּ֣אמֶר_ לֹ֔ו בֶּֽן־נַעֲוַ֖ת הַמַּרְדּ֑וּת הֲלֹ֣וא יָדַ֗עְתִּי כִּֽי־בֹחֵ֤ר אַתָּה֙ לְבֶן־יִשַׁ֔י לְבָ֨שְׁתְּךָ֔ וּלְבֹ֖שֶׁת עֶרְוַ֥ת אִמֶּֽךָ׃ (I Sam. 20:30)
+NIV	Saul’s anger flared up at Jonathan and _he said_ to him, “You son of a perverse and rebellious woman! Don’t I know that you have sided with the son of Jesse to your own shame and to the shame of the mother who bore you?
+ESV	Then Saul’s anger was kindled against Jonathan, and _he said_ to him, “You son of a perverse, rebellious woman, do I not know that you have chosen the son of Jesse to your own shame, and to the shame of your mother’s nakedness?
+
+(x)	וַיֹּ֥אמֶר לִ֖י מִי־אָ֑תָּה וָאֹמַ֣ר אֵלָ֔יו עֲמָלֵקִ֖י אָנֹֽכִי׃ (II Sam. 1:8)
+NIV	“He asked me, ‘Who are you?’ “‘An Amalekite,’ _I answered_.
+ESV	And he said to me, ‘Who are you?’ _I answered_ him, ‘I am an Amalekite.’
+
+(x)	וַתֹּאמֶר֩ יִזְכָּר־נָ֨א הַמֶּ֜לֶךְ אֶת־יְהוָ֣ה אֱלֹהֶ֗יךָ מֵהַרְבַּ֞ת גֹּאֵ֤ל הַדָּם֙ לְשַׁחֵ֔ת וְלֹ֥א יַשְׁמִ֖ידוּ אֶת־בְּנִ֑י וַ_יֹּ֨אמֶר֙_ חַי־יְהוָ֔ה אִם־יִפֹּ֛ל מִשַּׂעֲרַ֥ת בְּנֵ֖ךְ אָֽרְצָה׃ (II Sam. 14:11)
+NIV	S_he said_, “Then let the king invoke the LORD his God to prevent the avenger of blood from adding to the destruction, so that my son shall not be destroyed.” “As surely as the LORD lives,” _he said_, “not one hair of your son’s head will fall to the ground.”
+ESV	Then she said, “Please let the king invoke the Lord your God, that the avenger of blood kill no more, and my son be not destroyed.” _He said_, “As the Lord lives, not one hair of your son shall fall to the ground.”
+
+(x)	וַ_יֹּאמַ֑ר_ יְהוָ֛ה סַֽלְעִ֥י וּמְצֻדָתִ֖י וּמְפַלְטִי־לִֽי׃ (II Sam. 22:2)
+NIV	_He said_: “The LORD is my rock, my fortress and my deliverer.
+ESV	_He said_, “The Lord is my rock and my fortress and my deliverer,
+
+(x)	וַ_יֹּ֨אמֶר_ אֵלִיָּ֤הוּ לְכָל־הָעָם֙ גְּשׁ֣וּ אֵלַ֔י וַיִּגְּשׁ֥וּ כָל־הָעָ֖ם אֵלָ֑יו וַיְרַפֵּ֛א אֶת־מִזְבַּ֥ח יְהוָ֖ה הֶהָרֽוּס׃ (I Kgs. 18:30)
+NIV	Then Elijah _said_ to all the people, “Come here to me.” They came to him, and he repaired the altar of the LORD, which was in ruins.
+ESV	Then Elijah _said_ to all the people, “Come near to me.” And all the people came near to him. And he repaired the altar of the Lord that had been thrown down.
+
+(x)	וַ_יֹּ֨אמְר֜וּ_ אַנְשֵׁ֤י הָעִיר֙ אֶל־אֱלִישָׁ֔ע הִנֵּה־נָ֞א מֹושַׁ֤ב הָעִיר֙ טֹ֔וב כַּאֲשֶׁ֥ר אֲדֹנִ֖י רֹאֶ֑ה וְהַמַּ֥יִם רָעִ֖ים וְהָאָ֥רֶץ מְשַׁכָּֽלֶת׃ (II Kgs. 2:19)
+NIV	The men of the city _said_ to Elisha, “Look, our lord, this town is well situated, as you can see, but the water is bad and the land is unproductive.”
+ESV	Now the men of the city _said_ to Elisha, “Behold, the situation of this city is pleasant, as my lord sees, but the water is bad, and the land is unfruitful.”
+
+(x)	וֶאֱלִישָׁע֙ הַנָּבִ֔יא קָרָ֕א לְאַחַ֖ד מִבְּנֵ֣י הַנְּבִיאִ֑ים וַ_יֹּ֨אמֶר_ לֹ֜ו חֲגֹ֣ר מָתְנֶ֗יךָ וְ֠קַח פַּ֣ךְ הַשֶּׁ֤מֶן הַזֶּה֙ בְּיָדֶ֔ךָ וְלֵ֖ךְ רָמֹ֥ת גִּלְעָֽד׃ (II Kgs. 9:1)
+NIV	The prophet Elisha summoned a man from the company of the prophets and _said_ to him, “Tuck your cloak into your belt, take this flask of oil with you and go to Ramoth Gilead.
+ESV	Then Elisha the prophet called one of the sons of the prophets and _said_ to him, “Tie up your garments, and take this flask of oil in your hand, and go to Ramoth-gilead.
+
+(x)	וַיֹּ֕אמֶר מָ֥ה רָא֖וּ בְּבֵיתֶ֑ךָ וַ_יֹּ֣אמֶר_ חִזְקִיָּ֗הוּ אֵ֣ת כָּל־אֲשֶׁ֤ר בְּבֵיתִי֙ רָא֔וּ לֹֽא־הָיָ֥ה דָבָ֛ר אֲשֶׁ֥ר לֹֽא־הִרְאִיתִ֖ים בְּאֹוצְרֹתָֽי׃ (Isa. 39:4)
+NIV	The prophet asked, “What did they see in your palace?” “They saw everything in my palace,” Hezekiah _said_. “There is nothing among my treasures that I did not show them.”
+ESV	He said, “What have they seen in your house?” Hezekiah _answered_, “They have seen all that is in my house. There is nothing in my storehouses that I did not show them.”
+
+(x)	וַ_יֹּ֥אמֶר_ אֵלַ֖י הֲרָאִ֣יתָ בֶן־אָדָ֑ם עֹ֣וד תָּשׁ֥וּב תִּרְאֶ֛ה תֹּועֵבֹ֥ות גְּדֹלֹ֖ות מֵאֵֽלֶּה׃ (Ezek. 8:15)
+NIV	_He said_ to me, “Do you see this, son of man? You will see things that are even more detestable than this.”
+ESV	Then _he said_ to me, “Have you seen this, O son of man? You will see still greater abominations than these.”
+
+(x)	וָ_אֹמַ֕ר_ אֶל־הַמַּלְאָ֖ךְ הַדֹּבֵ֣ר בִּ֑י אָ֛נָה הֵ֥מָּה מֹֽולִכֹ֖ות אֶת־הָאֵיפָֽה׃ (Zech. 5:10)
+NIV	“Where are they taking the basket?” _I asked_ the angel who was speaking to me.
+ESV	Then _I said_ to the angel who talked with me, “Where are they taking the basket?”
+
+(x)	וַ_יֹּאמֶר֩_ הַמֶּ֨לֶךְ לְאֶסְתֵּ֜ר גַּ֣ם בַּיֹּ֤ום הַשֵּׁנִי֙ בְּמִשְׁתֵּ֣ה הַיַּ֔יִן מַה־שְּׁאֵלָתֵ֛ךְ אֶסְתֵּ֥ר הַמַּלְכָּ֖ה וְתִנָּ֣תֵֽן לָ֑ךְ וּמַה־בַּקָּשָׁתֵ֛ךְ עַד־חֲצִ֥י הַמַּלְכ֖וּת וְתֵעָֽשׂ׃ (Esth. 7:2)
+NIV	and as they were drinking wine on that second day, the king again _asked_, “Queen Esther, what is your petition? It will be given you. What is your request? Even up to half the kingdom, it will be granted.”
+ESV	And on the second day, as they were drinking wine after the feast, the king again _said_ to Esther, “What is your wish, Queen Esther? It shall be granted you. And what is your request? Even to the half of my kingdom, it shall be fulfilled.”
+
+(x)	וַיָּ֥בֹא גָ֖ד אֶל־דָּוִ֑יד וַ_יֹּ֥אמֶר_ לֹ֛ו כֹּֽה־אָמַ֥ר יְהוָ֖ה קַבֶּל־לָֽךְ׃ (I Chr. 21:11)
+NIV	So Gad went to David and _said_ to him, “This is what the LORD says: ‘Take your choice:
+ESV	So Gad came to David and _said_ to him, “Thus says the Lord, ‘Choose what you will:
+
+(x)	וַיֹּרוּ֙ הַיֹּרִ֔ים לַמֶּ֖לֶךְ יֹאשִׁיָּ֑הוּ וַ_יֹּ֨אמֶר_ הַמֶּ֤לֶךְ לַעֲבָדָיו֙ הַעֲבִיר֔וּנִי כִּ֥י הָחֳלֵ֖יתִי מְאֹֽד׃ (II Chr. 35:23)
+NIV	Archers shot King Josiah, and he _told_ his officers, “Take me away. I am badly wounded.”
+ESV	And the archers shot King Josiah. And the king _said_ to his servants, “Take me away, for I am badly wounded.”

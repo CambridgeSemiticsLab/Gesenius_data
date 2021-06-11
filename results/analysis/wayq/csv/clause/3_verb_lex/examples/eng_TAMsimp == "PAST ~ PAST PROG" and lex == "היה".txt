@@ -1,0 +1,18 @@
+eng_TAMsimp == "PAST ~ PAST PROG" and lex == "היה"
+4 of 4
+
+(x)	וַֽ_יְהִ֧י_ הַמַּבּ֛וּל אַרְבָּעִ֥ים יֹ֖ום עַל־הָאָ֑רֶץ וַיִּרְבּ֣וּ הַמַּ֗יִם וַיִּשְׂאוּ֙ אֶת־הַתֵּבָ֔ה וַתָּ֖רָם מֵעַ֥ל הָאָֽרֶץ׃ (Gen. 7:17)
+NIV	For forty days the flood kept _coming_ on the earth, and as the waters increased they lifted the ark high above the earth.
+ESV	The flood _continued_ forty days on the earth. The waters increased and bore up the ark, and it rose high above the earth.
+
+(x)	וַיֵּצֵ֨א לֹ֜וט וַיְדַבֵּ֣ר׀ אֶל־חֲתָנָ֣יו׀ לֹקְחֵ֣י בְנֹתָ֗יו וַיֹּ֨אמֶר֙ ק֤וּמוּ צְּאוּ֙ מִן־הַמָּקֹ֣ום הַזֶּ֔ה כִּֽי־מַשְׁחִ֥ית יְהוָ֖ה אֶת־הָעִ֑יר וַ_יְהִ֥י_ כִמְצַחֵ֖ק בְּעֵינֵ֥י חֲתָנָֽיו׃ (Gen. 19:14)
+NIV	So Lot went out and spoke to his sons-in-law, who were pledged to marry his daughters. He said, “Hurry and get out of this place, because the LORD is about to destroy the city!” But his sons-in-law thought _he was_ joking.
+ESV	So Lot went out and said to his sons-in-law, who were to marry his daughters, “Up! Get out of this place, for the Lord is about to destroy the city.” But _he seemed_ to his sons-in-law to be jesting.
+
+(x)	וַיְהִי֩ כִשְׁמֹ֨עַ אֲדֹֽנִי־צֶ֜דֶק מֶ֣לֶךְ יְרוּשָׁלִַ֗ם כִּֽי־לָכַ֨ד יְהֹושֻׁ֣עַ אֶת־הָעַי֮ וַיַּחֲרִימָהּ֒ כַּאֲשֶׁ֨ר עָשָׂ֤ה לִֽירִיחֹו֙ וּלְמַלְכָּ֔הּ כֵּן־עָשָׂ֥ה לָעַ֖י וּלְמַלְכָּ֑הּ וְכִ֨י הִשְׁלִ֜ימוּ יֹשְׁבֵ֤י גִבְעֹון֙ אֶת־יִשְׂרָאֵ֔ל וַ_יִּֽהְי֖וּ_ בְּקִרְבָּֽם׃ (Josh. 10:1)
+NIV	Now Adoni-zedek king of Jerusalem heard that Joshua had taken Ai and totally destroyed it, doing to Ai and its king as he had done to Jericho and its king, and that the people of Gibeon had made a treaty of peace with Israel and _were living_ near them.
+ESV	As soon as Adoni-zedek, king of Jerusalem, heard how Joshua had captured Ai and had devoted it to destruction, doing to Ai and its king as he had done to Jericho and its king, and how the inhabitants of Gibeon had made peace with Israel and _were_ among them,
+
+(x)	וַ_יְהִ֤י_ עֹבַדְיָ֨הוּ֙ בַּדֶּ֔רֶךְ וְהִנֵּ֥ה אֵלִיָּ֖הוּ לִקְרָאתֹ֑ו וַיַּכִּרֵ֨הוּ֙ וַיִּפֹּ֣ל עַל־פָּנָ֔יו וַיֹּ֕אמֶר הַאַתָּ֥ה זֶ֖ה אֲדֹנִ֥י אֵלִיָּֽהוּ׃ (I Kgs. 18:7)
+NIV	As Obadiah _was_ walking along, Elijah met him. Obadiah recognised him, bowed down to the ground, and said, “Is it really you, my lord Elijah?”
+ESV	And as Obadiah _was_ on the way, behold, Elijah met him. And Obadiah recognized him and fell on his face and said, “Is it you, my lord Elijah?”

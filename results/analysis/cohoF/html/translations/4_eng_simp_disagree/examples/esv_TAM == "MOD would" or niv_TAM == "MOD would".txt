@@ -1,0 +1,26 @@
+esv_TAM == "MOD would" or niv_TAM == "MOD would"
+6 of 6
+
+(x)	אָמַ֖רְתִּי אַפְאֵיהֶ֑ם _אַשְׁבִּ֥יתָה_ מֵאֱנֹ֖ושׁ זִכְרָֽם׃ (Deut. 32:26)
+NIV	I said I would scatter them and _blot out_ their memory from mankind,
+ESV	I would have said, “I will cut them to pieces. _I will wipe_ them from human memory,”
+
+(x)	וַיֹּ֥אמֶר מָנֹ֖וחַ אֶל־מַלְאַ֣ךְ יְהוָ֑ה _נַעְצְרָה_־נָּ֣א אֹותָ֔ךְ וְנַעֲשֶׂ֥ה לְפָנֶ֖יךָ גְּדִ֥י עִזִּֽים׃ (Judg. 13:15)
+NIV	Manoah said to the angel of the LORD, “We would like you to stay until we prepare a young goat for you.”
+ESV	Manoah said to the angel of the Lord, “Please _let us detain_ you and prepare a young goat for you.”
+
+(x)	וְהִנֵּה֩ קָ֨מָה כָֽל־הַמִּשְׁפָּחָ֜ה עַל־שִׁפְחָתֶ֗ךָ וַיֹּֽאמְרוּ֙ תְּנִ֣י׀ אֶת־מַכֵּ֣ה אָחִ֗יו וּנְמִתֵ֨הוּ֙ בְּנֶ֤פֶשׁ אָחִיו֙ אֲשֶׁ֣ר הָרָ֔ג וְ_נַשְׁמִ֖ידָה_ גַּ֣ם אֶת־הַיֹּורֵ֑שׁ וְכִבּ֗וּ אֶת־גַּֽחַלְתִּי֙ אֲשֶׁ֣ר נִשְׁאָ֔רָה לְבִלְתִּ֧י שִׂים־לְאִישִׁ֛י שֵׁ֥ם וּשְׁאֵרִ֖ית עַל־פְּנֵ֥י הָאֲדָמָֽה׃ פ (II Sam. 14:7)
+NIV	Now the whole clan has risen up against your servant. they say, ‘Hand over the one who struck his brother down, so that we may put him to death for the life of his brother whom he killed. then _we will get rid of_ the heir as well.’ They would put out the only burning coal I have left, leaving my husband neither name nor descendant on the face of the earth.”
+ESV	And now the whole clan has risen against your servant, and they say, ‘Give up the man who struck his brother, that we may put him to death for the life of his brother whom he killed.’ And so they _would destroy_ the heir also. Thus they would quench my coal that is left and leave to my husband neither name nor remnant on the face of the earth.”
+
+(x)	וַיֹּ֥אמֶר אֲחִיתֹ֖פֶל אֶל־אַבְשָׁלֹ֑ם _אֶבְחֲרָ֣ה_ נָּ֗א שְׁנֵים־עָשָׂ֥ר אֶ֨לֶף֙ אִ֔ישׁ וְאָק֛וּמָה וְאֶרְדְּפָ֥ה אַחֲרֵי־דָוִ֖ד הַלָּֽיְלָה׃ (II Sam. 17:1)
+NIV	Ahithophel said to Absalom, “_I would choose_ twelve thousand men and set out tonight in pursuit of David.
+ESV	Moreover, Ahithophel said to Absalom, “_Let me choose_ twelve thousand men, and I will arise and pursue David tonight.
+
+(x)	וְ_אָשִׁ֥יבָה_ כָל־הָעָ֖ם אֵלֶ֑יךָ כְּשׁ֣וּב הַכֹּ֔ל הָאִישׁ֙ אֲשֶׁ֣ר אַתָּ֣ה מְבַקֵּ֔שׁ כָּל־הָעָ֖ם יִהְיֶ֥ה שָׁלֹֽום׃ (II Sam. 17:3)
+NIV	and bring all the people back to you. The death of the man you seek will mean the return of all. all the people will be unharmed.”
+ESV	and I will bring all the people back to you as a bride comes home to her husband. You seek the life of only one man, and all the people will be at peace.”
+
+(x)	תָּשׁ֗וּבוּ לְֽתֹ֫וכַחְתִּ֥י הִנֵּ֤ה _אַבִּ֣יעָה_ לָכֶ֣ם רוּחִ֑י אֹודִ֖יעָה דְבָרַ֣י אֶתְכֶֽם׃ (Prov. 1:23)
+NIV	If you had responded to my rebuke, _I would have poured out_ my heart to you and made my thoughts known to you.
+ESV	If you turn at my reproof, behold, _I will pour out_ my spirit to you. I will make my words known to you.

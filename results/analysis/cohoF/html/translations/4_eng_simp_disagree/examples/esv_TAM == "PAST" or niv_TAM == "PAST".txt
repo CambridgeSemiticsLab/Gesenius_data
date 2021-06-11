@@ -1,0 +1,38 @@
+esv_TAM == "PAST" or niv_TAM == "PAST"
+9 of 9
+
+(x)	בְּיַ֣ד מַלְאָכֶיךָ֮ חֵרַ֣פְתָּ׀ אֲדֹנָי֒ וַתֹּ֗אמֶר בְּרֹ֥ב רִכְבִּ֛י אֲנִ֥י עָלִ֛יתִי מְרֹ֥ום הָרִ֖ים יַרְכְּתֵ֣י לְבָנֹ֑ון וְאֶכְרֹ֞ת קֹומַ֤ת אֲרָזָיו֙ מִבְחֹ֣ור בְּרֹשָׁ֔יו וְ_אָבֹ֨ואָה֙_ מְלֹ֣ון קִצֹּ֔ו יַ֖עַר כַּרְמִלֹּֽו׃ (II Kgs. 19:23)
+NIV	By your messengers you have heaped insults on the Lord. And you have said, “With my many chariots I have ascended the heights of the mountains, the utmost heights of Lebanon. I have cut down its tallest cedars, the choicest of its pines. _I have reached_ its remotest parts, the finest of its forests.
+ESV	By your messengers you have mocked the Lord, and you have said, ‘With my many chariots I have gone up the heights of the mountains, to the far recesses of Lebanon. I felled its tallest cedars, its choicest cypresses. _I entered_ its farthest lodging place, its most fruitful forest.
+
+(x)	רַבֹּ֤ות עָשִׂ֨יתָ׀ אַתָּ֤ה׀ יְהוָ֣ה אֱלֹהַי֮ נִֽפְלְאֹתֶ֥יךָ וּמַחְשְׁבֹתֶ֗יךָ אֵ֫לֵ֥ינוּ אֵ֤ין׀ עֲרֹ֬ךְ אֵלֶ֗יךָ _אַגִּ֥ידָה_ וַאֲדַבֵּ֑רָה עָ֝צְמ֗וּ מִסַּפֵּֽר׃ (Psa. 40:6)
+NIV	Many, O LORD my God, are the wonders you have done. The things you planned for us no one can recount to you. _were I to speak_ and tell of them, they would be too many to declare.
+ESV	You have multiplied, O Lord my God, your wondrous deeds and your thoughts toward us. none can compare with you! _I will proclaim_ and tell of them, yet they are more than can be told.
+
+(x)	הָ֤פַךְ יָ֨ם׀ לְֽיַבָּשָׁ֗ה בַּ֭נָּהָר יַֽעַבְר֣וּ בְרָ֑גֶל שָׁ֝֗ם _נִשְׂמְחָה_־בֹּֽו׃ (Psa. 66:6)
+NIV	He turned the sea into dry land, they passed through the waters on foot — come, _let us rejoice_ in him.
+ESV	He turned the sea into dry land. they passed through the river on foot. There _did we rejoice_ in him,
+
+(x)	קֹולִ֣י אֶל־אֱלֹהִ֣ים וְ_אֶצְעָ֑קָה_ קֹולִ֥י אֶל־אֱ֝לֹהִ֗ים וְהַאֲזִ֥ין אֵלָֽי׃ (Psa. 77:2)
+NIV	I cried out to God for help. I cried out to God to hear me.
+ESV	_I cry aloud_ to God, aloud to God, and he will hear me.
+
+(x)	_אֶזְכְּרָ֣ה_ אֱלֹהִ֣ים וְאֶֽהֱמָיָ֑ה אָשִׂ֓יחָה׀ וְתִתְעַטֵּ֖ף רוּחִ֣י סֶֽלָה׃ (Psa. 77:4)
+NIV	_I remembered_ you, O God, and I groaned. I mused, and my spirit grew faint. Selah
+ESV	When _I remember_ God, I moan. when I meditate, my spirit faints. Selah
+
+(x)	אֶזְכְּרָ֣ה אֱלֹהִ֣ים וְאֶֽהֱמָיָ֑ה _אָשִׂ֓יחָה_׀ וְתִתְעַטֵּ֖ף רוּחִ֣י סֶֽלָה׃ (Psa. 77:4)
+NIV	I remembered you, O God, and I groaned. _I mused_, and my spirit grew faint. Selah
+ESV	When I remember God, I moan. when _I meditate_, my spirit faints. Selah
+
+(x)	_אֶֽזְכְּרָ֥ה_ נְגִינָתִ֗י בַּ֫לָּ֥יְלָה עִם־לְבָבִ֥י אָשִׂ֑יחָה וַיְחַפֵּ֥שׂ רוּחִֽי׃ (Psa. 77:7)
+NIV	_I remembered_ my songs in the night. My heart mused and my spirit inquired:
+ESV	I said, “_Let me remember_ my song in the night. let me meditate in my heart.” Then my spirit made a diligent search:
+
+(x)	אֶֽזְכְּרָ֥ה נְגִינָתִ֗י בַּ֫לָּ֥יְלָה עִם־לְבָבִ֥י _אָשִׂ֑יחָה_ וַיְחַפֵּ֥שׂ רוּחִֽי׃ (Psa. 77:7)
+NIV	I remembered my songs in the night. My heart _mused_ and my spirit inquired:
+ESV	I said, “Let me remember my song in the night. _let me meditate_ in my heart.” Then my spirit made a diligent search:
+
+(x)	תָּשׁ֗וּבוּ לְֽתֹ֫וכַחְתִּ֥י הִנֵּ֤ה אַבִּ֣יעָה לָכֶ֣ם רוּחִ֑י _אֹודִ֖יעָה_ דְבָרַ֣י אֶתְכֶֽם׃ (Prov. 1:23)
+NIV	If you had responded to my rebuke, I would have poured out my heart to you and made my thoughts known to you.
+ESV	If you turn at my reproof, behold, I will pour out my spirit to you. I will make my words known to you.

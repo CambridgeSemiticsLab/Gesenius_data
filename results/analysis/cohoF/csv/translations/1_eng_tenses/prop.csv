@@ -1,0 +1,50 @@
+,sum
+FUT,0.31
+MOD let,0.26
+MOD may,0.06
+FUT ~ MOD may,0.04
+MOD can ~ MOD may,0.04
+PRES,0.03
+MOD may ~ TO INF,0.03
+FUT ~ PRES,0.02
+MOD would,0.02
+FUT ~ MOD let,0.02
+IMPV ~ MOD let,0.01
+FUT ~ MOD shall,0.01
+MOD let ~ PRES,0.01
+FUT ~ MOD would,0.01
+MOD let ~ MOD may,0.01
+MOD could,0.01
+PAST ~ PRES,0.01
+MOD let ~ PAST,0.01
+PAST,0.01
+MOD let ~ MOD must,0.01
+FUT ~ MOD can,0.01
+TO INF,0.01
+MOD might,0.0
+MOD can ~ MOD shall,0.0
+MOD let ~ MOD would,0.0
+MOD let ~ MOD should,0.0
+MOD must,0.0
+MOD may ~ PRES,0.0
+FUT ~ PAST,0.0
+IMPV ~ PRES PART,0.0
+FUT ~ MOD was to,0.0
+MOD can ~ PRES,0.0
+MOD let ~ PRES PERF,0.0
+MOD can ~ PRES PART,0.0
+PRES PART,0.0
+FUT ~ FUT PERF,0.0
+FUT ~ TO INF,0.0
+PAST ~ PRES PERF,0.0
+MOD ~ MOD let,0.0
+FUT ~ PRES PART,0.0
+MOD shall ~ PRES,0.0
+MOD must ~ MOD quest must,0.0
+MOD let ~ TO INF,0.0
+MOD can,0.0
+PRES ~ PRES PART,0.0
+MOD can ~ MOD let,0.0
+FUT going-to ~ MOD may,0.0
+MOD shall,0.0
+MOD could ~ MOD might,0.0

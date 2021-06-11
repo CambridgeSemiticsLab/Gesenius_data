@@ -1,0 +1,18 @@
+eng_TAMsimp == "PAST ~ PAST PROG"and mother_verbtype == "qtl"
+4 of 4
+
+(x)	וּמֵ֣י הַמַּבּ֔וּל הָי֖וּ עַל־הָאָֽרֶץ׃ וַֽ_יְהִ֧י_ הַמַּבּ֛וּל אַרְבָּעִ֥ים יֹ֖ום עַל־הָאָ֑רֶץ (Gen. 7:17)
+NIV	For forty days the flood kept _coming_ on the earth, and as the waters increased they lifted the ark high above the earth.
+ESV	The flood _continued_ forty days on the earth. The waters increased and bore up the ark, and it rose high above the earth.
+
+(x)	וְכִ֨י הִשְׁלִ֜ימוּ יֹשְׁבֵ֤י גִבְעֹון֙ אֶת־יִשְׂרָאֵ֔ל וַ_יִּֽהְי֖וּ_ בְּקִרְבָּֽם׃ (Josh. 10:1)
+NIV	Now Adoni-zedek king of Jerusalem heard that Joshua had taken Ai and totally destroyed it, doing to Ai and its king as he had done to Jericho and its king, and that the people of Gibeon had made a treaty of peace with Israel and _were living_ near them.
+ESV	As soon as Adoni-zedek, king of Jerusalem, heard how Joshua had captured Ai and had devoted it to destruction, doing to Ai and its king as he had done to Jericho and its king, and how the inhabitants of Gibeon had made peace with Israel and _were_ among them,
+
+(x)	וְהָאֲמֻצִּ֣ים יָצְא֗וּ וַ_יְבַקְשׁוּ֙_ (Zech. 6:7)
+NIV	When the powerful horses went out, _they were straining_ to go throughout the earth. And he said, “Go throughout the earth!” So they went throughout the earth.
+ESV	When the strong horses came out, _they were impatient_ to go and patrol the earth. And he said, “Go, patrol the earth.” So they patrolled the earth.
+
+(x)	מִבְּנֵ֣י יְהוּדָ֗ה יָֽשְׁב֞וּ בְּקִרְיַ֤ת הָֽאַרְבַּע֙ וּבְנֹתֶ֔יהָ וּבְדִיבֹן֙ וּבְנֹתֶ֔יהָ וּבִֽיקַּבְצְאֵ֖ל וַחֲצֵרֶֽיהָ׃ וַ_יַּחֲנ֥וּ_ מִבְּאֵֽר־שֶׁ֖בַע עַד־גֵּֽיא־הִנֹּֽם׃ (Neh. 11:30)
+NIV	Zanoah, Adullam and their villages, in Lachish and its fields, and in Azekah and its settlements. So _they were living_ all the way from Beersheba to the Valley of Hinnom.
+ESV	Zanoah, Adullam, and their villages, Lachish and its fields, and Azekah and its villages. So _they encamped_ from Beersheba to the Valley of Hinnom.

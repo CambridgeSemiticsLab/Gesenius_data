@@ -1,0 +1,34 @@
+esv_TAM == "MOD shall" or niv_TAM == "MOD shall"
+8 of 8
+
+(x)	וְ֠הָבִיאוּ אֶת־אֲחִיכֶ֣ם הַקָּטֹן֮ אֵלַי֒ וְ_אֵֽדְעָ֗ה_ כִּ֣י לֹ֤א מְרַגְּלִים֙ אַתֶּ֔ם כִּ֥י כֵנִ֖ים אַתֶּ֑ם אֶת־אֲחִיכֶם֙ אֶתֵּ֣ן לָכֶ֔ם וְאֶת־הָאָ֖רֶץ תִּסְחָֽרוּ׃ (Gen. 42:34)
+NIV	But bring your youngest brother to me so _I will know_ that you are not spies but honest men. Then I will give your brother back to you, and you can trade in the land.’”
+ESV	Bring your youngest brother to me. Then _I shall know_ that you are not spies but honest men, and I will deliver your brother to you, and you shall trade in the land.’”
+
+(x)	וּנְקַלֹּ֤תִי עֹוד֙ מִזֹּ֔את וְהָיִ֥יתִי שָׁפָ֖ל בְּעֵינָ֑י וְעִם־הָֽאֲמָהֹות֙ אֲשֶׁ֣ר אָמַ֔רְתְּ עִמָּ֖ם _אִכָּבֵֽדָה_׃ (II Sam. 6:22)
+NIV	I will become even more undignified than this, and I will be humiliated in my own eyes. But by these slave girls you spoke of, _I will be held in honour_.”
+ESV	I will make myself yet more contemptible than this, and I will be abased in your eyes. But by the female servants of whom you have spoken, by them _I shall be held in honor_.”
+
+(x)	עַל־מִ֨י _אֲדַבְּרָ֤ה_ וְאָעִ֨ידָה֙ וְיִשְׁמָ֔עוּ הִנֵּה֙ עֲרֵלָ֣ה אָזְנָ֔ם וְלֹ֥א יוּכְל֖וּ לְהַקְשִׁ֑יב הִנֵּ֣ה דְבַר־יְהוָ֗ה הָיָ֥ה לָהֶ֛ם לְחֶרְפָּ֖ה לֹ֥א יַחְפְּצוּ־בֹֽו׃ (Jer. 6:10)
+NIV	To whom _can I speak_ and give warning? Who will listen to me? Their ears are closed so that they cannot hear. The word of the LORD is offensive to them. they find no pleasure in it.
+ESV	To whom _shall I speak_ and give warning, that they may hear? Behold, their ears are uncircumcised, they cannot listen. behold, the word of the Lord is to them an object of scorn. they take no pleasure in it.
+
+(x)	עַל־מִ֨י אֲדַבְּרָ֤ה וְ_אָעִ֨ידָה֙_ וְיִשְׁמָ֔עוּ הִנֵּה֙ עֲרֵלָ֣ה אָזְנָ֔ם וְלֹ֥א יוּכְל֖וּ לְהַקְשִׁ֑יב הִנֵּ֣ה דְבַר־יְהוָ֗ה הָיָ֥ה לָהֶ֛ם לְחֶרְפָּ֖ה לֹ֥א יַחְפְּצוּ־בֹֽו׃ (Jer. 6:10)
+NIV	To whom can I speak and _give warning_? Who will listen to me? Their ears are closed so that they cannot hear. The word of the LORD is offensive to them. they find no pleasure in it.
+ESV	To whom shall I speak and _give warning_, that they may hear? Behold, their ears are uncircumcised, they cannot listen. behold, the word of the Lord is to them an object of scorn. they take no pleasure in it.
+
+(x)	בֶּן־אָדָ֗ם יַ֠עַן אֲשֶׁר־אָ֨מְרָה צֹּ֤ר עַל־יְרוּשָׁלִַ֨ם֙ הֶאָ֔ח נִשְׁבְּרָ֛ה דַּלְתֹ֥ות הָעַמִּ֖ים נָסֵ֣בָּה אֵלָ֑י _אִמָּלְאָ֖ה_ הָחֳרָֽבָה׃ (Ezek. 26:2)
+NIV	“Son of man, because Tyre has said of Jerusalem, ‘Aha! The gate to the nations is broken, and its doors have swung open to me. now that she lies in ruins _I will prosper_,’
+ESV	“Son of man, because Tyre said concerning Jerusalem, ‘Aha, the gate of the peoples is broken. it has swung open to me. _I shall be replenished_, now that she is laid waste,’
+
+(x)	אֲנִ֗י בְּ֭צֶדֶק אֶחֱזֶ֣ה פָנֶ֑יךָ _אֶשְׂבְּעָ֥ה_ בְ֝הָקִ֗יץ תְּמוּנָתֶֽךָ׃ (Psa. 17:15)
+NIV	And I — in righteousness I will see your face. when I awake, _I will be satisfied_ with seeing your likeness.
+ESV	As for me, I shall behold your face in righteousness. when I awake, _I shall be satisfied_ with your likeness.
+
+(x)	אַשְׁרֵ֤י׀ תִּֽבְחַ֣ר וּתְקָרֵב֮ יִשְׁכֹּ֪ן חֲצֵ֫רֶ֥יךָ _נִ֭שְׂבְּעָה_ בְּט֣וּב בֵּיתֶ֑ךָ קְ֝דֹ֗שׁ הֵיכָלֶֽךָ׃ (Psa. 65:5)
+NIV	Blessed are those you choose and bring near to live in your courts! _We are filled_ with the good things of your house, of your holy temple.
+ESV	Blessed is the one you choose and bring near, to dwell in your courts! _We shall be satisfied_ with the goodness of your house, the holiness of your temple!
+
+(x)	וְ_אֶתְהַלְּכָ֥ה_ בָרְחָבָ֑ה כִּ֖י פִקֻּדֶ֣יךָ דָרָֽשְׁתִּי׃ (Psa. 119:45)
+NIV	_I will walk about_ in freedom, for I have sought out your precepts.
+ESV	and _I shall walk_ in a wide place, for I have sought your precepts.

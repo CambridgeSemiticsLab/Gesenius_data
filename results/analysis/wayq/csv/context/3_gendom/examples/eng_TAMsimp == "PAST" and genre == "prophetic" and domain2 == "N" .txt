@@ -1,0 +1,42 @@
+eng_TAMsimp == "PAST" and genre == "prophetic" and domain2 == "N" 
+10 of 483
+
+(x)	בִּשְׁנַת־מֹות֙ הַמֶּ֣לֶךְ עֻזִּיָּ֔הוּ וָ_אֶרְאֶ֧ה_ אֶת־אֲדֹנָ֛י יֹשֵׁ֥ב עַל־כִּסֵּ֖א רָ֣ם וְנִשָּׂ֑א וְשׁוּלָ֖יו מְלֵאִ֥ים אֶת־הַהֵיכָֽל׃ (Isa. 6:1)
+NIV	In the year that King Uzziah died, _I saw_ the Lord seated on a throne, high and exalted, and the train of his robe filled the temple.
+ESV	In the year that King Uzziah died _I saw_ the Lord sitting upon a throne, high and lifted up. and the train of his robe filled the temple.
+
+(x)	וַ_יֹּ֤אמֶר_ יְהוָה֙ אֵלַ֔י אִם־יַעֲמֹ֨ד מֹשֶׁ֤ה וּשְׁמוּאֵל֙ לְפָנַ֔י אֵ֥ין נַפְשִׁ֖י אֶל־הָעָ֣ם הַזֶּ֑ה שַׁלַּ֥ח מֵֽעַל־פָּנַ֖י וְיֵצֵֽאוּ׃ (Jer. 15:1)
+NIV	Then the LORD _said_ to me: “Even if Moses and Samuel were to stand before me, my heart would not go out to this people. Send them away from my presence! Let them go!
+ESV	Then the Lord _said_ to me, “Though Moses and Samuel stood before me, yet my heart would not turn toward this people. Send them out of my sight, and let them go!
+
+(x)	וַיָּשׁ֨וּבוּ֙ אַחֲרֵי־כֵ֔ן וַ_יָּשִׁ֗בוּ_ אֶת־הָֽעֲבָדִים֙ וְאֶת־הַשְּׁפָחֹ֔ות אֲשֶׁ֥ר שִׁלְּח֖וּ חָפְשִׁ֑ים וַֽיִּכְבְּשׁ֔וּם לַעֲבָדִ֖ים וְלִשְׁפָחֹֽות׃ ס (Jer. 34:11)
+NIV	But afterwards they changed their minds and _took back_ the slaves they had freed and enslaved them again.
+ESV	But afterward they turned around and _took back_ the male and female slaves they had set free, and brought them into subjection as slaves.
+
+(x)	וַיֵּצֵ֥א עֶֽבֶד־מֶ֖לֶךְ מִבֵּ֣ית הַמֶּ֑לֶךְ וַ_יְדַבֵּ֥ר_ אֶל־הַמֶּ֖לֶךְ לֵאמֹֽר׃ (Jer. 38:8)
+NIV	Ebed-melech went out of the palace and _said_ to him,
+ESV	Ebed-melech went from the king’s house and _said_ to the king,
+
+(x)	וַ_יֹּ֥אמֶר_ יִרְמְיָ֖הוּ אֶל־כָּל־הָעָ֑ם עַל־הַגְּבָרִ֤ים וְעַל־הַנָּשִׁים֙ וְעַל־כָּל־הָעָ֔ם הָעֹנִ֥ים אֹתֹ֛ו דָּבָ֖ר לֵאמֹֽר׃ (Jer. 44:20)
+NIV	Then Jeremiah _said_ to all the people, both men and women, who were answering him,
+ESV	Then Jeremiah _said_ to all the people, men and women, all the people who had given him this answer:
+
+(x)	וַ_יֹּ֣אמֶר_ אֵלַ֔י בֶּן־אָדָ֕ם שָׂא־נָ֥א עֵינֶ֖יךָ דֶּ֣רֶךְ צָפֹ֑ונָה וָאֶשָּׂ֤א עֵינַי֙ דֶּ֣רֶךְ צָפֹ֔ונָה וְהִנֵּ֤ה מִצָּפֹון֙ לְשַׁ֣עַר הַמִּזְבֵּ֔חַ סֵ֛מֶל הַקִּנְאָ֥ה הַזֶּ֖ה בַּבִּאָֽה׃ (Ezek. 8:5)
+NIV	Then _he said_ to me, “Son of man, look towards the north.” So I looked, and in the entrance north of the gate of the altar I saw this idol of jealousy.
+ESV	Then _he said_ to me, “Son of man, lift up your eyes now toward the north.” So I lifted up my eyes toward the north, and behold, north of the altar gate, in the entrance, was this image of jealousy.
+
+(x)	וָ_אֲדַבֵּ֖ר_ אֶל־הַגֹּולָ֑ה אֵ֛ת כָּל־דִּבְרֵ֥י יְהוָ֖ה אֲשֶׁ֥ר הֶרְאָֽנִי׃ פ (Ezek. 11:25)
+NIV	and _I told_ the exiles everything the LORD had shown me.
+ESV	And _I told_ the exiles all the things that the Lord had shown me.
+
+(x)	וָ_אֶשְׁמַ֛ע_ מִדַּבֵּ֥ר אֵלַ֖י מֵהַבָּ֑יִת וְאִ֕ישׁ הָיָ֥ה עֹמֵ֖ד אֶצְלִֽי׃ (Ezek. 43:6)
+NIV	While the man was standing beside me, _I heard_ someone speaking to me from inside the temple.
+ESV	While the man was standing beside me, _I heard_ one speaking to me out of the temple,
+
+(x)	וָאֹמַ֗ר אֶל־הַמַּלְאָ֛ךְ הַדֹּבֵ֥ר בִּ֖י מָה־אֵ֑לֶּה וַ_יֹּ֣אמֶר_ אֵלַ֔י אֵ֤לֶּה הַקְּרָנֹות֙ אֲשֶׁ֣ר זֵר֣וּ אֶת־יְהוּדָ֔ה אֶת־יִשְׂרָאֵ֖ל וִירוּשָׁלָֽם׃ ס (Zech. 2:2)
+NIV	I asked the angel who was speaking to me, “What are these?” _He answered_ me, “These are the horns that scattered Judah, Israel and Jerusalem.”
+ESV	And I said to the angel who talked with me, “What are these?” And _he said_ to me, “These are the horns that have scattered Judah, Israel, and Jerusalem.”
+
+(x)	וַ_יְהִ֛י_ דְּבַר־יְהוָ֥ה צְבָאֹ֖ות אֵלַ֥י לֵאמֹֽר׃ (Zech. 8:18)
+NIV	Again the word of the LORD Almighty _came_ to me.
+ESV	And the word of the Lord of hosts _came_ to me, saying,

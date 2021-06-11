@@ -1,0 +1,102 @@
+esv_TAM == "FUT" or niv_TAM == "FUT"
+25 of 35
+
+(x)	וְ_יִתֶּן_־לִ֗י אֶת־מְעָרַ֤ת הַמַּכְפֵּלָה֙ אֲשֶׁר־לֹ֔ו אֲשֶׁ֖ר בִּקְצֵ֣ה שָׂדֵ֑הוּ בְּכֶ֨סֶף מָלֵ֜א יִתְּנֶ֥נָּה לִ֛י בְּתֹוכְכֶ֖ם לַאֲחֻזַּת־קָֽבֶר׃ (Gen. 23:9)
+NIV	so _he will sell_ me the cave of Machpelah, which belongs to him and is at the end of his field. Ask him to sell it to me for the full price as a burial site among you.”
+ESV	that _he may give_ me the cave of Machpelah, which he owns. it is at the end of his field. For the full price let him give it to me in your presence as property for a burying place.”
+
+(x)	כִּי֩ יְדַבֵּ֨ר אֲלֵכֶ֤ם פַּרְעֹה֙ לֵאמֹ֔ר תְּנ֥וּ לָכֶ֖ם מֹופֵ֑ת וְאָמַרְתָּ֣ אֶֽל־אַהֲרֹ֗ן קַ֧ח אֶֽת־מַטְּךָ֛ וְהַשְׁלֵ֥ךְ לִפְנֵֽי־פַרְעֹ֖ה _יְהִ֥י_ לְתַנִּֽין׃ (Exod. 7:9)
+NIV	“When Pharaoh says to you, ‘Perform a miracle,’ then say to Aaron, ‘Take your staff and throw it down before Pharaoh,’ and _it will become_ a snake.”
+ESV	“When Pharaoh says to you, ‘Prove yourselves by working a miracle,’ then you shall say to Aaron, ‘Take your staff and cast it down before Pharaoh, that _it may become_ a serpent.’”
+
+(x)	וַיֹּ֨אמֶר יְהוָ֜ה אֶל־מֹשֶׁה נְטֵ֤ה אֶת־יָֽדְךָ֙ עַל־הַשָּׁמַ֔יִם וִ_יהִ֥י_ בָרָ֖ד בְּכָל־אֶ֣רֶץ מִצְרָ֑יִם עַל־הָאָדָ֣ם וְעַל־הַבְּהֵמָ֗ה וְעַ֛ל כָּל־עֵ֥שֶׂב הַשָּׂדֶ֖ה בְּאֶ֥רֶץ מִצְרָֽיִם׃ (Exod. 9:22)
+NIV	Then the LORD said to Moses, “Stretch out your hand toward the sky so that hail _will fall_ all over Egypt — on men and animals and on everything growing in the fields of Egypt.”
+ESV	Then the Lord said to Moses, “Stretch out your hand toward heaven, so that _there may be_ hail in all the land of Egypt, on man and beast and every plant of the field, in the land of Egypt.”
+
+(x)	וַיֹּ֨אמֶר יְהוָ֜ה אֶל־מֹשֶׁ֗ה נְטֵ֤ה יָֽדְךָ֙ עַל־הַשָּׁמַ֔יִם וִ֥_יהִי_ חֹ֖שֶׁךְ עַל־אֶ֣רֶץ מִצְרָ֑יִם וְיָמֵ֖שׁ חֹֽשֶׁךְ׃ (Exod. 10:21)
+NIV	Then the LORD said to Moses, “Stretch out your hand toward the sky so that darkness _will spread_ over Egypt — darkness that can be felt.”
+ESV	Then the Lord said to Moses, “Stretch out your hand toward heaven, that _there may be_ darkness over the land of Egypt, a darkness to be felt.”
+
+(x)	וְהָאָרֶץ֩ תֵּעָזֵ֨ב מֵהֶ֜ם וְ_תִ֣רֶץ_ אֶת־שַׁבְּתֹתֶ֗יהָ בָּהְשַׁמָּה֙ מֵהֶ֔ם וְהֵ֖ם יִרְצ֣וּ אֶת־עֲוֹנָ֑ם יַ֣עַן וּבְיַ֔עַן בְּמִשְׁפָּטַ֣י מָאָ֔סוּ וְאֶת־חֻקֹּתַ֖י גָּעֲלָ֥ה נַפְשָֽׁם׃ (Lev. 26:43)
+NIV	For the land will be deserted by them and _will enjoy_ its sabbaths while it lies desolate without them. They will pay for their sins because they rejected my laws and abhorred my decrees.
+ESV	But the land shall be abandoned by them and _enjoy_ its Sabbaths while it lies desolate without them, and they shall make amends for their iniquity, because they spurned my rules and their soul abhorred my statutes.
+
+(x)	וַיָּבֹא֩ הָעָ֨ם אֶל־מֹשֶׁ֜ה וַיֹּאמְר֣וּ חָטָ֗אנוּ כִּֽי־דִבַּ֤רְנוּ בַֽיהוָה֙ וָבָ֔ךְ הִתְפַּלֵּל֙ אֶל־יְהוָ֔ה וְ_יָסֵ֥ר_ מֵעָלֵ֖ינוּ אֶת־הַנָּחָ֑שׁ וַיִּתְפַּלֵּ֥ל מֹשֶׁ֖ה בְּעַ֥ד הָעָֽם׃ (Num. 21:7)
+NIV	The people came to Moses and said, “We sinned when we spoke against the LORD and against you. Pray that the LORD will take the snakes away from us.” So Moses prayed for the people.
+ESV	And the people came to Moses and said, “We have sinned, for we have spoken against the Lord and against you. Pray to the Lord, that _he take away_ the serpents from us.” So Moses prayed for the people.
+
+(x)	יִֽזַּל־מַ֨יִם֙ מִדָּ֣לְיָ֔ו וְזַרְעֹ֖ו בְּמַ֣יִם רַבִּ֑ים וְ_יָרֹ֤ם_ מֵֽאֲגַג֙ מַלְכֹּ֔ו וְתִנַּשֵּׂ֖א מַלְכֻתֹֽו׃ (Num. 24:7)
+NIV	Water will flow from their buckets. their seed will have abundant water. “Their king _will be greater_ than Agag. their kingdom will be exalted.
+ESV	Water shall flow from his buckets, and his seed shall be in many waters. his king _shall be higher_ than Agag, and his kingdom shall be exalted.
+
+(x)	וַיָּשֻׁ֣בוּ אֶל־יְהֹושֻׁ֗עַ וַיֹּאמְר֣וּ אֵלָיו֮ אַל־_יַ֣עַל_ כָּל־הָעָם֒ כְּאַלְפַּ֣יִם אִ֗ישׁ אֹ֚ו כִּשְׁלֹ֣שֶׁת אֲלָפִ֣ים אִ֔ישׁ יַעֲל֖וּ וְיַכּ֣וּ אֶת־הָעָ֑י אַל־תְּיַגַּע־שָׁ֨מָּה֙ אֶת־כָּל־הָעָ֔ם כִּ֥י מְעַ֖ט הֵֽמָּה׃ (Josh. 7:3)
+NIV	When they returned to Joshua, they said, “Not all the people _will have to go up_ against Ai. Send two or three thousand men to take it and do not weary all the people, for only a few men are there.”
+ESV	And they returned to Joshua and said to him, “Do not have all the people go up, but let about two or three thousand men go up and attack Ai. Do not make the whole people toil up there, for they are few.”
+
+(x)	וַיִּשְׁלַ֥ח אֵלָ֛יו אֱלִישָׁ֖ע מַלְאָ֣ךְ לֵאמֹ֑ר הָלֹ֗וךְ וְרָחַצְתָּ֤ שֶֽׁבַע־פְּעָמִים֙ בַּיַּרְדֵּ֔ן וְ_יָשֹׁ֧ב_ בְּשָׂרְךָ֛ לְךָ֖ וּטְהָֽר׃ (II Kgs. 5:10)
+NIV	Elisha sent a messenger to say to him, “Go, wash yourself seven times in the Jordan, and your flesh _will be restored_ and you will be cleansed.”
+ESV	And Elisha sent a messenger to him, saying, “Go and wash in the Jordan seven times, and your flesh _shall be restored_, and you shall be clean.”
+
+(x)	יְשֻׂשׂ֥וּם מִדְבָּ֖ר וְצִיָּ֑ה וְ_תָגֵ֧ל_ עֲרָבָ֛ה וְתִפְרַ֖ח כַּחֲבַצָּֽלֶת׃ (Isa. 35:1)
+NIV	The desert and the parched land will be glad. the wilderness _will rejoice_ and blossom. Like the crocus,
+ESV	The wilderness and the dry land shall be glad. the desert _shall rejoice_ and blossom like the crocus.
+
+(x)	אִמְרוּ֙ לְנִמְהֲרֵי־לֵ֔ב חִזְק֖וּ אַל־תִּירָ֑אוּ הִנֵּ֤ה אֱלֹֽהֵיכֶם֙ נָקָ֣ם יָבֹ֔וא גְּמ֣וּל אֱלֹהִ֔ים ה֥וּא יָבֹ֖וא וְ_יֹשַׁעֲכֶֽם_׃ (Isa. 35:4)
+NIV	say to those with fearful hearts, “Be strong, do not fear. your God will come, he will come with vengeance. with divine retribution he will come to _save_ you.”
+ESV	Say to those who have an anxious heart, “Be strong. fear not! Behold, your God will come with vengeance, with the recompense of God. He will come and _save_ you.”
+
+(x)	וַיֹּ֣אמֶר יְשַׁעְיָ֔הוּ יִשְׂא֖וּ דְּבֶ֣לֶת תְּאֵנִ֑ים וְיִמְרְח֥וּ עַֽל־הַשְּׁחִ֖ין וְ_יֶֽחִי_׃ (Isa. 38:21)
+NIV	Isaiah had said, “Prepare a poultice of figs and apply it to the boil, and _he will recover_.”
+ESV	Now Isaiah had said, “Let them take a cake of figs and apply it to the boil, that _he may recover_.”
+
+(x)	_תִּגָּל֙_ עֶרְוָתֵ֔ךְ גַּ֥ם תֵּרָאֶ֖ה חֶרְפָּתֵ֑ךְ נָקָ֣ם אֶקָּ֔ח וְלֹ֥א אֶפְגַּ֖ע אָדָֽם׃ ס (Isa. 47:3)
+NIV	Your nakedness _will be exposed_ and your shame uncovered. I will take vengeance. I will spare no-one.”
+ESV	Your nakedness _shall be uncovered_, and your disgrace shall be seen. I will take vengeance, and I will spare no one.
+
+(x)	וַיֹּ֥אמֶר יִרְמְיָ֖הוּ לֹ֣א יִתֵּ֑נוּ שְֽׁמַֽע־נָ֣א׀ בְּקֹ֣ול יְהוָ֗ה לַאֲשֶׁ֤ר אֲנִי֙ דֹּבֵ֣ר אֵלֶ֔יךָ וְיִ֥יטַב לְךָ֖ וּ_תְחִ֥י_ נַפְשֶֽׁךָ׃ (Jer. 38:20)
+NIV	“They will not hand you over,” Jeremiah replied. “Obey the LORD by doing what I tell you. Then it will go well with you, and your life _will be spared_.
+ESV	Jeremiah said, “You shall not be given to them. Obey now the voice of the Lord in what I say to you, and it shall be well with you, and your life _shall be spared_.
+
+(x)	וְ_יַגֶּד_־לָ֨נוּ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ אֶת־הַדֶּ֖רֶךְ אֲשֶׁ֣ר נֵֽלֶךְ־בָּ֑הּ וְאֶת־הַדָּבָ֖ר אֲשֶׁ֥ר נַעֲשֶֽׂה׃ (Jer. 42:3)
+NIV	Pray that the LORD your God _will tell_ us where we should go and what we should do.”
+ESV	that the Lord your God _may show_ us the way we should go, and the thing that we should do.”
+
+(x)	יֵֽלְכוּ֙ יֹֽנְקֹותָ֔יו וִ_יהִ֥י_ כַזַּ֖יִת הֹודֹ֑ו וְרֵ֥יחַֽ לֹ֖ו כַּלְּבָנֹֽון׃ (Hos. 14:7)
+NIV	his young shoots will grow. His splendour _will be_ like an olive tree, his fragrance like a cedar of Lebanon.
+ESV	his shoots shall spread out. his beauty _shall be_ like the olive, and his fragrance like Lebanon.
+
+(x)	מִ֤י חָכָם֙ וְ_יָ֣בֵֽן_ אֵ֔לֶּה נָבֹ֖ון וְיֵֽדָעֵ֑ם כִּֽי־יְשָׁרִ֞ים דַּרְכֵ֣י יְהוָ֗ה וְצַדִּקִים֙ יֵ֣לְכוּ בָ֔ם וּפֹשְׁעִ֖ים יִכָּ֥שְׁלוּ בָֽם׃ (Hos. 14:10)
+NIV	Who is wise? _He will realise_ these things. Who is discerning? He will understand them. The ways of the LORD are right. the righteous walk in them, but the rebellious stumble in them.
+ESV	Whoever is wise, _let him understand_ these things. whoever is discerning, let him know them. for the ways of the Lord are right, and the upright walk in them, but transgressors stumble in them.
+
+(x)	וְיֵ֤ט יָדֹו֙ עַל־צָפֹ֔ון וִֽיאַבֵּ֖ד אֶת־אַשּׁ֑וּר וְ_יָשֵׂ֤ם_ אֶת־נִֽינְוֵה֙ לִשְׁמָמָ֔ה צִיָּ֖ה כַּמִּדְבָּֽר׃ (Zeph. 2:13)
+NIV	He will stretch out his hand against the north and destroy Assyria, _leaving_ Nineveh utterly desolate and dry as the desert.
+ESV	And he will stretch out his hand against the north and destroy Assyria, and _he will make_ Nineveh a desolation, a dry waste like the desert.
+
+(x)	וְהָי֤וּ כְגִבֹּור֙ אֶפְרַ֔יִם וְשָׂמַ֥ח לִבָּ֖ם כְּמֹו־יָ֑יִן וּבְנֵיהֶם֙ יִרְא֣וּ וְשָׂמֵ֔חוּ _יָגֵ֥ל_ לִבָּ֖ם בַּיהוָֽה׃ (Zech. 10:7)
+NIV	The Ephraimites will become like mighty men, and their hearts will be glad as with wine. Their children will see it and be joyful. their hearts _will rejoice_ in the LORD.
+ESV	Then Ephraim shall become like a mighty warrior, and their hearts shall be glad as with wine. Their children shall see it and be glad. their hearts _shall rejoice_ in the Lord.
+
+(x)	וְ_יִתְאָ֣ו_ הַמֶּ֣לֶךְ יָפְיֵ֑ךְ כִּי־ה֥וּא אֲ֝דֹנַ֗יִךְ וְהִשְׁתַּֽחֲוִי־לֹֽו׃ (Psa. 45:12)
+NIV	The king _is enthralled_ by your beauty. honor him, for he is your lord.
+ESV	and the king _will desire_ your beauty. Since he is your lord, bow to him.
+
+(x)	_תַּ֣עַן_ לְ֭שֹׁונִי אִמְרָתֶ֑ךָ כִּ֖י כָל־מִצְוֹתֶ֣יךָ צֶּֽדֶק׃ (Psa. 119:172)
+NIV	May my tongue sing of your word, for all your commands are righteous.
+ESV	My tongue _will sing_ of your word, for all your commandments are right.
+
+(x)	וַיֹּ֨אמֶר הַמֶּ֤לֶךְ לְאֶסְתֵּר֙ בְּמִשְׁתֵּ֣ה הַיַּ֔יִן מַה־שְּׁאֵלָתֵ֖ךְ וְיִנָּ֣תֵֽן לָ֑ךְ וּמַה־בַּקָּשָׁתֵ֛ךְ עַד־חֲצִ֥י הַמַּלְכ֖וּת וְ_תֵעָֽשׂ_׃ (Esth. 5:6)
+NIV	As they were drinking wine, the king again asked Esther, “Now what is your petition? It will be given you. And what is your request? Even up to half the kingdom, _it will be granted_.”
+ESV	And as they were drinking wine after the feast, the king said to Esther, “What is your wish? It shall be granted you. And what is your request? Even to the half of my kingdom, _it shall be fulfilled_.”
+
+(x)	וַיֹּ֨אמֶר הַמֶּ֜לֶךְ לְאֶסְתֵּ֣ר הַמַּלְכָּ֗ה בְּשׁוּשַׁ֣ן הַבִּירָ֡ה הָרְגוּ֩ הַיְּהוּדִ֨ים וְאַבֵּ֜ד חֲמֵ֧שׁ מֵאֹ֣ות אִ֗ישׁ וְאֵת֙ עֲשֶׂ֣רֶת בְּנֵֽי־הָמָ֔ן בִּשְׁאָ֛ר מְדִינֹ֥ות הַמֶּ֖לֶךְ מֶ֣ה עָשׂ֑וּ וּמַה־שְּׁאֵֽלָתֵךְ֙ וְיִנָּ֣תֵֽן לָ֔ךְ וּמַה־בַּקָּשָׁתֵ֥ךְ עֹ֖וד וְ_תֵעָֽשׂ_׃ (Esth. 9:12)
+NIV	The king said to Queen Esther, “The Jews have killed and destroyed five hundred men and the ten sons of Haman in the citadel of Susa. What have they done in the rest of the king’s provinces? Now what is your petition? It will be given you. What is your request? It will also be granted.”
+ESV	And the king said to Queen Esther, “In Susa the citadel the Jews have killed and destroyed 500 men and also the ten sons of Haman. What then have they done in the rest of the king’s provinces! Now what is your wish? It shall be granted you. And what further is your request? _It shall be fulfilled_.”
+
+(x)	עַתָּה֙ עִם־לְבָבִ֔י לִכְרֹ֣ות בְּרִ֔ית לַיהוָ֖ה אֱלֹהֵ֣י יִשְׂרָאֵ֑ל וְ_יָשֹׁ֥ב_ מִמֶּ֖נּוּ חֲרֹ֥ון אַפֹּֽו׃ (II Chr. 29:10)
+NIV	Now I intend to make a covenant with the LORD, the God of Israel, so that his fierce anger _will turn away_ from us.
+ESV	Now it is in my heart to make a covenant with the Lord, the God of Israel, in order that his fierce anger _may turn away_ from us.
+
+(x)	עַתָּ֕ה אַל־תַּקְשׁ֥וּ עָרְפְּכֶ֖ם כַּאֲבֹותֵיכֶ֑ם תְּנוּ־יָ֣ד לַיהוָ֗ה וּבֹ֤אוּ לְמִקְדָּשֹׁו֙ אֲשֶׁ֣ר הִקְדִּ֣ישׁ לְעֹולָ֔ם וְעִבְדוּ֙ אֶת־יְהוָ֣ה אֱלֹהֵיכֶ֔ם וְ_יָשֹׁ֥ב_ מִכֶּ֖ם חֲרֹ֥ון אַפֹּֽו׃ (II Chr. 30:8)
+NIV	Do not be stiff-necked, as your fathers were. submit to the LORD. Come to the sanctuary, which he has consecrated forever. Serve the LORD your God, so that his fierce anger _will turn away_ from you.
+ESV	Do not now be stiff-necked as your fathers were, but yield yourselves to the Lord and come to his sanctuary, which he has consecrated forever, and serve the Lord your God, that his fierce anger _may turn away_ from you.

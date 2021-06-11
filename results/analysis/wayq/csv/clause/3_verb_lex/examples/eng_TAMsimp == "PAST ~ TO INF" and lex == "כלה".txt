@@ -1,0 +1,10 @@
+eng_TAMsimp == "PAST ~ TO INF" and lex == "כלה"
+2 of 2
+
+(x)	וְאֶת־בֵּיתֹו֙ בָּנָ֣ה שְׁלֹמֹ֔ה שְׁלֹ֥שׁ עֶשְׂרֵ֖ה שָׁנָ֑ה וַ_יְכַ֖ל_ אֶת־כָּל־בֵּיתֹֽו׃ (I Kgs. 7:1)
+NIV	It took Solomon thirteen years, however, to _complete_ the construction of his palace.
+ESV	Solomon was building his own house thirteen years, and _he finished_ his entire house.
+
+(x)	לָ֤מָּה זֶּה֙ מֵרֶ֣חֶם יָצָ֔אתִי לִרְאֹ֥ות עָמָ֖ל וְיָגֹ֑ון וַ_יִּכְל֥וּ_ בְּבֹ֖שֶׁת יָמָֽי׃ פ (Jer. 20:18)
+NIV	Why did I ever come out of the womb to see trouble and sorrow and to _end_ my days in shame?
+ESV	Why did I come out from the womb to see toil and sorrow, and _spend_ my days in shame?

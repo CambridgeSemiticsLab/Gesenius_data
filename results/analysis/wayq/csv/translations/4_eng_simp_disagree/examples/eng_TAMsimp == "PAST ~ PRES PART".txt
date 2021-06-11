@@ -1,0 +1,42 @@
+eng_TAMsimp == "PAST ~ PRES PART"
+10 of 196
+
+(x)	וְהָ֣אָדָ֔ם יָדַ֖ע אֶת־חַוָּ֣ה אִשְׁתֹּ֑ו וַתַּ֨הַר֙ וַתֵּ֣לֶד אֶת־קַ֔יִן וַ_תֹּ֕אמֶר_ קָנִ֥יתִי אִ֖ישׁ אֶת־יְהוָֽה׃ (Gen. 4:1)
+NIV	Adam lay with his wife Eve, and she became pregnant and gave birth to Cain. _She said_, “With the help of the LORD I have brought forth a man.”
+ESV	Now Adam knew Eve his wife, and she conceived and bore Cain, _saying_, “I have gotten a man with the help of the Lord.”
+
+(x)	וַ_יֹּאמֶר֩_ אִם־שָׁמֹ֨ועַ תִּשְׁמַ֜ע לְקֹ֣ול׀ יְהוָ֣ה אֱלֹהֶ֗יךָ וְהַיָּשָׁ֤ר בְּעֵינָיו֙ תַּעֲשֶׂ֔ה וְהַֽאֲזַנְתָּ֙ לְמִצְוֹתָ֔יו וְשָׁמַרְתָּ֖ כָּל־חֻקָּ֑יו כָּֽל־הַמַּֽחֲלָ֞ה אֲשֶׁר־שַׂ֤מְתִּי בְמִצְרַ֨יִם֙ לֹא־אָשִׂ֣ים עָלֶ֔יךָ כִּ֛י אֲנִ֥י יְהוָ֖ה רֹפְאֶֽךָ׃ ס (Exod. 15:26)
+NIV	_He said_, “If you listen carefully to the voice of the LORD your God and do what is right in his eyes, if you pay attention to his commands and keep all his decrees, I will not bring on you any of the diseases I brought on the Egyptians, for I am the LORD, who heals you.”
+ESV	_saying_, “If you will diligently listen to the voice of the Lord your God, and do that which is right in his eyes, and give ear to his commandments and keep all his statutes, I will put none of the diseases on you that I put on the Egyptians, for I am the Lord, your healer.”
+
+(x)	וַ_יֹּ֨אמֶר_ אֲלֵיהֶ֜ם לֵאמֹ֗ר בִּנְכָסִ֨ים רַבִּ֜ים שׁ֤וּבוּ אֶל־אָֽהֳלֵיכֶם֙ וּבְמִקְנֶ֣ה רַב־מְאֹ֔ד בְּכֶ֨סֶף וּבְזָהָ֜ב וּבִנְחֹ֧שֶׁת וּבְבַרְזֶ֛ל וּבִשְׂלָמֹ֖ות הַרְבֵּ֣ה מְאֹ֑ד חִלְק֥וּ שְׁלַל־אֹיְבֵיכֶ֖ם עִם־אֲחֵיכֶֽם׃ פ (Josh. 22:8)
+NIV	_saying_, “Return to your homes with your great wealth — with large herds of livestock, with silver, gold, bronze and iron, and a great quantity of clothing — and divide with your brothers the plunder from your enemies.”
+ESV	_he said_ to them, “Go back to your tents with much wealth and with very much livestock, with silver, gold, bronze, and iron, and with much clothing. Divide the spoil of your enemies with your brothers.”
+
+(x)	וַיִּלְפֹּ֨ת שִׁמְשֹׁ֜ון אֶת־שְׁנֵ֣י׀ עַמּוּדֵ֣י הַתָּ֗וֶךְ אֲשֶׁ֤ר הַבַּ֨יִת֙ נָכֹ֣ון עֲלֵיהֶ֔ם וַ_יִּסָּמֵ֖ךְ_ עֲלֵיהֶ֑ם אֶחָ֥ד בִּימִינֹ֖ו וְאֶחָ֥ד בִּשְׂמֹאלֹֽו׃ (Judg. 16:29)
+NIV	Then Samson reached towards the two central pillars on which the temple stood. _Bracing himself_ against them, his right hand on the one and his left hand on the other,
+ESV	And Samson grasped the two middle pillars on which the house rested, and _he leaned_ his weight against them, his right hand on the one and his left hand on the other.
+
+(x)	וַיֵּ֣לֶךְ שָׁ֔ם אֶל־נָיֹ֖ות בָּרָמָ֑ה וַתְּהִי֩ עָלָ֨יו גַּם־ה֜וּא ר֣וּחַ אֱלֹהִ֗ים וַיֵּ֤לֶךְ הָלֹוךְ֙ וַ_יִּתְנַבֵּ֔א_ עַד־בֹּאֹ֖ו בְּנָיֹ֥ות בָּרָמָֽה׃ (I Sam. 19:23)
+NIV	So Saul went to Naioth at Ramah. But the Spirit of God came even upon him, and he walked along _prophesying_ until he came to Naioth.
+ESV	And he went there to Naioth in Ramah. And the Spirit of God came upon him also, and as he went _he prophesied_ until he came to Naioth in Ramah.
+
+(x)	וַיָּקֻ֨מוּ֙ מִמִּדְיָ֔ן וַיָּבֹ֖אוּ פָּארָ֑ן וַ_יִּקְחוּ֩_ אֲנָשִׁ֨ים עִמָּ֜ם מִפָּארָ֗ן וַיָּבֹ֤אוּ מִצְרַ֨יִם֙ אֶל־פַּרְעֹ֣ה מֶֽלֶךְ־מִצְרַ֔יִם וַיִּתֶּן־לֹ֣ו בַ֗יִת וְלֶ֨חֶם֙ אָ֣מַר לֹ֔ו וְאֶ֖רֶץ נָ֥תַן לֹֽו׃ (I Kgs. 11:18)
+NIV	They set out from Midian and went to Paran. Then _taking_ men from Paran with them, they went to Egypt, to Pharaoh king of Egypt, who gave Hadad a house and land and provided him with food.
+ESV	They set out from Midian and came to Paran and _took_ men with them from Paran and came to Egypt, to Pharaoh king of Egypt, who gave him a house and assigned him an allowance of food and gave him land.
+
+(x)	וַיִּקַּ֣ח אֶת־שָׂרֵ֣י הַ֠מֵּאֹות וְאֶת־הַכָּרִ֨י וְאֶת־הָרָצִ֜ים וְאֵ֣ת׀ כָּל־עַ֣ם הָאָ֗רֶץ וַיֹּרִ֤ידוּ אֶת־הַמֶּ֨לֶךְ֙ מִבֵּ֣ית יְהוָ֔ה וַ_יָּבֹ֛ואוּ_ דֶּֽרֶך־שַׁ֥עַר הָרָצִ֖ים בֵּ֣ית הַמֶּ֑לֶךְ וַיֵּ֖שֶׁב עַל־כִּסֵּ֥א הַמְּלָכִֽים׃ (II Kgs. 11:19)
+NIV	He took with him the commanders of hundreds, the Carites, the guards and all the people of the land, and together they brought the king down from the temple of the LORD and _went into_ the palace, entering by way of the gate of the guards. The king then took his place on the royal throne,
+ESV	And he took the captains, the Carites, the guards, and all the people of the land, and they brought the king down from the house of the Lord, _marching through_ the gate of the guards to the king’s house. And he took his seat on the throne of the kings.
+
+(x)	וַיָּ֤קָם יֹונָה֙ לִבְרֹ֣חַ תַּרְשִׁ֔ישָׁה מִלִּפְנֵ֖י יְהוָ֑ה וַיֵּ֨רֶד יָפֹ֜ו וַיִּמְצָ֥א אָנִיָּ֣ה׀ בָּאָ֣ה תַרְשִׁ֗ישׁ וַ_יִּתֵּ֨ן_ שְׂכָרָ֜הּ וַיֵּ֤רֶד בָּהּ֙ לָבֹ֤וא עִמָּהֶם֙ תַּרְשִׁ֔ישָׁה מִלִּפְנֵ֖י יְהוָֽה׃ (Jonah 1:3)
+NIV	But Jonah ran away from the LORD and headed for Tarshish. He went down to Joppa, where he found a ship bound for that port. After _paying_ the fare, he went aboard and sailed for Tarshish to flee from the LORD.
+ESV	But Jonah rose to flee to Tarshish from the presence of the Lord. He went down to Joppa and found a ship going to Tarshish. So _he paid_ the fare and went on board, to go with them to Tarshish, away from the presence of the Lord.
+
+(x)	וָאָבֹ֖וא אֶל־יְרוּשָׁלִָ֑ם וָ_אֱהִי_־שָׁ֖ם יָמִ֥ים שְׁלֹשָֽׁה׃ (Neh. 2:11)
+NIV	I went to Jerusalem, and after _staying_ there three days
+ESV	So I went to Jerusalem and _was_ there three days.
+
+(x)	גַּ֠ם כָּל־שָׂרֵ֨י הַכֹּהֲנִ֤ים וְהָעָם֙ הִרְבּ֣וּ לִמְעָל־מַ֔עַל כְּכֹ֖ל תֹּעֲבֹ֣ות הַגֹּויִ֑ם וַֽ_יְטַמְּאוּ֙_ אֶת־בֵּ֣ית יְהוָ֔ה אֲשֶׁ֥ר הִקְדִּ֖ישׁ בִּירוּשָׁלִָֽם׃ (II Chr. 36:14)
+NIV	Furthermore, all the leaders of the priests and the people became more and more unfaithful, following all the detestable practices of the nations and _defiling_ the temple of the LORD, which he had consecrated in Jerusalem.
+ESV	All the officers of the priests and the people likewise were exceedingly unfaithful, following all the abominations of the nations. And _they polluted_ the house of the Lord that he had made holy in Jerusalem.

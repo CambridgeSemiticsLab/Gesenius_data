@@ -1,0 +1,26 @@
+eng_TAMsimp == "PAST ~ TO INF" and lex == "חוה"
+6 of 6
+
+(x)	וַיֹּאמְר֗וּ שָׁלֹ֛ום לְעַבְדְּךָ֥ לְאָבִ֖ינוּ עֹודֶ֣נּוּ חָ֑י וַֽיִּקְּד֖וּ וַיִּֽשְׁתַּחֲוּֽוּ׃ (Gen. 43:28)
+NIV	They replied, “Your servant our father is still alive and well.” And they bowed low to pay him honor.
+ESV	They said, “Your servant our father is well. he is still alive.” And they bowed their heads and _prostrated themselves_.
+
+(x)	וַיְהִ֣י׀ בַּיֹּ֣ום הַשְּׁלִישִׁ֗י וְהִנֵּה֩ אִ֨ישׁ בָּ֤א מִן־הַֽמַּחֲנֶה֙ מֵעִ֣ם שָׁא֔וּל וּבְגָדָ֣יו קְרֻעִ֔ים וַאֲדָמָ֖ה עַל־רֹאשֹׁ֑ו וַיְהִי֙ בְּבֹאֹ֣ו אֶל־דָּוִ֔ד וַיִּפֹּ֥ל אַ֖רְצָה וַ_יִּשְׁתָּֽחוּ_׃ (II Sam. 1:2)
+NIV	On the third day a man arrived from Saul’s camp, with his clothes torn and with dust on his head. When he came to David, he fell to the ground to pay him honour.
+ESV	And on the third day, behold, a man came from Saul’s camp, with his clothes torn and dirt on his head. And when he came to David, he fell to the ground and _paid homage_.
+
+(x)	וַ֠יָּבֹא מְפִיבֹ֨שֶׁת בֶּן־יְהֹונָתָ֤ן בֶּן־שָׁאוּל֙ אֶל־דָּוִ֔ד וַיִּפֹּ֥ל עַל־פָּנָ֖יו וַ_יִּשְׁתָּ֑חוּ_ וַיֹּ֤אמֶר דָּוִד֙ מְפִיבֹ֔שֶׁת וַיֹּ֖אמֶר הִנֵּ֥ה עַבְדֶּֽךָ׃ (II Sam. 9:6)
+NIV	When Mephibosheth son of Jonathan, the son of Saul, came to David, he bowed down to pay him honour. David said, “Mephibosheth!” “Your servant,” he replied.
+ESV	And Mephibosheth the son of Jonathan, son of Saul, came to David and fell on his face and _paid homage_. And David said, “Mephibosheth!” And he answered, “Behold, I am your servant.”
+
+(x)	וַ֠תֹּאמֶר הָאִשָּׁ֤ה הַתְּקֹעִית֙ אֶל־הַמֶּ֔לֶךְ וַתִּפֹּ֧ל עַל־אַפֶּ֛יהָ אַ֖רְצָה וַ_תִּשְׁתָּ֑חוּ_ וַתֹּ֖אמֶר הֹושִׁ֥עָה הַמֶּֽלֶךְ׃ ס (II Sam. 14:4)
+NIV	When the woman from Tekoa went to the king, she fell with her face to the ground to pay him honour, and she said, “Help me, O king!”
+ESV	When the woman of Tekoa came to the king, she fell on her face to the ground and _paid homage_ and said, “Save me, O king.”
+
+(x)	וַיִּפֹּל֩ יֹואָ֨ב אֶל־פָּנָ֥יו אַ֛רְצָה וַ_יִּשְׁתַּ֖חוּ_ וַיְבָ֣רֶךְ אֶת־הַמֶּ֑לֶךְ וַיֹּ֣אמֶר יֹואָ֡ב הַיֹּום֩ יָדַ֨ע עַבְדְּךָ֜ כִּי־מָצָ֨אתִי חֵ֤ן בְּעֵינֶ֨יךָ֙ אֲדֹנִ֣י הַמֶּ֔לֶךְ אֲשֶׁר־עָשָׂ֥ה הַמֶּ֖לֶךְ אֶת־דְּבַ֥ר עַבְדֶּֽךָ׃ (II Sam. 14:22)
+NIV	Joab fell with his face to the ground to pay him honour, and he blessed the king. Joab said, “Today your servant knows that he has found favour in your eyes, my lord the king, because the king has granted his servant’s request.”
+ESV	And Joab fell on his face to the ground and _paid homage_ and blessed the king. And Joab said, “Today your servant knows that I have found favor in your sight, my lord the king, in that the king has granted the request of his servant.”
+
+(x)	וַיְהִי֙ הֲנָקֵ֣ל לֶכְתֹּ֔ו בְּחַטֹּ֖אות יָרָבְעָ֣ם בֶּן־נְבָ֑ט וַיִּקַּ֨ח אִשָּׁ֜ה אֶת־אִיזֶ֗בֶל בַּת־אֶתְבַּ֨עַל֙ מֶ֣לֶךְ צִידֹנִ֔ים וַיֵּ֨לֶךְ֙ וַֽיַּעֲבֹ֣ד אֶת־הַבַּ֔עַל וַ_יִּשְׁתַּ֖חוּ_ לֹֽו׃ (I Kgs. 16:31)
+NIV	He not only considered it trivial to commit the sins of Jeroboam son of Nebat, but he also married Jezebel daughter of Ethbaal king of the Sidonians, and began to serve Baal and _worship_ him.
+ESV	And as if it had been a light thing for him to walk in the sins of Jeroboam the son of Nebat, he took for his wife Jezebel the daughter of Ethbaal king of the Sidonians, and went and served Baal and _worshiped_ him.

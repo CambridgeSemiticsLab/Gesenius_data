@@ -1394,7 +1394,8 @@
     "?MOD may": "MOD may"
   },
   "207616": {
-    "?MOD let": "MOD let"
+    "?MOD let": "MOD let",
+    "?VB": "MOD let"
   },
   "208071": {
     "?MOD shall": "MOD shall"
@@ -9599,5 +9600,851 @@
   },
   "415442": {
     "?PRES": "PAST wh-question"
+  },
+  "825": {
+    "?PAST": "PAST"
+  },
+  "953": {
+    "?PAST": "PAST"
+  },
+  "1918": {
+    "?PAST": "PAST"
+  },
+  "3728": {
+    "?PAST": "PAST"
+  },
+  "9866": {
+    "?PAST": "PAST"
+  },
+  "11286": {
+    "?PAST": "PAST"
+  },
+  "12044": {
+    "?PAST": "PAST"
+  },
+  "12180": {
+    "?PAST": "PAST"
+  },
+  "12966": {
+    "?PAST": "PAST"
+  },
+  "13543": {
+    "?PAST": "PAST"
+  },
+  "13884": {
+    "?PAST": "PAST"
+  },
+  "13904": {
+    "?PAST": "PAST"
+  },
+  "14697": {
+    "?PAST": "PAST"
+  },
+  "16197": {
+    "?PAST": "PAST"
+  },
+  "16305": {
+    "?PAST": "PAST"
+  },
+  "16863": {
+    "?PAST wh-question": "PAST wh-question"
+  },
+  "17010": {
+    "?PAST": "PAST"
+  },
+  "18107": {
+    "?PAST": "PAST"
+  },
+  "20796": {
+    "?PAST": "PAST"
+  },
+  "20940": {
+    "?PAST": "PAST"
+  },
+  "20992": {
+    "?PAST": "PAST"
+  },
+  "21185": {
+    "?PAST": "PAST"
+  },
+  "21368": {
+    "?PAST": "PAST"
+  },
+  "21830": {
+    "?PAST": "PAST"
+  },
+  "21867": {
+    "?PAST": "PAST"
+  },
+  "21949": {
+    "?PAST": "PAST"
+  },
+  "22532": {
+    "?PAST": "PAST"
+  },
+  "23107": {
+    "?PAST": "PAST"
+  },
+  "23118": {
+    "?PAST": "PAST"
+  },
+  "23238": {
+    "?PAST": "PAST"
+  },
+  "23704": {
+    "?PAST": "PAST"
+  },
+  "27734": {
+    "?PAST": "PAST"
+  },
+  "29161": {
+    "?PAST": "PAST"
+  },
+  "30228": {
+    "?PAST": "PAST"
+  },
+  "30265": {
+    "?PAST": "PAST"
+  },
+  "30285": {
+    "?PAST": "PAST"
+  },
+  "38391": {
+    "?PAST": "PAST"
+  },
+  "41723": {
+    "?PAST": "PAST"
+  },
+  "41831": {
+    "?PAST": "PAST"
+  },
+  "48446": {
+    "?PAST": "PAST"
+  },
+  "49999": {
+    "?PAST": "PAST"
+  },
+  "50546": {
+    "?PAST": "PAST"
+  },
+  "51329": {
+    "?PAST": "PAST"
+  },
+  "51340": {
+    "?PAST": "PAST"
+  },
+  "51381": {
+    "?PAST": "PAST"
+  },
+  "51502": {
+    "?PAST": "PAST"
+  },
+  "52145": {
+    "?VB": "PAST"
+  },
+  "52149": {
+    "?PAST": "PAST"
+  },
+  "52165": {
+    "?PAST": "PAST"
+  },
+  "52183": {
+    "?PAST": "PAST"
+  },
+  "52191": {
+    "?PAST": "PAST"
+  },
+  "52236": {
+    "?PAST": "PAST"
+  },
+  "52268": {
+    "?PAST": "PAST"
+  },
+  "52284": {
+    "?VB": "PAST"
+  },
+  "52297": {
+    "?PAST": "PAST"
+  },
+  "52321": {
+    "?PAST": "PAST"
+  },
+  "52368": {
+    "?VB": "PAST"
+  },
+  "52418": {
+    "?PAST": "PAST"
+  },
+  "56131": {
+    "?PAST": "PAST"
+  },
+  "56149": {
+    "?PAST": "PAST"
+  },
+  "56172": {
+    "?PAST": "PAST"
+  },
+  "56321": {
+    "?PAST": "PAST"
+  },
+  "56519": {
+    "?PAST": "PAST"
+  },
+  "56544": {
+    "?PAST": "PAST"
+  },
+  "56644": {
+    "?PAST": "PAST"
+  },
+  "57060": {
+    "?PAST": "PAST"
+  },
+  "57277": {
+    "?PAST": "PAST"
+  },
+  "57394": {
+    "?PAST": "PAST"
+  },
+  "66980": {
+    "?PAST": "PAST"
+  },
+  "72778": {
+    "?PAST": "PAST"
+  },
+  "77351": {
+    "?PAST": "PAST"
+  },
+  "79914": {
+    "?PAST": "PAST"
+  },
+  "80406": {
+    "?PAST": "PAST"
+  },
+  "81002": {
+    "?PAST": "PAST"
+  },
+  "83087": {
+    "?PAST": "PAST"
+  },
+  "84772": {
+    "?PAST": "PAST"
+  },
+  "84965": {
+    "?PAST": "PAST"
+  },
+  "85231": {
+    "?PAST did not": "PAST"
+  },
+  "93715": {
+    "?PRES": "PRES"
+  },
+  "95942": {
+    "??PRES": "PRES"
+  },
+  "98057": {
+    "?PAST": "PAST"
+  },
+  "99227": {
+    "?PAST": "PAST"
+  },
+  "115958": {
+    "?PAST": "PAST"
+  },
+  "116250": {
+    "?PAST": "PAST"
+  },
+  "118939": {
+    "?PAST": "PAST"
+  },
+  "118973": {
+    "?PAST": "PAST"
+  },
+  "119864": {
+    "?PAST": "PAST"
+  },
+  "120634": {
+    "?PRES": "PRES"
+  },
+  "122700": {
+    "?PAST": "PAST"
+  },
+  "125263": {
+    "?VB": "PRES PERF"
+  },
+  "126789": {
+    "?PAST": "PAST"
+  },
+  "126803": {
+    "?PAST": "VB"
+  },
+  "128040": {
+    "?PAST": "PAST"
+  },
+  "130484": {
+    "?MOD would": "MOD would"
+  },
+  "131854": {
+    "?PAST": "PAST"
+  },
+  "132717": {
+    "?PAST": "PAST"
+  },
+  "133385": {
+    "?PAST": "PAST"
+  },
+  "133420": {
+    "?PAST": "PAST"
+  },
+  "133433": {
+    "?PAST": "PAST"
+  },
+  "133444": {
+    "?PAST": "PAST"
+  },
+  "133928": {
+    "?PAST": "PAST"
+  },
+  "134412": {
+    "?PAST": "PAST"
+  },
+  "134595": {
+    "?PAST question": "PAST question"
+  },
+  "136821": {
+    "?VB": "PAST"
+  },
+  "137076": {
+    "?PAST": "PAST"
+  },
+  "137224": {
+    "?PAST": "PAST"
+  },
+  "137277": {
+    "?PAST": "PAST"
+  },
+  "138897": {
+    "?PRES": "PRES"
+  },
+  "139219": {
+    "?PAST": "PAST"
+  },
+  "139607": {
+    "?PAST": "PAST"
+  },
+  "139609": {
+    "??PAST": "PAST"
+  },
+  "139814": {
+    "?PAST": "PAST"
+  },
+  "142693": {
+    "??VB": "PRES question"
+  },
+  "143873": {
+    "?PAST": "PAST"
+  },
+  "144262": {
+    "?VB": "PAST question"
+  },
+  "144382": {
+    "?PAST": "PAST"
+  },
+  "144772": {
+    "?PAST": "PAST"
+  },
+  "147087": {
+    "?PAST": "PAST"
+  },
+  "148929": {
+    "?PAST": "PAST"
+  },
+  "148945": {
+    "?PAST": "PAST"
+  },
+  "149951": {
+    "?PAST wh-question": "PRES wh-question"
+  },
+  "151678": {
+    "?PAST": "PAST"
+  },
+  "151697": {
+    "?PAST": "PAST"
+  },
+  "151923": {
+    "?PAST": "PAST"
+  },
+  "156075": {
+    "?PAST": "PAST"
+  },
+  "157294": {
+    "?PAST PERF": "PAST PERF"
+  },
+  "158421": {
+    "?VB": "MOD would"
+  },
+  "158892": {
+    "?PRES PERF": "PRES PERF"
+  },
+  "159106": {
+    "?PAST": "PAST"
+  },
+  "160398": {
+    "?PAST": "PAST"
+  },
+  "162757": {
+    "?PAST": "PAST"
+  },
+  "163545": {
+    "?PAST": "PAST"
+  },
+  "164709": {
+    "?PAST": "PAST"
+  },
+  "164879": {
+    "?PAST": "PAST"
+  },
+  "166021": {
+    "?PAST": "PAST"
+  },
+  "167532": {
+    "?PAST": "PAST"
+  },
+  "167543": {
+    "?PAST": "PAST"
+  },
+  "168077": {
+    "?PAST": "PAST"
+  },
+  "168927": {
+    "?MOD would": "MOD would"
+  },
+  "170775": {
+    "?PAST": "PAST"
+  },
+  "173164": {
+    "?PAST": "PAST"
+  },
+  "177611": {
+    "?PRES PERF": "PRES PERF"
+  },
+  "178114": {
+    "?PAST": "PAST"
+  },
+  "178123": {
+    "?PAST": "PAST"
+  },
+  "178297": {
+    "??VB": "PAST question"
+  },
+  "180611": {
+    "?PAST": "PAST"
+  },
+  "180731": {
+    "?PAST": "PAST"
+  },
+  "182476": {
+    "?PRES PERF": "PRES"
+  },
+  "184731": {
+    "?PAST": "PAST"
+  },
+  "187304": {
+    "?VB": "PRES PERF"
+  },
+  "188548": {
+    "?PAST": "PAST"
+  },
+  "191078": {
+    "?PAST": "PAST"
+  },
+  "191083": {
+    "??PAST": "PAST"
+  },
+  "191298": {
+    "?PAST": "PAST"
+  },
+  "191528": {
+    "?PAST": "PAST"
+  },
+  "191555": {
+    "?PAST": "PAST"
+  },
+  "191619": {
+    "?IMPV": "PRES"
+  },
+  "191740": {
+    "?IMPV": "PRES"
+  },
+  "193601": {
+    "?PAST": "PAST"
+  },
+  "195880": {
+    "?PAST": "PAST"
+  },
+  "198070": {
+    "?PAST": "PAST"
+  },
+  "199138": {
+    "?PAST": "PAST"
+  },
+  "199924": {
+    "?PAST": "PAST"
+  },
+  "200519": {
+    "?PAST": "PAST"
+  },
+  "201032": {
+    "?PAST": "PAST"
+  },
+  "201034": {
+    "??PAST": "PAST"
+  },
+  "201302": {
+    "?PAST": "PAST"
+  },
+  "201769": {
+    "?PAST": "PAST"
+  },
+  "202104": {
+    "?PAST": "PAST"
+  },
+  "202298": {
+    "?PAST": "PAST"
+  },
+  "204058": {
+    "?PAST": "PAST"
+  },
+  "204455": {
+    "?PAST": "PAST"
+  },
+  "204531": {
+    "?PAST": "PAST"
+  },
+  "204774": {
+    "?PAST": "PAST"
+  },
+  "204886": {
+    "?PAST": "PAST"
+  },
+  "205394": {
+    "?PAST": "PAST"
+  },
+  "205507": {
+    "?PAST": "PAST"
+  },
+  "206239": {
+    "?PAST": "PAST"
+  },
+  "206738": {
+    "?PAST": "PAST"
+  },
+  "208340": {
+    "?MOD let": "MOD let"
+  },
+  "209169": {
+    "?PAST": "PAST"
+  },
+  "210009": {
+    "?PAST": "PAST"
+  },
+  "210763": {
+    "?PAST": "PAST"
+  },
+  "211815": {
+    "?PAST": "PAST"
+  },
+  "211947": {
+    "?PAST": "PAST"
+  },
+  "213148": {
+    "?PRES": "PRES"
+  },
+  "217376": {
+    "?PRES": "PRES"
+  },
+  "222006": {
+    "?PRES": "PRES"
+  },
+  "226139": {
+    "?PRES PERF": "PRES PERF"
+  },
+  "231724": {
+    "??VB": "PAST wh-question"
+  },
+  "232515": {
+    "?PAST": "PAST"
+  },
+  "232526": {
+    "?PAST": "PAST"
+  },
+  "233860": {
+    "?PRES": "PRES"
+  },
+  "235130": {
+    "?PAST": "PAST"
+  },
+  "239306": {
+    "?PRES": "PRES"
+  },
+  "241199": {
+    "?PAST": "PAST"
+  },
+  "242513": {
+    "?PAST did not": "PAST did not"
+  },
+  "244561": {
+    "?PAST": "PAST"
+  },
+  "244924": {
+    "?PAST wh-question": "PAST wh-question"
+  },
+  "246538": {
+    "?PRES": "PRES"
+  },
+  "248340": {
+    "?PAST question": "PAST question"
+  },
+  "264154": {
+    "?PAST": "PAST"
+  },
+  "264576": {
+    "?PAST": "PAST"
+  },
+  "267681": {
+    "?PAST": "PAST"
+  },
+  "268550": {
+    "?PAST": "PAST"
+  },
+  "271204": {
+    "?PAST": "PAST"
+  },
+  "271218": {
+    "?PAST": "PAST"
+  },
+  "272281": {
+    "?PAST": "PAST"
+  },
+  "273419": {
+    "?PAST": "PAST"
+  },
+  "275382": {
+    "?PRES": "PRES"
+  },
+  "279955": {
+    "?PAST": "PAST"
+  },
+  "280750": {
+    "?VB": "PRES"
+  },
+  "292754": {
+    "?PRES": "PRES"
+  },
+  "293718": {
+    "?PRES": "PRES"
+  },
+  "296991": {
+    "??PAST": "PRES"
+  },
+  "300036": {
+    "?PRES": "PRES"
+  },
+  "302346": {
+    "?PRES": "PRES"
+  },
+  "302351": {
+    "?PRES": "PRES"
+  },
+  "305756": {
+    "?PAST": "MOD let"
+  },
+  "313431": {
+    "?PRES": "PRES"
+  },
+  "313863": {
+    "?PRES": "PRES"
+  },
+  "317017": {
+    "?PAST": "PAST"
+  },
+  "317024": {
+    "?PAST": "PAST"
+  },
+  "318794": {
+    "?TO INF": "TO INF"
+  },
+  "320209": {
+    "?VB": "PRES"
+  },
+  "324172": {
+    "?PAST": "PAST"
+  },
+  "326255": {
+    "?PRES": "PRES"
+  },
+  "329102": {
+    "?PAST": "PAST"
+  },
+  "329794": {
+    "?PRES": "PRES"
+  },
+  "330002": {
+    "?PRES": "PRES"
+  },
+  "331730": {
+    "?PRES": "PRES"
+  },
+  "332434": {
+    "?PRES": "PRES"
+  },
+  "334388": {
+    "??VB": "PRES"
+  },
+  "336119": {
+    "?MOD would": "MOD would"
+  },
+  "336937": {
+    "?PAST did not": "PAST did not"
+  },
+  "337041": {
+    "?PRES": "PRES"
+  },
+  "337910": {
+    "?PRES": "PRES"
+  },
+  "338045": {
+    "?VB": "PRES PERF"
+  },
+  "339722": {
+    "?PRES": "PRES"
+  },
+  "340735": {
+    "?PRES PERF": "PRES"
+  },
+  "341936": {
+    "?PRES": "PRES"
+  },
+  "342021": {
+    "?PRES": "PRES"
+  },
+  "343293": {
+    "?PRES": "PRES"
+  },
+  "345524": {
+    "?VB": "PAST"
+  },
+  "355151": {
+    "?PRES PERF": "PRES PERF"
+  },
+  "355756": {
+    "?PRES": "PRES"
+  },
+  "357057": {
+    "?PAST": "PAST"
+  },
+  "364279": {
+    "?PRES": "PRES"
+  },
+  "364698": {
+    "?PRES": "PRES do not"
+  },
+  "367128": {
+    "?PAST": "PAST"
+  },
+  "384282": {
+    "?PAST": "PAST"
+  },
+  "384318": {
+    "?VB": "PAST"
+  },
+  "384379": {
+    "?VB": "VB"
+  },
+  "384500": {
+    "?PAST": "PAST"
+  },
+  "386438": {
+    "?PAST": "PAST"
+  },
+  "388382": {
+    "?PAST": "PAST"
+  },
+  "391887": {
+    "?PAST": "PAST"
+  },
+  "396902": {
+    "?PAST": "PAST"
+  },
+  "396985": {
+    "?PAST": "PAST"
+  },
+  "397946": {
+    "?PAST": "PAST"
+  },
+  "398647": {
+    "?PAST": "PAST"
+  },
+  "400887": {
+    "?PAST": "PAST"
+  },
+  "401055": {
+    "?PAST": "PAST"
+  },
+  "402434": {
+    "?PAST": "PAST"
+  },
+  "408058": {
+    "?PAST": "PAST"
+  },
+  "408068": {
+    "?PAST": "PAST"
+  },
+  "409148": {
+    "?PRES PERF": "PRES"
+  },
+  "411422": {
+    "?PAST": "PAST"
+  },
+  "412357": {
+    "?PAST": "PAST"
+  },
+  "413953": {
+    "?PAST": "PAST"
+  },
+  "414452": {
+    "?PAST": "PAST"
+  },
+  "416121": {
+    "?PAST question": "PAST question"
+  },
+  "417557": {
+    "?PAST": "PAST"
+  },
+  "417903": {
+    "?PAST": "PAST"
+  },
+  "418050": {
+    "?PAST": "PAST"
+  },
+  "419573": {
+    "?PAST": "PAST"
+  },
+  "421097": {
+    "?PAST": "PAST"
+  },
+  "424211": {
+    "?PAST": "PAST"
+  },
+  "424418": {
+    "?PAST": "PAST"
+  },
+  "426185": {
+    "?PAST": "PAST"
+  },
+  "138915": {
+    "?VB": "MOD let"
+  },
+  "334741": {
+    "?VB": "MOD let"
   }
 }

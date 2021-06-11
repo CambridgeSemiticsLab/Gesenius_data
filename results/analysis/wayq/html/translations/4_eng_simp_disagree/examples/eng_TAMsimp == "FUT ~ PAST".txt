@@ -1,0 +1,34 @@
+eng_TAMsimp == "FUT ~ PAST"
+8 of 8
+
+(x)	וַיַּ֤רְא מְנֻחָה֙ כִּ֣י טֹ֔וב וְאֶת־הָאָ֖רֶץ כִּ֣י נָעֵ֑מָה וַ_יֵּ֤ט_ שִׁכְמֹו֙ לִסְבֹּ֔ל וַיְהִ֖י לְמַס־עֹבֵֽד׃ ס (Gen. 49:15)
+NIV	When he sees how good is his resting place and how pleasant is his land, _he will bend_ his shoulder to the burden and submit to forced labor.
+ESV	He saw that a resting place was good, and that the land was pleasant, so _he bowed_ his shoulder to bear, and became a servant at forced labor.
+
+(x)	מְעֹנָה֙ אֱלֹ֣הֵי קֶ֔דֶם וּמִתַּ֖חַת זְרֹעֹ֣ת עֹולָ֑ם וַ_יְגָ֧רֶשׁ_ מִפָּנֶ֛יךָ אֹויֵ֖ב וַיֹּ֥אמֶר הַשְׁמֵֽד׃ (Deut. 33:27)
+NIV	The eternal God is your refuge, and underneath are the everlasting arms. _He will drive out_ your enemy before you, saying, ‘Destroy him!’
+ESV	The eternal God is your dwelling place, and underneath are the everlasting arms. And _he thrust out_ the enemy before you and said, Destroy.
+
+(x)	וַ_יִּשְׁכֹּן֩_ יִשְׂרָאֵ֨ל בֶּ֤טַח בָּדָד֙ עֵ֣ין יַעֲקֹ֔ב אֶל־אֶ֖רֶץ דָּגָ֣ן וְתִירֹ֑ושׁ אַף־שָׁמָ֖יו יַֽעַרְפוּ טָֽל׃ (Deut. 33:28)
+NIV	So Israel _will live in_ safety alone. Jacob’s spring is secure in a land of grain and new wine, where the heavens drop dew.
+ESV	So Israel _lived_ in safety, Jacob _lived_ alone, in a land of grain and wine, whose heavens drop down dew.
+
+(x)	אַ֣תְּ נָטַ֥שְׁתְּ אֹתִ֛י נְאֻם־יְהוָ֖ה אָחֹ֣ור תֵּלֵ֑כִי וָאַ֨ט אֶת־יָדִ֤י עָלַ֨יִךְ֙ וָֽ_אַשְׁחִיתֵ֔ךְ_ נִלְאֵ֖יתִי הִנָּחֵֽם׃ (Jer. 15:6)
+NIV	You have rejected me,” declares the LORD. “You keep on backsliding. So I will lay hands on you and _destroy_ you. I can no longer show compassion.
+ESV	You have rejected me, declares the Lord. you keep going backward, so I have stretched out my hand against you and _destroyed_ you — I am weary of relenting.
+
+(x)	הִרְבָּ֖ה כֹּושֵׁ֑ל גַּם־נָפַ֞ל אִ֣ישׁ אֶל־רֵעֵ֗הוּ וַ_יֹּֽאמְרוּ֙_ ק֣וּמָה׀ וְנָשֻׁ֣בָה אֶל־עַמֵּ֗נוּ וְאֶל־אֶ֨רֶץ֙ מֹֽולַדְתֵּ֔נוּ מִפְּנֵ֖י חֶ֥רֶב הַיֹּונָֽה׃ (Jer. 46:16)
+NIV	They will stumble repeatedly. they will fall over each other. _They will say_, ‘Get up, let us go back to our own people and our native lands, away from the sword of the oppressor.’
+ESV	He made many stumble, and they fell, and _they said_ one to another, ‘Arise, and let us go back to our own people and to the land of our birth, because of the sword of the oppressor.’
+
+(x)	וַ_יְקַנֵּ֥א_ יְהוָ֖ה לְאַרְצֹ֑ו וַיַּחְמֹ֖ל עַל־עַמֹּֽו׃ (Joel 2:18)
+NIV	Then the LORD _will be jealous_ for his land and take pity on his people.
+ESV	Then the Lord _became jealous_ for his land and had pity on his people.
+
+(x)	וַיְקַנֵּ֥א יְהוָ֖ה לְאַרְצֹ֑ו וַ_יַּחְמֹ֖ל_ עַל־עַמֹּֽו׃ (Joel 2:18)
+NIV	Then the LORD will be jealous for his land and _take pity_ on his people.
+ESV	Then the Lord became jealous for his land and _had pity_ on his people.
+
+(x)	וַ_יַּ֨עַן_ יְהוָ֜ה וַיֹּ֣אמֶר לְעַמֹּ֗ו הִנְנִ֨י שֹׁלֵ֤חַ לָכֶם֙ אֶת־הַדָּגָן֙ וְהַתִּירֹ֣ושׁ וְהַיִּצְהָ֔ר וּשְׂבַעְתֶּ֖ם אֹתֹ֑ו וְלֹא־אֶתֵּ֨ן אֶתְכֶ֥ם עֹ֛וד חֶרְפָּ֖ה בַּגֹּויִֽם׃ (Joel 2:19)
+NIV	The LORD _will reply_ to them: “I am sending you grain, new wine and oil, enough to satisfy you fully. never again will I make you an object of scorn to the nations.
+ESV	The Lord _answered_ and said to his people, “Behold, I am sending to you grain, wine, and oil, and you will be satisfied. and I will no more make you a reproach among the nations.

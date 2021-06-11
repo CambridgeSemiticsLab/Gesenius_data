@@ -1,0 +1,10 @@
+niv_TAM == "PAST"
+2 of 2
+
+(x)	מִ֥י יִתֵּ֣ן מִצִּיֹּון֮ יְשׁוּעַ֪ת יִשְׂרָ֫אֵ֥ל בְּשׁ֣וּב יְ֭הוָה שְׁב֣וּת עַמֹּ֑ו _יָגֵ֥ל_ יַ֝עֲקֹ֗ב יִשְׂמַ֥ח יִשְׂרָֽאֵל׃ (Psa. 14:7)
+NIV	Oh, that salvation for Israel would come out of Zion! When the LORD restores the fortunes of his people, let Jacob rejoice and Israel be glad!
+ESV	Oh, that salvation for Israel would come out of Zion! When the Lord restores the fortunes of his people, let Jacob rejoice, let Israel be glad.
+
+(x)	בַּבֹּ֨קֶר֙ זְרַ֣ע אֶת־זַרְעֶ֔ךָ וְלָעֶ֖רֶב אַל־_תַּנַּ֣ח_ יָדֶ֑ךָ כִּי֩ אֵֽינְךָ֨ יֹודֵ֜ע אֵ֣י זֶ֤ה יִכְשָׁר֙ הֲזֶ֣ה אֹו־זֶ֔ה וְאִם־שְׁנֵיהֶ֥ם כְּאֶחָ֖ד טֹובִֽים׃ (Eccl. 11:6)
+NIV	Sow your seed in the morning, and at evening let not your hands be idle, for you do not know which will succeed, whether this or that, or whether both will do equally well.
+ESV	In the morning sow your seed, and at evening _withhold_ not your hand, for you do not know which will prosper, this or that, or whether both alike will be good.

@@ -1,0 +1,10 @@
+eng_TAMsimp == "MOD would"and genre == "prophetic" and domain2 == "Q" 
+2 of 2
+
+(x)	ל֥וּא הִקְשַׁ֖בְתָּ לְמִצְוֹתָ֑י וַ_יְהִ֤י_ כַנָּהָר֙ שְׁלֹומֶ֔ךָ וְצִדְקָתְךָ֖ כְּגַלֵּ֥י הַיָּֽם׃ (Isa. 48:18)
+NIV	If only you had paid attention to my commands, your peace _would have been_ like a river, your righteousness like the waves of the sea.
+ESV	Oh that you had paid attention to my commandments! Then your peace _would have been_ like a river, and your righteousness like the waves of the sea.
+
+(x)	וַ_יְהִ֤י_ כַחֹול֙ זַרְעֶ֔ךָ וְצֶאֱצָאֵ֥י מֵעֶ֖יךָ כִּמְעֹתָ֑יו לֹֽא־יִכָּרֵ֧ת וְֽלֹא־יִשָּׁמֵ֛ד שְׁמֹ֖ו מִלְּפָנָֽי׃ (Isa. 48:19)
+NIV	Your descendants _would have been_ like the sand, your children like its numberless grains. their name would never be cut off nor destroyed from before me.”
+ESV	your offspring _would have been_ like the sand, and your descendants like its grains. their name would never be cut off or destroyed from before me.”

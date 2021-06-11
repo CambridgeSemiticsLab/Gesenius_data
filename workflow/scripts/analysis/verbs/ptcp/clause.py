@@ -136,10 +136,15 @@ run_analyses([
                             'and mother_verbtype == "qtl"'),
                 'bhs_text': ['mother_clause_atom', 'clause_atom'],
             },
- 
- 
         ]
     },
-
+   {
+        'name': 'verb_lex',
+        'df': both_df,
+        'index': 'eng_TAMsimp',
+        'columns': 'lex',
+        'examples': [
+        ]
+    },
 ], snakemake.output.dir)  
 

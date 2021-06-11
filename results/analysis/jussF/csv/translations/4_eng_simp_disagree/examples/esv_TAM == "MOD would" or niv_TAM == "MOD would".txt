@@ -1,0 +1,10 @@
+esv_TAM == "MOD would" or niv_TAM == "MOD would"
+2 of 2
+
+(x)	וְיֹאֵ֣ל אֱ֭לֹוהַּ וִֽידַכְּאֵ֑נִי _יַתֵּ֥ר_ יָ֝דֹ֗ו וִֽיבַצְּעֵֽנִי׃ (Job 6:9)
+NIV	that God would be willing to crush me, to _let loose_ his hand and cut me off!
+ESV	that it would please God to crush me, that _he would let loose_ his hand and cut me off!
+
+(x)	וְ_יֹוכַ֣ח_ לְגֶ֣בֶר עִם־אֱלֹ֑והַּ וּֽבֶן־אָדָ֥ם לְרֵעֵֽהוּ׃ (Job 16:21)
+NIV	on behalf of a man _he pleads_ with God as a man pleads for his friend.
+ESV	that _he would argue the case_ of a man with God, as a son of man does with his neighbor.

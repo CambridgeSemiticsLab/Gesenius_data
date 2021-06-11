@@ -1,0 +1,70 @@
+eng_TAMsimp == "PRES PERF" and lex == "היה"
+17 of 17
+
+(x)	וְנָק֥וּמָה וְנַעֲלֶ֖ה בֵּֽית־אֵ֑ל וְאֶֽעֱשֶׂה־שָּׁ֣ם מִזְבֵּ֗חַ לָאֵ֞ל הָעֹנֶ֤ה אֹתִי֙ בְּיֹ֣ום צָֽרָתִ֔י וַ_יְהִי֙_ עִמָּדִ֔י בַּדֶּ֖רֶךְ אֲשֶׁ֥ר הָלָֽכְתִּי׃ (Gen. 35:3)
+NIV	Then come, let us go up to Bethel, where I will build an altar to God, who answered me in the day of my distress and who _has been_ with me wherever I have gone.”
+ESV	Then let us arise and go up to Bethel, so that I may make there an altar to the God who answers me in the day of my distress and _has been_ with me wherever I have gone.”
+
+(x)	עָזִּ֤י וְזִמְרָת֙ יָ֔הּ וַֽ_יְהִי_־לִ֖י לִֽישׁוּעָ֑ה זֶ֤ה אֵלִי֙ וְאַנְוֵ֔הוּ אֱלֹהֵ֥י אָבִ֖י וַאֲרֹמְמֶֽנְהוּ׃ (Exod. 15:2)
+NIV	The LORD is my strength and my song. _he has become_ my salvation. He is my God, and I will praise him, my father’s God, and I will exalt him.
+ESV	The Lord is my strength and my song, and _he has become_ my salvation. this is my God, and I will praise him, my father’s God, and I will exalt him.
+
+(x)	וַיֹּ֣אמֶר שְׁמוּאֵ֔ל וְלָ֖מָּה תִּשְׁאָלֵ֑נִי וַיהוָ֛ה סָ֥ר מֵעָלֶ֖יךָ וַ_יְהִ֥י_ עָרֶֽךָ׃ (I Sam. 28:16)
+NIV	Samuel said, “Why do you consult me, now that the LORD has turned away from you and _become_ your enemy?
+ESV	And Samuel said, “Why then do you ask me, since the Lord has turned from you and _become_ your enemy?
+
+(x)	וַיִּבְרְח֥וּ הַבְּאֵרֹתִ֖ים גִּתָּ֑יְמָה וַֽ_יִּהְיוּ_־שָׁ֣ם גָּרִ֔ים עַ֖ד הַיֹּ֥ום הַזֶּֽה׃ ס (II Sam. 4:3)
+NIV	because the people of Beeroth fled to Gittaim and _have lived_ there as aliens to this day.
+ESV	the Beerothites fled to Gittaim and _have been_ sojourners there to this day ).
+
+(x)	וָ_אֶהְיֶ֣ה_ עִמְּךָ֗ בְּכֹל֙ אֲשֶׁ֣ר הָלַ֔כְתָּ וָאַכְרִ֥תָה אֶת־כָּל־אֹיְבֶ֖יךָ מִפָּנֶ֑יךָ וְעָשִׂ֤תִֽי לְךָ֙ שֵׁ֣ם גָּדֹ֔ול כְּשֵׁ֥ם הַגְּדֹלִ֖ים אֲשֶׁ֥ר בָּאָֽרֶץ׃ (II Sam. 7:9)
+NIV	_I have been_ with you wherever you have gone, and I have cut off all your enemies from before you. Now I will make your name great, like the names of the greatest men of the earth.
+ESV	And _I have been_ with you wherever you went and have cut off all your enemies from before you. And I will make for you a great name, like the name of the great ones of the earth.
+
+(x)	הִנֵּ֨ה אֵ֧ל יְשׁוּעָתִ֛י אֶבְטַ֖ח וְלֹ֣א אֶפְחָ֑ד כִּֽי־עָזִּ֤י וְזִמְרָת֙ יָ֣הּ יְהוָ֔ה וַֽ_יְהִי_־לִ֖י לִֽישׁוּעָֽה׃ (Isa. 12:2)
+NIV	Surely God is my salvation. I will trust and not be afraid. The LORD, the LORD, is my strength and my song. _he has become_ my salvation.”
+ESV	“Behold, God is my salvation. I will trust, and will not be afraid. for the Lord GOD is my strength and my song, and _he has become_ my salvation.”
+
+(x)	וַ_נְּהִ֤י_ כַטָּמֵא֙ כֻּלָּ֔נוּ וּכְבֶ֥גֶד עִדִּ֖ים כָּל־צִדְקֹתֵ֑ינוּ וַנָּ֤בֶל כֶּֽעָלֶה֙ כֻּלָּ֔נוּ וַעֲוֹנֵ֖נוּ כָּר֥וּחַ יִשָּׂאֻֽנוּ׃ (Isa. 64:5)
+NIV	All of us _have become_ like one who is unclean, and all our righteous acts are like filthy rags. we all shrivel up like a leaf, and like the wind our sins sweep us away.
+ESV	We have all become like one who is unclean, and all our righteous deeds are like a polluted garment. We all fade like a leaf, and our iniquities, like the wind, take us away.
+
+(x)	לָכֵ֣ן אֱמֹ֗ר כֹּֽה־אָמַר֮ אֲדֹנָ֣י יְהוִה֒ כִּ֤י הִרְחַקְתִּים֙ בַּגֹּויִ֔ם וְכִ֥י הֲפִֽיצֹותִ֖ים בָּאֲרָצֹ֑ות וָ_אֱהִ֤י_ לָהֶם֙ לְמִקְדָּ֣שׁ מְעַ֔ט בָּאֲרָצֹ֖ות אֲשֶׁר־בָּ֥אוּ שָֽׁם׃ ס (Ezek. 11:16)
+NIV	“Therefore say: ‘This is what the Sovereign LORD says: Although I sent them far away among the nations and scattered them among the countries, yet for a little while _I have been_ a sanctuary for them in the countries where they have gone.’
+ESV	Therefore say, ‘Thus says the Lord God: Though I removed them far off among the nations, and though I scattered them among the countries, yet _I have been_ a sanctuary to them for a while in the countries where they have gone.’
+
+(x)	חַי־אָ֜נִי נְאֻ֣ם׀ אֲדֹנָ֣י יְהוִ֗ה אִם־לֹ֣א יַ֣עַן הֱיֹֽות־צֹאנִ֣י׀ לָבַ֡ז וַ_תִּֽהְיֶינָה֩_ צֹאנִ֨י לְאָכְלָ֜ה לְכָל־חַיַּ֤ת הַשָּׂדֶה֙ מֵאֵ֣ין רֹעֶ֔ה וְלֹֽא־דָרְשׁ֥וּ רֹעַ֖י אֶת־צֹאנִ֑י וַיִּרְע֤וּ הָֽרֹעִים֙ אֹותָ֔ם וְאֶת־צֹאנִ֖י לֹ֥א רָעֽוּ׃ ס (Ezek. 34:8)
+NIV	As surely as I live, declares the Sovereign LORD, because my flock lacks a shepherd and so has been plundered and _has become_ food for all the wild animals, and because my shepherds did not search for my flock but cared for themselves rather than for my flock,
+ESV	As I live, declares the Lord God, surely because my sheep _have become_ a prey, and my sheep _have become_ food for all the wild beasts, since there was no shepherd, and because my shepherds have not searched for my sheep, but the shepherds have fed themselves, and have not fed my sheep,
+
+(x)	וָ_אֱהִ֗י_ כְּ֭אִישׁ אֲשֶׁ֣ר לֹא־שֹׁמֵ֑עַ וְאֵ֥ין בְּ֝פִ֗יו תֹּוכָחֹֽות׃ (Psa. 38:15)
+NIV	_I have become_ like a man who does not hear, whose mouth can offer no reply.
+ESV	_I have become_ like a man who does not hear, and in whose mouth are no rebukes.
+
+(x)	וָ_אֱהִ֣י_ נָ֭גוּעַ כָּל־הַיֹּ֑ום וְ֝תֹוכַחְתִּ֗י לַבְּקָרִֽים׃ (Psa. 73:14)
+NIV	All day long _I have been_ plagued. _I have been_ punished every morning.
+ESV	For all the day long _I have been_ stricken and rebuked every morning.
+
+(x)	וַ_יְהִ֬י_ יְהוָ֣ה לִ֣י לְמִשְׂגָּ֑ב וֵ֝אלֹהַ֗י לְצ֣וּר מַחְסִֽי׃ (Psa. 94:22)
+NIV	But the LORD _has become_ my fortress, and my God the rock in whom I take refuge.
+ESV	But the Lord _has become_ my stronghold, and my God the rock of my refuge.
+
+(x)	עָזִּ֣י וְזִמְרָ֣ת יָ֑הּ וַֽ_יְהִי_־לִ֝֗י לִֽישׁוּעָֽה׃ (Psa. 118:14)
+NIV	The LORD is my strength and my song. _he has become_ my salvation.
+ESV	The Lord is my strength and my song. _he has become_ my salvation.
+
+(x)	אֹ֭ודְךָ כִּ֣י עֲנִיתָ֑נִי וַ_תְּהִי_־לִ֝֗י לִֽישׁוּעָֽה׃ (Psa. 118:21)
+NIV	I will give you thanks, for you answered me. _you have become_ my salvation.
+ESV	I thank you that you have answered me and _have become_ my salvation.
+
+(x)	חָטָ֡אתִי מָ֤ה אֶפְעַ֨ל׀ לָךְ֮ נֹצֵ֪ר הָאָ֫דָ֥ם לָ֤מָה שַׂמְתַּ֣נִי לְמִפְגָּ֣ע לָ֑ךְ וָ_אֶהְיֶ֖ה_ עָלַ֣י לְמַשָּֽׂא׃ (Job 7:20)
+NIV	If I have sinned, what have I done to you, O watcher of men? Why have you made me your target? _Have I become_ a burden to you?
+ESV	If I sin, what do I do to you, you watcher of mankind? Why have you made me your mark? Why _have I become_ a burden to you?
+
+(x)	כִּ֣י לֹ֤א יָשַׁ֨בְתִּי֙ בְּבַ֔יִת מִן־הַיֹּ֗ום אֲשֶׁ֤ר הֶעֱלֵ֨יתִי֙ אֶת־יִשְׂרָאֵ֔ל עַ֖ד הַיֹּ֣ום הַזֶּ֑ה וָֽ_אֶהְיֶ֛ה_ מֵאֹ֥הֶל אֶל־אֹ֖הֶל וּמִמִּשְׁכָּֽן׃ (I Chr. 17:5)
+NIV	I have not dwelt in a house from the day I brought Israel up out of Egypt to this day. _I have moved_ from one tent site to another, from one dwelling-place to another.
+ESV	For I have not lived in a house since the day I brought up Israel to this day, but _I have gone_ from tent to tent and from dwelling to dwelling.
+
+(x)	וָֽ_אֶהְיֶ֣ה_ עִמְּךָ֗ בְּכֹל֙ אֲשֶׁ֣ר הָלַ֔כְתָּ וָאַכְרִ֥ית אֶת־כָּל־אֹויְבֶ֖יךָ מִפָּנֶ֑יךָ וְעָשִׂ֤יתִֽי לְךָ֙ שֵׁ֔ם כְּשֵׁ֥ם הַגְּדֹולִ֖ים אֲשֶׁ֥ר בָּאָֽרֶץ׃ (I Chr. 17:8)
+NIV	_I have been_ with you wherever you have gone, and I have cut off all your enemies from before you. Now I will make your name like the names of the greatest men of the earth.
+ESV	and _I have been_ with you wherever you have gone and have cut off all your enemies from before you. And I will make for you a name, like the name of the great ones of the earth.

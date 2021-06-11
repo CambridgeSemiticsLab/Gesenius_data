@@ -1,0 +1,50 @@
+,sum
+IMPV,77
+MOD let,52
+MOD may,47
+MOD let ~ MOD may,24
+FUT ~ MOD shall,17
+IMPV ~ MOD let,17
+FUT,13
+FUT ~ MOD may,12
+TO INF,5
+MOD would,5
+PRES,5
+IMPV ~ MOD should,4
+IMPV ~ PRES,4
+MOD may ~ PRES,4
+MOD let ~ TO INF,4
+IMPV ~ MOD may,4
+MOD let ~ PRES,3
+IMPV ~ MOD shall,3
+MOD must ~ MOD shall,3
+PAST,2
+IMPV ~ TO INF,2
+MOD shall ~ PRES,2
+FUT ~ PRES,2
+IMPV ~ PRES PART,2
+MOD is to ~ MOD shall,1
+IMPV ~ MOD can,1
+MOD would ~ TO INF,1
+MOD let ~ PRES PART,1
+MOD may ~ PRES PART,1
+MOD would ~ PRES,1
+MOD let ~ MOD should,1
+MOD is to ~ MOD let,1
+MOD might ~ TO INF,1
+MOD can ~ MOD let,1
+MOD shall ~ PRES PART,1
+FUT ~ IMPV,1
+MOD must ~ PRES,1
+FUT ~ MOD let,1
+MOD can ~ MOD may,1
+MOD can ~ TO INF,1
+MOD let ~ PAST,1
+FUT ~ PRES PART,1
+IMPV ~ MOD is to,1
+FUT ~ TO INF,1
+MOD may ~ MOD must,1
+MOD should,1
+MOD let ~ MOD must,1
+PRES PART ~ TO INF,1
+MOD let ~ MOD that,1

@@ -1,0 +1,38 @@
+eng_TAMsimp == "PAST ~ PAST PERF" and lex == "נתן"
+9 of 9
+
+(x)	וַ_יִּתֵּ֣ן_ מֹשֶׁ֔ה לְמַטֵּ֥ה בְנֵֽי־רְאוּבֵ֖ן לְמִשְׁפְּחֹתָֽם׃ (Josh. 13:15)
+NIV	This is what Moses _had given_ to the tribe of Reuben, clan by clan:
+ESV	And Moses _gave_ an inheritance to the tribe of the people of Reuben according to their clans.
+
+(x)	וַ_יִּתֵּ֤ן_ מֹשֶׁה֙ לְמַטֵּה־גָ֔ד לִבְנֵי־גָ֖ד לְמִשְׁפְּחֹתָֽם׃ (Josh. 13:24)
+NIV	This is what Moses _had given_ to the tribe of Gad, clan by clan:
+ESV	Moses _gave_ an inheritance also to the tribe of Gad, to the people of Gad, according to their clans.
+
+(x)	וַ_יִּתֵּ֣ן_ מֹשֶׁ֔ה לַחֲצִ֖י שֵׁ֣בֶט מְנַשֶּׁ֑ה וַיְהִ֗י לַחֲצִ֛י מַטֵּ֥ה בְנֵֽי־מְנַשֶּׁ֖ה לְמִשְׁפְּחֹותָֽם׃ (Josh. 13:29)
+NIV	This is what Moses _had given_ to the half-tribe of Manasseh, that is, to half the family of the descendants of Manasseh, clan by clan:
+ESV	And Moses _gave_ an inheritance to the half-tribe of Manasseh. It was allotted to the half-tribe of the people of Manasseh according to their clans.
+
+(x)	וַיִּרְא֥וּ בְנֵֽי־בִנְיָמִ֖ן כִּ֣י נִגָּ֑פוּ וַ_יִּתְּנ֨וּ_ אִֽישׁ־יִשְׂרָאֵ֤ל מָקֹום֙ לְבִנְיָמִ֔ן כִּ֤י בָֽטְחוּ֙ אֶל־הָ֣אֹרֵ֔ב אֲשֶׁר שָׂ֖מוּ אֶל־הַגִּבְעָֽה׃ (Judg. 20:36)
+NIV	Then the Benjamites saw that they were beaten. Now the men of Israel _had given_ way before Benjamin, because they relied on the ambush they had set near Gibeah.
+ESV	So the people of Benjamin saw that they were defeated. The men of Israel _gave_ ground to Benjamin, because they trusted the men in ambush whom they had set against Gibeah.
+
+(x)	פַּרְעֹ֨ה מֶֽלֶךְ־מִצְרַ֜יִם עָלָ֗ה וַיִּלְכֹּ֤ד אֶת־גֶּ֨זֶר֙ וַיִּשְׂרְפָ֣הּ בָּאֵ֔שׁ וְאֶת־הַֽכְּנַעֲנִ֛י הַיֹּשֵׁ֥ב בָּעִ֖יר הָרָ֑ג וַֽ_יִּתְּנָהּ֙_ שִׁלֻּחִ֔ים לְבִתֹּ֖ו אֵ֥שֶׁת שְׁלֹמֹֽה׃ (I Kgs. 9:16)
+NIV	( Pharaoh king of Egypt had attacked and captured Gezer. He had set it on fire. He killed its Canaanite inhabitants and then _gave_ it as a wedding gift to his daughter, Solomon’s wife.
+ESV	( Pharaoh king of Egypt had gone up and captured Gezer and burned it with fire, and had killed the Canaanites who lived in the city, and _had given_ it as dowry to his daughter, Solomon’s wife.
+
+(x)	וַ_יִּתֵּ֤ן_ הָֽאֱלֹהִים֙ אֶת־דָּ֣נִיֵּ֔אל לְחֶ֖סֶד וּֽלְרַחֲמִ֑ים לִפְנֵ֖י שַׂ֥ר הַסָּרִיסִֽים׃ (Dan. 1:9)
+NIV	Now God _had caused_ the official to show favour and sympathy to Daniel,
+ESV	And God _gave_ Daniel favor and compassion in the sight of the chief of the eunuchs,
+
+(x)	ה֤וּא עֶזְרָא֙ עָלָ֣ה מִבָּבֶ֔ל וְהֽוּא־סֹפֵ֤ר מָהִיר֙ בְּתֹורַ֣ת מֹשֶׁ֔ה אֲשֶׁר־נָתַ֥ן יְהוָ֖ה אֱלֹהֵ֣י יִשְׂרָאֵ֑ל וַ_יִּתֶּן_־לֹ֣ו הַמֶּ֗לֶךְ כְּיַד־יְהוָ֤ה אֱלֹהָיו֙ עָלָ֔יו כֹּ֖ל בַּקָּשָׁתֹֽו׃ פ (Ezra 7:6)
+NIV	this Ezra came up from Babylon. He was a teacher well versed in the Law of Moses, which the LORD, the God of Israel, had given. The king _had granted_ him everything he asked, for the hand of the LORD his God was on him.
+ESV	this Ezra went up from Babylonia. He was a scribe skilled in the Law of Moses that the Lord, the God of Israel, had given, and the king _granted_ him all that he asked, for the hand of the Lord his God was on him.
+
+(x)	כָּל־אֵ֨לֶּה בָנִ֜ים לְהֵימָ֗ן חֹזֵ֥ה הַמֶּ֛לֶךְ בְּדִבְרֵ֥י הָאֱלֹהִ֖ים לְהָרִ֣ים קָ֑רֶן וַ_יִּתֵּ֨ן_ הָאֱלֹהִ֜ים לְהֵימָ֗ן בָּנִ֛ים אַרְבָּעָ֥ה עָשָׂ֖ר וּבָנֹ֥ות שָׁלֹֽושׁ׃ (I Chr. 25:5)
+NIV	All these were sons of Heman the king’s seer. They were given to him through the promises of God to exalt him. God _gave_ Heman fourteen sons and three daughters.
+ESV	All these were the sons of Heman the king’s seer, according to the promise of God to exalt him, for God _had given_ Heman fourteen sons and three daughters.
+
+(x)	וַ_יִּתֵּ֣ן_ לָהֶ֣ם׀ אֲ֠בִיהֶם מַתָּנֹ֨ות רַבֹּ֜ות לְכֶ֤סֶף וּלְזָהָב֙ וּלְמִגְדָּנֹ֔ות עִם־עָרֵ֥י מְצֻרֹ֖ות בִּֽיהוּדָ֑ה וְאֶת־הַמַּמְלָכָ֛ה נָתַ֥ן לִֽיהֹורָ֖ם כִּי־ה֥וּא הַבְּכֹֽור׃ פ (II Chr. 21:3)
+NIV	Their father _had given_ them many gifts of silver and gold and articles of value, as well as fortified cities in Judah, but he _had given_ the kingdom to Jehoram because he was his firstborn son.
+ESV	Their father _gave_ them great gifts of silver, gold, and valuable possessions, together with fortified cities in Judah, but he _gave_ the kingdom to Jehoram, because he was the firstborn.

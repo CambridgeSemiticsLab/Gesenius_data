@@ -1,0 +1,6 @@
+eng_TAMsimp == "PAST ~ PAST PROG"and mother_verbtype == "ptcp"
+1 of 1
+
+(x)	אִ֔ישׁ מְסַפֵּ֥ר לְרֵעֵ֖הוּ חֲלֹ֑ום וַ_יֹּ֜אמֶר_ (Judg. 7:13)
+NIV	Gideon arrived just as a man was telling a friend his dream. “I had a dream,” _he was saying_. “A round loaf of barley bread came tumbling into the Midianite camp. It struck the tent with such force that the tent overturned and collapsed.”
+ESV	When Gideon came, behold, a man was telling a dream to his comrade. And _he said_, “Behold, I dreamed a dream, and behold, a cake of barley bread tumbled into the camp of Midian and came to the tent and struck it so that it fell and turned it upside down, so that the tent lay flat.”

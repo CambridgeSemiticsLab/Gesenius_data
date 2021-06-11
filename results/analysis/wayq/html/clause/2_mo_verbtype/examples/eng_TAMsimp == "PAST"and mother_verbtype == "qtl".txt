@@ -1,0 +1,102 @@
+eng_TAMsimp == "PAST"and mother_verbtype == "qtl"
+25 of 1097
+
+(x)	בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַשָּׁמַ֖יִם וְאֵ֥ת הָאָֽרֶץ׃ וַ_יֹּ֥אמֶר_ אֱלֹהִ֖ים (Gen. 1:3)
+NIV	And God _said_, “Let there be light,” and there was light.
+ESV	And God _said_, “Let there be light,” and there was light.
+
+(x)	וְהָ֣אֱלֹהִ֔ים נִסָּ֖ה אֶת־אַבְרָהָ֑ם וַ_יַּשְׁכֵּ֨ם_ אַבְרָהָ֜ם בַּבֹּ֗קֶר (Gen. 22:3)
+NIV	Early the next morning Abraham _got up_ and saddled his donkey. He took with him two of his servants and his son Isaac. When he had cut enough wood for the burnt offering, he set out for the place God had told him about.
+ESV	So Abraham _rose early_ in the morning, saddled his donkey, and took two of his young men with him, and his son Isaac. And he cut the wood for the burnt offering and arose and went to the place of which God had told him.
+
+(x)	וְלֹֽא־יָכֹ֨ל יֹוסֵ֜ף וַ_יִּקְרָ֕א_ (Gen. 45:1)
+NIV	Then Joseph could no longer control himself before all his attendants, and _he cried out_, “Have everyone leave my presence!” So there was no one with Joseph when he made himself known to his brothers.
+ESV	Then Joseph could not control himself before all those who stood by him. _He cried_, “Make everyone go out from me.” So no one stayed with him when Joseph made himself known to his brothers.
+
+(x)	וְאַחֲרֵי־כֵ֥ן נִגְּשׁ֖וּ כָּל־בְּנֵ֣י יִשְׂרָאֵ֑ל וַ_יְצַוֵּ֕ם_ אֵת֩ כָּל־ (Exod. 34:32)
+NIV	Afterward all the Israelites came near him, and he gave them all the commands the LORD had given him on Mount Sinai.
+ESV	Afterward all the people of Israel came near, and _he commanded_ them all that the Lord had spoken with him in Mount Sinai.
+
+(x)	וְלֹ֣א שְׁמַעְתֶּ֑ם וַ_תַּמְרוּ֙_ אֶת־פִּ֣י יְהוָ֔ה (Deut. 1:43)
+NIV	So I told you, but you would not listen. _You rebelled against_ the LORD’s command and in your arrogance you marched up into the hill country.
+ESV	So I spoke to you, and you would not listen. but _you rebelled against_ the command of the Lord and presumptuously went up into the hill country.
+
+(x)	אָמְנָ֗ה אָנֹכִ֤י חָטָ֨אתִי֙ לַֽיהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל וָאֵ֣רֶא בַשָּׁלָ֡ל אַדֶּ֣רֶת שִׁנְעָר֩ אַחַ֨ת טֹובָ֜ה וּמָאתַ֧יִם שְׁקָלִ֣ים כֶּ֗סֶף וּלְשֹׁ֨ון זָהָ֤ב אֶחָד֙ (Josh. 7:21)
+NIV	When _I saw_ in the plunder a beautiful robe from Babylonia, two hundred shekels of silver and a wedge of gold weighing fifty shekels, I coveted them and took them. They are hidden in the ground inside my tent, with the silver underneath.”
+ESV	when _I saw_ among the spoil a beautiful cloak from Shinar, and 200 shekels of silver, and a bar of gold weighing 50 shekels, then I coveted them and took them. And see, they are hidden in the earth inside my tent, with the silver underneath.”
+
+(x)	וְאַחֲרָ֤יו הָיָה֙ שַׁמְגַּ֣ר בֶּן־עֲנָ֔ת וַ_יַּ֤ךְ_ אֶת־פְּלִשְׁתִּים֙ שֵֽׁשׁ־מֵאֹ֣ות אִ֔ישׁ בְּמַלְמַ֖ד הַבָּקָ֑ר (Judg. 3:31)
+NIV	After Ehud came Shamgar son of Anath, who _struck down_ six hundred Philistines with an ox-goad. He too saved Israel.
+ESV	After him was Shamgar the son of Anath, who _killed_ 600 of the Philistines with an oxgoad, and he also saved Israel.
+
+(x)	כָּבְדָ֥ה מְאֹ֛ד יַ֥ד הָאֱלֹהִ֖ים שָֽׁם׃ וַ_תַּ֛עַל_ שַֽׁוְעַ֥ת הָעִ֖יר הַשָּׁמָֽיִם׃ (I Sam. 5:12)
+NIV	Those who did not die were afflicted with tumours, and the outcry of the city _went up_ to heaven.
+ESV	The men who did not die were struck with tumors, and the cry of the city _went up_ to heaven.
+
+(x)	וְאֶת־אֲחִינֹ֛עַם לָקַ֥ח דָּוִ֖ד מִֽיִּזְרְעֶ֑אל וַ_תִּהְיֶ֛יןָ_ גַּֽם־שְׁתֵּיהֶ֥ן לֹ֖ו לְנָשִֽׁים׃ ס (I Sam. 25:43)
+NIV	David had also married Ahinoam of Jezreel, and they both _were_ his wives.
+ESV	David also took Ahinoam of Jezreel, and both of them _became_ his wives.
+
+(x)	וְהַמֶּ֣לֶךְ דָּוִ֗ד שָׁ֠לַח אֶל־צָדֹ֨וק וְאֶל־אֶבְיָתָ֥ר הַכֹּהֲנִים֮ וַ_יַּ֛ט_ אֶת־לְבַ֥ב כָּל־אִישׁ־יְהוּדָ֖ה כְּאִ֣ישׁ אֶחָ֑ד (II Sam. 19:15)
+NIV	_He won over_ the hearts of all the men of Judah as though they were one man. They sent word to the king, “Return, you and all your men.”
+ESV	And _he swayed_ the heart of all the men of Judah as one man, so that they sent word to the king, “Return, both you and all your servants.”
+
+(x)	וָאֳנִ֡י עָשָׂה֩ הַמֶּ֨לֶךְ שְׁלֹמֹ֜ה בְּעֶצְיֹֽון־גֶּ֨בֶר וַ_יִּשְׁלַ֨ח_ חִירָ֤ם בָּֽאֳנִי֙ אֶת־עֲבָדָ֔יו אַנְשֵׁ֣י אֳנִיֹּ֔ות יֹדְעֵ֖י הַיָּ֑ם עִ֖ם עַבְדֵ֥י שְׁלֹמֹֽה׃ (I Kgs. 9:27)
+NIV	And Hiram _sent_ his men — sailors who knew the sea — to serve in the fleet with Solomon’s men.
+ESV	And Hiram _sent_ with the fleet his servants, seamen who were familiar with the sea, together with the servants of Solomon.
+
+(x)	וּבְנֵ֣י יִשְׂרָאֵ֗ל הָתְפָּקְדוּ֙ וַ_יֵּלְכ֖וּ_ (I Kgs. 20:27)
+NIV	When the Israelites were also mustered and given provisions, _they marched out_ to meet them. The Israelites camped opposite them like two small flocks of goats, while the Arameans covered the countryside.
+ESV	And the people of Israel were mustered and were provisioned and _went_ against them. The people of Israel encamped before them like two little flocks of goats, but the Syrians filled the country.
+
+(x)	וְיֵה֗וּא יָצָא֙ אֶל־עַבְדֵ֣י אֲדֹנָ֔יו וַ_יֹּ֤אמֶר_ לֹו֙ (II Kgs. 9:11)
+NIV	When Jehu went out to his fellow officers, one of them _asked_ him, “Is everything all right? Why did this madman come to you?” “You know the man and the sort of things he says,” Jehu replied.
+ESV	When Jehu came out to the servants of his master, _they said_ to him, “Is all well? Why did this mad fellow come to you?” And he said to them, “You know the fellow and his talk.”
+
+(x)	אֲשֶׁר־שָׂ֥ם שְׁמֹ֖ו יִשְׂרָאֵֽל׃ וַ_יִּכְרֹ֨ת_ יְהוָ֤ה אִתָּם֙ בְּרִ֔ית (II Kgs. 17:35)
+NIV	When the LORD _made a covenant_ with the Israelites, he commanded them: “Do not worship any other gods or bow down to them, serve them or sacrifice to them.
+ESV	The Lord _made_ a covenant with them and commanded them, “You shall not fear other gods or bow yourselves to them or serve them or sacrifice to them,
+
+(x)	לֹא־שַׂ֤מְתְּ לָהֶם֙ רַחֲמִ֔ים וַ_תֹּ֣אמְרִ֔י_ (Isa. 47:7)
+NIV	_You said_, ‘I will continue forever — the eternal queen!’ But you did not consider these things or reflect on what might happen.
+ESV	_You said_, “I shall be mistress forever,” so that you did not lay these things to heart or remember their end.
+
+(x)	עַל־זֹ֖את הֱקִיצֹ֣תִי וָ_אֶרְאֶ֑ה_ (Jer. 31:26)
+NIV	At this I awoke and _looked around_. My sleep had been pleasant to me.
+ESV	At this I awoke and _looked_, and my sleep was pleasant to me.
+
+(x)	וְגַם־אֲנִי֙ נָתַ֣תִּי לָהֶ֔ם חֻקִּ֖ים וָ_אֲטַמֵּ֤א_ אֹותָם֙ בְּמַתְּנֹותָ֔ם (Ezek. 20:26)
+NIV	I let them become defiled through their gifts — the sacrifice of every firstborn — that I might fill them with horror so that they would know that I am the LORD.’
+ESV	and _I defiled_ them through their very gifts in their offering up all their firstborn, that I might devastate them. I did it that they might know that I am the Lord.
+
+(x)	בְּעֶשְׂרִ֤ים וְאַרְבָּעָה֙ לַתְּשִׁיעִ֔י בִּשְׁנַ֥ת שְׁתַּ֖יִם לְדָרְיָ֑וֶשׁ הָיָה֙ דְּבַר־יְהוָ֔ה אֶל־חַגַּ֥י הַנָּבִ֖יא וַ_יֹּ֣אמֶר_ חַגַּ֔י (Hag. 2:13)
+NIV	Then Haggai _said_, “If a person defiled by contact with a dead body touches one of these things, does it become defiled?” “Yes,” the priests replied, “it becomes defiled.”
+ESV	Then Haggai _said_, “If someone who is unclean by contact with a dead body touches any of these, does it become unclean?” The priests answered and _said_, “It does become unclean.”
+
+(x)	פָּ֣תַח צ֭וּר וַ_יָּז֣וּבוּ_ מָ֑יִם (Psa. 105:41)
+NIV	He opened the rock, and water _gushed out_. like a river it flowed in the desert.
+ESV	He opened the rock, and water _gushed out_. it flowed through the desert like a river.
+
+(x)	וְר֖וּת דָּ֥בְקָה בָּֽהּ׃ וַ_תֹּ֗אמֶר_ (Ruth 1:15)
+NIV	“Look,” _said_ Naomi, “your sister-in-law is going back to her people and her gods. Go back with her.”
+ESV	And _she said_, “See, your sister-in-law has gone back to her people and to her gods. return after your sister-in-law.”
+
+(x)	וַאֲנִי־בָ֗אתִי בֵּ֣ית שְֽׁמַֽעְיָ֧ה בֶן־דְּלָיָ֛ה בֶּן־מְהֵֽיטַבְאֵ֖ל וַ_יֹּ֡אמֶר_ (Neh. 6:10)
+NIV	One day I went to the house of Shemaiah son of Delaiah, the son of Mehetabel, who was shut in at his home. _He said_, “Let us meet in the house of God, inside the temple, and let us close the temple doors, because men are coming to kill you — by night they are coming to kill you.”
+ESV	Now when I went into the house of Shemaiah the son of Delaiah, son of Mehetabel, who was confined to his home, _he said_, “Let us meet together in the house of God, within the temple. Let us close the doors of the temple, for they are coming to kill you. They are coming to kill you by night.”
+
+(x)	וְהֵ֗מָּה עָזְר֤וּ עִם־דָּוִיד֙ עַֽל־הַגְּד֔וּד וַ_יִּהְי֥וּ_ שָׂרִ֖ים בַּצָּבָֽא׃ (I Chr. 12:22)
+NIV	They helped David against raiding bands, for all of them were brave warriors, and _they were_ commanders in his army.
+ESV	They helped David against the band of raiders, for they _were_ all mighty men of valor and _were_ commanders in the army.
+
+(x)	הֲלֹ֤א הִדַּחְתֶּם֙ אֶת־כֹּהֲנֵ֣י יְהוָ֔ה אֶת־בְּנֵ֥י אַהֲרֹ֖ן וְהַלְוִיִּ֑ם וַ_תַּעֲשׂ֨וּ_ לָכֶ֤ם כֹּהֲנִים֙ כְּעַמֵּ֣י הָאֲרָצֹ֔ות (II Chr. 13:9)
+NIV	But didn’t you drive out the priests of the LORD, the sons of Aaron, and the Levites, and _make_ priests of your own as the peoples of other lands do? Whoever comes to consecrate himself with a young bull and seven rams may become a priest of what are not gods.
+ESV	Have you not driven out the priests of the Lord, the sons of Aaron, and the Levites, and _made_ priests for yourselves like the peoples of other lands? Whoever comes for ordination with a young bull or seven rams becomes a priest of what are no gods.
+
+(x)	וְאֵת֩ אֲמַצְיָ֨הוּ מֶֽלֶךְ־יְהוּדָ֜ה בֶּן־יֹואָ֣שׁ בֶּן־יְהֹואָחָ֗ז תָּפַ֛שׂ יֹואָ֥שׁ מֶֽלֶךְ־יִשְׂרָאֵ֖ל בְּבֵ֣ית שָׁ֑מֶשׁ וַ_יְבִיאֵ֨הוּ֙_ יְר֣וּשָׁלִַ֔ם (II Chr. 25:23)
+NIV	Jehoash king of Israel captured Amaziah king of Judah, the son of Joash, the son of Ahaziah, at Beth Shemesh. Then _Jehoash brought_ him to Jerusalem and broke down the wall of Jerusalem from the Ephraim Gate to the Corner Gate — a section about six hundred feet long.
+ESV	And Joash king of Israel captured Amaziah king of Judah, the son of Joash, son of Ahaziah, at Beth-shemesh, and _brought_ him to Jerusalem and broke down the wall of Jerusalem for 400 cubits, from the Ephraim Gate to the Corner Gate.
+
+(x)	גַּ֠ם כָּל־שָׂרֵ֨י הַכֹּהֲנִ֤ים וְהָעָם֙ הִרְבּ֣וּ וַ_יִּשְׁלַ֡ח_ יְהוָה֩ אֱלֹהֵ֨י אֲבֹותֵיהֶ֧ם עֲלֵיהֶ֛ם בְּיַ֥ד מַלְאָכָ֖יו הַשְׁכֵּ֣ם וְשָׁלֹ֑וחַ (II Chr. 36:15)
+NIV	The LORD, the God of their fathers, _sent_ word to them through his messengers again and again, because he had pity on his people and on his dwelling-place.
+ESV	The Lord, the God of their fathers, _sent_ persistently to them by his messengers, because he had compassion on his people and on his dwelling place.

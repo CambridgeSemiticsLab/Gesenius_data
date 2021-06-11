@@ -1,0 +1,10 @@
+eng_TAMsimp == "PAST ~ TO INF" and lex == "חטא"
+2 of 2
+
+(x)	וַיִּשְׁחָ֗ט וַיִּקַּ֨ח מֹשֶׁ֤ה אֶת־הַדָּם֙ וַ֠יִּתֵּן עַל־קַרְנֹ֨ות הַמִּזְבֵּ֤חַ סָבִיב֙ בְּאֶצְבָּעֹ֔ו וַ_יְחַטֵּ֖א_ אֶת־הַמִּזְבֵּ֑חַ וְאֶת־הַדָּ֗ם יָצַק֙ אֶל־יְסֹ֣וד הַמִּזְבֵּ֔חַ וַֽיְקַדְּשֵׁ֖הוּ לְכַפֵּ֥ר עָלָֽיו׃ (Lev. 8:15)
+NIV	Moses slaughtered the bull and took some of the blood, and with his finger he put it on all the horns of the altar to _purify_ the altar. He poured out the rest of the blood at the base of the altar. So he consecrated it to make atonement for it.
+ESV	And he killed it, and Moses took the blood, and with his finger put it on the horns of the altar around it and _purified_ the altar and poured out the blood at the base of the altar and consecrated it to make atonement for it.
+
+(x)	פָּגַ֤עְתָּ אֶת־שָׂשׂ֙ וְעֹ֣שֵׂה צֶ֔דֶק בִּדְרָכֶ֖יךָ יִזְכְּר֑וּךָ הֵן־אַתָּ֤ה קָצַ֨פְתָּ֙ וַֽ_נֶּחֱטָ֔א_ בָּהֶ֥ם עֹולָ֖ם וְנִוָּשֵֽׁעַ׃ (Isa. 64:4)
+NIV	You come to the help of those who gladly do right, who remember your ways. But when we continued to _sin_ against them, you were angry. How then can we be saved?
+ESV	You meet him who joyfully works righteousness, those who remember you in your ways. Behold, you were angry, and _we sinned_. in our sins we have been a long time, and shall we be saved?

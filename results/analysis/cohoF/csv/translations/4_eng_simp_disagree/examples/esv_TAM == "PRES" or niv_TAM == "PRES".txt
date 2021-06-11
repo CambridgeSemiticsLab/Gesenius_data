@@ -1,0 +1,94 @@
+esv_TAM == "PRES" or niv_TAM == "PRES"
+23 of 23
+
+(x)	וְ_אֶקְחָ֨ה_ פַת־לֶ֜חֶם וְסַעֲד֤וּ לִבְּכֶם֙ אַחַ֣ר תַּעֲבֹ֔רוּ כִּֽי־עַל־כֵּ֥ן עֲבַרְתֶּ֖ם עַֽל־עַבְדְּכֶ֑ם וַיֹּ֣אמְר֔וּ כֵּ֥ן תַּעֲשֶׂ֖ה כַּאֲשֶׁ֥ר דִּבַּֽרְתָּ׃ (Gen. 18:5)
+NIV	_Let me get_ you something to eat, so you can be refreshed and then go on your way — now that you have come to your servant.” “Very well,” they answered, “do as you say.”
+ESV	while _I bring_ a morsel of bread, that you may refresh yourselves, and after that you may pass on — since you have come to your servant.” So they said, “Do as you have said.”
+
+(x)	וַיֹּ֨אמֶר יַעֲקֹ֤ב אֶל־לָבָן֙ הָבָ֣ה אֶת־אִשְׁתִּ֔י כִּ֥י מָלְא֖וּ יָמָ֑י וְ_אָבֹ֖ואָה_ אֵלֶֽיהָ׃ (Gen. 29:21)
+NIV	Then Jacob said to Laban, “Give me my wife. My time is completed, and _I want to lie_ with her.”
+ESV	Then Jacob said to Laban, “Give me my wife that _I may go in_ to her, for my time is completed.”
+
+(x)	יַעֲבָר־נָ֥א אֲדֹנִ֖י לִפְנֵ֣י עַבְדֹּ֑ו וַאֲנִ֞י _אֶתְנָהֲלָ֣ה_ לְאִטִּ֗י לְרֶ֨גֶל הַמְּלָאכָ֤ה אֲשֶׁר־לְפָנַי֙ וּלְרֶ֣גֶל הַיְלָדִ֔ים עַ֛ד אֲשֶׁר־אָבֹ֥א אֶל־אֲדֹנִ֖י שֵׂעִֽירָה׃ (Gen. 33:14)
+NIV	So let my lord go on ahead of his servant, while I _move along_ slowly at the pace of the droves before me and that of the children, until I come to my lord in Seir.”
+ESV	Let my lord pass on ahead of his servant, and I _will lead_ on slowly, at the pace of the livestock that are ahead of me and at the pace of the children, until I come to my lord in Seir.”
+
+(x)	וַיֹּ֧אמֶר יִשְׂרָאֵ֛ל אֶל־יֹוסֵ֖ף _אָמ֣וּתָה_ הַפָּ֑עַם אַחֲרֵי֙ רְאֹותִ֣י אֶת־פָּנֶ֔יךָ כִּ֥י עֹודְךָ֖ חָֽי׃ (Gen. 46:30)
+NIV	Israel said to Joseph, “Now _I am ready to die_, since I have seen for myself that you are still alive.”
+ESV	Israel said to Joseph, “Now _let me die_, since I have seen your face and know that you are still alive.”
+
+(x)	וַיֹּ֥אמֶר אֲלֵהֶ֖ם מֹשֶׁ֑ה עִמְד֣וּ וְ_אֶשְׁמְעָ֔ה_ מַה־יְצַוֶּ֥ה יְהוָ֖ה לָכֶֽם׃ פ (Num. 9:8)
+NIV	Moses answered them, “Wait until _I find out_ what the LORD commands concerning you.”
+ESV	And Moses said to them, “Wait, that _I may hear_ what the Lord will command concerning you.”
+
+(x)	וַיֹּאמְר֨וּ אֵלָ֥יו בְּנֵֽי־יִשְׂרָאֵל֮ בַּֽמְסִלָּ֣ה נַעֲלֶה֒ וְאִם־מֵימֶ֤יךָ נִשְׁתֶּה֙ אֲנִ֣י וּמִקְנַ֔י וְנָתַתִּ֖י מִכְרָ֑ם רַ֥ק אֵין־דָּבָ֖ר בְּרַגְלַ֥י _אֶֽעֱבֹֽרָה_׃ (Num. 20:19)
+NIV	The Israelites replied: “We will go along the main road, and if we or our livestock drink any of your water, we will pay for it. We only want to pass through on foot — nothing else.”
+ESV	And the people of Israel said to him, “We will go up by the highway, and if we drink of your water, I and my livestock, then I will pay for it. Let me only pass through on foot, nothing more.”
+
+(x)	וַיֹּ֨אמֶר בִּלְעָ֜ם לְבָלָ֗ק הִתְיַצֵּב֮ עַל־עֹלָתֶךָ֒ וְ_אֵֽלְכָ֗ה_ אוּלַ֞י יִקָּרֵ֤ה יְהוָה֙ לִקְרָאתִ֔י וּדְבַ֥ר מַה־יַּרְאֵ֖נִי וְהִגַּ֣דְתִּי לָ֑ךְ וַיֵּ֖לֶךְ שֶֽׁפִי׃ (Num. 23:3)
+NIV	Then Balaam said to Balak, “Stay here beside your offering while _I go_ aside. Perhaps the LORD will come to meet with me. Whatever he reveals to me I will tell you.” Then he went off to a barren height.
+ESV	And Balaam said to Balak, “Stand beside your burnt offering, and _I will go_. Perhaps the Lord will come to meet me, and whatever he shows me I will tell you.” And he went to a bare height,
+
+(x)	נֵֽלְכָה־נָּ֣א עַד־הַיַּרְדֵּ֗ן וְ_נִקְחָ֤ה_ מִשָּׁם֙ אִ֚ישׁ קֹורָ֣ה אֶחָ֔ת וְנַעֲשֶׂה־לָּ֥נוּ שָׁ֛ם מָקֹ֖ום לָשֶׁ֣בֶת שָׁ֑ם וַיֹּ֖אמֶר לֵֽכוּ׃ (II Kgs. 6:2)
+NIV	Let us go to the Jordan, where each of us _can get_ a pole. and let us build a place there for us to live.” And he said, “Go.”
+ESV	Let us go to the Jordan and each of _us get_ there a log, and let us make a place for us to dwell there.” And he answered, “Go.”
+
+(x)	נְגַֽשְׁשָׁ֤ה כַֽעִוְרִים֙ קִ֔יר וּכְאֵ֥ין עֵינַ֖יִם _נְגַשֵּׁ֑שָׁה_ כָּשַׁ֤לְנוּ בַֽצָּהֳרַ֨יִם֙ כַּנֶּ֔שֶׁף בָּאַשְׁמַנִּ֖ים כַּמֵּתִֽים׃ (Isa. 59:10)
+NIV	Like the blind we grope along the wall, _feeling our way_ like men without eyes. At midday we stumble as if it were twilight. among the strong, we are like the dead.
+ESV	We grope for the wall like the blind. _we grope_ like those who have no eyes. we stumble at noon as in the twilight, among those in full vigor we are like dead men.
+
+(x)	וַאֲנִי֙ בַּיהוָ֣ה אֲצַפֶּ֔ה _אֹוחִ֖ילָה_ לֵאלֹהֵ֣י יִשְׁעִ֑י יִשְׁמָעֵ֖נִי אֱלֹהָֽי׃ (Mic. 7:7)
+NIV	But as for me, I watch in hope for the LORD, _I wait_ for God my Saviour. my God will hear me.
+ESV	But as for me, I will look to the Lord. _I will wait_ for the God of my salvation. my God will hear me.
+
+(x)	אֵ֤לֶּה עָשִׂ֨יתָ׀ וְֽהֶחֱרַ֗שְׁתִּי דִּמִּ֗יתָ הֱֽיֹות־אֶֽהְיֶ֥ה כָמֹ֑וךָ אֹוכִיחֲךָ֖ וְ_אֶֽעֶרְכָ֣ה_ לְעֵינֶֽיךָ׃ (Psa. 50:21)
+NIV	These things you have done and I kept silent. you thought I was altogether like you. But I will rebuke you and _accuse_ you to your face.
+ESV	These things you have done, and I have been silent. you thought that I was one like yourself. But now I rebuke you and _lay the charge_ before you.
+
+(x)	עֻ֭זֹּו אֵלֶ֣יךָ _אֶשְׁמֹ֑רָה_ כִּֽי־אֱ֝לֹהִ֗ים מִשְׂגַּבִּֽי׃ (Psa. 59:10)
+NIV	O my Strength, _I watch_ for you. you, O God, are my fortress,
+ESV	O my Strength, _I will watch_ for you, for you, O God, are my fortress.
+
+(x)	עֻ֭זִּי אֵלֶ֣יךָ _אֲזַמֵּ֑רָה_ כִּֽי־אֱלֹהִ֥ים מִ֝שְׂגַּבִּ֗י אֱלֹהֵ֥י חַסְדִּֽי׃ (Psa. 59:18)
+NIV	O my Strength, _I sing praise_ to you. you, O God, are my fortress, my loving God.
+ESV	O my Strength, _I will sing praises_ to you, for you, O God, are my fortress, the God who shows me steadfast love.
+
+(x)	אַשְׁרֵ֤י׀ תִּֽבְחַ֣ר וּתְקָרֵב֮ יִשְׁכֹּ֪ן חֲצֵ֫רֶ֥יךָ _נִ֭שְׂבְּעָה_ בְּט֣וּב בֵּיתֶ֑ךָ קְ֝דֹ֗שׁ הֵיכָלֶֽךָ׃ (Psa. 65:5)
+NIV	Blessed are those you choose and bring near to live in your courts! _We are filled_ with the good things of your house, of your holy temple.
+ESV	Blessed is the one you choose and bring near, to dwell in your courts! _We shall be satisfied_ with the goodness of your house, the holiness of your temple!
+
+(x)	קֹולִ֣י אֶל־אֱלֹהִ֣ים וְ_אֶצְעָ֑קָה_ קֹולִ֥י אֶל־אֱ֝לֹהִ֗ים וְהַאֲזִ֥ין אֵלָֽי׃ (Psa. 77:2)
+NIV	I cried out to God for help. I cried out to God to hear me.
+ESV	_I cry aloud_ to God, aloud to God, and he will hear me.
+
+(x)	_אֶזְכְּרָ֣ה_ אֱלֹהִ֣ים וְאֶֽהֱמָיָ֑ה אָשִׂ֓יחָה׀ וְתִתְעַטֵּ֖ף רוּחִ֣י סֶֽלָה׃ (Psa. 77:4)
+NIV	_I remembered_ you, O God, and I groaned. I mused, and my spirit grew faint. Selah
+ESV	When _I remember_ God, I moan. when I meditate, my spirit faints. Selah
+
+(x)	אֶזְכְּרָ֣ה אֱלֹהִ֣ים וְאֶֽהֱמָיָ֑ה _אָשִׂ֓יחָה_׀ וְתִתְעַטֵּ֖ף רוּחִ֣י סֶֽלָה׃ (Psa. 77:4)
+NIV	I remembered you, O God, and I groaned. _I mused_, and my spirit grew faint. Selah
+ESV	When I remember God, I moan. when _I meditate_, my spirit faints. Selah
+
+(x)	שְׁמַ֣ע עַ֭מִּי וְ_אָעִ֣ידָה_ בָּ֑ךְ יִ֝שְׂרָאֵ֗ל אִם־תִּֽשְׁמַֽע־לִֽי׃ (Psa. 81:9)
+NIV	“Hear, O my people, and _I will warn_ you — if you would but listen to me, O Israel!
+ESV	Hear, O my people, while _I admonish_ you! O Israel, if you would but listen to me!
+
+(x)	בְּפִקֻּדֶ֥יךָ _אָשִׂ֑יחָה_ וְ֝אַבִּ֗יטָה אֹרְחֹתֶֽיךָ׃ (Psa. 119:15)
+NIV	_I meditate_ on your precepts and consider your ways.
+ESV	_I will meditate_ on your precepts and fix my eyes on your ways.
+
+(x)	בְּפִקֻּדֶ֥יךָ אָשִׂ֑יחָה וְ֝_אַבִּ֗יטָה_ אֹרְחֹתֶֽיךָ׃ (Psa. 119:15)
+NIV	I meditate on your precepts and _consider_ your ways.
+ESV	I will meditate on your precepts and _fix my eyes on_ your ways.
+
+(x)	וְאֶשָּֽׂא־כַפַּ֗י אֶֽל־מִ֭צְוֹתֶיךָ אֲשֶׁ֥ר אָהָ֗בְתִּי וְ_אָשִׂ֥יחָה_ בְחֻקֶּֽיךָ׃ (Psa. 119:48)
+NIV	I lift up my hands to your commands, which I love, and _I meditate_ on your decrees.
+ESV	I will lift up my hands toward your commandments, which I love, and _I will meditate_ on your statutes.
+
+(x)	מָשְׁכֵ֖נִי אַחֲרֶ֣יךָ נָּר֑וּצָה הֱבִיאַ֨נִי הַמֶּ֜לֶךְ חֲדָרָ֗יו _נָגִ֤ילָה_ וְנִשְׂמְחָה֙ בָּ֔ךְ נַזְכִּ֤ירָה דֹדֶ֨יךָ֙ מִיַּ֔יִן מֵישָׁרִ֖ים אֲהֵבֽוּךָ׃ ס (Song 1:4)
+NIV	Take me away with you — let us hurry! Let the king bring me into his chambers. _We rejoice_ and delight in you. we will praise your love more than wine. How right they are to adore you!
+ESV	Draw me after you. let us run. The king has brought me into his chambers. OTHERS — _We will exult_ and rejoice in you. we will extol your love more than wine. rightly do they love you.
+
+(x)	כָּל־זֹ֖ה נִסִּ֣יתִי בַֽחָכְמָ֑ה אָמַ֣רְתִּי _אֶחְכָּ֔מָה_ וְהִ֖יא רְחֹוקָ֥ה מִמֶּֽנִּי׃ (Eccl. 7:23)
+NIV	All this I tested by wisdom and I said, “_I am determined to be wise_” — but this was beyond me.
+ESV	All this I have tested by wisdom. I said, “_I will be wise_,” but it was far from me.

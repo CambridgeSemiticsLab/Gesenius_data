@@ -1,0 +1,18 @@
+esv_TAM == "MOD must" or niv_TAM == "MOD must"
+4 of 4
+
+(x)	הָ֥בָה _נִֽתְחַכְּמָ֖ה_ לֹ֑ו פֶּן־יִרְבֶּ֗ה וְהָיָ֞ה כִּֽי־תִקְרֶ֤אנָה מִלְחָמָה֙ וְנֹוסַ֤ף גַּם־הוּא֙ עַל־שֹׂ֣נְאֵ֔ינוּ וְנִלְחַם־בָּ֖נוּ וְעָלָ֥ה מִן־הָאָֽרֶץ׃ (Exod. 1:10)
+NIV	Come, _we must deal shrewdly_ with them or they will become even more numerous and, if war breaks out, will join our enemies, fight against us and leave the country.”
+ESV	Come, _let us deal shrewdly_ with them, lest they multiply, and, if war breaks out, they join our enemies and fight against us and escape from the land.”
+
+(x)	וַיֹּ֣אמֶר דָּ֠וִד לְכָל־עֲבָדָ֨יו אֲשֶׁר־אִתֹּ֤ו בִירוּשָׁלִַ֨ם֙ ק֣וּמוּ וְ_נִבְרָ֔חָה_ כִּ֛י לֹא־תִֽהְיֶה־לָּ֥נוּ פְלֵיטָ֖ה מִפְּנֵ֣י אַבְשָׁלֹ֑ום מַהֲר֣וּ לָלֶ֗כֶת פֶּן־יְמַהֵ֤ר וְהִשִּׂגָ֨נוּ֙ וְהִדִּ֤יחַ עָלֵ֨ינוּ֙ אֶת־הָ֣רָעָ֔ה וְהִכָּ֥ה הָעִ֖יר לְפִי־חָֽרֶב׃ (II Sam. 15:14)
+NIV	Then David said to all his officials who were with him in Jerusalem, “Come! _We must flee_, or none of us will escape from Absalom. We must leave immediately, or he will move quickly to overtake us and bring ruin upon us and put the city to the sword.”
+ESV	Then David said to all his servants who were with him at Jerusalem, “Arise, and _let us flee_, or else there will be no escape for us from Absalom. Go quickly, lest he overtake us quickly and bring down ruin on us and strike the city with the edge of the sword.”
+
+(x)	עַד־מָתַ֖י אֶרְאֶה־נֵּ֑ס _אֶשְׁמְעָ֖ה_ קֹ֥ול שֹׁופָֽר׃ ס (Jer. 4:21)
+NIV	How long must I see the battle standard and _hear_ the sound of the trumpet?
+ESV	How long must I see the standard and _hear_ the sound of the trumpet?
+
+(x)	וְיֵשׁ֙ אֲשֶׁ֣ר אֹמְרִ֔ים בָּנֵ֥ינוּ וּבְנֹתֵ֖ינוּ אֲנַ֣חְנוּ רַבִּ֑ים וְ_נִקְחָ֥ה_ דָגָ֖ן וְנֹאכְלָ֥ה וְנִחְיֶֽה׃ (Neh. 5:2)
+NIV	Some were saying, “We and our sons and daughters are numerous. in order for us to eat and stay alive, _we must get_ grain.”
+ESV	For there were those who said, “With our sons and our daughters, we are many. So _let us get_ grain, that we may eat and keep alive.”

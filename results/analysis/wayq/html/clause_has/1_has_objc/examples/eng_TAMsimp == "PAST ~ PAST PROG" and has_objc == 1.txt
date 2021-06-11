@@ -1,0 +1,22 @@
+eng_TAMsimp == "PAST ~ PAST PROG" and has_objc == 1
+5 of 5
+
+(x)	וַיָּבֹ֣א גִדְעֹ֔ון וְהִ֨נֵּה־אִ֔ישׁ מְסַפֵּ֥ר לְרֵעֵ֖הוּ חֲלֹ֑ום וַ_יֹּ֜אמֶר_ הִנֵּ֧ה חֲלֹ֣ום חָלַ֗מְתִּי וְהִנֵּ֨ה צְלִ֜יל לֶ֤חֶם שְׂעֹרִים֙ מִתְהַפֵּךְ֙ בְּמַחֲנֵ֣ה מִדְיָ֔ן וַיָּבֹ֣א עַד־הָ֠אֹהֶל וַיַּכֵּ֧הוּ וַיִּפֹּ֛ל וַיַּהַפְכֵ֥הוּ לְמַ֖עְלָה וְנָפַ֥ל הָאֹֽהֶל׃ (Judg. 7:13)
+NIV	Gideon arrived just as a man was telling a friend his dream. “I had a dream,” _he was saying_. “A round loaf of barley bread came tumbling into the Midianite camp. It struck the tent with such force that the tent overturned and collapsed.”
+ESV	When Gideon came, behold, a man was telling a dream to his comrade. And _he said_, “Behold, I dreamed a dream, and behold, a cake of barley bread tumbled into the camp of Midian and came to the tent and struck it so that it fell and turned it upside down, so that the tent lay flat.”
+
+(x)	וַ_יֹּֽאמְרוּ֙_ בְּנֵ֣י בִנְיָמִ֔ן נִגָּפִ֥ים הֵ֛ם לְפָנֵ֖ינוּ כְּבָרִאשֹׁנָ֑ה וּבְנֵ֧י יִשְׂרָאֵ֣ל אָמְר֗וּ נָנ֨וּסָה֙ וּֽנְתַקְּנֻ֔הוּ מִן־הָעִ֖יר אֶל־הַֽמְסִלֹּֽות׃ (Judg. 20:32)
+NIV	While the Benjamites _were saying_, “We are defeating them as before,” the Israelites _were saying_, “Let’s retreat and draw them away from the city to the roads.”
+ESV	And the people of Benjamin _said_, “They are routed before us, as at the first.” But the people of Israel _said_, “Let us flee and draw them away from the city to the highways.”
+
+(x)	וַ_תַּעֲרֹ֤ךְ_ יִשְׂרָאֵל֙ וּפְלִשְׁתִּ֔ים מַעֲרָכָ֖ה לִקְרַ֥את מַעֲרָכָֽה׃ (I Sam. 17:21)
+NIV	Israel and the Philistines _were drawing up_ their lines facing each other.
+ESV	And Israel and the Philistines _drew up_ for battle, army against army.
+
+(x)	וַ_יִּרְאֻ֨הוּ_ בְנֵֽי־הַנְּבִיאִ֤ים אֲשֶׁר־בִּֽירִיחֹו֙ מִנֶּ֔גֶד וַיֹּ֣אמְר֔וּ נָ֛חָה ר֥וּחַ אֵלִיָּ֖הוּ עַל־אֱלִישָׁ֑ע וַיָּבֹ֨אוּ֙ לִקְרָאתֹ֔ו וַיִּשְׁתַּחֲווּ־לֹ֖ו אָֽרְצָה׃ (II Kgs. 2:15)
+NIV	The company of the prophets from Jericho, who _were watching_, said, “The spirit of Elijah is resting on Elisha.” And they went to meet him and bowed to the ground before him.
+ESV	Now when the sons of the prophets who were at Jericho _saw_ him opposite them, they said, “The spirit of Elijah rests on Elisha.” And they came to meet him and bowed to the ground before him.
+
+(x)	וַיְהִ֣י׀ בַּחֹ֣דֶשׁ הַשְּׁבִיעִ֗י בָּ֣א יִשְׁמָעֵ֣אל בֶּן־נְתַנְיָ֣ה בֶן־אֱלִישָׁמָ֣ע מִזֶּ֣רַע הַ֠מְּלוּכָה וְרַבֵּ֨י הַמֶּ֜לֶךְ וַעֲשָׂרָ֨ה אֲנָשִׁ֥ים אִתֹּ֛ו אֶל־גְּדַלְיָ֥הוּ בֶן־אֲחִיקָ֖ם הַמִּצְפָּ֑תָה וַ_יֹּ֨אכְלוּ_ שָׁ֥ם לֶ֛חֶם יַחְדָּ֖ו בַּמִּצְפָּֽה׃ (Jer. 41:1)
+NIV	In the seventh month Ishmael son of Nethaniah, the son of Elishama, who was of royal blood and had been one of the king’s officers, came with ten men to Gedaliah son of Ahikam at Mizpah. While _they were eating_ together there,
+ESV	In the seventh month, Ishmael the son of Nethaniah, son of Elishama, of the royal family, one of the chief officers of the king, came with ten men to Gedaliah the son of Ahikam, at Mizpah. As _they ate_ bread together there at Mizpah,

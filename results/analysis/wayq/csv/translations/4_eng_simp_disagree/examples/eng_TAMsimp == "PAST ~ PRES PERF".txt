@@ -1,0 +1,42 @@
+eng_TAMsimp == "PAST ~ PRES PERF"
+10 of 116
+
+(x)	וּלְאָדָ֣ם אָמַ֗ר כִּ֥י־שָׁמַעְתָּ֮ לְקֹ֣ול אִשְׁתֶּךָ֒ וַ_תֹּ֨אכַל֙_ מִן־הָעֵ֔ץ אֲשֶׁ֤ר צִוִּיתִ֨יךָ֙ לֵאמֹ֔ר לֹ֥א תֹאכַ֖ל מִמֶּ֑נּוּ אֲרוּרָ֤ה הָֽאֲדָמָה֙ בַּֽעֲבוּרֶ֔ךָ בְּעִצָּבֹון֙ תֹּֽאכֲלֶ֔נָּה כֹּ֖ל יְמֵ֥י חַיֶּֽיךָ׃ (Gen. 3:17)
+NIV	To Adam he said, “Because you listened to your wife and _ate_ from the tree about which I commanded you, ‘You must not eat of it,’ “Cursed is the ground because of you. through painful toil you will eat of it all the days of your life.
+ESV	And to Adam he said, “Because you have listened to the voice of your wife and _have eaten_ of the tree of which I commanded you, ‘You shall not eat of it,’ cursed is the ground because of you. in pain you shall eat of it all the days of your life.
+
+(x)	וָ_אֹמַ֣ר_ לָכֶ֗ם אַתֶּם֮ תִּֽירְשׁ֣וּ אֶת־אַדְמָתָם֒ וַאֲנִ֞י אֶתְּנֶ֤נָּה לָכֶם֙ לָרֶ֣שֶׁת אֹתָ֔הּ אֶ֛רֶץ זָבַ֥ת חָלָ֖ב וּדְבָ֑שׁ אֲנִי֙ יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם אֲשֶׁר־הִבְדַּ֥לְתִּי אֶתְכֶ֖ם מִן־הָֽעַמִּֽים׃ (Lev. 20:24)
+NIV	But _I said_ to you, “You will possess their land. I will give it to you as an inheritance, a land flowing with milk and honey.” I am the LORD your God, who has set you apart from the nations.
+ESV	But _I have said_ to you, ‘You shall inherit their land, and I will give it to you to possess, a land flowing with milk and honey.’ I am the Lord your God, who has separated you from the peoples.
+
+(x)	וְאַתֶּ֨ם הַיֹּ֜ום מְאַסְתֶּ֣ם אֶת־אֱלֹהֵיכֶ֗ם אֲשֶׁר־ה֣וּא מֹושִׁ֣יעַ לָכֶם֮ מִכָּל־רָעֹותֵיכֶ֣ם וְצָרֹֽתֵיכֶם֒ וַ_תֹּ֣אמְרוּ_ לֹ֔ו כִּי־מֶ֖לֶךְ תָּשִׂ֣ים עָלֵ֑ינוּ וְעַתָּ֗ה הִֽתְיַצְּבוּ֙ לִפְנֵ֣י יְהוָ֔ה לְשִׁבְטֵיכֶ֖ם וּלְאַלְפֵיכֶֽם׃ (I Sam. 10:19)
+NIV	But you have now rejected your God, who saves you out of all your calamities and distresses. And _you have said_, ‘No, set a king over us.’ So now present yourselves before the LORD by your tribes and clans.”
+ESV	But today you have rejected your God, who saves you from all your calamities and your distresses, and _you have said_ to him, ‘Set a king over us.’ Now therefore present yourselves before the Lord by your tribes and by your thousands.”
+
+(x)	וַֽ_תְּפַלְּטֵ֔נִי_ מֵרִיבֵ֖י עַמִּ֑י תִּשְׁמְרֵ֨נִי֙ לְרֹ֣אשׁ גֹּויִ֔ם עַ֥ם לֹא־יָדַ֖עְתִּי יַעַבְדֻֽנִי׃ (II Sam. 22:44)
+NIV	“_You have delivered_ me from the attacks of my people. you have preserved me as the head of nations. People I did not know are subject to me,
+ESV	“_You delivered_ me from strife with my people. you kept me as the head of the nations. people whom I had not known served me.
+
+(x)	וַ_תִּבְטְחִ֣י_ בְרָעָתֵ֗ךְ אָמַרְתְּ֙ אֵ֣ין רֹאָ֔נִי חָכְמָתֵ֥ךְ וְדַעְתֵּ֖ךְ הִ֣יא שֹׁובְבָ֑תֶךְ וַתֹּאמְרִ֣י בְלִבֵּ֔ךְ אֲנִ֖י וְאַפְסִ֥י עֹֽוד׃ (Isa. 47:10)
+NIV	_You have trusted_ in your wickedness and have said, ‘No-one sees me.’ Your wisdom and knowledge mislead you when you say to yourself, ‘I am, and there is none besides me.’
+ESV	_You felt secure_ in your wickedness, you said, “No one sees me”. your wisdom and your knowledge led you astray, and you said in your heart, “I am, and there is no one besides me.”
+
+(x)	וְאָמַרְתָּ֣ אֲלֵיהֶ֗ם עַל֩ אֲשֶׁר־עָזְב֨וּ אֲבֹותֵיכֶ֤ם אֹותִי֙ נְאֻם־יְהוָ֔ה וַיֵּלְכ֗וּ אַֽחֲרֵי֙ אֱלֹהִ֣ים אֲחֵרִ֔ים וַ_יַּעַבְד֖וּם_ וַיִּשְׁתַּחֲו֣וּ לָהֶ֑ם וְאֹתִ֣י עָזָ֔בוּ וְאֶת־תֹּורָתִ֖י לֹ֥א שָׁמָֽרוּ׃ (Jer. 16:11)
+NIV	then say to them, ‘It is because your fathers forsook me,’ declares the LORD, ‘and followed other gods and _served_ and worshipped them. They forsook me and did not keep my law.
+ESV	then you shall say to them: ‘Because your fathers have forsaken me, declares the Lord, and have gone after other gods and _have served_ and worshiped them, and have forsaken me and have not kept my law,
+
+(x)	לָ֠כֵן כֹּֽה־אָמַ֨ר יְהוָ֜ה אֱלֹהֵ֤י צְבָאֹות֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל הִנְנִ֧י מֵבִ֣יא אֶל־יְהוּדָ֗ה וְאֶ֤ל כָּל־יֹֽושְׁבֵי֙ יְר֣וּשָׁלִַ֔ם אֵ֚ת כָּל־הָ֣רָעָ֔ה אֲשֶׁ֥ר דִּבַּ֖רְתִּי עֲלֵיהֶ֑ם יַ֣עַן דִּבַּ֤רְתִּי אֲלֵיהֶם֙ וְלֹ֣א שָׁמֵ֔עוּ וָ_אֶקְרָ֥א_ לָהֶ֖ם וְלֹ֥א עָנֽוּ׃ (Jer. 35:17)
+NIV	“Therefore, this is what the LORD God Almighty, the God of Israel, says: ‘Listen! I am going to bring on Judah and on everyone living in Jerusalem every disaster I pronounced against them. I spoke to them, but they did not listen. _I called_ to them, but they did not answer.’”
+ESV	Therefore, thus says the Lord, the God of hosts, the God of Israel: Behold, I am bringing upon Judah and all the inhabitants of Jerusalem all the disaster that I have pronounced against them, because I have spoken to them and they have not listened, _I have called_ to them and they have not answered.”
+
+(x)	וָ_אֶקְרָ֨א_ חֹ֜רֶב עַל־הָאָ֣רֶץ וְעַל־הֶהָרִ֗ים וְעַל־הַדָּגָן֙ וְעַל־הַתִּירֹ֣ושׁ וְעַל־הַיִּצְהָ֔ר וְעַ֛ל אֲשֶׁ֥ר תֹּוצִ֖יא הָאֲדָמָ֑ה וְעַל־הָֽאָדָם֙ וְעַל־הַבְּהֵמָ֔ה וְעַ֖ל כָּל־יְגִ֥יעַ כַּפָּֽיִם׃ ס (Hag. 1:11)
+NIV	_I called for_ a drought on the fields and the mountains, on the grain, the new wine, the oil and whatever the ground produces, on men and cattle, and on the labour of your hands.”
+ESV	And _I have called for_ a drought on the land and the hills, on the grain, the new wine, the oil, on what the ground brings forth, on man and beast, and on all their labors.”
+
+(x)	וָ_אֵ֤רֶא_ בַפְּתָאיִ֗ם אָ֘בִ֤ינָה בַבָּנִ֗ים נַ֣עַר חֲסַר־לֵֽב׃ (Prov. 7:7)
+NIV	_I saw_ among the simple, I noticed among the young men, a youth who lacked judgment.
+ESV	and _I have seen_ among the simple, I have perceived among the youths, a young man lacking sense,
+
+(x)	יַ֠עַן רַךְ־לְבָ֨בְךָ֜ וַתִּכָּנַ֣ע׀ מִלִּפְנֵ֣י אֱלֹהִ֗ים בְּשָׁמְעֲךָ֤ אֶת־דְּבָרָיו֙ עַל־הַמָּקֹ֤ום הַזֶּה֙ וְעַל־יֹ֣שְׁבָ֔יו וַתִּכָּנַ֣ע לְפָנַ֔י וַ_תִּקְרַ֥ע_ אֶת־בְּגָדֶ֖יךָ וַתֵּ֣בְךְּ לְפָנָ֑י וְגַם־אֲנִ֥י שָׁמַ֖עְתִּי נְאֻם־יְהוָֽה׃ (II Chr. 34:27)
+NIV	Because your heart was responsive and you humbled yourself before God when you heard what he spoke against this place and its people, and because you humbled yourself before me and _tore_ your robes and wept in my presence, I have heard you, declares the LORD.
+ESV	because your heart was tender and you humbled yourself before God when you heard his words against this place and its inhabitants, and you have humbled yourself before me and _have torn_ your clothes and wept before me, I also have heard you, declares the Lord.

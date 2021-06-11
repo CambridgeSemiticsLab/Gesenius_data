@@ -1,0 +1,102 @@
+eng_TAMsimp.isin(["PAST PERF", "PAST ~ PAST PERF"])and mother_verbtype == "qtl"
+25 of 46
+
+(x)	אֲשֶׁ֤ר חָֽפְרוּ֙ בִּימֵי֙ אַבְרָהָ֣ם אָבִ֔יו וַ_יְסַתְּמ֣וּם_ פְּלִשְׁתִּ֔ים אַחֲרֵ֖י מֹ֣ות אַבְרָהָ֑ם (Gen. 26:18)
+NIV	Isaac reopened the wells that had been dug in the time of his father Abraham, which the Philistines _had stopped up_ after Abraham died, and he gave them the same names his father had given them.
+ESV	And Isaac dug again the wells of water that had been dug in the days of Abraham his father, which the Philistines _had stopped_ after the death of Abraham. And he gave them the names that his father had given them.
+
+(x)	כִּֽי־עָזַ֥ב בִּגְדֹ֖ו בְּיָדָ֑הּ וַ_יָּ֖נָס_ הַחֽוּצָה׃ (Gen. 39:13)
+NIV	When she saw that he had left his cloak in her hand and _had run_ out of the house,
+ESV	And as soon as she saw that he had left his garment in her hand and _had fled_ out of the house,
+
+(x)	וּבַבֹּ֗קֶר הָֽיְתָה֙ שִׁכְבַ֣ת הַטַּ֔ל סָבִ֖יב לַֽמַּחֲנֶֽה׃ וַ_תַּ֖עַל_ שִׁכְבַ֣ת הַטָּ֑ל (Exod. 16:14)
+NIV	When the dew _was gone_, thin flakes like frost on the ground appeared on the desert floor.
+ESV	And when the dew _had gone up_, there was on the face of the wilderness a fine, flake-like thing, fine as frost on the ground.
+
+(x)	כִּֽי־לָכַ֨ד יְהֹושֻׁ֣עַ אֶת־הָעַי֮ וַ_יַּחֲרִימָהּ֒_ (Josh. 10:1)
+NIV	Now Adoni-zedek king of Jerusalem heard that Joshua had taken Ai and _totally destroyed_ it, doing to Ai and its king as he had done to Jericho and its king, and that the people of Gibeon had made a treaty of peace with Israel and were living near them.
+ESV	As soon as Adoni-zedek, king of Jerusalem, heard how Joshua had captured Ai and had devoted it to destruction, doing to Ai and its king as he had done to Jericho and its king, and how the inhabitants of Gibeon had made peace with Israel and were among them,
+
+(x)	וּפְלִשְׁתִּ֖ים חָנ֥וּ בְמִכְמָֽשׂ׃ וַ_יֵּצֵא֙_ מַצַּ֣ב פְּלִשְׁתִּ֔ים אֶֽל־מַעֲבַ֖ר מִכְמָֽשׂ׃ ס (I Sam. 13:23)
+NIV	Now a detachment of Philistines _had gone out_ to the pass at Michmash.
+ESV	And the garrison of the Philistines _went out_ to the pass of Michmash.
+
+(x)	כִּ֣י׀ לוּלֵ֣י מִהַ֗רְתְּ וַתָּבֹאת֙ (I Sam. 25:34)
+NIV	Otherwise, as surely as the LORD, the God of Israel, lives, who has kept me from harming you, if you had not come quickly to meet me, not one male belonging to Nabal would have been left alive by daybreak.”
+ESV	For as surely as the Lord, the God of Israel, lives, who has restrained me from hurting you, unless you had hurried and _come_ to meet me, truly by morning there had not been left to Nabal so much as one male.”
+
+(x)	וַעֲמָלֵקִ֣י פָֽשְׁט֗וּ אֶל־נֶ֨גֶב֙ וְאֶל־צִ֣קְלַ֔ג וַ_יַּכּוּ֙_ אֶת־צִ֣קְלַ֔ג (I Sam. 30:1)
+NIV	David and his men reached Ziklag on the third day. Now the Amalekites had raided the Negev and Ziklag. _They had attacked_ Ziklag and burned it,
+ESV	Now when David and his men came to Ziklag on the third day, the Amalekites had made a raid against the Negeb and against Ziklag. _They had overcome_ Ziklag and burned it with fire
+
+(x)	וְיֹואָ֗ב שָׁ֚ב מֵאַחֲרֵ֣י אַבְנֵ֔ר וַ_יִּקְבֹּ֖ץ_ אֶת־כָּל־הָעָ֑ם (II Sam. 2:30)
+NIV	Then Joab returned from pursuing Abner and _assembled_ all his men. Besides Asahel, nineteen of David’s men were found missing.
+ESV	Joab returned from the pursuit of Abner. And when he had gathered all the people together, there were missing from David’s servants nineteen men besides Asahel.
+
+(x)	כִּ֥י שִׁלְּחֹ֖ו וַ_יֵּ֥לֶךְ_ בְּשָׁלֹֽום׃ (II Sam. 3:22)
+NIV	Just then David’s men and Joab returned from a raid and brought with them a great deal of plunder. But Abner was no longer with David in Hebron, because David had sent him away, and _he had gone_ in peace.
+ESV	Just then the servants of David arrived with Joab from a raid, bringing much spoil with them. But Abner was not with David at Hebron, for he had sent him away, and _he had gone_ in peace.
+
+(x)	כִּי־הָלַ֨ךְ שִׁמְעִ֧י מִירוּשָׁלִַ֛ם גַּ֖ת וַ_יָּשֹֽׁב_׃ (I Kgs. 2:41)
+NIV	When Solomon was told that Shimei had gone from Jerusalem to Gath and _had returned_,
+ESV	And when Solomon was told that Shimei had gone from Jerusalem to Gath and _returned_,
+
+(x)	וַאֲרָם֙ יָצְא֣וּ גְדוּדִ֔ים וַ_יִּשְׁבּ֛וּ_ מֵאֶ֥רֶץ יִשְׂרָאֵ֖ל נַעֲרָ֣ה קְטַנָּ֑ה (II Kgs. 5:2)
+NIV	Now bands from Aram had gone out and _had taken captive_ a young girl from Israel, and she served Naaman’s wife.
+ESV	Now the Syrians on one of their raids _had carried off_ a little girl from the land of Israel, and she worked in the service of Naaman’s wife.
+
+(x)	עָלָ֣יו עָלָ֔ה שַׁלְמַנְאֶ֖סֶר מֶ֣לֶךְ אַשּׁ֑וּר וַֽ_יְהִי_־לֹ֤ו הֹושֵׁ֨עַ֙ עֶ֔בֶד (II Kgs. 17:3)
+NIV	Shalmaneser king of Assyria came up to attack Hoshea, who _had been_ Shalmaneser’s vassal and had paid him tribute.
+ESV	Against him came up Shalmaneser king of Assyria. And Hoshea _became_ his vassal and paid him tribute.
+
+(x)	עַ֣ל׀ אֲשֶׁ֣ר לֹֽא־שָׁמְע֗וּ בְּקֹול֙ יְהוָ֣ה אֱלֹהֵיהֶ֔ם וַ_יַּעַבְרוּ֙_ אֶת־בְּרִיתֹ֔ו אֵ֚ת כָּל־ (II Kgs. 18:12)
+NIV	This happened because they had not obeyed the LORD their God, but _had violated_ his covenant — all that Moses the servant of the LORD commanded. They neither listened to the commands nor carried them out.
+ESV	because they did not obey the voice of the Lord their God but _transgressed_ his covenant, even all that Moses the servant of the Lord commanded. They neither listened nor obeyed.
+
+(x)	כַּאֲשֶׁ֨ר עָשִׂ֜ינוּ אֲנַ֤חְנוּ וַאֲבֹתֵ֨ינוּ֙ מְלָכֵ֣ינוּ וְשָׂרֵ֔ינוּ בְּעָרֵ֣י יְהוּדָ֔ה וּבְחֻצֹ֖ות יְרוּשָׁלִָ֑ם וַ_נִּֽשְׂבַּֽע_־לֶ֨חֶם֙ (Jer. 44:17)
+NIV	We will certainly do everything we said we would: We will burn incense to the Queen of Heaven and will pour out drink offerings to her just as we and our fathers, our kings and our officials did in the towns of Judah and in the streets of Jerusalem. At that time _we had plenty of_ food and were well off and suffered no harm.
+ESV	But we will do everything that we have vowed, make offerings to the queen of heaven and pour out drink offerings to her, as we did, both we and our fathers, our kings and our officials, in the cities of Judah and in the streets of Jerusalem. For then _we had plenty of_ food, and prospered, and saw no disaster.
+
+(x)	עֹ֗וד זֹ֚את גִּדְּפ֤וּ אֹותִי֙ אֲבֹ֣ותֵיכֶ֔ם וָ_אֲבִיאֵם֙_ אֶל־הָאָ֔רֶץ (Ezek. 20:28)
+NIV	When _I brought_ them into the land I had sworn to give them and they saw any high hill or any leafy tree, there they offered their sacrifices, made offerings that provoked me to anger, presented their fragrant incense and poured out their drink offerings.
+ESV	For when _I had brought_ them into the land that I swore to give them, then wherever they saw any high hill or any leafy tree, there they offered their sacrifices and there they presented the provocation of their offering. there they sent up their pleasing aromas, and there they poured out their drink offerings.
+
+(x)	וּבָשָׂ֣ר עָלָ֔ה וַ_יִּקְרַ֧ם_ עֲלֵיהֶ֛ם עֹ֖ור מִלְמָ֑עְלָה (Ezek. 37:8)
+NIV	I looked, and tendons and flesh appeared on them and skin _covered_ them, but there was no breath in them.
+ESV	And I looked, and behold, there were sinews on them, and flesh had come upon them, and skin _had covered_ them. But there was no breath in them.
+
+(x)	וְיֹונָ֗ה יָרַד֙ אֶל־יַרְכְּתֵ֣י הַסְּפִינָ֔ה וַ_יִּשְׁכַּ֖ב_ (Jonah 1:5)
+NIV	All the sailors were afraid and each cried out to his own god. And they threw the cargo into the sea to lighten the ship. But Jonah had gone below deck, where _he lay down_ and fell into a deep sleep.
+ESV	Then the mariners were afraid, and each cried out to his god. And they hurled the cargo that was in the ship into the sea to lighten it for them. But Jonah had gone down into the inner part of the ship and _had lain down_ and was fast asleep.
+
+(x)	עַ֤ל אֲשֶׁ֣ר לֹא־מָצְא֣וּ מַעֲנֶ֑ה וַ֝_יַּרְשִׁ֗יעוּ_ אֶת־אִיֹּֽוב׃ (Job 32:3)
+NIV	He was also angry with the three friends, because they had found no way to refute Job, and yet _had condemned_ him.
+ESV	He burned with anger also at Job’s three friends because they had found no answer, although they had declared Job to be in the wrong.
+
+(x)	ה֤וּא עֶזְרָא֙ עָלָ֣ה מִבָּבֶ֔ל וַ_יִּתֶּן_־לֹ֣ו הַמֶּ֗לֶךְ כְּיַד־יְהוָ֤ה אֱלֹהָיו֙ עָלָ֔יו כֹּ֖ל בַּקָּשָׁתֹֽו׃ פ (Ezra 7:6)
+NIV	this Ezra came up from Babylon. He was a teacher well versed in the Law of Moses, which the LORD, the God of Israel, had given. The king _had granted_ him everything he asked, for the hand of the LORD his God was on him.
+ESV	this Ezra went up from Babylonia. He was a scribe skilled in the Law of Moses that the Lord, the God of Israel, had given, and the king _granted_ him all that he asked, for the hand of the Lord his God was on him.
+
+(x)	וּבְיֹום֩ עֶשְׂרִ֨ים וְאַרְבָּעָ֜ה לַחֹ֣דֶשׁ הַזֶּ֗ה נֶאֶסְפ֤וּ בְנֵֽי־יִשְׂרָאֵל֙ בְּצֹ֣ום וּבְשַׂקִּ֔ים וַ_יִּבָּֽדְלוּ֙_ זֶ֣רַע יִשְׂרָאֵ֔ל מִכֹּ֖ל בְּנֵ֣י נֵכָ֑ר (Neh. 9:2)
+NIV	Those of Israelite descent _had separated themselves_ from all foreigners. They stood in their places and confessed their sins and the wickedness of their fathers.
+ESV	And the Israelites _separated themselves_ from all foreigners and stood and confessed their sins and the iniquities of their fathers.
+
+(x)	כִּֽי־מְנָיֹ֥ות הַלְוִיִּ֖ם לֹ֣א נִתָּ֑נָה וַ_יִּבְרְח֧וּ_ (Neh. 13:10)
+NIV	I also learned that the portions assigned to the Levites had not been given to them, and that all the Levites and singers responsible for the service _had gone back_ to their own fields.
+ESV	I also found out that the portions of the Levites had not been given to them, so that the Levites and the singers, who did the work, _had fled_ each to his field.
+
+(x)	כִּ֣י לֹא־הָיָ֣ה בְכֹ֔ור וַ_יְשִׂימֵ֥הוּ_ אָבִ֖יהוּ לְרֹֽאשׁ׃ (I Chr. 26:10)
+NIV	Hosah the Merarite had sons: Shimri the first ( although he was not the firstborn, his father _had appointed_ him the first ),
+ESV	And Hosah, of the sons of Merari, had sons: Shimri the chief ( for though he was not the firstborn, his father _made_ him chief ),
+
+(x)	וּמַֽלְכַּת־שְׁבָ֗א שָֽׁמְעָה֮ אֶת־שֵׁ֣מַע שְׁלֹמֹה֒ וַ_תֵּ֨רֶא֙_ מַֽלְכַּת־שְׁבָ֔א אֵ֖ת חָכְמַ֣ת שְׁלֹמֹ֑ה וְהַבַּ֖יִת (II Chr. 9:3)
+NIV	When the queen of Sheba _saw_ the wisdom of Solomon, as well as the palace he had built,
+ESV	And when the queen of Sheba _had seen_ the wisdom of Solomon, the house that he had built,
+
+(x)	גַּם־ה֥וּא עָשָֽׂה־בָמֹ֖ות בְּהָרֵ֣י יְהוּדָ֑ה וַ_יֶּ֨זֶן֙_ אֶת־יֹשְׁבֵ֣י יְרוּשָׁלִַ֔ם (II Chr. 21:11)
+NIV	He had also built high places on the hills of Judah and had caused the people of Jerusalem to prostitute themselves and had led Judah astray.
+ESV	Moreover, he made high places in the hill country of Judah and led the inhabitants of Jerusalem into whoredom and made Judah go astray.
+
+(x)	וּפְלִשְׁתִּ֣ים פָּשְׁט֗וּ בְּעָרֵ֨י הַשְּׁפֵלָ֣ה וְהַנֶּגֶב֮ לִֽיהוּדָה֒ וַֽ֠_יִּלְכְּדוּ_ אֶת־בֵּֽית־שֶׁ֨מֶשׁ וְאֶת־אַיָּלֹ֜ון וְאֶת־הַגְּדֵרֹ֗ות וְאֶת־שֹׂוכֹ֤ו וּבְנֹותֶ֨יהָ֙ וְאֶת־תִּמְנָ֣ה וּבְנֹותֶ֔יהָ וְאֶת־גִּמְזֹ֖ו וְאֶת־בְּנֹתֶ֑יהָ (II Chr. 28:18)
+NIV	while the Philistines had raided towns in the foothills and in the Negev of Judah. _They captured_ and occupied Beth Shemesh, Aijalon and Gederoth, as well as Soco, Timnah and Gimzo, with their surrounding villages.
+ESV	And the Philistines had made raids on the cities in the Shephelah and the Negeb of Judah, and _had taken_ Beth-shemesh, Aijalon, Gederoth, Soco with its villages, Timnah with its villages, and Gimzo with its villages. And they settled there.

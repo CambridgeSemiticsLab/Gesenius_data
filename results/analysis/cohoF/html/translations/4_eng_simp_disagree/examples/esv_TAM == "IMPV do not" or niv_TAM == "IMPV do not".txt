@@ -1,0 +1,18 @@
+esv_TAM == "IMPV do not" or niv_TAM == "IMPV do not"
+4 of 4
+
+(x)	וַיֹּ֧אמֶר דָּוִ֛ד אֶל־גָּ֖ד צַר־לִ֣י מְאֹ֑ד נִפְּלָה־נָּ֤א בְיַד־יְהוָה֙ כִּֽי־רַבִּ֣ים רַֽחֲמָ֔יו וּבְיַד־אָדָ֖ם אַל־_אֶפֹּֽלָה_׃ (II Sam. 24:14)
+NIV	David said to Gad, “I am in deep distress. Let us fall into the hands of the LORD, for his mercy is great. but do not let me fall into the hands of men.”
+ESV	Then David said to Gad, “I am in great distress. Let us fall into the hand of the Lord, for his mercy is great. but let me not fall into the hand of man.”
+
+(x)	וַיִּקְרְא֨וּ אֶל־יְהוָ֜ה וַיֹּאמְר֗וּ אָנָּ֤ה יְהוָה֙ אַל־נָ֣א _נֹאבְדָ֗ה_ בְּנֶ֨פֶשׁ֙ הָאִ֣ישׁ הַזֶּ֔ה וְאַל־תִּתֵּ֥ן עָלֵ֖ינוּ דָּ֣ם נָקִ֑יא כִּֽי־אַתָּ֣ה יְהוָ֔ה כַּאֲשֶׁ֥ר חָפַ֖צְתָּ עָשִֽׂיתָ׃ (Jonah 1:14)
+NIV	Then they cried to the LORD, “O LORD, please do not let us die for taking this man’s life. Do not hold us accountable for killing an innocent man, for you, O LORD, have done as you pleased.”
+ESV	Therefore they called out to the Lord, “O Lord, let us not perish for this man’s life, and lay not on us innocent blood, for you, O Lord, have done as it pleased you.”
+
+(x)	אֱֽלֹהַ֗י בְּךָ֣ בָ֭טַחְתִּי אַל־_אֵבֹ֑ושָׁה_ אַל־יַֽעַלְצ֖וּ אֹיְבַ֣י לִֽי׃ (Psa. 25:2)
+NIV	in you I trust, O my God. Do not let me be put to shame, nor let my enemies triumph over me.
+ESV	O my God, in you I trust. let me not be put to shame. let not my enemies exult over me.
+
+(x)	הַצִּילֵ֣נִי מִ֭טִּיט וְאַל־_אֶטְבָּ֑עָה_ אִנָּצְלָ֥ה מִ֝שֹּֽׂנְאַ֗י וּמִמַּֽעֲמַקֵּי־מָֽיִם׃ (Psa. 69:15)
+NIV	Rescue me from the mire, do not let me sink. deliver me from those who hate me, from the deep waters.
+ESV	Deliver me from _sinking_ in the mire. let me be delivered from my enemies and from the deep waters.

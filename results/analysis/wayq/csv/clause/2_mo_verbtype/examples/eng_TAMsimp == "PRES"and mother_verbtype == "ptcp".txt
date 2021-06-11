@@ -1,0 +1,98 @@
+eng_TAMsimp == "PRES"and mother_verbtype == "ptcp"
+24 of 24
+
+(x)	מֹורִ֥יד שְׁאֹ֖ול וַ_יָּֽעַל_׃ (I Sam. 2:6)
+NIV	“The LORD brings death and makes alive. he brings down to the grave and raises up.
+ESV	The Lord kills and brings to life. he brings down to Sheol and raises up.
+
+(x)	אִם־אִשָּׁ֤ה עֲצֻֽרָה־לָ֨נוּ֙ כִּתְמֹ֣ול שִׁלְשֹׁ֔ם וַ_יִּהְי֥וּ_ כְלֵֽי־הַנְּעָרִ֖ים קֹ֑דֶשׁ (I Sam. 21:6)
+NIV	David replied, “Indeed women have been kept from us, as usual whenever I set out. The men’s things _are_ holy even on missions that _are_ not holy. How much more so today!”
+ESV	And David answered the priest, “Truly women have been kept from us as always when I go on an expedition. The vessels of the young men _are_ holy even when it is an ordinary journey. How much more today will their vessels be holy?”
+
+(x)	הַנֹּוטֶ֤ה כַדֹּק֙ שָׁמַ֔יִם וַ_יִּמְתָּחֵ֥ם_ כָּאֹ֖הֶל (Isa. 40:22)
+NIV	He sits enthroned above the circle of the earth, and its people are like grasshoppers. He stretches out the heavens like a canopy, and spreads them out like a tent to live in.
+ESV	It is he who sits above the circle of the earth, and its inhabitants are like grasshoppers. who stretches out the heavens like a curtain, and _spreads_ them like a tent to dwell in.
+
+(x)	רֹגַ֣ע הַיָּ֔ם וַ_יֶּהֱמ֖וּ_ גַּלָּ֑יו (Isa. 51:15)
+NIV	For I am the LORD your God, who churns up the sea so that its waves _roar_ — the LORD Almighty is his name.
+ESV	I am the Lord your God, who stirs up the sea so that its waves _roar_ — the Lord of hosts is his name.
+
+(x)	כִּ֤י כֻלָּם֙ מְנָ֣אֲפִ֔ים וַֽ_יַּדְרְכ֤וּ_ אֶת־לְשֹׁונָם֙ (Jer. 9:2)
+NIV	“_They make ready_ their tongue like a bow, to shoot lies. it is not by truth that they triumph in the land. They go from one sin to another. they do not acknowledge me,” declares the LORD.
+ESV	_They bend_ their tongue like a bow. falsehood and not truth has grown strong in the land. for they proceed from evil to evil, and they do not know me, declares the Lord.
+
+(x)	רֹגַ֤ע הַיָּם֙ וַ_יֶּהֱמ֣וּ_ גַלָּ֔יו (Jer. 31:35)
+NIV	This is what the LORD says, he who appoints the sun to shine by day, who decrees the moon and stars to shine by night, who stirs up the sea so that its waves _roar_ — the LORD Almighty is his name:
+ESV	Thus says the Lord, who gives the sun for light by day and the fixed order of the moon and the stars for light by night, who stirs up the sea so that its waves _roar_ — the Lord of hosts is his name:
+
+(x)	הַקֹּורֵ֣א לְמֵֽי־הַיָּ֗ם וַֽ_יִּשְׁפְּכֵ֛ם_ עַל־פְּנֵ֥י הָאָ֖רֶץ (Amos 5:8)
+NIV	( he who made the Pleiades and Orion, who turns blackness into dawn and darkens day into night, who calls for the waters of the sea and pours them out over the face of the land — the LORD is his name —
+ESV	He who made the Pleiades and Orion, and turns deep darkness into the morning and darkens the day into night, who calls for the waters of the sea and pours them out on the surface of the earth, the Lord is his name.
+
+(x)	הַנֹּוגֵ֤עַ בָּאָ֨רֶץ֙ וַ_תָּמֹ֔וג_ (Amos 9:5)
+NIV	The Lord, the LORD Almighty, he who touches the earth and _it melts_, and all who live in it mourn — the whole land rises like the Nile, then sinks like the river of Egypt —
+ESV	The Lord God of hosts, he who touches the earth and _it melts_, and all who dwell in it mourn, and all of it rises like the Nile, and sinks again, like the Nile of Egypt.
+
+(x)	הַקֹּרֵ֣א לְמֵֽי־הַיָּ֗ם וַֽ_יִּשְׁפְּכֵ֛ם_ עַל־פְּנֵ֥י הָאָ֖רֶץ (Amos 9:6)
+NIV	he who builds his lofty palace in the heavens and sets its foundation on the earth, who calls for the waters of the sea and pours them out over the face of the land — the LORD is his name.
+ESV	who builds his upper chambers in the heavens and founds his vault upon the earth. who calls for the waters of the sea and pours them out upon the surface of the earth — the Lord is his name.
+
+(x)	הַשַּׂ֣ר שֹׁאֵ֔ל וַֽ_יְעַבְּתֽוּהָ_׃ (Mic. 7:3)
+NIV	Both hands are skilled in doing evil. the ruler demands gifts, the judge accepts bribes, the powerful dictate what they desire — they all conspire together.
+ESV	Their hands are on what is evil, to do it well. the prince and the judge ask for a bribe, and the great man utters the evil desire of his soul. thus they weave it together.
+
+(x)	גֹּועֵ֤ר בַּיָּם֙ וַֽ_יַּבְּשֵׁ֔הוּ_ (Nah. 1:4)
+NIV	He rebukes the sea and dries it up. he makes all the rivers run dry. Bashan and Carmel wither and the blossoms of Lebanon fade.
+ESV	He rebukes the sea and makes it dry. he dries up all the rivers. Bashan and Carmel wither. the bloom of Lebanon withers.
+
+(x)	קֹ֣ול יְ֭הוָה שֹׁבֵ֣ר אֲרָזִ֑ים וַ_יְשַׁבֵּ֥ר_ יְ֝הוָ֗ה אֶת־אַרְזֵ֥י הַלְּבָנֹֽון׃ (Psa. 29:5)
+NIV	The voice of the LORD breaks the cedars. the LORD _breaks in pieces_ the cedars of Lebanon.
+ESV	The voice of the Lord _breaks_ the cedars. the Lord _breaks_ the cedars of Lebanon.
+
+(x)	חֹנֶ֤ה מַלְאַךְ־יְהוָ֓ה סָ֘בִ֤יב לִֽירֵאָ֗יו וַֽ_יְחַלְּצֵֽם_׃ (Psa. 34:8)
+NIV	The angel of the LORD encamps around those who fear him, and _he delivers_ them.
+ESV	The angel of the Lord encamps around those who fear him, and _delivers_ them.
+
+(x)	הַמַּבִּ֣יט לָ֭אָרֶץ וַ_תִּרְעָ֑ד_ (Psa. 104:32)
+NIV	he who looks at the earth, and _it trembles_, who touches the mountains, and they smoke.
+ESV	who looks on the earth and _it trembles_, who touches the mountains and they smoke!
+
+(x)	הַֽמְחַכִּ֣ים לַמָּ֣וֶת וַֽ֝_יַּחְפְּרֻ֗הוּ_ מִמַּטְמֹונִֽים׃ (Job 3:21)
+NIV	to those who long for death that does not come, who _search for_ it more than for hidden treasure,
+ESV	who long for death, but it comes not, and _dig for_ it more than for hidden treasures,
+
+(x)	לֹכֵ֣ד חֲכָמִ֣ים בְּעָרְמָ֑ם וַ_יֹּ֣שַׁע_ מֵ֭חֶרֶב מִפִּיהֶ֑ם (Job 5:15)
+NIV	_He saves_ the needy from the sword in their mouth. he saves them from the clutches of the powerful.
+ESV	But _he saves_ the needy from the sword of their mouth and from the hand of the mighty.
+
+(x)	מְגַלֶּ֣ה עֲ֭מֻקֹות מִנִּי־חֹ֑שֶׁךְ וַ_יֹּצֵ֖א_ לָאֹ֣ור צַלְמָֽוֶת׃ (Job 12:22)
+NIV	He reveals the deep things of darkness and _brings_ deep shadows into the light.
+ESV	He uncovers the deeps out of darkness and _brings_ deep darkness to light.
+
+(x)	מַשְׂגִּ֣יא לַ֭גֹּויִם וַֽ_יְאַבְּדֵ֑ם_ (Job 12:23)
+NIV	He makes nations great, and _destroys_ them. he enlarges nations, and disperses them.
+ESV	He makes nations great, and _he destroys_ them. he enlarges nations, and leads them away.
+
+(x)	שֹׁטֵ֥חַ לַ֝גֹּויִ֗ם וַ_יַּנְחֵֽם_׃ (Job 12:23)
+NIV	He makes nations great, and destroys them. he enlarges nations, and _disperses_ them.
+ESV	He makes nations great, and he destroys them. he enlarges nations, and leads them away.
+
+(x)	מֵסִ֗יר לֵ֭ב רָאשֵׁ֣י עַם־הָאָ֑רֶץ וַ֝_יַּתְעֵ֗ם_ בְּתֹ֣הוּ (Job 12:24)
+NIV	He deprives the leaders of the earth of their reason. he sends them wandering through a trackless waste.
+ESV	He takes away understanding from the chiefs of the people of the earth and makes them wander in a pathless waste.
+
+(x)	וְאִם־אֲסוּרִ֥ים בַּזִּקִּ֑ים וַ_יַּגֵּ֣ד_ לָהֶ֣ם פָּעֳלָ֑ם וּ֝פִשְׁעֵיהֶ֗ם (Job 36:9)
+NIV	_he tells_ them what they have done — that they have sinned arrogantly.
+ESV	then _he declares_ to them their work and their transgressions, that they are behaving arrogantly.
+
+(x)	בָּֽא־זָ֭דֹון וַ_יָּבֹ֣א_ קָלֹ֑ון (Prov. 11:2)
+NIV	When pride _comes_, then _comes_ disgrace, but with humility _comes_ wisdom.
+ESV	When pride _comes_, then _comes_ disgrace, but with the humble is wisdom.
+
+(x)	צַ֭דִּיק מִצָּרָ֣ה נֶחֱלָ֑ץ וַ_יָּבֹ֖א_ רָשָׁ֣ע תַּחְתָּֽיו׃ (Prov. 11:8)
+NIV	The righteous man is rescued from trouble, and _it comes on_ the wicked instead.
+ESV	The righteous is delivered from trouble, and the wicked _walks into_ it instead.
+
+(x)	מְזָרֶ֣ה רְ֭שָׁעִים מֶ֣לֶךְ חָכָ֑ם וַ_יָּ֖שֶׁב_ עֲלֵיהֶ֣ם אֹופָֽן׃ (Prov. 20:26)
+NIV	A wise king winnows out the wicked. _he drives_ the threshing wheel over them.
+ESV	A wise king winnows the wicked and _drives_ the wheel over them.

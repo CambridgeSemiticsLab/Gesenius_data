@@ -1,0 +1,102 @@
+esv_TAM == "MOD let" or niv_TAM == "MOD let"
+25 of 56
+
+(x)	וַיֹּ֣אמֶר אֱלֹהִ֗ים _תַּֽדְשֵׁ֤א_ הָאָ֨רֶץ֙ דֶּ֔שֶׁא עֵ֚שֶׂב מַזְרִ֣יעַ זֶ֔רַע עֵ֣ץ פְּרִ֞י עֹ֤שֶׂה פְּרִי֙ לְמִינֹ֔ו אֲשֶׁ֥ר זַרְעֹו־בֹ֖ו עַל־הָאָ֑רֶץ וַֽיְהִי־כֵֽן׃ (Gen. 1:11)
+NIV	Then God said, “Let the land produce vegetation: seed-bearing plants and trees on the land that bear fruit with seed in it, according to their various kinds.” And it was so.
+ESV	And God said, “Let the earth sprout vegetation, plants yielding seed, and fruit trees bearing fruit in which is their seed, each according to its kind, on the earth.” And it was so.
+
+(x)	יַ֤פְתְּ אֱלֹהִים֙ לְיֶ֔פֶת וְיִשְׁכֹּ֖ן בְּאָֽהֳלֵי־שֵׁ֑ם וִ_יהִ֥י_ כְנַ֖עַן עֶ֥בֶד לָֽמֹו׃ (Gen. 9:27)
+NIV	May God extend the territory of Japheth. may Japheth live in the tents of Shem, and may Canaan be his slave.”
+ESV	May God enlarge Japheth, and let him dwell in the tents of Shem, and let Canaan be his servant.”
+
+(x)	וַ֠יֹּאמֶר אַל־נָ֞א _יִ֤חַר_ לַֽאדֹנָי֙ וַאֲדַבְּרָ֣ה אַךְ־הַפַּ֔עַם אוּלַ֛י יִמָּצְא֥וּן שָׁ֖ם עֲשָׂרָ֑ה וַיֹּ֨אמֶר֙ לֹ֣א אַשְׁחִ֔ית בַּעֲב֖וּר הָעֲשָׂרָֽה׃ (Gen. 18:32)
+NIV	Then he said, “May the Lord not be angry, but let me speak just once more. What if only ten can be found there?” He answered, “For the sake of ten, I will not destroy it.”
+ESV	Then he said, “Oh let not the Lord be angry, and I will speak again but this once. Suppose ten are found there.” He answered, “For the sake of ten I will not destroy it.”
+
+(x)	יַעֲשֶׂ֣ה פַרְעֹ֔ה וְ_יַפְקֵ֥ד_ פְּקִדִ֖ים עַל־הָאָ֑רֶץ וְחִמֵּשׁ֙ אֶת־אֶ֣רֶץ מִצְרַ֔יִם בְּשֶׁ֖בַע שְׁנֵ֥י הַשָּׂבָֽע׃ (Gen. 41:34)
+NIV	Let Pharaoh appoint commissioners over the land to take a fifth of the harvest of Egypt during the seven years of abundance.
+ESV	Let Pharaoh proceed to _appoint_ overseers over the land and take one-fifth of the produce of the land of Egypt during the seven plentiful years.
+
+(x)	וַיֹּ֣אמֶר אַהֲרֹ֔ן אַל־_יִ֥חַר_ אַ֖ף אֲדֹנִ֑י אַתָּה֙ יָדַ֣עְתָּ אֶת־הָעָ֔ם כִּ֥י בְרָ֖ע הֽוּא׃ (Exod. 32:22)
+NIV	“Do not be angry, my lord,” Aaron answered. “You know how prone these people are to evil.
+ESV	And Aaron said, “Let not the anger of my lord burn hot. You know the people, that they are set on evil.
+
+(x)	אַל־נָ֥א _תְהִ֖י_ כַּמֵּ֑ת אֲשֶׁ֤ר בְּצֵאתֹו֙ מֵרֶ֣חֶם אִמֹּ֔ו וַיֵּאָכֵ֖ל חֲצִ֥י בְשָׂרֹֽו׃ (Num. 12:12)
+NIV	Do not let her be like a stillborn infant coming from its mother’s womb with its flesh half eaten away.”
+ESV	Let her not be as one dead, whose flesh is half eaten away when he comes out of his mother’s womb.”
+
+(x)	וַיֹּ֣אמֶר יֹואָ֡שׁ לְכֹל֩ אֲשֶׁר־עָמְד֨וּ עָלָ֜יו הַאַתֶּ֣ם׀ תְּרִיב֣וּן לַבַּ֗עַל אִם־אַתֶּם֙ תֹּושִׁיע֣וּן אֹותֹ֔ו אֲשֶׁ֨ר יָרִ֥יב לֹ֛ו יוּמַ֖ת עַד־הַבֹּ֑קֶר אִם־אֱלֹהִ֥ים הוּא֙ _יָ֣רֶב_ לֹ֔ו כִּ֥י נָתַ֖ץ אֶֽת־מִזְבְּחֹֽו׃ (Judg. 6:31)
+NIV	But Joash replied to the hostile crowd around him, “Are you going to plead Baal’s cause? Are you trying to save him? Whoever fights for him shall be put to death by morning! If Baal really is a god, _he can defend_ himself when someone breaks down his altar.”
+ESV	But Joash said to all who stood against him, “Will you contend for Baal? Or will you save him? Whoever contends for him shall be put to death by morning. If he is a god, _let him contend_ for himself, because his altar has been broken down.”
+
+(x)	מִכֹּ֣ל אֲשֶׁר־יֵצֵא֩ מִגֶּ֨פֶן הַיַּ֜יִן לֹ֣א תֹאכַ֗ל וְיַ֤יִן וְשֵׁכָר֙ אַל־_תֵּ֔שְׁתְּ_ וְכָל־טֻמְאָ֖ה אַל־תֹּאכַ֑ל כֹּ֥ל אֲשֶׁר־צִוִּיתִ֖יהָ תִּשְׁמֹֽר׃ (Judg. 13:14)
+NIV	She must not eat anything that comes from the grapevine, nor _drink_ any wine or other fermented _drink_ nor eat anything unclean. She must do everything I have commanded her.”
+ESV	She may not eat of anything that comes from the vine, neither _let her drink_ wine or strong drink, or eat any unclean thing. All that I commanded her let her observe.”
+
+(x)	וְעַתָּ֡ה אַל־_יָשֵׂם֩_ אֲדֹנִ֨י הַמֶּ֤לֶךְ אֶל־לִבֹּו֙ דָּבָ֣ר לֵאמֹ֔ר כָּל־בְּנֵ֥י הַמֶּ֖לֶךְ מֵ֑תוּ כִּֽי־אִם־אַמְנֹ֥ון לְבַדֹּ֖ו מֵֽת׃ פ (II Sam. 13:33)
+NIV	My lord the king should not be concerned about the report that all the king’s sons are dead. Only Amnon is dead.”
+ESV	Now therefore let not my lord the king so take it to heart as to suppose that all the king’s sons are dead, for Amnon alone is dead.”
+
+(x)	_יָֽשָׁב_־נָ֤א עַבְדְּךָ֙ וְאָמֻ֣ת בְּעִירִ֔י עִ֛ם קֶ֥בֶר אָבִ֖י וְאִמִּ֑י וְהִנֵּ֣ה׀ עַבְדְּךָ֣ כִמְהָ֗ם יַֽעֲבֹר֙ עִם־אֲדֹנִ֣י הַמֶּ֔לֶךְ וַעֲשֵׂה־לֹ֕ו אֵ֥ת אֲשֶׁר־טֹ֖וב בְּעֵינֶֽיךָ׃ ס (II Sam. 19:38)
+NIV	Let your servant return, that I may die in my own town near the tomb of my father and mother. But here is your servant Kimham. Let him cross over with my lord the king. Do for him whatever pleases you.”
+ESV	Please let your servant return, that I may die in my own city near the grave of my father and my mother. But here is your servant Chimham. Let him go over with my lord the king, and do for him whatever seems good to you.”
+
+(x)	וַיַּעֲנֶ֣ה אֵלִיָּ֗הוּ וַיְדַבֵּר֮ אֶל־שַׂ֣ר הַחֲמִשִּׁים֒ וְאִם־אִ֤ישׁ אֱלֹהִים֙ אָ֔נִי _תֵּ֤רֶד_ אֵשׁ֙ מִן־הַשָּׁמַ֔יִם וְתֹאכַ֥ל אֹתְךָ֖ וְאֶת־חֲמִשֶּׁ֑יךָ וַ_תֵּ֤רֶד_ אֵשׁ֙ מִן־הַשָּׁמַ֔יִם וַתֹּ֥אכַל אֹתֹ֖ו וְאֶת־חֲמִשָּֽׁיו׃ (II Kgs. 1:10)
+NIV	Elijah answered the captain, “If I am a man of God, may fire come down from heaven and consume you and your fifty men!” Then the fire fell from heaven and consumed the captain and his men.
+ESV	But Elijah answered the captain of fifty, “If I am a man of God, let fire come down from heaven and consume you and your fifty.” Then fire came down from heaven and consumed him and his fifty.
+
+(x)	אָר֣וּר הַיֹּ֔ום אֲשֶׁ֥ר יֻלַּ֖דְתִּי בֹּ֑ו יֹ֛ום אֲשֶׁר־יְלָדַ֥תְנִי אִמִּ֖י אַל־_יְהִ֥י_ בָרֽוּךְ׃ (Jer. 20:14)
+NIV	Cursed _be_ the day I was born! May the day my mother bore me not _be_ blessed!
+ESV	Cursed be the day on which I was born! The day when my mother bore me, let it not be blessed!
+
+(x)	מִ֤י חָכָם֙ וְ_יָ֣בֵֽן_ אֵ֔לֶּה נָבֹ֖ון וְיֵֽדָעֵ֑ם כִּֽי־יְשָׁרִ֞ים דַּרְכֵ֣י יְהוָ֗ה וְצַדִּקִים֙ יֵ֣לְכוּ בָ֔ם וּפֹשְׁעִ֖ים יִכָּ֥שְׁלוּ בָֽם׃ (Hos. 14:10)
+NIV	Who is wise? _He will realise_ these things. Who is discerning? He will understand them. The ways of the LORD are right. the righteous walk in them, but the rebellious stumble in them.
+ESV	Whoever is wise, _let him understand_ these things. whoever is discerning, let him know them. for the ways of the Lord are right, and the upright walk in them, but transgressors stumble in them.
+
+(x)	חִ֭זְקוּ וְ_יַאֲמֵ֣ץ_ לְבַבְכֶ֑ם כָּל־הַ֝מְיַחֲלִ֗ים לַיהוָֽה׃ (Psa. 31:25)
+NIV	Be strong and _take_ heart, all you who hope in the LORD.
+ESV	Be strong, and let your heart take courage, all you who wait for the Lord!
+
+(x)	מִ֥י יִתֵּ֣ן מִצִּיֹּון֮ יְשֻׁעֹ֪ות יִשְׂרָ֫אֵ֥ל בְּשׁ֣וּב אֱ֭לֹהִים שְׁב֣וּת עַמֹּ֑ו _יָגֵ֥ל_ יַ֝עֲקֹ֗ב יִשְׂמַ֥ח יִשְׂרָאֵֽל׃ (Psa. 53:7)
+NIV	Oh, that salvation for Israel would come out of Zion! When God restores the fortunes of his people, let Jacob _rejoice_ and Israel be glad!
+ESV	Oh, that salvation for Israel would come out of Zion! When God restores the fortunes of his people, let Jacob rejoice, let Israel be glad.
+
+(x)	רָא֣וּ עֲנָוִ֣ים יִשְׂמָ֑חוּ דֹּרְשֵׁ֥י אֱ֝לֹהִ֗ים וִ_יחִ֥י_ לְבַבְכֶֽם׃ (Psa. 69:33)
+NIV	The poor will see and be glad — you who seek God, may your hearts live!
+ESV	When the humble see it they will be glad. you who seek God, let your hearts revive.
+
+(x)	אַל־_יָשֹׁ֣ב_ דַּ֣ךְ נִכְלָ֑ם עָנִ֥י וְ֝אֶבְיֹ֗ון יְֽהַלְל֥וּ שְׁמֶֽךָ׃ (Psa. 74:21)
+NIV	Do not let the oppressed retreat in disgrace. may the poor and needy praise your name.
+ESV	Let not the downtrodden turn back in shame. let the poor and needy praise your name.
+
+(x)	יִזָּכֵ֤ר׀ עֲוֹ֣ן אֲ֭בֹתָיו אֶל־יְהוָ֑ה וְחַטַּ֥את אִ֝מֹּ֗ו אַל־_תִּמָּֽח_׃ (Psa. 109:14)
+NIV	May the iniquity of his fathers be remembered before the LORD. may the sin of his mother never be blotted out.
+ESV	May the iniquity of his fathers be remembered before the Lord, and let not the sin of his mother be blotted out!
+
+(x)	הַיֹּ֥ום הַה֗וּא _יְֽהִ֫י_ חֹ֥שֶׁךְ אַֽל־יִדְרְשֵׁ֣הוּ אֱלֹ֣והַּ מִמָּ֑עַל וְאַל־תֹּופַ֖ע עָלָ֣יו נְהָרָֽה׃ (Job 3:4)
+NIV	That day — _may it turn_ to darkness. may God above not care about it. may no light shine upon it.
+ESV	Let that day be darkness! May God above not seek it, nor light shine upon it.
+
+(x)	הִנֵּ֤ה הַלַּ֣יְלָה הַ֭הוּא _יְהִ֣י_ גַלְמ֑וּד אַל־תָּבֹ֖א רְנָנָ֣ה בֹֽו׃ (Job 3:7)
+NIV	May that night be barren. may no shout of joy be heard in it.
+ESV	Behold, let that night be barren. let no joyful cry enter it.
+
+(x)	שֻֽׁבוּ־נָ֭א אַל־_תְּהִ֣י_ עַוְלָ֑ה וְשֻֽׁבוּ עֹ֝וד צִדְקִי־בָֽהּ׃ (Job 6:29)
+NIV	Relent, do not be unjust. reconsider, for my integrity is at stake.
+ESV	Please turn. let no injustice be done. Turn now. my vindication is at stake.
+
+(x)	אַל־_יַאֲמֵ֣ן_ בַּשָּׁ֣יו נִתְעָ֑ה כִּי־שָׁ֝֗וְא תִּהְיֶ֥ה תְמוּרָתֹֽו׃ (Job 15:31)
+NIV	Let him not deceive himself by _trusting_ what is worthless, for he will get nothing in return.
+ESV	Let him not trust in emptiness, deceiving himself, for emptiness will be his payment.
+
+(x)	_יְהִ֣י_ כְ֭רָשָׁע אֹ֣יְבִ֑י וּמִתְקֹומְמִ֥י כְעַוָּֽל׃ (Job 27:7)
+NIV	“May my enemies be like the wicked, my adversaries like the unjust!
+ESV	“Let my enemy be as the wicked, and let him who rises up against me be as the unrighteous.
+
+(x)	אַל־יֵ֣שְׂטְ אֶל־דְּרָכֶ֣יהָ לִבֶּ֑ךָ אַל־_תֵּ֝תַע_ בִּנְתִיבֹותֶֽיהָ׃ (Prov. 7:25)
+NIV	Do not let your heart turn to her ways or _stray_ into her paths.
+ESV	Let not your heart turn aside to her ways. do not stray into her paths,
+
+(x)	אֲדֹנָ֗י כְּכָל־צִדְקֹתֶ֨ךָ֙ _יָֽשָׁב_־נָ֤א אַפְּךָ֙ וַחֲמָ֣תְךָ֔ מֵעִֽירְךָ֥ יְרוּשָׁלִַ֖ם הַר־קָדְשֶׁ֑ךָ כִּ֤י בַחֲטָאֵ֨ינוּ֙ וּבַעֲוֹנֹ֣ות אֲבֹתֵ֔ינוּ יְרוּשָׁלִַ֧ם וְעַמְּךָ֛ לְחֶרְפָּ֖ה לְכָל־סְבִיבֹתֵֽינוּ׃ (Dan. 9:16)
+NIV	O Lord, in keeping with all your righteous acts, _turn away_ your anger and your wrath from Jerusalem, your city, your holy hill. Our sins and the iniquities of our fathers have made Jerusalem and your people an object of scorn to all those around us.
+ESV	“O Lord, according to all your righteous acts, let your anger and your wrath turn away from your city Jerusalem, your holy hill, because for our sins, and for the iniquities of our fathers, Jerusalem and your people have become a byword among all who are around us.

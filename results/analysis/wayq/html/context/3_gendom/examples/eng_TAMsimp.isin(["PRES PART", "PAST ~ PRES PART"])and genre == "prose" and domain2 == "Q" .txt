@@ -1,0 +1,102 @@
+eng_TAMsimp.isin(["PRES PART", "PAST ~ PRES PART"])and genre == "prose" and domain2 == "Q" 
+25 of 29
+
+(x)	וַ_יִּקְח֤וּ_ בְיָדָם֙ מִפְּרִ֣י הָאָ֔רֶץ וַיֹּורִ֖דוּ אֵלֵ֑ינוּ וַיָּשִׁ֨בוּ אֹתָ֤נוּ דָבָר֙ וַיֹּ֣אמְר֔וּ טֹובָ֣ה הָאָ֔רֶץ אֲשֶׁר־יְהוָ֥ה אֱלֹהֵ֖ינוּ נֹתֵ֥ן לָֽנוּ׃ (Deut. 1:25)
+NIV	_Taking_ with them some of the fruit of the land, they brought it down to us and reported, “It is a good land that the LORD our God is giving us.”
+ESV	And _they took_ in their hands some of the fruit of the land and brought it down to us, and brought us word again and said, ‘It is a good land that the Lord our God is giving us.’
+
+(x)	וַֽיְעַנְּךָ֮ וַ_יַּרְעִבֶךָ֒_ וַיַּֽאֲכִֽלְךָ֤ אֶת־הַמָּן֙ אֲשֶׁ֣ר לֹא־יָדַ֔עְתָּ וְלֹ֥א יָדְע֖וּן אֲבֹתֶ֑יךָ לְמַ֣עַן הֹודִֽעֲךָ֗ כִּ֠י לֹ֣א עַל־הַלֶּ֤חֶם לְבַדֹּו֙ יִחְיֶ֣ה הָֽאָדָ֔ם כִּ֛י עַל־כָּל־מֹוצָ֥א פִֽי־יְהוָ֖ה יִחְיֶ֥ה הָאָדָֽם׃ (Deut. 8:3)
+NIV	He humbled you, causing you to hunger and then feeding you with manna, which neither you nor your fathers had known, to teach you that man does not live on bread alone but on every word that comes from the mouth of the LORD.
+ESV	And he humbled you and let you hunger and fed you with manna, which you did not know, nor did your fathers know, that he might make you know that man does not live by bread alone, but man lives by every word that comes from the mouth of the Lord.
+
+(x)	וַֽיְעַנְּךָ֮ וַיַּרְעִבֶךָ֒ וַ_יַּֽאֲכִֽלְךָ֤_ אֶת־הַמָּן֙ אֲשֶׁ֣ר לֹא־יָדַ֔עְתָּ וְלֹ֥א יָדְע֖וּן אֲבֹתֶ֑יךָ לְמַ֣עַן הֹודִֽעֲךָ֗ כִּ֠י לֹ֣א עַל־הַלֶּ֤חֶם לְבַדֹּו֙ יִחְיֶ֣ה הָֽאָדָ֔ם כִּ֛י עַל־כָּל־מֹוצָ֥א פִֽי־יְהוָ֖ה יִחְיֶ֥ה הָאָדָֽם׃ (Deut. 8:3)
+NIV	He humbled you, causing you to hunger and then _feeding_ you with manna, which neither you nor your fathers had known, to teach you that man does not live on bread alone but on every word that comes from the mouth of the LORD.
+ESV	And he humbled you and let you hunger and _fed_ you with manna, which you did not know, nor did your fathers know, that he might make you know that man does not live by bread alone, but man lives by every word that comes from the mouth of the Lord.
+
+(x)	וָאֶתְפֹּשׂ֙ בִּשְׁנֵ֣י הַלֻּחֹ֔ת וָֽאַשְׁלִכֵ֔ם מֵעַ֖ל שְׁתֵּ֣י יָדָ֑י וָ_אֲשַׁבְּרֵ֖ם_ לְעֵינֵיכֶֽם׃ (Deut. 9:17)
+NIV	So I took the two tablets and threw them out of my hands, breaking them to pieces before your eyes.
+ESV	So I took hold of the two tablets and threw them out of my two hands and _broke_ them before your eyes.
+
+(x)	וַ_יִּ֣ירְשׁ֔וּ_ אֵ֖ת כָּל־גְּב֣וּל הָאֱמֹרִ֑י מֵֽאַרְנֹון֙ וְעַד־הַיַּבֹּ֔ק וּמִן־הַמִּדְבָּ֖ר וְעַד־הַיַּרְדֵּֽן׃ (Judg. 11:22)
+NIV	_capturing_ all of it from the Arnon to the Jabbok and from the desert to the Jordan.
+ESV	And _they took possession_ of all the territory of the Amorites from the Arnon to the Jabbok and from the wilderness to the Jordan.
+
+(x)	וַתֹּ֨אמֶר דְּלִילָ֜ה אֶל־שִׁמְשֹׁ֗ון עַד־הֵ֜נָּה הֵתַ֤לְתָּ בִּי֙ וַ_תְּדַבֵּ֤ר_ אֵלַי֙ כְּזָבִ֔ים הַגִּ֣ידָה לִּ֔י בַּמֶּ֖ה תֵּאָסֵ֑ר וַיֹּ֣אמֶר אֵלֶ֔יהָ אִם־תַּאַרְגִ֗י אֶת־שֶׁ֛בַע מַחְלְפֹ֥ות רֹאשִׁ֖י עִם־הַמַּסָּֽכֶת׃ (Judg. 16:13)
+NIV	Delilah then said to Samson, “Until now, you have been making a fool of me and _lying_ to me. Tell me how you can be tied.” He replied, “If you weave the seven braids of my head into the fabric on the loom and tighten it with the pin, I’ll become as weak as any other man.” So while he was sleeping, Delilah took the seven braids of his head, wove them into the fabric
+ESV	Then Delilah said to Samson, “Until now you have mocked me and _told_ me lies. Tell me how you might be bound.” And he said to her, “If you weave the seven locks of my head with the web and fasten it tight with the pin, then I shall become weak and be like any other man.”
+
+(x)	כְּכָֽל־הַמַּעֲשִׂ֣ים אֲשֶׁר־עָשׂ֗וּ מִיֹּום֩ הַעֲלֹתִ֨י אֹתָ֤ם מִמִּצְרַ֨יִם֙ וְעַד־הַיֹּ֣ום הַזֶּ֔ה וַ_יַּ֣עַזְבֻ֔נִי_ וַיַּעַבְד֖וּ אֱלֹהִ֣ים אֲחֵרִ֑ים כֵּ֛ן הֵ֥מָּה עֹשִׂ֖ים גַּם־לָֽךְ׃ (I Sam. 8:8)
+NIV	As they have done from the day I brought them up out of Egypt until this day, _forsaking_ me and serving other gods, so they are doing to you.
+ESV	According to all the deeds that they have done, from the day I brought them up out of Egypt even to this day, _forsaking_ me and serving other gods, so they are also doing to you.
+
+(x)	וַיִּשְׁלָחֲךָ֥ יְהוָ֖ה בְּדָ֑רֶךְ וַ_יֹּ֗אמֶר_ לֵ֣ךְ וְהַחֲרַמְתָּ֞ה אֶת־הַֽחַטָּאִים֙ אֶת־עֲמָלֵ֔ק וְנִלְחַמְתָּ֣ בֹ֔ו עַ֥ד כַּלֹּותָ֖ם אֹתָֽם׃ (I Sam. 15:18)
+NIV	And he sent you on a mission, _saying_, ‘Go and completely destroy those wicked people, the Amalekites. make war on them until you have wiped them out.’
+ESV	And the Lord sent you on a mission and _said_, ‘Go, devote to destruction the sinners, the Amalekites, and fight against them until they are consumed.’
+
+(x)	וַיִּשְׁלַ֤ח דָּוִד֙ מַלְאָכִ֔ים אֶל־אַנְשֵׁ֖י יָבֵ֣ישׁ גִּלְעָ֑ד וַיֹּ֣אמֶר אֲלֵיהֶ֗ם בְּרֻכִ֤ים אַתֶּם֙ לַֽיהוָ֔ה אֲשֶׁ֨ר עֲשִׂיתֶ֜ם הַחֶ֣סֶד הַזֶּ֗ה עִם־אֲדֹֽנֵיכֶם֙ עִם־שָׁא֔וּל וַֽ_תִּקְבְּר֖וּ_ אֹתֹֽו׃ (II Sam. 2:5)
+NIV	he sent messengers to the men of Jabesh Gilead to say to them, “The LORD bless you for showing this kindness to Saul your master by _burying_ him.
+ESV	David sent messengers to the men of Jabesh-gilead and said to them, “May you be blessed by the Lord, because you showed this loyalty to Saul your lord and _buried_ him.
+
+(x)	וַיֻּגַּ֖ד לְיֹואָ֑ב הִנֵּ֨ה הַמֶּ֧לֶךְ בֹּכֶ֛ה וַ_יִּתְאַבֵּ֖ל_ עַל־אַבְשָׁלֹֽם׃ (II Sam. 19:2)
+NIV	Joab was told, “The king is weeping and _mourning_ for Absalom.”
+ESV	It was told Joab, “Behold, the king is weeping and _mourning_ for Absalom.”
+
+(x)	כִּ֣י׀ יָרַ֣ד הַיֹּ֗ום וַ֠יִּזְבַּח שֹׁ֥ור וּֽמְרִיא־וְצֹאן֮ לָרֹב֒ וַיִּקְרָא֩ לְכָל־בְּנֵ֨י הַמֶּ֜לֶךְ וּלְשָׂרֵ֤י הַצָּבָא֙ וּלְאֶבְיָתָ֣ר הַכֹּהֵ֔ן וְהִנָּ֛ם אֹכְלִ֥ים וְשֹׁתִ֖ים לְפָנָ֑יו וַ_יֹּ֣אמְר֔וּ_ יְחִ֖י הַמֶּ֥לֶךְ אֲדֹנִיָּֽהוּ׃ (I Kgs. 1:25)
+NIV	Today he has gone down and sacrificed great numbers of cattle, fattened calves, and sheep. He has invited all the king’s sons, the commanders of the army and Abiathar the priest. At this very moment they are eating and drinking with him and _saying_, ‘Long live King Adonijah!’
+ESV	For he has gone down this day and has sacrificed oxen, fattened cattle, and sheep in abundance, and has invited all the king’s sons, the commanders of the army, and Abiathar the priest. And behold, they are eating and drinking before him, and _saying_, ‘Long live King Adonijah!’
+
+(x)	וְאָמְר֗וּ עַל֩ אֲשֶׁ֨ר עָזְב֜וּ אֶת־יְהוָ֣ה אֱלֹהֵיהֶ֗ם אֲשֶׁ֨ר הֹוצִ֣יא אֶת־אֲבֹתָם֮ מֵאֶ֣רֶץ מִצְרַיִם֒ וַֽיַּחֲזִ֨קוּ֙ בֵּאלֹהִ֣ים אֲחֵרִ֔ים וַיִּשְׁתַּחֲו֥וּ לָהֶ֖ם וַיַּעַבְדֻ֑ם עַל־כֵּ֗ן הֵבִ֤יא יְהוָה֙ עֲלֵיהֶ֔ם אֵ֥ת כָּל־הָרָעָ֖ה הַזֹּֽאת׃ פ (I Kgs. 9:9)
+NIV	People will answer, ‘Because they have forsaken the LORD their God, who brought their fathers out of Egypt, and have embraced other gods, _worshipping_ and serving them — that is why the LORD brought all this disaster on them.’”
+ESV	Then they will say, ‘Because they abandoned the Lord their God who brought their fathers out of the land of Egypt and laid hold on other gods and _worshiped_ them and served them. Therefore the Lord has brought all this disaster on them.’”
+
+(x)	וְאָמְר֗וּ עַל֩ אֲשֶׁ֨ר עָזְב֜וּ אֶת־יְהוָ֣ה אֱלֹהֵיהֶ֗ם אֲשֶׁ֨ר הֹוצִ֣יא אֶת־אֲבֹתָם֮ מֵאֶ֣רֶץ מִצְרַיִם֒ וַֽיַּחֲזִ֨קוּ֙ בֵּאלֹהִ֣ים אֲחֵרִ֔ים וַיִּשְׁתַּחֲו֥וּ לָהֶ֖ם וַ_יַּעַבְדֻ֑ם_ עַל־כֵּ֗ן הֵבִ֤יא יְהוָה֙ עֲלֵיהֶ֔ם אֵ֥ת כָּל־הָרָעָ֖ה הַזֹּֽאת׃ פ (I Kgs. 9:9)
+NIV	People will answer, ‘Because they have forsaken the LORD their God, who brought their fathers out of Egypt, and have embraced other gods, worshipping and _serving_ them — that is why the LORD brought all this disaster on them.’”
+ESV	Then they will say, ‘Because they abandoned the Lord their God who brought their fathers out of the land of Egypt and laid hold on other gods and worshiped them and _served_ them. Therefore the Lord has brought all this disaster on them.’”
+
+(x)	וְכִי־תֹאמְר֣וּן אֵלַ֔י אֶל־יְהוָ֥ה אֱלֹהֵ֖ינוּ בָּטָ֑חְנוּ הֲלֹוא־ה֗וּא אֲשֶׁ֨ר הֵסִ֤יר חִזְקִיָּ֨הוּ֙ אֶת־בָּמֹתָ֣יו וְאֶת־מִזְבְּחֹתָ֔יו וַ_יֹּ֤אמֶר_ לִֽיהוּדָה֙ וְלִיר֣וּשָׁלִַ֔ם לִפְנֵי֙ הַמִּזְבֵּ֣חַ הַזֶּ֔ה תִּֽשְׁתַּחֲו֖וּ בִּירוּשָׁלִָֽם׃ (II Kgs. 18:22)
+NIV	And if you say to me, “We are depending on the LORD our God” — isn’t he the one whose high places and altars Hezekiah removed, _saying_ to Judah and Jerusalem, “You must worship before this altar in Jerusalem”?
+ESV	But if you say to me, “We trust in the Lord our God,” is it not he whose high places and altars Hezekiah has removed, _saying_ to Judah and to Jerusalem, “You shall worship before this altar in Jerusalem”?
+
+(x)	וְכִי־תֹאמַ֣ר אֵלַ֔י אֶל־יְהוָ֥ה אֱלֹהֵ֖ינוּ בָּטָ֑חְנוּ הֲלֹוא־ה֗וּא אֲשֶׁ֨ר הֵסִ֤יר חִזְקִיָּ֨הוּ֙ אֶת־בָּמֹתָ֣יו וְאֶת־מִזְבְּחֹתָ֔יו וַ_יֹּ֤אמֶר_ לִֽיהוּדָה֙ וְלִיר֣וּשָׁלִַ֔ם לִפְנֵ֛י הַמִּזְבֵּ֥חַ הַזֶּ֖ה תִּֽשְׁתַּחֲוֽוּ׃ (Isa. 36:7)
+NIV	And if you say to me, “We are depending on the LORD our God” — isn’t he the one whose high places and altars Hezekiah removed, _saying_ to Judah and Jerusalem, “You must worship before this altar”?
+ESV	But if you say to me, “We trust in the Lord our God,” is it not he whose high places and altars Hezekiah has removed, _saying_ to Judah and to Jerusalem, “You shall worship before this altar”?
+
+(x)	וּרְאִיתִ֞יו מַגִּ֣יעַ׀ אֵ֣צֶל הָאַ֗יִל וַיִּתְמַרְמַ֤ר אֵלָיו֙ וַ_יַּ֣ךְ_ אֶת־הָאַ֔יִל וַיְשַׁבֵּר֙ אֶת־שְׁתֵּ֣י קְרָנָ֔יו וְלֹא־הָ֥יָה כֹ֛חַ בָּאַ֖יִל לַעֲמֹ֣ד לְפָנָ֑יו וַיַּשְׁלִיכֵ֤הוּ אַ֨רְצָה֙ וַֽיִּרְמְסֵ֔הוּ וְלֹא־הָיָ֥ה מַצִּ֛יל לָאַ֖יִל מִיָּדֹֽו׃ (Dan. 8:7)
+NIV	I saw him attack the ram furiously, _striking_ the ram and shattering his two horns. The ram was powerless to stand against him. the goat knocked him to the ground and trampled on him, and none could rescue the ram from his power.
+ESV	I saw him come close to the ram, and he was enraged against him and _struck_ the ram and broke his two horns. And the ram had no power to stand before him, but he cast him down to the ground and trampled on him. And there was no one who could rescue the ram from his power.
+
+(x)	וּרְאִיתִ֞יו מַגִּ֣יעַ׀ אֵ֣צֶל הָאַ֗יִל וַיִּתְמַרְמַ֤ר אֵלָיו֙ וַיַּ֣ךְ אֶת־הָאַ֔יִל וַ_יְשַׁבֵּר֙_ אֶת־שְׁתֵּ֣י קְרָנָ֔יו וְלֹא־הָ֥יָה כֹ֛חַ בָּאַ֖יִל לַעֲמֹ֣ד לְפָנָ֑יו וַיַּשְׁלִיכֵ֤הוּ אַ֨רְצָה֙ וַֽיִּרְמְסֵ֔הוּ וְלֹא־הָיָ֥ה מַצִּ֛יל לָאַ֖יִל מִיָּדֹֽו׃ (Dan. 8:7)
+NIV	I saw him attack the ram furiously, striking the ram and _shattering_ his two horns. The ram was powerless to stand against him. the goat knocked him to the ground and trampled on him, and none could rescue the ram from his power.
+ESV	I saw him come close to the ram, and he was enraged against him and struck the ram and _broke_ his two horns. And the ram had no power to stand before him, but he cast him down to the ground and trampled on him. And there was no one who could rescue the ram from his power.
+
+(x)	וַיְהִ֗י בִּרְאֹתִ֛י אֲנִ֥י דָנִיֵּ֖אל אֶת־הֶחָזֹ֑ון וָ_אֲבַקְשָׁ֣ה_ בִינָ֔ה וְהִנֵּ֛ה עֹמֵ֥ד לְנֶגְדִּ֖י כְּמַרְאֵה־גָֽבֶר׃ (Dan. 8:15)
+NIV	While I, Daniel, was watching the vision and _trying_ to understand it, there before me stood one who looked like a man.
+ESV	When I, Daniel, had seen the vision, _I sought_ to understand it. And behold, there stood before me one having the appearance of a man.
+
+(x)	וַיָּ֖בֶן וַ_יְדַבֵּ֣ר_ עִמִּ֑י וַיֹּאמַ֕ר דָּנִיֵּ֕אל עַתָּ֥ה יָצָ֖אתִי לְהַשְׂכִּילְךָ֥ בִינָֽה׃ (Dan. 9:22)
+NIV	He instructed me and _said_ to me, “Daniel, I have now come to give you insight and understanding.
+ESV	He made me understand, _speaking_ with me and saying, “O Daniel, I have now come out to give you insight and understanding.
+
+(x)	וְהִנֵּה־יָ֖ד נָ֣גְעָה בִּ֑י וַ_תְּנִיעֵ֥נִי_ עַל־בִּרְכַּ֖י וְכַפֹּ֥ות יָדָֽי׃ (Dan. 10:10)
+NIV	A hand touched me and set me trembling on my hands and knees.
+ESV	And behold, a hand touched me and set me trembling on my hands and knees.
+
+(x)	וָ_אֹמְרָ֗ה_ אֱלֹהַי֙ בֹּ֣שְׁתִּי וְנִכְלַ֔מְתִּי לְהָרִ֧ים אֱלֹהַ֛י פָּנַ֖י אֵלֶ֑יךָ כִּ֣י עֲוֹנֹתֵ֤ינוּ רָבוּ֙ לְמַ֣עְלָה רֹּ֔אשׁ וְאַשְׁמָתֵ֥נוּ גָדְלָ֖ה עַ֥ד לַשָּׁמָֽיִם׃ (Ezra 9:6)
+NIV	and _prayed_: “O my God, I am too ashamed and disgraced to lift up my face to you, my God, because our sins are higher than our heads and our guilt has reached to the heavens.
+ESV	_saying_: “O my God, I am ashamed and blush to lift my face to you, my God, for our iniquities have risen higher than our heads, and our guilt has mounted up to the heavens.
+
+(x)	וְאָמְר֗וּ עַל֩ אֲשֶׁ֨ר עָֽזְב֜וּ אֶת־יְהוָ֣ה׀ אֱלֹהֵ֣י אֲבֹתֵיהֶ֗ם אֲשֶׁ֣ר הֹוצִיאָם֮ מֵאֶ֣רֶץ מִצְרַיִם֒ וַֽיַּחֲזִ֨יקוּ֙ בֵּאלֹהִ֣ים אֲחֵרִ֔ים וַ_יִּשְׁתַּחֲו֥וּ_ לָהֶ֖ם וַיַּֽעַבְד֑וּם עַל־כֵּן֙ הֵבִ֣יא עֲלֵיהֶ֔ם אֵ֥ת כָּל־הָרָעָ֖ה הַזֹּֽאת׃ פ (II Chr. 7:22)
+NIV	People will answer, ‘Because they have forsaken the LORD, the God of their fathers, who brought them out of Egypt, and have embraced other gods, _worshipping_ and serving them — that is why he brought all this disaster on them.’”
+ESV	Then they will say, ‘Because they abandoned the Lord, the God of their fathers who brought them out of the land of Egypt and laid hold on other gods and _worshiped_ them and served them. Therefore he has brought all this disaster on them.’”
+
+(x)	וְאָמְר֗וּ עַל֩ אֲשֶׁ֨ר עָֽזְב֜וּ אֶת־יְהוָ֣ה׀ אֱלֹהֵ֣י אֲבֹתֵיהֶ֗ם אֲשֶׁ֣ר הֹוצִיאָם֮ מֵאֶ֣רֶץ מִצְרַיִם֒ וַֽיַּחֲזִ֨יקוּ֙ בֵּאלֹהִ֣ים אֲחֵרִ֔ים וַיִּשְׁתַּחֲו֥וּ לָהֶ֖ם וַ_יַּֽעַבְד֑וּם_ עַל־כֵּן֙ הֵבִ֣יא עֲלֵיהֶ֔ם אֵ֥ת כָּל־הָרָעָ֖ה הַזֹּֽאת׃ פ (II Chr. 7:22)
+NIV	People will answer, ‘Because they have forsaken the LORD, the God of their fathers, who brought them out of Egypt, and have embraced other gods, worshipping and _serving_ them — that is why he brought all this disaster on them.’”
+ESV	Then they will say, ‘Because they abandoned the Lord, the God of their fathers who brought them out of the land of Egypt and laid hold on other gods and worshiped them and _served_ them. Therefore he has brought all this disaster on them.’”
+
+(x)	וַיֵּצֵ֣א הָר֗וּחַ וַֽיַּעֲמֹד֙ לִפְנֵ֣י יְהוָ֔ה וַ_יֹּ֖אמֶר_ אֲנִ֣י אֲפַתֶּ֑נּוּ וַיֹּ֧אמֶר יְהוָ֛ה אֵלָ֖יו בַּמָּֽה׃ (II Chr. 18:20)
+NIV	Finally, a spirit came forward, stood before the LORD and _said_, ‘I will entice him.’ “‘By what means?’ the LORD asked.
+ESV	Then a spirit came forward and stood before the Lord, _saying_, ‘I will entice him.’ And the Lord said to him, ‘By what means?’
+
+(x)	הֲלֹא־הוּא֙ יְחִזְקִיָּ֔הוּ הֵסִ֥יר אֶת־בָּמֹתָ֖יו וְאֶת־מִזְבְּחֹתָ֑יו וַ_יֹּ֨אמֶר_ לִֽיהוּדָ֤ה וְלִֽירוּשָׁלִַ֨ם֙ לֵאמֹ֔ר לִפְנֵ֨י מִזְבֵּ֧חַ אֶחָ֛ד תִּֽשְׁתַּחֲו֖וּ וְעָלָ֥יו תַּקְטִֽירוּ׃ (II Chr. 32:12)
+NIV	Did not Hezekiah himself remove this god’s high places and altars, _saying_ to Judah and Jerusalem, ‘You must worship before one altar and burn sacrifices on it’?
+ESV	Has not this same Hezekiah taken away his high places and his altars and _commanded_ Judah and Jerusalem, “Before one altar you shall worship, and on it you shall burn your sacrifices”?

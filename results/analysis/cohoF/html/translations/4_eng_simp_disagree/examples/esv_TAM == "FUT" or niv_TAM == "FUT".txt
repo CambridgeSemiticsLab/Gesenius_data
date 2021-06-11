@@ -1,0 +1,102 @@
+esv_TAM == "FUT" or niv_TAM == "FUT"
+25 of 61
+
+(x)	וְ_אֶתְּנָ֥ה_ בְרִיתִ֖י בֵּינִ֣י וּבֵינֶ֑ךָ וְאַרְבֶּ֥ה אֹותְךָ֖ בִּמְאֹ֥ד מְאֹֽד׃ (Gen. 17:2)
+NIV	_I will confirm_ my covenant between me and you and will greatly increase your numbers.”
+ESV	that _I may make_ my covenant between me and you, and may multiply you greatly.”
+
+(x)	לְכָ֨ה נַשְׁקֶ֧ה אֶת־אָבִ֛ינוּ יַ֖יִן וְ_נִשְׁכְּבָ֣ה_ עִמֹּ֑ו וּנְחַיֶּ֥ה מֵאָבִ֖ינוּ זָֽרַע׃ (Gen. 19:32)
+NIV	Let’s get our father to drink wine and then _lie_ with him and preserve our family line through our father.”
+ESV	Come, let us make our father drink wine, and _we will lie_ with him, that we may preserve offspring from our father.”
+
+(x)	וַיֹּאמֶר֮ יַעֲקֹב֒ אֱלֹהֵי֙ אָבִ֣י אַבְרָהָ֔ם וֵאלֹהֵ֖י אָבִ֣י יִצְחָ֑ק יְהוָ֞ה הָאֹמֵ֣ר אֵלַ֗י שׁ֧וּב לְאַרְצְךָ֛ וּלְמֹולַדְתְּךָ֖ וְ_אֵיטִ֥יבָה_ עִמָּֽךְ׃ (Gen. 32:10)
+NIV	Then Jacob prayed, “O God of my father Abraham, God of my father Isaac, O LORD, who said to me, ‘Go back to your country and your relatives, and I will make you prosper,’
+ESV	And Jacob said, “O God of my father Abraham and God of my father Isaac, O Lord who said to me, ‘Return to your country and to your kindred, that I may do you good,’
+
+(x)	וְ֠הָבִיאוּ אֶת־אֲחִיכֶ֣ם הַקָּטֹן֮ אֵלַי֒ וְ_אֵֽדְעָ֗ה_ כִּ֣י לֹ֤א מְרַגְּלִים֙ אַתֶּ֔ם כִּ֥י כֵנִ֖ים אַתֶּ֑ם אֶת־אֲחִיכֶם֙ אֶתֵּ֣ן לָכֶ֔ם וְאֶת־הָאָ֖רֶץ תִּסְחָֽרוּ׃ (Gen. 42:34)
+NIV	But bring your youngest brother to me so _I will know_ that you are not spies but honest men. Then I will give your brother back to you, and you can trade in the land.’”
+ESV	Bring your youngest brother to me. Then _I shall know_ that you are not spies but honest men, and I will deliver your brother to you, and you shall trade in the land.’”
+
+(x)	וַיֹּ֨אמֶר יְהוָ֜ה אֶל־מֹשֶׁ֗ה אֱמֹ֤ר אֶל־בְּנֵֽי־יִשְׂרָאֵל֙ אַתֶּ֣ם עַם־קְשֵׁה־עֹ֔רֶף רֶ֧גַע אֶחָ֛ד אֶֽעֱלֶ֥ה בְקִרְבְּךָ֖ וְכִלִּיתִ֑יךָ וְעַתָּ֗ה הֹורֵ֤ד עֶדְיְךָ֙ מֵֽעָלֶ֔יךָ וְ_אֵדְעָ֖ה_ מָ֥ה אֶֽעֱשֶׂה־לָּֽךְ׃ (Exod. 33:5)
+NIV	For the LORD had said to Moses, “Tell the Israelites, ‘You are a stiff-necked people. If I were to go with you even for a moment, I might destroy you. Now take off your ornaments and _I will decide_ what to do with you.’ “
+ESV	For the Lord had said to Moses, “Say to the people of Israel, ‘You are a stiff-necked people. if for a single moment I should go up among you, I would consume you. So now take off your ornaments, that _I may know_ what to do with you.’”
+
+(x)	וַיֹּ֨אמֶר בִּלְעָ֜ם לְבָלָ֗ק הִתְיַצֵּב֮ עַל־עֹלָתֶךָ֒ וְ_אֵֽלְכָ֗ה_ אוּלַ֞י יִקָּרֵ֤ה יְהוָה֙ לִקְרָאתִ֔י וּדְבַ֥ר מַה־יַּרְאֵ֖נִי וְהִגַּ֣דְתִּי לָ֑ךְ וַיֵּ֖לֶךְ שֶֽׁפִי׃ (Num. 23:3)
+NIV	Then Balaam said to Balak, “Stay here beside your offering while _I go_ aside. Perhaps the LORD will come to meet with me. Whatever he reveals to me I will tell you.” Then he went off to a barren height.
+ESV	And Balaam said to Balak, “Stand beside your burnt offering, and _I will go_. Perhaps the Lord will come to meet me, and whatever he shows me I will tell you.” And he went to a bare height,
+
+(x)	כִּֽי־תָבֹ֣א אֶל־הָאָ֗רֶץ אֲשֶׁ֨ר יְהוָ֤ה אֱלֹהֶ֨יךָ֙ נֹתֵ֣ן לָ֔ךְ וִֽירִשְׁתָּ֖הּ וְיָשַׁ֣בְתָּה בָּ֑הּ וְאָמַרְתָּ֗ _אָשִׂ֤ימָה_ עָלַי֙ מֶ֔לֶךְ כְּכָל־הַגֹּויִ֖ם אֲשֶׁ֥ר סְבִיבֹתָֽי׃ (Deut. 17:14)
+NIV	When you enter the land the LORD your God is giving you and have taken possession of it and settled in it, and you say, “_Let us set_ a king over us like all the nations around us,”
+ESV	“When you come to the land that the Lord your God is giving you, and you possess it and dwell in it and then say, ‘_I will set_ a king over me, like all the nations that are around me,’
+
+(x)	הִנֵּה֩ בִתִּ֨י הַבְּתוּלָ֜ה וּפִֽילַגְשֵׁ֗הוּ _אֹוצִֽיאָה_־נָּ֤א אֹותָם֙ וְעַנּ֣וּ אֹותָ֔ם וַעֲשׂ֣וּ לָהֶ֔ם הַטֹּ֖וב בְּעֵינֵיכֶ֑ם וְלָאִ֤ישׁ הַזֶּה֙ לֹ֣א תַעֲשׂ֔וּ דְּבַ֖ר הַנְּבָלָ֥ה הַזֹּֽאת׃ (Judg. 19:24)
+NIV	Look, here is my virgin daughter, and his concubine. I will bring them out to you now, and you can use them and do to them whatever you wish. But to this man, don’t do such a disgraceful thing.”
+ESV	Behold, here are my virgin daughter and his concubine. Let me bring them out now. Violate them and do with them what seems good to you, but against this man do not do this outrageous thing.”
+
+(x)	וַיֹּ֣אמֶר אַבְנֵ֣ר אֶל־דָּוִ֡ד אָק֣וּמָה׀ וְֽ_אֵלֵ֡כָה_ וְאֶקְבְּצָה֩ אֶל־אֲדֹנִ֨י הַמֶּ֜לֶךְ אֶת־כָּל־יִשְׂרָאֵ֗ל וְיִכְרְת֤וּ אִתְּךָ֙ בְּרִ֔ית וּמָ֣לַכְתָּ֔ בְּכֹ֥ל אֲשֶׁר־תְּאַוֶּ֖ה נַפְשֶׁ֑ךָ וַיְּשַׁלַּ֥ח דָּוִ֛ד אֶת־אַבְנֵ֖ר וַיֵּ֥לֶךְ בְּשָׁלֹֽום׃ (II Sam. 3:21)
+NIV	Then Abner said to David, “_Let me go_ at once and assemble all Israel for my lord the king, so that they may make a compact with you, and that you may rule over all that your heart desires.” So David sent Abner away, and he went in peace.
+ESV	And Abner said to David, “I will arise and _go_ and will gather all Israel to my lord the king, that they may make a covenant with you, and that you may reign over all that your heart desires.” So David sent Abner away, and he went in peace.
+
+(x)	וְהִנֵּה֩ קָ֨מָה כָֽל־הַמִּשְׁפָּחָ֜ה עַל־שִׁפְחָתֶ֗ךָ וַיֹּֽאמְרוּ֙ תְּנִ֣י׀ אֶת־מַכֵּ֣ה אָחִ֗יו וּנְמִתֵ֨הוּ֙ בְּנֶ֤פֶשׁ אָחִיו֙ אֲשֶׁ֣ר הָרָ֔ג וְ_נַשְׁמִ֖ידָה_ גַּ֣ם אֶת־הַיֹּורֵ֑שׁ וְכִבּ֗וּ אֶת־גַּֽחַלְתִּי֙ אֲשֶׁ֣ר נִשְׁאָ֔רָה לְבִלְתִּ֧י שִׂים־לְאִישִׁ֛י שֵׁ֥ם וּשְׁאֵרִ֖ית עַל־פְּנֵ֥י הָאֲדָמָֽה׃ פ (II Sam. 14:7)
+NIV	Now the whole clan has risen up against your servant. they say, ‘Hand over the one who struck his brother down, so that we may put him to death for the life of his brother whom he killed. then _we will get rid of_ the heir as well.’ They would put out the only burning coal I have left, leaving my husband neither name nor descendant on the face of the earth.”
+ESV	And now the whole clan has risen against your servant, and they say, ‘Give up the man who struck his brother, that we may put him to death for the life of his brother whom he killed.’ And so they _would destroy_ the heir also. Thus they would quench my coal that is left and leave to my husband neither name nor remnant on the face of the earth.”
+
+(x)	וַיֹּאמַ֕ר אֲדֹנִ֥י הַמֶּ֖לֶךְ עַבְדִּ֣י רִמָּ֑נִי כִּֽי־אָמַ֨ר עַבְדְּךָ֜ _אֶחְבְּשָׁה_־לִּי֩ הַחֲמֹ֨ור וְאֶרְכַּ֤ב עָלֶ֨יהָ֙ וְאֵלֵ֣ךְ אֶת־הַמֶּ֔לֶךְ כִּ֥י פִסֵּ֖חַ עַבְדֶּֽךָ׃ (II Sam. 19:27)
+NIV	He said, “My lord the king, since I your servant am lame, I said, ‘I will have my donkey saddled and will ride on it, so that I can go with the king.’ But Ziba my servant betrayed me.
+ESV	He answered, “My lord, O king, my servant deceived me, for your servant said to him, ‘_I will saddle_ a donkey for myself, that I may ride on it and go with the king.’ For your servant is lame.
+
+(x)	הַגִּ֨ידוּ֙ הָאֹתִיֹּ֣ות לְאָחֹ֔ור וְנֵ֣דְעָ֔ה כִּ֥י אֱלֹהִ֖ים אַתֶּ֑ם אַף־תֵּיטִ֣יבוּ וְתָרֵ֔עוּ וְ_נִשְׁתָּ֖עָה_ וְנִרְאֶ֥ה יַחְדָּֽו׃ (Isa. 41:23)
+NIV	tell us what the future holds, so that we may know you are gods. Do something, whether good or bad, so that _we will be dismayed_ and filled with fear.
+ESV	Tell us what is to come hereafter, that we may know that you are gods. do good, or do harm, that _we may be dismayed_ and terrified.
+
+(x)	כִּ֣י שָׁמַ֜עְתִּי דִּבַּ֣ת רַבִּים֮ מָגֹ֣ור מִסָּבִיב֒ הַגִּ֨ידוּ֙ וְנַגִּידֶ֔נּוּ כֹּ֚ל אֱנֹ֣ושׁ שְׁלֹומִ֔י שֹׁמְרֵ֖י צַלְעִ֑י אוּלַ֤י יְפֻתֶּה֙ וְנ֣וּכְלָה לֹ֔ו וְ_נִקְחָ֥ה_ נִקְמָתֵ֖נוּ מִמֶּֽנּוּ׃ (Jer. 20:10)
+NIV	I hear many whispering, “Terror on every side! Report him! Let’s report him!” All my friends are waiting for me to slip, saying, “Perhaps he will be deceived. then we will prevail over him and _take_ our revenge on him.”
+ESV	For I hear many whispering. Terror is on every side! “Denounce him! Let us denounce him!” say all my close friends, watching for my fall. “Perhaps he will be deceived. then we can overcome him and _take_ our revenge on him.”
+
+(x)	קְח֤וּ עִמָּכֶם֙ דְּבָרִ֔ים וְשׁ֖וּבוּ אֶל־יְהוָ֑ה אִמְר֣וּ אֵלָ֗יו כָּל־תִּשָּׂ֤א עָוֹן֙ וְקַח־טֹ֔וב וּֽ_נְשַׁלְּמָ֥ה_ פָרִ֖ים שְׂפָתֵֽינוּ׃ (Hos. 14:3)
+NIV	Take words with you and return to the LORD. Say to him: “Forgive all our sins and receive us graciously, that _we may offer_ the fruit of our lips.
+ESV	Take with you words and return to the Lord. say to him, “Take away all iniquity. accept what is good, and _we will pay_ with bulls the vows of our lips.
+
+(x)	אֲנִ֗י בְּ֭צֶדֶק אֶחֱזֶ֣ה פָנֶ֑יךָ _אֶשְׂבְּעָ֥ה_ בְ֝הָקִ֗יץ תְּמוּנָתֶֽךָ׃ (Psa. 17:15)
+NIV	And I — in righteousness I will see your face. when I awake, _I will be satisfied_ with seeing your likeness.
+ESV	As for me, I shall behold your face in righteousness. when I awake, _I shall be satisfied_ with your likeness.
+
+(x)	רַבֹּ֤ות עָשִׂ֨יתָ׀ אַתָּ֤ה׀ יְהוָ֣ה אֱלֹהַי֮ נִֽפְלְאֹתֶ֥יךָ וּמַחְשְׁבֹתֶ֗יךָ אֵ֫לֵ֥ינוּ אֵ֤ין׀ עֲרֹ֬ךְ אֵלֶ֗יךָ אַגִּ֥ידָה וַ_אֲדַבֵּ֑רָה_ עָ֝צְמ֗וּ מִסַּפֵּֽר׃ (Psa. 40:6)
+NIV	Many, O LORD my God, are the wonders you have done. The things you planned for us no one can recount to you. were I to speak and _tell_ of them, they would be too many to declare.
+ESV	You have multiplied, O Lord my God, your wondrous deeds and your thoughts toward us. none can compare with you! I will proclaim and _tell_ of them, yet they are more than can be told.
+
+(x)	עֻ֭זֹּו אֵלֶ֣יךָ _אֶשְׁמֹ֑רָה_ כִּֽי־אֱ֝לֹהִ֗ים מִשְׂגַּבִּֽי׃ (Psa. 59:10)
+NIV	O my Strength, _I watch_ for you. you, O God, are my fortress,
+ESV	O my Strength, _I will watch_ for you, for you, O God, are my fortress.
+
+(x)	שְׁמַ֣ע עַ֭מִּי וְ_אָעִ֣ידָה_ בָּ֑ךְ יִ֝שְׂרָאֵ֗ל אִם־תִּֽשְׁמַֽע־לִֽי׃ (Psa. 81:9)
+NIV	“Hear, O my people, and _I will warn_ you — if you would but listen to me, O Israel!
+ESV	Hear, O my people, while _I admonish_ you! O Israel, if you would but listen to me!
+
+(x)	בְּפִקֻּדֶ֥יךָ _אָשִׂ֑יחָה_ וְ֝אַבִּ֗יטָה אֹרְחֹתֶֽיךָ׃ (Psa. 119:15)
+NIV	_I meditate_ on your precepts and consider your ways.
+ESV	_I will meditate_ on your precepts and fix my eyes on your ways.
+
+(x)	הֲ֭בִינֵנִי וְ_אֶצְּרָ֥ה_ תֹֽורָתֶ֗ךָ וְאֶשְׁמְרֶ֥נָּה בְכָל־לֵֽב׃ (Psa. 119:34)
+NIV	Give me understanding, and _I will keep_ your law and obey it with all my heart.
+ESV	Give me understanding, that _I may keep_ your law and observe it with my whole heart.
+
+(x)	וְאֶשָּֽׂא־כַפַּ֗י אֶֽל־מִ֭צְוֹתֶיךָ אֲשֶׁ֥ר אָהָ֗בְתִּי וְ_אָשִׂ֥יחָה_ בְחֻקֶּֽיךָ׃ (Psa. 119:48)
+NIV	I lift up my hands to your commands, which I love, and _I meditate_ on your decrees.
+ESV	I will lift up my hands toward your commandments, which I love, and _I will meditate_ on your statutes.
+
+(x)	קְרָאתִ֥יךָ הֹושִׁיעֵ֑נִי וְ֝_אֶשְׁמְרָ֗ה_ עֵדֹתֶֽיךָ׃ (Psa. 119:146)
+NIV	I call out to you. save me and _I will keep_ your statutes.
+ESV	I call to you. save me, that _I may observe_ your testimonies.
+
+(x)	אֲחַוְךָ֥ שְֽׁמַֽע־לִ֑י וְזֶֽה־חָ֝זִ֗יתִי וַ_אֲסַפֵּֽרָה_׃ (Job 15:17)
+NIV	“Listen to me and I will explain to you. _let me tell_ you what I have seen,
+ESV	“I will show you. hear me, and what I have seen _I will declare_
+
+(x)	וַאֲנִ֨י אָמַ֜רְתִּי אֶגְלֶ֧ה אָזְנְךָ֣ לֵאמֹ֗ר קְ֠נֵה נֶ֥גֶד הַֽיֹּשְׁבִים֮ וְנֶ֣גֶד זִקְנֵ֣י עַמִּי֒ אִם־תִּגְאַל֙ גְּאָ֔ל וְאִם־לֹ֨א יִגְאַ֜ל הַגִּ֣ידָה לִּ֗י וְאֵֽדְעָה֙ כִּ֣י אֵ֤ין זוּלָֽתְךָ֙ לִגְאֹ֔ול וְאָנֹכִ֖י אַחֲרֶ֑יךָ וַיֹּ֖אמֶר אָנֹכִ֥י אֶגְאָֽל׃ (Ruth 4:4)
+NIV	I thought I should bring the matter to your attention and suggest that you buy it in the presence of these seated here and in the presence of the elders of my people. If you will redeem it, do so. But if you will not, tell me, so _I will know_. For no-one has the right to do it except you, and I am next in line.” “I will redeem it,” he said.
+ESV	So I thought I would tell you of it and say, ‘Buy it in the presence of those sitting here and in the presence of the elders of my people.’ If you will redeem it, redeem it. But if you will not, tell me, that _I may know_, for there is no one besides you to redeem it, and I come after you.” And he said, “I will redeem it.”
+
+(x)	כָּל־זֹ֖ה נִסִּ֣יתִי בַֽחָכְמָ֑ה אָמַ֣רְתִּי _אֶחְכָּ֔מָה_ וְהִ֖יא רְחֹוקָ֥ה מִמֶּֽנִּי׃ (Eccl. 7:23)
+NIV	All this I tested by wisdom and I said, “_I am determined to be wise_” — but this was beyond me.
+ESV	All this I have tested by wisdom. I said, “_I will be wise_,” but it was far from me.

@@ -1,0 +1,42 @@
+eng_TAMsimp == "PAST ~ TO INF"
+10 of 78
+
+(x)	וַיָּ֥חֶל נֹ֖חַ אִ֣ישׁ הָֽאֲדָמָ֑ה וַ_יִּטַּ֖ע_ כָּֽרֶם׃ (Gen. 9:20)
+NIV	Noah, a man of the soil, proceeded to _plant_ a vineyard.
+ESV	Noah began to be a man of the soil, and _he planted_ a vineyard.
+
+(x)	וּלְכֹהֵ֥ן מִדְיָ֖ן שֶׁ֣בַע בָּנֹ֑ות וַתָּבֹ֣אנָה וַ_תִּדְלֶ֗נָה_ וַתְּמַלֶּ֨אנָה֙ אֶת־הָ֣רְהָטִ֔ים לְהַשְׁקֹ֖ות צֹ֥אן אֲבִיהֶֽן׃ (Exod. 2:16)
+NIV	Now a priest of Midian had seven daughters, and they came to _draw water_ and fill the troughs to water their father’s flock.
+ESV	Now the priest of Midian had seven daughters, and they came and _drew water_ and filled the troughs to water their father’s flock.
+
+(x)	וּבְנֵ֣י קֵינִי֩ חֹתֵ֨ן מֹשֶׁ֜ה עָל֨וּ מֵעִ֤יר הַתְּמָרִים֙ אֶת־בְּנֵ֣י יְהוּדָ֔ה מִדְבַּ֣ר יְהוּדָ֔ה אֲשֶׁ֖ר בְּנֶ֣גֶב עֲרָ֑ד וַיֵּ֖לֶךְ וַ_יֵּ֥שֶׁב_ אֶת־הָעָֽם׃ (Judg. 1:16)
+NIV	The descendants of Moses’ father-in-law, the Kenite, went up from the City of Palms with the men of Judah to _live_ among the people of the Desert of Judah in the Negev near Arad.
+ESV	And the descendants of the Kenite, Moses’ father-in-law, went up with the people of Judah from the city of palms into the wilderness of Judah, which lies in the Negeb near Arad, and they went and _settled_ with the people.
+
+(x)	וַ_תְּיַשְּׁנֵ֨הוּ֙_ עַל־בִּרְכֶּ֔יהָ וַתִּקְרָ֣א לָאִ֔ישׁ וַתְּגַלַּ֕ח אֶת־שֶׁ֖בַע מַחְלְפֹ֣ות רֹאשֹׁ֑ו וַתָּ֨חֶל֙ לְעַנֹּותֹ֔ו וַיָּ֥סַר כֹּחֹ֖ו מֵעָלָֽיו׃ (Judg. 16:19)
+NIV	Having put him to sleep on her lap, she called a man to shave off the seven braids of his hair, and so began to subdue him. And his strength left him.
+ESV	She made him sleep on her knees. And she called a man and had him shave off the seven locks of his head. Then she began to torment him, and his strength left him.
+
+(x)	וַֽיִּמְצְא֤וּ אִישׁ־מִצְרִי֙ בַּשָּׂדֶ֔ה וַיִּקְח֥וּ אֹתֹ֖ו אֶל־דָּוִ֑ד וַיִּתְּנוּ־לֹ֥ו לֶ֨חֶם֙ וַיֹּ֔אכַל וַ_יַּשְׁקֻ֖הוּ_ מָֽיִם׃ (I Sam. 30:11)
+NIV	They found an Egyptian in a field and brought him to David. They gave him water to _drink_ and food to eat —
+ESV	They found an Egyptian in the open country and brought him to David. And they gave him bread and he ate. They gave him water to drink,
+
+(x)	וַיִּפֹּל֩ יֹואָ֨ב אֶל־פָּנָ֥יו אַ֛רְצָה וַ_יִּשְׁתַּ֖חוּ_ וַיְבָ֣רֶךְ אֶת־הַמֶּ֑לֶךְ וַיֹּ֣אמֶר יֹואָ֡ב הַיֹּום֩ יָדַ֨ע עַבְדְּךָ֜ כִּי־מָצָ֨אתִי חֵ֤ן בְּעֵינֶ֨יךָ֙ אֲדֹנִ֣י הַמֶּ֔לֶךְ אֲשֶׁר־עָשָׂ֥ה הַמֶּ֖לֶךְ אֶת־דְּבַ֥ר עַבְדֶּֽךָ׃ (II Sam. 14:22)
+NIV	Joab fell with his face to the ground to pay him honour, and he blessed the king. Joab said, “Today your servant knows that he has found favour in your eyes, my lord the king, because the king has granted his servant’s request.”
+ESV	And Joab fell on his face to the ground and _paid homage_ and blessed the king. And Joab said, “Today your servant knows that I have found favor in your sight, my lord the king, in that the king has granted the request of his servant.”
+
+(x)	וְהָאֲנָשִׁים֩ יְנַחֲשׁ֨וּ וַֽיְמַהֲר֜וּ וַ_יַּחְלְט֣וּ_ הֲמִמֶּ֗נּוּ וַיֹּֽאמְרוּ֙ אָחִ֣יךָ בֶן־הֲדַ֔ד וַיֹּ֖אמֶר בֹּ֣אוּ קָחֻ֑הוּ וַיֵּצֵ֤א אֵלָיו֙ בֶּן־הֲדַ֔ד וַֽיַּעֲלֵ֖הוּ עַל־הַמֶּרְכָּבָֽה׃ (I Kgs. 20:33)
+NIV	The men took this as a good sign and were quick to _pick up_ his word. “Yes, your brother Ben-hadad!” they said. “Go and get him,” the king said. When Ben-hadad came out, Ahab had him come up into his chariot.
+ESV	Now the men were watching for a sign, and they quickly took it up from him and said, “Yes, your brother Ben-hadad.” Then he said, “Go and bring him.” Then Ben-hadad came out to him, and he caused him to come up into the chariot.
+
+(x)	אֶת־מִ֤י נֹועָץ֙ וַ_יְבִינֵ֔הוּ_ וַֽיְלַמְּדֵ֖הוּ בְּאֹ֣רַח מִשְׁפָּ֑ט וַיְלַמְּדֵ֣הוּ דַ֔עַת וְדֶ֥רֶךְ תְּבוּנֹ֖ות יֹודִיעֶֽנּוּ׃ (Isa. 40:14)
+NIV	Whom did the LORD consult to _enlighten_ him, and who taught him the right way? Who was it that taught him knowledge or showed him the path of understanding?
+ESV	Whom did he consult, and who made him understand? Who taught him the path of justice, and taught him knowledge, and showed him the way of understanding?
+
+(x)	וַיָּקָם֩ יֵשׁ֨וּעַ בֶּן־יֹֽוצָדָ֜ק וְאֶחָ֣יו הַכֹּהֲנִ֗ים וּזְרֻבָּבֶ֤ל בֶּן־שְׁאַלְתִּיאֵל֙ וְאֶחָ֔יו וַ_יִּבְנ֕וּ_ אֶת־מִזְבַּ֖ח אֱלֹהֵ֣י יִשְׂרָאֵ֑ל לְהַעֲלֹ֤ות עָלָיו֙ עֹלֹ֔ות כַּכָּת֕וּב בְּתֹורַ֖ת מֹשֶׁ֥ה אִישׁ־הָאֱלֹהִֽים׃ (Ezra 3:2)
+NIV	Then Jeshua son of Jozadak and his fellow priests and Zerubbabel son of Shealtiel and his associates began to _build_ the altar of the God of Israel to sacrifice burnt offerings on it, in accordance with what is written in the Law of Moses the man of God.
+ESV	Then arose Jeshua the son of Jozadak, with his fellow priests, and Zerubbabel the son of Shealtiel with his kinsmen, and _they built_ the altar of the God of Israel, to offer burnt offerings on it, as it is written in the Law of Moses the man of God.
+
+(x)	וּבִשְׁנַ֣ת אַחַ֗ת לְכֹ֨ורֶשׁ֙ מֶ֣לֶךְ פָּרַ֔ס לִכְלֹ֥ות דְּבַר־יְהוָ֖ה בְּפִ֣י יִרְמְיָ֑הוּ הֵעִ֣יר יְהוָ֗ה אֶת־ר֨וּחַ֙ כֹּ֣ורֶשׁ מֶֽלֶךְ־פָּרַ֔ס וַ_יַּֽעֲבֶר_־קֹול֙ בְּכָל־מַלְכוּתֹ֔ו וְגַם־בְּמִכְתָּ֖ב לֵאמֹֽר׃ ס (II Chr. 36:22)
+NIV	In the first year of Cyrus king of Persia, in order to fulfil the word of the LORD spoken by Jeremiah, the LORD moved the heart of Cyrus king of Persia to _make_ a proclamation throughout his realm and to put it in writing:
+ESV	Now in the first year of Cyrus king of Persia, that the word of the Lord by the mouth of Jeremiah might be fulfilled, the Lord stirred up the spirit of Cyrus king of Persia, so that _he made_ a proclamation throughout all his kingdom and also put it in writing:

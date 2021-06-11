@@ -1,0 +1,66 @@
+eng_TAMsimp == "PRES" and lex.isin(["ישׁב", "ירא", "ידע", "מלא"])
+16 of 16
+
+(x)	וַיֹּ֤אמֶר יְהוָה֙ אֶל־מֹשֶׁ֔ה גַּ֣ם אֶת־הַדָּבָ֥ר הַזֶּ֛ה אֲשֶׁ֥ר דִּבַּ֖רְתָּ אֶֽעֱשֶׂ֑ה כִּֽי־מָצָ֤אתָ חֵן֙ בְּעֵינַ֔י וָ_אֵדָעֲךָ֖_ בְּשֵֽׁם׃ (Exod. 33:17)
+NIV	And the LORD said to Moses, “I will do the very thing you have asked, because I am pleased with you and _I know_ you by name.”
+ESV	And the Lord said to Moses, “This very thing that you have spoken I will do, for you have found favor in my sight, and _I know_ you by name.”
+
+(x)	וְלֹ֤א הֹורִ֨ישׁוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל אֶת־הַגְּשׁוּרִ֖י וְאֶת־הַמַּעֲכָתִ֑י וַ_יֵּ֨שֶׁב_ גְּשׁ֤וּר וּמַֽעֲכָת֙ בְּקֶ֣רֶב יִשְׂרָאֵ֔ל עַ֖ד הַיֹּ֥ום הַזֶּֽה׃ (Josh. 13:13)
+NIV	But the Israelites did not drive out the people of Geshur and Maacah, so _they continue to live_ among the Israelites to this day.
+ESV	Yet the people of Israel did not drive out the Geshurites or the Maacathites, but Geshur and Maacath _dwell_ in the midst of Israel to this day.
+
+(x)	וָאֶתֵּ֨ן לָכֶ֜ם אֶ֣רֶץ׀ אֲשֶׁ֧ר לֹֽא־יָגַ֣עְתָּ בָּ֗הּ וְעָרִים֙ אֲשֶׁ֣ר לֹא־בְנִיתֶ֔ם וַ_תֵּשְׁב֖וּ_ בָּהֶ֑ם כְּרָמִ֤ים וְזֵיתִים֙ אֲשֶׁ֣ר לֹֽא־נְטַעְתֶּ֔ם אַתֶּ֖ם אֹכְלִֽים׃ (Josh. 24:13)
+NIV	So I gave you a land on which you did not toil and cities you did not build. and _you live_ in them and eat from vineyards and olive groves that you did not plant.’
+ESV	I gave you a land on which you had not labored and cities that you had not built, and _you dwell_ in them. You eat the fruit of vineyards and olive orchards that you did not plant.’
+
+(x)	וַיָּ֣קֶם יְהוָ֔ה אֶת־דְּבָרֹ֖ו אֲשֶׁ֣ר דִּבֵּ֑ר וָאָקֻ֡ם תַּחַת֩ דָּוִ֨ד אָבִ֜י וָ_אֵשֵׁ֣ב_ עַל־כִּסֵּ֣א יִשְׂרָאֵ֗ל כַּֽאֲשֶׁר֙ דִּבֶּ֣ר יְהוָ֔ה וָאֶבְנֶ֣ה הַבַּ֔יִת לְשֵׁ֥ם יְהוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃ (I Kgs. 8:20)
+NIV	“The LORD has kept the promise he made: I have succeeded David my father and now _I sit_ on the throne of Israel, just as the LORD promised, and I have built the temple for the Name of the LORD, the God of Israel.
+ESV	Now the Lord has fulfilled his promise that he made. For I have risen in the place of David my father, and _sit_ on the throne of Israel, as the Lord promised, and I have built the house for the name of the Lord, the God of Israel.
+
+(x)	וַ_תִּמָּלֵ֤א_ אַרְצֹו֙ כֶּ֣סֶף וְזָהָ֔ב וְאֵ֥ין קֵ֖צֶה לְאֹצְרֹתָ֑יו וַ_תִּמָּלֵ֤א_ אַרְצֹו֙ סוּסִ֔ים וְאֵ֥ין קֵ֖צֶה לְמַרְכְּבֹתָֽיו׃ (Isa. 2:7)
+NIV	Their land _is full of_ silver and gold. there is no end to their treasures. Their land _is full of_ horses. there is no end to the chariots.
+ESV	Their land _is filled_ with silver and gold, and there is no end to their treasures. their land _is filled_ with horses, and there is no end to their chariots.
+
+(x)	וַ_תִּמָּלֵ֤א_ אַרְצֹו֙ כֶּ֣סֶף וְזָהָ֔ב וְאֵ֥ין קֵ֖צֶה לְאֹצְרֹתָ֑יו וַ_תִּמָּלֵ֤א_ אַרְצֹו֙ סוּסִ֔ים וְאֵ֥ין קֵ֖צֶה לְמַרְכְּבֹתָֽיו׃ (Isa. 2:7)
+NIV	Their land _is full of_ silver and gold. there is no end to their treasures. Their land _is full of_ horses. there is no end to the chariots.
+ESV	Their land _is filled_ with silver and gold, and there is no end to their treasures. their land _is filled_ with horses, and there is no end to their chariots.
+
+(x)	וַ_תִּמָּלֵ֥א_ אַרְצֹ֖ו אֱלִילִ֑ים לְמַעֲשֵׂ֤ה יָדָיו֙ יִֽשְׁתַּחֲו֔וּ לַאֲשֶׁ֥ר עָשׂ֖וּ אֶצְבְּעֹתָֽיו׃ (Isa. 2:8)
+NIV	Their land _is full of_ idols. they bow down to the work of their hands, to what their fingers have made.
+ESV	Their land _is filled_ with idols. they bow down to the work of their hands, to what their own fingers have made.
+
+(x)	וַאדֹנָ֤י יְהוִה֙ יַֽעֲזָר־לִ֔י עַל־כֵּ֖ן לֹ֣א נִכְלָ֑מְתִּי עַל־כֵּ֞ן שַׂ֤מְתִּי פָנַי֙ כַּֽחַלָּמִ֔ישׁ וָ_אֵדַ֖ע_ כִּי־לֹ֥א אֵבֹֽושׁ׃ (Isa. 50:7)
+NIV	Because the Sovereign LORD helps me, I will not be disgraced. Therefore have I set my face like flint, and _I know_ I will not be put to shame.
+ESV	But the Lord God helps me. therefore I have not been disgraced. therefore I have set my face like a flint, and _I know_ that I shall not be put to shame.
+
+(x)	אָנֹכִ֧י אָנֹכִ֛י ה֖וּא מְנַחֶמְכֶ֑ם מִֽי־אַ֤תְּ וַ_תִּֽירְאִי֙_ מֵאֱנֹ֣ושׁ יָמ֔וּת וּמִבֶּן־אָדָ֖ם חָצִ֥יר יִנָּתֵֽן׃ (Isa. 51:12)
+NIV	“I, even I, am he who comforts you. Who are you that _you fear_ mortal men, the sons of men, who are but grass,
+ESV	“I, I am he who comforts you. who are you that _you are afraid_ of man who dies, of the son of man who is made like grass,
+
+(x)	וַיֹּ֣אמֶר אֵלַ֗י עֲוֹ֨ן בֵּֽית־יִשְׂרָאֵ֤ל וִֽיהוּדָה֙ גָּדֹול֙ בִּמְאֹ֣ד מְאֹ֔ד וַ_תִּמָּלֵ֤א_ הָאָ֨רֶץ֙ דָּמִ֔ים וְהָעִ֖יר מָלְאָ֣ה מֻטֶּ֑ה כִּ֣י אָמְר֗וּ עָזַ֤ב יְהוָה֙ אֶת־הָאָ֔רֶץ וְאֵ֥ין יְהוָ֖ה רֹאֶֽה׃ (Ezek. 9:9)
+NIV	He answered me, “The sin of the house of Israel and Judah is exceedingly great. the land _is full of_ bloodshed and the city _is full of_ injustice. They say, ‘The LORD has forsaken the land. the LORD does not see.’
+ESV	Then he said to me, “The guilt of the house of Israel and Judah is exceedingly great. The land _is full_ of blood, and the city full of injustice. For they say, ‘The Lord has forsaken the land, and the Lord does not see.’
+
+(x)	יְ֭הוָה לַמַּבּ֣וּל יָשָׁ֑ב וַ_יֵּ֥שֶׁב_ יְ֝הוָ֗ה מֶ֣לֶךְ לְעֹולָֽם׃ (Psa. 29:10)
+NIV	The LORD sits enthroned over the flood. the LORD _is enthroned_ as King forever.
+ESV	The Lord _sits enthroned_ over the flood. the Lord _sits enthroned_ as king forever.
+
+(x)	וַ_יִּ֤ירְא֨וּ_׀ יֹשְׁבֵ֣י קְ֭צָוֹת מֵאֹותֹתֶ֑יךָ מֹ֤וצָֽאֵי־בֹ֖קֶר וָעֶ֣רֶב תַּרְנִֽין׃ (Psa. 65:9)
+NIV	Those living far away _fear_ your wonders. where morning dawns and evening fades you call forth songs of joy.
+ESV	so that those who dwell at the ends of the earth _are in awe_ at your signs. You make the going out of the morning and the evening to shout for joy.
+
+(x)	יְֽהוָ֗ה מָה־אָ֭דָם וַ_תֵּדָעֵ֑הוּ_ בֶּן־אֱ֝נֹ֗ושׁ וַֽתְּחַשְּׁבֵֽהוּ׃ (Psa. 144:3)
+NIV	O LORD, what is man that _you care for_ him, the son of man that you think of him?
+ESV	O Lord, what is man that _you regard_ him, or the son of man that you think of him?
+
+(x)	כִּֽי־עַ֭תָּה הֱיִ֣יתֶם לֹ֑ו תִּֽרְא֥וּ חֲ֝תַ֗ת וַ_תִּירָֽאוּ_׃ (Job 6:21)
+NIV	Now you too have proved to be of no help. you see something dreadful and _are afraid_.
+ESV	For you have now become nothing. you see my calamity and _are afraid_.
+
+(x)	לֹֽא־יִגְרַ֥ע מִצַּדִּ֗יק עֵ֫ינָ֥יו וְאֶת־מְלָכִ֥ים לַכִּסֵּ֑א וַ_יֹּשִׁיבֵ֥ם_ לָ֝נֶ֗צַח וַיִּגְבָּֽהוּ׃ (Job 36:7)
+NIV	He does not take his eyes off the righteous. _he enthrones_ them with kings and exalts them forever.
+ESV	He does not withdraw his eyes from the righteous, but with kings on the throne _he sets_ them forever, and they are exalted.
+
+(x)	וַיָּ֣קֶם יְהוָ֔ה אֶת־דְּבָרֹ֖ו אֲשֶׁ֣ר דִּבֵּ֑ר וָאָק֡וּם תַּחַת֩ דָּוִ֨יד אָבִ֜י וָ_אֵשֵׁ֣ב_׀ עַל־כִּסֵּ֣א יִשְׂרָאֵ֗ל כַּאֲשֶׁר֙ דִּבֶּ֣ר יְהוָ֔ה וָאֶבְנֶ֣ה הַבַּ֔יִת לְשֵׁ֥ם יְהוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃ (II Chr. 6:10)
+NIV	“The LORD has kept the promise he made. I have succeeded David my father and now _I sit_ on the throne of Israel, just as the LORD promised, and I have built the temple for the Name of the LORD, the God of Israel.
+ESV	Now the Lord has fulfilled his promise that he made. For I have risen in the place of David my father and _sit_ on the throne of Israel, as the Lord promised, and I have built the house for the name of the Lord, the God of Israel.

@@ -1,0 +1,102 @@
+eng_TAMsimp == "PAST" and lex == "עלה"
+25 of 197
+
+(x)	וַיִּ֥בֶן נֹ֛חַ מִזְבֵּ֖חַ לַֽיהוָ֑ה וַיִּקַּ֞ח מִכֹּ֣ל׀ הַבְּהֵמָ֣ה הַטְּהֹורָ֗ה וּמִכֹּל֙ הָעֹ֣וף הַטָּהֹ֔ר וַ_יַּ֥עַל_ עֹלֹ֖ת בַּמִּזְבֵּֽחַ׃ (Gen. 8:20)
+NIV	Then Noah built an altar to the LORD and, taking some of all the clean animals and clean birds, _he sacrificed_ burnt offerings on it.
+ESV	Then Noah built an altar to the Lord and took some of every clean animal and some of every clean bird and _offered_ burnt offerings on the altar.
+
+(x)	וַיִּרְבּוּ֙ הַיָּמִ֔ים וַתָּ֖מָת בַּת־שׁ֣וּעַ אֵֽשֶׁת־יְהוּדָ֑ה וַיִּנָּ֣חֶם יְהוּדָ֗ה וַ_יַּ֜עַל_ עַל־גֹּֽזֲזֵ֤י צֹאנֹו֙ ה֗וּא וְחִירָ֛ה רֵעֵ֥הוּ הָעֲדֻלָּמִ֖י תִּמְנָֽתָה׃ (Gen. 38:12)
+NIV	After a long time Judah’s wife, the daughter of Shua, died. When Judah had recovered from his grief, _he went up_ to Timnah, to the men who were shearing his sheep, and his friend Hirah the Adullamite went with him.
+ESV	In the course of time the wife of Judah, Shua’s daughter, died. When Judah was comforted, _he went up_ to Timnah to his sheepshearers, he and his friend Hirah the Adullamite.
+
+(x)	וַיַּֽעֲשׂוּ־כֵ֥ן הַֽחֲרְטֻמִּ֖ים בְּלָטֵיהֶ֑ם וַ_יַּעֲל֥וּ_ אֶת־הַֽצְפַרְדְּעִ֖ים עַל־אֶ֥רֶץ מִצְרָֽיִם׃ (Exod. 8:3)
+NIV	But the magicians did the same things by their secret arts. they also made frogs come up on the land of Egypt.
+ESV	But the magicians did the same by their secret arts and made frogs come up on the land of Egypt.
+
+(x)	וַ_יַּ֥עַל_ מֹשֶׁ֖ה אֶל־הָהָ֑ר וַיְכַ֥ס הֶעָנָ֖ן אֶת־הָהָֽר׃ (Exod. 24:15)
+NIV	When Moses _went up_ on the mountain, the cloud covered it,
+ESV	Then Moses _went up_ on the mountain, and the cloud covered the mountain.
+
+(x)	וַ_יֵּעָל֗וּ_ מֵעַ֧ל מִשְׁכַּן־קֹ֛רֶח דָּתָ֥ן וַאֲבִירָ֖ם מִסָּבִ֑יב וְדָתָ֨ן וַאֲבִירָ֜ם יָצְא֣וּ נִצָּבִ֗ים פֶּ֚תַח אָֽהֳלֵיהֶ֔ם וּנְשֵׁיהֶ֥ם וּבְנֵיהֶ֖ם וְטַפָּֽם׃ (Num. 16:27)
+NIV	So _they moved away_ from the tents of Korah, Dathan and Abiram. Dathan and Abiram had come out and were standing with their wives, children and little ones at the entrances to their tents.
+ESV	So _they got away_ from the dwelling of Korah, Dathan, and Abiram. And Dathan and Abiram came out and stood at the door of their tents, together with their wives, their sons, and their little ones.
+
+(x)	וַ_יַּעַל֩_ אַהֲרֹ֨ן הַכֹּהֵ֜ן אֶל־הֹ֥ר הָהָ֛ר עַל־פִּ֥י יְהוָ֖ה וַיָּ֣מָת שָׁ֑ם בִּשְׁנַ֣ת הָֽאַרְבָּעִ֗ים לְצֵ֤את בְּנֵֽי־יִשְׂרָאֵל֙ מֵאֶ֣רֶץ מִצְרַ֔יִם בַּחֹ֥דֶשׁ הַחֲמִישִׁ֖י בְּאֶחָ֥ד לַחֹֽדֶשׁ׃ (Num. 33:38)
+NIV	At the LORD’s command Aaron the priest _went up_ Mount Hor, where he died on the first day of the fifth month of the fortieth year after the Israelites came out of Egypt.
+ESV	And Aaron the priest _went up_ Mount Hor at the command of the Lord and died there, in the fortieth year after the people of Israel had come out of the land of Egypt, on the first day of the fifth month.
+
+(x)	וַיַּשְׁכֵּ֤ם יְהֹושֻׁ֨עַ֙ בַּבֹּ֔קֶר וַיִּפְקֹ֖ד אֶת־הָעָ֑ם וַ_יַּ֨עַל_ ה֜וּא וְזִקְנֵ֧י יִשְׂרָאֵ֛ל לִפְנֵ֥י הָעָ֖ם הָעָֽי׃ (Josh. 8:10)
+NIV	Early the next morning Joshua mustered his men, and he and the leaders of Israel _marched_ before them to Ai.
+ESV	Joshua arose early in the morning and mustered the people and _went up_, he and the elders of Israel, before the people to Ai.
+
+(x)	וַ_יַּ֣עַל_ יְהוּדָ֔ה וַיִּתֵּ֧ן יְהוָ֛ה אֶת־הַכְּנַעֲנִ֥י וְהַפְּרִזִּ֖י בְּיָדָ֑ם וַיַּכּ֣וּם בְּבֶ֔זֶק עֲשֶׂ֥רֶת אֲלָפִ֖ים אִֽישׁ׃ (Judg. 1:4)
+NIV	When Judah _attacked_, the LORD gave the Canaanites and Perizzites into their hands and they struck down ten thousand men at Bezek.
+ESV	Then Judah _went up_ and the Lord gave the Canaanites and the Perizzites into their hand, and they defeated 10,000 of them at Bezek.
+
+(x)	וַ_יַּ֣עַל_ גִּדְעֹ֗ון דֶּ֚רֶךְ הַשְּׁכוּנֵ֣י בָֽאֳהָלִ֔ים מִקֶּ֥דֶם לְנֹ֖בַח וְיָגְבֳּהָ֑ה וַיַּךְ֙ אֶת־הַֽמַּחֲנֶ֔ה וְהַֽמַּחֲנֶ֖ה הָ֥יָה בֶֽטַח׃ (Judg. 8:11)
+NIV	Gideon _went up_ by the route of the nomads east of Nobah and Jogbehah and fell upon the unsuspecting army.
+ESV	And Gideon _went up_ by the way of the tent dwellers east of Nobah and Jogbehah and attacked the army, for the army felt secure.
+
+(x)	וַ_יַּעֲל֣וּ_ פְלִשְׁתִּ֔ים וַֽיַּחֲנ֖וּ בִּיהוּדָ֑ה וַיִּנָּטְשׁ֖וּ בַּלֶּֽחִי׃ (Judg. 15:9)
+NIV	The Philistines _went up_ and camped in Judah, spreading out near Lehi.
+ESV	Then the Philistines _came up_ and encamped in Judah and made a raid on Lehi.
+
+(x)	וַ_יַּעֲל֣וּ_ כָל־בְּנֵי֩ יִשְׂרָאֵ֨ל וְכָל־הָעָ֜ם וַיָּבֹ֣אוּ בֵֽית־אֵ֗ל וַיִּבְכּוּ֙ וַיֵּ֤שְׁבוּ שָׁם֙ לִפְנֵ֣י יְהוָ֔ה וַיָּצ֥וּמוּ בַיֹּום־הַה֖וּא עַד־הָעָ֑רֶב וַֽיַּעֲל֛וּ עֹלֹ֥ות וּשְׁלָמִ֖ים לִפְנֵ֥י יְהוָֽה׃ (Judg. 20:26)
+NIV	Then the Israelites, all the people, _went up_ to Bethel, and there they sat weeping before the LORD. They fasted that day until evening and presented burnt offerings and fellowship offerings to the LORD.
+ESV	Then all the people of Israel, the whole army, _went up_ and came to Bethel and wept. They sat there before the Lord and fasted that day until evening, and offered burnt offerings and peace offerings before the Lord.
+
+(x)	וַיִּשְׁמְע֣וּ פְלִשְׁתִּ֗ים כִּֽי־הִתְקַבְּצ֤וּ בְנֵֽי־יִשְׂרָאֵל֙ הַמִּצְפָּ֔תָה וַ_יַּעֲל֥וּ_ סַרְנֵֽי־פְלִשְׁתִּ֖ים אֶל־יִשְׂרָאֵ֑ל וַֽיִּשְׁמְעוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וַיִּֽרְא֖וּ מִפְּנֵ֥י פְלִשְׁתִּֽים׃ (I Sam. 7:7)
+NIV	When the Philistines heard that Israel had assembled at Mizpah, the rulers of the Philistines _came up_ to attack them. And when the Israelites heard of it, they were afraid because of the Philistines.
+ESV	Now when the Philistines heard that the people of Israel had gathered at Mizpah, the lords of the Philistines _went up_ against Israel. And when the people of Israel heard of it, they were afraid of the Philistines.
+
+(x)	וַ_יַּ֣עַל_ שָׁא֔וּל מֵאַחֲרֵ֖י פְּלִשְׁתִּ֑ים וּפְלִשְׁתִּ֖ים הָלְכ֥וּ לִמְקֹומָֽם׃ (I Sam. 14:46)
+NIV	Then Saul _stopped pursuing_ the Philistines, and they withdrew to their own land.
+ESV	Then Saul _went up_ from pursuing the Philistines, and the Philistines went to their own place.
+
+(x)	וְהִנֵּ֨ה גַם־צָדֹ֜וק וְכָֽל־הַלְוִיִּ֣ם אִתֹּ֗ו נֹֽשְׂאִים֙ אֶת־אֲרֹון֙ בְּרִ֣ית הָאֱלֹהִ֔ים וַיַּצִּ֨קוּ֙ אֶת־אֲרֹ֣ון הָאֱלֹהִ֔ים וַ_יַּ֖עַל_ אֶבְיָתָ֑ר עַד־תֹּ֥ם כָּל־הָעָ֖ם לַעֲבֹ֥ור מִן־הָעִֽיר׃ (II Sam. 15:24)
+NIV	Zadok was there, too, and all the Levites who were with him were carrying the ark of the covenant of God. They set down the ark of God, and Abiathar _offered sacrifices_ until all the people had finished leaving the city.
+ESV	And Abiathar _came up_, and behold, Zadok came also with all the Levites, bearing the ark of the covenant of God. And they set down the ark of God until the people had all passed out of the city.
+
+(x)	וַ_יַּעֲל֤וּ_ כָל־הָעָם֙ אַֽחֲרָ֔יו וְהָעָם֙ מְחַלְּלִ֣ים בַּחֲלִלִ֔ים וּשְׂמֵחִ֖ים שִׂמְחָ֣ה גְדֹולָ֑ה וַתִּבָּקַ֥ע הָאָ֖רֶץ בְּקֹולָֽם׃ (I Kgs. 1:40)
+NIV	And all the people _went up_ after him, playing flutes and rejoicing greatly, so that the ground shook with the sound.
+ESV	And all the people _went up_ after him, playing on pipes, and rejoicing with great joy, so that the earth was split by their noise.
+
+(x)	וַ_יַּ֜עַל_ עַֽל־הַמִּזְבֵּ֣חַ׀ אֲשֶׁר־עָשָׂ֣ה בְּבֵֽית־אֵ֗ל בַּחֲמִשָּׁ֨ה עָשָׂ֥ר יֹום֙ בַּחֹ֣דֶשׁ הַשְּׁמִינִ֔י בַּחֹ֖דֶשׁ אֲשֶׁר־בָּדָ֣א מִלִּבֹּ֑ו וַיַּ֤עַשׂ חָג֙ לִבְנֵ֣י יִשְׂרָאֵ֔ל וַיַּ֥עַל עַל־הַמִּזְבֵּ֖חַ לְהַקְטִֽיר׃ פ (I Kgs. 12:33)
+NIV	On the fifteenth day of the eighth month, a month of his own choosing, _he offered sacrifices_ on the altar he had built at Bethel. So he instituted the festival for the Israelites and went up to the altar to make offerings.
+ESV	_He went up_ to the altar that he had made in Bethel on the fifteenth day in the eighth month, in the month that he had devised from his own heart. And he instituted a feast for the people of Israel and went up to the altar to make offerings.
+
+(x)	וַֽיְהִי֙ לִתְשׁוּבַ֣ת הַשָּׁנָ֔ה וַיִּפְקֹ֥ד בֶּן־הֲדַ֖ד אֶת־אֲרָ֑ם וַ_יַּ֣עַל_ אֲפֵ֔קָה לַמִּלְחָמָ֖ה עִם־יִשְׂרָאֵֽל׃ (I Kgs. 20:26)
+NIV	The next spring Ben-hadad mustered the Arameans and _went up_ to Aphek to fight against Israel.
+ESV	In the spring, Ben-hadad mustered the Syrians and _went up_ to Aphek to fight against Israel.
+
+(x)	וַיִּקַּח֩ אֶת־בְּנֹ֨ו הַבְּכֹ֜ור אֲשֶׁר־יִמְלֹ֣ךְ תַּחְתָּ֗יו וַ_יַּעֲלֵ֤הוּ_ עֹלָה֙ עַל־הַ֣חֹמָ֔ה וַיְהִ֥י קֶצֶף־גָּדֹ֖ול עַל־יִשְׂרָאֵ֑ל וַיִּסְעוּ֙ מֵֽעָלָ֔יו וַיָּשֻׁ֖בוּ לָאָֽרֶץ׃ פ (II Kgs. 3:27)
+NIV	Then he took his firstborn son, who was to succeed him as king, and _offered_ him as a sacrifice on the city wall. The fury against Israel was great. they withdrew and returned to their own land.
+ESV	Then he took his oldest son who was to reign in his place and _offered_ him for a burnt offering on the wall. And there came great wrath against Israel. And they withdrew from him and returned to their own land.
+
+(x)	וְלֹא־שָׁמַ֣ע אֲמַצְיָ֔הוּ וַ_יַּ֨עַל_ יְהֹואָ֤שׁ מֶֽלֶךְ־יִשְׂרָאֵל֙ וַיִּתְרָא֣וּ פָנִ֔ים ה֖וּא וַאֲמַצְיָ֣הוּ מֶֽלֶךְ־יְהוּדָ֑ה בְּבֵ֥ית שֶׁ֖מֶשׁ אֲשֶׁ֥ר לִיהוּדָֽה׃ (II Kgs. 14:11)
+NIV	Amaziah, however, would not listen, so Jehoash king of Israel _attacked_. He and Amaziah king of Judah faced each other at Beth Shemesh in Judah.
+ESV	But Amaziah would not listen. So Jehoash king of Israel _went up_, and he and Amaziah king of Judah faced one another in battle at Beth-shemesh, which belongs to Judah.
+
+(x)	וַיִּקַּ֨ח חִזְקִיָּ֧הוּ אֶת־הַסְּפָרִ֛ים מִיַּ֥ד הַמַּלְאָכִ֖ים וַיִּקְרָאֵ֑הוּ וַ_יַּ֨עַל֙_ בֵּ֣ית יְהוָ֔ה וַיִּפְרְשֵׂ֥הוּ חִזְקִיָּ֖הוּ לִפְנֵ֥י יְהוָֽה׃ (Isa. 37:14)
+NIV	Hezekiah received the letter from the messengers and read it. Then _he went up_ to the temple of the LORD and spread it out before the LORD.
+ESV	Hezekiah received the letter from the hand of the messengers, and read it. and Hezekiah _went up_ to the house of the Lord, and spread it before the Lord.
+
+(x)	וַ_יַּ֨עַל֙_ כְּבֹ֣וד יְהוָ֔ה מֵעַ֖ל תֹּ֣וךְ הָעִ֑יר וַֽיַּעֲמֹד֙ עַל־הָהָ֔ר אֲשֶׁ֖ר מִקֶּ֥דֶם לָעִֽיר׃ (Ezek. 11:23)
+NIV	The glory of the LORD _went up_ from within the city and stopped above the mountain east of it.
+ESV	And the glory of the Lord _went up_ from the midst of the city and stood on the mountain that is on the east side of the city.
+
+(x)	וַיָּכִ֤ינוּ הַמִּזְבֵּ֨חַ֙ עַל־מְכֹ֣ונֹתָ֔יו כִּ֚י בְּאֵימָ֣ה עֲלֵיהֶ֔ם מֵעַמֵּ֖י הָאֲרָצֹ֑ות וַיַּעֲל֨וּ עָלָ֤יו עֹלֹות֙ לַֽיהוָ֔ה עֹלֹ֖ות לַבֹּ֥קֶר וְלָעָֽרֶב׃ (Ezra 3:3)
+NIV	Despite their fear of the peoples around them, they built the altar on its foundation and _sacrificed_ burnt offerings on it to the LORD, both the morning and evening sacrifices.
+ESV	They set the altar in its place, for fear was on them because of the peoples of the lands, and _they offered_ burnt offerings on it to the Lord, burnt offerings morning and evening.
+
+(x)	וַיִּבֶן֩ שָׁ֨ם דָּוִ֤יד מִזְבֵּ֨חַ֙ לַיהוָ֔ה וַ_יַּ֥עַל_ עֹלֹ֖ות וּשְׁלָמִ֑ים וַיִּקְרָא֙ אֶל־יְהוָ֔ה וַיַּֽעֲנֵ֤הוּ בָאֵשׁ֙ מִן־הַשָּׁמַ֔יִם עַ֖ל מִזְבַּ֥ח הָעֹלָֽה׃ פ (I Chr. 21:26)
+NIV	David built an altar to the LORD there and _sacrificed_ burnt offerings and fellowship offerings. He called on the LORD, and the LORD answered him with fire from heaven on the altar of burnt offering.
+ESV	And David built there an altar to the Lord and _presented_ burnt offerings and peace offerings and called on the Lord, and the Lord answered him with fire from heaven upon the altar of burnt offering.
+
+(x)	מִן־בְּנֵיהֶ֗ם אֲשֶׁ֨ר נֹותְר֤וּ אַחֲרֵיהֶם֙ בָּאָ֔רֶץ אֲשֶׁ֥ר לֹֽא־כִלּ֖וּם בְּנֵ֣י יִשְׂרָאֵ֑ל וַ_יַּעֲלֵ֤ם_ שְׁלֹמֹה֙ לְמַ֔ס עַ֖ד הַיֹּ֥ום הַזֶּֽה׃ (II Chr. 8:8)
+NIV	that is, their descendants remaining in the land, whom the Israelites had not destroyed — these Solomon _conscripted_ for his slave labour force, as it is to this day.
+ESV	from their descendants who were left after them in the land, whom the people of Israel had not destroyed — these Solomon _drafted_ as forced labor, and so they are to this day.
+
+(x)	וַ_יַּ֨עַל_ עֲלֵיהֶ֜ם אֶת־מֶ֣לֶךְ כַּשְׂדִּ֗ים וַיַּהֲרֹ֨ג בַּחוּרֵיהֶ֤ם בַּחֶ֨רֶב֙ בְּבֵ֣ית מִקְדָּשָׁ֔ם וְלֹ֥א חָמַ֛ל עַל־בָּח֥וּר וּבְתוּלָ֖ה זָקֵ֣ן וְיָשֵׁ֑שׁ הַכֹּ֖ל נָתַ֥ן בְּיָדֹֽו׃ (II Chr. 36:17)
+NIV	_He brought up_ against them the king of the Babylonians, who killed their young men with the sword in the sanctuary, and spared neither young man nor young woman, old man or aged. God handed all of them over to Nebuchadnezzar.
+ESV	Therefore _he brought up_ against them the king of the Chaldeans, who killed their young men with the sword in the house of their sanctuary and had no compassion on young man or virgin, old man or aged. He gave them all into his hand.

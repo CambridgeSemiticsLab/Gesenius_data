@@ -1,0 +1,42 @@
+eng_TAMsimp == "PAST ~ PRES"
+10 of 93
+
+(x)	וַתֹּ֨אמֶר שָׂרַ֣י אֶל־אַבְרָם֮ חֲמָסִ֣י עָלֶיךָ֒ אָנֹכִ֗י נָתַ֤תִּי שִׁפְחָתִי֙ בְּחֵיקֶ֔ךָ וַ_תֵּ֨רֶא֙_ כִּ֣י הָרָ֔תָה וָאֵקַ֖ל בְּעֵינֶ֑יהָ יִשְׁפֹּ֥ט יְהוָ֖ה בֵּינִ֥י וּבֵינֶֽיׄכָ׃ (Gen. 16:5)
+NIV	Then Sarai said to Abram, “You are responsible for the wrong I am suffering. I put my servant in your arms, and now that _she knows_ she is pregnant, she despises me. May the LORD judge between you and me.”
+ESV	And Sarai said to Abram, “May the wrong done to me be on you! I gave my servant to your embrace, and when _she saw_ that she had conceived, she looked on me with contempt. May the Lord judge between you and me!”
+
+(x)	אֹ֡ו בִּכְלִ֣י עֵֽץ־יָד֩ אֲשֶׁר־יָמ֨וּת בֹּ֥ו הִכָּ֛הוּ וַ_יָּמֹ֖ת_ רֹצֵ֣חַֽ ה֑וּא מֹ֥ות יוּמַ֖ת הָרֹצֵֽחַ׃ (Num. 35:18)
+NIV	Or if anyone has a wooden object in his hand that could kill, and he hits someone so that _he dies_, he is a murderer. the murderer shall be put to death.
+ESV	Or if he struck him down with a wooden tool that could cause death, and _he died_, he is a murderer. The murderer shall be put to death.
+
+(x)	וַ_יַּעַזְב֞וּ_ אֶת־יְהוָ֣ה׀ אֱלֹהֵ֣י אֲבֹותָ֗ם הַמֹּוצִ֣יא אֹותָם֮ מֵאֶ֣רֶץ מִצְרַיִם֒ וַיֵּלְכ֞וּ אַחֲרֵ֣י׀ אֱלֹהִ֣ים אֲחֵרִ֗ים מֵאֱלֹהֵ֤י הָֽעַמִּים֙ אֲשֶׁר֙ סְבִיבֹ֣ותֵיהֶ֔ם וַיִּֽשְׁתַּחֲו֖וּ לָהֶ֑ם וַיַּכְעִ֖סוּ אֶת־יְהוָ֖ה׃ (Judg. 2:12)
+NIV	_They forsook_ the LORD, the God of their fathers, who had brought them out of Egypt. They followed and worshipped various gods of the peoples around them. They provoked the LORD to anger
+ESV	And _they abandoned_ the Lord, the God of their fathers, who had brought them out of the land of Egypt. They went after other gods, from among the gods of the peoples who were around them, and bowed down to them. And they provoked the Lord to anger.
+
+(x)	וַיֹּ֨אמֶר אֵלָ֥יו דָּוִ֛ד מֶה־הָיָ֥ה הַדָּבָ֖ר הַגֶּד־נָ֣א לִ֑י וַ֠יֹּאמֶר אֲשֶׁר־נָ֨ס הָעָ֜ם מִן־הַמִּלְחָמָ֗ה וְגַם־הַרְבֵּ֞ה נָפַ֤ל מִן־הָעָם֙ וַ_יָּמֻ֔תוּ_ וְגַ֗ם שָׁא֛וּל וִיהֹונָתָ֥ן בְּנֹ֖ו מֵֽתוּ׃ (II Sam. 1:4)
+NIV	“What happened?” David asked. “Tell me.” He said, “The men fled from the battle. Many of them fell and _died_. And Saul and his son Jonathan are dead.”
+ESV	And David said to him, “How did it go? Tell me.” And he answered, “The people fled from the battle, and also many of the people have fallen and _are dead_, and Saul and his son Jonathan are also dead.”
+
+(x)	עַל־כֵּ֡ן חָרָה֩ אַף־יְהוָ֨ה בְּעַמֹּ֜ו וַיֵּ֣ט יָדֹ֧ו עָלָ֣יו וַ_יַּכֵּ֗הוּ_ וַֽיִּרְגְּזוּ֙ הֶֽהָרִ֔ים וַתְּהִ֧י נִבְלָתָ֛ם כַּסּוּחָ֖ה בְּקֶ֣רֶב חוּצֹ֑ות בְּכָל־זֹאת֙ לֹא־שָׁ֣ב אַפֹּ֔ו וְעֹ֖וד יָדֹ֥ו נְטוּיָֽה׃ (Isa. 5:25)
+NIV	Therefore the LORD’s anger burns against his people. his hand is raised and he strikes them down. The mountains shake, and the dead bodies are like refuse in the streets. Yet for all this, his anger is not turned away, his hand is still upraised.
+ESV	Therefore the anger of the Lord was kindled against his people, and he stretched out his hand against them and _struck_ them, and the mountains quaked. and their corpses were as refuse in the midst of the streets. For all this his anger has not turned away, and his hand is stretched out still.
+
+(x)	מִצְרַ֨יִם֙ כַּיְאֹ֣ר יַֽעֲלֶ֔ה וְכַנְּהָרֹ֖ות יִתְגֹּ֣עֲשׁוּ מָ֑יִם וַ_יֹּ֗אמֶר_ אַֽעֲלֶה֙ אֲכַסֶּה־אֶ֔רֶץ אֹבִ֥ידָה עִ֖יר וְיֹ֥שְׁבֵי בָֽהּ׃ (Jer. 46:8)
+NIV	Egypt rises like the Nile, like rivers of surging waters. _She says_, ‘I will rise and cover the earth. I will destroy cities and their people.’
+ESV	Egypt rises like the Nile, like rivers whose waters surge. _He said_, ‘I will rise, I will cover the earth, I will destroy cities and their inhabitants.’
+
+(x)	וַ_יֹּ֣אמֶר_ אֶפְרַ֔יִם אַ֣ךְ עָשַׁ֔רְתִּי מָצָ֥אתִי אֹ֖ון לִ֑י כָּל־יְגִיעַ֕י לֹ֥א יִמְצְאוּ־לִ֖י עָוֹ֥ן אֲשֶׁר־חֵֽטְא׃ (Hos. 12:9)
+NIV	Ephraim _boasts_, “I am very rich. I have become wealthy. With all my wealth they will not find in me any iniquity or sin.”
+ESV	Ephraim _has said_, “Ah, but I am rich. I have found wealth for myself. in all my labors they cannot find in me iniquity or sin.”
+
+(x)	וָ_אֶתְּנָ֣ה_ לְבוּשִׁ֣י שָׂ֑ק וָאֱהִ֖י לָהֶ֣ם לְמָשָֽׁל׃ (Psa. 69:12)
+NIV	when I _put on_ sackcloth, people make sport of me.
+ESV	When _I made_ sackcloth my clothing, I became a byword to them.
+
+(x)	וַיְשַׂגֵּ֣ב אֶבְיֹ֣ון מֵעֹ֑ונִי וַ_יָּ֥שֶׂם_ כַּ֝צֹּ֗אן מִשְׁפָּחֹֽות׃ (Psa. 107:41)
+NIV	But he lifted the needy out of their affliction and _increased_ their families like flocks.
+ESV	but he raises up the needy out of affliction and _makes_ their families like flocks.
+
+(x)	וַ_יַּֽעֲמִ֣ידוּ_ דָבָ֗ר לְהַעֲבִ֨יר קֹ֤ול בְּכָל־יִשְׂרָאֵל֙ מִבְּאֵֽר־שֶׁ֣בַע וְעַד־דָּ֔ן לָבֹ֞וא לַעֲשֹׂ֥ות פֶּ֛סַח לַיהוָ֥ה אֱלֹהֵֽי־יִשְׂרָאֵ֖ל בִּירוּשָׁלִָ֑ם כִּ֣י לֹ֥א לָרֹ֛ב עָשׂ֖וּ כַּכָּתֽוּב׃ (II Chr. 30:5)
+NIV	_They decided_ to send a proclamation throughout Israel, from Beersheba to Dan, calling the people to come to Jerusalem and celebrate the Passover to the LORD, the God of Israel. It had not been celebrated in large numbers according to what was written.
+ESV	So _they decreed_ to make a proclamation throughout all Israel, from Beersheba to Dan, that the people should come and keep the Passover to the Lord, the God of Israel, at Jerusalem, for they had not kept it as often as prescribed.

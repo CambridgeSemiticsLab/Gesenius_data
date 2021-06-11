@@ -1,0 +1,34 @@
+eng_TAMsimp == "PAST ~ PRES PART" and lex == "חוה"
+8 of 8
+
+(x)	וְה֖וּא עָבַ֣ר לִפְנֵיהֶ֑ם וַ_יִּשְׁתַּ֤חוּ_ אַ֨רְצָה֙ שֶׁ֣בַע פְּעָמִ֔ים עַד־גִּשְׁתֹּ֖ו עַד־אָחִֽיו׃ (Gen. 33:3)
+NIV	He himself went on ahead and _bowed down_ to the ground seven times as he approached his brother.
+ESV	He himself went on before them, _bowing himself_ to the ground seven times, until he came near to his brother.
+
+(x)	וַיֵּ֗לֶךְ וַֽיַּעֲבֹד֙ אֱלֹהִ֣ים אֲחֵרִ֔ים וַ_יִּשְׁתַּ֖חוּ_ לָהֶ֑ם וְלַשֶּׁ֣מֶשׁ׀ אֹ֣ו לַיָּרֵ֗חַ אֹ֛ו לְכָל־צְבָ֥א הַשָּׁמַ֖יִם אֲשֶׁ֥ר לֹא־צִוִּֽיתִי׃ (Deut. 17:3)
+NIV	and contrary to my command has worshipped other gods, _bowing down_ to them or to the sun or the moon or the stars of the sky,
+ESV	and has gone and served other gods and _worshiped_ them, or the sun or the moon or any of the host of heaven, which I have forbidden,
+
+(x)	וַתִּקֹּ֨ד בַּת־שֶׁ֤בַע אַפַּ֨יִם֙ אֶ֔רֶץ וַ_תִּשְׁתַּ֖חוּ_ לַמֶּ֑לֶךְ וַתֹּ֕אמֶר יְחִ֗י אֲדֹנִ֛י הַמֶּ֥לֶךְ דָּוִ֖ד לְעֹלָֽם׃ פ (I Kgs. 1:31)
+NIV	Then Bathsheba bowed low with her face to the ground and, _kneeling_ before the king, said, “May my lord King David live for ever!”
+ESV	Then Bathsheba bowed with her face to the ground and _paid homage_ to the king and said, “May my lord King David live forever!”
+
+(x)	וְאָמְר֗וּ עַל֩ אֲשֶׁ֨ר עָזְב֜וּ אֶת־יְהוָ֣ה אֱלֹהֵיהֶ֗ם אֲשֶׁ֨ר הֹוצִ֣יא אֶת־אֲבֹתָם֮ מֵאֶ֣רֶץ מִצְרַיִם֒ וַֽיַּחֲזִ֨קוּ֙ בֵּאלֹהִ֣ים אֲחֵרִ֔ים וַיִּשְׁתַּחֲו֥וּ לָהֶ֖ם וַיַּעַבְדֻ֑ם עַל־כֵּ֗ן הֵבִ֤יא יְהוָה֙ עֲלֵיהֶ֔ם אֵ֥ת כָּל־הָרָעָ֖ה הַזֹּֽאת׃ פ (I Kgs. 9:9)
+NIV	People will answer, ‘Because they have forsaken the LORD their God, who brought their fathers out of Egypt, and have embraced other gods, _worshipping_ and serving them — that is why the LORD brought all this disaster on them.’”
+ESV	Then they will say, ‘Because they abandoned the Lord their God who brought their fathers out of the land of Egypt and laid hold on other gods and _worshiped_ them and served them. Therefore the Lord has brought all this disaster on them.’”
+
+(x)	וַתָּבֹא֙ וַתִּפֹּ֣ל עַל־רַגְלָ֔יו וַ_תִּשְׁתַּ֖חוּ_ אָ֑רְצָה וַתִּשָּׂ֥א אֶת־בְּנָ֖הּ וַתֵּצֵֽא׃ פ (II Kgs. 4:37)
+NIV	She came in, fell at his feet and _bowed_ to the ground. Then she took her son and went out.
+ESV	She came and fell at his feet, _bowing_ to the ground. Then she picked up her son and went out.
+
+(x)	וְדִבַּרְתִּ֤י מִשְׁפָּטַי֙ אֹותָ֔ם עַ֖ל כָּל־רָעָתָ֑ם אֲשֶׁ֣ר עֲזָב֗וּנִי וַֽיְקַטְּרוּ֙ לֵאלֹהִ֣ים אֲחֵרִ֔ים וַ_יִּֽשְׁתַּחֲו֖וּ_ לְמַעֲשֵׂ֥י יְדֵיהֶֽם׃ (Jer. 1:16)
+NIV	I will pronounce my judgments on my people because of their wickedness in forsaking me, in burning incense to other gods and in _worshipping_ what their hands have made.
+ESV	And I will declare my judgments against them, for all their evil in forsaking me. They have made offerings to other gods and _worshiped_ the works of their own hands.
+
+(x)	וַתִּפֹּל֙ עַל־פָּנֶ֔יהָ וַ_תִּשְׁתַּ֖חוּ_ אָ֑רְצָה וַתֹּ֣אמֶר אֵלָ֗יו מַדּוּעַ֩ מָצָ֨אתִי חֵ֤ן בְּעֵינֶ֨יךָ֙ לְהַכִּירֵ֔נִי וְאָנֹכִ֖י נָכְרִיָּֽה׃ (Ruth 2:10)
+NIV	At this, _she bowed down_ with her face to the ground. She exclaimed, “Why have I found such favour in your eyes that you notice me — a foreigner?”
+ESV	Then she fell on her face, _bowing_ to the ground, and said to him, “Why have I found favor in your eyes, that you should take notice of me, since I am a foreigner?”
+
+(x)	וְאָמְר֗וּ עַל֩ אֲשֶׁ֨ר עָֽזְב֜וּ אֶת־יְהוָ֣ה׀ אֱלֹהֵ֣י אֲבֹתֵיהֶ֗ם אֲשֶׁ֣ר הֹוצִיאָם֮ מֵאֶ֣רֶץ מִצְרַיִם֒ וַֽיַּחֲזִ֨יקוּ֙ בֵּאלֹהִ֣ים אֲחֵרִ֔ים וַ_יִּשְׁתַּחֲו֥וּ_ לָהֶ֖ם וַיַּֽעַבְד֑וּם עַל־כֵּן֙ הֵבִ֣יא עֲלֵיהֶ֔ם אֵ֥ת כָּל־הָרָעָ֖ה הַזֹּֽאת׃ פ (II Chr. 7:22)
+NIV	People will answer, ‘Because they have forsaken the LORD, the God of their fathers, who brought them out of Egypt, and have embraced other gods, _worshipping_ and serving them — that is why he brought all this disaster on them.’”
+ESV	Then they will say, ‘Because they abandoned the Lord, the God of their fathers who brought them out of the land of Egypt and laid hold on other gods and _worshiped_ them and served them. Therefore he has brought all this disaster on them.’”

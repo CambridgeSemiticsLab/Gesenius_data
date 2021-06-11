@@ -1,0 +1,102 @@
+eng_TAMsimp == "PRES PERF" and genre == "prophetic" and domain2 == "Q" 
+25 of 36
+
+(x)	הִנֵּ֨ה אֵ֧ל יְשׁוּעָתִ֛י אֶבְטַ֖ח וְלֹ֣א אֶפְחָ֑ד כִּֽי־עָזִּ֤י וְזִמְרָת֙ יָ֣הּ יְהוָ֔ה וַֽ_יְהִי_־לִ֖י לִֽישׁוּעָֽה׃ (Isa. 12:2)
+NIV	Surely God is my salvation. I will trust and not be afraid. The LORD, the LORD, is my strength and my song. _he has become_ my salvation.”
+ESV	“Behold, God is my salvation. I will trust, and will not be afraid. for the Lord GOD is my strength and my song, and _he has become_ my salvation.”
+
+(x)	כֹּ֣ה אָֽמַר־יְהוָה֩ גֹּאֵ֨ל יִשְׂרָאֵ֜ל קְדֹושֹׁ֗ו לִבְזֹה־נֶ֜פֶשׁ לִמְתָ֤עֵֽב גֹּוי֙ לְעֶ֣בֶד מֹשְׁלִ֔ים מְלָכִים֙ יִרְא֣וּ וָקָ֔מוּ שָׂרִ֖ים וְיִֽשְׁתַּחֲוּ֑וּ לְמַ֤עַן יְהוָה֙ אֲשֶׁ֣ר נֶאֱמָ֔ן קְדֹ֥שׁ יִשְׂרָאֵ֖ל וַ_יִּבְחָרֶֽךָּ_׃ (Isa. 49:7)
+NIV	This is what the LORD says — the Redeemer and Holy One of Israel — to him who was despised and abhorred by the nation, to the servant of rulers: “Kings will see you and rise up, princes will see and bow down, because of the LORD, who is faithful, the Holy One of Israel, who _has chosen_ you.”
+ESV	Thus says the Lord, the Redeemer of Israel and his Holy One, to one deeply despised, abhorred by the nation, the servant of rulers: “Kings shall see and arise. princes, and they shall prostrate themselves. because of the Lord, who is faithful, the Holy One of Israel, who _has chosen_ you.”
+
+(x)	וָ_אָשִׂ֤ים_ דְּבָרַי֙ בְּפִ֔יךָ וּבְצֵ֥ל יָדִ֖י כִּסִּיתִ֑יךָ לִנְטֹ֤עַ שָׁמַ֨יִם֙ וְלִיסֹ֣ד אָ֔רֶץ וְלֵאמֹ֥ר לְצִיֹּ֖ון עַמִּי־אָֽתָּה׃ ס (Isa. 51:16)
+NIV	_I have put_ my words in your mouth and covered you with the shadow of my hand — I who set the heavens in place, who laid the foundations of the earth, and who say to Zion, ‘You are my people.’”
+ESV	And _I have put_ my words in your mouth and covered you in the shadow of my hand, establishing the heavens and laying the foundations of the earth, and saying to Zion, ‘You are my people.’”
+
+(x)	עָלָיו֙ יִשְׁאֲג֣וּ כְפִרִ֔ים נָתְנ֖וּ קֹולָ֑ם וַ_יָּשִׁ֤יתוּ_ אַרְצֹו֙ לְשַׁמָּ֔ה עָרָ֥יו נִצְּת֖וּ מִבְּלִ֥י יֹשֵֽׁב׃ (Jer. 2:15)
+NIV	Lions have roared. they have growled at him. _They have laid_ waste his land. his towns are burned and deserted.
+ESV	The lions have roared against him. they have roared loudly. _They have made_ his land a waste. his cities are in ruins, without inhabitant.
+
+(x)	שְׂאִֽי־עֵינַ֨יִךְ עַל־שְׁפָיִ֜ם וּרְאִ֗י אֵיפֹה֙ לֹ֣א שֻׁכַּ֔בְּתְּ עַל־דְּרָכִים֙ יָשַׁ֣בְתְּ לָהֶ֔ם כַּעֲרָבִ֖י בַּמִּדְבָּ֑ר וַ_תַּחֲנִ֣יפִי_ אֶ֔רֶץ בִּזְנוּתַ֖יִךְ וּבְרָעָתֵֽךְ׃ (Jer. 3:2)
+NIV	“Look up to the barren heights and see. Is there any place where you have not been ravished? By the roadside you sat waiting for lovers, sat like a nomad in the desert. _You have defiled_ the land with your prostitution and wickedness.
+ESV	Lift up your eyes to the bare heights, and see! Where have you not been ravished? By the waysides you have sat awaiting lovers like an Arab in the wilderness. _You have polluted_ the land with your vile whoredom.
+
+(x)	שִׁמְעִ֣י הָאָ֔רֶץ הִנֵּ֨ה אָנֹכִ֜י מֵבִ֥יא רָעָ֛ה אֶל־הָעָ֥ם הַזֶּ֖ה פְּרִ֣י מַחְשְׁבֹותָ֑ם כִּ֤י עַל־דְּבָרַי֙ לֹ֣א הִקְשִׁ֔יבוּ וְתֹורָתִ֖י וַ_יִּמְאֲסוּ_־בָֽהּ׃ (Jer. 6:19)
+NIV	Hear, O earth: I am bringing disaster on this people, the fruit of their schemes, because they have not listened to my words and _have rejected_ my law.
+ESV	Hear, O earth. behold, I am bringing disaster upon this people, the fruit of their devices, because they have not paid attention to my words. and as for my law, _they have rejected_ it.
+
+(x)	וַ_יֵּ֣לְכ֔וּ_ אַחֲרֵ֖י שְׁרִר֣וּת לִבָּ֑ם וְאַחֲרֵי֙ הַבְּעָלִ֔ים אֲשֶׁ֥ר לִמְּד֖וּם אֲבֹותָֽם׃ ס (Jer. 9:13)
+NIV	Instead, _they have followed_ the stubbornness of their hearts. _they have followed_ the Baals, as their fathers taught them.”
+ESV	but have stubbornly followed their own hearts and have gone after the Baals, as their fathers taught them.
+
+(x)	מִן־שְׁלֹ֣שׁ עֶשְׂרֵ֣ה שָׁנָ֡ה לְיֹאשִׁיָּ֣הוּ בֶן־אָמֹון֩ מֶ֨לֶךְ יְהוּדָ֜ה וְעַ֣ד׀ הַיֹּ֣ום הַזֶּ֗ה זֶ֚ה שָׁלֹ֤שׁ וְעֶשְׂרִים֙ שָׁנָ֔ה הָיָ֥ה דְבַר־יְהוָ֖ה אֵלָ֑י וָ_אֲדַבֵּ֧ר_ אֲלֵיכֶ֛ם אַשְׁכֵּ֥ים וְדַבֵּ֖ר וְלֹ֥א שְׁמַעְתֶּֽם׃ (Jer. 25:3)
+NIV	For twenty-three years — from the thirteenth year of Josiah son of Amon king of Judah until this very day — the word of the LORD has come to me and _I have spoken_ to you again and again, but you have not listened.
+ESV	“For twenty-three years, from the thirteenth year of Josiah the son of Amon, king of Judah, to this day, the word of the Lord has come to me, and _I have spoken persistently_ to you, but you have not listened.
+
+(x)	יַ֡עַן אֲשֶׁר֩ עָשׂ֨וּ נְבָלָ֜ה בְּיִשְׂרָאֵ֗ל וַ_יְנַֽאֲפוּ֙_ אֶת־נְשֵׁ֣י רֵֽעֵיהֶ֔ם וַיְדַבְּר֨וּ דָבָ֤ר בִּשְׁמִי֙ שֶׁ֔קֶר אֲשֶׁ֖ר לֹ֣וא צִוִּיתִ֑ם וְאָנֹכִ֛י הַיֹּודֵ֥עַ וָעֵ֖ד נְאֻם־יְהוָֽה׃ ס (Jer. 29:23)
+NIV	For they have done outrageous things in Israel. _they have committed adultery_ with their neighbours’ wives and in my name have spoken lies, which I did not tell them to do. I know it and am a witness to it,” declares the LORD.
+ESV	because they have done an outrageous thing in Israel, _they have committed adultery_ with their neighbors’ wives, and they have spoken in my name lying words that I did not command them. I am the one who knows, and I am witness, declares the Lord.’”
+
+(x)	שְׁלַ֤ח עַל־כָּל־הַגֹּולָה֙ לֵאמֹ֔ר כֹּ֚ה אָמַ֣ר יְהוָ֔ה אֶל־שְׁמַעְיָ֖ה הַנֶּחֱלָמִ֑י יַ֡עַן אֲשֶׁר֩ נִבָּ֨א לָכֶ֜ם שְׁמַעְיָ֗ה וַֽאֲנִי֙ לֹ֣א שְׁלַחְתִּ֔יו וַ_יַּבְטַ֥ח_ אֶתְכֶ֖ם עַל־שָֽׁקֶר׃ (Jer. 29:31)
+NIV	“Send this message to all the exiles: ‘This is what the LORD says about Shemaiah the Nehelamite: Because Shemaiah has prophesied to you, even though I did not send him, and has led you to believe a lie,
+ESV	“Send to all the exiles, saying, ‘Thus says the Lord concerning Shemaiah of Nehelam: Because Shemaiah had prophesied to you when I did not send him, and has made you trust in a lie,
+
+(x)	אֲשֶׁר־שַׂ֠מְתָּ אֹתֹ֨ות וּמֹפְתִ֤ים בְּאֶֽרֶץ־מִצְרַ֨יִם֙ עַד־הַיֹּ֣ום הַזֶּ֔ה וּבְיִשְׂרָאֵ֖ל וּבָֽאָדָ֑ם וַ_תַּעֲשֶׂה_־לְּךָ֥ שֵׁ֖ם כַּיֹּ֥ום הַזֶּֽה׃ (Jer. 32:20)
+NIV	You performed miraculous signs and wonders in Egypt and have continued them to this day, both in Israel and among all mankind, and _have gained_ the renown that is still yours.
+ESV	You have shown signs and wonders in the land of Egypt, and to this day in Israel and among all mankind, and _have made_ a name for yourself, as at this day.
+
+(x)	וַ_נִּשְׁמַ֗ע_ בְּקֹ֨ול יְהֹונָדָ֤ב בֶּן־רֵכָב֙ אָבִ֔ינוּ לְכֹ֖ל אֲשֶׁ֣ר צִוָּ֑נוּ לְבִלְתִּ֤י שְׁתֹֽות־יַ֨יִן֙ כָּל־יָמֵ֔ינוּ אֲנַ֣חְנוּ נָשֵׁ֔ינוּ בָּנֵ֖ינוּ וּבְנֹתֵֽינוּ׃ (Jer. 35:8)
+NIV	_We have obeyed_ everything our forefather Jonadab son of Recab commanded us. Neither we nor our wives nor our sons and daughters have ever drunk wine
+ESV	_We have obeyed_ the voice of Jonadab the son of Rechab, our father, in all that he commanded us, to drink no wine all our days, ourselves, our wives, our sons, or our daughters,
+
+(x)	וַ_נֵּ֖שֶׁב_ בָּֽאֳהָלִ֑ים וַנִּשְׁמַ֣ע וַנַּ֔עַשׂ כְּכֹ֥ל אֲשֶׁר־צִוָּ֖נוּ יֹונָדָ֥ב אָבִֽינוּ׃ (Jer. 35:10)
+NIV	_We have lived_ in tents and have fully obeyed everything our forefather Jonadab commanded us.
+ESV	but _we have lived_ in tents and have obeyed and done all that Jonadab our father commanded us.
+
+(x)	וַנֵּ֖שֶׁב בָּֽאֳהָלִ֑ים וַ_נִּשְׁמַ֣ע_ וַנַּ֔עַשׂ כְּכֹ֥ל אֲשֶׁר־צִוָּ֖נוּ יֹונָדָ֥ב אָבִֽינוּ׃ (Jer. 35:10)
+NIV	We have lived in tents and have fully obeyed everything our forefather Jonadab commanded us.
+ESV	but we have lived in tents and _have obeyed_ and done all that Jonadab our father commanded us.
+
+(x)	לָכֵ֣ן אֱמֹ֗ר כֹּֽה־אָמַר֮ אֲדֹנָ֣י יְהוִה֒ כִּ֤י הִרְחַקְתִּים֙ בַּגֹּויִ֔ם וְכִ֥י הֲפִֽיצֹותִ֖ים בָּאֲרָצֹ֑ות וָ_אֱהִ֤י_ לָהֶם֙ לְמִקְדָּ֣שׁ מְעַ֔ט בָּאֲרָצֹ֖ות אֲשֶׁר־בָּ֥אוּ שָֽׁם׃ ס (Ezek. 11:16)
+NIV	“Therefore say: ‘This is what the Sovereign LORD says: Although I sent them far away among the nations and scattered them among the countries, yet for a little while _I have been_ a sanctuary for them in the countries where they have gone.’
+ESV	Therefore say, ‘Thus says the Lord God: Though I removed them far off among the nations, and though I scattered them among the countries, yet _I have been_ a sanctuary to them for a while in the countries where they have gone.’
+
+(x)	וַ_תְּחַלֶּלְ֨נָה_ אֹתִ֜י אֶל־עַמִּ֗י בְּשַׁעֲלֵ֣י שְׂעֹרִים֮ וּבִפְתֹ֣ותֵי לֶחֶם֒ לְהָמִ֤ית נְפָשֹׁות֙ אֲשֶׁ֣ר לֹֽא־תְמוּתֶ֔נָה וּלְחַיֹּ֥ות נְפָשֹׁ֖ות אֲשֶׁ֣ר לֹא־תִֽחְיֶ֑ינָה בְּכַ֨זֶּבְכֶ֔ם לְעַמִּ֖י שֹׁמְעֵ֥י כָזָֽב׃ ס (Ezek. 13:19)
+NIV	_You have profaned_ me among my people for a few handfuls of barley and scraps of bread. By lying to my people, who listen to lies, you have killed those who should not have died and have spared those who should not live.
+ESV	_You have profaned_ me among my people for handfuls of barley and for pieces of bread, putting to death souls who should not die and keeping alive souls who should not live, by your lying to my people, who listen to lies.
+
+(x)	וְשֹׁ֣מְרֹ֔ון כַּחֲצִ֥י חַטֹּאתַ֖יִךְ לֹ֣א חָטָ֑אָה וַתַּרְבִּ֤י אֶת־תֹּועֲבֹותַ֨יִךְ֙ מֵהֵ֔נָּה וַ_תְּצַדְּקִי֙_ אֶת־אֲחֹותַ֔יִךְ בְּכָל־תֹּועֲבֹותַ֖יִךְ אֲשֶׁ֥ר עָשִֽׂית׃ (Ezek. 16:51)
+NIV	Samaria did not commit half the sins you did. You have done more detestable things than they, and have made your sisters seem righteous by all these things you have done.
+ESV	Samaria has not committed half your sins. You have committed more abominations than they, and have made your sisters appear righteous by all the abominations that you have committed.
+
+(x)	בְּדָמֵ֨ךְ אֲשֶׁר־שָׁפַ֜כְתְּ אָשַׁ֗מְתְּ וּבְגִלּוּלַ֤יִךְ אֲשֶׁר־עָשִׂית֙ טָמֵ֔את וַ_תַּקְרִ֣יבִי_ יָמַ֔יִךְ וַתָּבֹ֖וא עַד־שְׁנֹותָ֑יִךְ עַל־כֵּ֗ן נְתַתִּ֤יךְ חֶרְפָּה֙ לַגֹּויִ֔ם וְקַלָּסָ֖ה לְכָל־הָאֲרָצֹֽות׃ (Ezek. 22:4)
+NIV	you have become guilty because of the blood you have shed and have become defiled by the idols you have made. You have brought your days to a close, and the end of your years has come. Therefore I will make you an object of scorn to the nations and a laughing-stock to all the countries.
+ESV	You have become guilty by the blood that you have shed, and defiled by the idols that you have made, and you have brought your days near, the appointed time of your years has come. Therefore I have made you a reproach to the nations, and a mockery to all the countries.
+
+(x)	בְּרֹ֧ב חָכְמָתְךָ֛ בִּרְכֻלָּתְךָ֖ הִרְבִּ֣יתָ חֵילֶ֑ךָ וַ_יִּגְבַּ֥הּ_ לְבָבְךָ֖ בְּחֵילֶֽךָ׃ ס (Ezek. 28:5)
+NIV	By your great skill in trading you have increased your wealth, and because of your wealth your heart _has grown proud_.
+ESV	by your great wisdom in your trade you have increased your wealth, and your heart _has become proud_ in your wealth —
+
+(x)	חַי־אָ֜נִי נְאֻ֣ם׀ אֲדֹנָ֣י יְהוִ֗ה אִם־לֹ֣א יַ֣עַן הֱיֹֽות־צֹאנִ֣י׀ לָבַ֡ז וַ_תִּֽהְיֶינָה֩_ צֹאנִ֨י לְאָכְלָ֜ה לְכָל־חַיַּ֤ת הַשָּׂדֶה֙ מֵאֵ֣ין רֹעֶ֔ה וְלֹֽא־דָרְשׁ֥וּ רֹעַ֖י אֶת־צֹאנִ֑י וַיִּרְע֤וּ הָֽרֹעִים֙ אֹותָ֔ם וְאֶת־צֹאנִ֖י לֹ֥א רָעֽוּ׃ ס (Ezek. 34:8)
+NIV	As surely as I live, declares the Sovereign LORD, because my flock lacks a shepherd and so has been plundered and _has become_ food for all the wild animals, and because my shepherds did not search for my flock but cared for themselves rather than for my flock,
+ESV	As I live, declares the Lord God, surely because my sheep _have become_ a prey, and my sheep _have become_ food for all the wild beasts, since there was no shepherd, and because my shepherds have not searched for my sheep, but the shepherds have fed themselves, and have not fed my sheep,
+
+(x)	וַ_יִּשְׁכַּ֨ח_ יִשְׂרָאֵ֜ל אֶת־עֹשֵׂ֗הוּ וַיִּ֨בֶן֙ הֵֽיכָלֹ֔ות וִֽיהוּדָ֕ה הִרְבָּ֖ה עָרִ֣ים בְּצֻרֹ֑ות וְשִׁלַּחְתִּי־אֵ֣שׁ בְּעָרָ֔יו וְאָכְלָ֖ה אַרְמְנֹתֶֽיהָ׃ ס (Hos. 8:14)
+NIV	Israel _has forgotten_ his Maker and built palaces. Judah has fortified many towns. But I will send fire upon their cities that will consume their fortresses.”
+ESV	For Israel _has forgotten_ his Maker and built palaces, and Judah has multiplied fortified cities. so I will send a fire upon his cities, and it shall devour her strongholds.
+
+(x)	כֹּ֚ה אָמַ֣ר יְהוָ֔ה עַל־שְׁלֹשָׁה֙ פִּשְׁעֵ֣י יְהוּדָ֔ה וְעַל־אַרְבָּעָ֖ה לֹ֣א אֲשִׁיבֶ֑נּוּ עַֽל־מָאֳסָ֞ם אֶת־תֹּורַ֣ת יְהוָ֗ה וְחֻקָּיו֙ לֹ֣א שָׁמָ֔רוּ וַ_יַּתְעוּם֙_ כִּזְבֵיהֶ֔ם אֲשֶׁר־הָלְכ֥וּ אֲבֹותָ֖ם אַחֲרֵיהֶֽם׃ (Amos 2:4)
+NIV	This is what the LORD says: “For three sins of Judah, even for four, I will not turn back [ my wrath ]. Because they have rejected the law of the LORD and have not kept his decrees, because they _have been led astray_ by false gods, the gods their ancestors followed,
+ESV	Thus says the Lord: “For three transgressions of Judah, and for four, I will not revoke the punishment, because they have rejected the law of the Lord, and have not kept his statutes, but their lies have led them astray, those after which their fathers walked.
+
+(x)	וָאֹמַ֕ר מָ֛ה אֵ֥לֶּה בָאִ֖ים לַֽעֲשֹׂ֑ות וַיֹּ֣אמֶר לֵאמֹ֗ר אֵ֣לֶּה הַקְּרָנֹ֞ות אֲשֶׁר־זֵ֣רוּ אֶת־יְהוּדָ֗ה כְּפִי־אִישׁ֙ לֹא־נָשָׂ֣א רֹאשֹׁ֔ו וַ_יָּבֹ֤אוּ_ אֵ֨לֶּה֙ לְהַחֲרִ֣יד אֹתָ֔ם לְיַדֹּ֞ות אֶת־קַרְנֹ֣ות הַגֹּויִ֗ם הַנֹּשְׂאִ֥ים קֶ֛רֶן אֶל־אֶ֥רֶץ יְהוּדָ֖ה לְזָרֹותָֽהּ׃ ס (Zech. 2:4)
+NIV	I asked, “What are these coming to do?” He answered, “These are the horns that scattered Judah so that no-one could raise his head, but the craftsmen _have come_ to terrify them and throw down these horns of the nations who lifted up their horns against the land of Judah to scatter its people.”
+ESV	And I said, “What are these coming to do?” He said, “These are the horns that scattered Judah, so that no one raised his head. And these _have come_ to terrify them, to cast down the horns of the nations who lifted up their horns against the land of Judah to scatter it.”
+
+(x)	אָהַ֤בְתִּי אֶתְכֶם֙ אָמַ֣ר יְהוָ֔ה וַאֲמַרְתֶּ֖ם בַּמָּ֣ה אֲהַבְתָּ֑נוּ הֲלֹוא־אָ֨ח עֵשָׂ֤ו לְיַֽעֲקֹב֙ נְאֻם־יְהוָ֔ה וָ_אֹהַ֖ב_ אֶֽת־יַעֲקֹֽב׃ (Mal. 1:2)
+NIV	“_I have loved_ you,” says the LORD. “But you ask, ‘How have you loved us?’ “Was not Esau Jacob’s brother?” the LORD says. “Yet _I have loved_ Jacob,
+ESV	“_I have loved_ you,” says the Lord. But you say, “How have you loved us?” “Is not Esau Jacob’s brother?” declares the Lord. “Yet _I have loved_ Jacob
+
+(x)	וְאֶת־עֵשָׂ֖ו שָׂנֵ֑אתִי וָ_אָשִׂ֤ים_ אֶת־הָרָיו֙ שְׁמָמָ֔ה וְאֶת־נַחֲלָתֹ֖ו לְתַנֹּ֥ות מִדְבָּֽר׃ (Mal. 1:3)
+NIV	but Esau I have hated, and _I have turned_ his mountains into a wasteland and left his inheritance to the desert jackals.”
+ESV	but Esau I have hated. _I have laid_ waste his hill country and left his heritage to jackals of the desert.”

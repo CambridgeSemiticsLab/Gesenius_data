@@ -1,0 +1,41 @@
+,sum
+MOD let ~ MOD may,0.18
+IMPV ~ MOD let,0.13
+FUT ~ MOD shall,0.13
+FUT ~ MOD may,0.09
+IMPV ~ MOD may,0.03
+MOD let ~ TO INF,0.03
+IMPV ~ MOD should,0.03
+MOD may ~ PRES,0.03
+IMPV ~ PRES,0.03
+MOD let ~ PRES,0.02
+MOD must ~ MOD shall,0.02
+IMPV ~ MOD shall,0.02
+FUT ~ PRES,0.02
+MOD shall ~ PRES,0.02
+IMPV ~ TO INF,0.02
+IMPV ~ PRES PART,0.02
+FUT ~ IMPV,0.01
+MOD let ~ MOD must,0.01
+MOD let ~ MOD that,0.01
+IMPV ~ MOD is to,0.01
+MOD can ~ MOD may,0.01
+PRES PART ~ TO INF,0.01
+MOD would ~ TO INF,0.01
+MOD let ~ PRES PART,0.01
+MOD shall ~ PRES PART,0.01
+MOD must ~ PRES,0.01
+MOD can ~ MOD let,0.01
+MOD let ~ PAST,0.01
+FUT ~ TO INF,0.01
+MOD let ~ MOD should,0.01
+MOD is to ~ MOD shall,0.01
+MOD is to ~ MOD let,0.01
+IMPV ~ MOD can,0.01
+MOD would ~ PRES,0.01
+FUT ~ PRES PART,0.01
+MOD can ~ TO INF,0.01
+FUT ~ MOD let,0.01
+MOD may ~ PRES PART,0.01
+MOD might ~ TO INF,0.01
+MOD may ~ MOD must,0.01

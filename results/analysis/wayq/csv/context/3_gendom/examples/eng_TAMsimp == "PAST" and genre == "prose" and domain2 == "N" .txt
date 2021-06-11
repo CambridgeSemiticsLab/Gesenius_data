@@ -1,0 +1,42 @@
+eng_TAMsimp == "PAST" and genre == "prose" and domain2 == "N" 
+10 of 9133
+
+(x)	וַ_יֹּ֥אמֶר_ אֱלֹהִ֖ים יְהִ֣י אֹ֑ור וַֽיְהִי־אֹֽור׃ (Gen. 1:3)
+NIV	And God _said_, “Let there be light,” and there was light.
+ESV	And God _said_, “Let there be light,” and there was light.
+
+(x)	וַ_יִּשָּׂ֨א_ יַעֲקֹ֜ב עֵינָ֗יו וַיַּרְא֙ וְהִנֵּ֣ה עֵשָׂ֣ו בָּ֔א וְעִמֹּ֕ו אַרְבַּ֥ע מֵאֹ֖ות אִ֑ישׁ וַיַּ֣חַץ אֶת־הַיְלָדִ֗ים עַל־לֵאָה֙ וְעַל־רָחֵ֔ל וְעַ֖ל שְׁתֵּ֥י הַשְּׁפָחֹֽות׃ (Gen. 33:1)
+NIV	Jacob _looked up_ and there was Esau, coming with his four hundred men. so he divided the children among Leah, Rachel and the two maidservants.
+ESV	And Jacob _lifted up_ his eyes and looked, and behold, Esau was coming, and four hundred men with him. So he divided the children among Leah and Rachel and the two female servants.
+
+(x)	וַ_יַּרְא֙_ חֹתֵ֣ן מֹשֶׁ֔ה אֵ֛ת כָּל־אֲשֶׁר־ה֥וּא עֹשֶׂ֖ה לָעָ֑ם וַיֹּ֗אמֶר מָֽה־הַדָּבָ֤ר הַזֶּה֙ אֲשֶׁ֨ר אַתָּ֤ה עֹשֶׂה֙ לָעָ֔ם מַדּ֗וּעַ אַתָּ֤ה יֹושֵׁב֙ לְבַדֶּ֔ךָ וְכָל־הָעָ֛ם נִצָּ֥ב עָלֶ֖יךָ מִן־בֹּ֥קֶר עַד־עָֽרֶב׃ (Exod. 18:14)
+NIV	When his father-in-law _saw_ all that Moses was doing for the people, he said, “What is this you are doing for the people? Why do you alone sit as judge, while all these people stand around you from morning till evening?”
+ESV	When Moses’ father-in-law _saw_ all that he was doing for the people, he said, “What is this that you are doing for the people? Why do you sit alone, and all the people stand around you from morning till evening?”
+
+(x)	וַ_יַּכֶּ֣ה_ יְהֹושֻׁ֣עַ אֶת־כָּל־הָאָ֡רֶץ הָהָר֩ וְהַנֶּ֨גֶב וְהַשְּׁפֵלָ֜ה וְהָאֲשֵׁדֹ֗ות וְאֵת֙ כָּל־מַלְכֵיהֶ֔ם לֹ֥א הִשְׁאִ֖יר שָׂרִ֑יד וְאֵ֤ת כָּל־הַנְּשָׁמָה֙ הֶחֱרִ֔ים כַּאֲשֶׁ֣ר צִוָּ֔ה יְהוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃ (Josh. 10:40)
+NIV	So Joshua _subdued_ the whole region, including the hill country, the Negev, the western foothills and the mountain slopes, together with all their kings. He left no survivors. He totally destroyed all who breathed, just as the LORD, the God of Israel, had commanded.
+ESV	So Joshua _struck_ the whole land, the hill country and the Negeb and the lowland and the slopes, and all their kings. He left none remaining, but devoted to destruction all that breathed, just as the Lord God of Israel commanded.
+
+(x)	וַיִּקְרָ֤א עֵלִי֙ אֶת־שְׁמוּאֵ֔ל וַ_יֹּ֖אמֶר_ שְׁמוּאֵ֣ל בְּנִ֑י וַ_יֹּ֖אמֶר_ הִנֵּֽנִי׃ (I Sam. 3:16)
+NIV	but Eli called him and said, “Samuel, my son.” _Samuel answered_, “Here I am.”
+ESV	But Eli called Samuel and said, “Samuel, my son.” And _he said_, “Here I am.”
+
+(x)	וְאַבְנֵ֣ר וַֽאֲנָשָׁ֗יו הָֽלְכוּ֙ בָּֽעֲרָבָ֔ה כֹּ֖ל הַלַּ֣יְלָה הַה֑וּא וַ_יַּעַבְר֣וּ_ אֶת־הַיַּרְדֵּ֗ן וַיֵּֽלְכוּ֙ כָּל־הַבִּתְרֹ֔ון וַיָּבֹ֖אוּ מַחֲנָֽיִם׃ (II Sam. 2:29)
+NIV	All that night Abner and his men marched through the Arabah. _They crossed_ the Jordan, continued through the whole Bithron and came to Mahanaim.
+ESV	And Abner and his men went all that night through the Arabah. _They crossed_ the Jordan, and marching the whole morning, they came to Mahanaim.
+
+(x)	וַֽיִּשְׁלְחוּ֙ וַיִּקְרְאוּ־לֹ֔ו וַיָּבֹ֥א יָרָבְעָ֖ם וְכָל־קְהַ֣ל יִשְׂרָאֵ֑ל וַֽ_יְדַבְּר֔וּ_ אֶל־רְחַבְעָ֖ם לֵאמֹֽר׃ (I Kgs. 12:3)
+NIV	So they sent for Jeroboam, and he and the whole assembly of Israel went to Rehoboam and _said_ to him:
+ESV	And they sent and called him, and Jeroboam and all the assembly of Israel came and _said_ to Rehoboam,
+
+(x)	וַיִּקַּ֞ח יְהֹואָ֣שׁ מֶֽלֶךְ־יְהוּדָ֗ה אֵ֣ת כָּל־הַקֳּדָשִׁ֡ים אֲשֶׁר־הִקְדִּ֣ישׁוּ יְהֹושָׁפָ֣ט וִיהֹורָם֩ וַאֲחַזְיָ֨הוּ אֲבֹתָ֜יו מַלְכֵ֤י יְהוּדָה֙ וְאֶת־קֳדָשָׁ֔יו וְאֵ֣ת כָּל־הַזָּהָ֗ב הַנִּמְצָ֛א בְּאֹצְרֹ֥ות בֵּית־יְהוָ֖ה וּבֵ֣ית הַמֶּ֑לֶךְ וַ_יִּשְׁלַ֗ח_ לַֽחֲזָאֵל֙ מֶ֣לֶךְ אֲרָ֔ם וַיַּ֖עַל מֵעַ֥ל יְרוּשָׁלִָֽם׃ (II Kgs. 12:19)
+NIV	But Joash king of Judah took all the sacred objects dedicated by his fathers — Jehoshaphat, Jehoram and Ahaziah, the kings of Judah — and the gifts he himself had dedicated and all the gold found in the treasuries of the temple of the LORD and of the royal palace, and _he sent_ them to Hazael king of Aram, who then withdrew from Jerusalem.
+ESV	Jehoash king of Judah took all the sacred gifts that Jehoshaphat and Jehoram and Ahaziah his fathers, the kings of Judah, had dedicated, and his own sacred gifts, and all the gold that was found in the treasuries of the house of the Lord and of the king’s house, and _sent_ these to Hazael king of Syria. Then Hazael went away from Jerusalem.
+
+(x)	וַ֠יָּבֹאוּ כָּל־זִקְנֵ֨י יִשְׂרָאֵ֤ל אֶל־הַמֶּ֨לֶךְ֙ חֶבְרֹ֔ונָה וַ_יִּכְרֹת֩_ לָהֶ֨ם דָּוִ֥יד בְּרִ֛ית בְּחֶבְרֹ֖ון לִפְנֵ֣י יְהוָ֑ה וַיִּמְשְׁח֨וּ אֶת־דָּוִ֤יד לְמֶ֨לֶךְ֙ עַל־יִשְׂרָאֵ֔ל כִּדְבַ֥ר יְהוָ֖ה בְּיַד־שְׁמוּאֵֽל׃ ס (I Chr. 11:3)
+NIV	When all the elders of Israel had come to King David at Hebron, _he made_ a compact with them at Hebron before the LORD, and they anointed David king over Israel, as the LORD had promised through Samuel.
+ESV	So all the elders of Israel came to the king at Hebron, and David _made_ a covenant with them at Hebron before the Lord. And they anointed David king over Israel, according to the word of the Lord by Samuel.
+
+(x)	וַיֶּ֛גֶל הַשְּׁאֵרִ֥ית מִן־הַחֶ֖רֶב אֶל־בָּבֶ֑ל וַֽ_יִּהְיוּ_־לֹ֤ו וּלְבָנָיו֙ לַעֲבָדִ֔ים עַד־מְלֹ֖ךְ מַלְכ֥וּת פָּרָֽס׃ (II Chr. 36:20)
+NIV	He carried into exile to Babylon the remnant who escaped from the sword, and _they became_ servants to him and his sons until the kingdom of Persia came to power.
+ESV	He took into exile in Babylon those who had escaped from the sword, and _they became_ servants to him and to his sons until the establishment of the kingdom of Persia,

@@ -1,0 +1,46 @@
+esv_TAM == "TO INF" or niv_TAM == "TO INF"
+11 of 11
+
+(x)	יַעֲשֶׂ֣ה פַרְעֹ֔ה וְ_יַפְקֵ֥ד_ פְּקִדִ֖ים עַל־הָאָ֑רֶץ וְחִמֵּשׁ֙ אֶת־אֶ֣רֶץ מִצְרַ֔יִם בְּשֶׁ֖בַע שְׁנֵ֥י הַשָּׂבָֽע׃ (Gen. 41:34)
+NIV	Let Pharaoh appoint commissioners over the land to take a fifth of the harvest of Egypt during the seven years of abundance.
+ESV	Let Pharaoh proceed to _appoint_ overseers over the land and take one-fifth of the produce of the land of Egypt during the seven plentiful years.
+
+(x)	וְאִישׁ֙ לֹֽא־יַעֲלֶ֣ה עִמָּ֔ךְ וְגַם־אִ֥ישׁ אַל־_יֵרָ֖א_ בְּכָל־הָהָ֑ר גַּם־הַצֹּ֤אן וְהַבָּקָר֙ אַל־יִרְע֔וּ אֶל־מ֖וּל הָהָ֥ר הַהֽוּא׃ (Exod. 34:3)
+NIV	No one is to come with you or _be seen_ anywhere on the mountain. not even the flocks and herds may graze in front of the mountain.”
+ESV	No one shall come up with you, and let no one be seen throughout all the mountain. Let no flocks or herds graze opposite that mountain.”
+
+(x)	וַיְהִ֣י׀ בַּיֹּ֣ום הַשְּׁבִיעִ֗י וַיֹּאמְר֤וּ לְאֵֽשֶׁת־שִׁמְשֹׁון֙ פַּתִּ֣י אֶת־אִישֵׁ֗ךְ וְ_יַגֶּד_־לָ֨נוּ֙ אֶת־הַ֣חִידָ֔ה פֶּן־נִשְׂרֹ֥ף אֹותָ֛ךְ וְאֶת־בֵּ֥ית אָבִ֖יךְ בָּאֵ֑שׁ הַלְיָרְשֵׁ֕נוּ קְרָאתֶ֥ם לָ֖נוּ הֲלֹֽא׃ (Judg. 14:15)
+NIV	On the fourth day, they said to Samson’s wife, “Coax your husband into _explaining_ the riddle for us, or we will burn you and your father’s household to death. Did you invite us here to rob us?”
+ESV	On the fourth day they said to Samson’s wife, “Entice your husband to _tell_ us what the riddle is, lest we burn you and your father’s house with fire. Have you invited us here to impoverish us?”
+
+(x)	וַיֹּ֧אמְרוּ לֹ֣ו עֲבָדָ֗יו יְבַקְשׁ֞וּ לַאדֹנִ֤י הַמֶּ֨לֶךְ֙ נַעֲרָ֣ה בְתוּלָ֔ה וְעָֽמְדָה֙ לִפְנֵ֣י הַמֶּ֔לֶךְ וּ_תְהִי_־לֹ֖ו סֹכֶ֑נֶת וְשָׁכְבָ֣ה בְחֵיקֶ֔ךָ וְחַ֖ם לַאדֹנִ֥י הַמֶּֽלֶךְ׃ (I Kgs. 1:2)
+NIV	So his servants said to him, “Let us look for a young virgin to attend the king and _take care_ of him. She can lie beside him so that our lord the king may keep warm.”
+ESV	Therefore his servants said to him, “Let a young woman _be_ sought for my lord the king, and let her wait on the king and _be_ in his service. Let her lie in your arms, that my lord the king may _be_ warm.”
+
+(x)	וַתָּ֗שָׁב וַתֹּ֤אכַל לֶ֨חֶם֙ וַ_תֵּ֣שְׁתְּ_ מַ֔יִם בַּמָּקֹום֙ אֲשֶׁ֣ר דִּבֶּ֣ר אֵלֶ֔יךָ אַל־תֹּ֥אכַל לֶ֖חֶם וְאַל־_תֵּ֣שְׁתְּ_ מָ֑יִם לֹֽא־תָבֹ֥וא נִבְלָתְךָ֖ אֶל־קֶ֥בֶר אֲבֹתֶֽיךָ׃ (I Kgs. 13:22)
+NIV	You came back and ate bread and drank water in the place where he told you not to eat or _drink_. Therefore your body will not be buried in the tomb of your fathers.’”
+ESV	but have come back and have eaten bread and drunk water in the place of which he said to you, “Eat no bread and _drink_ no water,” your body shall not come to the tomb of your fathers.’”
+
+(x)	אִמְרוּ֙ לְנִמְהֲרֵי־לֵ֔ב חִזְק֖וּ אַל־תִּירָ֑אוּ הִנֵּ֤ה אֱלֹֽהֵיכֶם֙ נָקָ֣ם יָבֹ֔וא גְּמ֣וּל אֱלֹהִ֔ים ה֥וּא יָבֹ֖וא וְ_יֹשַׁעֲכֶֽם_׃ (Isa. 35:4)
+NIV	say to those with fearful hearts, “Be strong, do not fear. your God will come, he will come with vengeance. with divine retribution he will come to _save_ you.”
+ESV	Say to those who have an anxious heart, “Be strong. fear not! Behold, your God will come with vengeance, with the recompense of God. He will come and _save_ you.”
+
+(x)	מִֽי־הָאִ֤ישׁ הֶֽחָכָם֙ וְ_יָבֵ֣ן_ אֶת־זֹ֔את וַאֲשֶׁ֨ר דִּבֶּ֧ר פִּֽי־יְהוָ֛ה אֵלָ֖יו וְיַגִּדָ֑הּ עַל־מָה֙ אָבְדָ֣ה הָאָ֔רֶץ נִצְּתָ֥ה כַמִּדְבָּ֖ר מִבְּלִ֖י עֹבֵֽר׃ ס (Jer. 9:11)
+NIV	What man is wise enough to _understand_ this? Who has been instructed by the LORD and can explain it? Why has the land been ruined and laid waste like a desert that no-one can cross?
+ESV	Who is the man so wise that _he can understand_ this? To whom has the mouth of the Lord spoken, that he may declare it? Why is the land ruined and laid waste like a wilderness, so that no one passes through?
+
+(x)	כִּֽי־כֹ֣ה׀ אָמַ֣ר יְהוָ֗ה אַל־תָּבֹוא֙ בֵּ֣ית מַרְזֵ֔חַ וְאַל־תֵּלֵ֣ךְ לִסְפֹּ֔וד וְאַל־_תָּנֹ֖ד_ לָהֶ֑ם כִּֽי־אָסַ֨פְתִּי אֶת־שְׁלֹומִ֜י מֵאֵ֨ת הָעָ֤ם־הַזֶּה֙ נְאֻם־יְהוָ֔ה אֶת־הַחֶ֖סֶד וְאֶת־הָֽרַחֲמִֽים׃ (Jer. 16:5)
+NIV	For this is what the LORD says: “Do not enter a house where there is a funeral meal. do not go to mourn or _show sympathy_, because I have withdrawn my blessing, my love and my pity from this people,” declares the LORD.
+ESV	“For thus says the Lord: Do not enter the house of mourning, or go to lament or _grieve_ for them, for I have taken away my peace from this people, my steadfast love and mercy, declares the Lord.
+
+(x)	וְיֹאֵ֣ל אֱ֭לֹוהַּ וִֽידַכְּאֵ֑נִי _יַתֵּ֥ר_ יָ֝דֹ֗ו וִֽיבַצְּעֵֽנִי׃ (Job 6:9)
+NIV	that God would be willing to crush me, to _let loose_ his hand and cut me off!
+ESV	that it would please God to crush me, that _he would let loose_ his hand and cut me off!
+
+(x)	לֹ֣א יֵשׁ־בֵּינֵ֣ינוּ מֹוכִ֑יחַ _יָשֵׁ֖ת_ יָדֹ֣ו עַל־שְׁנֵֽינוּ׃ (Job 9:33)
+NIV	If only there were someone to arbitrate between us, to _lay_ his hand upon us both,
+ESV	There is no arbiter between us, who _might lay_ his hand on us both.
+
+(x)	_יָסֵ֣ר_ מֵעָלַ֣י שִׁבְטֹ֑ו וְ֝אֵמָתֹ֗ו אַֽל־תְּבַעֲתַֽנִּי׃ (Job 9:34)
+NIV	someone to _remove_ God’s rod from me, so that his terror would frighten me no more.
+ESV	Let him take his rod away from me, and let not dread of him terrify me.

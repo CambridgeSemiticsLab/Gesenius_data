@@ -1,0 +1,18 @@
+eng_TAMsimp == "PAST ~ PAST PROG" and lex == "ישׁב"
+4 of 4
+
+(x)	וַ_יֵּ֖שֶׁב_ בְּמִדְבַּ֣ר פָּארָ֑ן וַתִּֽקַּֽח־לֹ֥ו אִמֹּ֛ו אִשָּׁ֖ה מֵאֶ֥רֶץ מִצְרָֽיִם׃ פ (Gen. 21:21)
+NIV	While _he was living_ in the Desert of Paran, his mother got a wife for him from Egypt.
+ESV	_He lived_ in the wilderness of Paran, and his mother took a wife for him from the land of Egypt.
+
+(x)	וְרָחֵ֞ל לָקְחָ֣ה אֶת־הַתְּרָפִ֗ים וַתְּשִׂמֵ֛ם בְּכַ֥ר הַגָּמָ֖ל וַ_תֵּ֣שֶׁב_ עֲלֵיהֶ֑ם וַיְמַשֵּׁ֥שׁ לָבָ֛ן אֶת־כָּל־הָאֹ֖הֶל וְלֹ֥א מָצָֽא׃ (Gen. 31:34)
+NIV	Now Rachel had taken the household gods and put them inside her camel’s saddle and _was sitting_ on them. Laban searched through everything in the tent but found nothing.
+ESV	Now Rachel had taken the household gods and put them in the camel’s saddle and _sat_ on them. Laban felt all about the tent, but did not find them.
+
+(x)	וַ_יֵּ֥שֶׁב_ יִשְׂרָאֵ֖ל בַּשִּׁטִּ֑ים וַיָּ֣חֶל הָעָ֔ם לִזְנֹ֖ות אֶל־בְּנֹ֥ות מֹואָֽב׃ (Num. 25:1)
+NIV	While Israel _was staying_ in Shittim, the men began to indulge in sexual immorality with Moabite women,
+ESV	While Israel _lived_ in Shittim, the people began to whore with the daughters of Moab.
+
+(x)	וַיִּקָּבְצ֣וּ כָל־אַנְשֵֽׁי־יְהוּדָה֩ וּבִנְיָמִ֨ן׀ יְרוּשָׁלִַ֜ם לִשְׁלֹ֣שֶׁת הַיָּמִ֗ים ה֛וּא חֹ֥דֶשׁ הַתְּשִׁיעִ֖י בְּעֶשְׂרִ֣ים בַּחֹ֑דֶשׁ וַ_יֵּשְׁב֣וּ_ כָל־הָעָ֗ם בִּרְחֹוב֙ בֵּ֣ית הָאֱלֹהִ֔ים מַרְעִידִ֥ים עַל־הַדָּבָ֖ר וּמֵהַגְּשָׁמִֽים׃ פ (Ezra 10:9)
+NIV	Within the three days, all the men of Judah and Benjamin had gathered in Jerusalem. And on the twentieth day of the ninth month, all the people _were sitting_ in the square before the house of God, greatly distressed by the occasion and because of the rain.
+ESV	Then all the men of Judah and Benjamin assembled at Jerusalem within the three days. It was the ninth month, on the twentieth day of the month. And all the people _sat_ in the open square before the house of God, trembling because of this matter and because of the heavy rain.

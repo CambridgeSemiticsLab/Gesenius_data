@@ -1,0 +1,10 @@
+eng_TAMsimp == "MOD would"and genre == "poetry" and domain2 == "Q" 
+2 of 2
+
+(x)	וַֽ֭_יַּאֲכִילֵהוּ_ מֵחֵ֣לֶב חִטָּ֑ה וּ֝מִצּ֗וּר דְּבַ֣שׁ אַשְׂבִּיעֶֽךָ׃ (Psa. 81:17)
+NIV	But you _would be fed_ with the finest of wheat. with honey from the rock I would satisfy you.”
+ESV	But _he would feed_ you with the finest of the wheat, and with honey from the rock I would satisfy you.”
+
+(x)	אִם־אֶ֭צְדָּק פִּ֣י יַרְשִׁיעֵ֑נִי תָּֽם־אָ֝֗נִי וַֽ_יַּעְקְשֵֽׁנִי_׃ (Job 9:20)
+NIV	Even if I were innocent, my mouth would condemn me. if I were blameless, it would pronounce me guilty.
+ESV	Though I am in the right, my own mouth would condemn me. though I am blameless, he would prove me perverse.

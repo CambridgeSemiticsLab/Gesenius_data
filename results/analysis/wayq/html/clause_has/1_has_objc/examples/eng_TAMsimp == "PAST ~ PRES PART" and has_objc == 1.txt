@@ -1,0 +1,102 @@
+eng_TAMsimp == "PAST ~ PRES PART" and has_objc == 1
+25 of 123
+
+(x)	וְהָ֣אָדָ֔ם יָדַ֖ע אֶת־חַוָּ֣ה אִשְׁתֹּ֑ו וַתַּ֨הַר֙ וַתֵּ֣לֶד אֶת־קַ֔יִן וַ_תֹּ֕אמֶר_ קָנִ֥יתִי אִ֖ישׁ אֶת־יְהוָֽה׃ (Gen. 4:1)
+NIV	Adam lay with his wife Eve, and she became pregnant and gave birth to Cain. _She said_, “With the help of the LORD I have brought forth a man.”
+ESV	Now Adam knew Eve his wife, and she conceived and bore Cain, _saying_, “I have gotten a man with the help of the Lord.”
+
+(x)	וַיִּֽקַּֽח־לֹ֣ו יַעֲקֹ֗ב מַקַּ֥ל לִבְנֶ֛ה לַ֖ח וְל֣וּז וְעֶרְמֹ֑ון וַ_יְפַצֵּ֤ל_ בָּהֵן֙ פְּצָלֹ֣ות לְבָנֹ֔ות מַחְשֹׂף֙ הַלָּבָ֔ן אֲשֶׁ֖ר עַל־הַמַּקְלֹֽות׃ (Gen. 30:37)
+NIV	Jacob, however, took fresh-cut branches from poplar, almond and plane trees and made white stripes on them by _peeling_ the bark and exposing the white inner wood of the branches.
+ESV	Then Jacob took fresh sticks of poplar and almond and plane trees, and _peeled_ white streaks in them, exposing the white of the sticks.
+
+(x)	וַיִּשְׁמַ֣ע רְאוּבֵ֔ן וַיַּצִּלֵ֖הוּ מִיָּדָ֑ם וַ_יֹּ֕אמֶר_ לֹ֥א נַכֶּ֖נּוּ נָֽפֶשׁ׃ (Gen. 37:21)
+NIV	When Reuben heard this, he tried to rescue him from their hands. “Let’s not take his life,” _he said_.
+ESV	But when Reuben heard it, he rescued him out of their hands, _saying_, “Let us not take his life.”
+
+(x)	וַ_יֹּאמֶר֩_ אִם־שָׁמֹ֨ועַ תִּשְׁמַ֜ע לְקֹ֣ול׀ יְהוָ֣ה אֱלֹהֶ֗יךָ וְהַיָּשָׁ֤ר בְּעֵינָיו֙ תַּעֲשֶׂ֔ה וְהַֽאֲזַנְתָּ֙ לְמִצְוֹתָ֔יו וְשָׁמַרְתָּ֖ כָּל־חֻקָּ֑יו כָּֽל־הַמַּֽחֲלָ֞ה אֲשֶׁר־שַׂ֤מְתִּי בְמִצְרַ֨יִם֙ לֹא־אָשִׂ֣ים עָלֶ֔יךָ כִּ֛י אֲנִ֥י יְהוָ֖ה רֹפְאֶֽךָ׃ ס (Exod. 15:26)
+NIV	_He said_, “If you listen carefully to the voice of the LORD your God and do what is right in his eyes, if you pay attention to his commands and keep all his decrees, I will not bring on you any of the diseases I brought on the Egyptians, for I am the LORD, who heals you.”
+ESV	_saying_, “If you will diligently listen to the voice of the Lord your God, and do that which is right in his eyes, and give ear to his commandments and keep all his statutes, I will put none of the diseases on you that I put on the Egyptians, for I am the Lord, your healer.”
+
+(x)	וַיַּ֥ז מִמֶּ֛נּוּ עַל־הַמִּזְבֵּ֖חַ שֶׁ֣בַע פְּעָמִ֑ים וַ_יִּמְשַׁ֨ח_ אֶת־הַמִּזְבֵּ֜חַ וְאֶת־כָּל־כֵּלָ֗יו וְאֶת־הַכִּיֹּ֛ר וְאֶת־כַּנֹּ֖ו לְקַדְּשָֽׁם׃ (Lev. 8:11)
+NIV	He sprinkled some of the oil on the altar seven times, _anointing_ the altar and all its utensils and the basin with its stand, to consecrate them.
+ESV	And he sprinkled some of it on the altar seven times, and _anointed_ the altar and all its utensils and the basin and its stand, to consecrate them.
+
+(x)	מְעֹנָה֙ אֱלֹ֣הֵי קֶ֔דֶם וּמִתַּ֖חַת זְרֹעֹ֣ת עֹולָ֑ם וַיְגָ֧רֶשׁ מִפָּנֶ֛יךָ אֹויֵ֖ב וַ_יֹּ֥אמֶר_ הַשְׁמֵֽד׃ (Deut. 33:27)
+NIV	The eternal God is your refuge, and underneath are the everlasting arms. He will drive out your enemy before you, _saying_, ‘Destroy him!’
+ESV	The eternal God is your dwelling place, and underneath are the everlasting arms. And he thrust out the enemy before you and _said_, Destroy.
+
+(x)	וַֽ֠יִּמְצְאוּ אֶת־אֲדֹנִ֥י בֶ֨זֶק֙ בְּבֶ֔זֶק וַיִּֽלָּחֲמ֖וּ בֹּ֑ו וַ_יַּכּ֕וּ_ אֶת־הַֽכְּנַעֲנִ֖י וְאֶת־הַפְּרִזִּֽי׃ (Judg. 1:5)
+NIV	It was there that they found Adoni-bezek and fought against him, _putting to rout_ the Canaanites and Perizzites.
+ESV	They found Adoni-bezek at Bezek and fought against him and _defeated_ the Canaanites and the Perizzites.
+
+(x)	וַ_יִּ֣ירְשׁ֔וּ_ אֵ֖ת כָּל־גְּב֣וּל הָאֱמֹרִ֑י מֵֽאַרְנֹון֙ וְעַד־הַיַּבֹּ֔ק וּמִן־הַמִּדְבָּ֖ר וְעַד־הַיַּרְדֵּֽן׃ (Judg. 11:22)
+NIV	_capturing_ all of it from the Arnon to the Jabbok and from the desert to the Jordan.
+ESV	And _they took possession_ of all the territory of the Amorites from the Arnon to the Jabbok and from the wilderness to the Jordan.
+
+(x)	וַיָּבֹ֤א הָעָם֙ בֵּֽית־אֵ֔ל וַיֵּ֤שְׁבוּ שָׁם֙ עַד־הָעֶ֔רֶב לִפְנֵ֖י הָאֱלֹהִ֑ים וַ_יִּשְׂא֣וּ_ קֹולָ֔ם וַיִּבְכּ֖וּ בְּכִ֥י גָדֹֽול׃ (Judg. 21:2)
+NIV	The people went to Bethel, where they sat before God until evening, _raising_ their voices and weeping bitterly.
+ESV	And the people came to Bethel and sat there till evening before God, and _they lifted up_ their voices and wept bitterly.
+
+(x)	וַיֵּ֨צְא֜וּ אַנְשֵׁ֤י יִשְׂרָאֵל֙ מִן־הַמִּצְפָּ֔ה וַֽיִּרְדְּפ֖וּ אֶת־פְּלִשְׁתִּ֑ים וַ_יַּכּ֕וּם_ עַד־מִתַּ֖חַת לְבֵ֥ית כָּֽר׃ (I Sam. 7:11)
+NIV	The men of Israel rushed out of Mizpah and pursued the Philistines, _slaughtering_ them along the way to a point below Beth Car.
+ESV	And the men of Israel went out from Mizpah and pursued the Philistines and _struck_ them, as far as below Beth-car.
+
+(x)	וַיִּשְׁלָחֲךָ֥ יְהוָ֖ה בְּדָ֑רֶךְ וַ_יֹּ֗אמֶר_ לֵ֣ךְ וְהַחֲרַמְתָּ֞ה אֶת־הַֽחַטָּאִים֙ אֶת־עֲמָלֵ֔ק וְנִלְחַמְתָּ֣ בֹ֔ו עַ֥ד כַּלֹּותָ֖ם אֹתָֽם׃ (I Sam. 15:18)
+NIV	And he sent you on a mission, _saying_, ‘Go and completely destroy those wicked people, the Amalekites. make war on them until you have wiped them out.’
+ESV	And the Lord sent you on a mission and _said_, ‘Go, devote to destruction the sinners, the Amalekites, and fight against them until they are consumed.’
+
+(x)	וַיָּ֤טֶל שָׁאוּל֙ אֶֽת־הַחֲנִ֔ית וַ_יֹּ֕אמֶר_ אַכֶּ֥ה בְדָוִ֖ד וּבַקִּ֑יר וַיִּסֹּ֥ב דָּוִ֛ד מִפָּנָ֖יו פַּעֲמָֽיִם׃ (I Sam. 18:11)
+NIV	and he hurled it, _saying_ to himself, “I’ll pin David to the wall.” But David eluded him twice.
+ESV	And Saul hurled the spear, for _he thought_, “I will pin David to the wall.” But David evaded him twice.
+
+(x)	וַיִּשְׁלַ֥ח יֹואָ֛ב מַלְאָכִ֖ים אֶל־דָּוִ֑ד וַ_יֹּ֨אמֶר֙_ נִלְחַ֣מְתִּי בְרַבָּ֔ה גַּם־לָכַ֖דְתִּי אֶת־עִ֥יר הַמָּֽיִם׃ (II Sam. 12:27)
+NIV	Joab then sent messengers to David, _saying_, “I have fought against Rabbah and taken its water supply.
+ESV	And Joab sent messengers to David and _said_, “I have fought against Rabbah. moreover, I have taken the city of waters.
+
+(x)	וְאָמְר֗וּ עַל֩ אֲשֶׁ֨ר עָזְב֜וּ אֶת־יְהוָ֣ה אֱלֹהֵיהֶ֗ם אֲשֶׁ֨ר הֹוצִ֣יא אֶת־אֲבֹתָם֮ מֵאֶ֣רֶץ מִצְרַיִם֒ וַֽיַּחֲזִ֨קוּ֙ בֵּאלֹהִ֣ים אֲחֵרִ֔ים וַיִּשְׁתַּחֲו֥וּ לָהֶ֖ם וַ_יַּעַבְדֻ֑ם_ עַל־כֵּ֗ן הֵבִ֤יא יְהוָה֙ עֲלֵיהֶ֔ם אֵ֥ת כָּל־הָרָעָ֖ה הַזֹּֽאת׃ פ (I Kgs. 9:9)
+NIV	People will answer, ‘Because they have forsaken the LORD their God, who brought their fathers out of Egypt, and have embraced other gods, worshipping and _serving_ them — that is why the LORD brought all this disaster on them.’”
+ESV	Then they will say, ‘Because they abandoned the Lord their God who brought their fathers out of the land of Egypt and laid hold on other gods and worshiped them and _served_ them. Therefore the Lord has brought all this disaster on them.’”
+
+(x)	וְהֽוּא־הָלַ֤ךְ בַּמִּדְבָּר֙ דֶּ֣רֶךְ יֹ֔ום וַיָּבֹ֕א וַיֵּ֕שֶׁב תַּ֖חַת רֹ֣תֶם אֶחָ֑ד וַיִּשְׁאַ֤ל אֶת־נַפְשֹׁו֙ לָמ֔וּת וַ_יֹּ֣אמֶר_׀ רַ֗ב עַתָּ֤ה יְהוָה֙ קַ֣ח נַפְשִׁ֔י כִּֽי־לֹא־טֹ֥וב אָנֹכִ֖י מֵאֲבֹתָֽי׃ (I Kgs. 19:4)
+NIV	while he himself went a day’s journey into the desert. He came to a broom tree, sat down under it and prayed that he might die. “I have had enough, LORD,” _he said_. “Take my life. I am no better than my ancestors.”
+ESV	But he himself went a day’s journey into the wilderness and came and sat down under a broom tree. And he asked that he might die, _saying_, “It is enough. now, O Lord, take away my life, for I am no better than my fathers.”
+
+(x)	וַיֵּצֵא֙ אֶל־מֹוצָ֣א הַמַּ֔יִם וַיַּשְׁלֶךְ־שָׁ֖ם מֶ֑לַח וַ_יֹּ֜אמֶר_ כֹּֽה־אָמַ֣ר יְהוָ֗ה רִפִּ֨אתִי֙ לַמַּ֣יִם הָאֵ֔לֶּה לֹֽא־יִהְיֶ֥ה מִשָּׁ֛ם עֹ֖וד מָ֥וֶת וּמְשַׁכָּֽלֶת׃ (II Kgs. 2:21)
+NIV	Then he went out to the spring and threw the salt into it, _saying_, “This is what the LORD says: ‘I have healed this water. Never again will it cause death or make the land unproductive.’”
+ESV	Then he went to the spring of water and threw salt in it and _said_, “Thus says the Lord, I have healed this water. from now on neither death nor miscarriage shall come from it.”
+
+(x)	וַאֲחַזְיָ֤ה מֶֽלֶךְ־יְהוּדָה֙ רָאָ֔ה וַיָּ֕נָס דֶּ֖רֶךְ בֵּ֣ית הַגָּ֑ן וַיִּרְדֹּ֨ף אַחֲרָ֜יו יֵה֗וּא וַ֠_יֹּאמֶר_ גַּם־אֹתֹ֞ו הַכֻּ֣הוּ אֶל־הַמֶּרְכָּבָ֗ה בְּמַֽעֲלֵה־גוּר֙ אֲשֶׁ֣ר אֶֽת־יִבְלְעָ֔ם וַיָּ֥נָס מְגִדֹּ֖ו וַיָּ֥מָת שָֽׁם׃ (II Kgs. 9:27)
+NIV	When Ahaziah king of Judah saw what had happened, he fled up the road to Beth Haggan. Jehu chased him, _shouting_, “Kill him too!” They wounded him in his chariot on the way up to Gur near Ibleam, but he escaped to Megiddo and died there.
+ESV	When Ahaziah the king of Judah saw this, he fled in the direction of Beth-haggan. And Jehu pursued him and _said_, “Shoot him also.” And they shot him in the chariot at the ascent of Gur, which is by Ibleam. And he fled to Megiddo and died there.
+
+(x)	וַיִּשְׁמַ֤ע אֵלָיו֙ מֶ֣לֶךְ אַשּׁ֔וּר וַיַּעַל֩ מֶ֨לֶךְ אַשּׁ֤וּר אֶל־דַּמֶּ֨שֶׂק֙ וַֽיִּתְפְּשֶׂ֔הָ וַ_יַּגְלֶ֖הָ_ קִ֑ירָה וְאֶת־רְצִ֖ין הֵמִֽית׃ (II Kgs. 16:9)
+NIV	The king of Assyria complied by attacking Damascus and capturing it. _He deported_ its inhabitants to Kir and put Rezin to death.
+ESV	And the king of Assyria listened to him. The king of Assyria marched up against Damascus and took it, carrying its people captive to Kir, and he killed Rezin.
+
+(x)	וַיָּקָם֩ יִשְׁמָעֵ֨אל בֶּן־נְתַנְיָ֜ה וַעֲשֶׂ֥רֶת הָאֲנָשִׁ֣ים׀ אֲשֶׁר־הָי֣וּ אִתֹּ֗ו וַ֠יַּכּוּ אֶת־גְּדַלְיָ֨הוּ בֶן־אֲחִיקָ֧ם בֶּן־שָׁפָ֛ן בַּחֶ֖רֶב וַ_יָּ֣מֶת_ אֹתֹ֑ו אֲשֶׁר־הִפְקִ֥יד מֶֽלֶךְ־בָּבֶ֖ל בָּאָֽרֶץ׃ (Jer. 41:2)
+NIV	Ishmael son of Nethaniah and the ten men who were with him got up and struck down Gedaliah son of Ahikam, the son of Shaphan, with the sword, _killing_ the one whom the king of Babylon had appointed as governor over the land.
+ESV	Ishmael the son of Nethaniah and the ten men with him rose up and struck down Gedaliah the son of Ahikam, son of Shaphan, with the sword, and _killed_ him, whom the king of Babylon had appointed governor in the land.
+
+(x)	וַ_יֹּ֗אמֶר_ קָ֠רָאתִי מִצָּ֥רָה לִ֛י אֶל־יְהוָ֖ה וַֽיַּעֲנֵ֑נִי מִבֶּ֧טֶן שְׁאֹ֛ול שִׁוַּ֖עְתִּי שָׁמַ֥עְתָּ קֹולִֽי׃ (Jonah 2:3)
+NIV	_He said_: “In my distress I called to the LORD, and he answered me. From the depths of the grave I called for help, and you listened to my cry.
+ESV	_saying_, “I called out to the Lord, out of my distress, and he answered me. out of the belly of Sheol I cried, and you heard my voice.
+
+(x)	אַחַ֣ר׀ הַדְּבָרִ֣ים הָאֵ֗לֶּה גִּדַּל֩ הַמֶּ֨לֶךְ אֲחַשְׁוֵרֹ֜ושׁ אֶת־הָמָ֧ן בֶּֽן־הַמְּדָ֛תָא הָאֲגָגִ֖י וַֽ_יְנַשְּׂאֵ֑הוּ_ וַיָּ֨שֶׂם֙ אֶת־כִּסְאֹ֔ו מֵעַ֕ל כָּל־הַשָּׂרִ֖ים אֲשֶׁ֥ר אִתֹּֽו׃ (Esth. 3:1)
+NIV	After these events, King Xerxes honoured Haman son of Hammedatha, the Agagite, _elevating_ him and giving him a seat of honour higher than that of all the other nobles.
+ESV	After these things King Ahasuerus promoted Haman the Agagite, the son of Hammedatha, and _advanced_ him and set his throne above all the officials who were with him.
+
+(x)	וַיְהִ֗י בִּרְאֹתִ֛י אֲנִ֥י דָנִיֵּ֖אל אֶת־הֶחָזֹ֑ון וָ_אֲבַקְשָׁ֣ה_ בִינָ֔ה וְהִנֵּ֛ה עֹמֵ֥ד לְנֶגְדִּ֖י כְּמַרְאֵה־גָֽבֶר׃ (Dan. 8:15)
+NIV	While I, Daniel, was watching the vision and _trying_ to understand it, there before me stood one who looked like a man.
+ESV	When I, Daniel, had seen the vision, _I sought_ to understand it. And behold, there stood before me one having the appearance of a man.
+
+(x)	וָֽאַעֲמִ֞יד מִֽתַּחְתִּיֹּ֧ות לַמָּקֹ֛ום מֵאַחֲרֵ֥י לַחֹומָ֖ה בַּצְּחִיחִ֑ים וָֽ_אַעֲמִ֤יד_ אֶת־הָעָם֙ לְמִשְׁפָּחֹ֔ות עִם־חַרְבֹתֵיהֶ֛ם רָמְחֵיהֶ֖ם וְקַשְּׁתֹתֵיהֶֽם׃ (Neh. 4:7)
+NIV	Therefore I stationed some of the people behind the lowest points of the wall at the exposed places, _posting_ them by families, with their swords, spears and bows.
+ESV	So in the lowest parts of the space behind the wall, in open places, _I stationed_ the people by their clans, with their swords, their spears, and their bows.
+
+(x)	וַיֹּוצֵא֩ יְהֹויָדָ֨ע הַכֹּהֵ֜ן אֶת־שָׂרֵ֥י הַמֵּאֹ֣ות׀ פְּקוּדֵ֣י הַחַ֗יִל וַ_יֹּ֤אמֶר_ אֲלֵהֶם֙ הֹֽוצִיא֨וּהָ֙ אֶל־מִבֵּ֣ית הַשְּׂדֵרֹ֔ות וְהַבָּ֥א אַחֲרֶ֖יהָ יוּמַ֣ת בֶּחָ֑רֶב כִּ֚י אָמַ֣ר הַכֹּהֵ֔ן לֹ֥א תְמִית֖וּהָ בֵּ֥ית יְהוָֽה׃ (II Chr. 23:14)
+NIV	Jehoiada the priest sent out the commanders of units of a hundred, who were in charge of the troops, and _said_ to them: “Bring her out between the ranks and put to the sword anyone who follows her.” For the priest had _said_, “Do not put her to death at the temple of the LORD.”
+ESV	Then Jehoiada the priest brought out the captains who were set over the army, _saying_ to them, “Bring her out between the ranks, and anyone who follows her is to be put to death with the sword.” For the priest said, “Do not put her to death in the house of the Lord.”
+
+(x)	גַּ֠ם כָּל־שָׂרֵ֨י הַכֹּהֲנִ֤ים וְהָעָם֙ הִרְבּ֣וּ לִמְעָל־מַ֔עַל כְּכֹ֖ל תֹּעֲבֹ֣ות הַגֹּויִ֑ם וַֽ_יְטַמְּאוּ֙_ אֶת־בֵּ֣ית יְהוָ֔ה אֲשֶׁ֥ר הִקְדִּ֖ישׁ בִּירוּשָׁלִָֽם׃ (II Chr. 36:14)
+NIV	Furthermore, all the leaders of the priests and the people became more and more unfaithful, following all the detestable practices of the nations and _defiling_ the temple of the LORD, which he had consecrated in Jerusalem.
+ESV	All the officers of the priests and the people likewise were exceedingly unfaithful, following all the abominations of the nations. And _they polluted_ the house of the Lord that he had made holy in Jerusalem.

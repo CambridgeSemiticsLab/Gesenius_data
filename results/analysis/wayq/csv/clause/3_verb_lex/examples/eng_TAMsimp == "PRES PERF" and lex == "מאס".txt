@@ -1,0 +1,18 @@
+eng_TAMsimp == "PRES PERF" and lex == "מאס"
+4 of 4
+
+(x)	כִּ֤י חַטַּאת־קֶ֨סֶם֙ מֶ֔רִי וְאָ֥וֶן וּתְרָפִ֖ים הַפְצַ֑ר יַ֗עַן מָאַ֨סְתָּ֙ אֶת־דְּבַ֣ר יְהוָ֔ה וַ_יִּמְאָסְךָ֖_ מִמֶּֽלֶךְ׃ ס (I Sam. 15:23)
+NIV	For rebellion is like the sin of divination, and arrogance like the evil of idolatry. Because you have rejected the word of the LORD, _he has rejected_ you as king.”
+ESV	For rebellion is as the sin of divination, and presumption is as iniquity and idolatry. Because you have rejected the word of the Lord, he has also rejected you from being king.”
+
+(x)	וַיֹּ֤אמֶר שְׁמוּאֵל֙ אֶל־שָׁא֔וּל לֹ֥א אָשׁ֖וּב עִמָּ֑ךְ כִּ֤י מָאַ֨סְתָּה֙ אֶת־דְּבַ֣ר יְהוָ֔ה וַ_יִּמְאָסְךָ֣_ יְהוָ֔ה מִהְיֹ֥ות מֶ֖לֶךְ עַל־יִשְׂרָאֵֽל׃ ס (I Sam. 15:26)
+NIV	But Samuel said to him, “I will not go back with you. You have rejected the word of the LORD, and the LORD _has rejected_ you as king over Israel!”
+ESV	And Samuel said to Saul, “I will not return with you. For you have rejected the word of the Lord, and the Lord _has rejected_ you from being king over Israel.”
+
+(x)	שִׁמְעִ֣י הָאָ֔רֶץ הִנֵּ֨ה אָנֹכִ֜י מֵבִ֥יא רָעָ֛ה אֶל־הָעָ֥ם הַזֶּ֖ה פְּרִ֣י מַחְשְׁבֹותָ֑ם כִּ֤י עַל־דְּבָרַי֙ לֹ֣א הִקְשִׁ֔יבוּ וְתֹורָתִ֖י וַ_יִּמְאֲסוּ_־בָֽהּ׃ (Jer. 6:19)
+NIV	Hear, O earth: I am bringing disaster on this people, the fruit of their schemes, because they have not listened to my words and _have rejected_ my law.
+ESV	Hear, O earth. behold, I am bringing disaster upon this people, the fruit of their devices, because they have not paid attention to my words. and as for my law, _they have rejected_ it.
+
+(x)	הֲלֹ֣וא רָאִ֗יתָ מָֽה־הָעָ֤ם הַזֶּה֙ דִּבְּר֣וּ לֵאמֹ֔ר שְׁתֵּ֣י הַמִּשְׁפָּחֹ֗ות אֲשֶׁ֨ר בָּחַ֧ר יְהוָ֛ה בָּהֶ֖ם וַ_יִּמְאָסֵ֑ם_ וְאֶת־עַמִּי֙ יִנְאָצ֔וּן מִֽהְיֹ֥ות עֹ֖וד גֹּ֥וי לִפְנֵיהֶֽם׃ ס (Jer. 33:24)
+NIV	“Have you not noticed that these people are saying, ‘The LORD _has rejected_ the two kingdoms he chose’? So they despise my people and no longer regard them as a nation.
+ESV	“Have you not observed that these people are saying, ‘The Lord _has rejected_ the two clans that he chose’? Thus they have despised my people so that they are no longer a nation in their sight.

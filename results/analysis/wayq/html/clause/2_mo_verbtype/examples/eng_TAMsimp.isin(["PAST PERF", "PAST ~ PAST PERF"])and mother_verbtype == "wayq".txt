@@ -1,0 +1,102 @@
+eng_TAMsimp.isin(["PAST PERF", "PAST ~ PAST PERF"])and mother_verbtype == "wayq"
+25 of 173
+
+(x)	וַיְכֻלּ֛וּ הַשָּׁמַ֥יִם וְהָאָ֖רֶץ וְכָל־צְבָאָֽם׃ וַ_יְכַ֤ל_ אֱלֹהִים֙ בַּיֹּ֣ום הַשְּׁבִיעִ֔י מְלַאכְתֹּ֖ו (Gen. 2:2)
+NIV	By the seventh day God _had finished_ the work he had been doing. so on the seventh day he rested from all his work.
+ESV	And on the seventh day God _finished_ his work that he had done, and he rested on the seventh day from all his work that he had done.
+
+(x)	וַֽיְחִ֣י מַֽהֲלַלְאֵ֔ל חָמֵ֥שׁ שָׁנִ֖ים וְשִׁשִּׁ֣ים שָׁנָ֑ה וַֽ_יְחִי_־יֶ֕רֶד שְׁתַּ֧יִם וְשִׁשִּׁ֛ים שָׁנָ֖ה וּמְאַ֣ת שָׁנָ֑ה (Gen. 5:18)
+NIV	When Jared _had lived_ 162 years, he became the father of Enoch.
+ESV	When Jared _had lived_ 162 years he fathered Enoch.
+
+(x)	וַֽ_יְחִי_־שֶׁ֗לַח וַֽ_יְחִי_־עֵ֕בֶר אַרְבַּ֥ע וּשְׁלֹשִׁ֖ים שָׁנָ֑ה (Gen. 11:16)
+NIV	When Eber _had lived_ 34 years, he became the father of Peleg.
+ESV	When Eber _had lived_ 34 years, he fathered Peleg.
+
+(x)	וַ_יִּכְרְת֥וּ_ שְׁנֵיהֶ֖ם בְּרִֽית׃ וַ_יִּכְרְת֥וּ_ בְרִ֖ית בִּבְאֵ֣ר שָׁ֑בַע (Gen. 21:32)
+NIV	After the treaty _had been made_ at Beersheba, Abimelech and Phicol the commander of his forces returned to the land of the Philistines.
+ESV	So _they made_ a covenant at Beersheba. Then Abimelech and Phicol the commander of his army rose up and returned to the land of the Philistines.
+
+(x)	וַתָּ֖מָת בַּת־שׁ֣וּעַ אֵֽשֶׁת־יְהוּדָ֑ה וַ_יִּנָּ֣חֶם_ יְהוּדָ֗ה (Gen. 38:12)
+NIV	After a long time Judah’s wife, the daughter of Shua, died. When Judah _had recovered from his grief_, he went up to Timnah, to the men who were shearing his sheep, and his friend Hirah the Adullamite went with him.
+ESV	In the course of time the wife of Judah, Shua’s daughter, died. When Judah _was comforted_, he went up to Timnah to his sheepshearers, he and his friend Hirah the Adullamite.
+
+(x)	וַיֹּ֨אמֶר יֹוסֵ֧ף אֶל־אֶחָ֛יו וַ_יִּגָּ֑שׁוּ_ (Gen. 45:4)
+NIV	Then Joseph said to his brothers, “Come close to me.” When _they had done_ so, he said, “I am your brother Joseph, the one you sold into Egypt!
+ESV	So Joseph said to his brothers, “Come near to me, please.” And _they came near_. And he said, “I am your brother, Joseph, whom you sold into Egypt.
+
+(x)	וַ֠יֵּהָפֵךְ לְבַ֨ב פַּרְעֹ֤ה וַעֲבָדָיו֙ אֶל־הָעָ֔ם וַ_יֶּאְסֹ֖ר_ אֶת־רִכְבֹּ֑ו (Exod. 14:6)
+NIV	So he had his chariot made ready and took his army with him.
+ESV	So _he made ready_ his chariot and took his army with him,
+
+(x)	וַיְקַדֵּ֤שׁ אֹתֹו֙ וְאֶת־כָּל־כֵּלָ֔יו וְאֶת־הַמִּזְבֵּ֖חַ וְאֶת־כָּל־כֵּלָ֑יו וַ_יִּמְשָׁחֵ֖ם_ (Num. 7:1)
+NIV	When Moses finished setting up the tabernacle, he anointed it and consecrated it and all its furnishings. He also anointed and consecrated the altar and all its utensils.
+ESV	On the day when Moses had finished setting up the tabernacle and _had anointed_ and consecrated it with all its furnishings and _had anointed_ and consecrated the altar with all its utensils,
+
+(x)	וַיִּשְׁלַח֙ מֶ֣לֶךְ יְרִיחֹ֔ו אֶל־רָחָ֖ב וַ_תִּקַּ֧ח_ הָֽאִשָּׁ֛ה אֶת־שְׁנֵ֥י הָאֲנָשִׁ֖ים (Josh. 2:4)
+NIV	But the woman _had taken_ the two men and hidden them. She said, “Yes, the men came to me, but I did not know where they had come from.
+ESV	But the woman _had taken_ the two men and hidden them. And she said, “True, the men came to me, but I did not know where they were from.
+
+(x)	וַיְהִ֣י וַֽ_יִּפְּל֥וּ_ כֻלָּ֛ם לְפִי־חֶ֖רֶב (Josh. 8:24)
+NIV	When Israel had finished killing all the men of Ai in the fields and in the desert where they had chased them, and when every one of them _had been put_ to the sword, all the Israelites returned to Ai and killed those who were in it.
+ESV	When Israel had finished killing all the inhabitants of Ai in the open wilderness where they pursued them, and all of them to the very last _had fallen_ by the edge of the sword, all Israel returned to Ai and struck it down with the edge of the sword.
+
+(x)	וַיִּֽחַר־אַ֥ף יְהוָ֖ה בְּיִשְׂרָאֵ֑ל וַ_יַּנַּ֤ח_ יְהוָה֙ אֶת־הַגֹּויִ֣ם הָאֵ֔לֶּה (Judg. 2:23)
+NIV	The LORD had allowed those nations to remain. he did not drive them out at once by giving them into the hands of Joshua.
+ESV	So the Lord _left_ those nations, not driving them out quickly, and he did not give them into the hand of Joshua.
+
+(x)	וַתֵּ֤לֶךְ מֵֽאִתֹּו֙ אֶל־בֵּ֣ית אָבִ֔יהָ אֶל־בֵּ֥ית לֶ֖חֶם יְהוּדָ֑ה וַ_תְּהִי_־שָׁ֕ם יָמִ֖ים אַרְבָּעָ֥ה חֳדָשִֽׁים׃ (Judg. 19:2)
+NIV	But she was unfaithful to him. She left him and went back to her father’s house in Bethlehem, Judah. After _she had been_ there for four months,
+ESV	And his concubine _was_ unfaithful to him, and she went away from him to her father’s house at Bethlehem in Judah, and _was_ there some four months.
+
+(x)	וַיֹּ֧ושַׁע יְהוָ֛ה בַּיֹּ֥ום הַה֖וּא אֶת־יִשְׂרָאֵ֑ל וַ_יַּכּ֞וּ_ בַּיֹּ֤ום הַהוּא֙ בַּפְּלִשְׁתִּ֔ים מִמִּכְמָ֖שׂ אַיָּלֹ֑נָה (I Sam. 14:31)
+NIV	That day, after _the Israelites had struck down_ the Philistines from Michmash to Aijalon, they were exhausted.
+ESV	_They struck down_ the Philistines that day from Michmash to Aijalon. And the people were very faint.
+
+(x)	וַיַּ֨עַל דָּוִ֥ד עֹלֹ֛ות לִפְנֵ֥י יְהוָ֖ה וּשְׁלָמִֽים׃ וַ_יְכַ֣ל_ דָּוִ֔ד (II Sam. 6:18)
+NIV	After he _had finished_ sacrificing the burnt offerings and fellowship offerings, he blessed the people in the name of the LORD Almighty.
+ESV	And when David _had finished_ offering the burnt offerings and the peace offerings, he blessed the people in the name of the Lord of hosts
+
+(x)	וַיִּשְׁלַ֤ח יֹואָב֙ תְּקֹ֔ועָה וַ_יִּקַּ֥ח_ מִשָּׁ֖ם אִשָּׁ֣ה חֲכָמָ֑ה (II Sam. 14:2)
+NIV	So Joab sent someone to Tekoa and had a wise woman brought from there. He said to her, “Pretend you are in mourning. Dress in mourning clothes, and don’t use any cosmetic lotions. Act like a woman who has spent many days grieving for the dead.
+ESV	And Joab sent to Tekoa and _brought_ from there a wise woman and said to her, “Pretend to be a mourner and put on mourning garments. Do not anoint yourself with oil, but behave like a woman who has been mourning many days for the dead.
+
+(x)	וַיִּשְׂרְפָ֣הּ בָּאֵ֔שׁ וַֽ_יִּתְּנָהּ֙_ שִׁלֻּחִ֔ים לְבִתֹּ֖ו אֵ֥שֶׁת שְׁלֹמֹֽה׃ (I Kgs. 9:16)
+NIV	( Pharaoh king of Egypt had attacked and captured Gezer. He had set it on fire. He killed its Canaanite inhabitants and then _gave_ it as a wedding gift to his daughter, Solomon’s wife.
+ESV	( Pharaoh king of Egypt had gone up and captured Gezer and burned it with fire, and had killed the Canaanites who lived in the city, and _had given_ it as dowry to his daughter, Solomon’s wife.
+
+(x)	וַיֵּ֛רֶד יְהֹושָׁפָ֥ט מֶֽלֶךְ־יְהוּדָ֖ה אֶל־מֶ֥לֶךְ יִשְׂרָאֵֽל׃ וַ_יֹּ֤אמֶר_ מֶֽלֶךְ־יִשְׂרָאֵל֙ אֶל־עֲבָדָ֔יו (I Kgs. 22:3)
+NIV	The king of Israel _had said_ to his officials, “Don’t you know that Ramoth Gilead belongs to us and yet we are doing nothing to retake it from the king of Aram?”
+ESV	And the king of Israel _said_ to his servants, “Do you know that Ramoth-gilead belongs to us, and we keep quiet and do not take it out of the hand of the king of Syria?”
+
+(x)	וַיֹּ֨אמֶר֙ אֶל־הַנַּ֔עַר וַ_יִּשָּׂאֵ֔הוּ_ (II Kgs. 4:20)
+NIV	After the servant had lifted him up and carried him to his mother, the boy sat on her lap until noon, and then he died.
+ESV	And when _he had lifted_ him and brought him to his mother, the child sat on her lap till noon, and then he died.
+
+(x)	וַֽיְהִי־לֹ֤ו הֹושֵׁ֨עַ֙ עֶ֔בֶד וַ_יָּ֥שֶׁב_ לֹ֖ו מִנְחָֽה׃ (II Kgs. 17:3)
+NIV	Shalmaneser king of Assyria came up to attack Hoshea, who had been Shalmaneser’s vassal and _had paid_ him tribute.
+ESV	Against him came up Shalmaneser king of Assyria. And Hoshea became his vassal and _paid_ him tribute.
+
+(x)	וַיְצַוֶּ֣ה הַ֠מֶּלֶךְ אֶת־יְרַחְמְאֵ֨ל בֶּן־הַמֶּ֜לֶךְ וְאֶת־שְׂרָיָ֣הוּ בֶן־עַזְרִיאֵ֗ל וְאֶת־שֶֽׁלֶמְיָ֨הוּ֙ בֶּֽן־עַבְדְּאֵ֔ל וַ_יַּסְתִּרֵ֖ם_ יְהוָֽה׃ ס (Jer. 36:26)
+NIV	Instead, the king commanded Jerahmeel, a son of the king, Seraiah son of Azriel and Shelemiah son of Abdeel to arrest Baruch the scribe and Jeremiah the prophet. But the LORD _had hidden_ them.
+ESV	And the king commanded Jerahmeel the king’s son and Seraiah the son of Azriel and Shelemiah the son of Abdeel to seize Baruch the secretary and Jeremiah the prophet, but the Lord _hid_ them.
+
+(x)	וַתִּשְׁלַ֧ח מַלְאָכִ֛ים אֲלֵיהֶ֖ם כַּשְׂדִּֽימָה׃ וַ_תִּ֨טְמָא_־בָ֔ם (Ezek. 23:17)
+NIV	Then the Babylonians came to her, to the bed of love, and in their lust they defiled her. After _she had been defiled_ by them, she turned away from them in disgust.
+ESV	And the Babylonians came to her into the bed of love, and they defiled her with their whoring lust. And after _she was defiled_ by them, she turned from them in disgust.
+
+(x)	וַיַּעֲבִ֨ירוּ קֹ֜ול בִּיהוּדָ֣ה וִירֽוּשָׁלִַ֗ם לְכֹל֙ בְּנֵ֣י הַגֹּולָ֔ה וַ_יִּקָּבְצ֣וּ_ כָל־אַנְשֵֽׁי־יְהוּדָה֩ וּבִנְיָמִ֨ן׀ יְרוּשָׁלִַ֜ם לִשְׁלֹ֣שֶׁת הַיָּמִ֗ים (Ezra 10:9)
+NIV	Within the three days, all the men of Judah and Benjamin _had gathered_ in Jerusalem. And on the twentieth day of the ninth month, all the people were sitting in the square before the house of God, greatly distressed by the occasion and because of the rain.
+ESV	Then all the men of Judah and Benjamin _assembled_ at Jerusalem within the three days. It was the ninth month, on the twentieth day of the month. And all the people sat in the open square before the house of God, trembling because of this matter and because of the heavy rain.
+
+(x)	וַיֵּאָ֣סְפ֔וּ בְּנֵ֖י הַמְשֹׁרְרִ֑ים וַ_יִּֽטַּהֲר֔וּ_ הַכֹּהֲנִ֖ים וְהַלְוִיִּ֑ם (Neh. 12:30)
+NIV	When the priests and Levites _had purified themselves ceremonially_, they purified the people, the gates and the wall.
+ESV	And the priests and the Levites _purified themselves_, and they purified the people and the gates and the wall.
+
+(x)	וַיָּבֹ֨זּוּ֙ אֶת־כָּל־הֶ֣עָרִ֔ים וַ_יִּשְׁבּ֨וּ_ צֹ֤אן לָרֹב֙ וּגְמַלִּ֔ים (II Chr. 14:14)
+NIV	They also attacked the camps of the herdsmen and _carried off_ droves of sheep and goats and camels. Then they returned to Jerusalem.
+ESV	And they struck down the tents of those who had livestock and _carried away_ sheep in abundance and camels. Then they returned to Jerusalem.
+
+(x)	וַיָּ֣רֶם יֹאשִׁיָּ֣הוּ לִבְנֵ֪י הָעָ֟ם צֹ֞אן כְּבָשִׂ֣ים וּבְנֵֽי־עִזִּים֮ וַ_תִּכֹּ֖ון_ הָעֲבֹודָ֑ה (II Chr. 35:10)
+NIV	The service _was arranged_ and the priests stood in their places with the Levites in their divisions as the king had ordered.
+ESV	When the service _had been prepared_ for, the priests stood in their place, and the Levites in their divisions according to the king’s command.
